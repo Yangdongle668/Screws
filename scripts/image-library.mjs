@@ -37,13 +37,13 @@ const descriptions={
  'heat-treatment':'Heat-treatment furnace illustration with fasteners in a supported basket',
  'surface-treatment':'Rack electroplating illustration with immersed screws and side anodes',
  'post-processing':'Ultrasonic cleaning illustration with an immersed basket and external transducers',
- 'inspection':'CCD optical screw dimension inspection with a telecentric camera, glass disk and backlight',
+ 'inspection':'CCD inspection cabinet displaying non-standard shoulder screw dimensions and threaded-end checks',
 };
 const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
 export function catalogImage(slug,{hero=false,caption=false}={}){
  if(!imageSlugs.has(slug))throw new Error('No matching image brief: '+slug);
  const isProcess=processData.some(p=>p.slug===slug);
- const version=slug==='inspection'?'?v=ccd-20261029':'';
+ const version=slug==='inspection'?'?v=ccd-cabinet-label-v2-20261029':'';
  const img=`<img src="/images/${slug}.webp${version}" srcset="/images/${slug}-small.webp${version} 560w, /images/${slug}.webp${version} 1100w" sizes="${hero?'(max-width:760px) 90vw, 50vw':'(max-width:760px) 90vw, 33vw'}" width="1100" height="734" alt="${esc(descriptions[slug])}" ${hero?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
  const name=(isProcess?processData:productOptions).find(p=>p.slug===slug)?.name??slug;
  return `<figure class="catalog-image ${hero?'catalog-image-hero':''}">${img}${caption?`<figcaption>${esc(name)}</figcaption>`:''}</figure>`;
