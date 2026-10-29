@@ -1,0 +1,187 @@
+[
+  [
+    "shoulder-screws",
+    "product",
+    "One socket head shoulder screw: cylindrical hex socket head, long smooth large-diameter shoulder, short smaller-diameter threaded tip. Only tip is threaded. Smooth shoulder is the key feature."
+  ],
+  [
+    "security-screws",
+    "product",
+    "One button head tamper-resistant screw with a clearly visible SIX-LOBE recessed star drive and a cylindrical CENTER PIN standing in the recess. Three-quarter view biased toward head face, threads on shank. Recess must have exactly six rounded lobes and one central pin; no ordinary hex or Phillips."
+  ],
+  [
+    "hollow-screws",
+    "product",
+    "One threaded hollow bolt, hexagonal external wrench head and fully threaded shank. A continuous central AXIAL bore runs through head and threaded tip. Show two coordinated views of the SAME part: main oblique full part looking into the head bore, and a small side longitudinal cutaway revealing unobstructed bore through to tip. Cutaway is a clean engineering visualization, not a broken part. No side hole, no solid tip."
+  ],
+  [
+    "flange-screws",
+    "product",
+    "One external hex head bolt with a broad integral circular flange immediately under the hex head. Flange and head one solid piece, no separate washer. Threaded shank, smooth flat flange bearing face. Clearly show enlarged thin disk under head."
+  ],
+  [
+    "knurled-thumb-screws",
+    "product",
+    "One short manual thumb screw with wide cylindrical head, sharply defined diamond knurl on head circumference, plain flat top, and short smaller threaded shank. Show crisp crossed knurl texture; no hex head, no exaggerated spikes."
+  ],
+  [
+    "set-screws",
+    "product",
+    "Three small HEADLESS hex socket set screws placed parallel, differing only in end tip: cone point, short cylindrical dog point, flat point. All fully threaded cylinders with recessed hex socket at opposite end. No enlarged heads or washers. Camera clearly reveals socket ends and tip distinctions in arranged orientations."
+  ],
+  [
+    "t-slot-bolts",
+    "product",
+    "One T-slot bolt, a rectangular wide T-shaped hammer head perpendicular to a centered cylindrical threaded shank. Head a flat oblong rectangle with rounded corners, not hexagonal. View shows flat rectangular underside and vertical neck transition. No separate nut."
+  ],
+  [
+    "eye-bolts",
+    "product",
+    "One articulating eye bolt: straight threaded shank terminating in a thick flat round eye, bored circular pin hole through eye transverse to shank axis. Eye a flattened lug with a hole, NOT a wire loop. Machined shoulder transition, clearly visible hole and shank."
+  ],
+  [
+    "lifting-eye-bolts",
+    "product",
+    "One illustrative forged lifting eye bolt geometry: thick CLOSED circular ring with substantial section, integral raised shoulder collar and short threaded shank. Smooth rounded ring transition, open center clearly visible. No hook, no split ring, no load markings, no rating, no lifting in action. Distinct from flattened drilled lug."
+  ],
+  [
+    "u-bolts",
+    "product",
+    "One U-bolt: round-section rod bent into a clean symmetrical U, two parallel straight legs, external threads only at BOTH free ends. One continuous piece. No connecting crossbar, no nuts, no washer, no solid disk."
+  ],
+  [
+    "square-head-bolts",
+    "product",
+    "One bolt with a true SQUARE head showing four flat sides, chamfered square corners, smooth short neck and threaded cylindrical shank. The head must be square, not hexagonal or socket head."
+  ],
+  [
+    "carriage-bolts",
+    "product",
+    "One carriage bolt: smooth domed ROUND head with NO drive recess, clearly SQUARE neck directly under dome, round threaded shank below neck. Oblique underside view shows square neck very clearly. Distinct dome + square neck + round thread."
+  ],
+  [
+    "eccentric-screws",
+    "product",
+    "One machined eccentric adjustment screw in an engineering catalog visualization. Large circular disk head whose geometric center is visibly offset from the smaller shank axis; short smooth shank and threaded end. Two coordinated views, main side-oblique plus end-on inset clearly showing offset between head disk and shaft circle. No dimension text, no leader lines, no impossible bent shaft."
+  ],
+  [
+    "double-ended-studs",
+    "product",
+    "One straight double-ended stud with NO head: coarse larger thread on left end, plain smooth center section with small wrench flats, smaller fine thread on right end. Both ends visibly threaded, center unthreaded. Keep a single continuous straight axis."
+  ],
+  [
+    "fine-thread-screws",
+    "product",
+    "One fine pitch precision adjustment screw: cylindrical slotted head, long shank densely covered with very closely spaced fine regular helical threads. Include a small enlarged detail inset of closely spaced thread profile. Show genuinely fine pitch, no coarse wood screw threads, no numbers or dimension claims."
+  ],
+  [
+    "special-thread-profiles",
+    "product",
+    "Dimensionless longitudinal thread profile cross sections: symmetric flat-crest trapezoidal, asymmetric buttress load flank, and alternating tall/short high-low V-thread crests. Distinct rows with exact labels TRAPEZOIDAL, BUTTRESS, HIGH-LOW. No complete shafts or stacked rings. This replaces a rejected three-shaft image whose helix was ambiguous."
+  ],
+  [
+    "modified-tip-self-tapping-screws",
+    "product",
+    "One pan-head self-tapping screw with coarse threads and a clearly visible longitudinal CHIP-CUTTING SLOT through the last three threads near the tapered tip. Camera focuses on tip slot; head has simple cross recess. Not a drill-bit end, not an ordinary unmodified pointed screw."
+  ],
+  [
+    "reduced-shank-screws",
+    "product",
+    "One socket head reduced-shank bolt: cylindrical head, a long smooth WAISTED middle shank clearly smaller in diameter than the final threaded segment, short transition radius to threaded end. Key distinction is narrow plain center and wider threaded end, opposite to a standard shoulder screw. No cracks."
+  ],
+  [
+    "tapered-screws",
+    "product",
+    "One machined locating screw with cylindrical hex socket head, a long smooth CONICAL tapered shoulder narrowing gradually toward a short smaller threaded tip. Clear side-oblique view showing continuous cone slope and separate final threaded end. Not a pointed set screw and not a wood screw."
+  ],
+  [
+    "locating-pin-screws",
+    "product",
+    "One custom flanged screw with an integral small locating dowel projecting parallel to the main screw shank from the underside of the flange, OFFSET from central threaded shank. Underside oblique view shows ONE large central threaded shank and ONE small smooth offset parallel locating pin. Pin is integral, not floating, not a second threaded leg."
+  ],
+  [
+    "double-ended-shoulder-screws",
+    "product",
+    "One straight double-ended shoulder stud: LARGE smooth central cylindrical shoulder with two flat end faces, smaller diameter threaded ends protruding from BOTH ends. No head, no drive recess, no hex nut. Distinct large center, two smaller threaded ends."
+  ],
+  [
+    "cross-drilled-screws",
+    "product",
+    "One socket cap screw with ONE clearly visible transverse drilled hole passing sideways through cylindrical HEAD below the hex socket base. Rotate so both near-side hole and far-side exit are understandable; solid shank with external thread. Head hole is radial and perpendicular to shaft, not an axial bore."
+  ],
+  [
+    "multi-step-screws",
+    "product",
+    "One screw with small cylindrical hex socket head, THREE clearly distinct smooth cylindrical shoulder diameters in descending steps along one straight axis, and one short smaller threaded tip. Three smooth steps, thread only at tip, clean 90-degree shoulders with tiny radii."
+  ],
+  [
+    "custom-clinch-fasteners",
+    "product",
+    "One self-clinching threaded stud beside a small thin sheet-metal cutaway specimen showing the SAME stud pressed through sheet. Head is thin broad round flange with small serrated annular clinching teeth and a narrow undercut directly below flange, long male-threaded shank. Cutaway shows sheet material displaced into undercut beneath head. No nut, no welding, no impossible floating sheet."
+  ],
+  [
+    "custom-screws",
+    "product",
+    "A restrained assortment of exactly FOUR distinct custom metal fasteners on studio surface: one socket shoulder screw with smooth shoulder and threaded tip, one integral hex flange bolt, one diamond knurled thumb screw, and one hollow hex bolt with axial bore. Keep parts separated and different, coherent scale. All silver metal, no text."
+  ],
+  [
+    "captive-screws",
+    "product",
+    "Engineering catalog illustration of a captive panel screw in a small panel cutaway: knurled cylindrical head above panel, smooth narrowed neck through panel, short threaded end below, and a small retaining ring fitted into groove on neck below panel preventing withdrawal. Include a separate matching loose screw at side. Clearly show retainer engages groove, no floating parts, no unexplained self-retention."
+  ],
+  [
+    "special-head-screws",
+    "product",
+    "Three custom head geometry samples separated on studio surface: low broad slotted round head screw, cylindrical hex socket cap screw, and rectangular T-head bolt. Clearly different heads and plausible straight threaded shafts. No logos, no ratings, no image-grid borders."
+  ],
+  [
+    "cold-heading",
+    "process",
+    "Precise three-stage isometric technical visualization of COLD HEADING on silver wire stock, no heat glow: short cut cylindrical blank, punch driving blank into supported die cavity to upset a head, and ejected blank with broad head and smooth unthreaded shank. Show solid steel die block in clean cutaway and punch aligned coaxially. No lathe cutting tool, no sparks, no molten metal."
+  ],
+  [
+    "cnc-turning",
+    "process",
+    "Technically credible close-up cutaway visualization of CNC turning inside a clean machine. Cylindrical bar held securely in a three-jaw chuck, single-point carbide turning insert contacting outside diameter to cut a stepped shoulder, subtle silver curled chip at tool-work contact, tool holder rigid and supported. No drill incorrectly cutting sidewall, no sparks. Focus on bar removal rather than forming."
+  ],
+  [
+    "hot-forging",
+    "process",
+    "Technical visualization of hot forging a substantial eye-bolt blank between upper and lower shaped forging dies. Orange-red heated steel blank in lower die, upper die aligned above, plausible eye-shaped formed end and stock shank, some dark oxide scale. Small restrained warm glow, not liquid metal pouring, no giant sparks. No people or fake branded factory."
+  ],
+  [
+    "hybrid-manufacturing",
+    "process",
+    "Three-stage left-to-right technical visualization with clean separation: cold-headed silver blank with rough head and shoulder; SAME blank held in chuck being finish-turned by supported carbide insert at shoulder; finished part with clean shoulder and drilled radial hole. No text, coherent scale and geometry. Show forming stock + selective secondary machining distinction, not three unrelated finished screws."
+  ],
+  [
+    "threading",
+    "process",
+    "Technical cutaway of THREAD ROLLING: smooth cylindrical silver screw blank supported between two grooved cylindrical hardened-steel rolling dies, grooves aligned with emerging external screw thread. One smooth portion becomes regular threaded portion. Material displacement with NO cutting chip, no lathe insert, no drill. Show credible die contact and support. Clean educational engineering render."
+  ],
+  [
+    "secondary-machining",
+    "process",
+    "Precision radial cross-hole drilling operation on a shoulder screw securely clamped horizontally in a V-block fixture. Slender vertical twist drill aligned at right angle to shank, drill tip physically contacting supported smooth shoulder where the cross-hole is produced. One local machining action, tiny restrained chip, clear fixturing, no drill through threads or floating part."
+  ],
+  [
+    "heat-treatment",
+    "process",
+    "Technical visualization of a controlled-atmosphere heat-treatment furnace in clean cutaway, metal mesh basket of small steel fasteners resting INSIDE the furnace on a rack, warm red-orange interior heating elements surrounding basket with safe physical clearance. Exterior dark gray, some basket visible at door. No liquid plating tank, no operator hands, no explosion, no thermometer numbers or temperature claim."
+  ],
+  [
+    "surface-treatment",
+    "process",
+    "Technical cutaway visualization of electroplating fasteners: clean rectangular tank with translucent pale-blue bath, a conductive rack suspending several small screws fully immersed and connected to upper cathode bus, flat anode plates at sides, no electrical text, subtle metallic deposit effect. Rack is physically supported, no floating screws, no glowing furnace, no excessive bubbles or sparks."
+  ],
+  [
+    "post-processing",
+    "process",
+    "Technical cutaway visualization of ultrasonic cleaning: stainless rectangular cleaning tank, perforated stainless basket holding small screws immersed in clear pale-blue cleaning liquid, transducers attached OUTSIDE underneath tank bottom, subtle gentle ripple arcs visualizing ultrasound, no bubbles explosion. Clean parts cleaning process, NOT electroplating: no anode plates or electrical racks in bath."
+  ],
+  [
+    "inspection",
+    "process",
+    "Precise dimensional inspection technical visualization: one shoulder screw held in a supported V-block on a granite CMM table, slender touch-trigger probe with small red ruby sphere physically touching smooth shoulder side surface. Three-axis measurement head above, plausible probe clearance. No drill cutting, no invented measurement screen, no dimensions or certification text."
+  ]
+]
