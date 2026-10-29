@@ -1,0 +1,52 @@
+name: Validate ZUFEK website
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: validate-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  website:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      WRANGLER_SEND_METRICS: "false"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install dependencies
+        run: npm run install:ci
+      - name: Generate content
+        run: node scripts/generate-site.mjs
+      - name: Verify content and links
+        run: |
+          node scripts/verify-content.mjs
+          node scripts/verify-images.mjs
+          node scripts/verify-priorities.mjs
+          node scripts/audit-topology.mjs
+      - name: Type check
+        run: npx tsc --noEmit
+      - name: Build
+        run: npm run build
+  smtp-bridge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: smtp-bridge
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: smtp-bridge/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm test

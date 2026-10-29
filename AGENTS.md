@@ -1,0 +1,12 @@
+# ZUFEK 项目维护约定
+
+- 正式源码仓库：`https://github.com/Yangdongle668/Screws`，默认分支 `main`。
+- 先查看 Git 状态，保留用户修改。不要强制推送或更改仓库可见性。
+- 内容源在 `scripts/`。不要只改 `lib/generated-pages.json` 或 `static-site/`；修改源后运行 `node scripts/generate-site.mjs` 并提交生成结果。
+- 英文前台、中文后台。保持无 `.html` 后缀的网址、规范链接、相关主题内链和询盘入口。
+- 企业成立于 2005 年，位于东莞大朗，月产能约数百万件，受产品组合影响；含模具打样约 10–15 天，具体经技术评审和报价确认。
+- 汽车背景仅为相关车型零部件供应链项目，不扩写为直接 OEM 认可。应用示例不是客户交付案例，不虚构测试结果、认证、设备能力或工程师资历。
+- 不提交真实环境配置、凭据、询盘、附件、数据库、备份及 `node_modules`。生产数据独立备份。
+- 基础检查：`verify-content.mjs`、`verify-images.mjs`、`verify-priorities.mjs`、`audit-topology.mjs`、TypeScript 和构建。运行时测试仅使用本机地址和测试数据，不对生产运行修改性测试。
+- 发布使用已有 Sites 项目并遵循当前环境的 Sites 技能。保留 `.openai/hosting.json` 中的项目 ID、存储声明及原访问范围。推送 GitHub 不代表已经部署。
+- 独立部署需正确配置身份边界、D1、R2、密钥与 SMTP 网关。开发测试身份不能用于生产，不信任互联网直接传入的身份请求头。
