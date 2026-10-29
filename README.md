@@ -53,7 +53,46 @@ GitHub Actions 在推送和 PR 时执行基础检查与构建，不会自动部�
 
 ### 自建 Linux / Docker
 
-首次执行 `bash deploy.sh`，后续执行 `bash update.sh`；手动备份使用 `bash backup.sh`。包含独立后台登录、持久化数据库/图纸、HTTPS 和内置 SMTP 转接，详见 [Docker部署说明](docs/DOCKER.md)。
+服务器先准备 Docker Engine、Docker Compose v2、Git、Bash 和 `flock`；正式域名指向服务器并开放 80/443 端口。以下命令在服务器终端执行。
+
+**首次一键部署：**
+
+```bash
+git clone https://github.com/Yangdongle668/Screws.git
+cd Screws
+bash deploy.sh
+```
+
+按提示填写域名、后台账号和密码、证书邮箱及 SMTP 域名。首次构建完成后访问 `https://你的域名/admin/`。如果已经克隆仓库，直接进入现有目录运行脚本。
+
+**后续一键更新：**
+
+```bash
+cd Screws
+bash update.sh
+```
+
+脚本会拉取 GitHub 的 `main` 分支，构建新版，停写备份后切换服务并检查健康状态。保留询盘、图纸、后台文章及邮件配置；源码有未处理修改时会停止更新。备份与切换期间有短暂停机，失败处理详见部署说明。
+
+**一键备份：**
+
+```bash
+cd Screws
+bash backup.sh
+```
+
+备份保存在 `backups/`，包含敏感配置，需另存到安全位置。脚本暂停写入后备份，再恢复服务；未自动启用定时备份。
+
+**查看服务状态和日志：**
+
+```bash
+docker compose --env-file .env.docker ps
+docker compose --env-file .env.docker logs --tail=100 app https
+```
+
+以上命令均从仓库根目录执行；若已在该目录，不必重复 `cd Screws`。更新脚本已经负责拉取代码，无需先手动执行 `git pull`。运行数据在 `data/`，受保护配置在 `.env.docker`，不要删除或提交到 GitHub。现有 Sites 数据不会自动迁入 Docker。
+
+包含独立后台登录、持久化数据库/图纸、HTTPS 和内置 SMTP 转接。完整配置、恢复与故障处理见 [Docker部署说明](docs/DOCKER.md)。
 
 ### 保留原 Sites 托管
 
