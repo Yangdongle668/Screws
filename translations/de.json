@@ -3111,5 +3111,10 @@
   "Heat treatment — final condition": "Wärmebehandlung – Endzustand",
   "Surface treatment — finish options": "Oberflächenbehandlung – Beschichtungsvarianten",
   "Post-processing — clean and deburred": "Nachbearbeitung – gereinigt und entgratet",
-  "Inspection — dimensional review": "Prüfung – Maßkontrolle"
+  "Inspection — dimensional review": "Prüfung – Maßkontrolle",
+  "Custom screw types": "Sonderschrauben im Überblick",
+  "Previous screw type": "Vorheriger Schraubentyp",
+  "Next screw type": "Nächster Schraubentyp",
+  "Play automatic slides": "Automatischen Bildwechsel starten",
+  "Pause automatic slides": "Automatischen Bildwechsel pausieren"
 }

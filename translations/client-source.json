@@ -107,5 +107,7 @@
   "status = ?",
   "{count} matching product families",
   "{shown} of {total} matching articles",
-  "· Unpublished preview"
+  "· Unpublished preview",
+  "Play automatic slides",
+  "Pause automatic slides"
 ]

@@ -1,0 +1,6 @@
+import {catalogImage} from './image-library.mjs';
+export const homeScrewSlugs=['shoulder-screws','security-screws','hollow-screws','flange-screws','knurled-thumb-screws','set-screws'];
+export function homeScrewCarousel(){
+ const slides=homeScrewSlugs.map((slug,i)=>catalogImage(slug,{hero:i===0,caption:true}).replace(/class="catalog-image[^\"]*"/,`class="catalog-image hero-screw-slide ${i===0?'is-active':''}" aria-hidden="${i!==0}"`).replace(/(<img[^>]*>)/,`<a href="/products/${slug}/" tabindex="${i===0?'0':'-1'}">$1</a>`)).join('');
+ return `<div class="hero-screw-carousel" aria-roledescription="carousel" aria-label="Custom screw types"><div class="hero-screw-slides">${slides}</div><div class="hero-screw-controls"><button type="button" data-screw-prev aria-label="Previous screw type">‹</button><div class="hero-screw-dots">${homeScrewSlugs.map((_,i)=>`<button type="button" data-screw-slide="${i}" aria-label="${i+1} / ${homeScrewSlugs.length}" aria-pressed="${i===0}"></button>`).join('')}</div><button type="button" data-screw-next aria-label="Next screw type">›</button><button type="button" data-screw-pause data-play="Play automatic slides" data-pause="Pause automatic slides" aria-label="Pause automatic slides" aria-pressed="false">Ⅱ</button></div></div>`;
+}

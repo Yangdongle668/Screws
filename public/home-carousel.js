@@ -1,0 +1,9 @@
+(()=>{
+ const root=document.querySelector('.hero-screw-carousel');if(!root)return;const messages=JSON.parse(document.getElementById('locale-ui')?.textContent??'{}').messages??{};
+ const slides=[...root.querySelectorAll('.hero-screw-slide')],dots=[...root.querySelectorAll('[data-screw-slide]')],pause=root.querySelector('[data-screw-pause]'),reduced=matchMedia('(prefers-reduced-motion: reduce)');let current=0,paused=reduced.matches,timer;
+ const show=index=>{current=(index+slides.length)%slides.length;slides.forEach((s,i)=>{s.classList.toggle('is-active',i===current);s.setAttribute('aria-hidden',String(i!==current));s.querySelector('a').tabIndex=i===current?0:-1;});dots.forEach((d,i)=>d.setAttribute('aria-pressed',String(i===current)));};
+ const schedule=()=>{clearInterval(timer);if(!paused&&!document.hidden&&!reduced.matches)timer=setInterval(()=>show(current+1),4500);};
+ const updatePause=()=>{pause.textContent=paused?'▶':'Ⅱ';pause.setAttribute('aria-pressed',String(paused));pause.setAttribute('aria-label',messages[paused?pause.dataset.play:pause.dataset.pause]??(paused?pause.dataset.play:pause.dataset.pause));};
+ dots.forEach((d,i)=>d.addEventListener('click',()=>{show(i);schedule();}));root.querySelector('[data-screw-prev]').addEventListener('click',()=>{show(current-1);schedule();});root.querySelector('[data-screw-next]').addEventListener('click',()=>{show(current+1);schedule();});pause.addEventListener('click',()=>{paused=!paused;updatePause();schedule();});
+ root.addEventListener('pointerenter',()=>clearInterval(timer));root.addEventListener('pointerleave',schedule);root.addEventListener('focusin',()=>clearInterval(timer));root.addEventListener('focusout',schedule);document.addEventListener('visibilitychange',schedule);reduced.addEventListener('change',()=>{if(reduced.matches)paused=true;updatePause();schedule();});show(0);updatePause();schedule();
+})();

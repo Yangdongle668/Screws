@@ -3111,5 +3111,10 @@
   "Heat treatment — final condition": "Traitement thermique : état final",
   "Surface treatment — finish options": "Traitement de surface : finitions possibles",
   "Post-processing — clean and deburred": "Finition : nettoyage et ébavurage",
-  "Inspection — dimensional review": "Contrôle : vérification dimensionnelle"
+  "Inspection — dimensional review": "Contrôle : vérification dimensionnelle",
+  "Custom screw types": "Types de vis sur mesure",
+  "Previous screw type": "Type de vis précédent",
+  "Next screw type": "Type de vis suivant",
+  "Play automatic slides": "Démarrer le défilement automatique",
+  "Pause automatic slides": "Mettre en pause le défilement automatique"
 }

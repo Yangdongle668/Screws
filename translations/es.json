@@ -3111,5 +3111,10 @@
   "Heat treatment — final condition": "Tratamiento térmico: estado final",
   "Surface treatment — finish options": "Tratamiento superficial: opciones de acabado",
   "Post-processing — clean and deburred": "Posprocesado: limpieza y desbarbado",
-  "Inspection — dimensional review": "Inspección: control dimensional"
+  "Inspection — dimensional review": "Inspección: control dimensional",
+  "Custom screw types": "Tipos de tornillos a medida",
+  "Previous screw type": "Tipo de tornillo anterior",
+  "Next screw type": "Siguiente tipo de tornillo",
+  "Play automatic slides": "Iniciar cambio automático",
+  "Pause automatic slides": "Pausar cambio automático"
 }

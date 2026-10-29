@@ -3111,5 +3111,10 @@
   "Heat treatment — final condition": "Trattamento termico: stato finale",
   "Surface treatment — finish options": "Trattamento superficiale: finiture disponibili",
   "Post-processing — clean and deburred": "Finitura: pulizia e sbavatura",
-  "Inspection — dimensional review": "Controllo: verifica dimensionale"
+  "Inspection — dimensional review": "Controllo: verifica dimensionale",
+  "Custom screw types": "Tipi di viti su disegno",
+  "Previous screw type": "Tipo di vite precedente",
+  "Next screw type": "Tipo di vite successivo",
+  "Play automatic slides": "Avvia la rotazione automatica",
+  "Pause automatic slides": "Metti in pausa la rotazione automatica"
 }

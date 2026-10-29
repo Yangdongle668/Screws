@@ -3117,5 +3117,10 @@
   "Heat treatment — final condition": "热处理后的零件状态",
   "Surface treatment — finish options": "表面处理后的不同外观",
   "Post-processing — clean and deburred": "去毛刺与清洗后的细节",
-  "Inspection — dimensional review": "检测时的尺寸轮廓"
+  "Inspection — dimensional review": "检测时的尺寸轮廓",
+  "Custom screw types": "不同类型非标螺丝",
+  "Previous screw type": "上一种螺丝",
+  "Next screw type": "下一种螺丝",
+  "Play automatic slides": "开始自动切换",
+  "Pause automatic slides": "暂停自动切换"
 }
