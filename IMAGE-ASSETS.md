@@ -20,3 +20,9 @@ The special-thread image was revised to show clear longitudinal cross-section pr
 `node scripts/verify-images.mjs` checks 37 unique image hashes, 74 responsive files, correct detail-page mapping, existing image references, alt text, explicit image dimensions and illustration disclosure. Product images and all 10 process illustrations were visually reviewed in contact sheets; selected critical structures were also inspected individually.
 
 Public page output remains complete static HTML with clean URLs. Forms and protected management functionality are unchanged.
+
+## Latest presentation update
+- Inspection image replaced with a CCD optical system, and quality/process copy updated accordingly.
+- The visual-library page and resource link were removed; its previous URL redirects to /products/.
+- Public generation labels were removed at user request. Technical family names remain as captions; original provenance and prompts remain in project records.
+- Product images remain on matching product detail pages and catalog thumbnails; process images remain on matching process cards and detail pages.

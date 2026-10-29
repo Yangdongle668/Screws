@@ -37,12 +37,14 @@ const descriptions={
  'heat-treatment':'Heat-treatment furnace illustration with fasteners in a supported basket',
  'surface-treatment':'Rack electroplating illustration with immersed screws and side anodes',
  'post-processing':'Ultrasonic cleaning illustration with an immersed basket and external transducers',
- 'inspection':'Dimensional inspection illustration with a ruby CMM probe at a supported shoulder screw',
+ 'inspection':'CCD optical screw dimension inspection with a telecentric camera, glass disk and backlight',
 };
 const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
 export function catalogImage(slug,{hero=false,caption=false}={}){
  if(!imageSlugs.has(slug))throw new Error('No matching image brief: '+slug);
  const isProcess=processData.some(p=>p.slug===slug);
- const img=`<img src="/images/${slug}.webp" srcset="/images/${slug}-small.webp 560w, /images/${slug}.webp 1100w" sizes="${hero?'(max-width:760px) 90vw, 50vw':'(max-width:760px) 90vw, 33vw'}" width="1100" height="734" alt="${esc(descriptions[slug])}" ${hero?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
- return `<figure class="catalog-image ${hero?'catalog-image-hero':''}">${img}${caption?`<figcaption>${isProcess?'AI-generated process illustration · not a photograph of ZUFEK equipment':'AI-generated product-family illustration · final geometry follows the approved drawing'}</figcaption>`:''}</figure>`;
+ const version=slug==='inspection'?'?v=ccd-20261029':'';
+ const img=`<img src="/images/${slug}.webp${version}" srcset="/images/${slug}-small.webp${version} 560w, /images/${slug}.webp${version} 1100w" sizes="${hero?'(max-width:760px) 90vw, 50vw':'(max-width:760px) 90vw, 33vw'}" width="1100" height="734" alt="${esc(descriptions[slug])}" ${hero?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
+ const name=(isProcess?processData:productOptions).find(p=>p.slug===slug)?.name??slug;
+ return `<figure class="catalog-image ${hero?'catalog-image-hero':''}">${img}${caption?`<figcaption>${esc(name)}</figcaption>`:''}</figure>`;
 }

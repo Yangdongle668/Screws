@@ -11,13 +11,15 @@ for(const [slug,kind] of briefs){
  const metadata=await sharp(file).metadata();assert.equal(metadata.format,'webp');assert(metadata.width<=1100&&metadata.width>=1000);
  const smallMeta=await sharp(small).metadata();assert.equal(smallMeta.width,560);
  const hash=createHash('sha256').update(readFileSync(file)).digest('hex');assert(!hashes.has(hash),'Duplicate image '+slug);hashes.add(hash);
- const page=pages[`/${kind==='product'?'products':'capabilities'}/${slug}/`];assert(page,'Missing page '+slug);assert(page.includes(`/images/${slug}.webp`),'Wrong page image '+slug);assert(page.includes('AI-generated'),'Illustration disclosure missing '+slug);
+ const page=pages[`/${kind==='product'?'products':'capabilities'}/${slug}/`];assert(page,'Missing page '+slug);assert(page.includes(`/images/${slug}.webp`),'Wrong page image '+slug);assert(!page.includes('AI-generated'),'Removed generation wording remains on '+slug);
  totalBytes+=statSync(file).size+statSync(small).size;
 }
+assert(!pages['/resources/visual-library/'],'Removed gallery still generated');
 for(const [url,html] of Object.entries(pages)){
+ assert(!html.includes('AI-generated')&&!html.includes('/resources/visual-library/'),'Removed content remains on '+url);
  for(const m of html.matchAll(/<img[^>]+src="([^\"]+)"[^>]*>/g)){
-  assert(existsSync('public'+m[1]),url+' references missing '+m[1]);assert(/\balt="[^\"]+"/.test(m[0]),url+' image lacks alt text');assert(/width="\d+"/.test(m[0])&&/height="\d+"/.test(m[0]),url+' image lacks explicit dimensions');
+  assert(existsSync('public'+m[1].split('?')[0]),url+' references missing '+m[1]);assert(/\balt="[^\"]+"/.test(m[0]),url+' image lacks alt text');assert(/width="\d+"/.test(m[0])&&/height="\d+"/.test(m[0]),url+' image lacks explicit dimensions');
  }
  assert(!html.includes('<svg viewBox="0 0 640 420"'),url+' still uses generic screw illustration');
 }
-console.log(JSON.stringify({distinctImages:briefs.length,responsiveFiles:briefs.length*2,matchedDetailPages:true,altText:true,disclosures:true,allImageReferencesExist:true,totalImageBytes:totalBytes},null,2));
+console.log(JSON.stringify({distinctImages:briefs.length,responsiveFiles:briefs.length*2,matchedDetailPages:true,altText:true,customerFacingCopy:true,allImageReferencesExist:true,totalImageBytes:totalBytes},null,2));

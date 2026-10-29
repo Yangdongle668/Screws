@@ -182,6 +182,6 @@
   [
     "inspection",
     "process",
-    "Precise dimensional inspection technical visualization: one shoulder screw held in a supported V-block on a granite CMM table, slender touch-trigger probe with small red ruby sphere physically touching smooth shoulder side surface. Three-axis measurement head above, plausible probe clearance. No drill cutting, no invented measurement screen, no dimensions or certification text."
+    "CCD non-contact optical inspection of screws on a glass disk: horizontal telecentric camera aligned with screw side silhouette and opposing diffuse backlight, no contact probe. Accessible external dimensions are evaluated using calibrated image edges."
   ]
 ]

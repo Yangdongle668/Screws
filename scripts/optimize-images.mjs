@@ -12,5 +12,6 @@ for(const [slug,kind,brief] of briefs){
  if(input.startsWith('public/')){const target=`outputs/generated-images/${slug}.png`;if(existsSync(target))renameSync(target,`outputs/generated-images/${slug}-previous-${Date.now()}.png`);renameSync(input,target);}
  manifest.push({slug,kind,brief,width:metadata.width,height:metadata.height,full:`/images/${slug}.webp`,thumbnail:`/images/${slug}-small.webp`,provenance:'AI-generated illustrative visualization; not a dimensionally verified supplied part or factory photograph'});
 }
-writeFileSync('public/images/manifest.json',JSON.stringify(manifest,null,2));
+writeFileSync('outputs/generated-images/manifest.json',JSON.stringify(manifest,null,2));
+writeFileSync('public/images/manifest.json',JSON.stringify(manifest.map(({slug,kind,width,height,full,thumbnail})=>({slug,kind,width,height,full,thumbnail})),null,2));
 console.log(`Optimized ${manifest.length} images into responsive WebP pairs. Originals retained in outputs/generated-images.`);
