@@ -34,6 +34,7 @@ jobs:
           node scripts/verify-sector-images.mjs
           node scripts/verify-priorities.mjs
           node scripts/audit-topology.mjs
+          node scripts/audit-seo.mjs
       - name: Type check
         run: npx tsc --noEmit
       - name: Build

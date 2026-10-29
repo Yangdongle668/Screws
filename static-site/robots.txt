@@ -1,9 +1,19 @@
-# Public pages are available to search engines and AI search crawlers.
-# Crawl directives are not access controls; private data requires authentication.
+# ZUFEK crawl policy
+# Public content
 User-agent: *
 Allow: /
+
+# Private interfaces and non-content routes
 Disallow: /admin/
 Disallow: /api/
+Disallow: /auth/
 Disallow: /signin-with-chatgpt
+Disallow: /signout-with-chatgpt
 Disallow: /404/
-Sitemap: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap.xml
+Disallow: /*/404/
+
+# Sitemap is managed automatically below.
+# Crawl rules do not replace authentication.
+
+# Sitemap index
+Sitemap: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap_index.xml

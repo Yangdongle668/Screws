@@ -7,7 +7,7 @@ RUN cd smtp-bridge && npm ci --no-audit --no-fund
 COPY . .
 ARG PUBLIC_URL
 ENV PUBLIC_URL=${PUBLIC_URL} ZUFEK_DOCKER_BUILD=1
-RUN node docker/build.mjs --configure-only && node scripts/generate-site.mjs && node scripts/verify-content.mjs && node scripts/verify-multilingual.mjs && node scripts/verify-language-preference.mjs && node scripts/verify-images.mjs && node scripts/verify-sector-images.mjs && node scripts/verify-priorities.mjs && node docker/build.mjs
+RUN node docker/build.mjs --configure-only && node scripts/generate-site.mjs && node scripts/verify-content.mjs && node scripts/verify-multilingual.mjs && node scripts/verify-language-preference.mjs && node scripts/verify-images.mjs && node scripts/verify-sector-images.mjs && node scripts/verify-priorities.mjs && node scripts/audit-seo.mjs && node docker/build.mjs
 
 FROM node:24-alpine AS runtime
 WORKDIR /app

@@ -1,4 +1,4 @@
-import {sitemapResponse} from '../lib/sitemap-response';
+import {crawlResponse} from '../lib/seo/response';
 import handler from "vinext/server/fetch-handler";
 import { runWithConnectorBinding } from "../lib/connector-context";
 import type { ConnectorBinding } from "../lib/connector-contract.mjs";
@@ -26,7 +26,7 @@ const worker = {
       };
     }
     return runWithConnectorBinding(binding, async () => {
-      if(new URL(request.url).pathname==='/sitemap.xml')return sitemapResponse(request);
+      const crawl=await crawlResponse(request);if(crawl)return crawl;
       const response = await handler.fetch(request, env, ctx);
       const path = new URL(request.url).pathname;
       if ((path === '/api/inquiries' && response.ok) || path === '/api/admin/inquiries') {

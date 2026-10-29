@@ -1,0 +1,14 @@
+@namespace sm url(http://www.sitemaps.org/schemas/sitemap/0.9);
+@namespace image url(http://www.google.com/schemas/sitemap-image/1.1);
+@namespace xhtml url(http://www.w3.org/1999/xhtml);
+sm|sitemapindex,sm|urlset{display:block;margin:0;padding:36px 5%;font-family:Arial,sans-serif;color:#292d33;background:white}
+sm|sitemapindex::before{content:"ZUFEK · XML Sitemap Index — Readable links and tables: /sitemap";display:block;background:#0754a6;color:white;padding:28px;margin-bottom:32px;font-size:22px}
+sm|urlset::before{content:"ZUFEK · XML Sitemap — URL / Last modified / Language alternates / Images";display:block;background:#0754a6;color:white;padding:28px;margin-bottom:32px;font-size:20px}
+sm|sitemap,sm|url{display:block;padding:20px;border-bottom:1px solid #e2e7ec}
+sm|sitemap:nth-child(even),sm|url:nth-child(even){background:#f6f8fa}
+sm|loc{display:block;color:#0754a6;font-size:15px;overflow-wrap:anywhere;margin-bottom:8px}
+sm|lastmod{display:block;color:#687380;font-size:13px}
+sm|lastmod::before{content:"Last modified: "}
+image|image{display:block;font-size:12px;color:#687380;margin-top:8px}
+image|loc{display:block;overflow-wrap:anywhere}
+xhtml|link{display:none}

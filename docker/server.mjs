@@ -52,7 +52,7 @@ async function handle(request,clientIp){
  if(url.pathname.startsWith('/api/'))return new Response('Not found',{status:404});
  if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405});
  if(url.pathname==='/admin'||url.pathname.startsWith('/admin/')){if(!authenticated)return redirect('/auth/login');}
- if(url.pathname==='/sitemap.xml')return api.sitemapResponse(request);
+ const crawl=await api.crawlResponse(request);if(crawl)return crawl;
  let relative;try{relative=decodeURIComponent(url.pathname);}catch{return new Response('Bad path',{status:400});}
  if(relative.includes('\\')||relative.includes('\0')||relative.split('/').some(x=>x.startsWith('.')))return new Response('Not found',{status:404});
  const filename=path.resolve(publicRoot,'.'+relative);

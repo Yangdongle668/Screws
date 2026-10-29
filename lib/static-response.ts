@@ -3,7 +3,9 @@ import {articleCard,type Article} from './editorial-api';
 import pages from './runtime-pages.json';
 import {splitLocale,localePath,locales,localizedArticleHtml,updateLanguageLinks,baselineExists} from './i18n/runtime';
 import {sourceArticle} from './translation-api';
+import {crawlResponse} from './seo/response';
 export async function staticResponse(request:Request,path?:string){
+ const crawl=await crawlResponse(request);if(crawl)return crawl;
  const u=new URL(request.url),pathname=path??u.pathname;
  const normalized=pathname==='/'?'/':pathname.replace(/\/$/,'')+'/';
  const {locale,path:base}=splitLocale(normalized);
