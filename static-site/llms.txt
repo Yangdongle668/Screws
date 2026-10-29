@@ -18,14 +18,14 @@ HTML pages are the primary source. This is an optional content index, not a spec
 - [Robots directives](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/robots.txt)
 
 ## Company and sourcing
-- [Custom Metal Screws & Non-Standard Fasteners](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/): ZUFEK supplies custom metal screws and non-standard fasteners to drawing. Explore screw designs, technical guides and submit your RFQ.
+- [Custom Metal Screws Manufacturer in Dongguan, China](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/): ZUFEK manufactures drawing-defined metal screws in Dongguan since 2005. Explore products, materials and complete routes. Tooling and sampling typically 10–15 days, subject to review.
 - [About us — ZUFEK, Dongguan Custom Fasteners Since 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/about/): Founded in 2005 in Dalang, Dongguan, ZUFEK supplies custom metal screws for equipment and automotive component supply-chain projects.
 - [Request a Custom Screw Quote](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/request-a-quote/): Send ZUFEK your drawing, quantity and application requirements for a non-standard metal screw quotation.
 - [Theo Wan — ZUFEK Technical Editorial](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/authors/theo-wan/): Technical articles published under Theo Wan (万天恩), the editorial pen name for ZUFEK custom fastener guides.
 
 ## Products and product families
-- [Custom Screw & Special Fastener Product Range](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/): Explore shoulder, security, hollow, flange, thumb and set screws, special bolts, custom threads and compound fastener structures from ZUFEK.
-- [Custom Metal Screws to Drawing](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/custom-screws/): Non-standard screw designs with head, drive, thread and length requirements defined by your application. Send your drawing to ZUFEK for review.
+- [Custom Screw Products & Non-Standard Fastener Types](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/): Compare shoulder, security, hollow, flange, thumb, set and compound screw structures. Choose a product family, then review materials, manufacturing and acceptance.
+- [Custom Screws from Your Drawing — Tooling & Samples](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/custom-screws/): Develop a drawing-defined screw with ZUFEK: geometry review, process selection, tooling, samples and approval before repeat production.
 - [Shoulder & Step Screws to Drawing](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/shoulder-screws/): A head, a locating shoulder and a threaded section combine fastening with controlled spacing or movement. Discuss geometry, material, process and inspection requirements with ZUFEK.
 - [Captive Screws to Drawing](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/captive-screws/): Retention-oriented screw designs. Share the mating assembly so the retaining features can be reviewed together. Send your drawing to ZUFEK for review.
 - [Special Head Screws to Drawing](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/special-head-screws/): Alternative head and drive geometries for access, clearance and assembly requirements. Send your drawing to ZUFEK for review.
@@ -92,11 +92,17 @@ HTML pages are the primary source. This is an optional content index, not a spec
 - [Fluid Control & Pneumatic Equipment Custom Fasteners](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/fluid-control/): Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces.
 - [General Machinery & Equipment Custom Fasteners](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/general-machinery/): Special heads, studs and connection geometries for machine frames, brackets, custom linkages and equipment assemblies.
 
+## Illustrative application design studies
+- [Custom Fastener Application Design Studies](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/applications/): Follow two illustrative fastener projects from assembly requirements through product selection, material, manufacturing, sampling and approval.
+- [Automotive Module Enclosure: Custom Flange Screw Design Study](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/applications/automotive-module-enclosure/): An illustrative enclosure fastener project linking flange geometry, service access, material and coating review, manufacturing and sample acceptance.
+- [Automation Fixture: Shoulder Screw & Adjustment Design Study](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/applications/automation-pivot-fixture/): An illustrative pivot-fixture project connecting shoulder fits, axial stack, adjustment, route selection, CCD limits and sample approval.
+
 ## Quality and specification resources
 - [Custom Fastener Inspection & Quality Planning](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/quality/): Specify thread gauging, dimensional inspection, hardness, coating verification, functional tests and records for custom fasteners.
 - [Technical Resources for Custom Metal Screws](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/resources/): Practical custom screw design, procurement, material and quality resources from ZUFEK.
 - [Custom Screw RFQ Checklist](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/rfq-checklist/): Prepare your drawing, material, finish, quantity and inspection requirements using the ZUFEK custom screw RFQ checklist.
 - [Special Screw Drive & Security Recess Guide](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/drive-types/): Compare pin-in six-lobe, Y-type, pentalobe, spanner, triangular, square and combination screw drive specification requirements.
+- [Custom Screw Material & Strength Selection Workflow](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/material-strength-selection/): Compare material grade, finished strength, exposure, mating interfaces and inspection evidence before selecting a custom screw material.
 
 ## Technical articles
 - [Custom Screw Technical Blog](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/): Read drawing guides, procurement checklists and practical material and quality considerations for non-standard metal screws.

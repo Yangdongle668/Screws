@@ -1,5 +1,6 @@
 import {catalog,productOptions,processData} from './catalog.mjs';
 import {materialFamilies,industryFamilies} from './industry-material-content.mjs';
+import {expandPriorityArticles} from './priority-articles.mjs';
 
 const e=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
 const section=(h,p)=>`<section><h2>${e(h)}</h2>${p.map(t=>`<p>${e(t)}</p>`).join('')}</section>`;
@@ -81,16 +82,7 @@ const articleDecisions={
 };
 
 export function deepenArticles(articles){
- for(const a of articles){
-  const p=productOptions.find(p=>p.slug===a.product);if(!p)continue;
-  const focused=engineering[p.slug];
-  if(focused && !a.sections.some(([h])=>h==='Apply the guidance to the assembly')){
-   const index=/inspection|approval|quality|ccd/.test(a.slug)?focused.length-1:/drawing|fit|dimension/.test(a.slug)?1:0;
-   const [h,t]=focused[Math.min(index,focused.length-1)];
-   a.sections.push(['Apply the guidance to the assembly',h+'. '+t]);
-   if(articleDecisions[a.slug])a.sections.push(articleDecisions[a.slug]);
-  }
- }
+ expandPriorityArticles(articles);
 }
 
 export function contentDepth(url){

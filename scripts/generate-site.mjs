@@ -1,9 +1,11 @@
 import {buildTopicLinks} from './topic-links.mjs';
 import {contentDepth,deepenArticles} from './content-depth.mjs';
 import {writeLlmResources} from './llm-resources.mjs';
+import {priorityBody,priorityTitles,addSelectionGuide} from './priority-content.mjs';
+import {registerApplicationStudies} from './application-studies.mjs';
 import {registerAdmin} from './admin-content.mjs';
 import {registerPrivacy,privacyUI} from './privacy-content.mjs';
-import { mkdirSync, writeFileSync, copyFileSync, cpSync } from 'node:fs';
+import { mkdirSync, writeFileSync, copyFileSync, cpSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import {catalog,groups,productOptions,processData} from './catalog.mjs';
 import {registerExpanded} from './expanded-content.mjs';
@@ -14,7 +16,10 @@ import {processArticles} from './blog-expansion-processes.mjs';
 import {registerCompany} from './company-content.mjs';
 import {registerIndustriesMaterials,materialFamilies,industryFamilies} from './industry-material-content.mjs';
 
-const origin='https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site';
+const configuredOrigin=JSON.parse(readFileSync('site-content.config.json','utf8')).canonicalOrigin;
+const canonicalUrl=new URL(configuredOrigin);
+if(canonicalUrl.protocol!=='https:'||canonicalUrl.username||canonicalUrl.password||canonicalUrl.search||canonicalUrl.hash||canonicalUrl.pathname!=='/')throw new Error('canonicalOrigin must be an HTTPS origin without a path, credentials or query.');
+const origin=canonicalUrl.origin;
 const brand='ZUFEK';
 const email='engineer@zufek.com';
 const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
@@ -46,13 +51,15 @@ const heading=(eyebrow,title,desc)=>`<header class="page-heading"><small>${eyebr
 const catalogCards=items=>items.map(p=>'<a class="catalog-card" href="/products/'+p.slug+'/">'+catalogImage(p.slug)+'<small>'+groups[p.group].name+'</small><h3>'+p.name+' ↗</h3><p>'+p.desc+'</p></a>').join('');
 const pages={};
 function add(url,title,description,body,{schema=null,noindex=false}={}){
+ if(priorityTitles[url])[title,description]=priorityTitles[url];
+ body=priorityBody(url,body);
  const depth=contentDepth(url);if(depth)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',depth+'<section class="cta-band">'):body+depth;
  if(url.startsWith('/blog/')){const article=articles.find(a=>url==='/blog/'+a.slug+'/');if(article?.processes){const block='<section class="section muted"><h2>Related manufacturing topics</h2><div class="related-links">'+article.processes.map(slug=>'<a href="/capabilities/'+slug+'/">'+processData.find(p=>p.slug===slug).name+' ↗</a>').join('')+'</div>'+(article.sources?'<div class="technical-sources"><h3>Technical references</h3><ul>'+article.sources.map(([n,u])=>'<li><a href="'+u+'">'+n+'</a></li>').join('')+'</ul></div>':'')+'</section>';body=body.replace('<section class="cta-band">',block+'<section class="cta-band">');}}
  if(url==='/resources/'){body=body.replace('<section class="cta-band">','<section class="section"><h2>Explore the complete specification.</h2><div class="related-links"><a href="/guides/drive-types/">Special drive interface guide ↗</a><a href="/capabilities/process-routes/">Complete manufacturing route examples ↗</a><a href="/materials/">Material selection by family ↗</a></div></section><section class="cta-band">');}
  if(url.startsWith('/blog/')&&url!=='/blog/'){const article=articles.find(a=>url==='/blog/'+a.slug+'/');if(article){const heroSlug=article.processes?.[0]??article.product;body=body.replace('<div class="article-layout">','<div class="article-visual">'+catalogImage(heroSlug,{hero:true,caption:true})+'</div><div class="article-layout">');}}
  if(url==='/quality/')body=body.replace('</header>','</header><div class="process-visual">'+catalogImage('inspection',{hero:true,caption:true})+'</div>');
  const topicBlock=buildTopicLinks(url,body,articles);if(topicBlock)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',topicBlock+'<section class="cta-band">'):body+topicBlock;
- if(schema?.['@type']==='BlogPosting'){const a=articles.find(a=>url==='/blog/'+a.slug+'/');if(a)schema.about={'@id':origin+'/products/'+a.product+'/#product'};schema.publisher={...schema.publisher,'@id':origin+'/#organization'};}
+ if(schema?.['@type']==='BlogPosting'){const a=articles.find(a=>url==='/blog/'+a.slug+'/');if(a){schema.about={'@id':origin+'/products/'+a.product+'/#product'};if(a.sources?.length)schema.citation=a.sources.map(([name,url])=>({'@type':'CreativeWork',name,url}));}schema.publisher={...schema.publisher,'@id':origin+'/#organization'};}
  const active=url.split('/')[1];
  const links=[['Products','/products/'],['Industries','/industries/'],['Processes','/capabilities/'],['Materials','/materials/'],['Quality','/quality/'],['Resources','/resources/'],['About us','/about/']];
  const html=`<!doctype html><html lang="${url==='/admin/'?'zh-CN':'en'}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)} | ZUFEK</title><meta name="description" content="${esc(description)}"><link rel="canonical" href="${origin}${url}"><meta name="robots" content="${noindex?'noindex,nofollow':'index,follow'}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:type" content="${schema?'article':'website'}"><meta property="og:url" content="${origin}${url}"><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/site.css"><script src="/site.js" defer></script>${schema?`<script type="application/ld+json">${JSON.stringify(schema).replaceAll('<','\\u003c')}</script>`:''}</head><body${url==='/admin/'?' class="admin-page"':url.startsWith('/capabilities/')&&url!=='/capabilities/'?' class="capability-detail"':''}><a href="#main" class="skip">${url==='/admin/'?'跳至主要内容':'Skip to content'}</a><div class="topbar"><span>DONGGUAN ZUFEK TECHNOLOGY CO., LTD.</span><a href="mailto:${email}">${email} ↗</a></div><header class="site-header"><a href="/" class="logo" aria-label="ZUFEK home"><span class="logo-mark">Z</span>ZUFEK<span class="logo-sub">CUSTOM METAL FASTENERS</span></a><button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button><nav class="main-nav" aria-label="Main navigation">${links.map(([n,h])=>`<a href="${h}" ${active===h.split('/')[1]||(n==='Resources'&&['blog','guides'].includes(active))?'aria-current="page"':''}>${n}</a>`).join('')}${btn('Get a quote','/request-a-quote/')}</nav></header><main id="main">${body}</main><footer><div class="footer-main"><div><a href="/" class="logo">ZUFEK<span class="logo-sub">CUSTOM METAL FASTENERS</span></a><p>Custom metal screws.<br>Clear specifications. Considered solutions.</p><a class="email-link" href="mailto:${email}">${email} ↗</a></div><div><h3>Explore</h3><a href="/products/">Products</a><a href="/industries/">Industries</a><a href="/materials/">Materials</a><a href="/capabilities/">Custom capabilities</a><a href="/quality/">Quality planning</a></div><div><h3>Knowledge</h3><a href="/blog/">Technical blog</a><a href="/guides/rfq-checklist/">RFQ checklist</a><a href="/resources/">Resource center</a></div><div><h3>Let’s connect</h3><a href="/request-a-quote/">Request a quote</a><a href="/about/">About us</a><a href="/privacy/">Privacy notice</a></div></div><div class="footer-bottom"><span>© ${new Date().getUTCFullYear()} DONGGUAN ZUFEK TECHNOLOGY CO., LTD.</span><span>Custom parts. Human expertise.</span></div></footer>${privacyUI}</body></html>`;
@@ -66,7 +73,7 @@ function add(url,title,description,body,{schema=null,noindex=false}={}){
  if(hubItems)graph.push({'@context':'https://schema.org','@type':'CollectionPage','@id':origin+url,name:title,url:origin+url,mainEntity:{'@type':'ItemList',itemListElement:hubItems.filter(x=>body.includes('href="'+x.path+'"')).map((x,i)=>({'@type':'ListItem',position:i+1,name:x.name,url:origin+x.path}))}});
  const detailProduct=productOptions.find(p=>url==='/products/'+p.slug+'/');
  if(detailProduct){const imagePath=catalogImage(detailProduct.slug).match(/<img[^>]+src="([^"]+)"/)?.[1]?.replaceAll('&amp;','&');graph.push({'@context':'https://schema.org','@type':'Product','@id':origin+url+'#product',name:detailProduct.name,description,url:origin+url,brand:{'@type':'Brand',name:'ZUFEK'},manufacturer:{'@id':origin+'/#organization'},...(imagePath?{image:origin+imagePath}:{})});}
- const finalHtml=html.replace('</head>','<script type="application/ld+json">'+JSON.stringify(graph).replaceAll('<','\\u003c')+'</script></head>');
+ const finalHtml=(schema?.['@type']==='BlogPosting'?html:html.replace('<meta property="og:type" content="article">','<meta property="og:type" content="website">')).replace('</head>','<script type="application/ld+json">'+JSON.stringify(graph).replaceAll('<','\\u003c')+'</script></head>');
  pages[url]=finalHtml;
  const out=path.join('static-site',url,'index.html');mkdirSync(path.dirname(out),{recursive:true});writeFileSync(out,finalHtml);
 }
@@ -87,6 +94,8 @@ add('/404/','Page Not Found','The requested page could not be found.',`${heading
 registerExpanded({add,heading,crumb,btn,cta,articles});
 registerCompany({add,heading,crumb,btn,cta,articles,articleCard,origin});
 registerIndustriesMaterials({add,heading,crumb,btn,cta,articles});
+addSelectionGuide({add,heading,crumb,cta});
+registerApplicationStudies({add,heading,crumb,cta,origin});
 registerPrivacy({add,heading});
 registerAdmin({add,articles,esc});
 writeLlmResources(pages,origin);
