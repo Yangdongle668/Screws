@@ -74,7 +74,6 @@ jobs:
         run: |
           mkdir .ci-volume
           docker run --rm --network none --user 0:0 --cap-drop ALL --cap-add CHOWN --cap-add FOWNER --cap-add DAC_OVERRIDE --security-opt no-new-privileges:true -v "$PWD/.ci-volume:/data" --entrypoint node zufek-ci:${{ github.sha }} docker/initialize-volume.mjs
-          test "$(stat -c %u .ci-volume)" = 1000
-          test "$(stat -c %u .ci-volume/drawings)" = 1000
+          docker run --rm --network none --cap-drop ALL --security-opt no-new-privileges:true -v "$PWD/.ci-volume:/data" --entrypoint node zufek-ci:${{ github.sha }} -e 'const f=require("node:fs");for(const p of ["/data","/data/drawings","/data/smtp-receipts"]){if(f.statSync(p).uid!==1000)throw Error("Wrong owner");f.accessSync(p,f.constants.R_OK|f.constants.W_OK|f.constants.X_OK);}f.writeFileSync("/data/permission-test","ok");f.unlinkSync("/data/permission-test");'
       - name: Test production container without external services
         run: docker run --rm --entrypoint node zufek-ci:${{ github.sha }} docker/verify-runtime.mjs
