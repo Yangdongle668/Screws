@@ -43,6 +43,13 @@
       "when": 1793259969623,
       "tag": "0005_jittery_luminals",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1793277474211,
+      "tag": "0006_curvy_squirrel_girl",
+      "breakpoints": true
     }
   ]
 }

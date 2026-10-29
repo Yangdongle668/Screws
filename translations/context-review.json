@@ -1,0 +1,26 @@
+{
+  "startedAt": "2026-10-29T12:51:13.538Z",
+  "method": "Engineering-context retranslation, protected specifications, source-fragment detection; curated terminology applied separately",
+  "languages": {
+    "zh": {
+      "segments": 1203,
+      "completedAt": "2026-10-29T12:53:10.878Z"
+    },
+    "de": {
+      "segments": 1203,
+      "completedAt": "2026-10-29T12:53:14.650Z"
+    },
+    "es": {
+      "segments": 1203,
+      "completedAt": "2026-10-29T12:53:15.915Z"
+    },
+    "it": {
+      "segments": 1203,
+      "completedAt": "2026-10-29T12:53:21.535Z"
+    },
+    "fr": {
+      "segments": 1203,
+      "completedAt": "2026-10-29T12:53:23.303Z"
+    }
+  }
+}

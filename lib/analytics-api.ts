@@ -1,14 +1,14 @@
 import {adminAuthorized} from './admin-auth';
 import {env} from 'cloudflare:workers';
-import pages from './generated-pages.json';
-const paths=new Set(Object.keys(pages).filter(p=>!p.startsWith('/admin')&&p!=='/404/'));
-const isPublicPath=async(path:string)=>paths.has(path)||(/^\/blog\/[a-z0-9-]{1,120}\/$/.test(path)&&!!await env.DB?.prepare("SELECT slug FROM article_publications WHERE slug=? AND state='published'").bind(path.split('/')[2]).first());
+import {publicPaths,splitLocale} from './i18n/runtime';
+const paths=publicPaths;
+const isPublicPath=async(path:string)=>{if(paths.has(path))return true;const parsed=splitLocale(path);if(!/^\/blog\/[a-z0-9-]{1,120}\/$/.test(parsed.path))return false;return !!await (parsed.locale==='en'?env.DB?.prepare("SELECT slug FROM article_publications WHERE slug=? AND state='published'").bind(parsed.path.split('/')[2]):env.DB?.prepare("SELECT slug FROM article_translations WHERE slug=? AND locale=? AND state='published'").bind(parsed.path.split('/')[2],parsed.locale))?.first();};
 export const hasAnalyticsConsent=(r:Request)=>/(?:^|;\s*)zufek_analytics=1(?:;|$)/.test(r.headers.get('Cookie')??'');
 export function cleanAttribution(raw:unknown){
  if(!raw||typeof raw!=='object')return null;const r=raw as Record<string,unknown>;
  const label=(v:unknown)=>typeof v==='string'?v.replace(/[^a-zA-Z0-9._ -]/g,'').trim().slice(0,80):'';
  let referrer='';try{if(typeof r.referrer==='string'&&r.referrer)referrer=new URL(r.referrer.includes('://')?r.referrer:'https://'+r.referrer).hostname.slice(0,180);}catch{}
- return {landing:typeof r.landing==='string'&&(paths.has(r.landing)||/^\/blog\/[a-z0-9-]{1,120}\/$/.test(r.landing))?r.landing:'/',referrer,source:label(r.source),medium:label(r.medium),campaign:label(r.campaign)};
+ return {landing:typeof r.landing==='string'&&(paths.has(r.landing)||/^\/(?:(?:de|es|it|zh|fr)\/)?blog\/[a-z0-9-]{1,120}\/$/.test(r.landing))?r.landing:'/',referrer,source:label(r.source),medium:label(r.medium),campaign:label(r.campaign)};
 }
 export async function countAnalytics(request:Request,path:string,event='pageview',source='Direct / unknown'){
  if(!env.DB||!hasAnalyticsConsent(request)||adminAuthorized(request)||!await isPublicPath(path))return;

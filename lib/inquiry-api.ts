@@ -1,3 +1,4 @@
+import {knownLocale,translate} from './i18n/runtime';
 import {loadMailConfig,mailReady,mailConfigured,deliverMail,mailSettingsAPI} from './mail-settings';
 import {adminAuthorized} from './admin-auth';
 export {adminAuthorized} from './admin-auth';
@@ -6,7 +7,7 @@ import {editorialAPI} from './editorial-api';
 import {cleanAttribution,countAnalytics,hasAnalyticsConsent} from './analytics-api';
 import { env } from 'cloudflare:workers';
 import productOptions from './product-options.json';
-type Inquiry={ack_notified_at:string|null;ack_attempts:number;ack_next_attempt:number;ack_error:string|null;attribution:string;assigned_to:string;next_follow_up:string;revision:number;id:string;request_key:string;name:string;email:string;company:string;product:string;quantity:string;message:string;file_key:string|null;file_name:string|null;status:string;created_at:string;notified_at:string|null;attempts:number;next_attempt:number;notification_error:string|null};
+type Inquiry={language:string;ack_notified_at:string|null;ack_attempts:number;ack_next_attempt:number;ack_error:string|null;attribution:string;assigned_to:string;next_follow_up:string;revision:number;id:string;request_key:string;name:string;email:string;company:string;product:string;quantity:string;message:string;file_key:string|null;file_name:string|null;status:string;created_at:string;notified_at:string|null;attempts:number;next_attempt:number;notification_error:string|null};
 const json=(body:unknown,status=200)=>Response.json(body,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff','X-Robots-Tag':'noindex, nofollow'}});
 const db=()=>{if(!env.DB)throw new Error('Database unavailable');return env.DB;};
 const fail=(error:string,status=400)=>json({error},status);
@@ -22,7 +23,7 @@ export async function retryNotifications(limit=10){
   }catch(error){const delay=Math.min(86400000,60000*2**Math.min(r.attempts,10));await db().prepare('UPDATE inquiries SET attempts=attempts+1,next_attempt=?,notification_error=? WHERE id=?').bind(Date.now()+delay,error instanceof Error?error.message.slice(0,180):'发送失败，等待重试',r.id).run();}}}
   if(config.autoReply&&r.created_at>=(config.autoReplySince||new Date().toISOString())&&!r.ack_notified_at&&r.ack_next_attempt<=now){const locked=await db().prepare('UPDATE inquiries SET ack_next_attempt=? WHERE id=? AND ack_notified_at IS NULL AND ack_next_attempt<=?').bind(now+120000,r.id,now).run();if(locked.meta.changes){try{
    const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(r.email.toLowerCase()+':'+new Date().toISOString().slice(0,10)));const key='ack:'+Array.from(new Uint8Array(digest)).map(x=>x.toString(16).padStart(2,'0')).join('');const quota=await db().prepare('INSERT INTO rate_limits (key,count,expires) VALUES (?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1 RETURNING count').bind(key,now+86400000).first<{count:number}>();if((quota?.count??0)>3){await db().prepare('UPDATE inquiries SET ack_next_attempt=?,ack_error=? WHERE id=?').bind(now+86400000,'访客邮箱当日自动确认次数已达上限',r.id).run();continue;}
-   await deliverMail(config,{to:[r.email],replyTo:config.to.split(',')[0].trim(),subject:`ZUFEK inquiry received — ${r.id}`,idempotency:`inquiry/${r.id}/ack`,text:`Thank you for contacting ZUFEK. Your inquiry has been saved with reference ${r.id}. Our team will review your requirements and follow up. This confirms receipt only; it is not a quotation or order acceptance. For updates, reply with this reference.\n\nDONGGUAN ZUFEK TECHNOLOGY CO., LTD.\nengineer@zufek.com`});
+   await deliverMail(config,{to:[r.email],replyTo:config.to.split(',')[0].trim(),subject:translate('Your inquiry has been received',r.language)+' — '+r.id,idempotency:`inquiry/${r.id}/ack`,text:translate('Thank you for contacting ZUFEK. Your inquiry has been saved with reference {id}. Our team will review your requirements and follow up. This confirms receipt only; it is not a quotation or order acceptance. For updates, reply with this reference.',r.language,{id:r.id})+'\n\nDONGGUAN ZUFEK TECHNOLOGY CO., LTD.\nengineer@zufek.com'});
    await db().prepare('UPDATE inquiries SET ack_notified_at=?,ack_attempts=ack_attempts+1,ack_error=NULL WHERE id=?').bind(new Date().toISOString(),r.id).run();
   }catch(error){await db().prepare('UPDATE inquiries SET ack_attempts=ack_attempts+1,ack_next_attempt=?,ack_error=? WHERE id=?').bind(now+Math.min(86400000,60000*2**Math.min(r.ack_attempts,10)),error instanceof Error?error.message.slice(0,180):'自动确认发送失败',r.id).run();}}}
  }
@@ -37,7 +38,7 @@ export async function submitInquiry(request:Request){
   const value=(key:string)=>typeof data.get(key)==='string'?String(data.get(key)).trim():'';
   if(value('website'))return fail('Submission rejected.',400);
   const key=value('requestKey');if(!/^[a-f0-9-]{36}$/i.test(key))return fail('Invalid submission reference. Reload the form.');
-  const name=value('name'),email=value('email'),company=value('company'),product=value('product'),quantity=value('quantity'),message=value('message');
+  const language=knownLocale(value('language'));const name=value('name'),email=value('email'),company=value('company'),product=value('product'),quantity=value('quantity'),message=value('message');
   if(!name||name.length>100||!company||company.length>160||!/^\S+@\S+\.\S+$/.test(email)||email.length>254||/[\r\n]/.test(email)||message.length<20||message.length>12000||quantity.length>100||!allowedProducts.has(product))return fail('Check the required fields.');
   const existing=await db().prepare('SELECT id,email FROM inquiries WHERE request_key = ?').bind(key).first<{id:string;email:string}>();
   if(existing){if(existing.email!==email)return fail('Submission reference conflict. Reload the form.',409);return json({id:existing.id,saved:true});}
@@ -56,7 +57,7 @@ export async function submitInquiry(request:Request){
    try{await env.BUCKET.put(fileKey,await file.arrayBuffer(),{httpMetadata:{contentType:'application/octet-stream'}});}catch{return fail('Drawing upload failed. Retry, or remove the file to submit the project details first.',503);}
   }
   try{
-   await db().prepare('INSERT INTO inquiries (id,request_key,name,email,company,product,quantity,message,file_key,file_name,status,created_at,attempts,next_attempt,notification_error) VALUES (?,?,?,?,?,?,?,?,?,?,\'new\',?,0,0,?)').bind(id,key,name,email,company,product,quantity,message,fileKey,fileName,new Date().toISOString(),await mailReady()?'Pending notification':'Email service not configured').run();
+   await db().prepare('INSERT INTO inquiries (id,request_key,name,email,company,product,quantity,message,file_key,file_name,status,created_at,attempts,next_attempt,notification_error,language) VALUES (?,?,?,?,?,?,?,?,?,?,\'new\',?,0,0,?,?)').bind(id,key,name,email,company,product,quantity,message,fileKey,fileName,new Date().toISOString(),await mailReady()?'Pending notification':'Email service not configured',language).run();
   }catch(error){
    // A timeout may have committed the row. Never remove a drawing before checking.
    let saved:{id:string;file_key:string|null;email:string}|null;
@@ -147,7 +148,7 @@ export async function adminAPI(request:Request,action:string){
   }
   if(action==='retry'&&request.method==='POST')return json(await retryNotifications());
   if(action==='export'&&request.method==='GET'){
-   const fields=['id','created_at','name','email','company','product','quantity','message','file_name','status','assigned_to','next_follow_up','notified_at','notification_error'] as const;
+   const fields=['id','created_at','name','email','company','product','quantity','message','language','file_name','status','assigned_to','next_follow_up','notified_at','notification_error'] as const;
    // Stream in bounded batches; neutralize spreadsheet formula injection.
    const cell=(value:unknown)=>{let s=String(value??'');if(/^[\s]*[=+@-]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';};
    const encoder=new TextEncoder();const stream=new ReadableStream({async start(controller){try{controller.enqueue(encoder.encode('\uFEFF'+fields.join(',')+'\r\n'));let last='';while(true){const rows=await db().prepare('SELECT * FROM inquiries WHERE id > ? ORDER BY id LIMIT 100').bind(last).all<Inquiry>();if(!rows.results.length)break;for(const row of rows.results)controller.enqueue(encoder.encode(fields.map(f=>cell(row[f])).join(',')+'\r\n'));last=rows.results.at(-1)!.id;}controller.close();}catch(e){controller.error(e);}}});

@@ -10,15 +10,15 @@ with tarfile.open(args.archive,'r|gz') as archive:
   if member.name=='complete.json':complete=json.loads(content)
   elif member.name.startswith('data/'):
    parts=member.name.split('/');table=parts[1]
-   if table not in ['inquiries','inquiry_notes','article_drafts','article_publications','article_versions','analytics_daily']:raise ValueError('Unknown table')
+   if table not in ['inquiries','inquiry_notes','article_drafts','article_publications','article_versions','article_translations','analytics_daily']:raise ValueError('Unknown table')
    rows.setdefault(table,[]).append(json.loads(content))
   elif member.name.startswith('drawings/'):drawings[member.name]=content
 assert complete and complete['complete'], 'Incomplete backup: missing final manifest'
 connection=sqlite3.connect(':memory:')
 for migration in sorted((Path(__file__).resolve().parent.parent/'drizzle').glob('*.sql')):connection.executescript(migration.read_text(encoding='utf-8-sig'))
 connection.execute('PRAGMA foreign_keys=ON')
-for table in ['inquiries','inquiry_notes','article_drafts','article_publications','article_versions','analytics_daily']:
- records=rows.get(table,[]);assert len(records)==complete['counts'][table],table+' count mismatch'
+for table in ['inquiries','inquiry_notes','article_drafts','article_publications','article_versions','article_translations','analytics_daily']:
+ records=rows.get(table,[]);assert len(records)==complete['counts'].get(table,0),table+' count mismatch'
  for record in records:
   columns=list(record);query='INSERT INTO "'+table+'" ('+','.join('"'+k+'"' for k in columns)+') VALUES ('+','.join('?' for _ in columns)+')'
   connection.execute(query,[record[k] for k in columns])

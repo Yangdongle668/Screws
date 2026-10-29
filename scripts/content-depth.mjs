@@ -4,7 +4,7 @@ import {expandPriorityArticles} from './priority-articles.mjs';
 
 const e=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
 const section=(h,p)=>`<section><h2>${e(h)}</h2>${p.map(t=>`<p>${e(t)}</p>`).join('')}</section>`;
-const engineering={
+export const engineering={
  'shoulder-screws':[
  ['Choose the shoulder around its actual function', 'A locating shoulder, a rotating pivot and a spacing stop impose different requirements. For a pivot, examine the mating bore, running clearance and contact length. For a spacer, the shoulder length controls the clamped stack. For a locating feature, identify the datum axis and the surfaces that establish position. A close diameter tolerance alone does not resolve these different functions.'],
  ['Check the axial stack before tightening','Consider a cover rotating on a shoulder screw. If the shoulder ends below the cover stack, tightening may clamp the moving part. If it projects too far, excessive axial play can remain. Show the complete stack, washers and seating face on the assembly drawing; then dimension the shoulder length against the intended clearance rather than copying the overall screw length. This is an illustrative design review, not a released customer design.'],

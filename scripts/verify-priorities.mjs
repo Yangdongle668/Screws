@@ -4,13 +4,14 @@ import {coreArticleSlugs} from './priority-articles.mjs';
 import {studies} from './application-studies.mjs';
 import {processDecisions} from './process-decisions.mjs';
 import sharp from 'sharp';
+import {splitLocale} from '../lib/i18n/core.mjs';
 const pages=JSON.parse(fs.readFileSync('lib/generated-pages.json','utf8'));
 const {origin}=JSON.parse(fs.readFileSync('lib/site-config.json','utf8'));
 const llms=fs.readFileSync('public/llms.txt','utf8');
 const full=fs.readFileSync('public/llms-full.txt','utf8');
 const xml=fs.readFileSync('static-site/sitemap.xml','utf8');
 const publicUrls=Object.entries(pages).filter(([,html])=>html.includes('content="index,follow"'));
-for(const [url,html] of publicUrls){assert(html.includes('<link rel="canonical" href="'+origin+url+'">'),'Canonical '+url);assert(llms.includes(']('+origin+url+')'),'LLMS '+url);assert(xml.includes('<loc>'+origin+url+'</loc>'),'Sitemap '+url);assert(!/>\s*undefined\s*</.test(html)&&!/(href|src)="[^"]*undefined/.test(html),'Undefined interpolation '+url);}
+for(const [url,html] of publicUrls){assert(html.includes('<link rel="canonical" href="'+origin+url+'">'),'Canonical '+url);const {locale}=splitLocale(url);const directory=locale==='en'?llms:fs.readFileSync('public/'+locale+'/llms.txt','utf8');assert(directory.includes(']('+origin+url+')'),'LLMS '+url);assert(xml.includes('<loc>'+origin+url+'</loc>'),'Sitemap '+url);assert(!/>\s*undefined\s*</.test(html)&&!/(href|src)="[^"]*undefined/.test(html),'Undefined interpolation '+url);}
 for(const url of ['/admin/','/404/','/privacy/','/cookies/','/legal/','/data-requests/'])assert(!xml.includes('<loc>'+origin+url+'</loc>'));
 assert(pages['/'].includes('Custom metal screws<br><em>manufacturer.</em>'));
 assert(pages['/products/'].includes('Find the right structure.'));

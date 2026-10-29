@@ -1,0 +1,26 @@
+// Authoring pass for public engineering copy. No runtime translation calls.
+import fs from 'node:fs';
+const source=JSON.parse(fs.readFileSync('translations/source.json','utf8'));
+const curated=new Set([...Object.keys(JSON.parse(fs.readFileSync('translations/terminology.json','utf8'))),...Object.keys(JSON.parse(fs.readFileSync('translations/interface.json','utf8')))]);
+const pause=ms=>new Promise(r=>setTimeout(r,ms));let active=0;const waiting=[];
+async function limited(fn){if(active>=3)await new Promise(r=>waiting.push(r));active++;try{return await fn();}finally{active--;waiting.shift()?.();}}
+const normalized=text=>text.replace(/\bthread acceptance\b/gi,'thread inspection acceptance').replace(/\bthread engagement\b/gi,'thread engagement in the mating part').replace(/\bsurface texture\b/gi,'surface roughness').replace(/\bmanufacturing route\b/gi,'manufacturing process sequence').replace(/\bprocess route\b/gi,'manufacturing process sequence').replace(/\bengineering drawing\b/gi,'drawing').replace(/\bdrawing\b/gi,'engineering drawing').replace(/\bdatum relationships\b/gi,'relationships between geometric datums').replace(/\bform error\b/gi,'geometric form error').replace(/\bmetal stock\b/gi,'stock').replace(/\bstock material\b/gi,'metal stock material').replace(/\bsampling lead time\b/gi,'prototype sample production lead time').replace(/\bshoulder-to-thread\b/gi,'plain shoulder to screw thread').replace(/\bheadless\b/gi,'headless screw');
+const containsEnglish=(key,value)=>{const words=key.match(/[a-z]{3,}/gi)||[];for(let n=0;n<words.length-4;n++){const phrase=words.slice(n,n+5).join(' ');if(/DONGGUAN|ZUFEK|TECHNOLOGY|CO|LTD/i.test(phrase))continue;if(value.toLowerCase().includes(phrase.toLowerCase()))return true;}return false;};
+async function batchTranslate(locale,keys){
+ const protectedValues=[];
+ const paragraphs=keys.map((key,index)=>{const tokens=[];protectedValues.push(tokens);const text=normalized(key).replace(/\b(?:SUS\s?\d+(?:\/\d+)?|ISO\s?\d+(?:[-:]\d+)?|VDA\s?\d+|[A-Z]\d+(?:[-×x]\d+(?:\.\d+)*)?|\d+(?:[.,]\d+)*(?:[–/-]\d+(?:\.\d+)*)?(?:PH)?|g6|h7|6g|6H)\b/g,v=>{tokens.push(v);return '⟦N'+String(tokens.length-1).padStart(4,'0')+'⟧';});return '[[['+String(index).padStart(6,'0')+']]]\n'+text;});
+ const query='Technical context: custom metal screws and threaded fasteners; mechanical engineering, manufacturing, dimensional inspection and industrial purchasing.\n\n'+paragraphs.join('\n\n');
+ const url=new URL('https://translate.googleapis.com/translate_a/single');url.search=new URLSearchParams({client:'gtx',sl:'en',tl:locale==='zh'?'zh-CN':locale,dt:'t',q:query});
+ let output;for(let attempt=0;;attempt++){try{const response=await fetch(url,{signal:AbortSignal.timeout(30000)});if(!response.ok)throw Error('HTTP '+response.status);const json=await response.json();output=json[0].map(x=>x[0]||'').join('');break;}catch(error){if(attempt>=5)throw error;await pause(1000*(attempt+1));}}
+ const markers=[...output.matchAll(/\[\s*\[\s*\[\s*(\d{6})\s*\]\s*\]\s*\]/g)];
+ try{if(markers.length!==keys.length)throw Error('Boundary mismatch');return keys.map((key,index)=>{let value=output.slice(markers[index].index+markers[index][0].length,markers[index+1]?.index??output.length).trim();for(const [i,token]of protectedValues[index].entries()){const pattern=new RegExp('⟦\\s*N\\s*'+String(i).padStart(4,'0')+'\\s*⟧','gi');if(!pattern.test(value))throw Error('Specification token lost');value=value.replace(pattern,()=>token);}if(containsEnglish(key,value))throw Error('Retained source sentence');return value;});}catch(error){if(keys.length===1)throw Error(locale+': '+error.message+' / '+keys[0].slice(0,120));const results=[];for(const key of keys)results.push(...await batchTranslate(locale,[key]));return results;}
+}
+const report={startedAt:new Date().toISOString(),method:'Engineering-context retranslation, protected specifications, source-fragment detection; curated terminology applied separately',languages:{}};
+await Promise.all(['de','es','it','zh','fr'].map(async locale=>{
+ const file='translations/'+locale+'.json',dictionary=JSON.parse(fs.readFileSync(file,'utf8'));
+ const keys=source.filter(key=>!curated.has(key)&&!key.includes('DONGGUAN ZUFEK')&&(key.split(/\s+/).length>=18||containsEnglish(key,dictionary[key]||'')||/form|drive|thread|sampling|shoulder|captive|drawing|application/i.test(key)));
+ const batches=[];let batch=[],size=0;for(const key of keys){const length=encodeURIComponent(normalized(key)).length+90;if(batch.length&&size+length>6000){batches.push(batch);batch=[];size=0;}batch.push(key);size+=length;}if(batch.length)batches.push(batch);
+ let done=0;for(const group of batches){const values=await limited(()=>batchTranslate(locale,group));group.forEach((key,i)=>dictionary[key]=values[i]);const temporary=file+'.tmp';fs.writeFileSync(temporary,JSON.stringify(dictionary,null,2)+'\n');for(let retry=0;;retry++)try{fs.renameSync(temporary,file);break;}catch(e){if(retry>8)throw e;await pause(250*(retry+1));}done+=group.length;console.log('context',locale,done+'/'+keys.length);}
+ report.languages[locale]={segments:keys.length,completedAt:new Date().toISOString()};
+}));
+fs.writeFileSync('translations/context-review.json',JSON.stringify(report,null,2)+'\n');

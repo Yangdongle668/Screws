@@ -4,7 +4,9 @@ import products from './product-options.json';
 import {env} from 'cloudflare:workers';
 import seeds from './editorial-seed.json';
 import assets from './editorial-assets.json';
-import pages from './generated-pages.json';
+import pages from './runtime-pages.json';
+import {translationAPI} from './translation-api';
+import {localizedArticleHtml} from './i18n/runtime';
 const origin=config.origin;
 const escape=(v:unknown)=>String(v??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 export type Article={slug:string;title:string;description:string;category:string;intro:string;sections:string[][];product:string;cover:string;checklist:string[];example:string;processes?:string[];sources?:string[][]};
@@ -13,7 +15,7 @@ const json=(v:unknown,status=200)=>Response.json(v,{status,headers:{'Cache-Contr
 const normalizeSeed=(a:typeof seeds[number]):Article=>({slug:a.slug,title:a.title,description:a.intro.slice(0,250),category:a.category,intro:a.intro,sections:a.sections,product:a.product,cover:('processes' in a&&a.processes?.[0])||a.product,checklist:('checklist' in a&&a.checklist)||[],example:('example' in a&&a.example)||'',processes:('processes' in a&&a.processes)||[],sources:('sources' in a&&a.sources)||[]});
 export const seedArticles=seeds.map(normalizeSeed);
 export const articleAssets=Object.keys(assets);
-function validate(raw:Article){
+export function validate(raw:Article){
  if(!raw||typeof raw.slug!=='string'||!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(raw.slug)||raw.slug.length>120||raw.slug==='index')throw Error('Use a short URL slug with lowercase letters, numbers and hyphens.');
  for(const [key,max] of [['title',160],['description',320],['category',60],['intro',3000]] as const)if(typeof raw[key]!=='string'||!raw[key].trim()||raw[key].length>max)throw Error('Check '+key+' and its length.');
  if(!Array.isArray(raw.sections)||raw.sections.length<1||raw.sections.length>12||raw.sections.some(x=>!Array.isArray(x)||x.length!==2||typeof x[0]!=='string'||typeof x[1]!=='string'||!x[0].trim()||!x[1].trim()||x[0].length>180||x[1].length>12000))throw Error('Use 1–12 sections with a heading and body.');
@@ -24,7 +26,7 @@ function validate(raw:Article){
  return {slug:raw.slug,title:raw.title.trim(),description:raw.description.trim(),category:raw.category.trim(),intro:raw.intro.trim(),sections:raw.sections,product:raw.product,cover:raw.cover,checklist:raw.checklist,example:raw.example,processes:raw.processes??[],sources:raw.sources??[]};
 }
 const paragraph=(text:string)=>text.split(/\n\s*\n/).filter(Boolean).map(p=>'<p>'+escape(p).replaceAll('\n','<br>')+'</p>').join('');
-export function renderArticle(a:Article,date:string,preview=false){
+export function renderArticle(a:Article,date:string,preview=false,locale='en',available=['en']){
  const url='/blog/'+a.slug+'/';const body=`<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/blog/">Technical blog</a><span>/</span><span aria-current="page">${escape(a.title)}</span></nav><header class="article-heading"><small>${escape(a.category)}</small><h1>${escape(a.title)}</h1><p>${escape(a.intro)}</p><div class="article-byline">By <a href="/authors/theo-wan/" rel="author">Theo Wan</a> · Updated ${escape(date.slice(0,10))}${preview?' · Unpublished preview':''}</div></header><div class="article-visual">${(assets as Record<string,string>)[a.cover]}</div><div class="article-layout"><aside class="article-toc">${a.sections.map(([h],i)=>`<a href="#section-${i}">${escape(h)}</a>`).join('')}<div class="toc-product"><small>RELATED PRODUCT</small><a href="/products/${a.product}/">Explore this product family ↗</a></div></aside><article class="article-prose">${a.sections.map(([h,b],i)=>`<section id="section-${i}"><h2>${escape(h)}</h2>${paragraph(b)}</section>`).join('')}${a.checklist.length?'<h2>Specification checklist</h2><ul>'+a.checklist.map(x=>'<li>'+escape(x)+'</li>').join('')+'</ul>':''}${a.example?'<div class="inline-note"><h2>Application example</h2>'+paragraph(a.example)+'</div>':''}${a.processes?.length?'<h2>Related manufacturing topics</h2><ul>'+a.processes.map(p=>'<li><a href="/capabilities/'+p+'/">'+escape(p.replaceAll('-',' '))+'</a></li>').join('')+'</ul>':''}${a.sources?.length?'<h2>Technical references</h2><ul>'+a.sources.map(([name,url])=>'<li><a href="'+escape(url)+'">'+escape(name)+'</a></li>').join('')+'</ul>':''}<h2>Continue exploring</h2><p><a href="/products/${a.product}/">Related custom fasteners</a> · <a href="/capabilities/">Manufacturing capabilities</a> · <a href="/blog/">Technical blog</a></p></article></div>${(topicContext as Record<string,string>)[a.product]??''}<section class="cta-band"><div><small>DISCUSS YOUR SPECIFICATION</small><h2>Have a drawing? Let’s review it.</h2><p>Share the part requirements, quantity and acceptance criteria.</p></div><a class="btn primary" href="/request-a-quote/?product=${a.product}">Request a quote ↗</a></section>`;
  let html=pages['/blog/custom-screw-quotation-checklist/'].replace(/<main id="main">[\s\S]*?<\/main>/,()=>'<main id="main">'+body+'</main>').replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/g,'').replace(/<title>[\s\S]*?<\/title>/,()=>'<title>'+escape(a.title)+' | ZUFEK</title>').replace(/<meta name="description" content="[^"]*">/,()=>'<meta name="description" content="'+escape(a.description)+'">').replace(/<link rel="canonical" href="[^"]*">/,()=>'<link rel="canonical" href="'+origin+url+'">').replace(/<meta property="og:title" content="[^"]*">/,()=>'<meta property="og:title" content="'+escape(a.title)+'">').replace(/<meta property="og:description" content="[^"]*">/,()=>'<meta property="og:description" content="'+escape(a.description)+'">').replace(/<meta property="og:url" content="[^"]*">/,()=>'<meta property="og:url" content="'+origin+url+'">');
  if(preview)html=html.replace('content="index,follow"','content="noindex,nofollow"');
@@ -32,10 +34,12 @@ export function renderArticle(a:Article,date:string,preview=false){
  const organizationGraphs=[...pages['/about/'].matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/g)].flatMap(m=>{const v=JSON.parse(m[1]);return Array.isArray(v)?v:[v];});
  const organization=organizationGraphs.find(x=>x['@type']==='Organization');
  const breadcrumb={'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[{name:'Home',item:origin+'/'},{name:'Technical blog',item:origin+'/blog/'},{name:a.title,item:origin+url}].map((x,i)=>({'@type':'ListItem',position:i+1,...x}))};
- return html.replace('</head>',()=>'<script type="application/ld+json">'+JSON.stringify([organization,schema,breadcrumb].filter(Boolean)).replaceAll('<','\\u003c')+'</script></head>');
+ const rendered=html.replace('</head>',()=>'<script type="application/ld+json">'+JSON.stringify([organization,schema,breadcrumb].filter(Boolean)).replaceAll('<','\\u003c')+'</script></head>');
+ return localizedArticleHtml(rendered,url,locale,available);
 }
-export const articleCard=(a:Article)=>`<a class="article-card" href="/blog/${a.slug}/"><div class="article-line"><span>${escape(a.category)}</span><span>TECHNICAL GUIDE</span></div><h3>${escape(a.title)} ↗</h3><p>${escape(a.intro)}</p><span class="card-author">By Theo Wan</span><span class="text-link">Read technical guide →</span></a>`;
+export const articleCard=(a:Article,category=a.category)=>`<a class="article-card" data-category="${escape(category)}" href="/blog/${a.slug}/"><div class="article-line"><span>${escape(a.category)}</span><span>TECHNICAL GUIDE</span></div><h3>${escape(a.title)} ↗</h3><p>${escape(a.intro)}</p><span class="card-author">By Theo Wan</span><span class="text-link">Read technical guide →</span></a>`;
 export async function editorialAPI(request:Request,action:string){
+ if(action.startsWith('article-translation'))return translationAPI(request,action);
  try{
  if(action==='articles'&&request.method==='GET'){
   const slug=new URL(request.url).searchParams.get('slug');if(slug){const row=await db().prepare('SELECT * FROM article_drafts WHERE slug=?').bind(slug).first<{payload:string;revision:number;published_revision:number}>();const seed=seedArticles.find(a=>a.slug===slug);if(!row&&!seed)return json({error:'Article not found'},404);const versions=await db().prepare('SELECT id,created_at,created_by FROM article_versions WHERE slug=? ORDER BY created_at DESC LIMIT 30').bind(slug).all();return json({article:row?JSON.parse(row.payload):seed,revision:row?.revision??0,versions:versions.results,assets:articleAssets,products});}

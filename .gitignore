@@ -49,5 +49,6 @@ yarn-error.log*
 /data/
 /backups/
 /.deployment/
+/translations/*.tmp
 
 !smtp-bridge/.env.example

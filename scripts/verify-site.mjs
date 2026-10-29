@@ -14,11 +14,11 @@ for(const [url,html] of Object.entries(pages)){
   if(!m[1].endsWith('/'))continue;
   assert(pages[m[1]],`${url} links to missing ${m[1]}`);
  }
- const r=await fetch(origin+url);assert.equal(r.status,url==='/404/'?404:200,url);checked++;
+ const r=await fetch(origin+url);assert.equal(r.status,url.endsWith('/404/')?404:200,url);checked++;
 }
 for(const option of options){assert(pages[`/products/${option.slug}/`],option.slug+' missing page');assert(pages['/request-a-quote/'].includes(`value="${option.slug}"`),option.slug+' missing RFQ option');}
 const reachable=new Set(['/']);const pending=['/'];while(pending.length){const url=pending.shift();for(const match of pages[url].matchAll(/href="(\/[^"#?]*)(?:[?#][^"]*)?"/g)){if(pages[match[1]]&&!reachable.has(match[1])){reachable.add(match[1]);pending.push(match[1]);}}}
-for(const url of Object.keys(pages))if(!['/admin/','/404/'].includes(url))assert(reachable.has(url),'Orphan page: '+url);
+for(const url of Object.keys(pages))if(!['/admin/','/404/'].includes(url)&&!url.endsWith('/404/'))assert(reachable.has(url),'Orphan page: '+url);
 const slash=await fetch(origin+'/products',{redirect:'manual'});assert.equal(slash.status,308);assert(slash.headers.get('location').endsWith('/products/'));
 assert.equal((await fetch(origin+'/missing-page/')).status,404);
 assert.equal((await fetch(origin+'/api/admin/inquiries')).status,401);

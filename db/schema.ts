@@ -1,8 +1,9 @@
-import { sqliteTable, text, integer } from 'drizzle-orm/sqlite-core';
+import { sqliteTable, text, integer, primaryKey } from 'drizzle-orm/sqlite-core';
 export const inquiries = sqliteTable('inquiries', {
  id: text('id').primaryKey(), requestKey: text('request_key').notNull().unique(),
  name: text('name').notNull(), email: text('email').notNull(), company: text('company').notNull(),
  product: text('product').notNull(), quantity: text('quantity').notNull(), message: text('message').notNull(),
+ language: text('language').notNull().default('en'),
  fileKey: text('file_key'), fileName: text('file_name'), status: text('status').notNull().default('new'),
  attribution: text('attribution').notNull().default(''), assignedTo: text('assigned_to').notNull().default(''), nextFollowUp: text('next_follow_up').notNull().default(''), revision: integer('revision').notNull().default(0),
  createdAt: text('created_at').notNull(), notifiedAt: text('notified_at'), attempts: integer('attempts').notNull().default(0),
@@ -38,3 +39,6 @@ export const siteSettings = sqliteTable('site_settings', {
  key: text('key').primaryKey(), value: text('value').notNull(), revision: integer('revision').notNull().default(1),
  updatedAt: text('updated_at').notNull(), updatedBy: text('updated_by').notNull(),
 });
+export const articleTranslations=sqliteTable('article_translations',{
+ slug:text('slug').notNull(),locale:text('locale').notNull(),payload:text('payload').notNull(),revision:integer('revision').notNull().default(1),publishedRevision:integer('published_revision').notNull().default(0),sourceFingerprint:text('source_fingerprint').notNull(),state:text('state').notNull().default('draft'),html:text('html').notNull().default(''),updatedAt:text('updated_at').notNull(),publishedAt:text('published_at'),
+},table=>[primaryKey({columns:[table.slug,table.locale]})]);

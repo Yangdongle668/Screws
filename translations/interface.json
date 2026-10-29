@@ -1,0 +1,21 @@
+{
+ "Breadcrumb":{"de":"Brotkrumennavigation","es":"Ruta de navegación","it":"Percorso di navigazione","zh":"面包屑导航","fr":"Fil d’Ariane"},
+ "Home":{"de":"Startseite","es":"Inicio","it":"Home","zh":"首页","fr":"Accueil"},
+ "Cookies":{"de":"Cookies","es":"Cookies","it":"Cookie","zh":"Cookie设置","fr":"Cookies"},
+ "CUSTOM METAL FASTENERS":{"de":"METALLBEFESTIGER NACH ZEICHNUNG","es":"FIJACIONES METÁLICAS A MEDIDA","it":"FISSAGGI METALLICI SU DISEGNO","zh":"非标金属紧固件","fr":"FIXATIONS MÉTALLIQUES SUR MESURE"},
+ "Custom capabilities":{"de":"Fertigungsmöglichkeiten","es":"Capacidades de fabricación","it":"Capacità produttive","zh":"定制加工能力","fr":"Capacités de fabrication"},
+ "Application discussions":{"de":"Industrielle Anwendungen","es":"Aplicaciones industriales","it":"Applicazioni industriali","zh":"行业应用","fr":"Applications industrielles"},
+ "Core Custom Screws":{"de":"Gängige Sonderschrauben","es":"Tornillos especiales principales","it":"Principali viti speciali","zh":"主力非标螺丝","fr":"Principales vis spéciales"},
+ "CORE CUSTOM SCREWS":{"de":"GÄNGIGE SONDERSCHRAUBEN","es":"TORNILLOS ESPECIALES PRINCIPALES","it":"PRINCIPALI VITI SPECIALI","zh":"主力非标螺丝","fr":"PRINCIPALES VIS SPÉCIALES"},
+ "Thread & transition":{"de":"Gewinde und Übergang","es":"Rosca y transición","it":"Filettatura e raccordo","zh":"螺纹与过渡结构","fr":"Filetage et raccordement"},
+ "Shoulder-to-thread relationship":{"de":"Beziehung zwischen Schulter und Gewinde","es":"Relación entre hombro y rosca","it":"Relazione tra spallamento e filettatura","zh":"台阶与螺纹的位置关系","fr":"Relation entre épaulement et filetage"},
+ "Material and acceptance":{"de":"Werkstoff und Abnahme","es":"Material y aceptación","it":"Materiale e accettazione","zh":"材料与验收要求","fr":"Matériau et critères de réception"},
+ "Discuss this custom part":{"de":"Dieses Zeichnungsteil anfragen","es":"Consultar esta pieza a medida","it":"Richiedi questa parte su disegno","zh":"咨询该非标零件","fr":"Demander cette pièce sur mesure"},
+ "Request a quote":{"de":"Angebot anfordern","es":"Solicitar presupuesto","it":"Richiedi un preventivo","zh":"获取报价","fr":"Demander un devis"},
+ "Get a quote":{"de":"Angebot anfordern","es":"Solicitar presupuesto","it":"Richiedi un preventivo","zh":"获取报价","fr":"Demander un devis"},
+ "Email us":{"de":"E-Mail senden","es":"Escríbanos","it":"Scrivici","zh":"发送邮件","fr":"Nous écrire"},
+ "Customize cookies":{"de":"Cookie-Einstellungen","es":"Configurar cookies","it":"Personalizza i cookie","zh":"自定义Cookie","fr":"Personnaliser les cookies"},
+ "Accept all":{"de":"Alle akzeptieren","es":"Aceptar todas","it":"Accetta tutti","zh":"全部接受","fr":"Tout accepter"},
+ "Reject optional":{"de":"Optionale ablehnen","es":"Rechazar opcionales","it":"Rifiuta i facoltativi","zh":"拒绝可选Cookie","fr":"Refuser les cookies facultatifs"},
+ "Share your drawing, quantity and application requirements with our team.":{"de":"Senden Sie unserem Team Ihre Zeichnung, Stückzahl und Anwendungsanforderungen.","es":"Comparta con nuestro equipo el plano, la cantidad y los requisitos de su aplicación.","it":"Invia al nostro team il disegno, la quantità e i requisiti dell’applicazione.","zh":"向我们的团队提供图纸、数量和应用要求。","fr":"Transmettez à notre équipe votre plan, la quantité et les exigences de l’application."}
+}

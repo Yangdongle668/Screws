@@ -148,3 +148,12 @@ HTML pages are the primary source. This is an optional content index, not a spec
 - [From prototype to production: keeping the screw specification aligned](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/prototype-to-production-fasteners/): A prototype can establish useful geometry without defining the final production route. Plan the transition so the approved function and acceptance requirements survive the change in manufacturing method.
 - [Drawing revision control for repeat custom fastener orders](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/drawing-revision-custom-fastener-orders/): Repeat orders should repeat the approved specification, not the ambiguities of an old email. A small revision-control habit can prevent expensive confusion across drawings, samples and inspection records.
 - [Packaging and lot traceability for custom screw orders](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-screw-packaging-lot-traceability/): Packaging is part of the delivered condition. It should protect functional surfaces, preserve identification and make the incoming inspection and assembly process practical.
+
+
+## Language editions
+- [English](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/llms.txt)
+- [Deutsch](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/llms.txt)
+- [Español](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/llms.txt)
+- [Italiano](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/llms.txt)
+- [中文](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/llms.txt)
+- [Français](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/llms.txt)

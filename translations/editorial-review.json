@@ -1,0 +1,86 @@
+{
+  "A head, a locating shoulder and a threaded section combine fastening with controlled spacing or movement.": {
+    "de": "Kopf, Passschaft und Gewindeabschnitt verbinden die Befestigung mit einer definierten Positionierung, einem Abstand oder einer Drehbewegung.",
+    "es": "La cabeza, el tramo liso de posicionamiento y la zona roscada permiten fijar la pieza y, a la vez, controlar su posición, separación o movimiento.",
+    "it": "Testa, tratto liscio di posizionamento e parte filettata consentono di fissare i componenti e di definirne distanza, posizione o movimento.",
+    "fr": "La tête, la portée lisse de positionnement et la partie filetée assurent la fixation tout en définissant un espacement ou un mouvement.",
+    "zh": "由头部、定位光杆和螺纹段组成，既能紧固零件，也能用于定位、限位或转动配合。"
+  },
+  "Special drive interfaces help restrict casual access while allowing an approved service tool to operate the screw.": {
+    "de": "Spezielle Antriebsprofile erschweren das unbefugte Lösen mit gewöhnlichem Werkzeug. Mit dem vorgesehenen Servicewerkzeug bleibt die Schraube bedienbar.",
+    "es": "Las huellas especiales dificultan el desmontaje con herramientas comunes, pero permiten intervenir con la herramienta de mantenimiento prevista.",
+    "it": "Le impronte speciali ostacolano lo smontaggio con utensili comuni, mantenendo la possibilità di intervento con l’utensile di manutenzione previsto.",
+    "fr": "Les empreintes spéciales limitent le démontage avec des outils courants, tout en permettant l’intervention avec l’outil de maintenance prévu.",
+    "zh": "通过特殊槽型限制使用普通工具随意拆卸，同时保留配套工具的安装和维护通道。"
+  },
+  "An axial bore creates a passage through a threaded component for an application-specific routing or flow requirement.": {
+    "de": "Eine axiale Bohrung führt durch das Gewindeteil und bildet einen anwendungsspezifischen Durchgang, etwa für Leitungen oder Medien.",
+    "es": "Un taladro axial atraviesa la pieza roscada para crear el paso que requiera la aplicación, por ejemplo para cables o fluidos.",
+    "it": "Un foro assiale attraversa il componente filettato e crea il passaggio richiesto dall’applicazione, ad esempio per cavi o fluidi.",
+    "fr": "Un perçage axial traverse la pièce filetée pour former un passage adapté à l’application, par exemple pour un câble ou un fluide.",
+    "zh": "在螺纹零件轴向加工内孔，为线束穿过、气体流通或其他特定用途提供通道。"
+  },
+  "An integral flange provides a drawing-defined bearing footprint without a separately handled washer.": {
+    "de": "Ein integrierter Flansch bildet die in der Zeichnung festgelegte Auflagefläche. Eine separate Unterlegscheibe muss dadurch nicht einzeln montiert werden.",
+    "es": "La brida integrada proporciona la superficie de apoyo definida en el plano y evita manipular una arandela por separado.",
+    "it": "La flangia integrata offre la superficie di appoggio definita a disegno, senza dover montare una rondella separata.",
+    "fr": "L’embase intégrée fournit la surface d’appui définie sur le plan, sans avoir à monter une rondelle séparée.",
+    "zh": "将承压法兰与螺丝做成一体，按图确定接触面积，减少单独装配垫片的操作。"
+  },
+  "A grip-oriented head supports manual adjustment, with optional tool drive for the specified assembly method.": {
+    "de": "Der griffige Kopf ermöglicht die Verstellung von Hand. Bei Bedarf lässt sich ein zusätzlicher Werkzeugantrieb für die vorgesehene Montage vorsehen.",
+    "es": "La cabeza facilita el agarre para regular a mano. Si el montaje lo requiere, puede incorporar una huella para herramienta.",
+    "it": "La testa facilita la presa e la regolazione manuale; se richiesto dal montaggio, può essere prevista anche un’impronta per utensile.",
+    "fr": "La tête facilite la prise en main pour le réglage manuel. Une empreinte d’outil peut être ajoutée selon le mode de montage prévu.",
+    "zh": "利用便于手握的头部实现手动调节，也可按安装和维护需要增加内六角或其他工具槽型。"
+  },
+  "Headless threaded components transfer a locating or clamping action through a specified tip.": {
+    "de": "Gewindestifte wirken über die festgelegte Spitzenform auf das Gegenstück und übernehmen so eine Positionier-, Klemm- oder Anschlagfunktion.",
+    "es": "Estas piezas roscadas sin cabeza actúan sobre el componente de contacto mediante una punta definida para posicionarlo o sujetarlo.",
+    "it": "Questi elementi filettati senza testa agiscono sul componente di contatto attraverso l’estremità prevista, per posizionarlo o bloccarlo.",
+    "fr": "Ces éléments filetés sans tête agissent sur la pièce en contact par une extrémité définie, afin de la positionner ou de la bloquer.",
+    "zh": "无头螺纹结构通过指定的端部形状，对配合件进行顶紧、定位或限位。"
+  },
+  "A locating shoulder, a rotating pivot and a spacing stop impose different requirements. For a pivot, examine the mating bore, running clearance and contact length. For a spacer, the shoulder length controls the clamped stack. For a locating feature, identify the datum axis and the surfaces that establish position. A close diameter tolerance alone does not resolve these different functions.": {
+    "de": "Ob der Schaft positioniert, als Drehzapfen dient oder einen Abstand festlegt, führt zu unterschiedlichen Anforderungen. Bei einer Drehstelle sind Gegenbohrung, Laufspiel und Kontaktlänge zu prüfen. Bei einer Distanzfunktion bestimmt die Schulterlänge die axiale Anordnung der Bauteile. Für die Positionierung müssen Bezugsachse und tatsächlich anliegende Flächen festgelegt werden. Eine enge Durchmessertoleranz allein ersetzt diese Funktionsbetrachtung nicht.",
+    "es": "No se exige lo mismo a un hombro de posicionamiento, a un eje de giro y a un separador. En un pivote deben revisarse el alojamiento, la holgura de funcionamiento y la longitud de contacto. Como separador, la longitud del hombro determina la disposición axial de las piezas. Para posicionar, deben definirse el eje de referencia y las superficies que fijan la posición. Una tolerancia de diámetro estrecha no resuelve por sí sola estas funciones.",
+    "it": "Le esigenze cambiano se lo spallamento serve a posizionare, a consentire una rotazione o a mantenere una distanza. Nel caso di un perno occorre verificare foro di accoppiamento, gioco di funzionamento e lunghezza di contatto. Nella funzione di distanziale, la lunghezza dello spallamento determina la disposizione assiale dei componenti. Per il posizionamento vanno definiti asse di riferimento e superfici effettivamente utilizzate. Una tolleranza diametrale stretta, da sola, non risolve queste esigenze.",
+    "fr": "Les exigences diffèrent selon que l’épaulement sert au positionnement, à la rotation ou au maintien d’un espacement. Pour un pivot, il faut examiner l’alésage associé, le jeu de fonctionnement et la longueur de contact. Pour une fonction d’entretoise, la longueur de l’épaulement détermine la disposition axiale des pièces. Le positionnement exige de définir l’axe de référence et les surfaces effectivement utilisées. Une tolérance de diamètre serrée ne suffit pas, à elle seule, à résoudre ces fonctions.",
+    "zh": "用于定位、转动配合或间隔限位时，台阶螺丝的设计重点并不相同。作为转轴使用，要结合配合孔、转动间隙和接触长度确定光杆要求；作为间隔件使用，台阶长度会影响装配件的轴向叠装尺寸；用于定位时，则要明确基准轴线和实际定位面。仅给光杆一个较紧的直径公差，并不能同时解决这些问题。"
+  },
+  "The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.": {
+    "de": "Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.",
+    "es": "El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.",
+    "it": "La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.",
+    "fr": "La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.",
+    "zh": "含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。"
+  },
+  "Use this matrix to prepare a review. Values and acceptance methods are agreed for the actual part; these are specification fields, not catalog limits.": {
+    "de": "Diese Matrix hilft bei der technischen Abstimmung. Maße und Prüfverfahren werden für das konkrete Teil vereinbart. Die Angaben beschreiben, was zu spezifizieren ist; sie sind keine zugesagten Fertigungsgrenzen.",
+    "es": "Utilice esta matriz para preparar la revisión técnica. Los valores y métodos de aceptación se acuerdan para la pieza concreta; la tabla indica qué debe especificarse, no unos límites de catálogo.",
+    "it": "La matrice serve a preparare la verifica tecnica. Valori e metodi di accettazione vengono concordati per il componente specifico: sono elementi da definire, non limiti di catalogo.",
+    "fr": "Cette matrice prépare la revue technique. Les valeurs et les méthodes de réception sont convenues pour la pièce concernée ; il s’agit des éléments à spécifier, et non de limites de catalogue.",
+    "zh": "这张表用于准备技术评审。具体数值和验收方法按实际零件约定，表中列的是需要明确的项目，并非已承诺的加工范围。"
+  },
+  "Check size with a suitable calibrated method; assess form separately when specified": {
+    "de": "Das Maß mit einem geeigneten, kalibrierten Messverfahren prüfen; vorgeschriebene Formabweichungen gesondert bewerten.",
+    "es": "Compruebe la dimensión con un método calibrado adecuado y evalúe por separado las tolerancias de forma especificadas.",
+    "it": "Verificare la dimensione con un metodo adeguato e calibrato; valutare separatamente gli eventuali requisiti di forma.",
+    "fr": "Contrôler la dimension avec une méthode étalonnée adaptée et vérifier séparément les exigences de forme spécifiées.",
+    "zh": "使用适用且经过校准的量具检查尺寸；图纸有形状公差要求时，另行验证。"
+  },
+  "A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance.": {
+    "de": "A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.",
+    "es": "Los grupos A2/A4 y las clases como 70 u 80 describen elementos de fijación de acero inoxidable terminados dentro del alcance de la especificación aplicable. Indicar solo SUS304 o SUS316 no acredita prestaciones A2-70 o A4-80.",
+    "it": "I gruppi A2/A4 e le classi come 70 o 80 descrivono elementi di fissaggio in acciaio inossidabile finiti secondo la specifica applicabile. La sola indicazione SUS304 o SUS316 non attesta le prestazioni A2-70 o A4-80.",
+    "fr": "Les groupes A2/A4 et les classes telles que 70 ou 80 caractérisent les fixations inoxydables finies dans le domaine de la spécification applicable. La seule indication SUS304 ou SUS316 ne démontre pas les propriétés A2-70 ou A4-80.",
+    "zh": "A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件成品要求。只注明SUS304或SUS316牌号，并不能证明成品已经达到A2-70或A4-80。"
+  },
+  "10B21 is a grade designation, not a finished strength class. There is no single tensile strength that applies to every 10B21 screw.": {
+    "de": "10B21 ist eine Werkstoffbezeichnung und keine Festigkeitsklasse des fertigen Verbindungselements. Für 10B21-Schrauben lässt sich daher keine einheitliche Zugfestigkeit angeben.",
+    "es": "10B21 identifica un material, no la clase de resistencia del tornillo terminado. Por tanto, no hay un único valor de resistencia a tracción válido para todos los tornillos de 10B21.",
+    "it": "10B21 è una designazione del materiale, non una classe di resistenza della vite finita. Non esiste quindi un unico valore di resistenza a trazione applicabile a tutte le viti in 10B21.",
+    "fr": "10B21 désigne une nuance de matériau, et non une classe de résistance de la fixation finie. Il n’existe donc pas de valeur unique de résistance à la traction applicable à toutes les vis en 10B21.",
+    "zh": "10B21是材料牌号，不是成品强度等级。不同加工及热处理状态的10B21螺丝，不能套用同一个抗拉强度值。"
+  }
+}
