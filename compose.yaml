@@ -1,0 +1,44 @@
+name: zufek
+services:
+  app:
+    image: zufek-website:${APP_VERSION:-local}
+    build:
+      context: .
+      args:
+        PUBLIC_URL: ${PUBLIC_URL:?Run deploy.sh first}
+    restart: unless-stopped
+    init: true
+    env_file: .env.docker
+    environment:
+      APP_VERSION: ${APP_VERSION:-local}
+      TRUST_PROXY: "1"
+    volumes:
+      - ./data:/data
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m,mode=1777
+    security_opt:
+      - no-new-privileges:true
+    cap_drop: [ALL]
+    stop_grace_period: 30s
+  https:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      SITE_HOST: ${SITE_HOST:?Run deploy.sh first}
+      TLS_EMAIL: ${TLS_EMAIL:?Run deploy.sh first}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./docker/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      app:
+        condition: service_healthy
+    security_opt:
+      - no-new-privileges:true
+volumes:
+  caddy-data:
+  caddy-config:

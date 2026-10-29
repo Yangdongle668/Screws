@@ -46,5 +46,8 @@ yarn-error.log*
 # OS metadata
 .DS_Store
 .local-qa/
+/data/
+/backups/
+/.deployment/
 
 !smtp-bridge/.env.example

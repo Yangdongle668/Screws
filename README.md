@@ -51,6 +51,12 @@ GitHub Actions 在推送和 PR 时执行基础检查与构建，不会自动部�
 
 ## 云端维护与部署
 
+### 自建 Linux / Docker
+
+首次执行 `bash deploy.sh`，后续执行 `bash update.sh`；手动备份使用 `bash backup.sh`。包含独立后台登录、持久化数据库/图纸、HTTPS 和内置 SMTP 转接，详见 [Docker部署说明](docs/DOCKER.md)。
+
+### 保留原 Sites 托管
+
 1. 从本仓库建立分支，修改源内容或功能。
 2. 重新生成基础页面，提交对应的 `lib/` 和 `static-site/` 生成结果。
 3. 检查 PR 和自动检查结果，再合并到 `main`。
@@ -62,6 +68,6 @@ GitHub Actions 在推送和 PR 时执行基础检查与构建，不会自动部�
 
 GitHub 保存代码和基础内容，不保存实际询盘、上传图纸、后台发布记录、访客统计或 SMTP 密码。运行数据和受保护配置需独立备份与迁移。
 
-询盘先保存再通知。SMTP 转接代码已准备，但尚未部署到用户服务器；仅保存表单不能保证发信，见 [SMTP 说明](smtp-bridge/README.md)。`.env.example` 仅为占位配置。
+询盘先保存再通知。独立 Docker 版内置 SMTP 转接；原 Sites 托管版需要另外部署转接服务，见 [SMTP 说明](smtp-bridge/README.md)。两种方式都需填写真实邮箱配置并验证收件。`.env.example` 仅为占位配置。
 
 详见 [云端维护交接](docs/CLOUD-MAINTENANCE.md)。原框架说明保留于 [SITES-STARTER.md](docs/SITES-STARTER.md)。

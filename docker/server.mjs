@@ -1,0 +1,85 @@
+import http from 'node:http';
+import fs from 'node:fs';
+import fsp from 'node:fs/promises';
+import path from 'node:path';
+import {Readable} from 'node:stream';
+import {createHash} from 'node:crypto';
+import {openDatabase,fileBucket} from './storage.mjs';
+import {sessions,passwordValid,loginPage} from './auth.mjs';
+import * as api from '../dist/docker/api.mjs';
+
+const root=process.cwd(),publicRoot=path.join(root,'public'),data=path.resolve(process.env.DATA_DIRECTORY||'/data');
+const origin=new URL(process.env.PUBLIC_URL||'');
+if(origin.protocol!=='https:'||origin.username||origin.password||origin.pathname!=='/'||origin.search||origin.hash)throw Error('PUBLIC_URL must be a canonical HTTPS origin');
+if(fs.readFileSync('dist/docker/site-origin.txt','utf8').trim()!==origin.origin)throw Error('Build origin differs from PUBLIC_URL; rebuild the Docker image');
+const email=(process.env.ADMIN_EMAIL||'').toLowerCase();
+if(!/^\S+@\S+\.\S+$/.test(email)||!/^([a-f0-9]{32}):([a-f0-9]{128})$/.test(process.env.ADMIN_PASSWORD_HASH||''))throw Error('Configure ADMIN_EMAIL and ADMIN_PASSWORD_HASH');
+const session=sessions(process.env.SESSION_SECRET||'');
+if(Buffer.from(process.env.MAIL_CONFIG_KEY||'','base64').length!==32)throw Error('Configure persistent MAIL_CONFIG_KEY');
+const db=openDatabase(path.join(data,'website.sqlite'),path.join(root,'drizzle'));
+const bridgeToken=process.env.LOCAL_SMTP_TOKEN;
+if(!/^[a-f0-9]{64}$/.test(bridgeToken||''))throw Error('Configure LOCAL_SMTP_TOKEN');
+const smtp=api.createBridge({token:bridgeToken,allowedHosts:(process.env.SMTP_ALLOWED_HOSTS||'mail.zufek.com').split(',').filter(Boolean),allowedSenderDomains:(process.env.SMTP_FROM_DOMAINS||'zufek.com').split(',').filter(Boolean),stateDirectory:path.join(data,'smtp-receipts')});
+await new Promise(resolve=>smtp.listen(0,'127.0.0.1',resolve));
+Object.assign(api.env,{DB:db,BUCKET:fileBucket(path.join(data,'drawings')),ADMIN_EMAILS:email,INQUIRY_TO:process.env.INQUIRY_TO||'engineer@zufek.com',MAIL_CONFIG_KEY:process.env.MAIL_CONFIG_KEY,LOCAL_SMTP_ENDPOINT:'https://docker-mail.zufek.invalid',LOCAL_SMTP_TOKEN:bridgeToken,LOCAL_SMTP_FETCH:(input,options)=>{const url=new URL(String(input));if(url.origin!=='https://docker-mail.zufek.invalid'||!['/send','/diagnose'].includes(url.pathname))throw Error('Invalid local mail route');return fetch('http://127.0.0.1:'+smtp.address().port+url.pathname,options);}});
+const attempts=new Map();
+const cookie=request=>(request.headers.get('cookie')||'').match(/(?:^|;\s*)__Host-zufek_admin=([^;]*)/)?.[1];
+const types={'.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
+const redirect=(url,extra={})=>new Response(null,{status:303,headers:{Location:url,'Cache-Control':'no-store',...extra}});
+const denied=()=>Response.json({error:'Authentication required'},{status:401,headers:{'Cache-Control':'no-store','X-Robots-Tag':'noindex'}});
+async function handle(request,clientIp){
+ const url=new URL(request.url),authenticated=session.valid(cookie(request));
+ if(url.pathname==='/healthz')return Response.json({healthy:db.check(),version:process.env.APP_VERSION||'local'});
+ if(url.pathname==='/signin-with-chatgpt'||url.pathname==='/auth/login'){
+  if(request.method==='GET')return authenticated?redirect('/admin/'):loginPage();
+  if(request.method!=='POST'||request.headers.get('origin')!==origin.origin||!request.headers.get('content-type')?.startsWith('application/x-www-form-urlencoded'))return new Response('Forbidden',{status:403});
+  const now=Date.now(),key=createHash('sha256').update(clientIp).digest('hex');for(const [k,v]of attempts)if(v.until<now)attempts.delete(k);
+  if(attempts.size>10000||attempts.get(key)?.count>=5)return new Response('登录尝试过多，请15分钟后重试。',{status:429,headers:{'Retry-After':'900','Cache-Control':'no-store'}});
+  const form=new URLSearchParams(await request.text());const valid=passwordValid(form.get('password'),process.env.ADMIN_PASSWORD_HASH)&&form.get('email')?.toLowerCase()===email;
+  if(!valid){const old=attempts.get(key);attempts.set(key,{count:(old?.count||0)+1,until:old?.until||now+900000});const page=loginPage('failed');return new Response(page.body,{status:401,headers:page.headers});}
+  attempts.delete(key);return redirect('/admin/',{'Set-Cookie':'__Host-zufek_admin='+session.issue()+'; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=43200'});
+ }
+ if(url.pathname==='/signout-with-chatgpt'||url.pathname==='/auth/logout'){
+  if(request.method==='GET')return new Response('<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="robots" content="noindex"><title>退出后台</title><link rel="stylesheet" href="/docker-login.css"></head><body><main><h1>退出后台</h1><form method="post" action="/auth/logout"><button>确认退出</button></form></main></body></html>',{headers:{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store'}});
+  if(request.method!=='POST'||request.headers.get('origin')!==origin.origin)return new Response('Use POST from this website',{status:405});
+  return redirect('/',{'Set-Cookie':'__Host-zufek_admin=; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=0'});
+ }
+ if(authenticated){request.headers.set('oai-authenticated-user-id','docker-admin');request.headers.set('oai-authenticated-user-email',email);}
+ if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();return api.adminAPI(request,url.pathname.split('/').filter(Boolean).at(-1));}
+ if(url.pathname==='/api/inquiries'&&request.method==='POST'){const result=await api.submitInquiry(request);if(result.ok)void retryMail();return result;}
+ if(url.pathname==='/api/analytics'&&request.method==='POST')return api.analyticsEvent(request);
+ if(url.pathname.startsWith('/api/'))return new Response('Not found',{status:404});
+ if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405});
+ if(url.pathname==='/admin'||url.pathname.startsWith('/admin/')){if(!authenticated)return redirect('/auth/login');}
+ if(url.pathname==='/sitemap.xml')return api.sitemapResponse(request);
+ let relative;try{relative=decodeURIComponent(url.pathname);}catch{return new Response('Bad path',{status:400});}
+ if(relative.includes('\\')||relative.includes('\0')||relative.split('/').some(x=>x.startsWith('.')))return new Response('Not found',{status:404});
+ const filename=path.resolve(publicRoot,'.'+relative);
+ if(filename.startsWith(publicRoot+path.sep)){try{const stat=await fsp.stat(filename);if(stat.isFile()){const ext=path.extname(filename).toLowerCase();return new Response(Readable.toWeb(fs.createReadStream(filename)),{headers:{'Content-Type':types[ext]||'application/octet-stream','Cache-Control':ext==='.webp'?'public, max-age=86400':'public, max-age=300','X-Content-Type-Options':'nosniff'}});}}catch(error){if(error.code!=='ENOENT'&&error.code!=='ENOTDIR')throw error;}}
+ const page=await api.staticResponse(request);
+ if(url.pathname==='/privacy/'||url.pathname==='/admin/'){
+  let html=await page.text();
+  if(url.pathname==='/privacy/')html=html.replace('Website hosting, database and drawing storage use the Sites hosting infrastructure and Cloudflare services.','This website runs on the configured ZUFEK server. Inquiry records and drawings use its persistent database and file storage.');
+  if(url.pathname==='/admin/')html=html.replace('未配置独立调度前，重试由询盘提交或后台读取询盘触发，也可手动重试。','Docker服务每分钟重试待通知询盘，也可在后台手动重试。');
+  return new Response(html,{status:page.status,headers:page.headers});
+ }
+ return page;
+}
+let mailRunning=false;
+async function retryMail(){if(mailRunning)return;mailRunning=true;try{await api.retryNotifications(5);}catch{console.error('Mail retry deferred; inquiry records remain saved.');}finally{mailRunning=false;}}
+const timer=setInterval(retryMail,60000);timer.unref();
+const server=http.createServer(async(incoming,outgoing)=>{
+ try{
+  if(!incoming.url?.startsWith('/')||incoming.url.startsWith('//')){outgoing.writeHead(400);outgoing.end();return;}
+  const target=new URL(incoming.url,origin);if(target.origin!==origin.origin)throw Error('Bad request origin');
+  const headers=new Headers();for(const [name,value]of Object.entries(incoming.headers)){if(value&&!/^(oai-|cf-|x-forwarded-|x-real-ip|host|connection|transfer-encoding)/i.test(name))headers.set(name,Array.isArray(value)?value.join(','):value);}
+  const ip=process.env.TRUST_PROXY==='1'?String(incoming.headers['x-forwarded-for']||incoming.socket.remoteAddress).split(',').at(-1).trim():incoming.socket.remoteAddress||'unknown';headers.set('CF-Connecting-IP',ip);headers.set('CF-IPCountry','Unknown');
+  const limit=target.pathname==='/api/inquiries'?11*1024*1024:target.pathname.includes('login')?4096:target.pathname==='/api/analytics'?4096:200000;
+  let length=0;const chunks=[];for await(const chunk of incoming){length+=chunk.length;if(length>limit){outgoing.writeHead(413);outgoing.end('Request too large');return;}chunks.push(chunk);}
+  const request=new Request(target,{method:incoming.method,headers,...(!['GET','HEAD'].includes(incoming.method)?{body:Buffer.concat(chunks)}:{})});
+  const response=await handle(request,ip);outgoing.writeHead(response.status,Object.fromEntries(response.headers));if(incoming.method==='HEAD'||!response.body){outgoing.end();return;}const stream=Readable.fromWeb(response.body);stream.on('error',()=>outgoing.destroy());outgoing.on('close',()=>stream.destroy());stream.pipe(outgoing);
+ }catch{if(!outgoing.headersSent)outgoing.writeHead(503,{'Content-Type':'text/plain; charset=utf-8','Cache-Control':'no-store'});outgoing.end('服务暂时不可用，请稍后重试。');console.error('Request failed; sensitive request data was not logged.');}
+});
+server.requestTimeout=35000;server.headersTimeout=10000;server.keepAliveTimeout=5000;
+server.listen(Number(process.env.PORT||3000),process.env.HOST||'0.0.0.0',()=>console.log('ZUFEK production server ready.'));
+for(const signal of ['SIGINT','SIGTERM'])process.on(signal,()=>{clearInterval(timer);server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});setTimeout(()=>process.exit(1),20000).unref();});

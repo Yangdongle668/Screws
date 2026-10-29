@@ -1,0 +1,47 @@
+import assert from 'node:assert/strict';
+import {spawn} from 'node:child_process';
+import fs from 'node:fs/promises';
+import os from 'node:os';
+import path from 'node:path';
+import {randomBytes,randomUUID} from 'node:crypto';
+import {passwordHash} from './auth.mjs';
+import {openDatabase,fileBucket} from './storage.mjs';
+
+const directory=await fs.mkdtemp(path.join(os.tmpdir(),'zufek-docker-qa-'));
+// Use the configured build origin, including the Docker image's test origin.
+const origin=(await fs.readFile('dist/docker/site-origin.txt','utf8')).trim();
+const port=Number(process.env.RUNTIME_TEST_PORT||5193),address='http://127.0.0.1:'+port;
+const password='test-only-generated-'+randomBytes(24).toString('hex');
+const environment={...process.env,PUBLIC_URL:origin,HOST:'127.0.0.1',PORT:String(port),DATA_DIRECTORY:directory,ADMIN_EMAIL:'qa@example.invalid',ADMIN_PASSWORD_HASH:passwordHash(password),SESSION_SECRET:randomBytes(32).toString('hex'),MAIL_CONFIG_KEY:randomBytes(32).toString('base64'),LOCAL_SMTP_TOKEN:randomBytes(32).toString('hex'),SMTP_ALLOWED_HOSTS:'mail.example.invalid',SMTP_FROM_DOMAINS:'example.invalid',TRUST_PROXY:'0'};
+let child,output='';
+async function start(){child=spawn(process.execPath,['docker/server.mjs'],{env:environment,stdio:['ignore','pipe','pipe'],windowsHide:true});child.stdout.on('data',b=>output+=b);child.stderr.on('data',b=>output+=b);for(let i=0;i<80;i++){if(child.exitCode!==null)throw Error('Standalone server failed: '+output);try{if((await fetch(address+'/healthz')).ok)return;}catch{}await new Promise(r=>setTimeout(r,100));}throw Error('Health timeout: '+output);}
+async function stop(){if(!child||child.exitCode!==null||child.signalCode!==null){child=null;return;}const done=new Promise(resolve=>child.once('exit',resolve));child.kill('SIGTERM');await done;child=null;}
+const request=(url,options={})=>fetch(address+url,{...options,redirect:'manual'});
+let cookie;
+try{
+ await start();
+ assert.equal((await request('/')).status,200);
+ assert.equal((await request('/admin/')).status,303);
+ assert.equal((await request('/api/admin/inquiries',{headers:{'oai-authenticated-user-id':'forged','oai-authenticated-user-email':'qa@example.invalid','CF-Connecting-IP':'forged'}})).status,401);
+ assert.equal((await request('/auth/login',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded',Origin:'https://other.invalid'},body:new URLSearchParams({email:environment.ADMIN_EMAIL,password})})).status,403);
+ const login=await request('/auth/login',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded',Origin:origin},body:new URLSearchParams({email:environment.ADMIN_EMAIL,password})});assert.equal(login.status,303);assert(login.headers.get('set-cookie').includes('HttpOnly; Secure; SameSite=Strict'));cookie=login.headers.get('set-cookie').split(';')[0];
+ const headers={Cookie:cookie,Origin:origin};assert.equal((await request('/admin/',{headers})).status,200);
+ const mail=await(await request('/api/admin/mail-settings',{headers})).json();assert.equal(mail.smtpDirectSupported,true);assert.equal(mail.encryptionReady,true);assert.equal(mail.smtpPasswordSaved,false);assert.equal(mail.bridgeTokenSaved,true);assert(!JSON.stringify(mail).includes(environment.LOCAL_SMTP_TOKEN));
+ const post=(action,body)=>request('/api/admin/'+action,{method:'POST',headers:{...headers,'Content-Type':'application/json'},body:JSON.stringify(body)});
+ const savedMail=await post('mail-settings',{...mail,enabled:false,smtpHost:'mail.example.invalid',smtpUser:'qa@example.invalid',smtpPassword:'test-only-SMTP-password',bridgeToken:'',autoReply:false});assert.equal(savedMail.status,200);
+ const article=await(await request('/api/admin/articles?slug=shoulder-screw-drawing-guide',{headers})).json();assert.equal(article.revision,0);article.article.title+=' Docker QA';assert.equal((await post('article-save',{article:article.article,revision:0})).status,200);assert.equal((await post('article-publish',{slug:article.article.slug,revision:1})).status,200);assert((await(await request('/blog/'+article.article.slug+'/')).text()).includes('Docker QA'));
+ const form=new FormData(),requestKey=randomUUID();for(const [k,v]of Object.entries({requestKey,name:'Docker QA',email:'customer@example.invalid',company:'Local test only',product:'shoulder-screws',quantity:'10',message:'Local standalone inquiry durability test, no external email.',website:''}))form.set(k,v);form.set('drawing',new File(['local-drawing-fixture'],'drawing.pdf',{type:'application/pdf'}));
+ const result=await(await request('/api/inquiries',{method:'POST',headers:{Origin:origin},body:form})).json();assert(result.saved&&result.id);const again=await(await request('/api/inquiries',{method:'POST',headers:{Origin:origin},body:form})).json();assert.equal(again.id,result.id);
+ assert.equal((await request('/api/admin/overview',{headers:{Cookie:'__Host-zufek_admin=forged'}})).status,401);
+ const overview=await(await request('/api/admin/overview',{headers})).json();assert.equal(overview.totals.total,1);
+ assert.equal((await request('/api/admin/retry',{method:'POST',headers:{Cookie:cookie,Origin:'https://other.invalid'}})).status,403);
+ assert.equal((await request('/sitemap.xml')).status,200);
+ assert.equal((await request('/../.env.docker')).status,404);
+ await stop();await start();
+ const persisted=await(await request('/api/admin/overview',{headers})).json();assert.equal(persisted.totals.total,1);
+ const persistedMail=await(await request('/api/admin/mail-settings',{headers})).json();assert.equal(persistedMail.smtpPasswordSaved,true);assert.equal(persistedMail.revision,1);assert(!JSON.stringify(persistedMail).includes('test-only-SMTP-password'));assert((await(await request('/blog/'+article.article.slug+'/')).text()).includes('Docker QA'));
+ const backup=await request('/api/admin/backup',{headers});assert.equal(backup.status,200);assert((await backup.arrayBuffer()).byteLength>100);
+ await stop();
+ const db=openDatabase(path.join(directory,'website.sqlite'),'drizzle');const row=await db.prepare('SELECT * FROM inquiries WHERE id=?').bind(result.id).first();assert(row.file_key);const object=await fileBucket(path.join(directory,'drawings')).get(row.file_key);assert.equal(Buffer.from(await object.arrayBuffer()).toString(),'local-drawing-fixture');db.close();
+ console.log(JSON.stringify({productionAdapter:true,forgedIdentityRejected:true,secureAdminLogin:true,sameOriginEnforced:true,localSMTPProvisioned:true,encryptedMailSettingsPersist:true,articlePublicationPersists:true,noMailSent:true,inquiryAndAttachmentPersistAcrossRestart:true,backupAvailable:true},null,2));
+}finally{await stop();if(path.dirname(directory)!==path.resolve(os.tmpdir())||!path.basename(directory).startsWith('zufek-docker-qa-'))throw Error('Unsafe test cleanup');await fs.rm(directory,{recursive:true,force:true});}

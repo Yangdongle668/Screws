@@ -10,3 +10,5 @@
 - 基础检查：`verify-content.mjs`、`verify-images.mjs`、`verify-priorities.mjs`、`audit-topology.mjs`、TypeScript 和构建。运行时测试仅使用本机地址和测试数据，不对生产运行修改性测试。
 - 发布使用已有 Sites 项目并遵循当前环境的 Sites 技能。保留 `.openai/hosting.json` 中的项目 ID、存储声明及原访问范围。推送 GitHub 不代表已经部署。
 - 独立部署需正确配置身份边界、D1、R2、密钥与 SMTP 网关。开发测试身份不能用于生产，不信任互联网直接传入的身份请求头。
+- 独立Docker入口为 `docker/server.mjs`，使用 `docker/storage.mjs` 将现有D1/R2接口适配到持久化SQLite和文件存储；仅Docker打包时替换 `cloudflare:workers`。不要把Docker会话认证或本机SMTP回调加入Sites的默认运行配置。
+- 修改部署脚本需运行 `bash docker/verify-update.sh`；修改独立后台需构建 `node docker/build.mjs` 后运行 `node docker/verify-runtime.mjs`。这些测试只使用临时目录和虚构地址，不得指向生产数据。
