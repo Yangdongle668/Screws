@@ -1,16 +1,15 @@
+import {adminAuthorized} from './admin-auth';
+export {adminAuthorized} from './admin-auth';
+import {backupResponse} from './backup-api';
+import {editorialAPI} from './editorial-api';
+import {cleanAttribution,countAnalytics,hasAnalyticsConsent} from './analytics-api';
 import { env } from 'cloudflare:workers';
 import productOptions from './product-options.json';
-type Inquiry={id:string;request_key:string;name:string;email:string;company:string;product:string;quantity:string;message:string;file_key:string|null;file_name:string|null;status:string;created_at:string;notified_at:string|null;attempts:number;next_attempt:number;notification_error:string|null};
+type Inquiry={attribution:string;assigned_to:string;next_follow_up:string;revision:number;id:string;request_key:string;name:string;email:string;company:string;product:string;quantity:string;message:string;file_key:string|null;file_name:string|null;status:string;created_at:string;notified_at:string|null;attempts:number;next_attempt:number;notification_error:string|null};
 const json=(body:unknown,status=200)=>Response.json(body,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff','X-Robots-Tag':'noindex, nofollow'}});
 const db=()=>{if(!env.DB)throw new Error('Database unavailable');return env.DB;};
 const fail=(error:string,status=400)=>json({error},status);
 const allowedProducts=new Set([...productOptions.map(p=>p.slug),'other']);
-export function adminAuthorized(request:Request){
- const id=request.headers.get('oai-authenticated-user-id');const email=request.headers.get('oai-authenticated-user-email')?.toLowerCase();
- if(!id||!email)return false;
- if(import.meta.env.DEV&&id==='local_seedy'&&email==='seedy@sites.test')return true;
- return (env.ADMIN_EMAILS??'').toLowerCase().split(',').map(x=>x.trim()).includes(email);
-}
 function sameOrigin(r:Request){return r.headers.get('Origin')===new URL(r.url).origin;}
 export async function retryNotifications(limit=10){
  if(!env.RESEND_API_KEY||!env.MAIL_FROM||!env.INQUIRY_TO)return {processed:0,configured:false};
@@ -68,6 +67,7 @@ export async function submitInquiry(request:Request){
    if(saved&&saved.email===email)return json({id:saved.id,saved:true});
    throw error;
   }
+  if(hasAnalyticsConsent(request)){try{const attribution=cleanAttribution(JSON.parse(value('attribution')||'null'));if(attribution){await db().prepare('UPDATE inquiries SET attribution=? WHERE id=?').bind(JSON.stringify(attribution),id).run();await countAnalytics(request,attribution.landing,'inquiry',attribution.source||attribution.referrer||'Direct / unknown');}}catch{/* Saved inquiry is never rolled back for attribution failure. */}}
   return json({id,saved:true},201);
  }catch{return fail('The inquiry could not be confirmed. Retry with the same details, or email engineer@zufek.com.',503);}
 }
@@ -76,13 +76,50 @@ export async function adminAPI(request:Request,action:string){
  if(!adminAuthorized(request))return fail('This account is not authorized. Team access must be configured by the site owner.',403);
  if(request.method!=='GET'&&!sameOrigin(request))return fail('Invalid request origin.',403);
  try{
+  if(action==='backup'&&request.method==='GET')return backupResponse();
+  if(action==='articles'||action.startsWith('article-'))return editorialAPI(request,action);
+  if(action==='analytics'&&request.method==='GET'){
+   const since=new URL(request.url).searchParams.get('days')==='7'?'-7 days':'-30 days';
+   const daily=await db().prepare("SELECT day,event,SUM(count) AS count FROM analytics_daily WHERE day>=date('now',?) GROUP BY day,event ORDER BY day").bind(since).all();
+   const pages=await db().prepare("SELECT path,SUM(count) AS count FROM analytics_daily WHERE event='pageview' AND day>=date('now',?) GROUP BY path ORDER BY count DESC LIMIT 30").bind(since).all();
+   const sources=await db().prepare("SELECT source,event,SUM(count) AS count FROM analytics_daily WHERE day>=date('now',?) GROUP BY source,event ORDER BY count DESC LIMIT 40").bind(since).all();
+   const countries=await db().prepare("SELECT country,SUM(count) AS count FROM analytics_daily WHERE event='pageview' AND day>=date('now',?) GROUP BY country ORDER BY count DESC LIMIT 30").bind(since).all();
+   return json({daily:daily.results,pages:pages.results,sources:sources.results,countries:countries.results,consentedOnly:true});
+  }
+  if(action==='overview'&&request.method==='GET'){
+   const totals=await db().prepare("SELECT COUNT(*) AS total, SUM(status='new') AS new, SUM(status='quoted') AS quoted, SUM(notified_at IS NULL) AS pending_email, SUM(next_follow_up<>'' AND next_follow_up<=date('now') AND status<>'closed') AS due FROM inquiries").first();
+   return json({totals,emailConfigured:!!(env.RESEND_API_KEY&&env.MAIL_FROM&&env.INQUIRY_TO),user:request.headers.get('oai-authenticated-user-email'),backupConfigured:false,analyticsConfigured:true});
+  }
   if(action==='inquiries'&&request.method==='GET'){
-   const result=await db().prepare('SELECT * FROM inquiries ORDER BY created_at DESC LIMIT 200').all<Inquiry>();
-   return json({inquiries:result.results,emailConfigured:!!(env.RESEND_API_KEY&&env.MAIL_FROM&&env.INQUIRY_TO)});
+   const u=new URL(request.url);const q=(u.searchParams.get('q')??'').trim().slice(0,160);const status=u.searchParams.get('status')??'all';const page=Math.max(1,Math.min(100000,Math.floor(Number(u.searchParams.get('page'))||1)));
+   if(!['all','new','contacted','quoted','closed'].includes(status))return fail('Invalid status.');
+   const conditions:string[]=[];const values:string[]=[];
+   if(status!=='all'){conditions.push('status = ?');values.push(status);}
+   if(q){conditions.push("(instr(lower(id),lower(?))>0 OR instr(lower(company),lower(?))>0 OR instr(lower(email),lower(?))>0 OR instr(lower(name),lower(?))>0 OR instr(lower(product),lower(?))>0)");values.push(q,q,q,q,q);}
+   if(u.searchParams.get('due')==='1')conditions.push("next_follow_up<>'' AND next_follow_up<=date('now') AND status<>'closed'");
+   const where=conditions.length?' WHERE '+conditions.join(' AND '):'';
+   const count=await db().prepare('SELECT COUNT(*) AS total FROM inquiries'+where).bind(...values).first<{total:number}>();
+   const result=await db().prepare('SELECT * FROM inquiries'+where+' ORDER BY created_at DESC,id DESC LIMIT 25 OFFSET ?').bind(...values,(page-1)*25).all<Inquiry>();
+   return json({inquiries:result.results,total:count?.total??0,page,pageSize:25,emailConfigured:!!(env.RESEND_API_KEY&&env.MAIL_FROM&&env.INQUIRY_TO)});
   }
   if(action==='inquiries'&&request.method==='PATCH'){
-   const body=await request.json() as {id:string;status:string};if(!['new','contacted','quoted','closed'].includes(body.status))return fail('Invalid status.');
-   const result=await db().prepare('UPDATE inquiries SET status = ? WHERE id = ?').bind(body.status,body.id).run();return result.meta.changes?json({saved:true}):fail('Inquiry not found.',404);
+   const body=await request.json() as {id:string;status:string;assignedTo?:string;nextFollowUp?:string;revision?:number};
+   if(!['new','contacted','quoted','closed'].includes(body.status)||typeof body.id!=='string')return fail('Invalid status or reference.');
+   const current=await db().prepare('SELECT * FROM inquiries WHERE id = ?').bind(body.id).first<Inquiry>();if(!current)return fail('Inquiry not found.',404);
+   const assigned=body.assignedTo??current.assigned_to;const follow=body.nextFollowUp??current.next_follow_up;
+   if(typeof assigned!=='string'||assigned.length>120||typeof follow!=='string'||(follow&&!/^\d{4}-\d{2}-\d{2}$/.test(follow)))return fail('Invalid owner or follow-up date.');
+   const revision=body.revision??current.revision;if(!Number.isInteger(revision))return fail('Invalid revision.');
+   const result=await db().prepare('UPDATE inquiries SET status=?, assigned_to=?,next_follow_up=?,revision=revision+1 WHERE id=? AND revision=?').bind(body.status,assigned,follow,body.id,revision).run();
+   return result.meta.changes?json({saved:true,revision:revision+1}):fail('This inquiry was updated by another user. Refresh before saving.',409);
+  }
+  if(action==='notes'&&request.method==='GET'){
+   const id=new URL(request.url).searchParams.get('id');const notes=await db().prepare('SELECT * FROM inquiry_notes WHERE inquiry_id=? ORDER BY created_at,id').bind(id).all();return json({notes:notes.results});
+  }
+  if(action==='notes'&&request.method==='POST'){
+   const body=await request.json() as {id:string;noteId:string;body:string};
+   if(typeof body.body!=='string'||!body.body.trim()||body.body.length>4000||!body.id||!body.noteId||! /^[a-f0-9-]{36}$/i.test(body.noteId))return fail('Enter a note of up to 4,000 characters.');
+   const row=await db().prepare('SELECT id FROM inquiries WHERE id=?').bind(body.id).first();if(!row)return fail('Inquiry not found.',404);
+   await db().prepare('INSERT INTO inquiry_notes (id,inquiry_id,body,author,created_at) VALUES (?,?,?,?,?) ON CONFLICT(id) DO NOTHING').bind(body.noteId,body.id,body.body.trim(),request.headers.get('oai-authenticated-user-email'),new Date().toISOString()).run();return json({saved:true});
   }
   if(action==='file'&&request.method==='GET'){
    const id=new URL(request.url).searchParams.get('id');const row=await db().prepare('SELECT file_key,file_name FROM inquiries WHERE id = ?').bind(id).first<Inquiry>();
@@ -95,7 +132,7 @@ export async function adminAPI(request:Request,action:string){
    const row=await db().prepare('SELECT * FROM inquiries WHERE id = ?').bind(id).first<Inquiry>();
    if(!row)return fail('Inquiry not found.',404);
    const {file_key,request_key,...record}=row;
-   return new Response(JSON.stringify({record,drawingAvailable:!!file_key,exportedAt:new Date().toISOString()},null,2),{headers:{'Content-Type':'application/json','Content-Disposition':'attachment; filename="inquiry-record.json"','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
+   return new Response(JSON.stringify({record,notes:(await db().prepare('SELECT * FROM inquiry_notes WHERE inquiry_id=? ORDER BY created_at').bind(row.id).all()).results,drawingAvailable:!!file_key,exportedAt:new Date().toISOString()},null,2),{headers:{'Content-Type':'application/json','Content-Disposition':'attachment; filename="inquiry-record.json"','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
   }
   if(action==='record'&&request.method==='DELETE'){
    const body=await request.json() as {id:string;confirm:string};
@@ -104,12 +141,12 @@ export async function adminAPI(request:Request,action:string){
    if(!row)return fail('Inquiry not found.',404);
    // Remove the drawing first; retain the row if storage removal fails so it can be retried.
    if(row.file_key){if(!env.BUCKET)return fail('Drawing storage unavailable.',503);await env.BUCKET.delete(row.file_key);}
-   await db().prepare('DELETE FROM inquiries WHERE id = ?').bind(body.id).run();
+   await db().batch([db().prepare('DELETE FROM inquiry_notes WHERE inquiry_id=?').bind(body.id),db().prepare('DELETE FROM inquiries WHERE id = ?').bind(body.id)]);
    return json({deleted:true,id:body.id,deletedAt:new Date().toISOString(),scope:'Active inquiry database and drawing storage only. Previously sent email, exported copies and provider backups require separate review.'});
   }
   if(action==='retry'&&request.method==='POST')return json(await retryNotifications());
   if(action==='export'&&request.method==='GET'){
-   const fields=['id','created_at','name','email','company','product','quantity','message','file_name','status','notified_at','notification_error'] as const;
+   const fields=['id','created_at','name','email','company','product','quantity','message','file_name','status','assigned_to','next_follow_up','notified_at','notification_error'] as const;
    // Stream in bounded batches; neutralize spreadsheet formula injection.
    const cell=(value:unknown)=>{let s=String(value??'');if(/^[\s]*[=+@-]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';};
    const encoder=new TextEncoder();const stream=new ReadableStream({async start(controller){try{controller.enqueue(encoder.encode('\uFEFF'+fields.join(',')+'\r\n'));let last='';while(true){const rows=await db().prepare('SELECT * FROM inquiries WHERE id > ? ORDER BY id LIMIT 100').bind(last).all<Inquiry>();if(!rows.results.length)break;for(const row of rows.results)controller.enqueue(encoder.encode(fields.map(f=>cell(row[f])).join(',')+'\r\n'));last=rows.results.at(-1)!.id;}controller.close();}catch(e){controller.error(e);}}});
