@@ -33,3 +33,8 @@ Local smoke tests cover clean routes, internal links, authorization, input valid
 - Mail delivery: verified sender + production mail secret still required. No test emails were sent. Confirm real inbox delivery, bounce handling and retries before reliance.
 - Independent encrypted backup destination, schedule, retention and restore test remain unconfigured. CSV/JSON exports and drawing downloads support manual copies but are not an independent automated backup service.
 - Site audience remains owner-private; admin allowlist must match the intended signed-in team account before production staff use. Do not widen access to inquiry data during public launch.
+
+## Registered address confirmed by owner
+English: 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China
+Chinese: 东莞市大朗镇松木山福源区353号一楼
+Address requirement above is fulfilled. Mail provider, independent backup and the other documented release requirements remain pending.
