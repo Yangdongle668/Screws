@@ -551,9 +551,15 @@ The shoulder-to-thread transition needs enough clearance for the mating part to 
 
 CNC turning is a route to review for sample quantities and complex steps. Cold heading followed by local machining can be evaluated for repeat production. Grinding is selected where size, form or surface requirements justify it, rather than assumed from the product name. CCD inspection can screen accessible profiles; datum relationships, surface texture and thread acceptance need their own suitable methods.
 
+### Review the route before fixing the quotation
+
+For shoulder & step screws, review Cold Heading + Secondary Machining, Swiss-Type & CNC Turning, Secondary & Precision Operations against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve shoulder diameter & length; thread & transition; precision options. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Include mating bore details, critical shoulder dimensions, surface texture and required dimensional inspection. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -5933,9 +5939,15 @@ A special drive discourages casual removal; it does not provide an absolute secu
 
 Evaluate the intended driver with representative finished samples. Check engagement, seating and the agreed assembly behavior after any coating. Define visible-head appearance separately from functional recess acceptance. External profile screening does not demonstrate recess torque performance; use the agreed functional check and record the tool specification with the approved screw revision.
 
+### Review the route before fixing the quotation
+
+For security & tamper-resistant screws, review Multi-Station Cold Heading, Secondary & Precision Operations, Coatings & Surface Treatments against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve drive options; tool interface; head configurations. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Provide the drive drawing or matching tool specification. Tamper resistance depends on tool availability and the complete assembly; it is not absolute security. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6034,9 +6046,15 @@ A radial hole crossing an axial bore can leave an internal edge that cannot be j
 
 Vision screening can check suitable external features but does not establish the full internal passage. Agree an appropriate bore check and any pressure, flow or leak test with defined conditions. Do not infer a pressure rating from the term hollow screw. Material compatibility, sealing geometry and assembly conditions must be addressed before a functional requirement is released.
 
+### Review the route before fixing the quotation
+
+For hollow & through-hole screws, review Swiss-Type & CNC Turning, Secondary & Precision Operations, Cleaning, Locking & Assembly against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve bore geometry; wall & thread relationship; internal finish. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+State bore diameter and depth, permitted burrs, cleanliness and any agreed leak or pressure test. A through hole alone does not establish a pressure rating. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6147,9 +6165,15 @@ Coating applies to a three-dimensional part, including the bearing face and thre
 
 For an equipment cover, review flange clearance, head access, seating and the agreed visual condition on representative parts. Define flange diameter, thickness and any flatness requirement independently. Choose mechanical and coating checks according to the specification; a dimensional screen of the flange does not establish clamp load or corrosion performance.
 
+### Review the route before fixing the quotation
+
+For custom flange screws, review Multi-Station Cold Heading, Cold Heading + Secondary Machining, Coatings & Surface Treatments against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve flange dimensions; bearing face; thin or enlarged flange. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Include the mating material and bearing-face requirements. A larger flange does not automatically prevent surface damage. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6260,9 +6284,15 @@ A flat, rounded or other drawing-defined end interacts differently with the mati
 
 An illustrative fixture adjuster should be checked across its intended travel, including access at both end positions. Inspect the thread and grip dimensions and agree any functional check. Hand tightening is variable and is not a calibrated torque method; where controlled clamp load matters, define the assembly process separately from the knurled head.
 
+### Review the route before fixing the quotation
+
+For knurled thumb & adjustment screws, review Swiss-Type & CNC Turning, Secondary & Precision Operations, Thread Rolling, Cutting & Tapping against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve grip style; adjustment interface; optional drive. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Specify head grip, adjustment travel and any required locking method. Hand grip alone is not a calibrated tightening torque. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6373,9 +6403,15 @@ A set screw used as a shaft retainer has a different acceptance question from on
 
 Verify thread acceptance, tip form, overall length and the specified material condition. An external vision profile cannot by itself validate the socket or assembled holding behavior. Where a modified tip, side hole or eccentric feature is added, include its relationship to the thread axis and the agreed method for checking that relationship.
 
+### Review the route before fixing the quotation
+
+For custom set screws & grub screws, review Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, Material-Specific Heat Treatment against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve tip options; thread options; additional features. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+State tip geometry, mating surface, drive and expected function. Clamping performance depends on the full assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6462,9 +6498,15 @@ T-slot bolt fit: what to measure before ordering ↗ How to specify a tamper-res
 
 Show both the narrow slot opening and internal cavity. Establish whether the head enters from the end or rotates into position. Check neck clearance, anti-rotation contact and bearing area throughout adjustment, not only at the final clamped position.
 
+### Review the route before fixing the quotation
+
+For custom t-slot bolts, review Multi-Station Cold Heading, Hot Heading & Forging, Secondary & Precision Operations against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve head width & thickness; neck & orientation; threaded shank. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Provide slot cross-section and insertion method; do not select from head appearance alone. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6539,9 +6581,15 @@ Eye bolts for linkages and lifting: different specification needs ↗ Eccentric 
 
 Dimension the eye hole against the mating pin, the remaining ligament and the available articulation. Show load direction and nearby interference through the movement. A linkage eye and an approved lifting component have different verification requirements; eye shape does not establish a working load.
 
+### Review the route before fixing the quotation
+
+For custom eye & articulating bolts, review Hot Heading & Forging, Swiss-Type & CNC Turning, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve eye or fork geometry; shank transition; assembly motion. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+State force direction and intended use. Any lifting application needs an approved load-rated design and agreed verification, not simply an eye-shaped head. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6614,9 +6662,15 @@ High-strength screw coatings and hydrogen-risk review ↗ 304, 316 and 17-4PH: d
 
 Provide the permitted load directions, thread engagement, seating arrangement and applicable verification requirements. Angular loading and installation conditions belong in the design review. Do not release a custom ring for lifting on the basis of dimensional conformity alone; the approved design and agreed traceable verification are essential.
 
+### Review the route before fixing the quotation
+
+For custom lifting eye bolt designs, review Hot Heading & Forging, Material-Specific Heat Treatment, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve ring & shank; load direction; verification scope. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Supply the approved load case and applicable standard. Custom geometry is not a certified working-load rating; use only after qualified design and verification. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6689,9 +6743,15 @@ How to dimension a custom U-bolt ↗ Shoulder fits, thread classes and when grin
 
 Define the inside width and bend radius against the clamped component. Show leg spacing, parallelism and the threaded length available after the saddle and nuts are installed. Review bearing contact and coating condition at the bend; overall width alone cannot establish a correctly fitting clamp.
 
+### Review the route before fixing the quotation
+
+For custom u-bolts, review Secondary & Precision Operations, Thread Rolling, Cutting & Tapping, Coatings & Surface Treatments against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve bend profile; leg geometry; mating hardware. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Provide the clamped cross-section and load requirements. Material, bend process and coating must be reviewed together. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6766,9 +6826,15 @@ How to specify a tamper-resistant screw drive ↗ T-slot bolt fit: what to measu
 
 Decide whether the square is driven by a wrench or restrained in a pocket. The first needs tool clearance; the second needs pocket fit, insertion access and controlled anti-rotation contact. State the corner form and under-head transition so an apparently correct across-flat dimension does not hide an interference.
 
+### Review the route before fixing the quotation
+
+For custom square head bolts, review Multi-Station Cold Heading, Hot Heading & Forging, Secondary & Precision Operations against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve head size; captured fit; shank configuration. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Show the wrench access or retaining pocket and required mechanical properties. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6841,9 +6907,15 @@ Custom carriage bolts: specifying the square neck ↗ Designing the bearing face
 
 Check neck depth and width against the panel hole and stack. The neck must engage the intended anti-rotation feature while allowing the bearing face to seat. If the square extends too far into an unsuitable part of the stack, tightening can appear complete before the joint is seated.
 
+### Review the route before fixing the quotation
+
+For custom carriage bolts, review Multi-Station Cold Heading, Thread Rolling, Cutting & Tapping, Coatings & Surface Treatments against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve square neck; head form; shank & thread. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Provide the mating-hole geometry and bearing material; neck engagement is part of the anti-rotation design. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6918,9 +6990,15 @@ Eccentric screw drawings: making the offset unambiguous ↗ Tapered screws: defi
 
 Define the offset from a named datum axis and show the orientation of flats, drives or contact faces. For an adjuster, describe the required movement and stops in the assembly. Measuring only outside diameters cannot establish eccentricity or the angular relationship that makes the mechanism work.
 
+### Review the route before fixing the quotation
+
+For eccentric & angled head screws, review Swiss-Type & CNC Turning, Secondary & Precision Operations, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve offset & datum; head orientation; adjustment range. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Provide an assembly view, datum scheme and required adjustment range. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -6995,9 +7073,15 @@ Double-ended studs: preventing mixed-thread assembly errors ↗ Cone, flat, dog 
 
 Specify each end independently: diameter, pitch, handedness, usable thread and engagement. Dimension the center section and any seating shoulder. If the ends look similar, agree an identification method and include it in inspection and packaging to avoid reversing the part during assembly.
 
+### Review the route before fixing the quotation
+
+For custom double-ended studs, review Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, Material-Specific Heat Treatment against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve mixed thread ends; center shank; assembly orientation. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+State both mating threads, shoulder seating and assembly sequence. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7090,9 +7174,15 @@ Thread gauges and custom screw acceptance ↗ Double-ended studs: preventing mix
 
 Relate pitch to the intended adjustment, while considering the mating thread fit and available engagement. Fine pitch does not by itself establish positioning accuracy or vibration resistance. State contact geometry, travel, locking and thread acceptance as separate requirements.
 
+### Review the route before fixing the quotation
+
+For fine & extra-fine pitch screws, review Thread Rolling, Cutting & Tapping, Swiss-Type & CNC Turning, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve pitch examples; fit & engagement; adjustment action. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Fine pitch alone does not guarantee resistance to loosening. Specify locking and vibration requirements separately. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7185,9 +7275,15 @@ Rolled or cut threads: questions to resolve in the RFQ ↗ Double-ended studs: p
 
 Specify pitch, flank form, major and minor diameters, handedness and any taper or lead requirement. A label such as trapezoidal or buttress is not a complete drawing. Agree the mating component and gauging approach before production, especially where a standard gauge is not suitable for the custom profile.
 
+### Review the route before fixing the quotation
+
+For special & compound thread profiles, review Thread Rolling, Cutting & Tapping, Swiss-Type & CNC Turning, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve profile definition; motion & load; multiple thread zones. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Self-locking depends on geometry, friction and operating conditions. Do not assume every trapezoidal or buttress thread is self-locking. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7272,9 +7368,15 @@ How to specify a tamper-resistant screw drive ↗ T-slot bolt fit: what to measu
 
 Show the pilot hole, substrate material, thickness and available space beyond the joint. A cut or slotted tip changes local geometry but does not guarantee a chip-free installation or prevent penetration. Agree an assembly trial and define the permitted tip projection and debris condition.
 
+### Review the route before fixing the quotation
+
+For modified-tip self-tapping screws, review Multi-Station Cold Heading, Secondary & Precision Operations, Material-Specific Heat Treatment against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve tip & relief; mating material; installation requirement. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Cutting tips can generate chips. Debris and breakthrough control must be demonstrated in the actual assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7359,9 +7461,15 @@ Reduced-shank screws: why transitions need attention ↗ Multi-step screws: cont
 
 Dimension the reduced section and both transitions relative to the functional surfaces. Explain whether it provides clearance, a particular elastic behavior or an assembly feature. A smaller shank changes the load path; geometry alone cannot substantiate a fatigue or stress-reduction claim without the relevant design assessment.
 
+### Review the route before fixing the quotation
+
+For reduced & variable shank screws, review Swiss-Type & CNC Turning, Cold Heading + Secondary Machining, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve section change; functional intent; mechanical verification. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+A reduced shank does not automatically prevent cracking. Supply load and fatigue requirements for design review. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7436,9 +7544,15 @@ Tapered screws: defining the mating seat ↗ Eccentric screw drawings: making th
 
 State the taper definition, datum, contact length and mating geometry. Show where the part should seat and which dimension controls that position. A taper used for location does not automatically provide sealing; any sealing requirement needs defined surfaces, conditions and verification.
 
+### Review the route before fixing the quotation
+
+For tapered shank & cone screws, review Swiss-Type & CNC Turning, Secondary & Precision Operations, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve taper definition; mating surface; thread relationship. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Sealing performance requires a matched design and verification; a taper alone does not establish leak tightness. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7513,9 +7627,15 @@ Integral locating pins: coordinating pin and screw datums ↗ Eccentric screw dr
 
 Show pin diameter, projection and position relative to the locating datum, not only to the overall outline. Review the assembly path so the pin can engage before the screw reaches its seated condition. The locating function and thread retention need independent acceptance checks.
 
+### Review the route before fixing the quotation
+
+For screws with integral locating pins, review Swiss-Type & CNC Turning, Secondary & Precision Operations, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve pin location; pin geometry; feature relationship. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Provide the mating hole and assembly direction. Confirm which feature locates and which provides the clamp. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7588,9 +7708,15 @@ Cold heading or CNC turning: choosing a custom screw route ↗ Knurled thumb scr
 
 Define the threads at each end, the shoulder lengths and the datum axis. Show which face seats first and how the second connection is assembled. Check whether tightening one end changes the position or engagement at the other, and identify the intended wrenching feature.
 
+### Review the route before fixing the quotation
+
+For double-ended shoulder screws, review Swiss-Type & CNC Turning, Cold Heading + Secondary Machining, Thread Rolling, Cutting & Tapping against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve two thread zones; central shoulder; datum control. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Include both mating components and explain which end is installed first. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7665,9 +7791,15 @@ Cross holes in screws: planning burr control and inspection ↗ Hollow screw bor
 
 Specify hole diameter and its axial and angular position from a functional datum. Explain whether it takes a pin, locking wire or a flow passage. Inspect the intersection and edge condition as required; an external hole entrance does not establish that the internal exit is free of a harmful burr.
 
+### Review the route before fixing the quotation
+
+For cross-drilled & head-hole screws, review Secondary & Precision Operations, Swiss-Type & CNC Turning, Cleaning, Locking & Assembly against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve hole position; edge condition; functional interface. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+State the intended retention method and load requirements; a cross hole alone does not establish secure retention. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7742,9 +7874,15 @@ Multi-step screws: controlling the axial dimension chain ↗ Sampling and 100% i
 
 Identify which step locates each mating component. Consider the total axial stack and avoid leaving the controlling distance as an unintended accumulation of unrelated dimensions. Agree the diameters, runout or coaxial relationship actually needed for the assembly and the condition in which they are accepted.
 
+### Review the route before fixing the quotation
+
+For multi-step & multi-shoulder screws, review Cold Heading + Secondary Machining, Swiss-Type & CNC Turning, Secondary & Precision Operations against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve step sequence; feature relationships; finish sequence. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Use a datum-based drawing and identify the surfaces that actually locate or carry load. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
@@ -7817,9 +7955,15 @@ Custom clinch studs: specify the panel as well as the fastener ↗ T-slot bolt f
 
 Supply panel material, thickness, hole preparation and installation direction with the fastener drawing. The retaining feature and panel deform as a system. Define the required installation and retention checks; a correct screw thread does not establish resistance to push-out or rotation in the panel.
 
+### Review the route before fixing the quotation
+
+For custom clinch screws & studs, review Multi-Station Cold Heading, Secondary & Precision Operations, CCD Vision & Dimensional Inspection against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
+
+The drawing review should resolve retention geometry; panel condition; installation validation. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
+
 ### From drawing to approved samples
 
-Provide the drawing, material, finish and intended assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
+Provide the panel specification and acceptance tests. Do not assume a custom feature shares the ratings of a branded standard clinch part. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
