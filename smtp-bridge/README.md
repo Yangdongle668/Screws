@@ -1,5 +1,7 @@
 # 自建SMTP接入部署说明
 
+本地/云端测试：运行 `npm ci` 后执行 `npm test`，需要 OpenSSL（Linux 通常可直接使用；Windows 可使用 Git for Windows 自带版本，或用 `OPENSSL_BIN` 指定路径）。测试自动生成一次性的 localhost 证书与独立临时回执目录，结束后清理，不读取真实证书、不连接外部邮箱、不发送实际邮件。
+
 此服务尚未部署到你的服务器，不能仅保存网站SMTP表单就开始发信。Sites托管不能直连SMTP，由此服务通过465 SSL/TLS或587强制STARTTLS连接邮箱，网站通过HTTPS调用。
 
 1. 在支持Docker的服务器复制本目录，将`.env.example`复制为`.env`，设置安全随机BRIDGE_TOKEN（至少32字符）；SMTP_ALLOWED_HOSTS填写实际邮箱域名，SMTP_FROM_DOMAINS限定发件域名。不要提交真实`.env`到Git。
