@@ -3,3 +3,5 @@ const handle=(request:Request)=>adminAPI(request,new URL(request.url).pathname.s
 export const GET=handle;
 export const POST=handle;
 export const PATCH=handle;
+
+export const DELETE = handle;

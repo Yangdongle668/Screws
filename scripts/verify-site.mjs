@@ -31,7 +31,7 @@ const bad=form({drawing:false});bad.set('drawing',new Blob(['test']),'test.exe')
 const large=form({drawing:false});large.set('drawing',new Blob([new Uint8Array(10*1024*1024+1)]),'large.pdf');assert.equal((await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:large})).status,413);
 const submit=await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:form()});const result=await submit.json();assert.equal(submit.status,201,JSON.stringify(result));assert(result.id.startsWith('ZF-'));
 const duplicate=await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:form()});assert.equal((await duplicate.json()).id,result.id,'Retry must return saved id');
-const added=form({drawing:false,requestKey:crypto.randomUUID()});added.set('product','hollow-screws');const addedResponse=await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:added});assert.equal(addedResponse.status,201,'New product family must be accepted by the API');
+const added=form({drawing:false,requestKey:crypto.randomUUID()});added.set('product','hollow-screws');added.delete('consent');const addedResponse=await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:added});assert.equal(addedResponse.status,201,'New product family must be accepted by the API');
 const sign=await fetch(origin+'/signin-with-chatgpt?return_to=/admin/',{redirect:'manual'});const cookie=sign.headers.get('set-cookie')?.split(';')[0];assert(cookie,'local sign-in cookie');
 const rowsResponse=await fetch(origin+'/api/admin/inquiries',{headers:{Cookie:cookie}});const rows=await rowsResponse.json();assert.equal(rowsResponse.status,200,JSON.stringify(rows));assert.equal(rows.emailConfigured,false);assert.equal(rows.inquiries.filter(x=>x.id===result.id).length,1);
 const drawing=await fetch(origin+'/api/admin/file?id='+result.id,{headers:{Cookie:cookie}});assert.equal(drawing.status,200);assert.equal(await drawing.text(),'%PDF-1.4\nLOCAL QA TEST\n%%EOF');assert(drawing.headers.get('content-disposition').includes('attachment'));
@@ -39,4 +39,12 @@ const patch=await fetch(origin+'/api/admin/inquiries',{method:'PATCH',headers:{C
 const after=await(await fetch(origin+'/api/admin/inquiries',{headers:{Cookie:cookie}})).json();assert.equal(after.inquiries.find(x=>x.id===result.id).status,'contacted');
 const csv=await(await fetch(origin+'/api/admin/export',{headers:{Cookie:cookie}})).text();assert(csv.includes("'=LOCAL QA"),'CSV must neutralize formula strings');
 const retry=await(await fetch(origin+'/api/admin/retry',{method:'POST',headers:{Cookie:cookie,Origin:origin}})).json();assert.equal(retry.configured,false);assert.equal(retry.processed,0);
-console.log(JSON.stringify({pages:checked,cleanUrls:true,internalLinks:true,authorization:true,validation:true,fileLimits:true,durableSave:true,attachmentDownload:true,idempotentRetry:true,statusUpdate:true,csvEscaping:true,email:'not configured; no messages sent',testInquiry:result.id},null,2));
+const exported=await fetch(origin+'/api/admin/record?id='+result.id,{headers:{Cookie:cookie}});assert.equal(exported.status,200);const record=await exported.json();assert.equal(record.record.id,result.id);assert(!('file_key' in record.record));
+const erase=(headers,confirm)=>fetch(origin+'/api/admin/record',{method:'DELETE',headers:{'Content-Type':'application/json',...headers},body:JSON.stringify({id:result.id,confirm})});
+assert.equal((await erase({Origin:origin},result.id)).status,401);
+assert.equal((await erase({Cookie:cookie,Origin:'https://untrusted.invalid'},result.id)).status,403);
+assert.equal((await erase({Cookie:cookie,Origin:origin},'wrong-reference')).status,400);
+assert.equal((await erase({Cookie:cookie,Origin:origin},result.id)).status,200);
+assert.equal((await fetch(origin+'/api/admin/record?id='+result.id,{headers:{Cookie:cookie}})).status,404);
+assert.equal((await fetch(origin+'/api/admin/file?id='+result.id,{headers:{Cookie:cookie}})).status,404);
+console.log(JSON.stringify({pages:checked,cleanUrls:true,internalLinks:true,authorization:true,validation:true,fileLimits:true,durableSave:true,attachmentDownload:true,idempotentRetry:true,statusUpdate:true,csvEscaping:true,recordExportAndErasure:true,email:'not configured; no messages sent',testInquiry:result.id},null,2));

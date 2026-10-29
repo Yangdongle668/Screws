@@ -41,7 +41,7 @@ export async function submitInquiry(request:Request){
   if(value('website'))return fail('Submission rejected.',400);
   const key=value('requestKey');if(!/^[a-f0-9-]{36}$/i.test(key))return fail('Invalid submission reference. Reload the form.');
   const name=value('name'),email=value('email'),company=value('company'),product=value('product'),quantity=value('quantity'),message=value('message');
-  if(!name||name.length>100||!company||company.length>160||!/^\S+@\S+\.\S+$/.test(email)||email.length>254||/[\r\n]/.test(email)||message.length<20||message.length>12000||quantity.length>100||!allowedProducts.has(product)||value('consent')!=='on')return fail('Check the required fields and privacy consent.');
+  if(!name||name.length>100||!company||company.length>160||!/^\S+@\S+\.\S+$/.test(email)||email.length>254||/[\r\n]/.test(email)||message.length<20||message.length>12000||quantity.length>100||!allowedProducts.has(product))return fail('Check the required fields.');
   const existing=await db().prepare('SELECT id,email FROM inquiries WHERE request_key = ?').bind(key).first<{id:string;email:string}>();
   if(existing){if(existing.email!==email)return fail('Submission reference conflict. Reload the form.',409);return json({id:existing.id,saved:true});}
   const source=request.headers.get('CF-Connecting-IP')??'local';const hour=Math.floor(Date.now()/3600000);const raw=new TextEncoder().encode(source+':'+hour);const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',raw))).map(b=>b.toString(16).padStart(2,'0')).join('');
@@ -89,6 +89,23 @@ export async function adminAPI(request:Request,action:string){
    if(!row?.file_key||!env.BUCKET)return fail('Drawing not found.',404);
    const file=await env.BUCKET.get(row.file_key);if(!file)return fail('Drawing not found.',404);
    return new Response(file.body,{headers:{'Content-Type':'application/octet-stream','Content-Disposition':`attachment; filename="drawing"; filename*=UTF-8''${encodeURIComponent(row.file_name??'drawing')}`,'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
+  }
+  if(action==='record'&&request.method==='GET'){
+   const id=new URL(request.url).searchParams.get('id');
+   const row=await db().prepare('SELECT * FROM inquiries WHERE id = ?').bind(id).first<Inquiry>();
+   if(!row)return fail('Inquiry not found.',404);
+   const {file_key,request_key,...record}=row;
+   return new Response(JSON.stringify({record,drawingAvailable:!!file_key,exportedAt:new Date().toISOString()},null,2),{headers:{'Content-Type':'application/json','Content-Disposition':'attachment; filename="inquiry-record.json"','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
+  }
+  if(action==='record'&&request.method==='DELETE'){
+   const body=await request.json() as {id:string;confirm:string};
+   if(!body.id||body.confirm!==body.id)return fail('Confirm the exact inquiry reference.');
+   const row=await db().prepare('SELECT * FROM inquiries WHERE id = ?').bind(body.id).first<Inquiry>();
+   if(!row)return fail('Inquiry not found.',404);
+   // Remove the drawing first; retain the row if storage removal fails so it can be retried.
+   if(row.file_key){if(!env.BUCKET)return fail('Drawing storage unavailable.',503);await env.BUCKET.delete(row.file_key);}
+   await db().prepare('DELETE FROM inquiries WHERE id = ?').bind(body.id).run();
+   return json({deleted:true,id:body.id,deletedAt:new Date().toISOString(),scope:'Active inquiry database and drawing storage only. Previously sent email, exported copies and provider backups require separate review.'});
   }
   if(action==='retry'&&request.method==='POST')return json(await retryNotifications());
   if(action==='export'&&request.method==='GET'){

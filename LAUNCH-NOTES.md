@@ -22,3 +22,14 @@ Only persisted records return success. Retrying the same request key returns its
 
 ## Verification
 Local smoke tests cover clean routes, internal links, authorization, input validation, file limits, attachment retrieval, retry deduplication, status changes and CSV formula escaping. Production notification delivery remains unverified until email credentials are connected.
+
+## 2026-10-29 privacy and navigation update
+- Sticky navigation, context-aware quote links, mobile quote/email bar, return-to-top, essential-storage notice and settings are implemented.
+- No optional analytics/advertising scripts. External Google Fonts requests removed; browser system font fallback used.
+- Privacy, cookies, company information and data request pages added. RFQ processing notice replaces mandatory bundled consent; no marketing subscription.
+- Admin individual JSON export, age-based retention review hint, and explicit-reference-confirmed deletion of active inquiry row + R2 drawing added. Deletion does not remove previously sent mail, exports, provider backups or a notification already in flight. Process these separately for a verified rights request. Do not erase records subject to a legal hold.
+- Inactive/unconverted inquiries: review at 12 months; manual review is required, no automatic destruction is configured.
+- Before unrestricted public launch: obtain full registered address and applicable registration details; assess GDPR territorial scope and whether an EU representative is required; verify processor agreements, hosting locations, international transfer safeguards, platform authentication cookie inventory and provider retention. Current pages do not establish legal compliance by themselves.
+- Mail delivery: verified sender + production mail secret still required. No test emails were sent. Confirm real inbox delivery, bounce handling and retries before reliance.
+- Independent encrypted backup destination, schedule, retention and restore test remain unconfigured. CSV/JSON exports and drawing downloads support manual copies but are not an independent automated backup service.
+- Site audience remains owner-private; admin allowlist must match the intended signed-in team account before production staff use. Do not widen access to inquiry data during public launch.
