@@ -1,3 +1,4 @@
+import {processResultImage} from './sector-images.mjs';
 import {buildTopicLinks} from './topic-links.mjs';
 import {contentDepth,deepenArticles} from './content-depth.mjs';
 import {writeLlmResources} from './llm-resources.mjs';
@@ -55,6 +56,7 @@ const pages={};
 function add(url,title,description,body,{schema=null,noindex=false}={}){
  if(priorityTitles[url])[title,description]=priorityTitles[url];
  body=priorityBody(url,body);
+ const process=processData.find(p=>url===`/capabilities/${p.slug}/`);if(process)body=body.replace('<section class="cta-band">',processResultImage(process.slug)+'<section class="cta-band">');
  const depth=contentDepth(url);if(depth)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',depth+'<section class="cta-band">'):body+depth;
  if(url.startsWith('/blog/')){const article=articles.find(a=>url==='/blog/'+a.slug+'/');if(article?.processes){const block='<section class="section muted"><h2>Related manufacturing topics</h2><div class="related-links">'+article.processes.map(slug=>'<a href="/capabilities/'+slug+'/">'+processData.find(p=>p.slug===slug).name+' ↗</a>').join('')+'</div>'+(article.sources?'<div class="technical-sources"><h3>Technical references</h3><ul>'+article.sources.map(([n,u])=>'<li><a href="'+u+'">'+n+'</a></li>').join('')+'</ul></div>':'')+'</section>';body=body.replace('<section class="cta-band">',block+'<section class="cta-band">');}}
  if(url==='/resources/'){body=body.replace('<section class="cta-band">','<section class="section"><h2>Explore the complete specification.</h2><div class="related-links"><a href="/guides/drive-types/">Special drive interface guide ↗</a><a href="/capabilities/process-routes/">Complete manufacturing route examples ↗</a><a href="/materials/">Material selection by family ↗</a></div></section><section class="cta-band">');}

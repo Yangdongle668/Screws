@@ -99,14 +99,14 @@ https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/
 - [定制螺丝制造路线示例 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/process-routes/): 比较冷镦台阶螺丝、CNC 空心和偏心零件以及热锻孔眼组件的完整路线示例。
 - [Theo Wan — ZUFEK 技术编辑 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/authors/theo-wan/): 技术文章发表于Theo Wan（万天恩），即ZUFEK定制紧固件指南的编辑笔名。
 - [行业 — 按应用分类的定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/): 探索用于汽车零部件、自动化、电子、能源设备、模具、安全、流体控制和机械的ZUFEK定制紧固件。
-- [汽车零部件定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/automotive-components/): 用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
-- [工业自动化定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/industrial-automation/): 用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
-- [电子和光学设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/electronics-optics/): 工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
-- [能源、充电和存储设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/energy-equipment/): 适用于设备外壳、支架、布线功能和电气接口组件的定制紧固和连接几何形状。
-- [模具、工装和测试夹具定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/molds-fixtures/): 用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
-- [安全和访问设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/security-equipment/): 用于检修面板、防护罩和可维修安全设备的特殊驱动和定制头紧固件。
-- [流体控制和气动设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/fluid-control/): 空心、交叉钻孔和锥度相关的定制组件，用于特定应用的通道、固定装置和连接接口。
-- [通用机械和设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/general-machinery/): 用于机架、支架、定制连杆和设备组件的特殊头、螺柱和连接几何形状。
+- [汽车零部件定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/automotive-components/): 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
+- [工业自动化定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/industrial-automation/): 台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
+- [电子和光学设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/electronics-optics/): 为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
+- [能源、充电和存储设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/energy-equipment/): 为充电、储能及相关设备的外壳、支架、走线结构和连接部位提供非标紧固方案。
+- [模具、工装和测试夹具定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/molds-fixtures/): 台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
+- [安全和访问设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/security-equipment/): 特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
+- [流体控制和气动设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/fluid-control/): 中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
+- [通用机械和设备定制紧固件 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/general-machinery/): 为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
 - [碳钢和合金钢 — 定制螺钉强度和用途 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/carbon-alloy-steel/): 定制紧固件的碳钢和合金钢强度参考、应用注意事项和询价要求。
 - [10B21 硼钢 — 定制螺钉强度和用途 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/10b21-boron-steel/): 10B21 硼钢强度参考、应用注意事项和定制紧固件的询价要求。
 - [SUS304 和 SUS316 不锈钢 — 定制螺丝强度和用途 | ZUFEK](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/stainless-steel-304-316/): SUS304 和 SUS316 定制紧固件的不锈钢强度参考、应用注意事项和询价要求。

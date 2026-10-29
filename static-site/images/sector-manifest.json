@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "industry-automotive-components",
+    "kind": "industry",
+    "title": "Automotive Components",
+    "full": "/images/industry-automotive-components.webp",
+    "thumbnail": "/images/industry-automotive-components-small.webp"
+  },
+  {
+    "slug": "industry-industrial-automation",
+    "kind": "industry",
+    "title": "Industrial Automation",
+    "full": "/images/industry-industrial-automation.webp",
+    "thumbnail": "/images/industry-industrial-automation-small.webp"
+  },
+  {
+    "slug": "industry-electronics-optics",
+    "kind": "industry",
+    "title": "Electronics & Optical Equipment",
+    "full": "/images/industry-electronics-optics.webp",
+    "thumbnail": "/images/industry-electronics-optics-small.webp"
+  },
+  {
+    "slug": "industry-energy-equipment",
+    "kind": "industry",
+    "title": "Energy, Charging & Storage Equipment",
+    "full": "/images/industry-energy-equipment.webp",
+    "thumbnail": "/images/industry-energy-equipment-small.webp"
+  },
+  {
+    "slug": "industry-molds-fixtures",
+    "kind": "industry",
+    "title": "Molds, Tooling & Test Fixtures",
+    "full": "/images/industry-molds-fixtures.webp",
+    "thumbnail": "/images/industry-molds-fixtures-small.webp"
+  },
+  {
+    "slug": "industry-security-equipment",
+    "kind": "industry",
+    "title": "Security & Access Equipment",
+    "full": "/images/industry-security-equipment.webp",
+    "thumbnail": "/images/industry-security-equipment-small.webp"
+  },
+  {
+    "slug": "industry-fluid-control",
+    "kind": "industry",
+    "title": "Fluid Control & Pneumatic Equipment",
+    "full": "/images/industry-fluid-control.webp",
+    "thumbnail": "/images/industry-fluid-control-small.webp"
+  },
+  {
+    "slug": "industry-general-machinery",
+    "kind": "industry",
+    "title": "General Machinery & Equipment",
+    "full": "/images/industry-general-machinery.webp",
+    "thumbnail": "/images/industry-general-machinery-small.webp"
+  },
+  {
+    "slug": "material-carbon-alloy-steel",
+    "kind": "material",
+    "title": "Carbon & Alloy Steel",
+    "full": "/images/material-carbon-alloy-steel.webp",
+    "thumbnail": "/images/material-carbon-alloy-steel-small.webp"
+  },
+  {
+    "slug": "material-10b21-boron-steel",
+    "kind": "material",
+    "title": "10B21 Boron Steel",
+    "full": "/images/material-10b21-boron-steel.webp",
+    "thumbnail": "/images/material-10b21-boron-steel-small.webp"
+  },
+  {
+    "slug": "material-stainless-steel-304-316",
+    "kind": "material",
+    "title": "SUS304 & SUS316 Stainless Steel",
+    "full": "/images/material-stainless-steel-304-316.webp",
+    "thumbnail": "/images/material-stainless-steel-304-316-small.webp"
+  },
+  {
+    "slug": "material-aluminum-alloys",
+    "kind": "material",
+    "title": "Aluminum Alloys",
+    "full": "/images/material-aluminum-alloys.webp",
+    "thumbnail": "/images/material-aluminum-alloys-small.webp"
+  },
+  {
+    "slug": "material-copper",
+    "kind": "material",
+    "title": "Copper",
+    "full": "/images/material-copper.webp",
+    "thumbnail": "/images/material-copper-small.webp"
+  },
+  {
+    "slug": "material-brass",
+    "kind": "material",
+    "title": "Brass",
+    "full": "/images/material-brass.webp",
+    "thumbnail": "/images/material-brass-small.webp"
+  },
+  {
+    "slug": "material-titanium-alloys",
+    "kind": "material",
+    "title": "Titanium & Titanium Alloys",
+    "full": "/images/material-titanium-alloys.webp",
+    "thumbnail": "/images/material-titanium-alloys-small.webp"
+  },
+  {
+    "slug": "result-cold-heading",
+    "kind": "result",
+    "title": "Cold heading — formed blank",
+    "full": "/images/result-cold-heading.webp",
+    "thumbnail": "/images/result-cold-heading-small.webp"
+  },
+  {
+    "slug": "result-cnc-turning",
+    "kind": "result",
+    "title": "CNC turning — stepped geometry",
+    "full": "/images/result-cnc-turning.webp",
+    "thumbnail": "/images/result-cnc-turning-small.webp"
+  },
+  {
+    "slug": "result-hot-forging",
+    "kind": "result",
+    "title": "Hot forging — forged blank",
+    "full": "/images/result-hot-forging.webp",
+    "thumbnail": "/images/result-hot-forging-small.webp"
+  },
+  {
+    "slug": "result-hybrid-manufacturing",
+    "kind": "result",
+    "title": "Hybrid manufacturing — refined shoulder",
+    "full": "/images/result-hybrid-manufacturing.webp",
+    "thumbnail": "/images/result-hybrid-manufacturing-small.webp"
+  },
+  {
+    "slug": "result-threading",
+    "kind": "result",
+    "title": "Threading — finished thread",
+    "full": "/images/result-threading.webp",
+    "thumbnail": "/images/result-threading-small.webp"
+  },
+  {
+    "slug": "result-secondary-machining",
+    "kind": "result",
+    "title": "Secondary machining — cross hole",
+    "full": "/images/result-secondary-machining.webp",
+    "thumbnail": "/images/result-secondary-machining-small.webp"
+  },
+  {
+    "slug": "result-heat-treatment",
+    "kind": "result",
+    "title": "Heat treatment — final condition",
+    "full": "/images/result-heat-treatment.webp",
+    "thumbnail": "/images/result-heat-treatment-small.webp"
+  },
+  {
+    "slug": "result-surface-treatment",
+    "kind": "result",
+    "title": "Surface treatment — finish options",
+    "full": "/images/result-surface-treatment.webp",
+    "thumbnail": "/images/result-surface-treatment-small.webp"
+  },
+  {
+    "slug": "result-post-processing",
+    "kind": "result",
+    "title": "Post-processing — clean and deburred",
+    "full": "/images/result-post-processing.webp",
+    "thumbnail": "/images/result-post-processing-small.webp"
+  },
+  {
+    "slug": "result-inspection",
+    "kind": "result",
+    "title": "Inspection — dimensional review",
+    "full": "/images/result-inspection.webp",
+    "thumbnail": "/images/result-inspection-small.webp"
+  }
+]

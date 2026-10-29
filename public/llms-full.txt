@@ -8118,6 +8118,14 @@ Sample release Identify production-route samples and critical formed features Wh
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
 
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
+
 ### Inputs and outputs for Multi-Station Cold Heading
 
 The process review begins with Shoulder & Step Screws, Custom Flange Screws, Security & Tamper-Resistant Screws, Custom Carriage Bolts and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
@@ -8230,6 +8238,14 @@ Stock and final condition Specify grade/condition and later treatment or coating
 Sample to production Identify route differences and repeated batch needs Is the approved prototype representative of the final production route?
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
+
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
 
 ### Inputs and outputs for Swiss-Type & CNC Turning
 
@@ -8344,6 +8360,14 @@ Load-related application Supply the approved design and traceable verification s
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
 
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
+
 ### Inputs and outputs for Hot Heading & Forging
 
 The process review begins with Custom Eye & Articulating Bolts, Custom Lifting Eye Bolt Designs, Custom Square Head Bolts and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
@@ -8432,6 +8456,14 @@ Complete sequence Coordinate threads, treatment, finishing and coating At which 
 Route transfer Compare sample and repeat-production methods Which characteristics need a production-route sample check?
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
+
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
 
 ### Inputs and outputs for Cold Heading + Secondary Machining
 
@@ -8527,6 +8559,14 @@ Transitions and ends Show relief, lead-in, blind ends and adjacent shoulders Can
 Final acceptance Agree gauges, custom-profile methods and coating allowance Is acceptance defined in the supplied condition rather than only before finishing?
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
+
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
 
 ### Inputs and outputs for Thread Rolling, Cutting & Tapping
 
@@ -8641,6 +8681,14 @@ Process location Identify surfaces used for holding after earlier operations Can
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
 
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
+
 ### Inputs and outputs for Secondary & Precision Operations
 
 The process review begins with Hollow & Through-Hole Screws, Knurled Thumb & Adjustment Screws, Eccentric & Angled Head Screws, Cross-Drilled & Head-Hole Screws and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
@@ -8747,6 +8795,14 @@ Evidence Specify hardness, other mechanical checks and requested records What me
 Surface compatibility Coordinate later cleaning, coating and risk controls Does the full proposed route protect the ordered final condition?
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
+
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
 
 ### Inputs and outputs for Material-Specific Heat Treatment
 
@@ -8861,6 +8917,14 @@ Acceptance Define thickness, appearance and any corrosion/friction tests Are tes
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
 
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
+
 ### Inputs and outputs for Coatings & Surface Treatments
 
 The process review begins with Security & Tamper-Resistant Screws, Custom Flange Screws, Knurled Thumb & Adjustment Screws, Shoulder & Step Screws and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
@@ -8974,6 +9038,14 @@ Packaging Agree lot separation, protection and labeling How will the approved pa
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
 
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
+
 ### Inputs and outputs for Cleaning, Locking & Assembly
 
 The process review begins with Hollow & Through-Hole Screws, Captive Screws, Custom Flange Screws, Modified-Tip Self-Tapping Screws and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
@@ -9079,6 +9151,14 @@ Revision and rejection Identify drawing/program revision and reject disposition 
 
 Compare complete manufacturing routes ↗ Select material and final strength ↗ Agree acceptance and records ↗
 
+AFTER PROCESSING
+
+### See the resulting feature.
+
+Visual references help explain geometry and finish. Material properties, coating performance and acceptance require the agreed inspection methods.
+
+Process outcome reference; final requirements follow the approved drawing.
+
 ### Inputs and outputs for CCD Vision & Dimensional Inspection
 
 The process review begins with Shoulder & Step Screws, Custom Lifting Eye Bolt Designs, Custom Clinch Screws & Studs, Hollow & Through-Hole Screws and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
@@ -9144,43 +9224,43 @@ MATERIALS, STRENGTH & APPLICATIONS
 
 Compare grade, condition, strength and application needs. A material family alone does not determine the load capacity of a custom screw.
 
-Fe MATERIAL SELECTION
+MATERIAL SELECTION
 
 ### Carbon & Alloy Steel ↗
 
 A practical choice for drawing-defined fasteners where the required mechanical class, wear behavior and surface protection can be specified together.
 
-Strength, uses & specification → B MATERIAL SELECTION
+Strength, uses & specification → MATERIAL SELECTION
 
 ### 10B21 Boron Steel ↗
 
 A boron-alloyed steel grade considered for formed fastener routes when the drawing, final material condition and required properties are defined.
 
-Strength, uses & specification → Cr MATERIAL SELECTION
+Strength, uses & specification → MATERIAL SELECTION
 
 ### SUS304 & SUS316 Stainless Steel ↗
 
 Austenitic stainless choices for parts where corrosion exposure, surface condition and the specified fastener strength class need to be considered together.
 
-Strength, uses & specification → Al MATERIAL SELECTION
+Strength, uses & specification → MATERIAL SELECTION
 
 ### Aluminum Alloys ↗
 
 Lightweight metal options for custom threaded parts where the alloy, temper, engagement and surface requirements can be engineered for the application.
 
-Strength, uses & specification → Cu MATERIAL SELECTION
+Strength, uses & specification → MATERIAL SELECTION
 
 ### Copper ↗
 
 A material family considered where electrical or thermal function is important alongside the geometry and mechanical acceptance of the custom component.
 
-Strength, uses & specification → CuZn MATERIAL SELECTION
+Strength, uses & specification → MATERIAL SELECTION
 
 ### Brass ↗
 
 Copper-zinc alloys can be useful for drawing-specific machined threaded components where machining behavior, contact conditions and the selected alloy composition fit the application.
 
-Strength, uses & specification → Ti MATERIAL SELECTION
+Strength, uses & specification → MATERIAL SELECTION
 
 ### Titanium & Titanium Alloys ↗
 
@@ -9531,7 +9611,7 @@ DRAWING & LOT CONTROL
 
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
-Discuss your application ↗ Custom Flange Screws
+Discuss your application ↗ Industry overview
 
 ### Repeatable geometry
 
@@ -9614,7 +9694,7 @@ LOCATING & MOVING INTERFACES
 
 Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.
 
-Discuss your application ↗ Shoulder & Step Screws
+Discuss your application ↗ Industry overview
 
 ### Fits and locating surfaces
 
@@ -9697,7 +9777,7 @@ COMPACT & ADJUSTABLE PARTS
 
 Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.
 
-Discuss your application ↗ Fine & Extra-Fine Pitch Screws
+Discuss your application ↗ Industry overview
 
 ### Small interface details
 
@@ -9774,7 +9854,7 @@ ENCLOSURE & CONNECTION DETAILS
 
 Custom fastening and connection geometries for equipment housings, brackets, routing features and electrical interface components.
 
-Discuss your application ↗ Security & Tamper-Resistant Screws
+Discuss your application ↗ Industry overview
 
 ### Access and retention
 
@@ -9851,7 +9931,7 @@ STEPS, STOPS & ADJUSTMENT
 
 Custom shoulder screws, stops and threaded locating components for mold-related mechanisms, jigs and test fixtures.
 
-Discuss your application ↗ Multi-Step & Multi-Shoulder Screws
+Discuss your application ↗ Industry overview
 
 ### Functional dimension chains
 
@@ -9928,7 +10008,7 @@ DRIVE INTERFACE & SERVICE ACCESS
 
 Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment.
 
-Discuss your application ↗ Security & Tamper-Resistant Screws
+Discuss your application ↗ Industry overview
 
 ### Defined drive profiles
 
@@ -10005,7 +10085,7 @@ BORES, EDGES & CLEANLINESS
 
 Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces.
 
-Discuss your application ↗ Hollow & Through-Hole Screws
+Discuss your application ↗ Industry overview
 
 ### Complete internal geometry
 
@@ -10082,7 +10162,7 @@ MOUNTING, LINKAGES & CUSTOM JOINTS
 
 Special heads, studs and connection geometries for machine frames, brackets, custom linkages and equipment assemblies.
 
-Discuss your application ↗ Custom Double-Ended Studs
+Discuss your application ↗ Industry overview
 
 ### Mating connection details
 
@@ -10153,11 +10233,13 @@ A T-head must enter, turn or slide inside the intended slot while retaining the 
 # Carbon & Alloy Steel — Custom Screw Strength & Uses | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/carbon-alloy-steel/
 
-Fe GRADE / CONDITION / FINAL REQUIREMENT
+GRADE / CONDITION / FINAL REQUIREMENT
 
 ## Carbon & Alloy Steel
 
 A practical choice for drawing-defined fasteners where the required mechanical class, wear behavior and surface protection can be specified together.
+
+Material appearance reference; grade and properties require documentation.
 
 ### Strength reference
 
@@ -10252,11 +10334,13 @@ A coating belongs in the dimensional plan. The final fit must be evaluated in th
 # 10B21 Boron Steel — Custom Screw Strength & Uses | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/10b21-boron-steel/
 
-B GRADE / CONDITION / FINAL REQUIREMENT
+GRADE / CONDITION / FINAL REQUIREMENT
 
 ## 10B21 Boron Steel
 
 A boron-alloyed steel grade considered for formed fastener routes when the drawing, final material condition and required properties are defined.
+
+Material appearance reference; grade and properties require documentation.
 
 ### Strength reference
 
@@ -10347,11 +10431,13 @@ A high-strength steel fastener needs a coating decision that considers both corr
 # SUS304 & SUS316 Stainless Steel — Custom Screw Strength & Uses | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/stainless-steel-304-316/
 
-Cr GRADE / CONDITION / FINAL REQUIREMENT
+GRADE / CONDITION / FINAL REQUIREMENT
 
 ## SUS304 & SUS316 Stainless Steel
 
 Austenitic stainless choices for parts where corrosion exposure, surface condition and the specified fastener strength class need to be considered together.
+
+Material appearance reference; grade and properties require documentation.
 
 ### Strength reference
 
@@ -10446,11 +10532,13 @@ A bright appearance does not identify a surface process. Specify the substrate a
 # Aluminum Alloys — Custom Screw Strength & Uses | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/aluminum-alloys/
 
-Al GRADE / CONDITION / FINAL REQUIREMENT
+GRADE / CONDITION / FINAL REQUIREMENT
 
 ## Aluminum Alloys
 
 Lightweight metal options for custom threaded parts where the alloy, temper, engagement and surface requirements can be engineered for the application.
+
+Material appearance reference; grade and properties require documentation.
 
 ### Strength reference
 
@@ -10545,11 +10633,13 @@ A prototype can establish useful geometry without defining the final production 
 # Copper — Custom Screw Strength & Uses | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/copper/
 
-Cu GRADE / CONDITION / FINAL REQUIREMENT
+GRADE / CONDITION / FINAL REQUIREMENT
 
 ## Copper
 
 A material family considered where electrical or thermal function is important alongside the geometry and mechanical acceptance of the custom component.
+
+Material appearance reference; grade and properties require documentation.
 
 ### Strength reference
 
@@ -10640,11 +10730,13 @@ Cleanliness becomes a technical requirement when contamination can affect the as
 # Brass — Custom Screw Strength & Uses | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/brass/
 
-CuZn GRADE / CONDITION / FINAL REQUIREMENT
+GRADE / CONDITION / FINAL REQUIREMENT
 
 ## Brass
 
 Copper-zinc alloys can be useful for drawing-specific machined threaded components where machining behavior, contact conditions and the selected alloy composition fit the application.
+
+Material appearance reference; grade and properties require documentation.
 
 ### Strength reference
 
@@ -10737,11 +10829,13 @@ Material selection begins with the service environment and mechanical requiremen
 # Titanium & Titanium Alloys — Custom Screw Strength & Uses | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/titanium-alloys/
 
-Ti GRADE / CONDITION / FINAL REQUIREMENT
+GRADE / CONDITION / FINAL REQUIREMENT
 
 ## Titanium & Titanium Alloys
 
 Titanium grades are considered where mass, corrosion exposure and required mechanical properties justify a grade-specific manufacturing and verification plan.
+
+Material appearance reference; grade and properties require documentation.
 
 ### Strength reference
 
@@ -11643,7 +11737,7 @@ DONGGUAN ZUFEK TECHNOLOGY CO., LTD. 自2005开始在东莞大朗制造非标金�
 
 应用设计研究
 
-### 请参阅上下文中的决定。
+### 结合应用示例理解选型思路。
 
 两个示例性项目将装配需求与紧固件结构、材料、加工和审批计划联系起来。
 
@@ -14507,7 +14601,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 
 #### 安全和访问设备 ↗
 
-用于检修面板、防护罩和可维修安全设备的特殊驱动和定制头紧固件。
+特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 ---
 
@@ -15082,13 +15176,13 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 申请要求
 
 #### 安全和访问设备 ↗
 
-用于检修面板、防护罩和可维修安全设备的特殊驱动和定制头紧固件。
+特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 ---
 
@@ -17129,7 +17223,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 
 应用设计研究
 
-### 请参阅上下文中的决定。
+### 结合应用示例理解选型思路。
 
 两个示例性项目将装配需求与紧固件结构、材料、加工和审批计划联系起来。
 
@@ -19524,7 +19618,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -19919,7 +20013,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 安全和访问设备 ↗
 
-用于检修面板、防护罩和可维修安全设备的特殊驱动和定制头紧固件。
+特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 ---
 
@@ -20729,7 +20823,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ---
 
@@ -21204,7 +21298,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -22094,7 +22188,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -23026,7 +23120,7 @@ ISO 公制螺纹公差
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -23525,7 +23619,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -24044,7 +24138,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ---
 
@@ -24569,7 +24663,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -25094,7 +25188,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 
 #### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ---
 
@@ -25595,7 +25689,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 模具、工装和测试夹具 ↗
 
-用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
+台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 ---
 
@@ -26066,7 +26160,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 模具、工装和测试夹具 ↗
 
-用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
+台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 ---
 
@@ -26531,7 +26625,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 
 #### 通用机械和设备 ↗
 
-用于机架、支架、定制连杆和设备组件的特殊头、螺柱和连接几何形状。
+为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
 
 ---
 
@@ -27806,7 +27900,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ---
 
@@ -28319,7 +28413,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -29201,7 +29295,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 流体控制和气动设备 ↗
 
-空心、交叉钻孔和锥度相关的定制组件，用于特定应用的通道、固定装置和连接接口。
+中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 ---
 
@@ -29666,7 +29760,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ---
 
@@ -30131,7 +30225,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ---
 
@@ -31025,7 +31119,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 流体控制和气动设备 ↗
 
-空心、交叉钻孔和锥度相关的定制组件，用于特定应用的通道、固定装置和连接接口。
+中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 ---
 
@@ -31496,7 +31590,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 流体控制和气动设备 ↗
 
-空心、交叉钻孔和锥度相关的定制组件，用于特定应用的通道、固定装置和连接接口。
+中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 ---
 
@@ -32009,7 +32103,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -32939,7 +33033,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -33464,7 +33558,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ---
 
@@ -34394,7 +34488,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -34983,7 +35077,7 @@ KEYENCE：视觉照明和轮廓检查
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -35881,7 +35975,7 @@ CCD视觉尺寸检测 ↗ 清洗、防松与预装配 ↗
 
 #### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ---
 
@@ -36402,7 +36496,7 @@ ISO：公制螺纹公差系统
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ---
 
@@ -36937,7 +37031,7 @@ Bossard：参考预载和拧紧信息
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ---
 
@@ -38706,7 +38800,7 @@ engineer@zufek.com↗ 包括与您的应用相关的工程图纸修订、数量�
 
 应用设计研究
 
-### 请参阅上下文中的决定。
+### 结合应用示例理解选型思路。
 
 两个示例性项目将装配需求与紧固件结构、材料、加工和审批计划联系起来。
 
@@ -51310,6 +51404,14 @@ Musterfreigabe Identifizieren Sie Produktionsroutenmuster und kritische Formmerk
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
 
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
+
 ### Ein- und Ausgänge für das Mehrstufen-Kaltstauchen
 
 Die Prozessüberprüfung beginnt mit Schulter- und Stufenschrauben, kundenspezifischen Flanschschrauben, Sicherheits- und manipulationssicheren Schrauben, kundenspezifischen Schlossschrauben und der eigentlichen Konstruktionszeichnung, nicht einer allgemeinen Ausrüstungsliste. Identifizieren Sie den Zustand des eingehenden Bestands oder Teils und die Abmessungen, die in dieser Phase kontrolliert bleiben müssen.
@@ -51422,6 +51524,14 @@ Economía de la producción Herramientas separadas, muestras, cantidad recurrent
 Lanzamiento de muestra Identificar muestras de rutas de producción y características formadas críticas. ¿Qué se debe reconfirmar si se mecanizó un prototipo inicial?
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
+
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
 
 ### Entradas y salidas para cabezal en frío multiestación
 
@@ -51536,6 +51646,14 @@ Rilascio del campione Identificare i campioni del percorso di produzione e le ca
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
 
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
+
 ### Ingressi e uscite per la rotta a freddo multistazione
 
 La revisione del processo inizia con le viti a spalla e a gradino, le viti flangiate personalizzate, le viti di sicurezza e antimanomissione, i bulloni di trasporto personalizzati e il disegno tecnico vero e proprio, non un elenco generico di apparecchiature. Identificare la condizione dello stock o della parte in entrata e le dimensioni che devono rimanere controllate in questa fase.
@@ -51649,6 +51767,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 多工位冷镦成型的输入和输出
 
 流程审查从肩部和阶梯螺钉、定制法兰螺钉、安全和防篡改螺钉、定制马车螺栓和实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -51683,13 +51809,13 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 申请要求
 
 #### 能源、充电和存储设备 ↗
 
-适用于设备外壳、支架、布线功能和电气接口组件的定制紧固和连接几何形状。
+为充电、储能及相关设备的外壳、支架、走线结构和连接部位提供非标紧固方案。
 
 工程制图-DEFINED DESIGN
 
@@ -51761,6 +51887,14 @@ Géométrie et outillage Identifier le volume de la tête, les marches, l'évide
 Exemple de version Identifier les échantillons de la route de production et les caractéristiques formées critiques Que faut-il reconfirmer si un premier prototype était usiné ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour la frappe à froid multi-stations
 
@@ -51875,6 +52009,14 @@ Von der Probe bis zur Produktion Identifizieren Sie Routenunterschiede und wiede
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
 
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
+
 ### Ein- und Ausgänge für Swiss-Type- und CNC-Drehen
 
 Die Prozessüberprüfung beginnt mit Hohl- und Durchgangslochschrauben, Exzenter- und Winkelkopfschrauben, mehrstufigen und mehrschultrigen Schrauben, Fein- und Extrafeingewindeschrauben und der eigentlichen Konstruktionszeichnung, nicht einer allgemeinen Ausrüstungsliste. Identifizieren Sie den Zustand des eingehenden Bestands oder Teils und die Abmessungen, die in dieser Phase kontrolliert bleiben müssen.
@@ -51987,6 +52129,14 @@ Stock y estado final Especificar grado/condición y tratamiento o recubrimiento 
 Muestra a producción Identificar diferencias de ruta y necesidades de lotes repetidos ¿El prototipo aprobado es representativo de la ruta de producción final?
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
+
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
 
 ### Entradas y salidas para torneado tipo suizo y CNC
 
@@ -52101,6 +52251,14 @@ Campione alla produzione Identificare le differenze di percorso e le esigenze ri
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
 
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
+
 ### Ingressi e uscite per tornitura a fantina mobile e CNC
 
 La revisione del processo inizia con viti a foro cavo e passante, viti a testa eccentrica e angolata, viti a gradino multiplo e a spallamento multiplo, viti a passo fine ed extra-fine e il disegno tecnico vero e proprio, non un elenco generico di apparecchiature. Identificare la condizione dello stock o della parte in entrata e le dimensioni che devono rimanere controllate in questa fase.
@@ -52214,6 +52372,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 用于走心式和CNC车削的输入和输出
 
 工艺审查从空心和通孔螺钉、偏心和角头螺钉、多台阶螺丝、细牙和超细牙螺钉以及实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -52254,13 +52420,13 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 申请要求
 
 #### 模具、工装和测试夹具 ↗
 
-用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
+台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 工程制图-DEFINED DESIGN
 
@@ -52326,6 +52492,14 @@ Stock et état final Préciser la qualité/état et le traitement ou revêtement
 Échantillon à la production Identifier les différences d'itinéraire et les besoins de lots répétés Le prototype approuvé est-il représentatif de la filière de production finale ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour le tournage Swiss-Type & CNC
 
@@ -52440,6 +52614,14 @@ Belastungsbezogene Anwendung Stellen Sie das genehmigte Design und den nachverfo
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
 
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
+
 ### Ein- und Ausgänge für Warmstauchen und Warmumformen
 
 Die Prozessüberprüfung beginnt mit kundenspezifischen Augen- und Gelenkschrauben, kundenspezifischen Ringschraubenkonstruktionen, kundenspezifischen Vierkantschrauben und der eigentlichen Konstruktionszeichnung, nicht einer allgemeinen Ausrüstungsliste. Identifizieren Sie den Zustand des eingehenden Bestands oder Teils und die Abmessungen, die in dieser Phase kontrolliert bleiben müssen.
@@ -52528,6 +52710,14 @@ Estado de los materiales Especificar tratamiento térmico y aceptación mecánic
 Aplicación relacionada con la carga Suministrar el diseño aprobado y el alcance de verificación rastreable. Si se trata de elevación, ¿quién aprueba el diseño y la clasificación aplicable?
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
+
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
 
 ### Entradas y salidas para Hot Heading & Forging
 
@@ -52618,6 +52808,14 @@ Applicazione relativa al carico Fornire il progetto approvato e l'ambito di veri
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
 
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
+
 ### Ingressi e uscite per stampaggio a caldo e forgiatura
 
 La revisione del processo inizia con bulloni a occhiello e di articolazione personalizzati, progetti di bulloni a occhiello di sollevamento personalizzati, bulloni a testa quadrata personalizzati e il disegno tecnico effettivo, non un elenco di attrezzature generiche. Identificare la condizione dello stock o della parte in entrata e le dimensioni che devono rimanere controllate in questa fase.
@@ -52707,6 +52905,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 热镦与热锻的输入和输出
 
 流程审查从定制吊环和铰接螺栓、定制吊环螺栓设计、定制方头螺栓和实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -52729,7 +52935,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 #### 通用机械和设备 ↗
 
-用于机架、支架、定制连杆和设备组件的特殊头、螺柱和连接几何形状。
+为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
 
 工程制图-DEFINED DESIGN
 
@@ -52795,6 +53001,14 @@ Surépaisseur d'usinage Identifier la suppression du flash/de l'échelle et les 
 Application liée à la charge Fournir la conception approuvée et la portée de vérification traçable Si un levage est impliqué, qui approuve la conception et la classification applicable ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour le frappe à chaud et le forgeage
 
@@ -52884,6 +53098,14 @@ Komplette Sequenz Gewinde, Behandlung, Veredelung und Beschichtung aufeinander a
 Streckenübertragung Vergleichen Sie Muster- und Wiederholungsproduktionsmethoden Welche Merkmale bedürfen einer fertigungsbegleitenden Stichprobenprüfung?
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
 
 ### Ein- und Ausgänge für Kaltstauchen mit anschließender Zerspanung
 
@@ -52980,6 +53202,14 @@ Transferencia de ruta Comparar métodos de producción de muestras y de repetici
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
 
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
+
 ### Entradas y salidas para Maquinado en Frío + Mecanizado Secundario
 
 La revisión del proceso comienza con los tornillos de hombro y escalonados, los tornillos de varios pasos y de múltiples hombros, los tornillos de hombro de doble extremo, los tornillos de brida personalizados y el dibujo de ingeniería real, no una lista genérica de equipos. Identifique el stock entrante o el estado de la pieza y las dimensiones que deben permanecer controladas en esta etapa.
@@ -53074,6 +53304,14 @@ Sequenza completa Coordinare filetti, trattamento, finitura e rivestimento In qu
 Trasferimento del percorso Confrontare i metodi di campionamento e di produzione ripetuta Quali caratteristiche necessitano di un controllo a campione del percorso di produzione?
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
+
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
 
 ### Ingressi e uscite per stampaggio a freddo + lavorazione secondaria
 
@@ -53170,6 +53408,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 冷镦加二次精加工的输入和输出
 
 流程审查从肩部和阶梯螺钉、多台阶螺丝、双端台阶螺丝、定制法兰螺钉和实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -53192,13 +53438,13 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 申请要求
 
 #### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 工程制图-DEFINED DESIGN
 
@@ -53264,6 +53510,14 @@ Séquence complète Coordonner les fils, le traitement, la finition et le revêt
 Transfert d'itinéraire Comparez les méthodes de production d’échantillons et de répétition Quelles caractéristiques nécessitent un contrôle par échantillonnage de la chaîne de production ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour Frappe à Froid + Usinage Secondaire
 
@@ -53359,6 +53613,14 @@ Methodenauswahl Überprüfen Sie das Walzen/Umformen, Schneiden oder Gewindeschn
 Endabnahme Vereinbaren Sie Stärken, kundenspezifische Profilmethoden und Beschichtungszugabe Ist die Abnahme im Anlieferungszustand definiert und nicht erst vor der Fertigstellung?
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
 
 ### Ein- und Ausgänge für Gewinderollen, Schneiden und Gewindeschneiden
 
@@ -53473,6 +53735,14 @@ Aceptación final Acordar calibres, métodos de perfil personalizado y toleranci
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
 
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
+
 ### Entradas y salidas para Laminación, Corte y Roscado
 
 La revisión del proceso comienza con tornillos de paso fino y extrafino, perfiles de rosca especiales y compuestos, pernos de doble extremo personalizados, tornillos de fijación y tornillos prisioneros personalizados y el dibujo de ingeniería real, no una lista genérica de equipos. Identifique el stock entrante o el estado de la pieza y las dimensiones que deben permanecer controladas en esta etapa.
@@ -53585,6 +53855,14 @@ Transizioni e fini Mostra rilievo, ingresso, estremità cieche e spalle adiacent
 Accettazione finale Concordare calibri, metodi di profilo personalizzato e tolleranza di rivestimento L'accettazione è definita nello stato di fornitura e non solo prima della finitura?
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
+
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
 
 ### Ingressi e uscite per rullatura, taglio e maschiatura
 
@@ -53699,6 +53977,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 用于螺纹滚压、切削和攻丝的输入和输出
 
 流程审查从细牙和超细牙螺丝、特殊和复合螺纹牙形、定制双头螺柱、定制紧定螺丝和平头螺丝以及实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -53733,13 +54019,13 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 #### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 申请要求
 
 #### 通用机械和设备 ↗
 
-用于机架、支架、定制连杆和设备组件的特殊头、螺柱和连接几何形状。
+为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
 
 工程制图-DEFINED DESIGN
 
@@ -53811,6 +54097,14 @@ Transitions et fins Afficher le relief, l'entrée, les extrémités aveugles et 
 Acceptation définitive Convenir des jauges, des méthodes de profil personnalisé et de la tolérance de revêtement L'acceptation est-elle définie dans l'état de livraison plutôt que seulement avant la finition ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour le roulage, la coupe et le taraudage
 
@@ -53925,6 +54219,14 @@ Prozessstandort Identifizieren Sie Oberflächen, die nach früheren Operationen 
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
 
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
+
 ### Ein- und Ausgänge für Sekundär- und Präzisionsbearbeitung
 
 Die Prozessüberprüfung beginnt mit Hohl- und Durchgangslochschrauben, Rändel- und Einstellschrauben, Exzenter- und Winkelkopfschrauben, Kreuzloch- und Kopflochschrauben sowie der eigentlichen Konstruktionszeichnung, nicht einer allgemeinen Ausrüstungsliste. Identifizieren Sie den Zustand des eingehenden Bestands oder Teils und die Abmessungen, die in dieser Phase kontrolliert bleiben müssen.
@@ -54025,6 +54327,14 @@ Operación de acabado Indique los requisitos de tamaño, forma y superficie en l
 Ubicación del proceso Identificar las superficies utilizadas para sujetar después de operaciones anteriores. ¿Puede la configuración preservar la geometría requerida sin dañar la pieza?
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
+
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
 
 ### Entradas y salidas para operaciones secundarias y de precisión
 
@@ -54127,6 +54437,14 @@ Ubicazione del processo Identificare le superfici utilizzate per il contenimento
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
 
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
+
 ### Ingressi e uscite per operazioni secondarie e di precisione
 
 La revisione del processo inizia con viti cave e con foro passante, viti zigrinate e di regolazione, viti con testa eccentrica e angolata, viti con foro incrociato e con testa con foro e il disegno tecnico vero e proprio, non un elenco generico di apparecchiature. Identificare la condizione dello stock o della parte in entrata e le dimensioni che devono rimanere controllate in questa fase.
@@ -54228,6 +54546,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 用于二次和精密运算的输入和输出
 
 流程审查从空心和通孔螺钉、滚花拇指和调节螺钉、偏心和斜头螺钉、十字钻孔和头孔螺钉以及实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -54250,13 +54576,13 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 #### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 申请要求
 
 #### 模具、工装和测试夹具 ↗
 
-用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
+台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 工程制图-DEFINED DESIGN
 
@@ -54328,6 +54654,14 @@ Opération de finition Indiquer les exigences en matière de taille, de forme et
 Emplacement du processus Identifier les surfaces utilisées pour le maintien après des opérations antérieures La configuration peut-elle conserver la géométrie requise sans endommager la pièce ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour les opérations secondaires et de précision
 
@@ -54435,6 +54769,14 @@ Beweise Geben Sie Härte, andere mechanische Prüfungen und angeforderte Aufzeic
 Oberflächenkompatibilität Koordinieren Sie spätere Reinigungs-, Beschichtungs- und Risikokontrollen Schützt die vollständige vorgeschlagene Route den bestellten Endzustand?
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
 
 ### Ein- und Ausgänge zur materialspezifischen Wärmebehandlung
 
@@ -54549,6 +54891,14 @@ Compatibilidad de superficies Coordinar posteriores controles de limpieza, reves
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
 
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
+
 ### Entradas y salidas para el tratamiento térmico de materiales específicos
 
 La revisión del proceso comienza con tornillos de fijación y tornillos prisioneros personalizados, tornillos de hombro y escalonados, diseños de cáncamos de elevación personalizados y el dibujo de ingeniería real, no una lista genérica de equipos. Identifique el stock entrante o el estado de la pieza y las dimensiones que deben permanecer controladas en esta etapa.
@@ -54661,6 +55011,14 @@ Prove Specificare durezza, altri controlli meccanici e registrazioni richieste Q
 Compatibilità superficiale Coordinare la pulizia successiva, il rivestimento e i controlli dei rischi L’intero percorso proposto tutela la condizione finale ordinata?
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
+
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
 
 ### Ingressi e uscite per il trattamento termico specifico del materiale
 
@@ -54775,6 +55133,14 @@ BSSA：不锈钢系列
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 特定材料热处理的输入和输出
 
 流程审查从定制紧定螺钉和无头紧定螺丝、台阶螺丝和阶梯螺钉、定制吊环螺栓设计和实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -54809,7 +55175,7 @@ BSSA：不锈钢系列
 
 #### 模具、工装和测试夹具 ↗
 
-用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
+台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 工程制图-DEFINED DESIGN
 
@@ -54887,6 +55253,14 @@ Preuve Préciser la dureté, les autres contrôles mécaniques et les enregistre
 Compatibilité des surfaces Coordonner le nettoyage ultérieur, le revêtement et les contrôles des risques Le tracé complet proposé protège-t-il la condition finale ordonnée ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour le traitement thermique spécifique aux matériaux
 
@@ -55000,6 +55374,14 @@ Wasserstoff-Rezension Bewerten Sie den Zustand anfälliger Materialien und den g
 Akzeptanz Definieren Sie Dicke, Aussehen und etwaige Korrosions-/Reibungstests Sind die Testbedingungen und -kriterien explizit und nicht aus einem Handelsnamen abgeleitet?
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
 
 ### Ein- und Ausgänge für Beschichtungen und Oberflächenbehandlungen
 
@@ -55120,6 +55502,14 @@ Aceptación Definir espesor, apariencia y cualquier prueba de corrosión/fricci�
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
 
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
+
 ### Entradas y salidas para Recubrimientos y Tratamientos Superficiales
 
 La revisión del proceso comienza con tornillos de seguridad y resistentes a manipulaciones, tornillos de brida personalizados, tornillos moleteados y de ajuste, tornillos de hombro y escalonados y el dibujo de ingeniería real, no una lista genérica de equipos. Identifique el stock entrante o el estado de la pieza y las dimensiones que deben permanecer controladas en esta etapa.
@@ -55238,6 +55628,14 @@ Revisione dell'idrogeno Valutare le condizioni materiali sensibili e l'intero pr
 Accettazione Definire spessore, aspetto ed eventuali prove di corrosione/attrito Le condizioni e i criteri del test sono espliciti anziché desunti da un nome commerciale?
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
+
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
 
 ### Ingressi e uscite per rivestimenti e trattamenti superficiali
 
@@ -55358,6 +55756,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 涂层与表面处理的输入和输出
 
 流程审查从安全和防篡改螺钉、定制法兰螺钉、滚花拇指和调节螺钉、肩部和阶梯螺钉以及实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -55398,13 +55804,13 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 
 #### 能源、充电和存储设备 ↗
 
-适用于设备外壳、支架、布线功能和电气接口组件的定制紧固和连接几何形状。
+为充电、储能及相关设备的外壳、支架、走线结构和连接部位提供非标紧固方案。
 
 申请要求
 
 #### 安全和访问设备 ↗
 
-用于检修面板、防护罩和可维修安全设备的特殊驱动和定制头紧固件。
+特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 工程制图-DEFINED DESIGN
 
@@ -55476,6 +55882,14 @@ Revue de l'hydrogène Évaluer l’état des matériaux sensibles et l’ensembl
 Acceptation Définir l'épaisseur, l'aspect et les éventuels tests de corrosion/friction Les conditions et critères d’essai sont-ils explicites plutôt que déduits d’un nom commercial ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour les revêtements et traitements de surface
 
@@ -55590,6 +56004,14 @@ Verpackung Vereinbaren Sie eine Chargentrennung, einen Schutz und eine Kennzeich
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
 
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
+
 ### Ein- und Ausgänge für Reinigung, Schraubensicherung und Vormontage
 
 Die Prozessüberprüfung beginnt mit Hohl- und Durchgangslochschrauben, unverlierbaren Schrauben, kundenspezifischen Flanschschrauben, selbstschneidenden Schrauben mit modifizierter Spitze und der eigentlichen Konstruktionszeichnung, nicht einer allgemeinen Ausrüstungsliste. Identifizieren Sie den Zustand des eingehenden Bestands oder Teils und die Abmessungen, die in dieser Phase kontrolliert bleiben müssen.
@@ -55690,6 +56112,14 @@ Premontaje Mostrar arandelas, sellos o resortes y su retención. ¿Qué secuenci
 Embalaje Acordar separación, protección y etiquetado de lotes. ¿Cómo llegarán las piezas aprobadas al ensamblaje en las condiciones requeridas?
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
+
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
 
 ### Entradas y salidas para Limpieza, Bloqueo y Montaje
 
@@ -55792,6 +56222,14 @@ Imballaggio Concordare la separazione, la protezione e l'etichettatura dei lotti
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
 
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
+
 ### Ingressi e uscite per pulizia, chiusura e assemblaggio
 
 La revisione del processo inizia con viti a foro cavo e passante, viti imperdibili, viti con flangia personalizzata, viti autofilettanti con punta modificata e il disegno tecnico effettivo, non un elenco generico di apparecchiature. Identificare la condizione dello stock o della parte in entrata e le dimensioni che devono rimanere controllate in questa fase.
@@ -55893,6 +56331,14 @@ CCD视觉尺寸检测 ↗ 涂层与表面处理 ↗
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### 用于清洗、防松与预装配的输入和输出
 
 流程审查从空心和通孔螺钉、系紧螺钉、定制法兰螺钉、改良尖头自攻螺钉和实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -55921,13 +56367,13 @@ CCD视觉尺寸检测 ↗ 涂层与表面处理 ↗
 
 #### 能源、充电和存储设备 ↗
 
-适用于设备外壳、支架、布线功能和电气接口组件的定制紧固和连接几何形状。
+为充电、储能及相关设备的外壳、支架、走线结构和连接部位提供非标紧固方案。
 
 申请要求
 
 #### 流体控制和气动设备 ↗
 
-空心、交叉钻孔和锥度相关的定制组件，用于特定应用的通道、固定装置和连接接口。
+中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 工程制图-DEFINED DESIGN
 
@@ -55993,6 +56439,14 @@ Pré-assemblage Montrer les rondelles, joints ou ressorts et leur rétention Que
 Emballage Convenir de la séparation, de la protection et de l'étiquetage des lots Comment les pièces approuvées parviendront-elles à l’assemblage dans les conditions requises ?
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
+
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
 ### Entrées et sorties pour le nettoyage, le verrouillage et l'assemblage
 
@@ -56098,6 +56552,14 @@ Berichterstattung und Aufzeichnungen Geben Sie die Erstmuster-, Stichproben- ode
 Revision und Ablehnung Identifizieren Sie technische Zeichnungs-/Programmrevisionen und lehnen Sie die Disposition ab Wie werden geänderte Anforderungen und Ausschussteile kontrolliert?
 
 Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+
+NACH DER BEARBEITUNG
+
+### Das Ergebnis am Bauteil.
+
+Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, Beschichtungsleistung und Abnahme werden mit den vereinbarten Prüfverfahren beurteilt.
+
+Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
 
 ### Ein- und Ausgänge für CCD Vision & Dimensions Inspection
 
@@ -56216,6 +56678,14 @@ Revisión y rechazo Identificar planos de ingeniería/revisión de programas y d
 
 Comparar rutas de fabricación completas ↗ Seleccionar material y resistencia final ↗ Aceptación de acuerdos y registros ↗
 
+RESULTADO DEL PROCESO
+
+### El resultado en la pieza.
+
+Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del material, el rendimiento del recubrimiento y la aceptación requieren los métodos de inspección acordados.
+
+Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
+
 ### Entradas y salidas para CCD Inspección dimensional y de visión
 
 La revisión del proceso comienza con tornillos de hombro y escalonados, diseños de cáncamos de elevación personalizados, tornillos y pernos de remachado personalizados, tornillos huecos y de orificio pasante y el dibujo de ingeniería real, no una lista genérica de equipos. Identifique el stock entrante o el estado de la pieza y las dimensiones que deben permanecer controladas en esta etapa.
@@ -56332,6 +56802,14 @@ Copertura e registrazioni Indicare le caratteristiche del primo articolo, campio
 Revisione e rifiuto Identificare la revisione del disegno tecnico/programma e la disposizione allo scarto Come vengono controllati i fabbisogni modificati ed i pezzi scartati?
 
 Confronta i percorsi di produzione completi ↗ Seleziona materiale e resistenza finale ↗ Accettazione e registrazione del consenso ↗
+
+DOPO LA LAVORAZIONE
+
+### Il risultato sul componente.
+
+Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazioni del rivestimento e accettazione richiedono i controlli concordati.
+
+Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
 
 ### Ingressi e uscite per CCD Visione e ispezione dimensionale
 
@@ -56450,6 +56928,14 @@ CCD视觉尺寸检测
 
 比较完整的制造路线 ↗ 选择材料和最终强度 ↗ 同意接受并记录 ↗
 
+加工后的效果
+
+### 看清加工后的结构与表面
+
+图片用于说明零件结构及表面外观。材料性能、涂层性能和成品是否合格，仍需按照约定的检测方法确认。
+
+工艺效果参考；最终结构、性能及验收要求以确认图纸为准。
+
 ### CCD视觉尺寸检测的输入和输出
 
 流程审查从肩部和阶梯螺钉、定制吊环螺栓设计、定制紧固螺钉和螺柱、空心和通孔螺钉以及实际工程图开始，而不是通用设备清单。确定进货或零件的状况以及在此阶段必须保持控制的尺寸。
@@ -56490,13 +56976,13 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 
 #### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 申请要求
 
 #### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 工程制图-DEFINED DESIGN
 
@@ -56567,6 +57053,14 @@ Révision et rejet Identifier les dessins techniques/révisions du programme et 
 
 Comparez les itinéraires de fabrication complets ↗ Choisir le matériau et la résistance finale ↗ Accepter l'acceptation et les enregistrements ↗
 
+APRÈS TRAITEMENT
+
+### Le résultat sur la pièce.
+
+Les images illustrent la géométrie et la finition. Les propriétés du matériau, les performances du revêtement et la réception nécessitent les contrôles convenus.
+
+Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
+
 ### Entrées et sorties pour CCD Vision & Inspection dimensionnelle
 
 L'examen du processus commence par les vis à épaulement et à marchepied, les conceptions de boulons à œil de levage personnalisés, les vis et goujons à clincher personnalisés, les vis creuses et traversantes et le dessin technique lui-même, et non une liste d'équipement générique. Identifiez l’état du stock ou de la pièce entrant et les dimensions qui doivent rester contrôlées à cette étape.
@@ -56632,43 +57126,43 @@ MATERIALIEN, STÄRKE UND ANWENDUNGEN
 
 Vergleichen Sie Qualität, Zustand, Festigkeit und Anwendungsanforderungen. Eine Materialfamilie allein bestimmt nicht die Belastbarkeit einer Sonderschraube.
 
-Fe MATERIALAUSWAHL
+MATERIALAUSWAHL
 
 ### Kohlenstoff- und legierter Stahl ↗
 
 Eine praktische Wahl für durch Konstruktionszeichnungen definierte Verbindungselemente, bei denen die erforderliche mechanische Klasse, das Verschleißverhalten und der Oberflächenschutz gemeinsam spezifiziert werden können.
 
-Stärke, Verwendung und Spezifikation → B MATERIALAUSWAHL
+Stärke, Verwendung und Spezifikation → MATERIALAUSWAHL
 
 ### 10B21 Borstahl ↗
 
 Eine borlegierte Stahlsorte, die für geformte Verbindungselemente berücksichtigt wird, wenn die technische Zeichnung, der endgültige Materialzustand und die erforderlichen Eigenschaften definiert werden.
 
-Stärke, Verwendung und Spezifikation → Cr MATERIALAUSWAHL
+Stärke, Verwendung und Spezifikation → MATERIALAUSWAHL
 
 ### SUS304 & SUS316 Edelstahl ↗
 
 Auswahl aus austenitischem Edelstahl für Teile, bei denen Korrosionseinwirkung, Oberflächenzustand und die angegebene Festigkeitsklasse des Befestigungselements gemeinsam berücksichtigt werden müssen.
 
-Stärke, Verwendung und Spezifikation → Al MATERIALAUSWAHL
+Stärke, Verwendung und Spezifikation → MATERIALAUSWAHL
 
 ### Aluminiumlegierungen ↗
 
 Leichtmetalloptionen für kundenspezifische Gewindeteile, bei denen Legierung, Härte, Eingriff und Oberflächenanforderungen für die Anwendung angepasst werden können.
 
-Stärke, Verwendung und Spezifikation → Cu MATERIALAUSWAHL
+Stärke, Verwendung und Spezifikation → MATERIALAUSWAHL
 
 ### Kupfer ↗
 
 Eine Materialfamilie, bei der neben der Geometrie und der mechanischen Akzeptanz der kundenspezifischen Komponente auch die elektrische oder thermische Funktion wichtig ist.
 
-Stärke, Verwendung und Spezifikation → CuZn MATERIALAUSWAHL
+Stärke, Verwendung und Spezifikation → MATERIALAUSWAHL
 
 ### Messing ↗
 
 Kupfer-Zink-Legierungen können für die Konstruktion zeichnungsspezifischer bearbeiteter Gewindekomponenten nützlich sein, bei denen das Bearbeitungsverhalten, die Kontaktbedingungen und die ausgewählte Legierungszusammensetzung zur Anwendung passen.
 
-Stärke, Verwendung und Spezifikation → Ti MATERIALAUSWAHL
+Stärke, Verwendung und Spezifikation → MATERIALAUSWAHL
 
 ### Titan und Titanlegierungen ↗
 
@@ -56735,43 +57229,43 @@ MATERIALES, RESISTENCIA Y APLICACIONES
 
 Compare las necesidades de grado, condición, resistencia y aplicación. Una familia de materiales por sí sola no determina la capacidad de carga de un tornillo personalizado.
 
-Fe SELECCIÓN DE MATERIALES
+SELECCIÓN DE MATERIALES
 
 ### Acero al carbono y aleado ↗
 
 Una opción práctica para sujetadores definidos por planos de ingeniería donde se pueden especificar juntos la clase mecánica requerida, el comportamiento de desgaste y la protección de la superficie.
 
-Fuerza, usos y especificaciones → B SELECCIÓN DE MATERIALES
+Fuerza, usos y especificaciones → SELECCIÓN DE MATERIALES
 
 ### 10B21 Acero al boro ↗
 
 Un grado de acero con aleación de boro que se considera para recorridos de sujetadores formados cuando se definen el dibujo de ingeniería, la condición final del material y las propiedades requeridas.
 
-Fuerza, usos y especificaciones → Cr SELECCIÓN DE MATERIALES
+Fuerza, usos y especificaciones → SELECCIÓN DE MATERIALES
 
 ### SUS304 y SUS316 Acero inoxidable ↗
 
 Opciones de acero inoxidable austenítico para piezas donde es necesario considerar en conjunto la exposición a la corrosión, la condición de la superficie y la clase de resistencia de los sujetadores especificada.
 
-Fuerza, usos y especificaciones → Al SELECCIÓN DE MATERIALES
+Fuerza, usos y especificaciones → SELECCIÓN DE MATERIALES
 
 ### Aleaciones de aluminio ↗
 
 Opciones de metal liviano para piezas roscadas personalizadas donde los requisitos de aleación, temple, compromiso y superficie se pueden diseñar para la aplicación.
 
-Fuerza, usos y especificaciones → Cu SELECCIÓN DE MATERIALES
+Fuerza, usos y especificaciones → SELECCIÓN DE MATERIALES
 
 ### Cobre ↗
 
 Una familia de materiales considerada donde la función eléctrica o térmica es importante junto con la geometría y la aceptación mecánica del componente personalizado.
 
-Fuerza, usos y especificaciones → CuZn SELECCIÓN DE MATERIALES
+Fuerza, usos y especificaciones → SELECCIÓN DE MATERIALES
 
 ### Latón ↗
 
 Las aleaciones de cobre y zinc pueden ser útiles para diseñar componentes roscados mecanizados específicos para planos donde el comportamiento del mecanizado, las condiciones de contacto y la composición de la aleación seleccionada se ajustan a la aplicación.
 
-Fuerza, usos y especificaciones → Ti SELECCIÓN DE MATERIALES
+Fuerza, usos y especificaciones → SELECCIÓN DE MATERIALES
 
 ### Titanio y aleaciones de titanio ↗
 
@@ -56838,43 +57332,43 @@ MATERIALI, RESISTENZA E APPLICAZIONI
 
 Confronta qualità, condizioni, resistenza e esigenze applicative. Una famiglia di materiali da sola non determina la capacità di carico di una vite personalizzata.
 
-Fe SELEZIONE DEI MATERIALI
+SELEZIONE DEI MATERIALI
 
 ### Acciaio al carbonio e legato ↗
 
 Una scelta pratica per elementi di fissaggio definiti dal disegno tecnico in cui è possibile specificare insieme la classe meccanica richiesta, il comportamento all'usura e la protezione superficiale.
 
-Forza, usi e specifiche → B SELEZIONE DEI MATERIALI
+Forza, usi e specifiche → SELEZIONE DEI MATERIALI
 
 ### 10B21 Acciaio al boro ↗
 
 Un tipo di acciaio legato al boro considerato per i percorsi di fissaggio formati quando vengono definiti il disegno tecnico, le condizioni finali del materiale e le proprietà richieste.
 
-Forza, usi e specifiche → Cr SELEZIONE DEI MATERIALI
+Forza, usi e specifiche → SELEZIONE DEI MATERIALI
 
 ### SUS304 & SUS316 Acciaio inossidabile ↗
 
 Scelte di acciaio inossidabile austenitico per parti in cui è necessario considerare insieme l'esposizione alla corrosione, le condizioni della superficie e la classe di resistenza degli elementi di fissaggio specificata.
 
-Forza, usi e specifiche → Al SELEZIONE DEI MATERIALI
+Forza, usi e specifiche → SELEZIONE DEI MATERIALI
 
 ### Leghe di alluminio ↗
 
 Opzioni in metallo leggero per parti filettate personalizzate in cui i requisiti di lega, stato fisico, impegno e superficie possono essere progettati per l'applicazione.
 
-Forza, usi e specifiche → Cu SELEZIONE DEI MATERIALI
+Forza, usi e specifiche → SELEZIONE DEI MATERIALI
 
 ### Rame ↗
 
 Una famiglia di materiali considerata in cui la funzione elettrica o termica è importante insieme alla geometria e all'accettazione meccanica del componente personalizzato.
 
-Forza, usi e specifiche → CuZn SELEZIONE DEI MATERIALI
+Forza, usi e specifiche → SELEZIONE DEI MATERIALI
 
 ### Ottone ↗
 
 Le leghe rame-zinco possono essere utili per componenti filettati lavorati a macchina specifici del disegno tecnico in cui il comportamento di lavorazione, le condizioni di contatto e la composizione della lega selezionata si adattano all'applicazione.
 
-Forza, usi e specifiche → Ti SELEZIONE DEI MATERIALI
+Forza, usi e specifiche → SELEZIONE DEI MATERIALI
 
 ### Titanio e leghe di titanio ↗
 
@@ -56937,61 +57431,61 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/mat
 
 材料、强度和应用
 
-## 命名材料。 定义其性能。
+## 明确材料牌号， 再确定性能要求。
 
 比较等级、状况、强度和应用需求。单独的材料系列并不能决定定制螺钉的负载能力。
 
-Fe 材料选择
+材料选择
 
 ### 碳钢及合金钢 ↗
 
-工程图纸定义的紧固件的实用选择，可以同时指定所需的机械等级、磨损行为和表面保护。
+碳钢和合金钢适用于需要明确强度、耐磨性及表面防护要求的非标紧固件。选材时应同时确认成品性能、热处理和涂层方案。
 
-强度、用途及规格 → B 材料选择
+强度、用途及规格 → 材料选择
 
 ### 10B21 硼钢 ↗
 
-当定义工程图纸、最终材料条件和所需性能时，考虑用于成型紧固件路线的硼合金钢牌号。
+10B21是可用于紧固件冷镦成型的含硼钢牌号。具体加工路线和成品性能，需要结合图纸、材料状态及热处理要求确认。
 
-强度、用途及规格 → Cr 材料选择
+强度、用途及规格 → 材料选择
 
 ### SUS304 & SUS316 不锈钢 ↗
 
-对于需要同时考虑腐蚀暴露、表面状况和指定紧固件强度等级的零件，选择奥氏体不锈钢。
+SUS304和SUS316适用于需要考虑耐腐蚀性的零件。选型时还需确认使用环境、表面状态，以及成品紧固件的强度要求。
 
-强度、用途及规格 → Al 材料选择
+强度、用途及规格 → 材料选择
 
 ### 铝合金 ↗
 
-用于定制螺纹零件的轻质金属选项，其中合金、回火、啮合和表面要求可根据应用进行设计。
+铝合金可用于有轻量化需求的非标螺纹零件。具体合金、材料状态、螺纹旋合长度和表面处理应结合应用确定。
 
-强度、用途及规格 → Cu 材料选择
+强度、用途及规格 → 材料选择
 
 ### 铜 ↗
 
-考虑到电气或热功能与定制组件的几何形状和机械接受度一样重要的材料系列。
+铜适用于重视导电、导热性能的零件。选材时仍需核对结构尺寸、连接方式和机械性能要求。
 
-强度、用途及规格 → 铜锌 材料选择
+强度、用途及规格 → 材料选择
 
 ### 黄铜 ↗
 
-铜锌合金可用于工程图纸特定的机加工螺纹部件，其中机加工行为、接触条件和所选合金成分适合应用。
+黄铜是铜锌合金，可用于按图车削的螺纹零件。应结合切削加工、接触环境及合金成分要求选择具体牌号。
 
-强度、用途及规格 → Ti 材料选择
+强度、用途及规格 → 材料选择
 
 ### 钛及钛合金 ↗
 
-如果质量、腐蚀暴露和所需的机械性能证明特定等级的制造和验证计划合理，则考虑钛等级。
+钛及钛合金可用于兼顾重量、耐腐蚀性和机械性能的零件。应明确具体牌号，并评估加工与检测方案。
 
 强度、用途及规格 →
 
 参考比较
 
-### 阅读强度及其状况。
+### 比较强度时，要同时看材料状态。
 
 兆帕=牛/平方毫米。拉伸强度 Rm、屈服/屈服应力和许用接头载荷是不同的量。该表结合了明确标记的紧固件类别和库存材料示例以进行定向；它们不是可互换的验收数据。
 
-材质/状况 房间 (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考依据
+材料／状态 抗拉强度 Rm（MPa） 屈服强度／0.2%规定塑性延伸强度（MPa） 参考依据
 
 碳钢及合金钢 8.8 名义类别参考 800 640 标称指定值；实际标准最小值取决于适用性和尺寸。
 
@@ -57009,7 +57503,7 @@ SUS304 & SUS316 不锈钢 ISO 3506 类 70 参考 700 最小值 450 最小值 适
 
 标称等级值、最小规格值和典型库存值均单独标记。实际验收需要适用的牌号、条件、尺寸、产品规格和商定的测试方法。
 
-### 在应用程序周围选择。
+### 从实际使用要求出发选材。
 
 所需的机械性能和关节功能
 
@@ -57021,7 +57515,7 @@ SUS304 & SUS316 不锈钢 ISO 3506 类 70 参考 700 最小值 450 最小值 适
 
 材料证据和最终部件验证
 
-### 材料是路线的一部分。
+### 选材还要结合完整加工工艺。
 
 更强的金属原料不会自动产生更强的连接。头部几何形状、配合部件中的螺纹旋合、截面变化、表面状况和配合部件仍然需要审查。
 
@@ -57044,43 +57538,43 @@ MATÉRIAUX, RÉSISTANCE ET APPLICATIONS
 
 Comparez la qualité, l’état, la résistance et les besoins d’application. Une famille de matériaux ne détermine pas à elle seule la capacité de charge d’une vis personnalisée.
 
-Fe SÉLECTION DES MATÉRIAUX
+SÉLECTION DES MATÉRIAUX
 
 ### Acier au carbone et allié ↗
 
 Un choix pratique pour les fixations définies par des dessins techniques où la classe mécanique requise, le comportement à l'usure et la protection de surface peuvent être spécifiés ensemble.
 
-Résistance, utilisations et spécifications → B SÉLECTION DES MATÉRIAUX
+Résistance, utilisations et spécifications → SÉLECTION DES MATÉRIAUX
 
 ### Acier au bore 10B21 ↗
 
 Nuance d'acier allié au bore prise en compte pour les itinéraires de fixation formés lorsque le dessin technique, l'état final du matériau et les propriétés requises sont définis.
 
-Résistance, utilisations et spécifications → Cr SÉLECTION DES MATÉRIAUX
+Résistance, utilisations et spécifications → SÉLECTION DES MATÉRIAUX
 
 ### SUS304 & SUS316 Acier inoxydable ↗
 
 Choix d'acier inoxydable austénitique pour les pièces où l'exposition à la corrosion, l'état de surface et la classe de résistance des fixations spécifiée doivent être pris en compte ensemble.
 
-Résistance, utilisations et spécifications → Al SÉLECTION DES MATÉRIAUX
+Résistance, utilisations et spécifications → SÉLECTION DES MATÉRIAUX
 
 ### Alliages d'aluminium ↗
 
 Options de métaux légers pour pièces filetées personnalisées où les exigences en matière d'alliage, de trempe, d'engagement et de surface peuvent être conçues pour l'application.
 
-Résistance, utilisations et spécifications → Cu SÉLECTION DES MATÉRIAUX
+Résistance, utilisations et spécifications → SÉLECTION DES MATÉRIAUX
 
 ### Cuivre ↗
 
 Une famille de matériaux considérée où la fonction électrique ou thermique est importante parallèlement à la géométrie et à l'acceptation mécanique du composant personnalisé.
 
-Résistance, utilisations et spécifications → CuZn SÉLECTION DES MATÉRIAUX
+Résistance, utilisations et spécifications → SÉLECTION DES MATÉRIAUX
 
 ### Laiton ↗
 
 Les alliages cuivre-zinc peuvent être utiles pour les composants filetés usinés spécifiques aux dessins techniques où le comportement d'usinage, les conditions de contact et la composition de l'alliage sélectionné conviennent à l'application.
 
-Résistance, utilisations et spécifications → Ti SÉLECTION DES MATÉRIAUX
+Résistance, utilisations et spécifications → SÉLECTION DES MATÉRIAUX
 
 ### Titane et alliages de titane ↗
 
@@ -58417,7 +58911,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 以应用为中心的定制紧固件
 
-## 不同的行业。 具体要求。
+## 面向不同行业， 解决具体连接需求。
 
 从应用开始，然后连接紧固件几何形状、材料、制造工艺顺序和检验计划。
 
@@ -58425,51 +58919,51 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ### 汽车零部件 ↗
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 定位和移动接口
 
 ### 工业自动化 ↗
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 紧凑且可调节的部件
 
 ### 电子和光学设备 ↗
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 外壳和连接细节
 
 ### 能源、充电和存储设备 ↗
 
-适用于设备外壳、支架、布线功能和电气接口组件的定制紧固和连接几何形状。
+为充电、储能及相关设备的外壳、支架、走线结构和连接部位提供非标紧固方案。
 
 步骤、停止和调整
 
 ### 模具、工装和测试夹具 ↗
 
-用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
+台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 驱动器接口和服务访问
 
 ### 安全和访问设备 ↗
 
-用于检修面板、防护罩和可维修安全设备的特殊驱动和定制头紧固件。
+特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 孔、边缘和清洁度
 
 ### 流体控制和气动设备 ↗
 
-空心、交叉钻孔和锥度相关的定制组件，用于特定应用的通道、固定装置和连接接口。
+中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 安装、连杆和定制接头
 
 ### 通用机械和设备 ↗
 
-用于机架、支架、定制连杆和设备组件的特殊头、螺柱和连接几何形状。
+为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
 
-### 将接口纳入 RFQ。
+### 询价时请说明配合与连接要求。
 
 应用程序标签并不是完整的规范。包括配合组件、环境、数量、材料状况和验收要求，以便可以针对您的实际零件检查路线。
 
@@ -58477,7 +58971,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 应用设计研究
 
-### 请参阅上下文中的决定。
+### 结合应用示例理解选型思路。
 
 两个示例性项目将装配需求与紧固件结构、材料、加工和审批计划联系起来。
 
@@ -58567,7 +59061,7 @@ technische Zeichnung und Loskontrolle
 
 Kundenspezifische Gewindekomponenten für Halterungen, Gerätemodule und andere in Konstruktionszeichnungen definierte Automobilkomponentenbaugruppen.
 
-Besprechen Sie Ihre Bewerbung ↗ Flanschschrauben nach Zeichnung
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Wiederholbare Geometrie
 
@@ -58650,7 +59144,7 @@ dibujo de ingenieria y CONTROL DE LOTES
 
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
-Discute tu solicitud ↗ Tornillos con brida a medida
+Discute tu solicitud ↗ Vista general del sector
 
 ### Geometría repetible
 
@@ -58733,7 +59227,7 @@ disegno tecnico e CONTROLLO LOTTI
 
 Componenti filettati personalizzati per staffe, moduli di equipaggiamento e altri gruppi di componenti automobilistici definiti da disegni tecnici.
 
-Discuti la tua candidatura ↗ Viti flangiate su disegno
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Geometria ripetibile
 
@@ -58814,9 +59308,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 汽车零部件
 
-用于支架、设备模块和其他工程图定义的汽车零部件组件的定制螺纹组件。
+为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
-讨论您的申请 ↗ 非标一体法兰螺丝
+讨论您的申请 ↗ 行业总览
 
 ### 可重复的几何形状
 
@@ -58899,7 +59393,7 @@ dessin technique et CONTRÔLE DE LOT
 
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
-Discutez de votre candidature ↗ Vis à embase sur mesure
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Géométrie répétable
 
@@ -58982,7 +59476,7 @@ LOKALISIEREN & VERSCHIEBEN VON SCHNITTSTELLEN
 
 Schulter-, Tritt- und Verstellbefestigungen für Führungsmechanismen, Positionierstationen und Automatisierungsgeräte.
 
-Besprechen Sie Ihre Bewerbung ↗ Schulter- und Passschrauben
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Passungen und Positionierung von Oberflächen
 
@@ -59065,7 +59559,7 @@ LOCALIZAR Y MOVER INTERFACES
 
 Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de posicionamiento y equipos de automatización.
 
-Discute tu solicitud ↗ Tornillos de hombro y escalonados
+Discute tu solicitud ↗ Vista general del sector
 
 ### Ajustes y superficies de localización.
 
@@ -59148,7 +59642,7 @@ POSIZIONAMENTO E SPOSTAMENTO DELLE INTERFACCE
 
 Elementi di fissaggio a spalla, gradino e regolazione per meccanismi guidati, stazioni di posizionamento e apparecchiature di automazione.
 
-Discuti la tua candidatura ↗ Viti a spallamento e a gradini
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Si adatta e posiziona le superfici
 
@@ -59229,9 +59723,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 工业自动化
 
-用于引导机构、定位站和自动化设备的台肩、台阶和调节紧固件。
+台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
-讨论您的申请 ↗ 台阶螺丝／塞打螺丝
+讨论您的申请 ↗ 行业总览
 
 ### 配合和定位表面
 
@@ -59314,7 +59808,7 @@ LOCALISATION ET DÉPLACEMENT DES INTERFACES
 
 Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, postes de positionnement et équipements d'automatisation.
 
-Discutez de votre candidature ↗ Vis à épaulement et vis étagées
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Ajustements et localisation des surfaces
 
@@ -59397,7 +59891,7 @@ KOMPAKTE UND EINSTELLBARE TEILE
 
 Konstruktionszeichnungsdefinierte Verbindungselemente für kompakte Gehäuse, optische Einstellmechanismen und Präzisionsmodulbaugruppen.
 
-Besprechen Sie Ihre Bewerbung ↗ Schrauben mit Fein- und Feinstgewinde
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Kleine Schnittstellendetails
 
@@ -59474,7 +59968,7 @@ PIEZAS COMPACTAS Y AJUSTABLES
 
 sujetadores definidos por planos de ingeniería para carcasas compactas, mecanismos de ajuste óptico y conjuntos de módulos de precisión.
 
-Discute tu solicitud ↗ Tornillos de paso fino y extrafino
+Discute tu solicitud ↗ Vista general del sector
 
 ### Pequeños detalles de la interfaz
 
@@ -59551,7 +60045,7 @@ PARTI COMPATTE E REGOLABILI
 
 elementi di fissaggio definiti dal disegno tecnico per alloggiamenti compatti, meccanismi di regolazione ottica e gruppi di moduli di precisione.
 
-Discuti la tua candidatura ↗ Viti a passo fine ed extrafine
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Piccoli dettagli dell'interfaccia
 
@@ -59626,9 +60120,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 电子及光学设备
 
-工程图定义的紧固件，用于紧凑型外壳、光学调节机构和精密模块组件。
+为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
-讨论您的申请 ↗ 细牙与超细牙螺丝
+讨论您的申请 ↗ 行业总览
 
 ### 接口小细节
 
@@ -59705,7 +60199,7 @@ PIÈCES COMPACTES ET RÉGLABLES
 
 fixations définies par des dessins techniques pour boîtiers compacts, mécanismes de réglage optique et assemblages de modules de précision.
 
-Discutez de votre candidature ↗ Vis à pas fin et extra-fin
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Petits détails de l'interface
 
@@ -59782,7 +60276,7 @@ GEHÄUSE- UND ANSCHLUSSDETAILS
 
 Kundenspezifische Befestigungs- und Verbindungsgeometrien für Gerätegehäuse, Halterungen, Verlegeelemente und elektrische Schnittstellenkomponenten.
 
-Besprechen Sie Ihre Bewerbung ↗ Sicherheits- und manipulationshemmende Schrauben
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Zugriff und Aufbewahrung
 
@@ -59859,7 +60353,7 @@ DETALLES DE CAJA Y CONEXIÓN
 
 Geometrías de conexión y sujeción personalizadas para carcasas de equipos, soportes, funciones de enrutamiento y componentes de interfaz eléctrica.
 
-Discute tu solicitud ↗ Tornillos de seguridad y antimanipulación
+Discute tu solicitud ↗ Vista general del sector
 
 ### Acceso y retención
 
@@ -59936,7 +60430,7 @@ DETTAGLI DELLA CUSTODIA E DELLA CONNESSIONE
 
 Geometrie di fissaggio e connessione personalizzate per alloggiamenti di apparecchiature, staffe, caratteristiche di instradamento e componenti di interfaccia elettrica.
 
-Discuti la tua candidatura ↗ Viti di sicurezza antimanomissione
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Accesso e conservazione
 
@@ -60011,9 +60505,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 能源、充电和存储设备
 
-适用于设备外壳、支架、布线功能和电气接口组件的定制紧固和连接几何形状。
+为充电、储能及相关设备的外壳、支架、走线结构和连接部位提供非标紧固方案。
 
-讨论您的申请 ↗ 防盗防拆螺丝
+讨论您的申请 ↗ 行业总览
 
 ### 访问和保留
 
@@ -60090,7 +60584,7 @@ DÉTAILS DU BOÎTIER ET DE LA CONNEXION
 
 Géométries de fixation et de connexion personnalisées pour les boîtiers d'équipement, les supports, les éléments de routage et les composants d'interface électrique.
 
-Discutez de votre candidature ↗ Vis de sécurité et anti-effraction
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Accès et conservation
 
@@ -60167,7 +60661,7 @@ SCHRITTE, STOPP UND EINSTELLUNG
 
 Kundenspezifische Schulterschrauben, Anschläge und Gewindepositionierungskomponenten für formbezogene Mechanismen, Vorrichtungen und Prüfvorrichtungen.
 
-Besprechen Sie Ihre Bewerbung ↗ Mehrstufen- und Mehrschulterschrauben
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Funktionelle Maßketten
 
@@ -60244,7 +60738,7 @@ PASOS, PARADAS Y AJUSTE
 
 Tornillos de hombro, topes y componentes de localización roscados personalizados para mecanismos, plantillas y accesorios de prueba relacionados con moldes.
 
-Discute tu solicitud ↗ Tornillos de múltiples escalones y hombros
+Discute tu solicitud ↗ Vista general del sector
 
 ### Cadenas de dimensiones funcionales
 
@@ -60321,7 +60815,7 @@ PASSI, ARRESTI E REGOLAZIONE
 
 Viti a spallamento personalizzate, fermi e componenti di posizionamento filettati per meccanismi, maschere e dispositivi di prova relativi allo stampo.
 
-Discuti la tua candidatura ↗ Viti a più gradini e spallamenti
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Catene di dimensioni funzionali
 
@@ -60396,9 +60890,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 模具、工装和测试夹具
 
-用于模具相关机构、夹具和测试夹具的定制带台阶螺丝、止动件和螺纹定位组件。
+台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
-讨论您的申请 ↗ 多台阶螺丝
+讨论您的申请 ↗ 行业总览
 
 ### 功能尺寸链
 
@@ -60475,7 +60969,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/ind
 
 Vis à épaulement personnalisées, butées et composants de positionnement filetés pour mécanismes, gabarits et dispositifs de test liés aux moules.
 
-Discutez de votre candidature ↗ Vis à plusieurs étages et épaulements
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Chaînes de dimensions fonctionnelles
 
@@ -60552,7 +61046,7 @@ ANTRIEBSSCHNITTSTELLE UND SERVICEZUGANG
 
 Spezialantriebs- und Spezialkopf-Befestigungselemente für Zugangsklappen, Schutzgehäuse und wartungsfähige Sicherheitsausrüstung.
 
-Besprechen Sie Ihre Bewerbung ↗ Sicherheits- und manipulationshemmende Schrauben
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Definierte Antriebsprofile
 
@@ -60629,7 +61123,7 @@ INTERFAZ DE CONDUCCIÓN Y ACCESO AL SERVICIO
 
 Sujetadores de accionamiento especial y cabeza personalizada para paneles de acceso, carcasas protectoras y equipos de seguridad reparables.
 
-Discute tu solicitud ↗ Tornillos de seguridad y antimanipulación
+Discute tu solicitud ↗ Vista general del sector
 
 ### Perfiles de conducción definidos
 
@@ -60706,7 +61200,7 @@ INTERFACCIA DI GUIDA E ACCESSO AL SERVIZIO
 
 Elementi di fissaggio con guida speciale e testa personalizzata per pannelli di accesso, alloggiamenti protettivi e apparecchiature di sicurezza riparabili.
 
-Discuti la tua candidatura ↗ Viti di sicurezza antimanomissione
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Profili di guida definiti
 
@@ -60781,9 +61275,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 安全和访问设备
 
-用于检修面板、防护罩和可维修安全设备的特殊驱动和定制头紧固件。
+特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
-讨论您的申请 ↗ 防盗防拆螺丝
+讨论您的申请 ↗ 行业总览
 
 ### 定义的驱动配置文件
 
@@ -60860,7 +61354,7 @@ INTERFACE DU DISQUE ET ACCÈS AU SERVICE
 
 Fixations à entraînement spécial et à tête personnalisée pour panneaux d'accès, boîtiers de protection et équipements de sécurité réparables.
 
-Discutez de votre candidature ↗ Vis de sécurité et anti-effraction
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Profils de conduite définis
 
@@ -60937,7 +61431,7 @@ BOHRUNGEN, KANTEN & SAUBERKEIT
 
 Hohle, quergebohrte und kegelbezogene Sonderbauteile für anwendungsspezifische Durchgänge, Vorrichtungen und Verbindungsschnittstellen.
 
-Besprechen Sie Ihre Bewerbung ↗ Hohlschrauben und Schrauben mit Durchgangsbohrung
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Vollständige Innengeometrie
 
@@ -61014,7 +61508,7 @@ AGUJEROS, BORDES Y LIMPIEZA
 
 Componentes personalizados huecos, con perforaciones transversales y cónicos para pasajes, accesorios e interfaces de conexión para aplicaciones específicas.
 
-Discute tu solicitud ↗ Tornillos huecos y con taladro pasante
+Discute tu solicitud ↗ Vista general del sector
 
 ### Geometría interna completa
 
@@ -61091,7 +61585,7 @@ FORI, BORDI E PULIZIA
 
 Componenti personalizzati cavi, con foratura incrociata e conici per passaggi, dispositivi e interfacce di connessione specifici dell'applicazione.
 
-Discuti la tua candidatura ↗ Viti cave e con foro passante
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Geometria interna completa
 
@@ -61166,9 +61660,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 流体控制及气动设备
 
-空心、交叉钻孔和锥度相关的定制组件，用于特定应用的通道、固定装置和连接接口。
+中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
-讨论您的申请 ↗ 空心通孔螺丝
+讨论您的申请 ↗ 行业总览
 
 ### 完整的内部几何形状
 
@@ -61245,7 +61739,7 @@ ALÉSAGES, BORDS ET PROPRETÉ
 
 Composants personnalisés creux, percés en croix et coniques pour les passages, les fixations et les interfaces de connexion spécifiques aux applications.
 
-Discutez de votre candidature ↗ Vis creuses et vis à perçage traversant
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Géométrie interne complète
 
@@ -61322,7 +61816,7 @@ MONTAGE, VERBINDUNGEN UND BENUTZERDEFINIERTE VERBINDUNGEN
 
 Spezielle Köpfe, Bolzen und Verbindungsgeometrien für Maschinenrahmen, Halterungen, kundenspezifische Anlenkungen und Gerätebaugruppen.
 
-Besprechen Sie Ihre Bewerbung ↗ Stiftschrauben mit zwei Gewindeenden nach Zeichnung
+Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 ### Details zur passenden Verbindung
 
@@ -61399,7 +61893,7 @@ MONTAJE, VÍNCULOS Y JUNTAS PERSONALIZADAS
 
 Cabezales, pernos y geometrías de conexión especiales para bastidores de máquinas, soportes, varillajes personalizados y conjuntos de equipos.
 
-Discute tu solicitud ↗ Espárragos de doble extremo a medida
+Discute tu solicitud ↗ Vista general del sector
 
 ### Detalles de la conexión de acoplamiento
 
@@ -61476,7 +61970,7 @@ MONTAGGIO, COLLEGAMENTI E GIUNTI PERSONALIZZATI
 
 Teste speciali, prigionieri e geometrie di connessione per telai di macchine, staffe, collegamenti personalizzati e gruppi di apparecchiature.
 
-Discuti la tua candidatura ↗ Prigionieri a doppia estremità su disegno
+Discuti la tua candidatura ↗ Panoramica del settore
 
 ### Dettagli della connessione di accoppiamento
 
@@ -61551,9 +62045,9 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 
 ## 通用机械及设备
 
-用于机架、支架、定制连杆和设备组件的特殊头、螺柱和连接几何形状。
+为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
 
-讨论您的申请 ↗ 非标双头螺柱
+讨论您的申请 ↗ 行业总览
 
 ### 配合连接细节
 
@@ -61630,7 +62124,7 @@ MONTAGE, LIENS ET JOINTS PERSONNALISÉS
 
 Têtes, goujons et géométries de connexion spéciaux pour bâtis de machines, supports, liaisons personnalisées et assemblages d'équipements.
 
-Discutez de votre candidature ↗ Goujons à double extrémité sur mesure
+Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
 ### Détails de la connexion correspondante
 
@@ -61701,11 +62195,13 @@ Une tête en T doit entrer, tourner ou glisser à l'intérieur de la fente prév
 # Kohlenstoff- und legierter Stahl – individuelle Schraubenstärke und Verwendungsmöglichkeiten | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/carbon-alloy-steel/
 
-Fe STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
+STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 
 ## Kohlenstoff- und legierter Stahl
 
 Eine praktische Wahl für durch Konstruktionszeichnungen definierte Verbindungselemente, bei denen die erforderliche mechanische Klasse, das Verschleißverhalten und der Oberflächenschutz gemeinsam spezifiziert werden können.
+
+Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
 ### Festigkeitsreferenz
 
@@ -61800,11 +62296,13 @@ Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem 
 # Acero al carbono y aleado: resistencia y usos de tornillos personalizados | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/carbon-alloy-steel/
 
-Fe CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
+CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
 ## Acero al carbono y aleado
 
 Una opción práctica para sujetadores definidos por planos de ingeniería donde se pueden especificar juntos la clase mecánica requerida, el comportamiento de desgaste y la protección de la superficie.
+
+Referencia del aspecto del material; el grado y las propiedades requieren documentación.
 
 ### Referencia de fuerza
 
@@ -61899,11 +62397,13 @@ Un revestimiento pertenece al plano dimensional. El ajuste final debe evaluarse 
 # Acciaio al carbonio e legato: resistenza e usi delle viti personalizzati | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/materials/carbon-alloy-steel/
 
-Fe GRADO/CONDIZIONE/REQUISITO FINALE
+GRADO/CONDIZIONE/REQUISITO FINALE
 
 ## Acciaio al carbonio e legato
 
 Una scelta pratica per elementi di fissaggio definiti dal disegno tecnico in cui è possibile specificare insieme la classe meccanica richiesta, il comportamento all'usura e la protezione superficiale.
+
+Riferimento visivo del materiale; grado e proprietà richiedono documentazione.
 
 ### Riferimento di forza
 
@@ -61998,17 +62498,19 @@ Un rivestimento rientra nel piano dimensionale. La vestibilità finale deve esse
 # 碳钢和合金钢 — 定制螺钉强度和用途 | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/carbon-alloy-steel/
 
-Fe 等级/条件/最终要求
+等级/条件/最终要求
 
 ## 碳钢及合金钢
 
-工程图纸定义的紧固件的实用选择，可以同时指定所需的机械等级、磨损行为和表面保护。
+碳钢和合金钢适用于需要明确强度、耐磨性及表面防护要求的非标紧固件。选材时应同时确认成品性能、热处理和涂层方案。
+
+材料外观参考；具体牌号与性能需由材料文件及检测确认。
 
 ### 实力参考
 
 指定成品紧固件属性等级，而不是从原始等级推断的强度。常见的标称类参考包括8.8、10.9和12.9。
 
-等级/条件/基础 拉伸强度Rm (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考范围
+等级/条件/基础 拉伸强度Rm (MPa) 屈服强度／0.2%规定塑性延伸强度（MPa） 参考范围
 
 8.8 名义类别参考 800 640 标称指定值；实际标准最小值取决于适用性和尺寸。
 
@@ -62097,11 +62599,13 @@ Bossard：钢紧固件性能等级 ↗
 # Acier au carbone et allié — Résistance et utilisations des vis personnalisées | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/carbon-alloy-steel/
 
-Fe GRADE / CONDITION / EXIGENCE FINALE
+GRADE / CONDITION / EXIGENCE FINALE
 
 ## Acier au carbone et allié
 
 Un choix pratique pour les fixations définies par des dessins techniques où la classe mécanique requise, le comportement à l'usure et la protection de surface peuvent être spécifiés ensemble.
+
+Aspect du matériau à titre indicatif ; la nuance et les propriétés nécessitent des justificatifs.
 
 ### Référence de force
 
@@ -62196,11 +62700,13 @@ Un revêtement appartient au plan dimensionnel. L'ajustement final doit être é
 # 10B21 Borstahl – Benutzerdefinierte Schraubenstärke und Verwendungsmöglichkeiten | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/10b21-boron-steel/
 
-B STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
+STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 
 ## 10B21 Borstahl
 
 Eine borlegierte Stahlsorte, die für geformte Verbindungselemente berücksichtigt wird, wenn die technische Zeichnung, der endgültige Materialzustand und die erforderlichen Eigenschaften definiert werden.
+
+Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
 ### Festigkeitsreferenz
 
@@ -62291,11 +62797,13 @@ Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheid
 # Acero al boro 10B21: resistencia y usos de tornillos personalizados | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/10b21-boron-steel/
 
-B CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
+CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
 ## Acero al boro 10B21
 
 Un grado de acero con aleación de boro que se considera para recorridos de sujetadores formados cuando se definen el dibujo de ingeniería, la condición final del material y las propiedades requeridas.
+
+Referencia del aspecto del material; el grado y las propiedades requieren documentación.
 
 ### Referencia de fuerza
 
@@ -62386,11 +62894,13 @@ Un sujetador de acero de alta resistencia necesita una decisión de recubrimient
 # Acciaio al boro 10B21: resistenza e usi delle viti personalizzati | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/materials/10b21-boron-steel/
 
-B GRADO/CONDIZIONE/REQUISITO FINALE
+GRADO/CONDIZIONE/REQUISITO FINALE
 
 ## 10B21 Acciaio al boro
 
 Un tipo di acciaio legato al boro considerato per i percorsi di fissaggio formati quando vengono definiti il disegno tecnico, le condizioni finali del materiale e le proprietà richieste.
+
+Riferimento visivo del materiale; grado e proprietà richiedono documentazione.
 
 ### Riferimento di forza
 
@@ -62481,17 +62991,19 @@ Un elemento di fissaggio in acciaio ad alta resistenza necessita di una decision
 # 10B21 硼钢 — 定制螺钉强度和用途 | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/10b21-boron-steel/
 
-B 等级/条件/最终要求
+等级/条件/最终要求
 
 ## 10B21硼钢
 
-当定义工程图纸、最终材料条件和所需性能时，考虑用于成型紧固件路线的硼合金钢牌号。
+10B21是可用于紧固件冷镦成型的含硼钢牌号。具体加工路线和成品性能，需要结合图纸、材料状态及热处理要求确认。
+
+材料外观参考；具体牌号与性能需由材料文件及检测确认。
 
 ### 实力参考
 
 10B21是材料牌号，不是成品强度等级。不同加工及热处理状态的10B21螺丝，不能套用同一个抗拉强度值。
 
-等级/条件/基础 拉伸强度Rm (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考范围
+等级/条件/基础 拉伸强度Rm (MPa) 屈服强度／0.2%规定塑性延伸强度（MPa） 参考范围
 
 10B21 处于所需的最终条件 指定订单 指定订单 成型、热处理和最终要求决定了所提供的性能。
 
@@ -62576,11 +63088,13 @@ Bossard：钢紧固件性能等级 ↗
 # Acier au bore 10B21 — Résistance et utilisations des vis personnalisées | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/10b21-boron-steel/
 
-B GRADE / CONDITION / EXIGENCE FINALE
+GRADE / CONDITION / EXIGENCE FINALE
 
 ## Acier au bore 10B21
 
 Nuance d'acier allié au bore prise en compte pour les itinéraires de fixation formés lorsque le dessin technique, l'état final du matériau et les propriétés requises sont définis.
+
+Aspect du matériau à titre indicatif ; la nuance et les propriétés nécessitent des justificatifs.
 
 ### Référence de force
 
@@ -62671,11 +63185,13 @@ Une fixation en acier à haute résistance nécessite une décision de revêteme
 # SUS304 und SUS316 Edelstahl – individuelle Schraubenstärke und Einsatzmöglichkeiten | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/stainless-steel-304-316/
 
-Cr STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
+STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 
 ## SUS304 & SUS316 Edelstahl
 
 Auswahl aus austenitischem Edelstahl für Teile, bei denen Korrosionseinwirkung, Oberflächenzustand und die angegebene Festigkeitsklasse des Befestigungselements gemeinsam berücksichtigt werden müssen.
+
+Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
 ### Festigkeitsreferenz
 
@@ -62770,11 +63286,13 @@ Ein helles Erscheinungsbild weist nicht auf einen Oberflächenprozess hin. Geben
 # SUS304 y SUS316 Acero inoxidable: resistencia y usos de tornillos personalizados | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/stainless-steel-304-316/
 
-Cr CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
+CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
 ## SUS304 y SUS316 Acero inoxidable
 
 Opciones de acero inoxidable austenítico para piezas donde es necesario considerar en conjunto la exposición a la corrosión, la condición de la superficie y la clase de resistencia de los sujetadores especificada.
+
+Referencia del aspecto del material; el grado y las propiedades requieren documentación.
 
 ### Referencia de fuerza
 
@@ -62869,11 +63387,13 @@ Una apariencia brillante no identifica un proceso superficial. Especifique el su
 # SUS304 e SUS316 Acciaio inossidabile: resistenza e usi delle viti personalizzati | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/materials/stainless-steel-304-316/
 
-Cr GRADO/CONDIZIONE/REQUISITO FINALE
+GRADO/CONDIZIONE/REQUISITO FINALE
 
 ## SUS304 & SUS316 Acciaio inossidabile
 
 Scelte di acciaio inossidabile austenitico per parti in cui è necessario considerare insieme l'esposizione alla corrosione, le condizioni della superficie e la classe di resistenza degli elementi di fissaggio specificata.
+
+Riferimento visivo del materiale; grado e proprietà richiedono documentazione.
 
 ### Riferimento di forza
 
@@ -62968,17 +63488,19 @@ Un aspetto brillante non identifica un processo superficiale. Specificare il sub
 # SUS304 和 SUS316 不锈钢 — 定制螺丝强度和用途 | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/stainless-steel-304-316/
 
-Cr 等级/条件/最终要求
+等级/条件/最终要求
 
 ## SUS304 & SUS316 不锈钢
 
-对于需要同时考虑腐蚀暴露、表面状况和指定紧固件强度等级的零件，选择奥氏体不锈钢。
+SUS304和SUS316适用于需要考虑耐腐蚀性的零件。选型时还需确认使用环境、表面状态，以及成品紧固件的强度要求。
+
+材料外观参考；具体牌号与性能需由材料文件及检测确认。
 
 ### 实力参考
 
 A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件成品要求。只注明SUS304或SUS316牌号，并不能证明成品已经达到A2-70或A4-80。
 
-等级/条件/基础 拉伸强度Rm (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考范围
+等级/条件/基础 拉伸强度Rm (MPa) 屈服强度／0.2%规定塑性延伸强度（MPa） 参考范围
 
 ISO 3506 类 70 参考 700 最小值 450 最小值 适用的奥氏体紧固件；确认等级、尺寸和产品范围。
 
@@ -63067,11 +63589,13 @@ A2/A4 组和类别，例如70 或80 描述了适用规范下的成品不锈钢�
 # SUS304 & SUS316 Acier inoxydable — Résistance et utilisations des vis personnalisées | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/stainless-steel-304-316/
 
-Cr GRADE / CONDITION / EXIGENCE FINALE
+GRADE / CONDITION / EXIGENCE FINALE
 
 ## SUS304 & SUS316 Acier inoxydable
 
 Choix d'acier inoxydable austénitique pour les pièces où l'exposition à la corrosion, l'état de surface et la classe de résistance des fixations spécifiée doivent être pris en compte ensemble.
+
+Aspect du matériau à titre indicatif ; la nuance et les propriétés nécessitent des justificatifs.
 
 ### Référence de force
 
@@ -63166,11 +63690,13 @@ Un aspect brillant n’identifie pas un processus de surface. Précisez le subst
 # Aluminiumlegierungen – kundenspezifische Schraubenstärke und Verwendungsmöglichkeiten | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/aluminum-alloys/
 
-Al STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
+STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 
 ## Aluminiumlegierungen
 
 Leichtmetalloptionen für kundenspezifische Gewindeteile, bei denen Legierung, Härte, Eingriff und Oberflächenanforderungen für die Anwendung angepasst werden können.
+
+Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
 ### Festigkeitsreferenz
 
@@ -63265,11 +63791,13 @@ Ein Prototyp kann eine nützliche Geometrie erstellen, ohne den endgültigen Pro
 # Aleaciones de aluminio: resistencia y usos de tornillos personalizados | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/aluminum-alloys/
 
-Al CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
+CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
 ## Aleaciones de aluminio
 
 Opciones de metal liviano para piezas roscadas personalizadas donde los requisitos de aleación, temple, compromiso y superficie se pueden diseñar para la aplicación.
+
+Referencia del aspecto del material; el grado y las propiedades requieren documentación.
 
 ### Referencia de fuerza
 
@@ -63364,11 +63892,13 @@ Un prototipo puede establecer una geometría útil sin definir la ruta de produc
 # Leghe di alluminio: resistenza e usi delle viti personalizzati | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/materials/aluminum-alloys/
 
-Al GRADO/CONDIZIONE/REQUISITO FINALE
+GRADO/CONDIZIONE/REQUISITO FINALE
 
 ## Leghe di alluminio
 
 Opzioni in metallo leggero per parti filettate personalizzate in cui i requisiti di lega, stato fisico, impegno e superficie possono essere progettati per l'applicazione.
+
+Riferimento visivo del materiale; grado e proprietà richiedono documentazione.
 
 ### Riferimento di forza
 
@@ -63463,17 +63993,19 @@ Un prototipo può stabilire una geometria utile senza definire il percorso di pr
 # 铝合金 — 定制螺钉强度和用途 | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/aluminum-alloys/
 
-Al 等级/条件/最终要求
+等级/条件/最终要求
 
 ## 铝合金
 
-用于定制螺纹零件的轻质金属选项，其中合金、回火、啮合和表面要求可根据应用进行设计。
+铝合金可用于有轻量化需求的非标螺纹零件。具体合金、材料状态、螺纹旋合长度和表面处理应结合应用确定。
+
+材料外观参考；具体牌号与性能需由材料文件及检测确认。
 
 ### 实力参考
 
 相同的合金在不同的状态下具有不同的性能。下图是指定挤压原料的示例，而不是成品螺杆额定值。
 
-等级/条件/基础 拉伸强度Rm (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考范围
+等级/条件/基础 拉伸强度Rm (MPa) 屈服强度／0.2%规定塑性延伸强度（MPa） 参考范围
 
 6061-T6 / T6511 挤压原料示例 260 最小值 240 最小值 水电库存数据；部分和产品规格适用。
 
@@ -63562,11 +64094,13 @@ Hydro: 6082 挤压合金数据 ↗
 # Alliages d'aluminium - Résistance et utilisations des vis personnalisées | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/aluminum-alloys/
 
-Al GRADE / CONDITION / EXIGENCE FINALE
+GRADE / CONDITION / EXIGENCE FINALE
 
 ## Alliages d'aluminium
 
 Options de métaux légers pour pièces filetées personnalisées où les exigences en matière d'alliage, de trempe, d'engagement et de surface peuvent être conçues pour l'application.
+
+Aspect du matériau à titre indicatif ; la nuance et les propriétés nécessitent des justificatifs.
 
 ### Référence de force
 
@@ -63661,11 +64195,13 @@ Un prototype peut établir une géométrie utile sans définir l’itinéraire d
 # Kupfer – Benutzerdefinierte Schraubenstärke und Verwendungsmöglichkeiten | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/copper/
 
-Cu STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
+STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 
 ## Kupfer
 
 Eine Materialfamilie, bei der neben der Geometrie und der mechanischen Akzeptanz der kundenspezifischen Komponente auch die elektrische oder thermische Funktion wichtig ist.
+
+Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
 ### Festigkeitsreferenz
 
@@ -63756,11 +64292,13 @@ Sauberkeit wird zu einer technischen Anforderung, wenn Verunreinigungen die Baug
 # Cobre: resistencia y usos de tornillos personalizados | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/copper/
 
-Cu CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
+CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
 ## Cobre
 
 Una familia de materiales considerada donde la función eléctrica o térmica es importante junto con la geometría y la aceptación mecánica del componente personalizado.
+
+Referencia del aspecto del material; el grado y las propiedades requieren documentación.
 
 ### Referencia de fuerza
 
@@ -63851,11 +64389,13 @@ La limpieza se convierte en un requisito técnico cuando la contaminación puede
 # Rame: resistenza e usi delle viti personalizzati | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/materials/copper/
 
-Cu GRADO/CONDIZIONE/REQUISITO FINALE
+GRADO/CONDIZIONE/REQUISITO FINALE
 
 ## Rame
 
 Una famiglia di materiali considerata in cui la funzione elettrica o termica è importante insieme alla geometria e all'accettazione meccanica del componente personalizzato.
+
+Riferimento visivo del materiale; grado e proprietà richiedono documentazione.
 
 ### Riferimento di forza
 
@@ -63946,17 +64486,19 @@ La pulizia diventa un requisito tecnico quando la contaminazione può compromett
 # 铜 — 定制螺丝强度和用途 | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/copper/
 
-Cu 等级/条件/最终要求
+等级/条件/最终要求
 
 ## 铜
 
-考虑到电气或热功能与定制组件的几何形状和机械接受度一样重要的材料系列。
+铜适用于重视导电、导热性能的零件。选材时仍需核对结构尺寸、连接方式和机械性能要求。
+
+材料外观参考；具体牌号与性能需由材料文件及检测确认。
 
 ### 实力参考
 
 铜的强度随合金、产品形状和状态的不同而变化很大。以下是典型的库存参考，而不是螺丝验收要求。
 
-等级/条件/基础 拉伸强度Rm (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考范围
+等级/条件/基础 拉伸强度Rm (MPa) 屈服强度／0.2%规定塑性延伸强度（MPa） 参考范围
 
 C11000、H02 半硬引用 大约 290 典型值 指定所选股票 CDA设计指南库存参考；其他脾气和形式有所不同。
 
@@ -64041,11 +64583,13 @@ C11000、H02 半硬引用 大约 290 典型值 指定所选股票 CDA设计指�
 # Cuivre — Résistance et utilisations des vis personnalisées | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/copper/
 
-Cu GRADE / CONDITION / EXIGENCE FINALE
+GRADE / CONDITION / EXIGENCE FINALE
 
 ## Cuivre
 
 Une famille de matériaux considérée où la fonction électrique ou thermique est importante parallèlement à la géométrie et à l'acceptation mécanique du composant personnalisé.
+
+Aspect du matériau à titre indicatif ; la nuance et les propriétés nécessitent des justificatifs.
 
 ### Référence de force
 
@@ -64136,11 +64680,13 @@ La propreté devient une exigence technique lorsqu'une contamination peut affect
 # Messing – individuelle Schraubenstärke und Einsatzmöglichkeiten | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/brass/
 
-CuZn STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
+STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 
 ## Messing
 
 Kupfer-Zink-Legierungen können für die Konstruktion zeichnungsspezifischer bearbeiteter Gewindekomponenten nützlich sein, bei denen das Bearbeitungsverhalten, die Kontaktbedingungen und die ausgewählte Legierungszusammensetzung zur Anwendung passen.
+
+Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
 ### Festigkeitsreferenz
 
@@ -64233,11 +64779,13 @@ Die Materialauswahl beginnt mit der Einsatzumgebung und den mechanischen Anforde
 # Latón: resistencia y usos de tornillos personalizados | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/brass/
 
-CuZn CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
+CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
 ## Latón
 
 Las aleaciones de cobre y zinc pueden ser útiles para diseñar componentes roscados mecanizados específicos para planos donde el comportamiento del mecanizado, las condiciones de contacto y la composición de la aleación seleccionada se ajustan a la aplicación.
+
+Referencia del aspecto del material; el grado y las propiedades requieren documentación.
 
 ### Referencia de fuerza
 
@@ -64330,11 +64878,13 @@ La selección de materiales comienza con el entorno de servicio y los requisitos
 # Ottone: resistenza e usi delle viti personalizzati | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/materials/brass/
 
-CuZn GRADO/CONDIZIONE/REQUISITO FINALE
+GRADO/CONDIZIONE/REQUISITO FINALE
 
 ## Ottone
 
 Le leghe rame-zinco possono essere utili per componenti filettati lavorati a macchina specifici del disegno tecnico in cui il comportamento di lavorazione, le condizioni di contatto e la composizione della lega selezionata si adattano all'applicazione.
+
+Riferimento visivo del materiale; grado e proprietà richiedono documentazione.
 
 ### Riferimento di forza
 
@@ -64427,17 +64977,19 @@ La selezione dei materiali inizia con l'ambiente di servizio e i requisiti mecca
 # 黄铜 — 定制螺钉的强度和用途 | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/brass/
 
-铜锌 等级/条件/最终要求
+等级/条件/最终要求
 
 ## 黄铜
 
-铜锌合金可用于工程图纸特定的机加工螺纹部件，其中机加工行为、接触条件和所选合金成分适合应用。
+黄铜是铜锌合金，可用于按图车削的螺纹零件。应结合切削加工、接触环境及合金成分要求选择具体牌号。
+
+材料外观参考；具体牌号与性能需由材料文件及检测确认。
 
 ### 实力参考
 
 强度随成分和脾气而变化。下面的示例是已发布的典型 H02 杆数据，不得应用于所有黄铜紧固件。
 
-等级/条件/基础 拉伸强度Rm (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考范围
+等级/条件/基础 拉伸强度Rm (MPa) 屈服强度／0.2%规定塑性延伸强度（MPa） 参考范围
 
 C36000 杆，H02 参考 386 典型值 310 典型值 CDA典型棒值；使用订购的合金/状态规格进行验收。
 
@@ -64524,11 +65076,13 @@ CDA：C36000 成分和条件 ↗
 # Laiton — Résistance et utilisations des vis personnalisées | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/brass/
 
-CuZn GRADE / CONDITION / EXIGENCE FINALE
+GRADE / CONDITION / EXIGENCE FINALE
 
 ## Laiton
 
 Les alliages cuivre-zinc peuvent être utiles pour les composants filetés usinés spécifiques aux dessins techniques où le comportement d'usinage, les conditions de contact et la composition de l'alliage sélectionné conviennent à l'application.
+
+Aspect du matériau à titre indicatif ; la nuance et les propriétés nécessitent des justificatifs.
 
 ### Référence de force
 
@@ -64621,11 +65175,13 @@ La sélection des matériaux commence par l'environnement de service et les exig
 # Titan und Titanlegierungen – individuelle Schraubenstärke und Verwendungsmöglichkeiten | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/titanium-alloys/
 
-Ti STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
+STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 
 ## Titan und Titanlegierungen
 
 Titansorten werden in Betracht gezogen, wenn Masse, Korrosionseinwirkung und erforderliche mechanische Eigenschaften einen sortenspezifischen Herstellungs- und Verifizierungsplan rechtfertigen.
+
+Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
 ### Festigkeitsreferenz
 
@@ -64720,11 +65276,13 @@ Ein Muster ist am nützlichsten, wenn seine Identität, Revision und Akzeptanzum
 # Titanio y aleaciones de titanio: resistencia y usos de tornillos personalizados | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/titanium-alloys/
 
-Ti CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
+CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
 ## Titanio y aleaciones de titanio
 
 Se consideran grados de titanio donde la masa, la exposición a la corrosión y las propiedades mecánicas requeridas justifican un plan de fabricación y verificación específico para el grado.
+
+Referencia del aspecto del material; el grado y las propiedades requieren documentación.
 
 ### Referencia de fuerza
 
@@ -64819,11 +65377,13 @@ Una muestra es más útil cuando su identidad, alcance de revisión y aceptació
 # Titanio e leghe di titanio: resistenza e usi delle viti personalizzati | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/materials/titanium-alloys/
 
-Ti GRADO/CONDIZIONE/REQUISITO FINALE
+GRADO/CONDIZIONE/REQUISITO FINALE
 
 ## Titanio e leghe di titanio
 
 I gradi di titanio vengono presi in considerazione laddove la massa, l'esposizione alla corrosione e le proprietà meccaniche richieste giustificano un piano di produzione e verifica specifico per il grado.
+
+Riferimento visivo del materiale; grado e proprietà richiedono documentazione.
 
 ### Riferimento di forza
 
@@ -64918,17 +65478,19 @@ Un campione è particolarmente utile quando la sua identità, revisione e ambito
 # 钛及钛合金 - 定制螺钉强度和用途 | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/titanium-alloys/
 
-Ti 等级/条件/最终要求
+等级/条件/最终要求
 
 ## 钛及钛合金
 
-如果质量、腐蚀暴露和所需的机械性能证明特定等级的制造和验证计划合理，则考虑钛等级。
+钛及钛合金可用于兼顾重量、耐腐蚀性和机械性能的零件。应明确具体牌号，并评估加工与检测方案。
+
+材料外观参考；具体牌号与性能需由材料文件及检测确认。
 
 ### 实力参考
 
 商业纯级2和Ti-6Al-4V是不同的材料。等级、产品形状和状况必须伴随任何强度值。
 
-等级/条件/基础 拉伸强度Rm (MPa) 屈服强度 / 0.2% 应力 (MPa) 参考范围
+等级/条件/基础 拉伸强度Rm (MPa) 屈服强度／0.2%规定塑性延伸强度（MPa） 参考范围
 
 Ti-6Al-4V 退火材料示例 896 最小值 827 最小值 木工最低指定材料数据；验证适用的库存和订单要求。
 
@@ -65017,11 +65579,13 @@ CP 钛级 2 参考 确认指定产品 275 最低产量参考 木匠等级2参考
 # Titane et alliages de titane — Résistance et utilisations des vis personnalisées | ZUFEK
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/titanium-alloys/
 
-Ti GRADE / CONDITION / EXIGENCE FINALE
+GRADE / CONDITION / EXIGENCE FINALE
 
 ## Titane et alliages de titane
 
 Les nuances de titane sont prises en compte lorsque la masse, l'exposition à la corrosion et les propriétés mécaniques requises justifient un plan de fabrication et de vérification spécifique à la nuance.
+
+Aspect du matériau à titre indicatif ; la nuance et les propriétés nécessitent des justificatifs.
 
 ### Référence de force
 

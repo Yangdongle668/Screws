@@ -31,6 +31,7 @@ jobs:
           node scripts/verify-multilingual.mjs
           node scripts/verify-language-preference.mjs
           node scripts/verify-images.mjs
+          node scripts/verify-sector-images.mjs
           node scripts/verify-priorities.mjs
           node scripts/audit-topology.mjs
       - name: Type check

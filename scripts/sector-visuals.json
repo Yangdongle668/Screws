@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "industry-automotive-components",
+    "kind": "industry",
+    "title": "Automotive Components",
+    "prompt": "Wide overview of a modern automotive assembly plant with complete unbranded passenger cars on a clean production line, robotic welding and assembly stations in background. A finished silver car clearly recognizable in foreground. The viewer must instantly recognize AUTOMOTIVE INDUSTRY; not a screw closeup, not an electronics module."
+  },
+  {
+    "slug": "industry-industrial-automation",
+    "kind": "industry",
+    "title": "Industrial Automation",
+    "prompt": "Wide overview of an industrial automation factory with articulated orange industrial robot arms, conveyor line and automated assembly cells. Clearly recognizable INDUSTRIAL AUTOMATION, realistic guards and factory infrastructure; no car bodies, no screw closeups."
+  },
+  {
+    "slug": "industry-electronics-optics",
+    "kind": "industry",
+    "title": "Electronics & Optical Equipment",
+    "prompt": "Wide overview of modern electronics and optical equipment production laboratory, visible PCB assembly line, enclosed precision instruments and industrial camera testing stations, clean orderly high-tech workspace. Immediately recognizable ELECTRONICS & OPTICS industry, no screw closeups."
+  },
+  {
+    "slug": "industry-energy-equipment",
+    "kind": "industry",
+    "title": "Energy, Charging & Storage Equipment",
+    "prompt": "Wide overview of outdoor modern energy infrastructure, electric vehicle charging stations in foreground and large battery energy storage cabinets with solar panels in background. Immediately recognizable CHARGING & ENERGY STORAGE, unbranded, no screw closeups."
+  },
+  {
+    "slug": "industry-molds-fixtures",
+    "kind": "industry",
+    "title": "Molds, Tooling & Test Fixtures",
+    "prompt": "Wide overview of precision mold and tooling workshop, large open injection mold on clean tooling table in foreground, multiple CNC machining centers in background. Clearly recognizable MOLD AND TOOL MAKING industry; no screw closeups."
+  },
+  {
+    "slug": "industry-security-equipment",
+    "kind": "industry",
+    "title": "Security & Access Equipment",
+    "prompt": "Wide overview of a modern commercial building security entrance, access-control speed gates with card readers in foreground and ceiling CCTV cameras visible, clean secure lobby. Immediately recognizable SECURITY & ACCESS CONTROL sector; no screw closeups."
+  },
+  {
+    "slug": "industry-fluid-control",
+    "kind": "industry",
+    "title": "Fluid Control & Pneumatic Equipment",
+    "prompt": "Wide overview of industrial fluid-control and pneumatic installation: organized stainless process pipework, valve manifolds, gauges and compressed-air treatment system inside clean factory. Immediately recognizable FLUID CONTROL industry; mechanically plausible, no random loose pipes, no screw closeups."
+  },
+  {
+    "slug": "industry-general-machinery",
+    "kind": "industry",
+    "title": "General Machinery & Equipment",
+    "prompt": "Wide overview of general machinery manufacturing workshop: large industrial machine tools and mechanical assembly stations, substantial gearbox and drive assembly in foreground, factory crane infrastructure. Immediately recognizable MACHINERY & EQUIPMENT sector; no screw closeups."
+  },
+  {
+    "slug": "material-carbon-alloy-steel",
+    "kind": "material",
+    "title": "Carbon & Alloy Steel",
+    "prompt": "Three identical uncoated machined carbon steel shoulder screws with dark neutral gray metallic appearance next to short raw steel bar coupon; crisp machined shoulders and external threads. No gold or stainless chrome mirror appearance."
+  },
+  {
+    "slug": "material-10b21-boron-steel",
+    "kind": "material",
+    "title": "10B21 Boron Steel",
+    "prompt": "Cold-heading steel wire coil in soft background, in foreground cut cylindrical steel wire blank, unthreaded cold-headed flange screw blank, completed externally threaded flange screw aligned in a manufacturing progression. Natural matte gray steel, no colored coating. Grade cannot be visually verified."
+  },
+  {
+    "slug": "material-stainless-steel-304-316",
+    "kind": "material",
+    "title": "SUS304 & SUS316 Stainless Steel",
+    "prompt": "Small group of clean silver stainless steel custom shoulder screws and hollow through-bore screw on neutral charcoal surface, subtle brushed sheen, visible smooth shank and realistic threads. No invented visual distinction between 304 and 316."
+  },
+  {
+    "slug": "material-aluminum-alloys",
+    "kind": "material",
+    "title": "Aluminum Alloys",
+    "prompt": "Three silver satin machined aluminum custom shoulder screws with broader head and fine turning marks beside a short aluminum rod coupon, gentle softer silver finish, no blue anodizing."
+  },
+  {
+    "slug": "material-copper",
+    "kind": "material",
+    "title": "Copper",
+    "prompt": "Three custom pure copper screws with unmistakable reddish copper metallic surface, one shoulder screw and two small hex-head screws, beside a reddish copper rod cross-section, no brass yellow color."
+  },
+  {
+    "slug": "material-brass",
+    "kind": "material",
+    "title": "Brass",
+    "prompt": "Three machined brass custom screws with unmistakable yellow gold brass tone, knurled thumb screw and shoulder screw next to brass bar coupon, clear machined texture, not red copper."
+  },
+  {
+    "slug": "material-titanium-alloys",
+    "kind": "material",
+    "title": "Titanium & Titanium Alloys",
+    "prompt": "Three machined titanium custom shoulder screws, neutral muted gray metal with subtle satin finish, one raw titanium bar coupon, no rainbow anodization, no unsupported visual identification of titanium grade."
+  },
+  {
+    "slug": "result-cold-heading",
+    "kind": "result",
+    "title": "Cold heading — formed blank",
+    "prompt": "Three stages of ONE flange screw side by side: cut wire cylinder, partly upset head preform, final cold-headed hex flange blank with smooth unthreaded shank. Show realistic forming surfaces, no threads in final blank; no cutting tools."
+  },
+  {
+    "slug": "result-cnc-turning",
+    "kind": "result",
+    "title": "CNC turning — stepped geometry",
+    "prompt": "One finished custom multi-step precision screw with two concentric smooth turned shoulders, axial bore visible at one end, smaller externally threaded tip, close-up of clean concentric turning marks and sharp controlled steps without impossible geometry."
+  },
+  {
+    "slug": "result-hot-forging",
+    "kind": "result",
+    "title": "Hot forging — forged blank",
+    "prompt": "A cooled dark forged eye-bolt blank beside a trimmed and machined eye bolt of same geometry, both closed integral ring and straight shank, forging scale visible on blank, finished piece not glowing, no lifting load or rating."
+  },
+  {
+    "slug": "result-hybrid-manufacturing",
+    "kind": "result",
+    "title": "Hybrid manufacturing — refined shoulder",
+    "prompt": "Two matching steel shoulder-screw blanks side by side: first has rough formed head and oversized smooth shoulder; second has same head with precisely turned concentric shoulder and threaded tip. Clearly same geometry at two manufacturing stages."
+  },
+  {
+    "slug": "result-threading",
+    "kind": "result",
+    "title": "Threading — finished thread",
+    "prompt": "Extreme macro of one steel screw external thread beside smooth unthreaded blank of same diameter, fully formed consistent symmetric helical thread, crisp runout at smooth shoulder, no markings, no sharp tool in shot."
+  },
+  {
+    "slug": "result-secondary-machining",
+    "kind": "result",
+    "title": "Secondary machining — cross hole",
+    "prompt": "Single custom steel shoulder screw with hex socket head and clean radial cross-hole visibly drilled through smooth shoulder, a second angle of same screw lying behind, deburred hole edge in sharp macro focus."
+  },
+  {
+    "slug": "result-heat-treatment",
+    "kind": "result",
+    "title": "Heat treatment — final condition",
+    "prompt": "Small batch of identical steel shoulder bolts after heat treatment before coating, neutral gray cleaned metal in perforated heat-treatment basket on workbench, subtle varying oxide surface on one spare sample, no color-based hardness claims, no glowing red parts."
+  },
+  {
+    "slug": "result-surface-treatment",
+    "kind": "result",
+    "title": "Surface treatment — finish options",
+    "prompt": "Four geometrically identical custom steel flange screws laid parallel on neutral gray background, finishes visually distinct: dark black oxide, bright silver nickel, matte silver zinc flake, dark graphite PTFE. No labels, clear threads and undistorted hex heads. No performance values."
+  },
+  {
+    "slug": "result-post-processing",
+    "kind": "result",
+    "title": "Post-processing — clean and deburred",
+    "prompt": "Macro photograph of clean custom stainless steel hollow shoulder screw and cross-drilled screw on lint-free clean tray, visible smooth deburred bore mouths and cross-hole edges, no coolant residue, no loose burrs. No implied validated cleanliness class."
+  },
+  {
+    "slug": "result-inspection",
+    "kind": "result",
+    "title": "Inspection — dimensional review",
+    "prompt": "One custom shoulder screw silhouette in a backlit optical dimensional inspection setup, sharp side profile of head smooth shoulder and threaded end, realistic dark machine stage and objective in background, no screen text, no fake passing measurements or values."
+  }
+]
