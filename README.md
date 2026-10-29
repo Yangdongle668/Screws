@@ -53,7 +53,7 @@ GitHub Actions 在推送和 PR 时执行基础检查与构建，不会自动部�
 
 ### 自建 Linux / Docker
 
-服务器先准备 Docker Engine、Docker Compose v2、Git、Bash 和 `flock`；正式域名指向服务器并开放 80/443 端口。以下命令在服务器终端执行。
+服务器先准备 Docker Engine、Docker Compose v2、Git、Bash 和 `flock`。默认通过 **HTTP 1573端口** 访问，不要求域名、证书或Nginx；后续可以自行配置反向代理。以下命令在服务器终端执行。
 
 **首次一键部署：**
 
@@ -63,7 +63,9 @@ cd Screws
 bash deploy.sh
 ```
 
-按提示填写域名、后台账号和密码、证书邮箱及 SMTP 域名。首次构建完成后访问 `https://你的域名/admin/`。如果已经克隆仓库，直接进入现有目录运行脚本。
+只需按提示填写后台管理员邮箱和密码。构建完成后访问 `http://服务器IP:1573/`，后台为 `http://服务器IP:1573/admin/`。如果已经克隆仓库，直接进入现有目录运行脚本。SMTP服务器、465 SSL/TLS或587 STARTTLS、邮箱密码及收件人都在后台“邮件通知”中设置。
+
+如果旧部署在 `chown /data` 处失败，执行 `git pull --ff-only origin main` 后重新运行 `bash deploy.sh` 即可。脚本会备份旧配置并保留账号和密钥，勿删除 `data/`、`.env.docker` 或 `backups/`。以后仍使用 `bash update.sh` 更新。
 
 **后续一键更新：**
 
@@ -87,12 +89,12 @@ bash backup.sh
 
 ```bash
 docker compose --env-file .env.docker ps
-docker compose --env-file .env.docker logs --tail=100 app https
+docker compose --env-file .env.docker logs --tail=100 app
 ```
 
 以上命令均从仓库根目录执行；若已在该目录，不必重复 `cd Screws`。更新脚本已经负责拉取代码，无需先手动执行 `git pull`。运行数据在 `data/`，受保护配置在 `.env.docker`，不要删除或提交到 GitHub。现有 Sites 数据不会自动迁入 Docker。
 
-包含独立后台登录、持久化数据库/图纸、HTTPS 和内置 SMTP 转接。完整配置、恢复与故障处理见 [Docker部署说明](docs/DOCKER.md)。
+包含独立后台登录、持久化数据库/图纸和内置 SMTP 转接。不占用80/443端口、不启动Caddy、不要求修改邮件环境变量。可选Nginx配置、正式域名、恢复与故障处理见 [Docker部署说明](docs/DOCKER.md)。
 
 ### 保留原 Sites 托管
 

@@ -6,6 +6,6 @@ lock_deployment
 [[ -f .env.docker && -f .deployment/current ]] || { echo '尚未部署。'; exit 1; }
 export APP_VERSION="$(current_version)"
 backup_data
-dc up -d --wait --wait-timeout 120 app https
+dc up -d --wait --wait-timeout 120 app
 RESUME_ON_EXIT=0
 echo '备份完成，服务已恢复。'

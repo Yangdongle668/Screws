@@ -5,3 +5,4 @@ export {analyticsEvent} from '../lib/analytics-api';
 export {sitemapResponse} from '../lib/sitemap-response';
 export {createBridge} from '../smtp-bridge/core.mjs';
 export {translate,splitLocale} from '../lib/i18n/runtime';
+export {loadMailConfig} from '../lib/mail-settings';

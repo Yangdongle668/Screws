@@ -13,7 +13,6 @@ export APP_VERSION="$(git rev-parse HEAD)-$(date -u +%Y%m%dT%H%M%SZ)"
 dc config --quiet
 # Build while the old service is still running; a build failure changes no data.
 dc build --pull app
-dc pull https
 backup_data
 # From this point migrations may have run. Never blindly restore an older
 # database or assume an older binary is compatible with a changed schema.
@@ -23,7 +22,7 @@ if ! dc up -d --wait --wait-timeout 120 app; then
   echo '请检查 docker compose --env-file .env.docker logs app；不要删除data或盲目覆盖已迁移的数据库。' >&2
   exit 1
 fi
-dc up -d --wait --wait-timeout 120 --force-recreate --no-deps https
+dc up -d --wait --wait-timeout 120 --remove-orphans app
 printf '%s\n' "$previous" > .deployment/previous
 printf '%s\n' "$APP_VERSION" > .deployment/current
 echo '更新完成，健康检查通过，询盘、图纸、文章和配置均使用原持久化目录。'

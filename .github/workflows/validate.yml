@@ -62,15 +62,19 @@ jobs:
         run: bash -n deploy.sh update.sh backup.sh docker/common.sh
       - name: Test update failure and backup ordering
         run: bash docker/verify-update.sh
+      - name: Test initial deployment and failed-setup recovery
+        run: bash docker/verify-deploy.sh
       - name: Validate Compose configuration
-        env:
-          PUBLIC_URL: https://docker-ci.example.invalid
-          SITE_HOST: docker-ci.example.invalid
-          TLS_EMAIL: qa@example.invalid
         run: |
           printf '%s\n' '# Disposable Compose validation only; no secrets' > .env.docker
           docker compose --env-file /dev/null config --quiet --no-env-resolution
       - name: Build independent deployment image
-        run: docker build --build-arg PUBLIC_URL=https://docker-ci.example.invalid -t zufek-ci:${{ github.sha }} .
+        run: docker build -t zufek-ci:${{ github.sha }} .
+      - name: Verify restricted data-volume initialization
+        run: |
+          mkdir .ci-volume
+          docker run --rm --network none --user 0:0 --cap-drop ALL --cap-add CHOWN --cap-add FOWNER --cap-add DAC_OVERRIDE --security-opt no-new-privileges:true -v "$PWD/.ci-volume:/data" --entrypoint node zufek-ci:${{ github.sha }} docker/initialize-volume.mjs
+          test "$(stat -c %u .ci-volume)" = 1000
+          test "$(stat -c %u .ci-volume/drawings)" = 1000
       - name: Test production container without external services
         run: docker run --rm --entrypoint node zufek-ci:${{ github.sha }} docker/verify-runtime.mjs

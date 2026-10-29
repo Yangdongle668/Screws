@@ -22,7 +22,7 @@ import {registerIndustriesMaterials,materialFamilies,industryFamilies} from './i
 
 const configuredOrigin=JSON.parse(readFileSync('site-content.config.json','utf8')).canonicalOrigin;
 const canonicalUrl=new URL(configuredOrigin);
-if(canonicalUrl.protocol!=='https:'||canonicalUrl.username||canonicalUrl.password||canonicalUrl.search||canonicalUrl.hash||canonicalUrl.pathname!=='/')throw new Error('canonicalOrigin must be an HTTPS origin without a path, credentials or query.');
+if(!(canonicalUrl.protocol==='https:'||process.env.ZUFEK_DOCKER_BUILD==='1'&&canonicalUrl.protocol==='http:')||canonicalUrl.username||canonicalUrl.password||canonicalUrl.search||canonicalUrl.hash||canonicalUrl.pathname!=='/')throw new Error('canonicalOrigin must be an HTTPS origin (or HTTP in the independent Docker build) without a path, credentials or query.');
 const origin=canonicalUrl.origin;
 const brand='ZUFEK';
 const email='engineer@zufek.com';
