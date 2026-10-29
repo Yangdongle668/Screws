@@ -1,9 +1,10 @@
 import { env } from 'cloudflare:workers';
+import productOptions from './product-options.json';
 type Inquiry={id:string;request_key:string;name:string;email:string;company:string;product:string;quantity:string;message:string;file_key:string|null;file_name:string|null;status:string;created_at:string;notified_at:string|null;attempts:number;next_attempt:number;notification_error:string|null};
 const json=(body:unknown,status=200)=>Response.json(body,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff','X-Robots-Tag':'noindex, nofollow'}});
 const db=()=>{if(!env.DB)throw new Error('Database unavailable');return env.DB;};
 const fail=(error:string,status=400)=>json({error},status);
-const allowedProducts=new Set(['custom-screws','shoulder-screws','captive-screws','special-head-screws','other']);
+const allowedProducts=new Set([...productOptions.map(p=>p.slug),'other']);
 export function adminAuthorized(request:Request){
  const id=request.headers.get('oai-authenticated-user-id');const email=request.headers.get('oai-authenticated-user-email')?.toLowerCase();
  if(!id||!email)return false;

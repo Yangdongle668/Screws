@@ -3,6 +3,12 @@ $('.menu-toggle')?.addEventListener('click',()=>{const open=$('.main-nav').class
 document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.filter').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',String(x===b));});document.querySelectorAll('.filter-grid .article-card').forEach(c=>{c.hidden=b.dataset.category!=='ALL ARTICLES'&&c.querySelector('.article-line span').textContent!==b.dataset.category;});}));
 $('#print-checklist')?.addEventListener('click',()=>window.print());
 const quote=$('#quote-form');
+if($('#product-search')){
+ let activeGroup='all';
+ const filterProducts=()=>{const term=$('#product-search').value.trim().toLowerCase();let shown=0;document.querySelectorAll('.catalog-card[data-product-group]').forEach(card=>{card.hidden=!(activeGroup==='all'||card.dataset.productGroup===activeGroup)||!card.dataset.search.includes(term);if(!card.hidden)shown++;});$('#product-count').textContent=shown+' matching product families';$('#product-empty').hidden=shown!==0;};
+ $('#product-search').addEventListener('input',filterProducts);
+ document.querySelectorAll('.product-filter').forEach(button=>button.addEventListener('click',()=>{activeGroup=button.dataset.group;document.querySelectorAll('.product-filter').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button));});filterProducts();}));
+}
 if(quote){const p=new URLSearchParams(location.search).get('product');if(p&&Array.from(quote.elements.product.options).some(x=>x.value===p))quote.elements.product.value=p;
  let requestKey=crypto.randomUUID();
  quote.addEventListener('submit',async e=>{e.preventDefault();if(!quote.reportValidity())return;const result=$('#form-result');const button=quote.querySelector('button[type=submit]');const data=new FormData(quote);const f=data.get('drawing');if(f instanceof File&&f.size>10*1024*1024){result.className='error';result.textContent='The drawing exceeds 10 MB. Choose a smaller file, or remove it and submit your project details first.';return;}data.set('requestKey',requestKey);button.disabled=true;button.textContent='Saving your inquiry…';result.className='';result.textContent='';

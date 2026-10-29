@@ -1,17 +1,24 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
-const origin='http://127.0.0.1:5173';
+const origin=process.env.SITE_TEST_ORIGIN||'http://127.0.0.1:5173';
 const pages=JSON.parse(readFileSync('lib/generated-pages.json','utf8'));
+const options=JSON.parse(readFileSync('lib/product-options.json','utf8'));
+const titles=new Set();
 let checked=0;
 for(const [url,html] of Object.entries(pages)){
  assert.equal((html.match(/<h1[ >]/g)||[]).length,1,url+' must have one h1');
- assert(!/href="[^"?]*\.html(?:["?])/.test(html),'HTML suffix found');
+ const title=html.match(/<title>(.*?)<\/title>/)[1];assert(!titles.has(title),'Duplicate title: '+title);titles.add(title);
+ for(const match of html.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/g))JSON.parse(match[1]);
+ assert(!/href="\/[^"?]*\.html(?:["?])/.test(html),'Internal HTML suffix found');
  for(const m of html.matchAll(/href="(\/[^"#?]*)(?:[?#][^"]*)?"/g)){
   if(!m[1].endsWith('/'))continue;
   assert(pages[m[1]],`${url} links to missing ${m[1]}`);
  }
  const r=await fetch(origin+url);assert.equal(r.status,url==='/404/'?404:200,url);checked++;
 }
+for(const option of options){assert(pages[`/products/${option.slug}/`],option.slug+' missing page');assert(pages['/request-a-quote/'].includes(`value="${option.slug}"`),option.slug+' missing RFQ option');}
+const reachable=new Set(['/']);const pending=['/'];while(pending.length){const url=pending.shift();for(const match of pages[url].matchAll(/href="(\/[^"#?]*)(?:[?#][^"]*)?"/g)){if(pages[match[1]]&&!reachable.has(match[1])){reachable.add(match[1]);pending.push(match[1]);}}}
+for(const url of Object.keys(pages))if(!['/admin/','/404/'].includes(url))assert(reachable.has(url),'Orphan page: '+url);
 const slash=await fetch(origin+'/products',{redirect:'manual'});assert.equal(slash.status,308);assert(slash.headers.get('location').endsWith('/products/'));
 assert.equal((await fetch(origin+'/missing-page/')).status,404);
 assert.equal((await fetch(origin+'/api/admin/inquiries')).status,401);
@@ -24,6 +31,7 @@ const bad=form({drawing:false});bad.set('drawing',new Blob(['test']),'test.exe')
 const large=form({drawing:false});large.set('drawing',new Blob([new Uint8Array(10*1024*1024+1)]),'large.pdf');assert.equal((await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:large})).status,413);
 const submit=await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:form()});const result=await submit.json();assert.equal(submit.status,201,JSON.stringify(result));assert(result.id.startsWith('ZF-'));
 const duplicate=await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:form()});assert.equal((await duplicate.json()).id,result.id,'Retry must return saved id');
+const added=form({drawing:false,requestKey:crypto.randomUUID()});added.set('product','hollow-screws');const addedResponse=await fetch(origin+'/api/inquiries',{method:'POST',headers:{Origin:origin},body:added});assert.equal(addedResponse.status,201,'New product family must be accepted by the API');
 const sign=await fetch(origin+'/signin-with-chatgpt?return_to=/admin/',{redirect:'manual'});const cookie=sign.headers.get('set-cookie')?.split(';')[0];assert(cookie,'local sign-in cookie');
 const rowsResponse=await fetch(origin+'/api/admin/inquiries',{headers:{Cookie:cookie}});const rows=await rowsResponse.json();assert.equal(rowsResponse.status,200,JSON.stringify(rows));assert.equal(rows.emailConfigured,false);assert.equal(rows.inquiries.filter(x=>x.id===result.id).length,1);
 const drawing=await fetch(origin+'/api/admin/file?id='+result.id,{headers:{Cookie:cookie}});assert.equal(drawing.status,200);assert.equal(await drawing.text(),'%PDF-1.4\nLOCAL QA TEST\n%%EOF');assert(drawing.headers.get('content-disposition').includes('attachment'));
