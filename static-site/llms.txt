@@ -1,0 +1,28 @@
+# ZUFEK — Custom Metal Screws and Non-Standard Fasteners
+
+> DONGGUAN ZUFEK TECHNOLOGY CO., LTD. is a custom metal screw and fastener manufacturer based in Dalang, Dongguan, Guangdong, China. Established in 2005. Specifications, feasibility, capacity allocation and delivery are confirmed against each drawing and order.
+
+## Company and contact
+- [About us](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/about/): company background and manufacturing scope.
+- [Company information](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/legal/): company name, registered address and engineering contact.
+- Engineering contact: engineer@zufek.com
+- Registered address: 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China.
+
+## Product and engineering references
+- [Product families](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/): custom shoulder, security, hollow, flange, knurled, set and special-geometry screws.
+- [Manufacturing capabilities](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/): forming, turning, threading, secondary machining, treatment and inspection.
+- [Materials](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/): material families, condition-dependent strength and application considerations.
+- [Industries](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/): application-specific procurement and design considerations.
+- [Quality planning](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/quality/): drawing review and agreed acceptance requirements.
+- [Technical articles](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/): design, process, material and procurement guides.
+- [RFQ checklist](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/rfq-checklist/): information needed for a drawing-based quotation.
+- [Request a quotation](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/request-a-quote/): submit project requirements and an optional drawing.
+
+## Reading guidance
+Technical guides are general references. Material grade, treatment condition, tolerance, coating, inspection method and load requirements must be checked for the actual part. No catalog family implies a universal strength, pressure or lifting rating. Automotive project references concern component supply-chain applications, not a claim of direct OEM supplier approval.
+
+## Crawl resources
+- [Sitemap](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap.xml)
+- [Robots directives](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/robots.txt)
+
+This optional content directory supplements the public HTML pages; it is not an indexing or citation guarantee.

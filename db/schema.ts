@@ -7,6 +7,7 @@ export const inquiries = sqliteTable('inquiries', {
  attribution: text('attribution').notNull().default(''), assignedTo: text('assigned_to').notNull().default(''), nextFollowUp: text('next_follow_up').notNull().default(''), revision: integer('revision').notNull().default(0),
  createdAt: text('created_at').notNull(), notifiedAt: text('notified_at'), attempts: integer('attempts').notNull().default(0),
  nextAttempt: integer('next_attempt').notNull().default(0), notificationError: text('notification_error'),
+ ackNotifiedAt: text('ack_notified_at'), ackAttempts: integer('ack_attempts').notNull().default(0), ackNextAttempt: integer('ack_next_attempt').notNull().default(0), ackError: text('ack_error'),
 });
 export const rateLimits = sqliteTable('rate_limits', {
  key: text('key').primaryKey(), count: integer('count').notNull().default(1), expires: integer('expires').notNull(),
@@ -31,4 +32,9 @@ export const articlePublications = sqliteTable('article_publications', {
 });
 export const articleVersions = sqliteTable('article_versions', {
  id: text('id').primaryKey(), slug: text('slug').notNull(), payload: text('payload').notNull(), createdAt: text('created_at').notNull(), createdBy: text('created_by').notNull(),
+});
+
+export const siteSettings = sqliteTable('site_settings', {
+ key: text('key').primaryKey(), value: text('value').notNull(), revision: integer('revision').notNull().default(1),
+ updatedAt: text('updated_at').notNull(), updatedBy: text('updated_by').notNull(),
 });

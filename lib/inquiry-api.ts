@@ -1,3 +1,4 @@
+import {loadMailConfig,mailReady,mailConfigured,deliverMail,mailSettingsAPI} from './mail-settings';
 import {adminAuthorized} from './admin-auth';
 export {adminAuthorized} from './admin-auth';
 import {backupResponse} from './backup-api';
@@ -5,28 +6,25 @@ import {editorialAPI} from './editorial-api';
 import {cleanAttribution,countAnalytics,hasAnalyticsConsent} from './analytics-api';
 import { env } from 'cloudflare:workers';
 import productOptions from './product-options.json';
-type Inquiry={attribution:string;assigned_to:string;next_follow_up:string;revision:number;id:string;request_key:string;name:string;email:string;company:string;product:string;quantity:string;message:string;file_key:string|null;file_name:string|null;status:string;created_at:string;notified_at:string|null;attempts:number;next_attempt:number;notification_error:string|null};
+type Inquiry={ack_notified_at:string|null;ack_attempts:number;ack_next_attempt:number;ack_error:string|null;attribution:string;assigned_to:string;next_follow_up:string;revision:number;id:string;request_key:string;name:string;email:string;company:string;product:string;quantity:string;message:string;file_key:string|null;file_name:string|null;status:string;created_at:string;notified_at:string|null;attempts:number;next_attempt:number;notification_error:string|null};
 const json=(body:unknown,status=200)=>Response.json(body,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff','X-Robots-Tag':'noindex, nofollow'}});
 const db=()=>{if(!env.DB)throw new Error('Database unavailable');return env.DB;};
 const fail=(error:string,status=400)=>json({error},status);
 const allowedProducts=new Set([...productOptions.map(p=>p.slug),'other']);
 function sameOrigin(r:Request){return r.headers.get('Origin')===new URL(r.url).origin;}
 export async function retryNotifications(limit=10){
- if(!env.RESEND_API_KEY||!env.MAIL_FROM||!env.INQUIRY_TO)return {processed:0,configured:false};
- const now=Date.now();const result=await db().prepare('SELECT * FROM inquiries WHERE notified_at IS NULL AND next_attempt <= ? ORDER BY created_at LIMIT ?').bind(now,limit).all<Inquiry>();
- let processed=0;
+ let config;try{config=(await loadMailConfig()).config;}catch{return {processed:0,configured:false};}if(!mailConfigured(config))return {processed:0,configured:false};
+ const now=Date.now(),result=await db().prepare('SELECT * FROM inquiries WHERE (notified_at IS NULL AND next_attempt<=?) OR (?=1 AND ack_notified_at IS NULL AND ack_next_attempt<=? AND created_at>=?) ORDER BY created_at LIMIT ?').bind(now,config.autoReply?1:0,now,config.autoReplySince||new Date().toISOString(),limit).all<Inquiry>();let processed=0;
  for(const r of result.results){
-  const locked=await db().prepare('UPDATE inquiries SET next_attempt = ? WHERE id = ? AND notified_at IS NULL AND next_attempt <= ?').bind(now+120000,r.id,now).run();
-  if(!locked.meta.changes)continue;
-  processed++;
-  try{
-   const response=await fetch('https://api.resend.com/emails',{method:'POST',headers:{Authorization:`Bearer ${env.RESEND_API_KEY}`,'Content-Type':'application/json','Idempotency-Key':`inquiry/${r.id}`},body:JSON.stringify({from:env.MAIL_FROM,to:[env.INQUIRY_TO],reply_to:r.email,subject:`[ZUFEK RFQ ${r.id}] ${r.product}`,text:`Inquiry: ${r.id}\nFrom: ${r.name}\nEmail: ${r.email}\nCompany: ${r.company}\nProduct: ${r.product}\nQuantity: ${r.quantity||'Not specified'}\n\n${r.message}\n\nDrawing: ${r.file_name||'None'}\nView records and attachments through the authorized website /admin/ page.`}),signal:AbortSignal.timeout(15000)});
-   if(!response.ok)throw new Error('Email provider returned '+response.status);
-   await db().prepare('UPDATE inquiries SET notified_at = ?, attempts = attempts + 1, notification_error = NULL WHERE id = ?').bind(new Date().toISOString(),r.id).run();
-  }catch{
-   const delay=Math.min(86400000,60000*2**Math.min(r.attempts,10));
-   await db().prepare('UPDATE inquiries SET attempts = attempts + 1, next_attempt = ?, notification_error = ? WHERE id = ?').bind(Date.now()+delay,'Delivery request failed; retry pending',r.id).run();
-  }
+  if(!r.notified_at&&r.next_attempt<=now){const locked=await db().prepare('UPDATE inquiries SET next_attempt=? WHERE id=? AND notified_at IS NULL AND next_attempt<=?').bind(now+120000,r.id,now).run();if(locked.meta.changes){processed++;try{
+   await deliverMail(config,{subject:`[ZUFEK RFQ ${r.id}] ${r.product}`,replyTo:r.email,idempotency:`inquiry/${r.id}`,text:`Inquiry: ${r.id}\nFrom: ${r.name}\nEmail: ${r.email}\nCompany: ${r.company}\nProduct: ${r.product}\nQuantity: ${r.quantity||'Not specified'}\n\n${r.message}\n\nDrawing: ${r.file_name||'None'}\nView records and attachments through the authorized website /admin/ page.`});
+   await db().prepare('UPDATE inquiries SET notified_at=?,attempts=attempts+1,notification_error=NULL WHERE id=?').bind(new Date().toISOString(),r.id).run();
+  }catch(error){const delay=Math.min(86400000,60000*2**Math.min(r.attempts,10));await db().prepare('UPDATE inquiries SET attempts=attempts+1,next_attempt=?,notification_error=? WHERE id=?').bind(Date.now()+delay,error instanceof Error?error.message.slice(0,180):'发送失败，等待重试',r.id).run();}}}
+  if(config.autoReply&&r.created_at>=(config.autoReplySince||new Date().toISOString())&&!r.ack_notified_at&&r.ack_next_attempt<=now){const locked=await db().prepare('UPDATE inquiries SET ack_next_attempt=? WHERE id=? AND ack_notified_at IS NULL AND ack_next_attempt<=?').bind(now+120000,r.id,now).run();if(locked.meta.changes){try{
+   const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(r.email.toLowerCase()+':'+new Date().toISOString().slice(0,10)));const key='ack:'+Array.from(new Uint8Array(digest)).map(x=>x.toString(16).padStart(2,'0')).join('');const quota=await db().prepare('INSERT INTO rate_limits (key,count,expires) VALUES (?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1 RETURNING count').bind(key,now+86400000).first<{count:number}>();if((quota?.count??0)>3){await db().prepare('UPDATE inquiries SET ack_next_attempt=?,ack_error=? WHERE id=?').bind(now+86400000,'访客邮箱当日自动确认次数已达上限',r.id).run();continue;}
+   await deliverMail(config,{to:[r.email],replyTo:config.to.split(',')[0].trim(),subject:`ZUFEK inquiry received — ${r.id}`,idempotency:`inquiry/${r.id}/ack`,text:`Thank you for contacting ZUFEK. Your inquiry has been saved with reference ${r.id}. Our team will review your requirements and follow up. This confirms receipt only; it is not a quotation or order acceptance. For updates, reply with this reference.\n\nDONGGUAN ZUFEK TECHNOLOGY CO., LTD.\nengineer@zufek.com`});
+   await db().prepare('UPDATE inquiries SET ack_notified_at=?,ack_attempts=ack_attempts+1,ack_error=NULL WHERE id=?').bind(new Date().toISOString(),r.id).run();
+  }catch(error){await db().prepare('UPDATE inquiries SET ack_attempts=ack_attempts+1,ack_next_attempt=?,ack_error=? WHERE id=?').bind(now+Math.min(86400000,60000*2**Math.min(r.ack_attempts,10)),error instanceof Error?error.message.slice(0,180):'自动确认发送失败',r.id).run();}}}
  }
  return {processed,configured:true};
 }
@@ -58,7 +56,7 @@ export async function submitInquiry(request:Request){
    try{await env.BUCKET.put(fileKey,await file.arrayBuffer(),{httpMetadata:{contentType:'application/octet-stream'}});}catch{return fail('Drawing upload failed. Retry, or remove the file to submit the project details first.',503);}
   }
   try{
-   await db().prepare('INSERT INTO inquiries (id,request_key,name,email,company,product,quantity,message,file_key,file_name,status,created_at,attempts,next_attempt,notification_error) VALUES (?,?,?,?,?,?,?,?,?,?,\'new\',?,0,0,?)').bind(id,key,name,email,company,product,quantity,message,fileKey,fileName,new Date().toISOString(),env.RESEND_API_KEY&&env.MAIL_FROM?'Pending notification':'Email service not configured').run();
+   await db().prepare('INSERT INTO inquiries (id,request_key,name,email,company,product,quantity,message,file_key,file_name,status,created_at,attempts,next_attempt,notification_error) VALUES (?,?,?,?,?,?,?,?,?,?,\'new\',?,0,0,?)').bind(id,key,name,email,company,product,quantity,message,fileKey,fileName,new Date().toISOString(),await mailReady()?'Pending notification':'Email service not configured').run();
   }catch(error){
    // A timeout may have committed the row. Never remove a drawing before checking.
    let saved:{id:string;file_key:string|null;email:string}|null;
@@ -76,19 +74,22 @@ export async function adminAPI(request:Request,action:string){
  if(!adminAuthorized(request))return fail('This account is not authorized. Team access must be configured by the site owner.',403);
  if(request.method!=='GET'&&!sameOrigin(request))return fail('Invalid request origin.',403);
  try{
+  if(action==='mail-settings'||action==='mail-test'||action==='mail-diagnose')return mailSettingsAPI(request,action);
   if(action==='backup'&&request.method==='GET')return backupResponse();
   if(action==='articles'||action.startsWith('article-'))return editorialAPI(request,action);
   if(action==='analytics'&&request.method==='GET'){
-   const since=new URL(request.url).searchParams.get('days')==='7'?'-7 days':'-30 days';
-   const daily=await db().prepare("SELECT day,event,SUM(count) AS count FROM analytics_daily WHERE day>=date('now',?) GROUP BY day,event ORDER BY day").bind(since).all();
-   const pages=await db().prepare("SELECT path,SUM(count) AS count FROM analytics_daily WHERE event='pageview' AND day>=date('now',?) GROUP BY path ORDER BY count DESC LIMIT 30").bind(since).all();
-   const sources=await db().prepare("SELECT source,event,SUM(count) AS count FROM analytics_daily WHERE day>=date('now',?) GROUP BY source,event ORDER BY count DESC LIMIT 40").bind(since).all();
-   const countries=await db().prepare("SELECT country,SUM(count) AS count FROM analytics_daily WHERE event='pageview' AND day>=date('now',?) GROUP BY country ORDER BY count DESC LIMIT 30").bind(since).all();
-   return json({daily:daily.results,pages:pages.results,sources:sources.results,countries:countries.results,consentedOnly:true});
+   const u=new URL(request.url),since=u.searchParams.get('days')==='7'?'-7 days':'-30 days',country=u.searchParams.get('country')??'';
+   if(country&&!/^[A-Z]{2}$/.test(country))return fail('Invalid country filter.');
+   const filter=country?' AND country=?':'',values=country?[since,country]:[since];
+   const daily=await db().prepare("SELECT day,event,SUM(count) AS count FROM analytics_daily WHERE day>=date('now',?)"+filter+" GROUP BY day,event ORDER BY day").bind(...values).all();
+   const pages=await db().prepare("SELECT path,SUM(count) AS count FROM analytics_daily WHERE event='pageview' AND day>=date('now',?)"+filter+" GROUP BY path ORDER BY count DESC LIMIT 30").bind(...values).all();
+   const sources=await db().prepare("SELECT source,event,SUM(count) AS count FROM analytics_daily WHERE day>=date('now',?)"+filter+" GROUP BY source,event ORDER BY count DESC LIMIT 40").bind(...values).all();
+   const countries=await db().prepare("SELECT country,SUM(count) AS count FROM analytics_daily WHERE event='pageview' AND day>=date('now',?) GROUP BY country ORDER BY count DESC LIMIT 100").bind(since).all();
+   return json({daily:daily.results,pages:pages.results,sources:sources.results,countries:countries.results,country,consentedOnly:true});
   }
   if(action==='overview'&&request.method==='GET'){
    const totals=await db().prepare("SELECT COUNT(*) AS total, SUM(status='new') AS new, SUM(status='quoted') AS quoted, SUM(notified_at IS NULL) AS pending_email, SUM(next_follow_up<>'' AND next_follow_up<=date('now') AND status<>'closed') AS due FROM inquiries").first();
-   return json({totals,emailConfigured:!!(env.RESEND_API_KEY&&env.MAIL_FROM&&env.INQUIRY_TO),user:request.headers.get('oai-authenticated-user-email'),backupConfigured:false,analyticsConfigured:true});
+   return json({totals,emailConfigured:await mailReady(),user:request.headers.get('oai-authenticated-user-email'),backupConfigured:false,analyticsConfigured:true});
   }
   if(action==='inquiries'&&request.method==='GET'){
    const u=new URL(request.url);const q=(u.searchParams.get('q')??'').trim().slice(0,160);const status=u.searchParams.get('status')??'all';const page=Math.max(1,Math.min(100000,Math.floor(Number(u.searchParams.get('page'))||1)));
@@ -100,7 +101,7 @@ export async function adminAPI(request:Request,action:string){
    const where=conditions.length?' WHERE '+conditions.join(' AND '):'';
    const count=await db().prepare('SELECT COUNT(*) AS total FROM inquiries'+where).bind(...values).first<{total:number}>();
    const result=await db().prepare('SELECT * FROM inquiries'+where+' ORDER BY created_at DESC,id DESC LIMIT 25 OFFSET ?').bind(...values,(page-1)*25).all<Inquiry>();
-   return json({inquiries:result.results,total:count?.total??0,page,pageSize:25,emailConfigured:!!(env.RESEND_API_KEY&&env.MAIL_FROM&&env.INQUIRY_TO)});
+   return json({inquiries:result.results,total:count?.total??0,page,pageSize:25,emailConfigured:await mailReady()});
   }
   if(action==='inquiries'&&request.method==='PATCH'){
    const body=await request.json() as {id:string;status:string;assignedTo?:string;nextFollowUp?:string;revision?:number};

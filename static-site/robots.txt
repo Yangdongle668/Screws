@@ -1,5 +1,9 @@
+# Public pages are available to search engines and AI search crawlers.
+# Crawl directives are not access controls; private data requires authentication.
 User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /api/
+Disallow: /signin-with-chatgpt
+Disallow: /404/
 Sitemap: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap.xml

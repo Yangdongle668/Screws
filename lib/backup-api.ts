@@ -5,7 +5,7 @@ const padding=(size:number)=>new Uint8Array((512-size%512)%512);
 export function backupResponse(){
  const startedAt=new Date().toISOString();
  async function* entries(){
-  const counts:Record<string,number>={};let drawings=0;const meta=encoder.encode(JSON.stringify({format:'zufek-backup-v1',startedAt,consistency:'Live export, not a transactional database snapshot. Avoid editing records during download.',tables:['inquiries','inquiry_notes','article_drafts','article_publications','article_versions','analytics_daily'],excludes:['Runtime secrets','Platform accounts','Prior emails','Hosting logs','Rate-limit keys']}));yield header('backup-info.json',meta.length);yield meta;yield padding(meta.length);
+  const counts:Record<string,number>={};let drawings=0;const meta=encoder.encode(JSON.stringify({format:'zufek-backup-v1',startedAt,consistency:'Live export, not a transactional database snapshot. Avoid editing records during download.',tables:['inquiries','inquiry_notes','article_drafts','article_publications','article_versions','analytics_daily'],excludes:['Runtime secrets','Encrypted mail settings','SMTP bridge receipts','Platform accounts','Prior emails','Hosting logs','Rate-limit keys']}));yield header('backup-info.json',meta.length);yield meta;yield padding(meta.length);
   if(!env.DB)throw Error('Database unavailable');
   for(const table of ['inquiries','inquiry_notes','article_drafts','article_publications','article_versions','analytics_daily']){const key=['article_drafts','article_publications'].includes(table)?'slug':'id';let last='';let count=0;
    while(true){const batch=await env.DB.prepare('SELECT * FROM '+table+' WHERE '+key+' > ? ORDER BY '+key+' LIMIT 50').bind(last).all<Record<string,unknown>>();if(!batch.results.length)break;

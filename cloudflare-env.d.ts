@@ -6,5 +6,6 @@ declare namespace Cloudflare {
     INQUIRY_TO?: string;
     MAIL_FROM?: string;
     RESEND_API_KEY?: string;
+    MAIL_CONFIG_KEY?: string;
   }
 }

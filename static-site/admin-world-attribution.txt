@@ -1,0 +1,4 @@
+Map data: Natural Earth, 1:110m Admin 0 Countries. Public domain.
+Source: https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson
+Terms: https://www.naturalearthdata.com/about/terms-of-use/
+SVG projection: equirectangular. Country labels and visit markers are generated locally.
