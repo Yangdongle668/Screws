@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="/crawl-xml.css"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<xhtml:header><xhtml:a class="brand" href="/">ZUFEK</xhtml:a><xhtml:h1>XML Sitemap Index</xhtml:h1><xhtml:p>8 topic sitemaps · 780 public URLs. Click a sitemap below to view its URLs.</xhtml:p></xhtml:header><xhtml:div class="table-heading"><xhtml:span>URL</xhtml:span><xhtml:span>Last modified</xhtml:span></xhtml:div>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/page-sitemap.xml</loc><xhtml:a class="entry-link" href="/page-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/page-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Company &amp; core pages · 54 URLs</xhtml:span></sitemap>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/product-sitemap.xml</loc><xhtml:a class="entry-link" href="/product-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/product-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Products · 192 URLs</xhtml:span></sitemap>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/post-sitemap.xml</loc><lastmod>2026-10-30T00:00:00.000Z</lastmod><xhtml:a class="entry-link" href="/post-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/post-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Technical articles · 288 URLs</xhtml:span></sitemap>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/process-sitemap.xml</loc><xhtml:a class="entry-link" href="/process-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/process-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Manufacturing processes · 72 URLs</xhtml:span></sitemap>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/material-sitemap.xml</loc><xhtml:a class="entry-link" href="/material-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/material-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Materials · 48 URLs</xhtml:span></sitemap>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-sitemap.xml</loc><xhtml:a class="entry-link" href="/industry-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Industries · 54 URLs</xhtml:span></sitemap>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/application-sitemap.xml</loc><xhtml:a class="entry-link" href="/application-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/application-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Application design studies · 18 URLs</xhtml:span></sitemap>
-<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guide-sitemap.xml</loc><lastmod>2026-10-30T00:00:00.000Z</lastmod><xhtml:a class="entry-link" href="/guide-sitemap.xml">https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guide-sitemap.xml</xhtml:a><xhtml:span class="entry-meta">Engineering guides · 54 URLs</xhtml:span></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/page-sitemap.xml</loc></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/product-sitemap.xml</loc></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/post-sitemap.xml</loc><lastmod>2026-10-30T00:00:00.000Z</lastmod></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/process-sitemap.xml</loc></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/material-sitemap.xml</loc></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-sitemap.xml</loc></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/application-sitemap.xml</loc></sitemap>
+<sitemap><loc>https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guide-sitemap.xml</loc><lastmod>2026-10-30T00:00:00.000Z</lastmod></sitemap>
 </sitemapindex>

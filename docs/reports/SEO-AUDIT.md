@@ -31,4 +31,4 @@ All indexable baseline pages have unique titles and descriptions within their la
 
 Descriptions above 200 characters are editorial review candidates, not technical errors: Google has no fixed character requirement and may rewrite snippets. Body word counts in the JSON are descriptive, not a quality score; Chinese text is not whitespace segmented. Content quality, engineering accuracy, language fluency and real evidence require editorial review.
 
-Sitemap index is split into eight topics; public XML is valid crawler input, XML files expose native clickable links; the legacy /sitemap route redirects to the XML index. robots.txt is not authorization. llms.txt is optional and does not guarantee AI citations or ranking.
+Sitemap index is split into eight topics; public XML is valid crawler input, XML contains only sitemap elements and supported extensions; a separate XSL renders clickable links in compatible browsers; the legacy /sitemap route redirects to the XML index. robots.txt is not authorization. llms.txt is optional and does not guarantee AI citations or ranking.

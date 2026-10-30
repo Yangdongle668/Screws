@@ -126,7 +126,7 @@ writeLanguageLlms(pages,origin);
 mkdirSync('lib',{recursive:true});writeFileSync('lib/site-config.json',JSON.stringify({origin}));writeFileSync('lib/editorial-topic-links.json',JSON.stringify(Object.fromEntries(productOptions.map(p=>[p.slug,buildTopicLinks('/products/'+p.slug+'/', '',[])]))));writeFileSync('lib/editorial-seed.json',JSON.stringify(articles));writeFileSync('lib/editorial-assets.json',JSON.stringify(Object.fromEntries([...imageSlugs].map(slug=>[slug,catalogImage(slug,{hero:true,caption:true})]))));writeFileSync('lib/generated-pages.json',JSON.stringify(pages));writeFileSync('lib/product-options.json',JSON.stringify(productOptions));
 mkdirSync('public',{recursive:true});
 console.log(`Generated ${Object.keys(pages).length} static HTML pages.`);
-for(const asset of ['site.css','crawl-xml.css','seo-settings.js','home-carousel.js','site.js','i18n.js','editorial-translations.js','admin.js','admin-locale.js','admin-map.js','admin-world.svg','admin-world-attribution.txt','mail-settings.js','editorial.js','favicon.svg','favicon.ico','favicon-32.png','favicon-48.png','favicon-180.png'])copyFileSync('public/'+asset,'static-site/'+asset);
+for(const asset of ['sitemap.xsl','site.css','crawl-xml.css','seo-settings.js','home-carousel.js','site.js','i18n.js','editorial-translations.js','admin.js','admin-locale.js','admin-map.js','admin-world.svg','admin-world-attribution.txt','mail-settings.js','editorial.js','favicon.svg','favicon.ico','favicon-32.png','favicon-48.png','favicon-180.png'])copyFileSync('public/'+asset,'static-site/'+asset);
 cpSync('public/images','static-site/images',{recursive:true});
 
 cpSync('public/brand','static-site/brand',{recursive:true});

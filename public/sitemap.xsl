@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:s="http://www.sitemaps.org/schemas/sitemap/0.9" exclude-result-prefixes="s">
+<xsl:output method="html" encoding="UTF-8"/>
+<xsl:template match="/">
+<html lang="en"><head><title>ZUFEK XML Sitemap</title><meta name="viewport" content="width=device-width,initial-scale=1"/><style>body{margin:0;font:16px Arial,sans-serif;color:#17343e;background:#fbfaf7}header{padding:32px 5%;background:#102c37;color:white}main{margin:32px auto;width:90%;max-width:1200px}table{width:100%;border-collapse:collapse;background:white}th,td{text-align:left;padding:16px;border-bottom:1px solid #dce2df;overflow-wrap:anywhere}th{background:#edf0eb}a{color:#0754a6}tr:nth-child(even){background:#f6f8fa}@media(max-width:600px){th,td{padding:12px 8px;font-size:13px}}</style></head><body><header><h1>ZUFEK XML Sitemap</h1><p>Search engine sitemap. Select a link to open its destination.</p></header><main><table><thead><tr><th>URL</th><th>Last modified</th></tr></thead><tbody><xsl:for-each select="s:sitemapindex/s:sitemap | s:urlset/s:url"><tr><td><a href="{s:loc}"><xsl:value-of select="s:loc"/></a></td><td><xsl:value-of select="s:lastmod"/></td></tr></xsl:for-each></tbody></table></main></body></html>
+</xsl:template></xsl:stylesheet>

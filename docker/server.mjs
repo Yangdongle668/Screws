@@ -25,7 +25,7 @@ await new Promise(resolve=>smtp.listen(0,'127.0.0.1',resolve));
 Object.assign(api.env,{DB:db,BUCKET:fileBucket(path.join(data,'drawings')),ADMIN_EMAILS:email,INQUIRY_TO:process.env.INQUIRY_TO||'info@zufek.net',MAIL_CONFIG_KEY:process.env.MAIL_CONFIG_KEY,LOCAL_SMTP_ENDPOINT:'https://docker-mail.zufek.invalid',LOCAL_SMTP_TOKEN:bridgeToken,LOCAL_SMTP_FETCH:(input,options)=>{const url=new URL(String(input));if(url.origin!=='https://docker-mail.zufek.invalid'||!['/send','/diagnose'].includes(url.pathname))throw Error('Invalid local mail route');return fetch('http://127.0.0.1:'+smtp.address().port+url.pathname,options);}});
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
-const types={'.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
+const types={'.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
 const redirect=(url,extra={})=>new Response(null,{status:303,headers:{Location:url,'Cache-Control':'no-store',...extra}});
 const denied=()=>Response.json({error:'Authentication required'},{status:401,headers:{'Cache-Control':'no-store','X-Robots-Tag':'noindex'}});
 async function handle(request,clientIp){
