@@ -1,0 +1,7 @@
+DB-IP Country Lite, October 2026
+Source: https://db-ip.com/db/download/ip-to-country-lite
+Download: https://download.db-ip.com/free/dbip-country-lite-2026-10.mmdb.gz
+License: Creative Commons Attribution 4.0 International, https://creativecommons.org/licenses/by/4.0/
+IP Geolocation by DB-IP: https://db-ip.com/
+The Lite dataset has reduced coverage and accuracy. Country lookup is approximate and does not identify a customer's actual address. No IP addresses are sent to DB-IP during lookup.
+Binary snapshot is redistributed without modifications. Update the snapshot monthly from the publisher and retain this attribution. Display a link to DB-IP on administrative screens showing derived countries.

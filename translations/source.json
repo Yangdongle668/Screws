@@ -3445,6 +3445,7 @@
   "Your drawing.",
   "Your inquiry has been received",
   "Your inquiry is saved and assigned a reference.",
+  "Your inquiry is securely saved for recovery. We will process it when the service is restored.",
   "Your manual language choice is stored as zufek_language in localStorage until you clear it. zufek_language_visit in sessionStorage prevents repeated automatic switching during the tab session. These preferences do not identify visitors or enable analytics.",
   "Your name *",
   "Your privacy choices",

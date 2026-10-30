@@ -15,9 +15,9 @@ const db=()=>{if(!env.DB)throw new Error('Database unavailable');return env.DB;}
 const fail=(error:string,status=400)=>json({error},status);
 const allowedProducts=new Set([...productOptions.map(p=>p.slug),'other']);
 function sameOrigin(r:Request){return r.headers.get('Origin')===new URL(r.url).origin;}
-export async function retryNotifications(limit=10){
+export async function retryNotifications(limit=10,onlyId?:string){
  let config;try{config=(await loadMailConfig()).config;}catch{return {processed:0,configured:false};}if(!mailConfigured(config))return {processed:0,configured:false};
- const now=Date.now(),result=await db().prepare('SELECT * FROM inquiries WHERE (notified_at IS NULL AND next_attempt<=?) OR (?=1 AND ack_notified_at IS NULL AND ack_next_attempt<=? AND created_at>=?) ORDER BY created_at LIMIT ?').bind(now,config.autoReply?1:0,now,config.autoReplySince||new Date().toISOString(),limit).all<Inquiry>();let processed=0;
+ const now=Date.now(),result=await db().prepare('SELECT * FROM inquiries WHERE ((notified_at IS NULL AND next_attempt<=?) OR (?=1 AND ack_notified_at IS NULL AND ack_next_attempt<=? AND created_at>=?))'+(onlyId?' AND id=?':'')+' ORDER BY created_at LIMIT ?').bind(now,config.autoReply?1:0,now,config.autoReplySince||new Date().toISOString(),...(onlyId?[onlyId]:[]),limit).all<Inquiry>();let processed=0;
  for(const r of result.results){
   if(!r.notified_at&&r.next_attempt<=now){const locked=await db().prepare('UPDATE inquiries SET next_attempt=? WHERE id=? AND notified_at IS NULL AND next_attempt<=?').bind(now+120000,r.id,now).run();if(locked.meta.changes){processed++;try{
    await deliverMail(config,{subject:`[ZUFEK RFQ ${r.id}] ${r.product}`,replyTo:r.email,idempotency:`inquiry/${r.id}`,text:`Inquiry: ${r.id}\nFrom: ${r.name}\nEmail: ${r.email}\nCompany: ${r.company}\nProduct: ${r.product}\nQuantity: ${r.quantity||'Not specified'}\n\n${r.message}\n\nDrawing: ${r.file_name||'None'}\nView records and attachments through the authorized website /admin/ page.`});
@@ -31,7 +31,7 @@ export async function retryNotifications(limit=10){
  }
  return {processed,configured:true};
 }
-export async function submitInquiry(request:Request){
+export async function submitInquiry(request:Request,context?:{id?:string}){
  if(!sameOrigin(request))return fail('Please submit the form from this website.',403);
  if(!request.headers.get('Content-Type')?.startsWith('multipart/form-data'))return fail('Use the quotation form.',415);
  if(Number(request.headers.get('Content-Length')??0)>11*1024*1024)return fail('Submission exceeds the file size limit.',413);
@@ -48,7 +48,7 @@ export async function submitInquiry(request:Request){
   const count=await db().prepare('INSERT INTO rate_limits (key,count,expires) VALUES (?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1 RETURNING count').bind(hash,Date.now()+7200000).first<{count:number}>();
   if((count?.count??0)>12)return fail('Too many submissions. Please try later or email info@zufek.net.',429);
   await db().prepare('DELETE FROM rate_limits WHERE expires < ?').bind(Date.now()).run();
-  const id='ZF-'+new Date().toISOString().slice(0,10).replaceAll('-','')+'-'+crypto.randomUUID().slice(0,8).toUpperCase();
+  const id=context?.id||'ZF-'+new Date().toISOString().slice(0,10).replaceAll('-','')+'-'+crypto.randomUUID().slice(0,8).toUpperCase();
   const file=data.get('drawing');let fileKey:string|null=null;let fileName:string|null=null;
   if(file instanceof File&&file.size){
    if(file.size>10*1024*1024)return fail('Drawing exceeds 10 MB. Submit without the file or use a smaller file.',413);

@@ -18,6 +18,7 @@
   "Check",
   "Check checklist and example.",
   "Check the required fields.",
+  "Clear filters",
   "Confirm the exact inquiry reference.",
   "Connection interrupted.",
   "Could not record visit",
@@ -57,8 +58,10 @@
   "No inquiries in this view.",
   "No success confirmation has been received. Retry with the same details, or email info@zufek.net. If a previous attempt was saved, retrying returns its reference.",
   "Not specified",
+  "Pause automatic slides",
   "Pending notification",
   "Permanently delete",
+  "Play automatic slides",
   "Please submit the form from this website.",
   "References need a label and HTTPS URL.",
   "Request failed",
@@ -96,6 +99,7 @@
   "Version not found",
   "WHERE",
   "Your inquiry has been received",
+  "Your inquiry is securely saved for recovery. We will process it when the service is restored.",
   "and its length.",
   "and its uploaded drawing? Review legal retention first. Previously sent emails, exports and provider backups are not removed. Type the exact inquiry reference to confirm.",
   "attachment; filename=\"inquiry-record.json\"",
@@ -107,8 +111,5 @@
   "status = ?",
   "{count} matching product families",
   "{shown} of {total} matching articles",
-  "· Unpublished preview",
-  "Play automatic slides",
-  "Pause automatic slides",
-  "Clear filters"
+  "· Unpublished preview"
 ]

@@ -1,3 +1,7 @@
+import {publicAddress} from './ai-network.mjs';
+import {createInsights} from './insights.mjs';
+import {createInquiryRecovery} from './inquiry-recovery.mjs';
+import {gunzipSync} from 'node:zlib';
 import {createAIService} from './ai-content.mjs';
 import http from 'node:http';
 import fs from 'node:fs';
@@ -25,10 +29,15 @@ const smtp=api.createBridge({token:bridgeToken,authorizeTarget:async()=>{const {
 await new Promise(resolve=>smtp.listen(0,'127.0.0.1',resolve));
 Object.assign(api.env,{DB:db,BUCKET:fileBucket(path.join(data,'drawings')),ADMIN_EMAILS:email,INQUIRY_TO:process.env.INQUIRY_TO||'info@zufek.net',MAIL_CONFIG_KEY:process.env.MAIL_CONFIG_KEY,LOCAL_SMTP_ENDPOINT:'https://docker-mail.zufek.invalid',LOCAL_SMTP_TOKEN:bridgeToken,LOCAL_SMTP_FETCH:(input,options)=>{const url=new URL(String(input));if(url.origin!=='https://docker-mail.zufek.invalid'||!['/send','/diagnose'].includes(url.pathname))throw Error('Invalid local mail route');return fetch('http://127.0.0.1:'+smtp.address().port+url.pathname,options);}});
 const ai=await createAIService({db,data,saveArticle:(request,body)=>api.adminAPI(new Request(new URL('/api/admin/article-save',request.url),{method:'POST',headers:request.headers,body:JSON.stringify(body)}),'article-save')});
+const geoReader=new api.CountryReader(gunzipSync(fs.readFileSync(path.join(root,'docker/geoip/country.mmdb.gz'))));
+const countryForIP=ip=>{try{if(!publicAddress(ip))return 'Unknown';const country=geoReader.get(ip)?.country?.iso_code;return /^[A-Z]{2}$/.test(country||'')?country:'Unknown';}catch{return 'Unknown';}};
+const insights=await createInsights({db,secret:process.env.SESSION_SECRET,countryForIP,mailConfig:api.loadMailConfig,retryMail:api.retryNotifications});
+const recovery=await createInquiryRecovery({directory:path.join(data,'inquiry-emergency'),secret:Buffer.from(process.env.MAIL_CONFIG_KEY,'base64'),allowedProducts:new Set([...api.inquiryProducts.map(p=>p.slug),'other']),submit:api.submitInquiry,recordSaved:insights.attach});
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
 const types={'.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
 const redirect=(url,extra={})=>new Response(null,{status:303,headers:{Location:url,'Cache-Control':'no-store',...extra}});
+const authenticatedRequest=request=>session.valid(cookie(request));
 const denied=()=>Response.json({error:'Authentication required'},{status:401,headers:{'Cache-Control':'no-store','X-Robots-Tag':'noindex'}});
 async function handle(request,clientIp){
  const url=new URL(request.url),origin=new URL(request.url),authenticated=session.valid(cookie(request));
@@ -48,8 +57,16 @@ async function handle(request,clientIp){
   return redirect('/',{'Set-Cookie':sessionCookie(origin,'',0)});
  }
  if(authenticated){request.headers.set('oai-authenticated-user-id','docker-admin');request.headers.set('oai-authenticated-user-email',email);}
- if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();if(url.pathname.split('/').at(-1).startsWith('ai-'))return ai.handle(request,url.pathname.split('/').at(-1));return api.adminAPI(request,url.pathname.split('/').filter(Boolean).at(-1));}
- if(url.pathname==='/api/inquiries'&&request.method==='POST'){const result=await api.submitInquiry(request);if(result.ok)void retryMail();return result;}
+ if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();const action=url.pathname.split('/').at(-1);
+ if(action==='inquiries'&&request.method==='GET')return insights.handle(request,'crm-inquiries');
+ if(action.startsWith('traffic-')||action.startsWith('crm-'))return insights.handle(request,action);
+ if(action==='backup'&&request.method==='GET')return api.backupResponse(['traffic_hits','crm_profiles']);
+ if(action==='export'&&request.method==='GET')return insights.handle(request,'crm-export');
+ if(action==='recovery-status'&&request.method==='GET')return Response.json(await recovery.status(),{headers:{'Cache-Control':'no-store'}});
+ if(action==='recovery-retry'&&request.method==='POST'){if(request.headers.get('origin')!==new URL(request.url).origin)return new Response('Forbidden',{status:403});await recovery.replay();return Response.json(await recovery.status(),{headers:{'Cache-Control':'no-store'}});}
+ if(action==='inquiries'&&request.method==='PATCH'){const body=await request.clone().json();const response=await api.adminAPI(request,action);if(response.ok)await insights.followResponse(body.id,body.status);return response;}
+if(url.pathname.split('/').at(-1).startsWith('ai-'))return ai.handle(request,url.pathname.split('/').at(-1));return api.adminAPI(request,url.pathname.split('/').filter(Boolean).at(-1));}
+ if(url.pathname==='/api/inquiries'&&request.method==='POST'){const result=await recovery.receive(request,clientIp);if(result.ok)void retryMail();return result;}
  if(url.pathname==='/api/analytics'&&request.method==='POST')return api.analyticsEvent(request);
  if(url.pathname.startsWith('/api/'))return new Response('Not found',{status:404});
  if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405});
@@ -70,7 +87,8 @@ async function handle(request,clientIp){
 }
 let mailRunning=false;
 async function retryMail(){if(mailRunning)return;mailRunning=true;try{await api.retryNotifications(5);}catch{console.error('Mail retry deferred; inquiry records remain saved.');}finally{mailRunning=false;}}
-const timer=setInterval(retryMail,60000);timer.unref();
+const timer=setInterval(()=>{void retryMail();void recovery.replay();void insights.cleanup().catch(()=>{});},60000);timer.unref();
+void recovery.replay();
 const aiTimer=setInterval(()=>void ai.tick().catch(()=>console.error('AI scheduler deferred; inspect the authenticated task log.')),60000);aiTimer.unref();
 void ai.tick().catch(()=>console.error('AI scheduler start deferred.'));
 const server=http.createServer(async(incoming,outgoing)=>{
@@ -79,11 +97,12 @@ const server=http.createServer(async(incoming,outgoing)=>{
   const origin=requestOrigin(incoming,configuredOrigin,process.env.TRUST_PROXY==='1');
   const target=new URL(incoming.url,origin);if(target.origin!==origin.origin)throw Error('Bad request origin');
   const headers=new Headers();for(const [name,value]of Object.entries(incoming.headers)){if(value&&!/^(oai-|cf-|x-forwarded-|x-real-ip|host|connection|transfer-encoding)/i.test(name))headers.set(name,Array.isArray(value)?value.join(','):value);}
-  const ip=process.env.TRUST_PROXY==='1'?String(incoming.headers['x-forwarded-for']||incoming.socket.remoteAddress).split(',').at(-1).trim():incoming.socket.remoteAddress||'unknown';headers.set('CF-Connecting-IP',ip);headers.set('CF-IPCountry','Unknown');
+  const ip=process.env.TRUST_PROXY==='1'?String(incoming.headers['x-forwarded-for']||incoming.socket.remoteAddress).split(',').at(-1).trim():incoming.socket.remoteAddress||'unknown';headers.set('CF-Connecting-IP',ip);headers.set('CF-IPCountry',countryForIP(ip));
   const limit=target.pathname==='/api/inquiries'?11*1024*1024:target.pathname.includes('login')?4096:target.pathname==='/api/analytics'?4096:200000;
   let length=0;const chunks=[];for await(const chunk of incoming){length+=chunk.length;if(length>limit){outgoing.writeHead(413);outgoing.end('Request too large');return;}chunks.push(chunk);}
   const request=new Request(target,{method:incoming.method,headers,...(!['GET','HEAD'].includes(incoming.method)?{body:Buffer.concat(chunks)}:{})});
   let response=await handle(request,ip);
+  if(request.method==='GET'&&response.status===200&&(response.headers.get('Content-Type')||'').includes('text/html')&&!target.pathname.startsWith('/admin')&&!target.pathname.startsWith('/auth')&&!target.pathname.startsWith('/api')&&!target.pathname.startsWith('/sign')&&!authenticatedRequest(request)){outgoing.once('finish',()=>void insights.record(request,ip).catch(()=>console.error('Traffic recording deferred.')));}
   // Rewrite only public documents, never inquiry/API data, for domain-free HTTP
   // access and for canonical links in saved article HTML on the same build.
   const contentType=response.headers.get('Content-Type')||'';

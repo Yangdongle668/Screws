@@ -37,6 +37,7 @@ jobs:
           node scripts/audit-seo.mjs
           node scripts/verify-deep-content.mjs
           node docker/verify-ai.mjs
+          node docker/verify-insights.mjs
       - name: Type check
         run: npx tsc --noEmit
       - name: Build
