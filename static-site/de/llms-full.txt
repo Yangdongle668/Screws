@@ -277,6 +277,14 @@ DAS WISSENSZENTRUM
 
 Praktische Lektüre für Ingenieure und Beschaffungsteams, die nicht standardmäßige Schraubenanforderungen vorbereiten.
 
+#### Technische Leitfäden
+
+Leitfäden zu Zeichnungen, Werkstoffauswahl und Antrieben für Anfragen zu Sonderschrauben.
+
+#### Branchenwissen
+
+Branchenentwicklungen und ihre Bedeutung für Sonderschrauben.
+
 HIER STARTEN / BESCHAFFUNGSLEITFADEN
 
 #### Ihre Anfrage-Checkliste für individuelle Schrauben.
@@ -1018,6 +1026,47 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN
 Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → Sehen Sie sich den vollständigen technischen Blog an ↗
+
+### Branchenwissen
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industry-insights/
+
+TECHNISCHE EINBLICKE
+
+### Branchenwissen
+
+Branchenentwicklungen und ihre Bedeutung für Sonderschrauben.
+
+#### Elektromobilität: die gesamte Gehäuseschnittstelle prüfen
+
+Theo Wan · 2026-10-30
+
+Der Global EV Outlook 2026 der IEA behandelt Elektrofahrzeuge und Ladeinfrastruktur. Er liefert Marktkontext, keine Schraubenspezifikation.
+
+Unsere technische Einordnung: Bei Lade- oder Speichergehäusen zuerst die Verbindung festlegen. Bauteilstapel, Dichtungskompression, Beschichtungszugabe und Wartungszugang gemeinsam prüfen. Ein Sicherheitsantrieb allein belegt weder Dichtheit noch Korrosionsbeständigkeit oder elektrische Sicherheit.
+
+IEA Global EV Outlook 2026
+
+Energie-, Lade- und Speicherausrüstung
+
+Sicherheits- und manipulationshemmende Schrauben
+
+Beschichtungen und Oberflächenbehandlungen
+
+#### Fabrikautomation: die Funktion jeder Anlagefläche festlegen
+
+Theo Wan · 2026-10-30
+
+IFR World Robotics erfasst den Einsatz von Industrierobotern. Der Bericht liefert Branchenkontext und validiert weder eine konkrete Vorrichtung noch ein ZUFEK-Produkt.
+
+Unsere technische Einordnung: Klemmung, Drehbewegung und Positionierung getrennt betrachten. Bei Schulterschrauben Gegenbohrung, Axialspiel und Endzustand der Oberfläche festlegen. Zeichnungsstände und Chargenkennzeichnung sichern; ähnliche Nennmaße bedeuten keine Austauschbarkeit.
+
+IFR World Robotics
+
+Industrielle Automatisierung
+
+Schulter- und Passschrauben
+
+Automatisierungsvorrichtung: Designstudie für Schulterschraube und Einstellung
 
 
 ## Produkte
@@ -11120,3 +11169,24 @@ Vergleichen Sie für eine Schraube zur Befestigung einer Außenabdeckung eine sp
 BSSA: Abriebfestigkeit von rostfreien Stählen ↗ erklärt, warum das Paarungspaar und die Kontaktbedingungen wichtig sind. Die Materialseiten bieten sorten- und zustandsspezifische Festigkeitsreferenzen.
 
 Materialfamilien und Quelldaten ↗ Fertigfestigkeitsklassen von Stahl ↗ SUS304 und SUS316 Bedingungen ↗ Überprüfung von Beschichtungen und Wasserstoffrisiken ↗ Artikel zur Materialauswahl ↗ Bereiten Sie die Angebotsanfrage vor ↗
+
+### Technische Leitfäden
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/
+
+TECHNISCHE EINBLICKE
+
+### Technische Leitfäden
+
+Leitfäden zu Zeichnungen, Werkstoffauswahl und Antrieben für Anfragen zu Sonderschrauben.
+
+#### Eine klarere Angebotsanfrage. Eine nützlichere Antwort.
+
+Gehen Sie vor dem Absenden die untenstehende Checkliste durch. Sollte ein Detail noch nicht bekannt sein, sagen Sie uns, was noch geklärt werden muss.
+
+#### Güteklasse, Zustand und Gelenk. Treffen Sie gemeinsam die Wahl.
+
+Ein Materialname ist der Anfang einer Spezifikation. Ob es geeignet ist, hängt von den erforderlichen Endeigenschaften, der Umgebung und der Montage ab.
+
+#### Die richtige Aussparung. Das passende Werkzeug.
+
+Geben Sie die tatsächliche Schnittstelle und den verfügbaren Assembly-Zugriff an. Ein Laufwerksname oder eine visuelle Ähnlichkeit stellen keine vollständige Tool-Fit-Definition dar.

@@ -39,6 +39,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Über uns – ZUFEK, Dongguan Custom Fasteners seit 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/about/): ZUFEK wurde 2005 in Dalang, Dongguan, gegründet und liefert kundenspezifische Metallschrauben für Lieferkettenprojekte für Geräte und Automobilkomponenten.
 - [Fordern Sie ein individuelles Schraubenangebot an](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/request-a-quote/): Senden Sie ZUFEK Ihre technische Zeichnung, Menge und Anwendungsanforderungen für ein nicht standardmäßiges Angebot für Metallschrauben.
 - [Theo Wan — ZUFEK Technischer Leitartikel](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/authors/theo-wan/): Technische Artikel veröffentlicht unter Theo Wan (万天恩), dem redaktionellen Pseudonym für ZUFEK maßgeschneiderte Verbindungsführungen.
+- [Branchenwissen](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industry-insights/): Branchenentwicklungen und ihre Bedeutung für Sonderschrauben.
 
 ## Produkte
 
@@ -169,3 +170,4 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Checkliste für individuelle Schraubenanfragen](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/rfq-checklist/): Bereiten Sie Ihre technischen Zeichnungs-, Material-, Oberflächen-, Mengen- und Prüfanforderungen mithilfe der ZUFEK-Checkliste für individuelle Schraubenanfragen vor.
 - [Spezielle Anleitung für Schraubenantrieb und Sicherheitsaussparung](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/drive-types/): Vergleichen Sie die Spezifikationsanforderungen für Sechskant-, Y-Typ-, Pentalobe-, Schraubenschlüssel-, Dreikant-, Vierkant- und Kombinationsschraubenantriebe.
 - [Benutzerdefinierter Arbeitsablauf zur Auswahl von Schraubenmaterial und -stärke](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/material-strength-selection/): Vergleichen Sie Materialqualität, Endfestigkeit, Belichtung, Passschnittstellen und Inspektionsnachweise, bevor Sie ein kundenspezifisches Schraubenmaterial auswählen.
+- [Technische Leitfäden](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/): Leitfäden zu Zeichnungen, Werkstoffauswahl und Antrieben für Anfragen zu Sonderschrauben.

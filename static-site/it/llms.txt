@@ -39,6 +39,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Chi siamo - ZUFEK, elementi di fissaggio personalizzati Dongguan dal 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/about/): Fondata nel 2005 a Dalang, Dongguan, ZUFEK fornisce viti metalliche personalizzate per progetti di catena di fornitura di apparecchiature e componenti automobilistici.
 - [Richiedi un preventivo personalizzato per viti](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/request-a-quote/): Invia a ZUFEK il tuo disegno tecnico, quantità e requisiti applicativi per un preventivo di viti metalliche non standard.
 - [Theo Wan — ZUFEK Redazione tecnica](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/authors/theo-wan/): Articoli tecnici pubblicati sotto Theo Wan (万天恩), lo pseudonimo editoriale per le guide di fissaggio personalizzate ZUFEK.
+- [Approfondimenti di settore](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industry-insights/): Evoluzioni del settore e criteri per specificare elementi di fissaggio su disegno.
 
 ## Prodotti
 
@@ -169,3 +170,4 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Elenco di controllo della richiesta di offerta per viti personalizzate](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/rfq-checklist/): Prepara il disegno tecnico, i materiali, la finitura, la quantità e i requisiti di ispezione utilizzando la lista di controllo RFQ per viti personalizzate ZUFEK.
 - [Guida speciale per l'azionamento della vite e la rientranza di sicurezza](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/drive-types/): Confronta i requisiti delle specifiche delle viti a sei lobi, a Y, pentalobe, a chiave, triangolari, quadrate e combinate.
 - [Flusso di lavoro personalizzato per la selezione del materiale e della resistenza delle viti](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/material-strength-selection/): Confronta la qualità del materiale, la resistenza finale, l'esposizione, le interfacce di accoppiamento e le prove di ispezione prima di selezionare un materiale per viti personalizzato.
+- [Guide tecniche](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/): Guide a disegni, scelta dei materiali e impronte per richiedere fissaggi su disegno.

@@ -39,6 +39,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [About us — ZUFEK, Dongguan Custom Fasteners Since 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/about/): Founded in 2005 in Dalang, Dongguan, ZUFEK supplies custom metal screws for equipment and automotive component supply-chain projects.
 - [Request a Custom Screw Quote](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/request-a-quote/): Send ZUFEK your drawing, quantity and application requirements for a non-standard metal screw quotation.
 - [Theo Wan — ZUFEK Technical Editorial](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/authors/theo-wan/): Technical articles published under Theo Wan (万天恩), the editorial pen name for ZUFEK custom fastener guides.
+- [Industry Insights](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/): Industry developments and the questions they raise for custom fasteners.
 
 ## Products
 
@@ -169,3 +170,4 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Custom Screw RFQ Checklist](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/rfq-checklist/): Prepare your drawing, material, finish, quantity and inspection requirements using the ZUFEK custom screw RFQ checklist.
 - [Special Screw Drive & Security Recess Guide](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/drive-types/): Compare pin-in six-lobe, Y-type, pentalobe, spanner, triangular, square and combination screw drive specification requirements.
 - [Custom Screw Material & Strength Selection Workflow](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/material-strength-selection/): Compare material grade, finished strength, exposure, mating interfaces and inspection evidence before selecting a custom screw material.
+- [Engineering Guides](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/): Drawing preparation, material selection and drive references for custom fastener RFQs.

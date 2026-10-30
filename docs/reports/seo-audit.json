@@ -1,22 +1,22 @@
 {
   "summary": {
-    "generatedPages": 727,
-    "indexablePages": 696,
-    "metadataComplete": 696,
+    "generatedPages": 739,
+    "indexablePages": 708,
+    "metadataComplete": 708,
     "uniqueTitlesAndDescriptionsPerLanguage": true,
     "languageAlternates": 7,
     "schemas": {
-      "Organization": 696,
+      "Organization": 708,
       "WebSite": 6,
-      "WebPage": 666,
-      "BreadcrumbList": 690,
-      "CollectionPage": 24,
+      "WebPage": 672,
+      "BreadcrumbList": 702,
+      "CollectionPage": 30,
       "Product": 162,
       "BlogPosting": 252,
       "ProfilePage": 6
     },
     "sitemapSections": 8,
-    "sitemapURLs": 696,
+    "sitemapURLs": 708,
     "descriptionOver200": 192
   },
   "pages": [
@@ -143,7 +143,7 @@
       "description": "Practical custom screw design, procurement, material and quality resources from ZUFEK.",
       "titleCharacters": 51,
       "descriptionCharacters": 86,
-      "bodyWords": 2067,
+      "bodyWords": 2092,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1714,6 +1714,34 @@
       ]
     },
     {
+      "path": "/guides/",
+      "locale": "en",
+      "title": "Engineering Guides | ZUFEK",
+      "description": "Drawing preparation, material selection and drive references for custom fastener RFQs.",
+      "titleCharacters": 26,
+      "descriptionCharacters": 86,
+      "bodyWords": 105,
+      "types": [
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/industry-insights/",
+      "locale": "en",
+      "title": "Industry Insights | ZUFEK",
+      "description": "Industry developments and the questions they raise for custom fasteners.",
+      "titleCharacters": 25,
+      "descriptionCharacters": 72,
+      "bodyWords": 205,
+      "types": [
+        "CollectionPage",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    {
       "path": "/de/",
       "locale": "de",
       "title": "Hersteller kundenspezifischer Metallschrauben in Dongguan, China | ZUFEK",
@@ -2300,7 +2328,7 @@
       "description": "Praktische kundenspezifische Schraubendesign-, Beschaffungs-, Material- und Qualitätsressourcen von ZUFEK.",
       "titleCharacters": 67,
       "descriptionCharacters": 106,
-      "bodyWords": 2109,
+      "bodyWords": 2128,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2314,7 +2342,7 @@
       "description": "Diseño práctico de tornillos personalizados, adquisición, materiales y recursos de calidad de ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 100,
-      "bodyWords": 2449,
+      "bodyWords": 2478,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2328,7 +2356,7 @@
       "description": "Risorse pratiche per la progettazione di viti personalizzate, approvvigionamento, materiali e qualità da ZUFEK.",
       "titleCharacters": 59,
       "descriptionCharacters": 111,
-      "bodyWords": 2425,
+      "bodyWords": 2455,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2342,7 +2370,7 @@
       "description": "来自ZUFEK的实用定制螺杆设计、采购、材料和质量资源。",
       "titleCharacters": 19,
       "descriptionCharacters": 28,
-      "bodyWords": 468,
+      "bodyWords": 472,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2356,7 +2384,7 @@
       "description": "Ressources pratiques de conception, d'approvisionnement, de matériaux et de qualité de vis personnalisées de ZUFEK.",
       "titleCharacters": 66,
       "descriptionCharacters": 115,
-      "bodyWords": 2504,
+      "bodyWords": 2538,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10174,6 +10202,146 @@
       "bodyWords": 1252,
       "types": [
         "WebPage",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/de/guides/",
+      "locale": "de",
+      "title": "Technische Leitfäden | ZUFEK",
+      "description": "Leitfäden zu Zeichnungen, Werkstoffauswahl und Antrieben für Anfragen zu Sonderschrauben.",
+      "titleCharacters": 28,
+      "descriptionCharacters": 89,
+      "bodyWords": 108,
+      "types": [
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/guides/",
+      "locale": "es",
+      "title": "Guías de ingeniería | ZUFEK",
+      "description": "Guías de planos, selección de materiales y accionamientos para solicitar fijaciones a medida.",
+      "titleCharacters": 27,
+      "descriptionCharacters": 93,
+      "bodyWords": 125,
+      "types": [
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/guides/",
+      "locale": "it",
+      "title": "Guide tecniche | ZUFEK",
+      "description": "Guide a disegni, scelta dei materiali e impronte per richiedere fissaggi su disegno.",
+      "titleCharacters": 22,
+      "descriptionCharacters": 84,
+      "bodyWords": 116,
+      "types": [
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/guides/",
+      "locale": "zh",
+      "title": "工程指南 | ZUFEK",
+      "description": "为非标紧固件询价准备图纸、选择材料并核对驱动槽型的实用指南。",
+      "titleCharacters": 12,
+      "descriptionCharacters": 30,
+      "bodyWords": 20,
+      "types": [
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/guides/",
+      "locale": "fr",
+      "title": "Guides techniques | ZUFEK",
+      "description": "Guides de préparation des plans, de choix des matériaux et des empreintes pour les demandes de fixations sur mesure.",
+      "titleCharacters": 25,
+      "descriptionCharacters": 116,
+      "bodyWords": 118,
+      "types": [
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/industry-insights/",
+      "locale": "de",
+      "title": "Branchenwissen | ZUFEK",
+      "description": "Branchenentwicklungen und ihre Bedeutung für Sonderschrauben.",
+      "titleCharacters": 22,
+      "descriptionCharacters": 61,
+      "bodyWords": 156,
+      "types": [
+        "CollectionPage",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/es/industry-insights/",
+      "locale": "es",
+      "title": "Perspectivas del sector | ZUFEK",
+      "description": "Cambios del sector y preguntas para especificar fijaciones a medida.",
+      "titleCharacters": 31,
+      "descriptionCharacters": 68,
+      "bodyWords": 215,
+      "types": [
+        "CollectionPage",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/it/industry-insights/",
+      "locale": "it",
+      "title": "Approfondimenti di settore | ZUFEK",
+      "description": "Evoluzioni del settore e criteri per specificare elementi di fissaggio su disegno.",
+      "titleCharacters": 34,
+      "descriptionCharacters": 82,
+      "bodyWords": 213,
+      "types": [
+        "CollectionPage",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/zh/industry-insights/",
+      "locale": "zh",
+      "title": "行业观察 | ZUFEK",
+      "description": "从行业变化出发，梳理非标紧固件设计与采购需要确认的问题。",
+      "titleCharacters": 12,
+      "descriptionCharacters": 28,
+      "bodyWords": 36,
+      "types": [
+        "CollectionPage",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    {
+      "path": "/fr/industry-insights/",
+      "locale": "fr",
+      "title": "Analyses sectorielles | ZUFEK",
+      "description": "Évolutions sectorielles et questions à poser pour les fixations sur plan.",
+      "titleCharacters": 29,
+      "descriptionCharacters": 73,
+      "bodyWords": 230,
+      "types": [
+        "CollectionPage",
         "Organization",
         "BreadcrumbList"
       ]

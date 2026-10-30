@@ -39,6 +39,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Acerca de nosotros — ZUFEK, Dongguan Custom Fasteners desde 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/about/): Fundada en 2005 en Dalang, Dongguan, ZUFEK suministra tornillos metálicos personalizados para proyectos de cadena de suministro de equipos y componentes automotrices.
 - [Solicite una cotización de tornillos personalizados](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/request-a-quote/): Envíe a ZUFEK su plano de ingeniería, cantidad y requisitos de aplicación para obtener una cotización de tornillos metálicos no estándar.
 - [Theo Wan — ZUFEK Editorial técnica](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/authors/theo-wan/): Artículos técnicos publicados bajo Theo Wan (万天恩), el seudónimo editorial de ZUFEK guías de sujetadores personalizadas.
+- [Perspectivas del sector](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/): Cambios del sector y preguntas para especificar fijaciones a medida.
 
 ## Productos
 
@@ -169,3 +170,4 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Lista de verificación de RFQ de tornillos personalizados](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/rfq-checklist/): Prepare sus requisitos de inspección, material, acabado, cantidad y planos de ingeniería utilizando la lista de verificación de RFQ de tornillos personalizados de ZUFEK.
 - [Guía especial para tornillos y huecos de seguridad](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/drive-types/): Compare los requisitos de las especificaciones de accionamiento por tornillo de seis lóbulos, tipo Y, pentalobe, llave inglesa, triangular, cuadrado y combinado.
 - [Flujo de trabajo de selección de resistencia y material de tornillo personalizado](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/material-strength-selection/): Compare la calidad del material, la resistencia del acabado, la exposición, las interfaces de acoplamiento y la evidencia de inspección antes de seleccionar un material de tornillo personalizado.
+- [Guías de ingeniería](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/): Guías de planos, selección de materiales y accionamientos para solicitar fijaciones a medida.

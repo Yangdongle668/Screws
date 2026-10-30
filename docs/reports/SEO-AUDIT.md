@@ -4,23 +4,23 @@ Source audit, not a search-engine indexing or rich-result validation.
 
 ```json
 {
-  "generatedPages": 727,
-  "indexablePages": 696,
-  "metadataComplete": 696,
+  "generatedPages": 739,
+  "indexablePages": 708,
+  "metadataComplete": 708,
   "uniqueTitlesAndDescriptionsPerLanguage": true,
   "languageAlternates": 7,
   "schemas": {
-    "Organization": 696,
+    "Organization": 708,
     "WebSite": 6,
-    "WebPage": 666,
-    "BreadcrumbList": 690,
-    "CollectionPage": 24,
+    "WebPage": 672,
+    "BreadcrumbList": 702,
+    "CollectionPage": 30,
     "Product": 162,
     "BlogPosting": 252,
     "ProfilePage": 6
   },
   "sitemapSections": 8,
-  "sitemapURLs": 696,
+  "sitemapURLs": 708,
   "descriptionOver200": 192
 }
 ```

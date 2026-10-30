@@ -39,6 +39,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [关于我们 — ZUFEK，东莞定制紧固件自 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/about/): ZUFEK 成立于东莞大朗2005，为设备和汽车零部件供应链项目提供定制金属螺丝。
 - [索取定制螺丝报价](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/request-a-quote/): 向 ZUFEK 发送您的工程图纸、数量和应用要求，以获得非标金属螺丝报价。
 - [Theo Wan — ZUFEK 技术编辑](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/authors/theo-wan/): 技术文章发表于Theo Wan（万天恩），即ZUFEK定制紧固件指南的编辑笔名。
+- [行业观察](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/): 从行业变化出发，梳理非标紧固件设计与采购需要确认的问题。
 
 ## 产品
 
@@ -169,3 +170,4 @@ HTML pages are the primary source. This directory lists current indexable public
 - [定制螺丝询价清单](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/rfq-checklist/): 使用 ZUFEK 定制螺钉询价清单准备您的工程图纸、材料、表面处理、数量和检验要求。
 - [特殊驱动槽与防拆槽型选型指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/drive-types/): 比较插销式六瓣、Y 型、五瓣、扳手、三角形、方形和组合螺丝传动规格要求。
 - [定制螺杆材料和强度选择工作流程](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/material-strength-selection/): 在选择定制螺钉材料之前，比较材料等级、成品强度、暴露、配合接口和检查证据。
+- [工程指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/): 为非标紧固件询价准备图纸、选择材料并核对驱动槽型的实用指南。

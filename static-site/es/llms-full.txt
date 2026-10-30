@@ -277,6 +277,14 @@ EL CENTRO DEL CONOCIMIENTO
 
 Lectura práctica para ingenieros y equipos de abastecimiento que preparan requisitos de tornillos no estándar.
 
+#### Guías de ingeniería
+
+Guías de planos, selección de materiales y accionamientos para solicitar fijaciones a medida.
+
+#### Perspectivas del sector
+
+Cambios del sector y preguntas para especificar fijaciones a medida.
+
 COMIENCE AQUÍ / GUÍA DE ADQUISICIONES
 
 #### Su lista de verificación de RFQ de tornillos personalizados.
@@ -1018,6 +1026,47 @@ Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 El acero inoxidable describe varias familias de materiales. Especifique el grado y la condición final en lugar de escribir una instrucción genérica de tratamiento térmico.
 
 Por Theo Wan Leer guía técnica → Ver el blog técnico completo ↗
+
+### Perspectivas del sector
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/
+
+INFORMACIONES TÉCNICAS
+
+### Perspectivas del sector
+
+Cambios del sector y preguntas para especificar fijaciones a medida.
+
+#### Movilidad eléctrica: revisar toda la unión de la carcasa
+
+Theo Wan · 2026-10-30
+
+El Global EV Outlook 2026 de la IEA analiza vehículos eléctricos e infraestructura de recarga. Aporta contexto de mercado, no especificaciones de tornillos.
+
+Nuestra interpretación técnica: antes de elegir el tornillo, defina la unión de la carcasa de carga o almacenamiento. Revise espesores, compresión de juntas, recubrimiento y acceso de mantenimiento. Un accionamiento antimanipulación no demuestra estanqueidad, resistencia a la corrosión ni seguridad eléctrica.
+
+IEA Global EV Outlook 2026
+
+Equipos de energía, carga y almacenamiento
+
+Tornillos de seguridad y antimanipulación
+
+Recubrimientos y tratamientos superficiales
+
+#### Automatización: definir la función de cada superficie de posicionamiento
+
+Theo Wan · 2026-10-30
+
+IFR World Robotics estudia el uso de robots industriales. Es contexto sectorial y no valida una instalación concreta ni un producto ZUFEK.
+
+Nuestra interpretación técnica: separe apriete, giro y posicionamiento. En un tornillo de hombro, defina el agujero de acoplamiento, la holgura axial y el acabado final. Controle revisiones del plano y lotes de repuestos; dimensiones nominales parecidas no garantizan intercambiabilidad.
+
+IFR World Robotics
+
+Automatización Industrial
+
+Tornillos de hombro y escalonados
+
+Accesorio de automatización: estudio de diseño de ajuste y tornillo de hombro
 
 
 ## Productos
@@ -11120,3 +11169,24 @@ Para un tornillo que retiene una cubierta exterior, compare una solución de ace
 BSSA: resistencia al irritamiento de los aceros inoxidables ↗ explica por qué son importantes el par de apareamiento y las condiciones de contacto. Las páginas de materiales proporcionan referencias de resistencia específicas para grados y condiciones.
 
 Familias de materiales y datos fuente ↗ Clases de resistencia del acabado de acero ↗ Condiciones SUS304 y SUS316 ↗ Recubrimientos y revisión del riesgo de hidrógeno ↗ Artículo de selección de materiales ↗ Preparar la solicitud de cotización ↗
+
+### Guías de ingeniería
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/
+
+INFORMACIONES TÉCNICAS
+
+### Guías de ingeniería
+
+Guías de planos, selección de materiales y accionamientos para solicitar fijaciones a medida.
+
+#### Una solicitud de cotización más clara. Una respuesta más útil.
+
+Revise la lista de verificación a continuación antes de enviarla. Si aún no se conoce algún detalle, cuéntanos qué queda por resolver.
+
+#### Grado, estado y articulación. Tomen la decisión juntos.
+
+El nombre de un material es el comienzo de una especificación. Las propiedades de acabado requeridas, el entorno y el montaje determinan si es adecuado.
+
+#### El receso correcto. La herramienta de combinación.
+
+Especifique la interfaz real y el acceso al ensamblaje disponible. El nombre de una unidad o el parecido visual no es una definición completa de ajuste de herramienta.

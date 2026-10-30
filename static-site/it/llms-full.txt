@@ -277,6 +277,14 @@ IL CENTRO DELLA CONOSCENZA
 
 Lettura pratica per ingegneri e team di approvvigionamento che preparano requisiti di viti non standard.
 
+#### Guide tecniche
+
+Guide a disegni, scelta dei materiali e impronte per richiedere fissaggi su disegno.
+
+#### Approfondimenti di settore
+
+Evoluzioni del settore e criteri per specificare elementi di fissaggio su disegno.
+
 INIZIA DA QUI / GUIDA ALL'ACQUISTO
 
 #### La tua lista di controllo personalizzata per la richiesta di offerta di viti.
@@ -1018,6 +1026,47 @@ Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 L'acciaio inossidabile descrive diverse famiglie di materiali. Specificare il grado e la condizione finale anziché scrivere un'istruzione generica sul trattamento termico.
 
 Di Theo Wan Leggi la guida tecnica → Visualizza il blog tecnico completo ↗
+
+### Approfondimenti di settore
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industry-insights/
+
+APPROFONDIMENTI TECNICI
+
+### Approfondimenti di settore
+
+Evoluzioni del settore e criteri per specificare elementi di fissaggio su disegno.
+
+#### Mobilità elettrica: verificare l’intera interfaccia dell’involucro
+
+Theo Wan · 2026-10-30
+
+Il Global EV Outlook 2026 della IEA analizza veicoli elettrici e infrastrutture di ricarica. Offre un contesto di mercato, non specifiche per le viti.
+
+La nostra lettura tecnica: per gli involucri di ricarica o accumulo, definire la giunzione prima della vite. Valutare insieme spessori, compressione della guarnizione, sovrametallo del rivestimento e accesso manutentivo. Un’impronta antimanomissione non dimostra tenuta, resistenza alla corrosione o sicurezza elettrica.
+
+IEA Global EV Outlook 2026
+
+Attrezzature per energia, ricarica e stoccaggio
+
+Viti di sicurezza antimanomissione
+
+Rivestimenti e trattamenti superficiali
+
+#### Automazione: definire la funzione di ogni superficie di posizionamento
+
+Theo Wan · 2026-10-30
+
+IFR World Robotics monitora l’impiego dei robot industriali. È un riferimento di settore, non una validazione di un’attrezzatura specifica o di un prodotto ZUFEK.
+
+La nostra lettura tecnica: separare serraggio, rotazione e posizionamento. Per una vite a spallamento, definire foro accoppiato, gioco assiale e finitura finale. Controllare revisioni del disegno e identificazione dei lotti: quote nominali simili non garantiscono intercambiabilità.
+
+IFR World Robotics
+
+Automazione industriale
+
+Viti a spallamento e a gradini
+
+Dispositivo di automazione: studio di progettazione di viti a spalla e regolazione
 
 
 ## Prodotti
@@ -11120,3 +11169,24 @@ Per una vite che fissa una copertura esterna, confrontare una soluzione inossida
 BSSA: resistenza al grippaggio degli acciai inossidabili ↗ spiega perché la coppia di accoppiamento e le condizioni di contatto sono importanti. Le pagine dei materiali forniscono riferimenti di resistenza specifici per grado e condizione.
 
 Famiglie di materiali e dati di origine ↗ Classi di resistenza dell'acciaio finito ↗ Condizioni SUS304 e SUS316 ↗ Rivestimenti e revisione del rischio idrogeno ↗ Articolo sulla selezione dei materiali ↗ Preparare la richiesta di offerta ↗
+
+### Guide tecniche
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/
+
+APPROFONDIMENTI TECNICI
+
+### Guide tecniche
+
+Guide a disegni, scelta dei materiali e impronte per richiedere fissaggi su disegno.
+
+#### Una richiesta di offerta più chiara. Una risposta più utile.
+
+Segui la lista di controllo qui sotto prima di inviare. Se non è ancora noto un dettaglio, comunicaci cosa deve ancora essere risolto.
+
+#### Grado, condizione e giunto. Fate la scelta insieme.
+
+Il nome di un materiale è l'inizio di una specifica. Le proprietà finite, l'ambiente e l'assemblaggio richiesti determinano se è adatto.
+
+#### La giusta pausa. Lo strumento di abbinamento.
+
+Specificare l'interfaccia effettiva e l'accesso all'assembly disponibile. Il nome di un'unità o la somiglianza visiva non costituiscono una definizione completa di idoneità allo strumento.

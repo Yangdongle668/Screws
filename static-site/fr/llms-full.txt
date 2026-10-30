@@ -277,6 +277,14 @@ LE CENTRE DE CONNAISSANCES
 
 Lecture pratique destinée aux ingénieurs et aux équipes d'approvisionnement qui préparent les exigences en matière de vis non standard.
 
+#### Guides techniques
+
+Guides de préparation des plans, de choix des matériaux et des empreintes pour les demandes de fixations sur mesure.
+
+#### Analyses sectorielles
+
+Évolutions sectorielles et questions à poser pour les fixations sur plan.
+
 COMMENCEZ ICI / GUIDE D'APPROVISIONNEMENT
 
 #### Votre liste de contrôle RFQ de vis personnalisée.
@@ -1018,6 +1026,47 @@ Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 L'acier inoxydable décrit plusieurs familles de matériaux. Spécifiez la qualité et l'état final plutôt que de rédiger une seule instruction générique de traitement thermique.
 
 Par Theo Wan Lire le guide technique → Voir le blog technique complet ↗
+
+### Analyses sectorielles
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/
+
+APERÇU TECHNIQUE
+
+### Analyses sectorielles
+
+Évolutions sectorielles et questions à poser pour les fixations sur plan.
+
+#### Mobilité électrique : examiner toute l’interface du boîtier
+
+Theo Wan · 2026-10-30
+
+Le Global EV Outlook 2026 de l’IEA étudie les véhicules électriques et les infrastructures de recharge. Il fournit un contexte de marché, pas une spécification de fixation.
+
+Notre interprétation technique : définir la liaison du boîtier de recharge ou de stockage avant la vis. Examiner ensemble empilage, compression du joint, surépaisseur du revêtement et accès de maintenance. Une empreinte antivandale ne prouve ni étanchéité, ni résistance à la corrosion, ni sécurité électrique.
+
+IEA Global EV Outlook 2026
+
+Équipements d'énergie, de recharge et de stockage
+
+Vis de sécurité et anti-effraction
+
+Revêtements et traitements de surface
+
+#### Automatisation : préciser la fonction de chaque surface de positionnement
+
+Theo Wan · 2026-10-30
+
+IFR World Robotics suit le déploiement des robots industriels. Il s’agit d’un contexte sectoriel, sans validation d’un montage précis ou d’un produit ZUFEK.
+
+Notre interprétation technique : séparer serrage, pivotement et positionnement. Pour une vis à épaulement, préciser alésage, jeu axial et état de surface final. Maîtriser les révisions du plan et les lots de rechange : des dimensions nominales proches ne garantissent pas l’interchangeabilité.
+
+IFR World Robotics
+
+Automatisation industrielle
+
+Vis à épaulement et vis étagées
+
+Luminaire d'automatisation : étude de conception de vis à épaulement et de réglage
 
 
 ## Produits
@@ -11120,3 +11169,24 @@ Pour une vis retenant un couvercle extérieur, comparez une solution en acier in
 BSSA : résistance au grippage des aciers inoxydables ↗ explique pourquoi le couple sexuel et les conditions de contact sont importants. Les pages de matériaux fournissent des références de résistance spécifiques aux qualités et aux conditions.
 
 Familles de matériaux et données sources ↗ Classes de résistance de l'acier fini ↗ Conditions SUS304 et SUS316 ↗ Examen des risques liés aux revêtements et à l’hydrogène ↗ Article sur la sélection des matériaux ↗ Préparer la demande de prix ↗
+
+### Guides techniques
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/
+
+APERÇU TECHNIQUE
+
+### Guides techniques
+
+Guides de préparation des plans, de choix des matériaux et des empreintes pour les demandes de fixations sur mesure.
+
+#### Un appel d’offres plus clair. Une réponse plus utile.
+
+Parcourez la liste de contrôle ci-dessous avant de soumettre. Si un détail n'est pas encore connu, dites-nous ce qui reste à résoudre.
+
+#### Grade, état et joint. Faites le choix ensemble.
+
+Un nom de matériau est le début d'une spécification. Les propriétés finies requises, l'environnement et l'assemblage déterminent s'il est adapté.
+
+#### La bonne niche. L'outil de correspondance.
+
+Spécifiez l’interface réelle et l’accès à l’assembly disponible. Un nom de lecteur ou une ressemblance visuelle ne constitue pas une définition complète d’ajustement d’outil.

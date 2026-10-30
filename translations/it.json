@@ -3126,5 +3126,21 @@
   "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — Viti metalliche su disegno",
   "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
   "ZUFEK PRECISION": "ZUFEK PRECISION",
-  "info@zufek.net": "info@zufek.net"
+  "info@zufek.net": "info@zufek.net",
+  "Industry Insights": "Approfondimenti di settore",
+  "Engineering Guides": "Guide tecniche",
+  "Open resource menu": "Apri menu risorse",
+  "Clear filters": "Azzera filtri",
+  "Industry developments and the questions they raise for custom fasteners.": "Evoluzioni del settore e criteri per specificare elementi di fissaggio su disegno.",
+  "Electric mobility: review the complete enclosure interface": "Mobilità elettrica: verificare l’intera interfaccia dell’involucro",
+  "The IEA Global EV Outlook 2026 examines electric vehicles and charging infrastructure. It provides market context, not a fastener specification.": "Il Global EV Outlook 2026 della IEA analizza veicoli elettrici e infrastrutture di ricarica. Offre un contesto di mercato, non specifiche per le viti.",
+  "Our engineering interpretation: for a charging or storage enclosure, define the joint before choosing a screw. Review the panel stack, gasket compression, coating allowance and service access together. A security drive alone does not establish sealing, corrosion resistance or electrical safety.": "La nostra lettura tecnica: per gli involucri di ricarica o accumulo, definire la giunzione prima della vite. Valutare insieme spessori, compressione della guarnizione, sovrametallo del rivestimento e accesso manutentivo. Un’impronta antimanomissione non dimostra tenuta, resistenza alla corrosione o sicurezza elettrica.",
+  "Factory automation: specify the function of each locating surface": "Automazione: definire la funzione di ogni superficie di posizionamento",
+  "IFR World Robotics tracks industrial robot deployment. The report is industry context; it does not validate a particular fixture or ZUFEK product.": "IFR World Robotics monitora l’impiego dei robot industriali. È un riferimento di settore, non una validazione di un’attrezzatura specifica o di un prodotto ZUFEK.",
+  "Our engineering interpretation: separate clamping, pivoting and locating functions. For a shoulder screw, specify the mating bore, axial clearance and accepted final surface condition. For replacement parts, control drawing revisions and lot identification so that nominally similar screws are not treated as interchangeable.": "La nostra lettura tecnica: separare serraggio, rotazione e posizionamento. Per una vite a spallamento, definire foro accoppiato, gioco assiale e finitura finale. Controllare revisioni del disegno e identificazione dei lotti: quote nominali simili non garantiscono intercambiabilità.",
+  "Engineering Guides | ZUFEK": "Guide tecniche | ZUFEK",
+  "Industry Insights | ZUFEK": "Approfondimenti di settore | ZUFEK",
+  "IEA Global EV Outlook 2026": "IEA Global EV Outlook 2026",
+  "IFR World Robotics": "IFR World Robotics",
+  "Drawing preparation, material selection and drive references for custom fastener RFQs.": "Guide a disegni, scelta dei materiali e impronte per richiedere fissaggi su disegno."
 }

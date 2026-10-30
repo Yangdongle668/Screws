@@ -277,6 +277,14 @@ THE KNOWLEDGE CENTER
 
 Practical reading for engineers and sourcing teams preparing non-standard screw requirements.
 
+#### Engineering Guides
+
+Drawing preparation, material selection and drive references for custom fastener RFQs.
+
+#### Industry Insights
+
+Industry developments and the questions they raise for custom fasteners.
+
 START HERE / PROCUREMENT GUIDE
 
 #### Your custom screw RFQ checklist.
@@ -1018,6 +1026,47 @@ By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 Stainless steel describes several material families. Specify the grade and final condition rather than writing one generic heat-treatment instruction.
 
 By Theo Wan Read technical guide → View the complete technical blog ↗
+
+### Industry Insights
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/
+
+TECHNICAL INSIGHTS
+
+### Industry Insights
+
+Industry developments and the questions they raise for custom fasteners.
+
+#### Electric mobility: review the complete enclosure interface
+
+Theo Wan · 2026-10-30
+
+The IEA Global EV Outlook 2026 examines electric vehicles and charging infrastructure. It provides market context, not a fastener specification.
+
+Our engineering interpretation: for a charging or storage enclosure, define the joint before choosing a screw. Review the panel stack, gasket compression, coating allowance and service access together. A security drive alone does not establish sealing, corrosion resistance or electrical safety.
+
+IEA Global EV Outlook 2026
+
+Energy, Charging & Storage Equipment
+
+Security & Tamper-Resistant Screws
+
+Coatings & Surface Treatments
+
+#### Factory automation: specify the function of each locating surface
+
+Theo Wan · 2026-10-30
+
+IFR World Robotics tracks industrial robot deployment. The report is industry context; it does not validate a particular fixture or ZUFEK product.
+
+Our engineering interpretation: separate clamping, pivoting and locating functions. For a shoulder screw, specify the mating bore, axial clearance and accepted final surface condition. For replacement parts, control drawing revisions and lot identification so that nominally similar screws are not treated as interchangeable.
+
+IFR World Robotics
+
+Industrial Automation
+
+Shoulder & Step Screws
+
+Automation Fixture: Shoulder Screw & Adjustment Design Study
 
 
 ## Products
@@ -11120,3 +11169,24 @@ For a screw retaining an outdoor cover, compare a specified stainless solution w
 BSSA: galling resistance of stainless steels ↗ explains why the mating pair and contact conditions matter. The material pages provide grade- and condition-specific strength references.
 
 Material families and source data ↗ Steel finished strength classes ↗ SUS304 and SUS316 conditions ↗ Coatings and hydrogen-risk review ↗ Material selection article ↗ Prepare the RFQ ↗
+
+### Engineering Guides
+Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/
+
+TECHNICAL INSIGHTS
+
+### Engineering Guides
+
+Drawing preparation, material selection and drive references for custom fastener RFQs.
+
+#### A clearer RFQ. A more useful reply.
+
+Work through the checklist below before submitting. If a detail is not yet known, tell us what still needs to be resolved.
+
+#### Grade, condition and joint. Make the choice together.
+
+A material name is the beginning of a specification. The required finished properties, environment and assembly determine whether it is suitable.
+
+#### The right recess. The matching tool.
+
+Specify the actual interface and available assembly access. A drive name or visual resemblance is not a complete tool-fit definition.

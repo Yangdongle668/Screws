@@ -39,6 +39,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [À propos de nous — ZUFEK, attaches personnalisées Dongguan depuis 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/about/): Fondée à 2005 à Dalang, Dongguan, ZUFEK fournit des vis métalliques sur mesure pour les projets de chaîne d'approvisionnement d'équipements et de composants automobiles.
 - [Demander un devis de vis personnalisé](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/request-a-quote/): Envoyez à ZUFEK vos dessins techniques, vos quantités et vos exigences d'application pour un devis de vis à métaux non standard.
 - [Theo Wan — ZUFEK Éditorial technique](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/authors/theo-wan/): Articles techniques publiés sous Theo Wan (万天恩), le nom de plume éditorial des guides de fixation personnalisés ZUFEK.
+- [Analyses sectorielles](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/): Évolutions sectorielles et questions à poser pour les fixations sur plan.
 
 ## Produits
 
@@ -169,3 +170,4 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Liste de contrôle de la demande de prix pour vis personnalisées](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/rfq-checklist/): Préparez vos exigences en matière de dessin technique, de matériaux, de finition, de quantité et d'inspection à l'aide de la liste de contrôle RFQ pour vis personnalisées ZUFEK.
 - [Guide d'entraînement à vis spécial et d'encastrement de sécurité](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/drive-types/): Comparez les exigences des spécifications d'entraînement à vis à six lobes, de type Y, pentalobe, à clé, triangulaire, carrée et combinée.
 - [Flux de travail personnalisé de sélection des matériaux et de la résistance des vis](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/material-strength-selection/): Comparez la qualité du matériau, la résistance finie, l'exposition, les interfaces de raccordement et les preuves d'inspection avant de sélectionner un matériau de vis personnalisé.
+- [Guides techniques](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/): Guides de préparation des plans, de choix des matériaux et des empreintes pour les demandes de fixations sur mesure.
