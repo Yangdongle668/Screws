@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "scope": "Repository snapshot of English public pages and corresponding translation presence. No production or technical approval is implied.",
   "sourceHashes": {
-    "lib/generated-pages.json": "dda06b0c40ef6129123bf62ba9df1403e8663883c0f8e5691ddaf37706ce71f0",
+    "lib/generated-pages.json": "d45f28a4a1a900dd07e29f0de51bdf265aeb8990e489e3c3dbc8a4fb98f79eed",
     "scripts/content/manifest.json": "e707f728ab1d1f498738bc3080103495a487d976792db0c21c489016610ef6ab"
   },
   "counts": {

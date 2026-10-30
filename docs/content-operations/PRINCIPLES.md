@@ -14,4 +14,4 @@ For each job, retain an immutable task ID and record type, intent, gap evidence,
 
 After an authorized source edit: regenerate the website and inventory, run applicable checks and attach a before/after diff. After verified production publication: record deployed revision and URL checks. Jobs must serialize writes, use atomic replacement, retain history and use task IDs for idempotency. Never overwrite the ledger while regenerating inventory. No autonomous publication is authorized by these documents.
 
-A scheduler must enforce budgets, concurrency, retries and notifications in application code. A prompt alone cannot enforce these guarantees. These documents and scripts do not enable an API, scheduler or publishing integration.
+A scheduler must enforce budgets, concurrency, retries and notifications in application code. A prompt alone cannot enforce these guarantees. The Docker backend enforces API settings, budget reservations, a persistent queue and scheduled draft generation. These principles do not authorize automatic publication.

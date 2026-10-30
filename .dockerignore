@@ -16,3 +16,9 @@ backups
 .deployment
 *.tsbuildinfo
 docs
+# Include only public editorial instructions and content snapshots needed by AI.
+!docs/
+docs/*
+!docs/content-operations/
+!docs/content-operations/*.md
+!docs/content-operations/*.json

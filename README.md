@@ -112,3 +112,9 @@ GitHub 保存代码和基础内容，不保存实际询盘、上传图纸、后�
 询盘先保存再通知。独立 Docker 版内置 SMTP 转接；原 Sites 托管版需要另外部署转接服务，见 [SMTP 说明](smtp-bridge/README.md)。两种方式都需填写真实邮箱配置并验证收件。`.env.example` 仅为占位配置。
 
 详见 [云端维护交接](docs/CLOUD-MAINTENANCE.md)。原框架说明保留于 [SITES-STARTER.md](docs/SITES-STARTER.md)。
+
+## AI API 与定时内容维护
+
+独立Docker更新后进入 `/admin/#ai`，在中文后台配置Chat Completions兼容API、模型、密钥、可选Brave检索及任务预算。默认关闭定时执行；可按北京时间安排每周技术博客、每月行业洞察与旧文复核。先读取现有内容台账，生成稿件后进入审核队列；不会自动发布。英文审批后可生成指定语言译稿。
+
+配置、稿件及执行记录存入持久化data目录；完整迁移使用 `bash backup.sh`。使用说明及限制见 [AI维护后台](docs/AI-CONTENT-ADMIN.md)。测试：`node docker/verify-ai.mjs`（临时数据，无外部付费调用）。

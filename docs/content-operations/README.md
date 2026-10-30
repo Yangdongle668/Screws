@@ -1,6 +1,6 @@
 # AI content operations
 
-This package records existing content and defines separate English prompts. It does not configure an AI API, run scheduled jobs or authorize automatic publication.
+This package records existing content and defines separate English prompts. The independent Docker backend now implements API settings and scheduled draft generation; see ../AI-CONTENT-ADMIN.md. It does not authorize automatic publication.
 
 ## Read before every job
 

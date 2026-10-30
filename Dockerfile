@@ -7,7 +7,7 @@ RUN cd smtp-bridge && npm ci --no-audit --no-fund
 COPY . .
 ARG PUBLIC_URL
 ENV PUBLIC_URL=${PUBLIC_URL} ZUFEK_DOCKER_BUILD=1
-RUN node docker/build.mjs --configure-only && node scripts/generate-site.mjs && node scripts/verify-content.mjs && node scripts/verify-multilingual.mjs && node scripts/verify-language-preference.mjs && node scripts/verify-images.mjs && node scripts/verify-sector-images.mjs && node scripts/verify-priorities.mjs && node scripts/audit-seo.mjs && node scripts/verify-deep-content.mjs && node docker/build.mjs
+RUN node docker/build.mjs --configure-only && node scripts/generate-site.mjs && node scripts/content-inventory.mjs && node scripts/verify-content.mjs && node scripts/verify-multilingual.mjs && node scripts/verify-language-preference.mjs && node scripts/verify-images.mjs && node scripts/verify-sector-images.mjs && node scripts/verify-priorities.mjs && node scripts/audit-seo.mjs && node scripts/verify-deep-content.mjs && node docker/build.mjs
 
 FROM node:24-alpine AS runtime
 WORKDIR /app
@@ -16,6 +16,7 @@ COPY --from=build --chown=node:node /app/dist/docker ./dist/docker
 COPY --from=build --chown=node:node /app/docker ./docker
 COPY --from=build --chown=node:node /app/public ./public
 COPY --from=build --chown=node:node /app/drizzle ./drizzle
+COPY --from=build --chown=node:node /app/docs/content-operations ./docs/content-operations
 RUN mkdir /data && chown node:node /data
 USER node
 EXPOSE 3000

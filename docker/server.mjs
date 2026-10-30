@@ -1,3 +1,4 @@
+import {createAIService} from './ai-content.mjs';
 import http from 'node:http';
 import fs from 'node:fs';
 import fsp from 'node:fs/promises';
@@ -23,6 +24,7 @@ if(!/^[a-f0-9]{64}$/.test(bridgeToken||''))throw Error('Configure LOCAL_SMTP_TOK
 const smtp=api.createBridge({token:bridgeToken,authorizeTarget:async()=>{const {config}=await api.loadMailConfig();const from=config.from||config.smtpUser;const sender=String(from).match(/<([^<>]+)>$/)?.[1]||from;return {hosts:[config.smtpHost],senders:[String(sender).split('@').at(-1).toLowerCase()]};},stateDirectory:path.join(data,'smtp-receipts')});
 await new Promise(resolve=>smtp.listen(0,'127.0.0.1',resolve));
 Object.assign(api.env,{DB:db,BUCKET:fileBucket(path.join(data,'drawings')),ADMIN_EMAILS:email,INQUIRY_TO:process.env.INQUIRY_TO||'info@zufek.net',MAIL_CONFIG_KEY:process.env.MAIL_CONFIG_KEY,LOCAL_SMTP_ENDPOINT:'https://docker-mail.zufek.invalid',LOCAL_SMTP_TOKEN:bridgeToken,LOCAL_SMTP_FETCH:(input,options)=>{const url=new URL(String(input));if(url.origin!=='https://docker-mail.zufek.invalid'||!['/send','/diagnose'].includes(url.pathname))throw Error('Invalid local mail route');return fetch('http://127.0.0.1:'+smtp.address().port+url.pathname,options);}});
+const ai=await createAIService({db,data,saveArticle:(request,body)=>api.adminAPI(new Request(new URL('/api/admin/article-save',request.url),{method:'POST',headers:request.headers,body:JSON.stringify(body)}),'article-save')});
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
 const types={'.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
@@ -46,7 +48,7 @@ async function handle(request,clientIp){
   return redirect('/',{'Set-Cookie':sessionCookie(origin,'',0)});
  }
  if(authenticated){request.headers.set('oai-authenticated-user-id','docker-admin');request.headers.set('oai-authenticated-user-email',email);}
- if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();return api.adminAPI(request,url.pathname.split('/').filter(Boolean).at(-1));}
+ if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();if(url.pathname.split('/').at(-1).startsWith('ai-'))return ai.handle(request,url.pathname.split('/').at(-1));return api.adminAPI(request,url.pathname.split('/').filter(Boolean).at(-1));}
  if(url.pathname==='/api/inquiries'&&request.method==='POST'){const result=await api.submitInquiry(request);if(result.ok)void retryMail();return result;}
  if(url.pathname==='/api/analytics'&&request.method==='POST')return api.analyticsEvent(request);
  if(url.pathname.startsWith('/api/'))return new Response('Not found',{status:404});
@@ -69,6 +71,8 @@ async function handle(request,clientIp){
 let mailRunning=false;
 async function retryMail(){if(mailRunning)return;mailRunning=true;try{await api.retryNotifications(5);}catch{console.error('Mail retry deferred; inquiry records remain saved.');}finally{mailRunning=false;}}
 const timer=setInterval(retryMail,60000);timer.unref();
+const aiTimer=setInterval(()=>void ai.tick().catch(()=>console.error('AI scheduler deferred; inspect the authenticated task log.')),60000);aiTimer.unref();
+void ai.tick().catch(()=>console.error('AI scheduler start deferred.'));
 const server=http.createServer(async(incoming,outgoing)=>{
  try{
   if(!incoming.url?.startsWith('/')||incoming.url.startsWith('//')){outgoing.writeHead(400);outgoing.end();return;}
@@ -89,4 +93,4 @@ const server=http.createServer(async(incoming,outgoing)=>{
 });
 server.requestTimeout=35000;server.headersTimeout=10000;server.keepAliveTimeout=5000;
 server.listen(Number(process.env.PORT||3000),process.env.HOST||'0.0.0.0',()=>console.log('ZUFEK production server ready.'));
-for(const signal of ['SIGINT','SIGTERM'])process.on(signal,()=>{clearInterval(timer);server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});setTimeout(()=>process.exit(1),20000).unref();});
+for(const signal of ['SIGINT','SIGTERM'])process.on(signal,()=>{clearInterval(timer);clearInterval(aiTimer);ai.close();server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});setTimeout(()=>process.exit(1),20000).unref();});
