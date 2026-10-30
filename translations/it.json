@@ -786,7 +786,7 @@
   "DIRECT ENGINEERING CONTACT": "CONTATTO DIRETTO CON L'INGEGNERIA",
   "DISCOVER THE RANGE ↓": "SCOPRI LA GAMMA ↓",
   "DISCUSS YOUR SPECIFICATION": "DISCUTETE LE VOSTRE SPECIFICHE",
-  "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1° piano, n. 353, distretto di Fuyuan, Songmushan, città di Dalang, città di Dongguan, Guangdong, Cina, è responsabile delle informazioni di richiesta che riceve. Contatto",
+  "DONGGUAN ZUFEK PRECISION CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK PRECISION CO., LTD., 1° piano, n. 353, distretto di Fuyuan, Songmushan, città di Dalang, città di Dongguan, Guangdong, Cina, è responsabile delle informazioni di richiesta che riceve. Contatto",
   "DRAWING & LOT CONTROL": "disegno tecnico e CONTROLLO LOTTI",
   "DRAWING TO ACCEPTANCE": "disegno tecnico PER ACCETTAZIONE",
   "DRAWING-DEFINED DESIGN": "disegno tecnico-DESIGN DEFINITO",
@@ -3078,7 +3078,7 @@
   "zufek_privacy_v2": "zufek_privacy_v2",
   "{count} matching product families": "{count} famiglie di prodotti corrispondenti",
   "{shown} of {total} matching articles": "{shown} di {total} articoli coordinati",
-  "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.": "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.",
+  "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.": "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.",
   "· Unpublished preview": "· Anteprima inedita",
   "Your manual language choice is stored as zufek_language in localStorage until you clear it. zufek_language_visit in sessionStorage prevents repeated automatic switching during the tab session. These preferences do not identify visitors or enable analytics.": "La lingua scelta manualmente viene salvata come zufek_language in localStorage finché non viene cancellata. zufek_language_visit in sessionStorage evita cambi automatici ripetuti durante la sessione della scheda. Queste preferenze non identificano i visitatori e non attivano le statistiche.",
   "Industry overview": "Panoramica del settore",
@@ -3121,5 +3121,9 @@
   "How is a shoulder screw different from a fully threaded bolt?": "Qual è la differenza tra una vite a spallamento e una interamente filettata?",
   "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "La vite a spallamento presenta un tratto liscio tra testa e filetto per rotazione, posizionamento o distanziamento. Le dimensioni dipendono da questa funzione; la lunghezza di impegno del filetto va definita separatamente. Una vite interamente filettata non offre la stessa superficie liscia di accoppiamento.",
   "How do I choose the shoulder length without clamping a moving part?": "Come scegliere la lunghezza dello spallamento senza bloccare una parte mobile?",
-  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Verificare l’intera catena assiale, comprese rondelle e superficie di battuta. Lo spallamento deve appoggiare come previsto e mantenere il gioco di movimento richiesto. Riportare sul disegno il montaggio e la catena delle tolleranze: la sola lunghezza nominale non determina il gioco finale."
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Verificare l’intera catena assiale, comprese rondelle e superficie di battuta. Lo spallamento deve appoggiare come previsto e mantenere il gioco di movimento richiesto. Riportare sul disegno il montaggio e la catena delle tolleranze: la sola lunghezza nominale non determina il gioco finale.",
+  "PRECISION": "PRECISION",
+  "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — Viti metalliche su disegno",
+  "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
+  "ZUFEK PRECISION": "ZUFEK PRECISION"
 }

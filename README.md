@@ -1,6 +1,6 @@
 # ZUFEK 非标金属螺丝网站
 
-DONGGUAN ZUFEK TECHNOLOGY CO., LTD. 的英文 B2B 网站及中文管理后台。正式源码仓库为 [Yangdongle668/Screws](https://github.com/Yangdongle668/Screws)。
+DONGGUAN ZUFEK PRECISION CO., LTD. 的英文 B2B 网站及中文管理后台。正式源码仓库为 [Yangdongle668/Screws](https://github.com/Yangdongle668/Screws)。
 
 包含产品、材料、工艺、行业、技术文章、应用设计示例、询盘、邮件设置和访问统计。营销页由脚本预生成 HTML；后台、询盘存储及文章发布使用服务端功能，不能仅上传静态文件来获得完整后台。
 

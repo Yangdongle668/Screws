@@ -786,7 +786,7 @@
   "DIRECT ENGINEERING CONTACT": "CONTACT DIRECT EN INGÉNIERIE",
   "DISCOVER THE RANGE ↓": "DÉCOUVREZ LA GAMME ↓",
   "DISCUSS YOUR SPECIFICATION": "DISCUTEZ DE VOS SPÉCIFICATIONS",
-  "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1er étage, n° 353, district de Fuyuan, Songmushan, ville de Dalang, ville de Dongguan, Guangdong, Chine, est responsable des informations d'enquête qu'il reçoit. Contacter",
+  "DONGGUAN ZUFEK PRECISION CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK PRECISION CO., LTD., 1er étage, n° 353, district de Fuyuan, Songmushan, ville de Dalang, ville de Dongguan, Guangdong, Chine, est responsable des informations d'enquête qu'il reçoit. Contacter",
   "DRAWING & LOT CONTROL": "dessin technique et CONTRÔLE DE LOT",
   "DRAWING TO ACCEPTANCE": "dessin technique À L'ACCEPTATION",
   "DRAWING-DEFINED DESIGN": "CONCEPTION DÉFINIE par dessin technique",
@@ -3078,7 +3078,7 @@
   "zufek_privacy_v2": "zufek_privacy_v2",
   "{count} matching product families": "{count} familles de produits correspondantes",
   "{shown} of {total} matching articles": "{shown} des {total} articles correspondants",
-  "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.": "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.",
+  "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.": "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.",
   "· Unpublished preview": "· Aperçu inédit",
   "Your manual language choice is stored as zufek_language in localStorage until you clear it. zufek_language_visit in sessionStorage prevents repeated automatic switching during the tab session. These preferences do not identify visitors or enable analytics.": "La langue choisie manuellement est enregistrée sous zufek_language dans localStorage jusqu’à sa suppression. zufek_language_visit dans sessionStorage évite les changements automatiques répétés pendant la session de cet onglet. Ces préférences n’identifient pas les visiteurs et n’activent pas les statistiques.",
   "Industry overview": "Vue d’ensemble du secteur",
@@ -3121,5 +3121,9 @@
   "How is a shoulder screw different from a fully threaded bolt?": "Quelle différence entre une vis à épaulement et une vis entièrement filetée ?",
   "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "Une vis à épaulement comporte une partie lisse entre la tête et le filetage, destinée à la rotation, au positionnement ou à l’espacement. Ses dimensions dépendent de cette fonction ; la longueur d’engagement du filetage se définit séparément. Une vis entièrement filetée ne fournit pas la même surface lisse de guidage.",
   "How do I choose the shoulder length without clamping a moving part?": "Comment choisir la longueur d’épaulement sans bloquer une pièce mobile ?",
-  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Vérifiez toute la chaîne axiale, y compris les rondelles et la face d’appui. L’épaulement doit porter comme prévu tout en conservant le jeu de mouvement demandé. Indiquez le montage et la chaîne de tolérances sur le plan : la longueur nominale seule ne détermine pas le jeu final."
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Vérifiez toute la chaîne axiale, y compris les rondelles et la face d’appui. L’épaulement doit porter comme prévu tout en conservant le jeu de mouvement demandé. Indiquez le montage et la chaîne de tolérances sur le plan : la longueur nominale seule ne détermine pas le jeu final.",
+  "PRECISION": "PRECISION",
+  "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — Vis métalliques sur plan",
+  "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
+  "ZUFEK PRECISION": "ZUFEK PRECISION"
 }

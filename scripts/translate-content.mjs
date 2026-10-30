@@ -4,7 +4,7 @@ import fs from 'node:fs';
 const source=JSON.parse(fs.readFileSync('translations/source.json','utf8'));
 const selected=process.argv.slice(2).length?process.argv.slice(2):['de','es','it','zh','fr'];
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
-const protectedPattern=/DONGGUAN ZUFEK TECHNOLOGY CO\.,?\s*LTD\.?|ZUFEK|Theo Wan|Mercedes-Benz|BMW|engineer@zufek\.com|\{[a-z]+\}|\b(?:SUS\s?\d+(?:\/\d+)?|ISO\s?\d+(?:[-:]\d+)?|VDA\s?\d+|[A-Z]\d+(?:[-×x]\d+(?:\.\d+)*)?|\d+(?:[.,]\d+)*(?:[–/-]\d+(?:\.\d+)*)?(?:PH)?|g6|h7|6g|6H|PTFE|CNC|CCD|CMM|HV|HRC|MPa|NPT|MJ|R2|D1)\b/g;
+const protectedPattern=/DONGGUAN ZUFEK PRECISION CO\.,?\s*LTD\.?|ZUFEK|Theo Wan|Mercedes-Benz|BMW|engineer@zufek\.com|\{[a-z]+\}|\b(?:SUS\s?\d+(?:\/\d+)?|ISO\s?\d+(?:[-:]\d+)?|VDA\s?\d+|[A-Z]\d+(?:[-×x]\d+(?:\.\d+)*)?|\d+(?:[.,]\d+)*(?:[–/-]\d+(?:\.\d+)*)?(?:PH)?|g6|h7|6g|6H|PTFE|CNC|CCD|CMM|HV|HRC|MPa|NPT|MJ|R2|D1)\b/g;
 function protect(text){const tokens=[];return {text:text.replace(protectedPattern,v=>{tokens.push(v);return '⟦T'+String(tokens.length-1).padStart(4,'0')+'⟧';}),tokens};}
 async function translateBatch(locale,batch){
  const protectedTexts=batch.map(protect),joined=protectedTexts.map((p,i)=>'[[['+String(i).padStart(6,'0')+']]]\n'+p.text).join('\n\n');

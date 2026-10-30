@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "ZUFEK | Custom Metal Screws",
-  description: "Drawing-led custom metal screw sourcing from DONGGUAN ZUFEK TECHNOLOGY CO., LTD.",
+  description: "Drawing-led custom metal screw sourcing from DONGGUAN ZUFEK PRECISION CO., LTD.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

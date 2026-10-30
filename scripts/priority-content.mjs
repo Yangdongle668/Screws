@@ -13,7 +13,7 @@ const panels={
 };
 export function priorityBody(url,body){
  const diagram=applicationDiagram(url);if(diagram)body=body.replace('<section class="section compact">',diagram+'<section class="section compact">');
- if(url==='/')body=body.replace('Custom metal<br><em>screws.</em><br>To your drawing.','Custom metal screws<br><em>manufacturer.</em>').replace('Made in Dongguan, China.<br>Non-standard metal screws developed around your drawing.','DONGGUAN ZUFEK TECHNOLOGY CO., LTD.<br>Manufacturing non-standard metal screws in Dalang, Dongguan since 2005. From tooling and samples to repeat production, built around your approved drawing.');
+ if(url==='/')body=body.replace('Custom metal<br><em>screws.</em><br>To your drawing.','Custom metal screws<br><em>manufacturer.</em>').replace('Made in Dongguan, China.<br>Non-standard metal screws developed around your drawing.','DONGGUAN ZUFEK PRECISION CO., LTD.<br>Manufacturing non-standard metal screws in Dalang, Dongguan since 2005. From tooling and samples to repeat production, built around your approved drawing.');
  if(url==='/products/')body=body.replace('More geometries.<br>One drawing-led approach.','Custom screw products.<br>Find the right structure.');
  if(url==='/products/custom-screws/')body=body.replace('<h1>Custom Metal Screws<br><em>to your drawing.</em></h1>','<h1>Custom screws<br><em>from your drawing.</em></h1>');
  const slug=url.split('/')[2];const p=url.startsWith('/products/')?panels[slug]:null;

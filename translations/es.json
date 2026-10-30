@@ -786,7 +786,7 @@
   "DIRECT ENGINEERING CONTACT": "CONTACTO DIRECTO DE INGENIERÍA",
   "DISCOVER THE RANGE ↓": "DESCUBRE LA GAMA ↓",
   "DISCUSS YOUR SPECIFICATION": "DISCUTE SU ESPECIFICACIÓN",
-  "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1er piso, No. 353, distrito de Fuyuan, Songmushan, ciudad de Dalang, ciudad de Dongguan, Guangdong, China, es responsable de la información de consulta que recibe. Contacto",
+  "DONGGUAN ZUFEK PRECISION CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK PRECISION CO., LTD., 1er piso, No. 353, distrito de Fuyuan, Songmushan, ciudad de Dalang, ciudad de Dongguan, Guangdong, China, es responsable de la información de consulta que recibe. Contacto",
   "DRAWING & LOT CONTROL": "dibujo de ingenieria y CONTROL DE LOTES",
   "DRAWING TO ACCEPTANCE": "dibujo de ingenieria A LA ACEPTACION",
   "DRAWING-DEFINED DESIGN": "dibujo de ingeniería-DISEÑO DEFINIDO",
@@ -3069,7 +3069,7 @@
   "zufek_privacy_v2": "zufek_privacy_v2",
   "{count} matching product families": "{count} familias de productos coincidentes",
   "{shown} of {total} matching articles": "{shown} de {total} artículos coincidentes",
-  "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.": "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.",
+  "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.": "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.",
   "· Unpublished preview": "· Vista previa inédita",
   "Specify grade/condition and later treatment or coating": "Especificar grado/condición y tratamiento o recubrimiento posterior.",
   "Specify head grip, adjustment travel and any required locking method. Hand grip alone is not a calibrated tightening torque.": "Especifique el agarre del cabezal, el recorrido de ajuste y cualquier método de bloqueo requerido. La empuñadura por sí sola no constituye un par de apriete calibrado.",
@@ -3121,5 +3121,9 @@
   "How is a shoulder screw different from a fully threaded bolt?": "¿En qué se diferencia un tornillo de hombro de uno totalmente roscado?",
   "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "El tornillo de hombro tiene un tramo liso entre la cabeza y la rosca para giro, posicionamiento o separación. Sus dimensiones se eligen según esa función; la longitud de acoplamiento roscado se define por separado. Un tornillo totalmente roscado no ofrece la misma superficie lisa de apoyo.",
   "How do I choose the shoulder length without clamping a moving part?": "¿Cómo elegir la longitud del hombro sin bloquear una pieza móvil?",
-  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Revise toda la cadena axial, incluidas arandelas y superficie de asiento. El hombro debe apoyar según el diseño y conservar la holgura de movimiento especificada. Indique el montaje y la acumulación de tolerancias en el plano; la longitud nominal por sí sola no determina la holgura final."
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Revise toda la cadena axial, incluidas arandelas y superficie de asiento. El hombro debe apoyar según el diseño y conservar la holgura de movimiento especificada. Indique el montaje y la acumulación de tolerancias en el plano; la longitud nominal por sí sola no determina la holgura final.",
+  "PRECISION": "PRECISION",
+  "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — Tornillos metálicos a medida",
+  "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
+  "ZUFEK PRECISION": "ZUFEK PRECISION"
 }

@@ -786,7 +786,7 @@
   "DIRECT ENGINEERING CONTACT": "DIREKTER ENGINEERING-KONTAKT",
   "DISCOVER THE RANGE ↓": "ENTDECKEN SIE DAS SORTIMENT ↓",
   "DISCUSS YOUR SPECIFICATION": "BESPRECHEN SIE IHRE SPEZIFIKATION",
-  "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1. Stock, Nr. 353, Bezirk Fuyuan, Songmushan, Stadt Dalang, Stadt Dongguan, Guangdong, China, ist für die erhaltenen Anfrageinformationen verantwortlich. Kontakt",
+  "DONGGUAN ZUFEK PRECISION CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "DONGGUAN ZUFEK PRECISION CO., LTD., 1. Stock, Nr. 353, Bezirk Fuyuan, Songmushan, Stadt Dalang, Stadt Dongguan, Guangdong, China, ist für die erhaltenen Anfrageinformationen verantwortlich. Kontakt",
   "DRAWING & LOT CONTROL": "technische Zeichnung und Loskontrolle",
   "DRAWING TO ACCEPTANCE": "Konstruktionszeichnung bis zur Abnahme",
   "DRAWING-DEFINED DESIGN": "Konstruktionszeichnung – DEFINIERTES DESIGN",
@@ -3078,7 +3078,7 @@
   "zufek_privacy_v2": "zufek_privacy_v2",
   "{count} matching product families": "{count} passende Produktfamilien",
   "{shown} of {total} matching articles": "{shown} von {total} passenden Artikeln",
-  "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.": "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.",
+  "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.": "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.",
   "· Unpublished preview": "· Unveröffentlichte Vorschau",
   "Your manual language choice is stored as zufek_language in localStorage until you clear it. zufek_language_visit in sessionStorage prevents repeated automatic switching during the tab session. These preferences do not identify visitors or enable analytics.": "Ihre manuelle Sprachauswahl wird als zufek_language im localStorage gespeichert, bis Sie sie löschen. zufek_language_visit im sessionStorage verhindert wiederholte automatische Sprachwechsel während der Sitzung dieses Tabs. Diese Einstellungen identifizieren keine Besucher und aktivieren keine Analyse.",
   "Industry overview": "Branchenüberblick",
@@ -3121,5 +3121,9 @@
   "How is a shoulder screw different from a fully threaded bolt?": "Was unterscheidet eine Schulterschraube von einer Vollgewindeschraube?",
   "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "Eine Schulterschraube besitzt zwischen Kopf und Gewinde einen glatten Schaft zur Lagerung, Positionierung oder Abstandshaltung. Seine Maße richten sich nach dieser Funktion; der Gewindeeingriff wird getrennt festgelegt. Eine Vollgewindeschraube bietet nicht dieselbe glatte Lagerfläche.",
   "How do I choose the shoulder length without clamping a moving part?": "Wie wähle ich die Schulterlänge, ohne bewegliche Teile einzuklemmen?",
-  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Prüfen Sie die gesamte axiale Maßkette einschließlich Scheiben und Sitzfläche. Die Schulter muss bestimmungsgemäß anliegen und das geforderte Bewegungsspiel erhalten. Montagebeziehung und Toleranzkette gehören in die Zeichnung; die Nennlänge allein bestimmt das tatsächliche Spiel nicht."
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Prüfen Sie die gesamte axiale Maßkette einschließlich Scheiben und Sitzfläche. Die Schulter muss bestimmungsgemäß anliegen und das geforderte Bewegungsspiel erhalten. Montagebeziehung und Toleranzkette gehören in die Zeichnung; die Nennlänge allein bestimmt das tatsächliche Spiel nicht.",
+  "PRECISION": "PRECISION",
+  "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — Metallschrauben nach Zeichnung",
+  "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
+  "ZUFEK PRECISION": "ZUFEK PRECISION"
 }

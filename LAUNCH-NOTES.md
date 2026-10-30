@@ -3,7 +3,7 @@
 Public pages are complete pre-generated HTML. Run `node scripts/generate-site.mjs` after changing content. `static-site/` contains the standalone HTML export; copy `public/site.css`, `public/site.js`, `public/favicon.svg`, `public/robots.txt`, and `public/sitemap.xml` to its root when hosting independently. The form requires the accompanying server API. The hosted application serves the same generated HTML using clean URLs and no React hydration on public pages.
 
 ## Configured
-- Company: DONGGUAN ZUFEK TECHNOLOGY CO., LTD.
+- Company: DONGGUAN ZUFEK PRECISION CO., LTD.
 - Contact and notification recipient: engineer@zufek.com
 - Admin allowlist: engineer@zufek.com (authenticated ChatGPT email; modify ADMIN_EMAILS if the operator uses another account).
 - D1 inquiry records and R2 drawings. Only authenticated allowlisted users can read records, download drawings or update status.

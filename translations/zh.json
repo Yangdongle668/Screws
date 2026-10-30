@@ -779,7 +779,7 @@
   "DIRECT ENGINEERING CONTACT": "直接工程联系",
   "DISCOVER THE RANGE ↓": "探索产品系列 ↓",
   "DISCUSS YOUR SPECIFICATION": "讨论您的规格",
-  "DONGGUAN ZUFEK TECHNOLOGY CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "中国广东省东莞市大朗镇松木山富源区353号1楼DONGGUAN ZUFEK TECHNOLOGY CO., LTD.对其收到的查询信息负责。联系方式",
+  "DONGGUAN ZUFEK PRECISION CO., LTD., 1st Floor, No. 353, Fuyuan District, Songmushan, Dalang Town, Dongguan City, Guangdong, China, is responsible for the inquiry information it receives. Contact": "中国广东省东莞市大朗镇松木山富源区353号1楼DONGGUAN ZUFEK PRECISION CO., LTD.对其收到的查询信息负责。联系方式",
   "DRAWING & LOT CONTROL": "工程制图和批次控制",
   "DRAWING TO ACCEPTANCE": "工程图验收",
   "DRAWING-DEFINED DESIGN": "工程制图-DEFINED DESIGN",
@@ -3059,7 +3059,7 @@
   "zufek_privacy_v2": "zufek_隐私_v2",
   "{count} matching product families": "{count} 匹配产品系列",
   "{shown} of {total} matching articles": "{total} 匹配文章中的{shown}",
-  "© 2026 DONGGUAN ZUFEK TECHNOLOGY CO., LTD.": "©2026DONGGUAN ZUFEK TECHNOLOGY CO., LTD.",
+  "© 2026 DONGGUAN ZUFEK PRECISION CO., LTD.": "©2026DONGGUAN ZUFEK PRECISION CO., LTD.",
   "· Unpublished preview": "· 未发布预览",
   "A head, a locating shoulder and a threaded section combine fastening with controlled spacing or movement.": "由头部、定位光杆和螺纹段组成，既能紧固零件，也能用于定位、限位或转动配合。",
   "A narrow center section changes the geometry of a threaded connection. Its purpose and transition details must be defined before the manufacturing route is selected.": "狭窄的中心部分改变了螺纹连接的几何形状。在选择制造工艺顺序之前必须定义其目的和过渡细节。",
@@ -3127,5 +3127,9 @@
   "How is a shoulder screw different from a fully threaded bolt?": "台阶螺丝和全牙螺栓有什么区别？",
   "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "台阶螺丝的头部与螺纹之间有一段无螺纹的光杆，可用于转动配合、定位或确定间距。应按这段光杆的实际功能选定尺寸，再单独确定螺纹啮合长度。全牙螺栓不能提供同样的光滑配合面。",
   "How do I choose the shoulder length without clamping a moving part?": "怎样确定台阶长度，避免把活动零件锁死？",
-  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "先核对完整的轴向装配尺寸链，包括垫片和配合座面。台阶应按设计要求落座，同时保留规定的运动间隙。图纸上应说明装配关系与公差叠加；仅给出台阶公称长度，无法确定最终间隙。"
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "先核对完整的轴向装配尺寸链，包括垫片和配合座面。台阶应按设计要求落座，同时保留规定的运动间隙。图纸上应说明装配关系与公差叠加；仅给出台阶公称长度，无法确定最终间隙。",
+  "PRECISION": "PRECISION",
+  "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — 非标金属螺丝",
+  "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
+  "ZUFEK PRECISION": "ZUFEK PRECISION"
 }
