@@ -1465,6 +1465,14 @@ GUÍA DE INGENIERÍA
 
 Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
 
+#### ¿En qué se diferencia un tornillo de hombro de uno totalmente roscado?
+
+El tornillo de hombro tiene un tramo liso entre la cabeza y la rosca para giro, posicionamiento o separación. Sus dimensiones se eligen según esa función; la longitud de acoplamiento roscado se define por separado. Un tornillo totalmente roscado no ofrece la misma superficie lisa de apoyo.
+
+#### ¿Cómo elegir la longitud del hombro sin bloquear una pieza móvil?
+
+Revise toda la cadena axial, incluidas arandelas y superficie de asiento. El hombro debe apoyar según el diseño y conservar la holgura de movimiento especificada. Indique el montaje y la acumulación de tolerancias en el plano; la longitud nominal por sí sola no determina la holgura final.
+
 ### Tornillos cautivos según dibujo de ingeniería
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/captive-screws/
 

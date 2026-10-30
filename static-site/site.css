@@ -63,3 +63,5 @@
 /* Clearer public navigation, preserving existing fonts and weights. */
 .site-header .main-nav{font-size:14px;gap:22px}.site-header .main-nav .btn{font-size:13px}@media(max-width:1100px){.site-header .main-nav{font-size:13px;gap:14px}}@media(max-width:760px){.site-header .main-nav{font-size:16px;gap:16px}.site-header .main-nav .btn{font-size:14px}}
 .seo-resource-links{display:flex;flex-wrap:wrap;gap:16px;padding:20px;background:#f0f2ed;margin-bottom:24px}#seo-policy-form>label{display:block;margin:24px 0}#seo-policy-form .admin-check{display:flex}#seo-policy-form textarea{font-family:Consolas,monospace;font-size:13px;line-height:1.7}.seo-preview{padding:24px;border:1px solid var(--line);background:white;white-space:pre-wrap;overflow-wrap:anywhere;font-size:13px;max-height:420px;overflow:auto}
+
+.intent-navigation{display:flex;flex-wrap:wrap;gap:12px 24px;padding:24px 5%;border-bottom:1px solid #d6dcd9;background:#f4f5f0}.intent-navigation strong{flex-basis:100%}.intent-navigation a{font-size:13px;text-decoration:underline;text-underline-offset:4px}h2[id^="topic-answer-"]{scroll-margin-top:160px}

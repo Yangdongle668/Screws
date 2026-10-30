@@ -1465,6 +1465,14 @@ GUIDA INGEGNERIA
 
 Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
 
+#### Qual è la differenza tra una vite a spallamento e una interamente filettata?
+
+La vite a spallamento presenta un tratto liscio tra testa e filetto per rotazione, posizionamento o distanziamento. Le dimensioni dipendono da questa funzione; la lunghezza di impegno del filetto va definita separatamente. Una vite interamente filettata non offre la stessa superficie liscia di accoppiamento.
+
+#### Come scegliere la lunghezza dello spallamento senza bloccare una parte mobile?
+
+Verificare l’intera catena assiale, comprese rondelle e superficie di battuta. Lo spallamento deve appoggiare come previsto e mantenere il gioco di movimento richiesto. Riportare sul disegno il montaggio e la catena delle tolleranze: la sola lunghezza nominale non determina il gioco finale.
+
 ### Viti prigioniere al disegno tecnico
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/products/captive-screws/
 

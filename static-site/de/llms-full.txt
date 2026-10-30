@@ -1465,6 +1465,14 @@ ENGINEERING-LEITFADEN
 
 Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
 
+#### Was unterscheidet eine Schulterschraube von einer Vollgewindeschraube?
+
+Eine Schulterschraube besitzt zwischen Kopf und Gewinde einen glatten Schaft zur Lagerung, Positionierung oder Abstandshaltung. Seine Maße richten sich nach dieser Funktion; der Gewindeeingriff wird getrennt festgelegt. Eine Vollgewindeschraube bietet nicht dieselbe glatte Lagerfläche.
+
+#### Wie wähle ich die Schulterlänge, ohne bewegliche Teile einzuklemmen?
+
+Prüfen Sie die gesamte axiale Maßkette einschließlich Scheiben und Sitzfläche. Die Schulter muss bestimmungsgemäß anliegen und das geforderte Bewegungsspiel erhalten. Montagebeziehung und Toleranzkette gehören in die Zeichnung; die Nennlänge allein bestimmt das tatsächliche Spiel nicht.
+
 ### Unverlierbare Schrauben zur Konstruktionszeichnung
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/products/captive-screws/
 

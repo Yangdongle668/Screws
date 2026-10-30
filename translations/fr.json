@@ -3116,5 +3116,10 @@
   "Previous screw type": "Type de vis précédent",
   "Next screw type": "Type de vis suivant",
   "Play automatic slides": "Démarrer le défilement automatique",
-  "Pause automatic slides": "Mettre en pause le défilement automatique"
+  "Pause automatic slides": "Mettre en pause le défilement automatique",
+  "Find the answer you need": "Trouvez la réponse à votre question",
+  "How is a shoulder screw different from a fully threaded bolt?": "Quelle différence entre une vis à épaulement et une vis entièrement filetée ?",
+  "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "Une vis à épaulement comporte une partie lisse entre la tête et le filetage, destinée à la rotation, au positionnement ou à l’espacement. Ses dimensions dépendent de cette fonction ; la longueur d’engagement du filetage se définit séparément. Une vis entièrement filetée ne fournit pas la même surface lisse de guidage.",
+  "How do I choose the shoulder length without clamping a moving part?": "Comment choisir la longueur d’épaulement sans bloquer une pièce mobile ?",
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Vérifiez toute la chaîne axiale, y compris les rondelles et la face d’appui. L’épaulement doit porter comme prévu tout en conservant le jeu de mouvement demandé. Indiquez le montage et la chaîne de tolérances sur le plan : la longueur nominale seule ne détermine pas le jeu final."
 }

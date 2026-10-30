@@ -1,3 +1,4 @@
+import {pageSEOAPI} from './seo/page-settings';
 import {knownLocale,translate} from './i18n/runtime';
 import {loadMailConfig,mailReady,mailConfigured,deliverMail,mailSettingsAPI} from './mail-settings';
 import {adminAuthorized} from './admin-auth';
@@ -76,6 +77,7 @@ export async function adminAPI(request:Request,action:string){
  if(!adminAuthorized(request))return fail('This account is not authorized. Team access must be configured by the site owner.',403);
  if(request.method!=='GET'&&!sameOrigin(request))return fail('Invalid request origin.',403);
  try{
+  if(action==='seo-page')return pageSEOAPI(request);
   if(action.startsWith('seo-'))return seoSettingsAPI(request,action);
   if(action==='mail-settings'||action==='mail-test'||action==='mail-diagnose')return mailSettingsAPI(request,action);
   if(action==='backup'&&request.method==='GET')return backupResponse();

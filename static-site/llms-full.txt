@@ -1465,6 +1465,14 @@ ENGINEERING GUIDE
 
 An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
 
+#### How is a shoulder screw different from a fully threaded bolt?
+
+A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.
+
+#### How do I choose the shoulder length without clamping a moving part?
+
+Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.
+
 ### Captive Screws to Drawing
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/captive-screws/
 

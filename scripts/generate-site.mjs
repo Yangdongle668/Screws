@@ -1,3 +1,6 @@
+import {addIntentAnswers} from './intent-answers.mjs';
+function copyFileSync(from,to){const temp=to+'.generating';nativeCopyFileSync(from,temp);renameSync(temp,to);}
+function writeFileSync(file,value){const temp=file+'.generating';nativeWriteFileSync(temp,value);renameSync(temp,file);}
 import {enrichPageGraph} from './seo-meta.mjs';
 import {writeSeoResources} from './seo-resources.mjs';
 import {homeScrewCarousel} from './home-carousel.mjs';
@@ -11,7 +14,7 @@ import {generateLanguages} from './multilingual.mjs';
 import {writeLanguageLlms} from './llm-languages.mjs';
 import {registerAdmin} from './admin-content.mjs';
 import {registerPrivacy,privacyUI} from './privacy-content.mjs';
-import { mkdirSync, writeFileSync, copyFileSync, cpSync, readFileSync } from 'node:fs';
+import { mkdirSync, writeFileSync as nativeWriteFileSync, renameSync, copyFileSync as nativeCopyFileSync, cpSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import {catalog,groups,productOptions,processData} from './catalog.mjs';
 import {registerExpanded} from './expanded-content.mjs';
@@ -109,6 +112,7 @@ registerPrivacy({add,heading});
 registerAdmin({add,articles,esc});
 pages['/admin/']=pages['/admin/'].replace('</body>','<script src="/editorial-translations.js" defer></script><script src="/seo-settings.js" defer></script></body>');
 writeFileSync('static-site/admin/index.html',pages['/admin/']);
+addIntentAnswers(pages);
 generateLanguages(pages,origin);
 writeSeoResources(pages,origin);
 writeLlmResources(pages,origin);

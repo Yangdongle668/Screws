@@ -3116,5 +3116,10 @@
   "Previous screw type": "Tipo di vite precedente",
   "Next screw type": "Tipo di vite successivo",
   "Play automatic slides": "Avvia la rotazione automatica",
-  "Pause automatic slides": "Metti in pausa la rotazione automatica"
+  "Pause automatic slides": "Metti in pausa la rotazione automatica",
+  "Find the answer you need": "Trova la risposta che ti serve",
+  "How is a shoulder screw different from a fully threaded bolt?": "Qual è la differenza tra una vite a spallamento e una interamente filettata?",
+  "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "La vite a spallamento presenta un tratto liscio tra testa e filetto per rotazione, posizionamento o distanziamento. Le dimensioni dipendono da questa funzione; la lunghezza di impegno del filetto va definita separatamente. Una vite interamente filettata non offre la stessa superficie liscia di accoppiamento.",
+  "How do I choose the shoulder length without clamping a moving part?": "Come scegliere la lunghezza dello spallamento senza bloccare una parte mobile?",
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Verificare l’intera catena assiale, comprese rondelle e superficie di battuta. Lo spallamento deve appoggiare come previsto e mantenere il gioco di movimento richiesto. Riportare sul disegno il montaggio e la catena delle tolleranze: la sola lunghezza nominale non determina il gioco finale."
 }

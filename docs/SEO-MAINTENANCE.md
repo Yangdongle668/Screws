@@ -11,3 +11,11 @@
 - 正式域名尚未确认。Docker未配置 PUBLIC_URL 时按访问地址生成，反向代理须采用可信代理配置；上线后固定正式地址，避免多个主机地址同时被搜索引擎收录。
 
 审计：`node scripts/audit-seo.mjs`，输出 `docs/reports/seo-audit.json` 的逐页数据与 `docs/reports/SEO-AUDIT.md` 摘要。检查通过不代表Google已抓取、收录或授予富媒体展示。
+
+## 逐页搜索优化
+
+后台“SEO与抓取 → 逐页Meta与Schema”可按语言页面编辑标题、描述和JSON-LD，并预览摘要。描述会同步Open Graph/Twitter，页面实体名称与描述跟随更新；企业、产品、文章、面包屑等原有实体类型需要保留。支持恢复默认值及并发版本校验。配置存入持久化数据库，Docker全库备份覆盖；后台内容导出不包含这些系统配置。手工Schema覆盖不会自动替用户验证工程事实，文章正文或发布日期更改后应重新检查覆盖内容。
+
+搜索意图映射在 `docs/reports/search-intent-map.json`，是按页面类别的编辑判断，不是关键词搜索量、实时PAA采集结果或排名数据。新增台阶螺丝问答有六语言版本；其余页面保留既有针对性问答。正文标题导航帮助访客直达问题答案。PAA选题应按目标国家、语言和查询记录实际观察结果，再决定内容归属，避免建立重复意图薄页面。
+
+参考资料：[肩螺丝选型资料](https://www.ondrivesus.com/documents/odus-shoulderscrew-whitepaper.pdf)。本次未取得实时Google PAA面板；不把编辑建议标为真实PAA问题，不承诺FAQ富媒体或PAA入选。

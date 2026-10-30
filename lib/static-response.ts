@@ -1,3 +1,5 @@
+import {intentNavigation} from './seo/search-intent.mjs';
+import {pageOverride} from './seo/page-settings';
 import {env} from 'cloudflare:workers';
 import {articleCard,type Article} from './editorial-api';
 import pages from './runtime-pages.json';
@@ -29,6 +31,7 @@ export async function staticResponse(request:Request,path?:string){
   }catch{return new Response('Content temporarily unavailable',{status:503,headers:{'Cache-Control':'no-store'}});}
  }
  if(html&&pathname!==normalized)return Response.redirect(u.origin+normalized+u.search,308);
+ if(html&&normalized!=='/admin/')html=intentNavigation(await pageOverride(normalized,html));
  const missing=!html||base==='/404/';
  return new Response(html??localizedArticleHtml(pages['/404/'],'/404/',locale,locales),{status:missing?404:200,headers:{'Content-Type':'text/html; charset=utf-8','Content-Language':locale==='zh'?'zh-Hans':locale,'Cache-Control':'public, max-age=60','X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self' https://chatgpt.com https://*.chatgpt.com https://*.openai.com",...(normalized==='/admin/'?{'Cache-Control':'no-store','X-Robots-Tag':'noindex, nofollow'}:{})}});
 }

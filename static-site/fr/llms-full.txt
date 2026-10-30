@@ -1465,6 +1465,14 @@ GUIDE D'INGÉNIERIE
 
 Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
 
+#### Quelle différence entre une vis à épaulement et une vis entièrement filetée ?
+
+Une vis à épaulement comporte une partie lisse entre la tête et le filetage, destinée à la rotation, au positionnement ou à l’espacement. Ses dimensions dépendent de cette fonction ; la longueur d’engagement du filetage se définit séparément. Une vis entièrement filetée ne fournit pas la même surface lisse de guidage.
+
+#### Comment choisir la longueur d’épaulement sans bloquer une pièce mobile ?
+
+Vérifiez toute la chaîne axiale, y compris les rondelles et la face d’appui. L’épaulement doit porter comme prévu tout en conservant le jeu de mouvement demandé. Indiquez le montage et la chaîne de tolérances sur le plan : la longueur nominale seule ne détermine pas le jeu final.
+
 ### Vis captives selon dessin technique
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/captive-screws/
 

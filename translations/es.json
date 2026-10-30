@@ -3116,5 +3116,10 @@
   "Previous screw type": "Tipo de tornillo anterior",
   "Next screw type": "Siguiente tipo de tornillo",
   "Play automatic slides": "Iniciar cambio automático",
-  "Pause automatic slides": "Pausar cambio automático"
+  "Pause automatic slides": "Pausar cambio automático",
+  "Find the answer you need": "Encuentre la respuesta que necesita",
+  "How is a shoulder screw different from a fully threaded bolt?": "¿En qué se diferencia un tornillo de hombro de uno totalmente roscado?",
+  "A shoulder screw has an unthreaded bearing or locating section between its head and thread. Select that shoulder for the required rotation, location or spacing function, and specify thread engagement separately. A fully threaded bolt does not provide the same smooth bearing surface.": "El tornillo de hombro tiene un tramo liso entre la cabeza y la rosca para giro, posicionamiento o separación. Sus dimensiones se eligen según esa función; la longitud de acoplamiento roscado se define por separado. Un tornillo totalmente roscado no ofrece la misma superficie lisa de apoyo.",
+  "How do I choose the shoulder length without clamping a moving part?": "¿Cómo elegir la longitud del hombro sin bloquear una pieza móvil?",
+  "Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.": "Revise toda la cadena axial, incluidas arandelas y superficie de asiento. El hombro debe apoyar según el diseño y conservar la holgura de movimiento especificada. Indique el montaje y la acumulación de tolerancias en el plano; la longitud nominal por sí sola no determina la holgura final."
 }
