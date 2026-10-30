@@ -1044,6 +1044,132 @@
     "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
   },
   {
+    "path": "/industry-insights/ev-charging-enclosure-fasteners/",
+    "title": "EV charging enclosures: why fastener specifications must follow the joint",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "ev-charging-enclosure-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/industry-insights/automation-locating-pivot-fasteners/",
+    "title": "Factory automation: specifying locating and pivot fasteners for repeatable assemblies",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "automation-locating-pivot-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/industry-insights/battery-storage-fastener-interfaces/",
+    "title": "Battery energy storage equipment: defining fastener interfaces beyond the material grade",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "battery-storage-fastener-interfaces",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/industry-insights/data-centre-cooling-service-fasteners/",
+    "title": "Data-centre equipment: fastener decisions for cooling, service access and controlled assembly",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "data-centre-cooling-service-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/industry-insights/repairability-product-information-fasteners/",
+    "title": "Repairability and product information: what custom fastener buyers should define now",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "repairability-product-information-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/industry-insights/material-supply-risk-qualified-alternatives/",
+    "title": "Material supply risk: qualifying fastener alternatives without losing the approved interface",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "material-supply-risk-qualified-alternatives",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/guides/drawing-review-release-checklist/",
+    "title": "Custom fastener drawing review: a practical release checklist",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "drawing-review-release-checklist",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/guides/manufacturing-route-selection/",
+    "title": "Choosing a manufacturing route for a custom screw",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "manufacturing-route-selection",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/guides/surface-treatment-specification/",
+    "title": "Specifying a fastener surface treatment without leaving the interface undefined",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "surface-treatment-specification",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/guides/inspection-acceptance-plan/",
+    "title": "Building a custom fastener inspection and acceptance plan",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "inspection-acceptance-plan",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/guides/prototype-production-handover/",
+    "title": "From prototype screw to repeat production: a stage-gate handover guide",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "prototype-production-handover",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/faq/",
+    "title": "Custom fastener FAQ",
+    "type": "采购答疑／下一步行动",
+    "question": "询价、打样和验收前需要明确什么？",
+    "optimization": "直接回答常见问题，说明条件与边界，并链接具体指南",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/guides/",
+    "title": "Engineering Guides",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/industry-insights/",
+    "title": "Industry Insights",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
     "path": "/de/",
     "title": "Hersteller kundenspezifischer Metallschrauben in Dongguan, China",
     "type": "企业核实／联系",
@@ -6261,6 +6387,636 @@
     "question": "类似装配如何建立合理的设计与验证流程？",
     "optimization": "说明需求、结构选择、风险和验证计划；示例不冒充真实案例",
     "topic": "automation-pivot-fixture",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/industry-insights/ev-charging-enclosure-fasteners/",
+    "title": "Ladegehäuse für Elektrofahrzeuge: Warum die Spezifikationen der Befestigungselemente der Verbindung folgen müssen",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "ev-charging-enclosure-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/industry-insights/ev-charging-enclosure-fasteners/",
+    "title": "Recintos de carga para vehículos eléctricos: por qué las especificaciones de los sujetadores deben seguir la articulación",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "ev-charging-enclosure-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/industry-insights/ev-charging-enclosure-fasteners/",
+    "title": "Involucri di ricarica per veicoli elettrici: perché le specifiche di fissaggio devono seguire il giunto",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "ev-charging-enclosure-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/industry-insights/ev-charging-enclosure-fasteners/",
+    "title": "电动汽车充电设备外壳：从连接结构出发确定紧固件要求",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "ev-charging-enclosure-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/industry-insights/ev-charging-enclosure-fasteners/",
+    "title": "Boîtiers de recharge pour véhicules électriques : pourquoi les spécifications des fixations doivent suivre le joint",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "ev-charging-enclosure-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/industry-insights/automation-locating-pivot-fasteners/",
+    "title": "Fabrikautomation: Spezifizierung von Fixier- und Drehbefestigungen für wiederholbare Baugruppen",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "automation-locating-pivot-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/industry-insights/automation-locating-pivot-fasteners/",
+    "title": "Automatización de fábricas: especificación de sujetadores de ubicación y pivote para ensamblajes repetibles",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "automation-locating-pivot-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/industry-insights/automation-locating-pivot-fasteners/",
+    "title": "Automazione di fabbrica: specificazione di elementi di fissaggio di posizionamento e articolazione per assemblaggi ripetibili",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "automation-locating-pivot-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/industry-insights/automation-locating-pivot-fasteners/",
+    "title": "工厂自动化：如何规定定位与转动用紧固件，保证装配一致性",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "automation-locating-pivot-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/industry-insights/automation-locating-pivot-fasteners/",
+    "title": "Automatisation d'usine : spécification des fixations de positionnement et de pivotement pour les assemblages répétables",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "automation-locating-pivot-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/industry-insights/battery-storage-fastener-interfaces/",
+    "title": "Batterieenergiespeichergeräte: Definition von Befestigungsschnittstellen über die Materialqualität hinaus",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "battery-storage-fastener-interfaces",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/industry-insights/battery-storage-fastener-interfaces/",
+    "title": "Equipos de almacenamiento de energía en baterías: definición de interfaces de sujetadores más allá del grado del material",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "battery-storage-fastener-interfaces",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/industry-insights/battery-storage-fastener-interfaces/",
+    "title": "Attrezzature per lo stoccaggio dell'energia della batteria: definire le interfacce di fissaggio oltre la qualità del materiale",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "battery-storage-fastener-interfaces",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/industry-insights/battery-storage-fastener-interfaces/",
+    "title": "电池储能设备：紧固连接不能只看材料牌号",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "battery-storage-fastener-interfaces",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/industry-insights/battery-storage-fastener-interfaces/",
+    "title": "Équipement de stockage d'énergie par batterie : définition des interfaces de fixation au-delà de la qualité du matériau",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "battery-storage-fastener-interfaces",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/industry-insights/data-centre-cooling-service-fasteners/",
+    "title": "Rechenzentrumsausrüstung: Entscheidungen über Verbindungselemente für Kühlung, Servicezugang und kontrollierte Montage",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "data-centre-cooling-service-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/industry-insights/data-centre-cooling-service-fasteners/",
+    "title": "Equipos para centros de datos: decisiones sobre sujetadores para refrigeración, acceso de servicio y montaje controlado",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "data-centre-cooling-service-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/industry-insights/data-centre-cooling-service-fasteners/",
+    "title": "Attrezzature per data center: decisioni sugli elementi di fissaggio per il raffreddamento, l'accesso al servizio e l'assemblaggio controllato",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "data-centre-cooling-service-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/industry-insights/data-centre-cooling-service-fasteners/",
+    "title": "数据中心设备：兼顾冷却、维修空间与装配控制的紧固件选型",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "data-centre-cooling-service-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/industry-insights/data-centre-cooling-service-fasteners/",
+    "title": "Équipement de centre de données : décisions en matière de fixations pour le refroidissement, l'accès au service et l'assemblage contrôlé",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "data-centre-cooling-service-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/industry-insights/repairability-product-information-fasteners/",
+    "title": "Reparierbarkeit und Produktinformationen: Was Käufer kundenspezifischer Verbindungselemente jetzt definieren sollten",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "repairability-product-information-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/industry-insights/repairability-product-information-fasteners/",
+    "title": "Reparabilidad e información del producto: lo que los compradores de sujetadores personalizados deberían definir ahora",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "repairability-product-information-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/industry-insights/repairability-product-information-fasteners/",
+    "title": "Riparabilità e informazioni sul prodotto: cosa dovrebbero definire ora gli acquirenti di elementi di fissaggio personalizzati",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "repairability-product-information-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/industry-insights/repairability-product-information-fasteners/",
+    "title": "可维修性与产品信息：非标紧固件采购应提前明确什么",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "repairability-product-information-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/industry-insights/repairability-product-information-fasteners/",
+    "title": "Réparabilité et informations sur le produit : ce que les acheteurs de fixations personnalisées doivent définir dès maintenant",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "repairability-product-information-fasteners",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/industry-insights/material-supply-risk-qualified-alternatives/",
+    "title": "Materialversorgungsrisiko: Qualifizierung von Befestigungsalternativen ohne Verlust der zugelassenen Schnittstelle",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "material-supply-risk-qualified-alternatives",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/industry-insights/material-supply-risk-qualified-alternatives/",
+    "title": "Riesgo de suministro de material: calificar alternativas de sujetadores sin perder la interfaz aprobada",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "material-supply-risk-qualified-alternatives",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/industry-insights/material-supply-risk-qualified-alternatives/",
+    "title": "Rischio relativo alla fornitura di materiale: qualificare le alternative di fissaggio senza perdere l'interfaccia approvata",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "material-supply-risk-qualified-alternatives",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/industry-insights/material-supply-risk-qualified-alternatives/",
+    "title": "材料供应风险：如何验证替代方案并保持已批准的配合要求",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "material-supply-risk-qualified-alternatives",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/industry-insights/material-supply-risk-qualified-alternatives/",
+    "title": "Risque d'approvisionnement en matériaux : qualifier les alternatives de fixation sans perdre l'interface approuvée",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "material-supply-risk-qualified-alternatives",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/guides/drawing-review-release-checklist/",
+    "title": "Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Freigabe-Checkliste",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "drawing-review-release-checklist",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/guides/drawing-review-release-checklist/",
+    "title": "Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "drawing-review-release-checklist",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/guides/drawing-review-release-checklist/",
+    "title": "Revisione dei disegni di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "drawing-review-release-checklist",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/guides/drawing-review-release-checklist/",
+    "title": "非标紧固件图纸评审：从询价到生产放行的检查清单",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "drawing-review-release-checklist",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/guides/drawing-review-release-checklist/",
+    "title": "Examen des dessins de fixations personnalisés : une liste de contrôle de publication pratique",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "drawing-review-release-checklist",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/guides/manufacturing-route-selection/",
+    "title": "Auswahl einer Herstellungsroute für eine kundenspezifische Schraube",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "manufacturing-route-selection",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/guides/manufacturing-route-selection/",
+    "title": "Elegir una ruta de fabricación para un tornillo personalizado",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "manufacturing-route-selection",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/guides/manufacturing-route-selection/",
+    "title": "Scegliere un percorso di produzione per una vite personalizzata",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "manufacturing-route-selection",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/guides/manufacturing-route-selection/",
+    "title": "非标螺丝加工工艺路线选择指南",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "manufacturing-route-selection",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/guides/manufacturing-route-selection/",
+    "title": "Choisir une voie de fabrication pour une vis sur mesure",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "manufacturing-route-selection",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/guides/surface-treatment-specification/",
+    "title": "Angeben einer Oberflächenbehandlung für Verbindungselemente, ohne die Schnittstelle undefiniert zu lassen",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "surface-treatment-specification",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/guides/surface-treatment-specification/",
+    "title": "Especificación de un tratamiento superficial de sujetador sin dejar la interfaz sin definir",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "surface-treatment-specification",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/guides/surface-treatment-specification/",
+    "title": "Specificare un trattamento superficiale dell'elemento di fissaggio senza lasciare l'interfaccia indefinita",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "surface-treatment-specification",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/guides/surface-treatment-specification/",
+    "title": "紧固件表面处理要求：明确功能、配合与验收依据",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "surface-treatment-specification",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/guides/surface-treatment-specification/",
+    "title": "Spécifier un traitement de surface de fixation sans laisser l'interface indéfinie",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "surface-treatment-specification",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/guides/inspection-acceptance-plan/",
+    "title": "Erstellen eines maßgeschneiderten Inspektions- und Abnahmeplans für Verbindungselemente",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "inspection-acceptance-plan",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/guides/inspection-acceptance-plan/",
+    "title": "Creación de un plan personalizado de inspección y aceptación de sujetadores",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "inspection-acceptance-plan",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/guides/inspection-acceptance-plan/",
+    "title": "Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "inspection-acceptance-plan",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/guides/inspection-acceptance-plan/",
+    "title": "非标紧固件检验与验收计划编制指南",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "inspection-acceptance-plan",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/guides/inspection-acceptance-plan/",
+    "title": "Création d'un plan d'inspection et d'acceptation des fixations personnalisé",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "inspection-acceptance-plan",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/guides/prototype-production-handover/",
+    "title": "Von der Prototypenschraube zur Wiederholungsproduktion: ein Leitfaden zur Stage-Gate-Übergabe",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "prototype-production-handover",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/guides/prototype-production-handover/",
+    "title": "Del prototipo de tornillo a la repetición de la producción: una guía de entrega de etapa-puerta",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "prototype-production-handover",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/guides/prototype-production-handover/",
+    "title": "Dalla vite prototipo alla produzione ripetuta: una guida alla consegna",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "prototype-production-handover",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/guides/prototype-production-handover/",
+    "title": "从样品到批量生产：非标紧固件分阶段审批与交接指南",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "prototype-production-handover",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/guides/prototype-production-handover/",
+    "title": "Du prototype de vis à la production répétée : un guide de passation des portes de l'étape",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "prototype-production-handover",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/faq/",
+    "title": "Häufig gestellte Fragen zu kundenspezifischen Verbindungselementen",
+    "type": "采购答疑／下一步行动",
+    "question": "询价、打样和验收前需要明确什么？",
+    "optimization": "直接回答常见问题，说明条件与边界，并链接具体指南",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/faq/",
+    "title": "Preguntas frecuentes sobre sujetadores personalizados",
+    "type": "采购答疑／下一步行动",
+    "question": "询价、打样和验收前需要明确什么？",
+    "optimization": "直接回答常见问题，说明条件与边界，并链接具体指南",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/faq/",
+    "title": "Domande frequenti sugli elementi di fissaggio personalizzati",
+    "type": "采购答疑／下一步行动",
+    "question": "询价、打样和验收前需要明确什么？",
+    "optimization": "直接回答常见问题，说明条件与边界，并链接具体指南",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/faq/",
+    "title": "非标紧固件常见问题",
+    "type": "采购答疑／下一步行动",
+    "question": "询价、打样和验收前需要明确什么？",
+    "optimization": "直接回答常见问题，说明条件与边界，并链接具体指南",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/faq/",
+    "title": "FAQ sur les fixations personnalisées",
+    "type": "采购答疑／下一步行动",
+    "question": "询价、打样和验收前需要明确什么？",
+    "optimization": "直接回答常见问题，说明条件与边界，并链接具体指南",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/guides/",
+    "title": "Technische Leitfäden",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/guides/",
+    "title": "Guías de ingeniería",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/guides/",
+    "title": "Guide tecniche",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/guides/",
+    "title": "工程指南",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/guides/",
+    "title": "Guides techniques",
+    "type": "采购准备／技术决策",
+    "question": "提交询价或确定规格前还缺什么？",
+    "optimization": "给可执行检查项目，明确需确认的图纸和验收条件",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/de/industry-insights/",
+    "title": "Branchenwissen",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/es/industry-insights/",
+    "title": "Perspectivas del sector",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/it/industry-insights/",
+    "title": "Approfondimenti di settore",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/zh/industry-insights/",
+    "title": "行业观察",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "",
+    "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
+  },
+  {
+    "path": "/fr/industry-insights/",
+    "title": "Analyses sectorielles",
+    "type": "行业变化／工程决策",
+    "question": "行业变化会影响哪些紧固件设计与采购要求？",
+    "optimization": "区分有来源的行业事实与工程解读，给出可执行的规格审查问题",
+    "topic": "",
     "basis": "Editorial intent classification; no claimed search volume or observed Google PAA placement"
   }
 ]

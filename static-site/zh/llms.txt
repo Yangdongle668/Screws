@@ -17,7 +17,6 @@ HTML pages are the primary source. This directory lists current indexable public
 
 ## Resource map
 - [Sitemap index](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap_index.xml)
-- [Readable resource directory](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap)
 - [Robots policy](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/robots.txt)
 - [Language homepage](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/)
 - [Full text](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/llms-full.txt)
@@ -39,6 +38,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [关于我们 — ZUFEK，东莞定制紧固件自 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/about/): ZUFEK 成立于东莞大朗2005，为设备和汽车零部件供应链项目提供定制金属螺丝。
 - [索取定制螺丝报价](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/request-a-quote/): 向 ZUFEK 发送您的工程图纸、数量和应用要求，以获得非标金属螺丝报价。
 - [Theo Wan — ZUFEK 技术编辑](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/authors/theo-wan/): 技术文章发表于Theo Wan（万天恩），即ZUFEK定制紧固件指南的编辑笔名。
+- [非标紧固件常见问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/faq/): 在请求图纸定义的金属螺钉之前回答常见的采购和工程问题。具体产品的决策仍遵循批准的图纸、数量和商定的验收要求。
 - [行业观察](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/): 从行业变化出发，梳理非标紧固件设计与采购需要确认的问题。
 
 ## 产品
@@ -120,6 +120,12 @@ HTML pages are the primary source. This directory lists current indexable public
 - [从原型到生产：保持螺钉规格一致](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/prototype-to-production-fasteners/): 原型可以建立有用的几何形状，而无需定义最终的生产路线。规划过渡，以便批准的功能和验收要求能够在制造方法的变化中继续存在。
 - [重复定制紧固件订单的工程图修订控制](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/drawing-revision-custom-fastener-orders/): 重复订单应重复已批准的规格，而不是旧电子邮件中的含糊之处。一个小小的修订控制习惯可以防止图纸、样品和检验记录之间出现昂贵的混乱。
 - [定制螺丝订单的包装和批次可追溯性](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-packaging-lot-traceability/): 包装是交付状态的一部分。它应该保护功能表面，保留标识并使进货检查和组装过程切实可行。
+- [电动汽车充电设备外壳：从连接结构出发确定紧固件要求](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/ev-charging-enclosure-fasteners/): 通过接头功能、垫片堆叠、安全通道、涂层和商定的检查计划来审查电动汽车充电外壳螺钉。
+- [工厂自动化：如何规定定位与转动用紧固件，保证装配一致性](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/automation-locating-pivot-fasteners/): 自动化团队如何通过受控接口和重复订单证据来指定用于定位、旋转和调整的肩螺钉。
+- [电池储能设备：紧固连接不能只看材料牌号](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/battery-storage-fastener-interfaces/): 通过机械或电气功能、材料状态、涂层、清洁度和可追溯验收来指定电池存储紧固件。
+- [数据中心设备：兼顾冷却、维修空间与装配控制的紧固件选型](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/data-centre-cooling-service-fasteners/): 检查数据中心设备紧固件的服务访问、固定保持、受控通道、清洁度和最终状况检查。
+- [可维修性与产品信息：非标紧固件采购应提前明确什么](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/repairability-product-information-fasteners/): 连接维修通道、更换零件控制和有证据支持的产品信息，无需承担螺丝的通用通行证义务。
+- [材料供应风险：如何验证替代方案并保持已批准的配合要求](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/material-supply-risk-qualified-alternatives/): 通过最终性能、可制造性、处理、配合、记录和受控释放来验证替代紧固件材料的质量。
 
 ## 加工工艺
 
@@ -170,4 +176,9 @@ HTML pages are the primary source. This directory lists current indexable public
 - [定制螺丝询价清单](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/rfq-checklist/): 使用 ZUFEK 定制螺钉询价清单准备您的工程图纸、材料、表面处理、数量和检验要求。
 - [特殊驱动槽与防拆槽型选型指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/drive-types/): 比较插销式六瓣、Y 型、五瓣、扳手、三角形、方形和组合螺丝传动规格要求。
 - [定制螺杆材料和强度选择工作流程](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/material-strength-selection/): 在选择定制螺钉材料之前，比较材料等级、成品强度、暴露、配合接口和检查证据。
+- [非标紧固件图纸评审：从询价到生产放行的检查清单](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/drawing-review-release-checklist/): 定制螺钉询价的逐步图纸审查：受控定义、配合接口、关键特征、最终条件和放行证据。
+- [非标螺丝加工工艺路线选择指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/manufacturing-route-selection/): 使用几何形状、数量、模具、二次加工和最终验收来比较冷镦、CNC车削、混合和热锻造工艺路线。
+- [紧固件表面处理要求：明确功能、配合与验收依据](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/surface-treatment-specification/): 定义涂层用途、敏感表面、最终配合、处理风险、测试标准、安装要求和可追溯记录。
+- [非标紧固件检验与验收计划编制指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/inspection-acceptance-plan/): 制定具有适当方法、检查频率、记录和偏差处理的逐个特性的验收计划。
+- [从样品到批量生产：非标紧固件分阶段审批与交接指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/prototype-production-handover/): 使用阶段门从几何样品转移到批准的重复生产，保留绘图控制、工艺路线决策和批次证据。
 - [工程指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/): 为非标紧固件询价准备图纸、选择材料并核对驱动槽型的实用指南。

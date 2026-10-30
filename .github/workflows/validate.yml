@@ -35,6 +35,7 @@ jobs:
           node scripts/verify-priorities.mjs
           node scripts/audit-topology.mjs
           node scripts/audit-seo.mjs
+          node scripts/verify-deep-content.mjs
       - name: Type check
         run: npx tsc --noEmit
       - name: Build

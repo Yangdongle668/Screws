@@ -1,14 +1,14 @@
 @namespace sm url(http://www.sitemaps.org/schemas/sitemap/0.9);
 @namespace image url(http://www.google.com/schemas/sitemap-image/1.1);
 @namespace xhtml url(http://www.w3.org/1999/xhtml);
-sm|sitemapindex,sm|urlset{display:block;margin:0;padding:36px 5%;font-family:Arial,sans-serif;color:#292d33;background:white}
-sm|sitemapindex::before{content:"ZUFEK · XML Sitemap Index — Readable links and tables: /sitemap";display:block;background:#0754a6;color:white;padding:28px;margin-bottom:32px;font-size:22px}
-sm|urlset::before{content:"ZUFEK · XML Sitemap — URL / Last modified / Language alternates / Images";display:block;background:#0754a6;color:white;padding:28px;margin-bottom:32px;font-size:20px}
-sm|sitemap,sm|url{display:block;padding:20px;border-bottom:1px solid #e2e7ec}
-sm|sitemap:nth-child(even),sm|url:nth-child(even){background:#f6f8fa}
-sm|loc{display:block;color:#0754a6;font-size:15px;overflow-wrap:anywhere;margin-bottom:8px}
-sm|lastmod{display:block;color:#687380;font-size:13px}
-sm|lastmod::before{content:"Last modified: "}
-image|image{display:block;font-size:12px;color:#687380;margin-top:8px}
-image|loc{display:block;overflow-wrap:anywhere}
-xhtml|link{display:none}
+sm|sitemapindex,sm|urlset{display:block;margin:0;padding:0 5% 48px;font-family:Arial,sans-serif;color:#292d33;background:#fff}
+xhtml|header{display:block;background:#0754a6;color:white;margin:0 -5.56% 36px;padding:32px 5.56%}
+xhtml|header xhtml|a{color:white;text-decoration:none}xhtml|a.brand{display:inline-block;font-weight:700;letter-spacing:1px;margin-bottom:16px}xhtml|h1{display:block;font-size:28px;line-height:1.3;margin:0 0 12px}xhtml|p{display:block;font-size:15px;line-height:1.7;margin:0}xhtml|a.back{display:inline-block;text-decoration:underline;margin-top:16px}
+xhtml|div.table-heading,sm|sitemap,sm|url{display:grid;grid-template-columns:minmax(0,1fr) 230px;gap:8px 24px;padding:20px 16px;border-bottom:1px solid #e2e7ec}
+xhtml|div.table-heading{background:#0754a6;color:white;font-weight:700}xhtml|div.table-heading xhtml|span{display:block}
+sm|sitemap:nth-of-type(even),sm|url:nth-of-type(even){background:#f6f8fa}
+sm|sitemap>sm|loc,sm|url>sm|loc,xhtml|link,image|image{display:none}
+xhtml|a.entry-link{display:block;grid-column:1;grid-row:1;color:#0754a6;font-size:15px;line-height:1.6;overflow-wrap:anywhere;text-decoration:underline;text-underline-offset:3px}xhtml|a.entry-link:hover{color:#06458b}xhtml|a:focus-visible{outline:2px solid #0754a6;outline-offset:4px}
+xhtml|span.entry-meta{display:block;grid-column:1;grid-row:2;color:#687380;font-size:12px;line-height:1.6;overflow-wrap:anywhere}
+sm|lastmod{display:block;grid-column:2;grid-row:1 / span 2;color:#687380;font-size:13px;line-height:1.6;overflow-wrap:anywhere}sm|sitemap:not(:has(>sm|lastmod))::after,sm|url:not(:has(>sm|lastmod))::after{content:"—";grid-column:2;grid-row:1;color:#687380}
+@media(max-width:640px){sm|sitemapindex,sm|urlset{padding-left:4%;padding-right:4%}xhtml|header{padding:24px 5%;margin-left:-4.35%;margin-right:-4.35%}xhtml|h1{font-size:24px}xhtml|div.table-heading,sm|sitemap,sm|url{grid-template-columns:minmax(0,1fr);gap:8px;padding:16px 12px}xhtml|div.table-heading xhtml|span:nth-child(2){display:none}sm|lastmod{grid-column:1;grid-row:3}sm|lastmod::before{content:"Last modified: "}sm|sitemap::after,sm|url::after{display:none}}

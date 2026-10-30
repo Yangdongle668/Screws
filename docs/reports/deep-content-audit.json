@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-30",
+  "englishFirst": true,
+  "industryArticles": 6,
+  "newGuides": 5,
+  "totalGuides": 8,
+  "faqQuestions": 15,
+  "languageEditions": 6,
+  "limits": "Source-backed editorial analysis. No claim of native-language certification, OEM approval, measured customer results or Google FAQ/PAA placement.",
+  "pages": [
+    {
+      "path": "/industry-insights/ev-charging-enclosure-fasteners/",
+      "englishWords": 1820,
+      "kind": "insights",
+      "sources": [
+        [
+          "IEA Global EV Outlook 2026",
+          "https://www.iea.org/reports/global-ev-outlook-2026"
+        ]
+      ]
+    },
+    {
+      "path": "/industry-insights/automation-locating-pivot-fasteners/",
+      "englishWords": 1988,
+      "kind": "insights",
+      "sources": [
+        [
+          "IFR World Robotics reporting",
+          "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally"
+        ]
+      ]
+    },
+    {
+      "path": "/industry-insights/battery-storage-fastener-interfaces/",
+      "englishWords": 1938,
+      "kind": "insights",
+      "sources": [
+        [
+          "IEA Batteries and Secure Energy Transitions",
+          "https://www.iea.org/reports/batteries-and-secure-energy-transitions"
+        ]
+      ]
+    },
+    {
+      "path": "/industry-insights/data-centre-cooling-service-fasteners/",
+      "englishWords": 1970,
+      "kind": "insights",
+      "sources": [
+        [
+          "IEA Energy and AI",
+          "https://www.iea.org/reports/energy-and-ai"
+        ]
+      ]
+    },
+    {
+      "path": "/industry-insights/repairability-product-information-fasteners/",
+      "englishWords": 2107,
+      "kind": "insights",
+      "sources": [
+        [
+          "European Commission: Digital Product Passport",
+          "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en"
+        ],
+        [
+          "Ecodesign for Sustainable Products Regulation framework",
+          "https://eur-lex.europa.eu/eli/reg/2024/1781/eng"
+        ]
+      ]
+    },
+    {
+      "path": "/industry-insights/material-supply-risk-qualified-alternatives/",
+      "englishWords": 2124,
+      "kind": "insights",
+      "sources": [
+        [
+          "IEA Global Critical Minerals Outlook 2026",
+          "https://www.iea.org/reports/global-critical-minerals-outlook-2026"
+        ]
+      ]
+    },
+    {
+      "path": "/guides/drawing-review-release-checklist/",
+      "englishWords": 1010,
+      "kind": "guides",
+      "sources": [
+        [
+          "NASA Fastener Design Manual, 1990: general design background",
+          "https://ntrs.nasa.gov/citations/19900009424"
+        ]
+      ]
+    },
+    {
+      "path": "/guides/manufacturing-route-selection/",
+      "englishWords": 1024,
+      "kind": "guides",
+      "sources": [
+        [
+          "NASA Fastener Design Manual, 1990: general design background",
+          "https://ntrs.nasa.gov/citations/19900009424"
+        ]
+      ]
+    },
+    {
+      "path": "/guides/surface-treatment-specification/",
+      "englishWords": 999,
+      "kind": "guides",
+      "sources": [
+        [
+          "ISO 4042: published scope, editions and amendments",
+          "https://www.iso.org/standard/77913.html"
+        ],
+        [
+          "ISO 10683: published scope for zinc-flake systems",
+          "https://www.iso.org/standard/70609.html"
+        ]
+      ]
+    },
+    {
+      "path": "/guides/inspection-acceptance-plan/",
+      "englishWords": 1131,
+      "kind": "guides",
+      "sources": [
+        [
+          "ISO 3269: published scope and applicability limitations",
+          "https://www.iso.org/standard/72605.html"
+        ]
+      ]
+    },
+    {
+      "path": "/guides/prototype-production-handover/",
+      "englishWords": 1164,
+      "kind": "guides",
+      "sources": [
+        [
+          "NASA Fastener Design Manual, 1990: general design background",
+          "https://ntrs.nasa.gov/citations/19900009424"
+        ]
+      ]
+    }
+  ]
+}

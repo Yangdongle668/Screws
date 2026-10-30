@@ -1,23 +1,25 @@
 {
   "summary": {
-    "generatedPages": 739,
-    "indexablePages": 708,
-    "metadataComplete": 708,
+    "generatedPages": 811,
+    "indexablePages": 780,
+    "metadataComplete": 780,
     "uniqueTitlesAndDescriptionsPerLanguage": true,
     "languageAlternates": 7,
     "schemas": {
-      "Organization": 708,
+      "Organization": 780,
       "WebSite": 6,
-      "WebPage": 672,
-      "BreadcrumbList": 702,
+      "WebPage": 744,
+      "BreadcrumbList": 774,
       "CollectionPage": 30,
       "Product": 162,
-      "BlogPosting": 252,
-      "ProfilePage": 6
+      "BlogPosting": 288,
+      "ProfilePage": 6,
+      "TechArticle": 30,
+      "FAQPage": 6
     },
     "sitemapSections": 8,
-    "sitemapURLs": 708,
-    "descriptionOver200": 192
+    "sitemapURLs": 780,
+    "descriptionOver200": 205
   },
   "pages": [
     {
@@ -143,7 +145,7 @@
       "description": "Practical custom screw design, procurement, material and quality resources from ZUFEK.",
       "titleCharacters": 51,
       "descriptionCharacters": 86,
-      "bodyWords": 2092,
+      "bodyWords": 2119,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1714,13 +1716,193 @@
       ]
     },
     {
+      "path": "/industry-insights/ev-charging-enclosure-fasteners/",
+      "locale": "en",
+      "title": "EV charging enclosures: why fastener specifications must follow the joint | ZUFEK",
+      "description": "Review EV charging enclosure screws through joint function, gasket stack, security access, coating and an agreed inspection plan.",
+      "titleCharacters": 81,
+      "descriptionCharacters": 129,
+      "bodyWords": 1958,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/industry-insights/automation-locating-pivot-fasteners/",
+      "locale": "en",
+      "title": "Factory automation: specifying locating and pivot fasteners for repeatable assemblies | ZUFEK",
+      "description": "How automation teams can specify shoulder screws for locating, pivoting and adjustment, with controlled interfaces and repeat-order evidence.",
+      "titleCharacters": 93,
+      "descriptionCharacters": 141,
+      "bodyWords": 2120,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/industry-insights/battery-storage-fastener-interfaces/",
+      "locale": "en",
+      "title": "Battery energy storage equipment: defining fastener interfaces beyond the material grade | ZUFEK",
+      "description": "Specify battery storage fasteners by mechanical or electrical function, material condition, coating, cleanliness and traceable acceptance.",
+      "titleCharacters": 96,
+      "descriptionCharacters": 138,
+      "bodyWords": 2084,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/industry-insights/data-centre-cooling-service-fasteners/",
+      "locale": "en",
+      "title": "Data-centre equipment: fastener decisions for cooling, service access and controlled assembly | ZUFEK",
+      "description": "Review data-centre equipment fasteners for service access, captive retention, controlled passages, cleanliness and final-condition inspection.",
+      "titleCharacters": 101,
+      "descriptionCharacters": 142,
+      "bodyWords": 2122,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/industry-insights/repairability-product-information-fasteners/",
+      "locale": "en",
+      "title": "Repairability and product information: what custom fastener buyers should define now | ZUFEK",
+      "description": "Connect repair access, replacement-part control and evidence-backed product information without assuming universal passport obligations for screws.",
+      "titleCharacters": 92,
+      "descriptionCharacters": 147,
+      "bodyWords": 2254,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/industry-insights/material-supply-risk-qualified-alternatives/",
+      "locale": "en",
+      "title": "Material supply risk: qualifying fastener alternatives without losing the approved interface | ZUFEK",
+      "description": "Qualify alternative fastener materials through final properties, manufacturability, treatment, fit, documentation and controlled release.",
+      "titleCharacters": 100,
+      "descriptionCharacters": 137,
+      "bodyWords": 2286,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/guides/drawing-review-release-checklist/",
+      "locale": "en",
+      "title": "Custom fastener drawing review: a practical release checklist | ZUFEK",
+      "description": "A step-by-step drawing review for custom screw RFQs: controlled definition, mating interfaces, critical features, final condition and release evidence.",
+      "titleCharacters": 69,
+      "descriptionCharacters": 151,
+      "bodyWords": 1126,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/guides/manufacturing-route-selection/",
+      "locale": "en",
+      "title": "Choosing a manufacturing route for a custom screw | ZUFEK",
+      "description": "Compare cold heading, CNC turning, hybrid and hot-forged routes using geometry, quantity, tooling, secondary work and final acceptance.",
+      "titleCharacters": 57,
+      "descriptionCharacters": 135,
+      "bodyWords": 1143,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/guides/surface-treatment-specification/",
+      "locale": "en",
+      "title": "Specifying a fastener surface treatment without leaving the interface undefined | ZUFEK",
+      "description": "Define coating purpose, sensitive surfaces, final fit, treatment risks, test criteria, installation requirements and traceable records.",
+      "titleCharacters": 87,
+      "descriptionCharacters": 135,
+      "bodyWords": 1117,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/guides/inspection-acceptance-plan/",
+      "locale": "en",
+      "title": "Building a custom fastener inspection and acceptance plan | ZUFEK",
+      "description": "Build a characteristic-by-characteristic acceptance plan with suitable methods, inspection frequency, records and deviation handling.",
+      "titleCharacters": 65,
+      "descriptionCharacters": 133,
+      "bodyWords": 1249,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/guides/prototype-production-handover/",
+      "locale": "en",
+      "title": "From prototype screw to repeat production: a stage-gate handover guide | ZUFEK",
+      "description": "Use stage gates to move from geometry samples to approved repeat production, preserving drawing control, route decisions and lot evidence.",
+      "titleCharacters": 78,
+      "descriptionCharacters": 138,
+      "bodyWords": 1306,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/faq/",
+      "locale": "en",
+      "title": "Custom fastener FAQ | ZUFEK",
+      "description": "Answers to common purchasing and engineering questions before requesting drawing-defined metal screws. Product-specific decisions still follow the approved drawing, quantity and agreed acceptance requirements.",
+      "titleCharacters": 27,
+      "descriptionCharacters": 209,
+      "bodyWords": 1030,
+      "types": [
+        "FAQPage",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
       "path": "/guides/",
       "locale": "en",
       "title": "Engineering Guides | ZUFEK",
       "description": "Drawing preparation, material selection and drive references for custom fastener RFQs.",
       "titleCharacters": 26,
       "descriptionCharacters": 86,
-      "bodyWords": 105,
+      "bodyWords": 236,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1734,7 +1916,7 @@
       "description": "Industry developments and the questions they raise for custom fasteners.",
       "titleCharacters": 25,
       "descriptionCharacters": 72,
-      "bodyWords": 205,
+      "bodyWords": 181,
       "types": [
         "CollectionPage",
         "Organization",
@@ -2328,7 +2510,7 @@
       "description": "Praktische kundenspezifische Schraubendesign-, Beschaffungs-, Material- und Qualitätsressourcen von ZUFEK.",
       "titleCharacters": 67,
       "descriptionCharacters": 106,
-      "bodyWords": 2128,
+      "bodyWords": 2161,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2342,7 +2524,7 @@
       "description": "Diseño práctico de tornillos personalizados, adquisición, materiales y recursos de calidad de ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 100,
-      "bodyWords": 2478,
+      "bodyWords": 2517,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2356,7 +2538,7 @@
       "description": "Risorse pratiche per la progettazione di viti personalizzate, approvvigionamento, materiali e qualità da ZUFEK.",
       "titleCharacters": 59,
       "descriptionCharacters": 111,
-      "bodyWords": 2455,
+      "bodyWords": 2496,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2370,7 +2552,7 @@
       "description": "来自ZUFEK的实用定制螺杆设计、采购、材料和质量资源。",
       "titleCharacters": 19,
       "descriptionCharacters": 28,
-      "bodyWords": 472,
+      "bodyWords": 474,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2384,7 +2566,7 @@
       "description": "Ressources pratiques de conception, d'approvisionnement, de matériaux et de qualité de vis personnalisées de ZUFEK.",
       "titleCharacters": 66,
       "descriptionCharacters": 115,
-      "bodyWords": 2538,
+      "bodyWords": 2579,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10207,13 +10389,913 @@
       ]
     },
     {
+      "path": "/de/industry-insights/ev-charging-enclosure-fasteners/",
+      "locale": "de",
+      "title": "Ladegehäuse für Elektrofahrzeuge: Warum die Spezifikationen der Befestigungselemente der Verbindung folgen müssen | ZUFEK",
+      "description": "Überprüfen Sie die Schrauben des Ladegehäuses für Elektrofahrzeuge anhand der Verbindungsfunktion, des Dichtungsstapels, des Sicherheitszugangs, der Beschichtung und eines vereinbarten Inspektionsplans.",
+      "titleCharacters": 121,
+      "descriptionCharacters": 202,
+      "bodyWords": 1988,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/industry-insights/ev-charging-enclosure-fasteners/",
+      "locale": "es",
+      "title": "Recintos de carga para vehículos eléctricos: por qué las especificaciones de los sujetadores deben seguir la articulación | ZUFEK",
+      "description": "Revise los tornillos del recinto de carga de vehículos eléctricos a través de la función de las juntas, la pila de juntas, el acceso de seguridad, el revestimiento y un plan de inspección acordado.",
+      "titleCharacters": 129,
+      "descriptionCharacters": 197,
+      "bodyWords": 2376,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/industry-insights/ev-charging-enclosure-fasteners/",
+      "locale": "it",
+      "title": "Involucri di ricarica per veicoli elettrici: perché le specifiche di fissaggio devono seguire il giunto | ZUFEK",
+      "description": "Esaminare le viti dell'involucro di ricarica dei veicoli elettrici attraverso la funzione del giunto, la serie di guarnizioni, l'accesso di sicurezza, il rivestimento e un piano di ispezione concordato.",
+      "titleCharacters": 111,
+      "descriptionCharacters": 202,
+      "bodyWords": 2245,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/industry-insights/ev-charging-enclosure-fasteners/",
+      "locale": "zh",
+      "title": "电动汽车充电设备外壳：从连接结构出发确定紧固件要求 | ZUFEK",
+      "description": "通过接头功能、垫片堆叠、安全通道、涂层和商定的检查计划来审查电动汽车充电外壳螺钉。",
+      "titleCharacters": 33,
+      "descriptionCharacters": 41,
+      "bodyWords": 73,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/industry-insights/ev-charging-enclosure-fasteners/",
+      "locale": "fr",
+      "title": "Boîtiers de recharge pour véhicules électriques : pourquoi les spécifications des fixations doivent suivre le joint | ZUFEK",
+      "description": "Examinez les vis du boîtier de chargement des véhicules électriques en fonction de la fonction des joints, de la pile de joints, de l'accès de sécurité, du revêtement et d'un plan d'inspection convenu.",
+      "titleCharacters": 123,
+      "descriptionCharacters": 201,
+      "bodyWords": 2290,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/industry-insights/automation-locating-pivot-fasteners/",
+      "locale": "de",
+      "title": "Fabrikautomation: Spezifizierung von Fixier- und Drehbefestigungen für wiederholbare Baugruppen | ZUFEK",
+      "description": "Wie Automatisierungsteams Schulterschrauben zum Lokalisieren, Schwenken und Einstellen spezifizieren können, mit kontrollierten Schnittstellen und Nachbestellungsnachweisen.",
+      "titleCharacters": 103,
+      "descriptionCharacters": 173,
+      "bodyWords": 2129,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/industry-insights/automation-locating-pivot-fasteners/",
+      "locale": "es",
+      "title": "Automatización de fábricas: especificación de sujetadores de ubicación y pivote para ensamblajes repetibles | ZUFEK",
+      "description": "Cómo los equipos de automatización pueden especificar tornillos de hombro para ubicarlos, girarlos y ajustarlos, con interfaces controladas y evidencia de pedidos repetidos.",
+      "titleCharacters": 115,
+      "descriptionCharacters": 173,
+      "bodyWords": 2502,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/industry-insights/automation-locating-pivot-fasteners/",
+      "locale": "it",
+      "title": "Automazione di fabbrica: specificazione di elementi di fissaggio di posizionamento e articolazione per assemblaggi ripetibili | ZUFEK",
+      "description": "In che modo i team di automazione possono specificare le viti a spallamento per il posizionamento, la rotazione e la regolazione, con interfacce controllate e prove di ordine ripetuto.",
+      "titleCharacters": 133,
+      "descriptionCharacters": 184,
+      "bodyWords": 2391,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/industry-insights/automation-locating-pivot-fasteners/",
+      "locale": "zh",
+      "title": "工厂自动化：如何规定定位与转动用紧固件，保证装配一致性 | ZUFEK",
+      "description": "自动化团队如何通过受控接口和重复订单证据来指定用于定位、旋转和调整的肩螺钉。",
+      "titleCharacters": 35,
+      "descriptionCharacters": 38,
+      "bodyWords": 70,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/industry-insights/automation-locating-pivot-fasteners/",
+      "locale": "fr",
+      "title": "Automatisation d'usine : spécification des fixations de positionnement et de pivotement pour les assemblages répétables | ZUFEK",
+      "description": "Comment les équipes d'automatisation peuvent spécifier des vis à épaulement pour la localisation, le pivotement et le réglage, avec des interfaces contrôlées et des preuves de commande répétée.",
+      "titleCharacters": 127,
+      "descriptionCharacters": 193,
+      "bodyWords": 2498,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/industry-insights/battery-storage-fastener-interfaces/",
+      "locale": "de",
+      "title": "Batterieenergiespeichergeräte: Definition von Befestigungsschnittstellen über die Materialqualität hinaus | ZUFEK",
+      "description": "Spezifizieren Sie Batteriespeicherbefestigungen nach mechanischer oder elektrischer Funktion, Materialbeschaffenheit, Beschichtung, Sauberkeit und nachvollziehbarer Abnahme.",
+      "titleCharacters": 113,
+      "descriptionCharacters": 173,
+      "bodyWords": 2100,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/industry-insights/battery-storage-fastener-interfaces/",
+      "locale": "es",
+      "title": "Equipos de almacenamiento de energía en baterías: definición de interfaces de sujetadores más allá del grado del material | ZUFEK",
+      "description": "Especifique los sujetadores de almacenamiento de baterías por función mecánica o eléctrica, condición del material, recubrimiento, limpieza y aceptación rastreable.",
+      "titleCharacters": 129,
+      "descriptionCharacters": 164,
+      "bodyWords": 2529,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/industry-insights/battery-storage-fastener-interfaces/",
+      "locale": "it",
+      "title": "Attrezzature per lo stoccaggio dell'energia della batteria: definire le interfacce di fissaggio oltre la qualità del materiale | ZUFEK",
+      "description": "Specificare i dispositivi di fissaggio per lo stoccaggio della batteria in base alla funzione meccanica o elettrica, alle condizioni del materiale, al rivestimento, alla pulizia e all'accettazione tracciabile.",
+      "titleCharacters": 134,
+      "descriptionCharacters": 209,
+      "bodyWords": 2422,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/industry-insights/battery-storage-fastener-interfaces/",
+      "locale": "zh",
+      "title": "电池储能设备：紧固连接不能只看材料牌号 | ZUFEK",
+      "description": "通过机械或电气功能、材料状态、涂层、清洁度和可追溯验收来指定电池存储紧固件。",
+      "titleCharacters": 27,
+      "descriptionCharacters": 38,
+      "bodyWords": 69,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/industry-insights/battery-storage-fastener-interfaces/",
+      "locale": "fr",
+      "title": "Équipement de stockage d'énergie par batterie : définition des interfaces de fixation au-delà de la qualité du matériau | ZUFEK",
+      "description": "Spécifiez les fixations de stockage de batterie par fonction mécanique ou électrique, état du matériau, revêtement, propreté et acceptation traçable.",
+      "titleCharacters": 127,
+      "descriptionCharacters": 149,
+      "bodyWords": 2552,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/industry-insights/data-centre-cooling-service-fasteners/",
+      "locale": "de",
+      "title": "Rechenzentrumsausrüstung: Entscheidungen über Verbindungselemente für Kühlung, Servicezugang und kontrollierte Montage | ZUFEK",
+      "description": "Überprüfen Sie die Befestigungselemente der Rechenzentrumsausrüstung auf Servicezugang, sicheren Halt, kontrollierte Passagen, Sauberkeit und Endzustandsprüfung.",
+      "titleCharacters": 126,
+      "descriptionCharacters": 161,
+      "bodyWords": 2163,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/industry-insights/data-centre-cooling-service-fasteners/",
+      "locale": "es",
+      "title": "Equipos para centros de datos: decisiones sobre sujetadores para refrigeración, acceso de servicio y montaje controlado | ZUFEK",
+      "description": "Revise los sujetadores de los equipos del centro de datos para verificar el acceso al servicio, la retención cautiva, los pasajes controlados, la limpieza y la inspección del estado final.",
+      "titleCharacters": 127,
+      "descriptionCharacters": 188,
+      "bodyWords": 2573,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/industry-insights/data-centre-cooling-service-fasteners/",
+      "locale": "it",
+      "title": "Attrezzature per data center: decisioni sugli elementi di fissaggio per il raffreddamento, l'accesso al servizio e l'assemblaggio controllato | ZUFEK",
+      "description": "Esaminare i dispositivi di fissaggio delle apparecchiature del data center per quanto riguarda l'accesso al servizio, la ritenzione vincolata, i passaggi controllati, la pulizia e l'ispezione delle condizioni finali.",
+      "titleCharacters": 149,
+      "descriptionCharacters": 216,
+      "bodyWords": 2421,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/industry-insights/data-centre-cooling-service-fasteners/",
+      "locale": "zh",
+      "title": "数据中心设备：兼顾冷却、维修空间与装配控制的紧固件选型 | ZUFEK",
+      "description": "检查数据中心设备紧固件的服务访问、固定保持、受控通道、清洁度和最终状况检查。",
+      "titleCharacters": 35,
+      "descriptionCharacters": 38,
+      "bodyWords": 73,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/industry-insights/data-centre-cooling-service-fasteners/",
+      "locale": "fr",
+      "title": "Équipement de centre de données : décisions en matière de fixations pour le refroidissement, l'accès au service et l'assemblage contrôlé | ZUFEK",
+      "description": "Examinez les fixations des équipements du centre de données pour l'accès au service, la rétention captive, les passages contrôlés, la propreté et l'inspection de l'état final.",
+      "titleCharacters": 144,
+      "descriptionCharacters": 175,
+      "bodyWords": 2577,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/industry-insights/repairability-product-information-fasteners/",
+      "locale": "de",
+      "title": "Reparierbarkeit und Produktinformationen: Was Käufer kundenspezifischer Verbindungselemente jetzt definieren sollten | ZUFEK",
+      "description": "Verbinden Sie Reparaturzugang, Ersatzteilkontrolle und evidenzbasierte Produktinformationen, ohne eine einheitliche Passpflicht für Schrauben zu übernehmen.",
+      "titleCharacters": 124,
+      "descriptionCharacters": 156,
+      "bodyWords": 2300,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/industry-insights/repairability-product-information-fasteners/",
+      "locale": "es",
+      "title": "Reparabilidad e información del producto: lo que los compradores de sujetadores personalizados deberían definir ahora | ZUFEK",
+      "description": "Conecte el acceso a reparaciones, el control de piezas de repuesto y la información del producto respaldada por evidencia sin asumir obligaciones de pasaporte universal para tornillos.",
+      "titleCharacters": 125,
+      "descriptionCharacters": 184,
+      "bodyWords": 2676,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/industry-insights/repairability-product-information-fasteners/",
+      "locale": "it",
+      "title": "Riparabilità e informazioni sul prodotto: cosa dovrebbero definire ora gli acquirenti di elementi di fissaggio personalizzati | ZUFEK",
+      "description": "Collega l'accesso per le riparazioni, il controllo delle parti di ricambio e le informazioni sui prodotti supportate da prove senza assumere obblighi di passaporto universale per le viti.",
+      "titleCharacters": 133,
+      "descriptionCharacters": 187,
+      "bodyWords": 2582,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/industry-insights/repairability-product-information-fasteners/",
+      "locale": "zh",
+      "title": "可维修性与产品信息：非标紧固件采购应提前明确什么 | ZUFEK",
+      "description": "连接维修通道、更换零件控制和有证据支持的产品信息，无需承担螺丝的通用通行证义务。",
+      "titleCharacters": 32,
+      "descriptionCharacters": 40,
+      "bodyWords": 73,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/industry-insights/repairability-product-information-fasteners/",
+      "locale": "fr",
+      "title": "Réparabilité et informations sur le produit : ce que les acheteurs de fixations personnalisées doivent définir dès maintenant | ZUFEK",
+      "description": "Connectez l'accès aux réparations, le contrôle des pièces de rechange et les informations produit fondées sur des preuves sans assumer les obligations de passeport universel pour les vis.",
+      "titleCharacters": 133,
+      "descriptionCharacters": 187,
+      "bodyWords": 2662,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/industry-insights/material-supply-risk-qualified-alternatives/",
+      "locale": "de",
+      "title": "Materialversorgungsrisiko: Qualifizierung von Befestigungsalternativen ohne Verlust der zugelassenen Schnittstelle | ZUFEK",
+      "description": "Qualifizieren Sie alternative Befestigungsmaterialien durch endgültige Eigenschaften, Herstellbarkeit, Behandlung, Passform, Dokumentation und kontrollierte Freigabe.",
+      "titleCharacters": 122,
+      "descriptionCharacters": 166,
+      "bodyWords": 2332,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/industry-insights/material-supply-risk-qualified-alternatives/",
+      "locale": "es",
+      "title": "Riesgo de suministro de material: calificar alternativas de sujetadores sin perder la interfaz aprobada | ZUFEK",
+      "description": "Calificar materiales de fijación alternativos a través de propiedades finales, capacidad de fabricación, tratamiento, ajuste, documentación y liberación controlada.",
+      "titleCharacters": 111,
+      "descriptionCharacters": 164,
+      "bodyWords": 2706,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/industry-insights/material-supply-risk-qualified-alternatives/",
+      "locale": "it",
+      "title": "Rischio relativo alla fornitura di materiale: qualificare le alternative di fissaggio senza perdere l'interfaccia approvata | ZUFEK",
+      "description": "Qualificare i materiali di fissaggio alternativi attraverso proprietà finali, producibilità, trattamento, idoneità, documentazione e rilascio controllato.",
+      "titleCharacters": 131,
+      "descriptionCharacters": 154,
+      "bodyWords": 2562,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/industry-insights/material-supply-risk-qualified-alternatives/",
+      "locale": "zh",
+      "title": "材料供应风险：如何验证替代方案并保持已批准的配合要求 | ZUFEK",
+      "description": "通过最终性能、可制造性、处理、配合、记录和受控释放来验证替代紧固件材料的质量。",
+      "titleCharacters": 34,
+      "descriptionCharacters": 39,
+      "bodyWords": 74,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/industry-insights/material-supply-risk-qualified-alternatives/",
+      "locale": "fr",
+      "title": "Risque d'approvisionnement en matériaux : qualifier les alternatives de fixation sans perdre l'interface approuvée | ZUFEK",
+      "description": "Qualifier des matériaux de fixation alternatifs grâce à leurs propriétés finales, leur fabricabilité, leur traitement, leur ajustement, leur documentation et leur libération contrôlée.",
+      "titleCharacters": 122,
+      "descriptionCharacters": 184,
+      "bodyWords": 2681,
+      "types": [
+        "BlogPosting",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/guides/drawing-review-release-checklist/",
+      "locale": "de",
+      "title": "Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Freigabe-Checkliste | ZUFEK",
+      "description": "Eine Schritt-für-Schritt-Zeichnungsüberprüfung für kundenspezifische Schraubenanfragen: kontrollierte Definition, Passschnittstellen, kritische Merkmale, Endzustand und Freigabenachweise.",
+      "titleCharacters": 101,
+      "descriptionCharacters": 187,
+      "bodyWords": 1168,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/guides/drawing-review-release-checklist/",
+      "locale": "es",
+      "title": "Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación | ZUFEK",
+      "description": "Una revisión de planos paso a paso para solicitudes de cotización de tornillos personalizados: definición controlada, interfaces de acoplamiento, características críticas, condición final y evidencia de liberación.",
+      "titleCharacters": 107,
+      "descriptionCharacters": 214,
+      "bodyWords": 1349,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/guides/drawing-review-release-checklist/",
+      "locale": "it",
+      "title": "Revisione dei disegni di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio | ZUFEK",
+      "description": "Una revisione dettagliata dei disegni per le richieste di offerta di viti personalizzate: definizione controllata, interfacce di accoppiamento, caratteristiche critiche, condizioni finali e prove di rilascio.",
+      "titleCharacters": 117,
+      "descriptionCharacters": 208,
+      "bodyWords": 1343,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/guides/drawing-review-release-checklist/",
+      "locale": "zh",
+      "title": "非标紧固件图纸评审：从询价到生产放行的检查清单 | ZUFEK",
+      "description": "定制螺钉询价的逐步图纸审查：受控定义、配合接口、关键特征、最终条件和放行证据。",
+      "titleCharacters": 31,
+      "descriptionCharacters": 39,
+      "bodyWords": 51,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/guides/drawing-review-release-checklist/",
+      "locale": "fr",
+      "title": "Examen des dessins de fixations personnalisés : une liste de contrôle de publication pratique | ZUFEK",
+      "description": "Un examen étape par étape des dessins pour les appels d'offres de vis personnalisées : définition contrôlée, interfaces de raccordement, caractéristiques critiques, état final et preuves de libération.",
+      "titleCharacters": 101,
+      "descriptionCharacters": 201,
+      "bodyWords": 1382,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/guides/manufacturing-route-selection/",
+      "locale": "de",
+      "title": "Auswahl einer Herstellungsroute für eine kundenspezifische Schraube | ZUFEK",
+      "description": "Vergleichen Sie Kaltstauch-, CNC-Dreh-, Hybrid- und Warmumformungsrouten anhand von Geometrie, Menge, Werkzeugausstattung, Sekundärarbeit und Endabnahme.",
+      "titleCharacters": 75,
+      "descriptionCharacters": 153,
+      "bodyWords": 1176,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/guides/manufacturing-route-selection/",
+      "locale": "es",
+      "title": "Elegir una ruta de fabricación para un tornillo personalizado | ZUFEK",
+      "description": "Compare rutas de rumbo en frío, torneado CNC, híbrido y forjado en caliente utilizando geometría, cantidad, herramientas, trabajo secundario y aceptación final.",
+      "titleCharacters": 69,
+      "descriptionCharacters": 160,
+      "bodyWords": 1348,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/guides/manufacturing-route-selection/",
+      "locale": "it",
+      "title": "Scegliere un percorso di produzione per una vite personalizzata | ZUFEK",
+      "description": "Confronta i percorsi di stampaggio a freddo, tornitura CNC, ibridi e forgiati a caldo utilizzando geometria, quantità, attrezzature, lavoro secondario e accettazione finale.",
+      "titleCharacters": 71,
+      "descriptionCharacters": 173,
+      "bodyWords": 1305,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/guides/manufacturing-route-selection/",
+      "locale": "zh",
+      "title": "非标螺丝加工工艺路线选择指南 | ZUFEK",
+      "description": "使用几何形状、数量、模具、二次加工和最终验收来比较冷镦、CNC车削、混合和热锻造工艺路线。",
+      "titleCharacters": 22,
+      "descriptionCharacters": 45,
+      "bodyWords": 54,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/guides/manufacturing-route-selection/",
+      "locale": "fr",
+      "title": "Choisir une voie de fabrication pour une vis sur mesure | ZUFEK",
+      "description": "Comparez les itinéraires de frappe à froid, de tournage CNC, hybrides et forgés à chaud en utilisant la géométrie, la quantité, l'outillage, le travail secondaire et l'acceptation finale.",
+      "titleCharacters": 63,
+      "descriptionCharacters": 187,
+      "bodyWords": 1373,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/guides/surface-treatment-specification/",
+      "locale": "de",
+      "title": "Angeben einer Oberflächenbehandlung für Verbindungselemente, ohne die Schnittstelle undefiniert zu lassen | ZUFEK",
+      "description": "Definieren Sie Beschichtungszweck, empfindliche Oberflächen, endgültige Passform, Behandlungsrisiken, Prüfkriterien, Installationsanforderungen und nachverfolgbare Aufzeichnungen.",
+      "titleCharacters": 113,
+      "descriptionCharacters": 179,
+      "bodyWords": 1160,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/guides/surface-treatment-specification/",
+      "locale": "es",
+      "title": "Especificación de un tratamiento superficial de sujetador sin dejar la interfaz sin definir | ZUFEK",
+      "description": "Defina el propósito del recubrimiento, las superficies sensibles, el ajuste final, los riesgos del tratamiento, los criterios de prueba, los requisitos de instalación y los registros rastreables.",
+      "titleCharacters": 99,
+      "descriptionCharacters": 195,
+      "bodyWords": 1348,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/guides/surface-treatment-specification/",
+      "locale": "it",
+      "title": "Specificare un trattamento superficiale dell'elemento di fissaggio senza lasciare l'interfaccia indefinita | ZUFEK",
+      "description": "Definire lo scopo del rivestimento, le superfici sensibili, l'idoneità finale, i rischi del trattamento, i criteri di test, i requisiti di installazione e le registrazioni tracciabili.",
+      "titleCharacters": 114,
+      "descriptionCharacters": 184,
+      "bodyWords": 1286,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/guides/surface-treatment-specification/",
+      "locale": "zh",
+      "title": "紧固件表面处理要求：明确功能、配合与验收依据 | ZUFEK",
+      "description": "定义涂层用途、敏感表面、最终配合、处理风险、测试标准、安装要求和可追溯记录。",
+      "titleCharacters": 30,
+      "descriptionCharacters": 38,
+      "bodyWords": 58,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/guides/surface-treatment-specification/",
+      "locale": "fr",
+      "title": "Spécifier un traitement de surface de fixation sans laisser l'interface indéfinie | ZUFEK",
+      "description": "Définir le but du revêtement, les surfaces sensibles, l'ajustement final, les risques du traitement, les critères de test, les exigences d'installation et les enregistrements traçables.",
+      "titleCharacters": 89,
+      "descriptionCharacters": 185,
+      "bodyWords": 1362,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/guides/inspection-acceptance-plan/",
+      "locale": "de",
+      "title": "Erstellen eines maßgeschneiderten Inspektions- und Abnahmeplans für Verbindungselemente | ZUFEK",
+      "description": "Erstellen Sie einen merkmalsbezogenen Abnahmeplan mit geeigneten Methoden, Prüfhäufigkeit, Aufzeichnungen und Abweichungsbehandlung.",
+      "titleCharacters": 95,
+      "descriptionCharacters": 132,
+      "bodyWords": 1263,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/guides/inspection-acceptance-plan/",
+      "locale": "es",
+      "title": "Creación de un plan personalizado de inspección y aceptación de sujetadores | ZUFEK",
+      "description": "Construya un plan de aceptación característica por característica con métodos, frecuencia de inspección, registros y manejo de desviaciones adecuados.",
+      "titleCharacters": 83,
+      "descriptionCharacters": 150,
+      "bodyWords": 1436,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/guides/inspection-acceptance-plan/",
+      "locale": "it",
+      "title": "Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio | ZUFEK",
+      "description": "Costruire un piano di accettazione caratteristica per caratteristica con metodi, frequenza di ispezione, registrazioni e gestione delle deviazioni adeguati.",
+      "titleCharacters": 100,
+      "descriptionCharacters": 156,
+      "bodyWords": 1414,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/guides/inspection-acceptance-plan/",
+      "locale": "zh",
+      "title": "非标紧固件检验与验收计划编制指南 | ZUFEK",
+      "description": "制定具有适当方法、检查频率、记录和偏差处理的逐个特性的验收计划。",
+      "titleCharacters": 24,
+      "descriptionCharacters": 32,
+      "bodyWords": 59,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/guides/inspection-acceptance-plan/",
+      "locale": "fr",
+      "title": "Création d'un plan d'inspection et d'acceptation des fixations personnalisé | ZUFEK",
+      "description": "Élaborez un plan d'acceptation caractéristique par caractéristique avec des méthodes, une fréquence d'inspection, des enregistrements et une gestion des écarts appropriés.",
+      "titleCharacters": 83,
+      "descriptionCharacters": 171,
+      "bodyWords": 1478,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/guides/prototype-production-handover/",
+      "locale": "de",
+      "title": "Von der Prototypenschraube zur Wiederholungsproduktion: ein Leitfaden zur Stage-Gate-Übergabe | ZUFEK",
+      "description": "Verwenden Sie Stage Gates, um von Geometriemustern zur genehmigten Wiederholungsproduktion überzugehen und dabei die Zeichnungskontrolle, Routenentscheidungen und Chargennachweise zu bewahren.",
+      "titleCharacters": 101,
+      "descriptionCharacters": 192,
+      "bodyWords": 1344,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/guides/prototype-production-handover/",
+      "locale": "es",
+      "title": "Del prototipo de tornillo a la repetición de la producción: una guía de entrega de etapa-puerta | ZUFEK",
+      "description": "Utilice puertas de etapa para pasar de muestras de geometría a producción repetida aprobada, preservando el control del dibujo, las decisiones de ruta y la evidencia del lote.",
+      "titleCharacters": 103,
+      "descriptionCharacters": 175,
+      "bodyWords": 1552,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/guides/prototype-production-handover/",
+      "locale": "it",
+      "title": "Dalla vite prototipo alla produzione ripetuta: una guida alla consegna | ZUFEK",
+      "description": "Utilizza gli stage gate per passare dai campioni geometrici alla produzione ripetuta approvata, preservando il controllo del disegno, le decisioni sul percorso e le prove del lotto.",
+      "titleCharacters": 78,
+      "descriptionCharacters": 181,
+      "bodyWords": 1496,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/guides/prototype-production-handover/",
+      "locale": "zh",
+      "title": "从样品到批量生产：非标紧固件分阶段审批与交接指南 | ZUFEK",
+      "description": "使用阶段门从几何样品转移到批准的重复生产，保留绘图控制、工艺路线决策和批次证据。",
+      "titleCharacters": 32,
+      "descriptionCharacters": 40,
+      "bodyWords": 66,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/guides/prototype-production-handover/",
+      "locale": "fr",
+      "title": "Du prototype de vis à la production répétée : un guide de passation des portes de l'étape | ZUFEK",
+      "description": "Utilisez les étapes pour passer des échantillons géométriques à la production répétée approuvée, en préservant le contrôle des dessins, les décisions d'itinéraire et les preuves de lots.",
+      "titleCharacters": 97,
+      "descriptionCharacters": 186,
+      "bodyWords": 1578,
+      "types": [
+        "TechArticle",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/de/faq/",
+      "locale": "de",
+      "title": "Häufig gestellte Fragen zu kundenspezifischen Verbindungselementen | ZUFEK",
+      "description": "Antworten auf häufige Kauf- und Konstruktionsfragen vor der Anforderung zeichnungsdefinierter Metallschrauben. Produktspezifische Entscheidungen richten sich nach wie vor nach der genehmigten Zeichnung, Menge und den vereinbarten Abnahmevorgaben.",
+      "titleCharacters": 74,
+      "descriptionCharacters": 246,
+      "bodyWords": 1037,
+      "types": [
+        "FAQPage",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/es/faq/",
+      "locale": "es",
+      "title": "Preguntas frecuentes sobre sujetadores personalizados | ZUFEK",
+      "description": "Respuestas a preguntas comunes sobre compras e ingeniería antes de solicitar tornillos metálicos definidos por el dibujo. Las decisiones específicas del producto siguen los planos aprobados, la cantidad y los requisitos de aceptación acordados.",
+      "titleCharacters": 61,
+      "descriptionCharacters": 244,
+      "bodyWords": 1256,
+      "types": [
+        "FAQPage",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/it/faq/",
+      "locale": "it",
+      "title": "Domande frequenti sugli elementi di fissaggio personalizzati | ZUFEK",
+      "description": "Risposte alle domande comuni di acquisto e progettazione prima di richiedere viti metalliche definite dal disegno. Le decisioni specifiche sul prodotto seguono ancora il disegno approvato, la quantità e i requisiti di accettazione concordati.",
+      "titleCharacters": 68,
+      "descriptionCharacters": 242,
+      "bodyWords": 1234,
+      "types": [
+        "FAQPage",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/zh/faq/",
+      "locale": "zh",
+      "title": "非标紧固件常见问题 | ZUFEK",
+      "description": "在请求图纸定义的金属螺钉之前回答常见的采购和工程问题。具体产品的决策仍遵循批准的图纸、数量和商定的验收要求。",
+      "titleCharacters": 17,
+      "descriptionCharacters": 54,
+      "bodyWords": 50,
+      "types": [
+        "FAQPage",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
+      "path": "/fr/faq/",
+      "locale": "fr",
+      "title": "FAQ sur les fixations personnalisées | ZUFEK",
+      "description": "Réponses aux questions courantes d'achat et d'ingénierie avant de demander des vis à métal définies par dessin. Les décisions spécifiques au produit suivent toujours les exigences approuvées en matière de dessin, de quantité et d'acceptation convenue.",
+      "titleCharacters": 44,
+      "descriptionCharacters": 251,
+      "bodyWords": 1316,
+      "types": [
+        "FAQPage",
+        "Organization",
+        "BreadcrumbList",
+        "WebPage"
+      ]
+    },
+    {
       "path": "/de/guides/",
       "locale": "de",
       "title": "Technische Leitfäden | ZUFEK",
       "description": "Leitfäden zu Zeichnungen, Werkstoffauswahl und Antrieben für Anfragen zu Sonderschrauben.",
       "titleCharacters": 28,
       "descriptionCharacters": 89,
-      "bodyWords": 108,
+      "bodyWords": 227,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10227,7 +11309,7 @@
       "description": "Guías de planos, selección de materiales y accionamientos para solicitar fijaciones a medida.",
       "titleCharacters": 27,
       "descriptionCharacters": 93,
-      "bodyWords": 125,
+      "bodyWords": 311,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10241,7 +11323,7 @@
       "description": "Guide a disegni, scelta dei materiali e impronte per richiedere fissaggi su disegno.",
       "titleCharacters": 22,
       "descriptionCharacters": 84,
-      "bodyWords": 116,
+      "bodyWords": 300,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10255,7 +11337,7 @@
       "description": "为非标紧固件询价准备图纸、选择材料并核对驱动槽型的实用指南。",
       "titleCharacters": 12,
       "descriptionCharacters": 30,
-      "bodyWords": 20,
+      "bodyWords": 30,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10269,7 +11351,7 @@
       "description": "Guides de préparation des plans, de choix des matériaux et des empreintes pour les demandes de fixations sur mesure.",
       "titleCharacters": 25,
       "descriptionCharacters": 116,
-      "bodyWords": 118,
+      "bodyWords": 309,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10283,7 +11365,7 @@
       "description": "Branchenentwicklungen und ihre Bedeutung für Sonderschrauben.",
       "titleCharacters": 22,
       "descriptionCharacters": 61,
-      "bodyWords": 156,
+      "bodyWords": 169,
       "types": [
         "CollectionPage",
         "Organization",
@@ -10297,7 +11379,7 @@
       "description": "Cambios del sector y preguntas para especificar fijaciones a medida.",
       "titleCharacters": 31,
       "descriptionCharacters": 68,
-      "bodyWords": 215,
+      "bodyWords": 268,
       "types": [
         "CollectionPage",
         "Organization",
@@ -10311,7 +11393,7 @@
       "description": "Evoluzioni del settore e criteri per specificare elementi di fissaggio su disegno.",
       "titleCharacters": 34,
       "descriptionCharacters": 82,
-      "bodyWords": 213,
+      "bodyWords": 278,
       "types": [
         "CollectionPage",
         "Organization",
@@ -10325,7 +11407,7 @@
       "description": "从行业变化出发，梳理非标紧固件设计与采购需要确认的问题。",
       "titleCharacters": 12,
       "descriptionCharacters": 28,
-      "bodyWords": 36,
+      "bodyWords": 20,
       "types": [
         "CollectionPage",
         "Organization",
@@ -10339,7 +11421,7 @@
       "description": "Évolutions sectorielles et questions à poser pour les fixations sur plan.",
       "titleCharacters": 29,
       "descriptionCharacters": 73,
-      "bodyWords": 230,
+      "bodyWords": 280,
       "types": [
         "CollectionPage",
         "Organization",
