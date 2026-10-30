@@ -19,13 +19,13 @@
 | 来源与设备 | 页面/来源/国家/浏览器/系统/移动与桌面排行 |
 | 地图与热力 | 复用现有世界地图，国家点击筛选，按北京时间绘制星期×小时热力图 |
 | 明细与筛选 | 完整IP、时间、页面、来源、浏览器、国家、机器人；24h/7d/30d/90d/365d与IP/国家/路径筛选 |
-| 保留与导出 | 默认365天，可设1–3650天；排除指定IP；询盘CSV扩展字段；Docker业务备份增加traffic_hits/crm_profiles |
+| 保留与导出 | 默认90天，可设1–90天；排除指定IP；询盘CSV扩展字段；Docker业务备份增加traffic_hits/crm_profiles |
 
 未增加多附件、退出弹窗、资料包表单、短信/即时通讯推送、邮件正文在线回复或邮件打开追踪。原图纸上传仍为单文件10MB。历史流量不能补造，旧询盘无来源的字段保持未知；首次响应不补写成历史真实邮件时间。
 
 ## 启用与真实IP
 
-`bash update.sh` 后进入 `/admin/#analytics`、`/admin/#funnel`、`/admin/#mailqueue`。完整IP服务端采集关闭，更新部署不会开启；现有Cookie同意与脱敏统计继续使用。不采集管理员已登录浏览的公开页面；机器人默认从报表排除，但其原始访问仍保存。
+`bash update.sh` 后进入 `/admin/#analytics`、`/admin/#funnel`、`/admin/#mailqueue`。完整IP服务端记录已启用，独立于可选Cookie；隐私说明和Cookie界面同步更新。可选浏览器分析仍按同意选择执行。不采集管理员已登录浏览的公开页面；机器人默认从报表排除，但其原始访问仍保存。
 
 如果前面使用同一主机Nginx反代，且只通过Nginx访问应用，可在服务器项目目录设置：
 
@@ -60,13 +60,13 @@ SQLite新增traffic_hits与crm_profiles，均在Docker启动时幂等创建，�
 
 ## 对外说明状态
 
-完整IP采集保持关闭，`createInsights` 默认 `captureFullIP=false`，生产入口不覆盖它。完整IP能力仅在本地合成数据测试中显式开启。未来启用前必须如实同步对外说明、用途及保留期限；后台保留设置不能开启此采集。
+生产Docker入口显式使用 `captureFullIP=true`。默认及最长保留期限为90天，旧配置超过90天时被限制为90天；启动时和后台调度会清理超期活动记录及询盘关联IP。隐私说明、Cookie提示及设置中的服务器记录说明已在六种语言同步更新。政策版本升为3，旧偏好的浏览器会重新看到提示。修改说明不等于已完成合法利益评估或所有地区的合规审查。
 
 ## 数据库更新与测试
 
 `node docker/verify-insights.mjs`：临时SQLite及本地GeoIP库，验证不依赖Cookie的完整IP、机器人筛选、来源关联、评分、垃圾阻断、首次响应、CSV、安全设置并发、应急加密/幂等与图纸恢复，不请求真实访客或发送邮件。
 
-`node docker/build.mjs` 后运行`node docker/verify-runtime.mjs`：验证真实Docker管理员边界、代理头与完整IP关闭请求集成。常规内容、翻译、SEO及构建检查仍适用。
+`node docker/build.mjs` 后运行`node docker/verify-runtime.mjs`：验证真实Docker管理员边界、代理头与Cookie拒绝时的完整IP公开页面记录、已同意汇总及管理员/机器人排除集成。常规内容、翻译、SEO及构建检查仍适用。
 
 参考文件：
 - https://github.com/Yangdongle668/CMS-Website/blob/9e417507a02a6fa97fbc9fe2bef24ef61f7c7a43/admin/analytics.html
@@ -74,3 +74,9 @@ SQLite新增traffic_hits与crm_profiles，均在Docker启动时幂等创建，�
 - https://github.com/Yangdongle668/CMS-Website/blob/9e417507a02a6fa97fbc9fe2bef24ef61f7c7a43/admin/inquiry-funnel.html
 - https://github.com/Yangdongle668/CMS-Website/blob/9e417507a02a6fa97fbc9fe2bef24ef61f7c7a43/server/routes/analytics.js
 - https://github.com/Yangdongle668/CMS-Website/blob/9e417507a02a6fa97fbc9fe2bef24ef61f7c7a43/server/routes/inquiries.js
+
+分析面板同时保留脱敏汇总模式：在完整IP采集未启用的运行环境中读取现有analytics_daily，不再错误读取空traffic_hits表。该模式不伪造UV、在线人数或访问明细。生产默认的完整IP模式按新功能上线后的服务端记录显示，不补造历史访问。
+
+透明度与处理依据参考：
+- https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/legal-grounds-processing-data_en
+- https://www.dataprotection.ie/en/organisations/know-your-obligations/transparency

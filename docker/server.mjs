@@ -31,7 +31,8 @@ Object.assign(api.env,{DB:db,BUCKET:fileBucket(path.join(data,'drawings')),ADMIN
 const ai=await createAIService({db,data,saveArticle:(request,body)=>api.adminAPI(new Request(new URL('/api/admin/article-save',request.url),{method:'POST',headers:request.headers,body:JSON.stringify(body)}),'article-save')});
 const geoReader=new api.CountryReader(gunzipSync(fs.readFileSync(path.join(root,'docker/geoip/country.mmdb.gz'))));
 const countryForIP=ip=>{try{if(!publicAddress(ip))return 'Unknown';const country=geoReader.get(ip)?.country?.iso_code;return /^[A-Z]{2}$/.test(country||'')?country:'Unknown';}catch{return 'Unknown';}};
-const insights=await createInsights({db,secret:process.env.SESSION_SECRET,countryForIP,mailConfig:api.loadMailConfig,retryMail:api.retryNotifications});
+const insights=await createInsights({db,secret:process.env.SESSION_SECRET,captureFullIP:true,countryForIP,mailConfig:api.loadMailConfig,retryMail:api.retryNotifications});
+await insights.cleanup();
 const recovery=await createInquiryRecovery({directory:path.join(data,'inquiry-emergency'),secret:Buffer.from(process.env.MAIL_CONFIG_KEY,'base64'),allowedProducts:new Set([...api.inquiryProducts.map(p=>p.slug),'other']),submit:api.submitInquiry,recordSaved:insights.attach});
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
