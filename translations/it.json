@@ -1800,7 +1800,7 @@
   "No inquiries in this view.": "Nessuna richiesta in questa vista.",
   "No matching articles. Try another topic or category.": "Nessun articolo corrispondente. Prova un altro argomento o categoria.",
   "No matching families. Try another term or send your drawing for review.": "Nessuna famiglia corrispondente. Prova un altro termine o invia il tuo disegno tecnico per la revisione.",
-  "No success confirmation has been received. Retry with the same details, or email engineer@zufek.com. If a previous attempt was saved, retrying returns its reference.": "Non è stata ricevuta alcuna conferma di successo. Riprova con gli stessi dettagli o invia un'e-mail a engineer@zufek.com. Se un tentativo precedente è stato salvato, il nuovo tentativo restituisce il suo riferimento.",
+  "No success confirmation has been received. Retry with the same details, or email info@zufek.net. If a previous attempt was saved, retrying returns its reference.": "Non è stata ricevuta alcuna conferma di successo. Riprova con gli stessi dettagli o invia un'e-mail a info@zufek.net. Se un tentativo precedente è stato salvato, il nuovo tentativo restituisce il suo riferimento.",
   "No universal size, tolerance, material or lead-time claim is implied.": "Non è implicita alcuna richiesta universale su dimensioni, tolleranza, materiale o tempi di consegna.",
   "No. Available options must be confirmed for your actual part. Read our": "No. Le opzioni disponibili devono essere confermate per la parte effettiva. Leggi il nostro",
   "No. Compare the bearing geometry, joint function and installation conditions before replacing a washer with an integral flange.": "No. Confrontare la geometria del cuscinetto, la funzione del giunto e le condizioni di installazione prima di sostituire una rondella con una flangia integrale.",
@@ -2678,7 +2678,7 @@
   "The flange bears on the cover. Usable thread engagement and blind-hole depth are reviewed together so the screw seats before bottoming. Schematic only, not to scale. The geometry is not a released drawing.": "La flangia appoggia sul coperchio. L'impegno della filettatura utilizzabile nella parte accoppiata e la profondità del foro cieco vengono esaminati insieme in modo che la vite si inserisca prima del raggiungimento del fondo. Solo schematico, non in scala. La geometria non è un disegno tecnico rilasciato.",
   "The guides help engineers and sourcing teams prepare clearer drawings and RFQs. Topics include shoulder and bore requirements, special drives, manufacturing routes, final material condition, surface treatment and acceptance planning.": "Le guide aiutano gli ingegneri e i team di sourcing a preparare disegni e richieste di offerta più chiari. Gli argomenti includono requisiti di spallamento e foro, trasmissioni speciali, percorsi di produzione, condizioni finali del materiale, trattamento superficiale e pianificazione dell'accettazione.",
   "The hosting platform may use necessary authentication cookies when sign-in is required, including restricted previews and administration. These are managed by the platform; actual names and durations depend on its authentication session.": "La piattaforma di hosting può utilizzare i cookie di autenticazione necessari quando è richiesto l'accesso, comprese anteprime e amministrazione limitate. Questi sono gestiti dalla piattaforma; i nomi e le durate effettivi dipendono dalla sessione di autenticazione.",
-  "The inquiry could not be confirmed. Retry with the same details, or email engineer@zufek.com.": "Non è stato possibile confermare l'indagine. Riprova con gli stessi dettagli o invia un'e-mail a engineer@zufek.com.",
+  "The inquiry could not be confirmed. Retry with the same details, or email info@zufek.net.": "Non è stato possibile confermare l'indagine. Riprova con gli stessi dettagli o invia un'e-mail a info@zufek.net.",
   "The inquiry retry identifier exists in page memory, not a tracking cookie. Contact fields and drawings are not saved to localStorage. Optional attribution is stored separately only after consent. Server-side inquiry records are described in the": "L'identificatore del nuovo tentativo di richiesta esiste nella memoria della pagina, non è un cookie di tracciamento. I campi e i disegni dei contatti non vengono salvati in localStorage. L'attribuzione facoltativa viene memorizzata separatamente solo previo consenso. I record delle richieste lato server sono descritti nel file",
   "The inspection plan should establish the same reference features used in the design. Discuss the practical measurement of offset, form and orientation before production. A photograph can illustrate the concept but is not an adequate substitute for controlled datum and dimensional requirements.": "Il piano di ispezione dovrebbe stabilire le stesse caratteristiche di riferimento utilizzate nella progettazione. Discutere la misurazione pratica di offset, forma e orientamento prima della produzione. Una fotografia può illustrare il concetto ma non è un sostituto adeguato dei dati controllati e dei requisiti dimensionali.",
   "The matching tool.": "Lo strumento di abbinamento.",
@@ -2784,7 +2784,7 @@
   "Titanium grades are considered where mass, corrosion exposure and required mechanical properties justify a grade-specific manufacturing and verification plan.": "I gradi di titanio vengono presi in considerazione laddove la massa, l'esposizione alla corrosione e le proprietà meccaniche richieste giustificano un piano di produzione e verifica specifico per il grado.",
   "To a verified requirement.": "Ad un requisito verificato.",
   "Tolerance and inspection": "Tolleranza e ispezione",
-  "Too many submissions. Please try later or email engineer@zufek.com.": "Troppe iscrizioni. Riprova più tardi o invia un'e-mail a engineer@zufek.com.",
+  "Too many submissions. Please try later or email info@zufek.net.": "Troppe iscrizioni. Riprova più tardi o invia un'e-mail a info@zufek.net.",
   "Tool access and effective engagement": "Accesso agli strumenti e coinvolgimento efficace",
   "Tool access or captured-head location": "Accesso allo strumento o posizione della testa catturata",
   "Tool interface": "Interfaccia dello strumento",
@@ -3032,7 +3032,7 @@
   "directly.": "direttamente.",
   "e.g. 50 samples, then 5,000 pieces": "ad es. 50 campioni, quindi 5,000 pezzi",
   "eccentric & angled head screws": "viti a testa eccentrica e angolata",
-  "engineer@zufek.com ↗": "engineer@zufek.com ↗",
+  "info@zufek.net ↗": "info@zufek.net ↗",
   "engineering discussion.": "discussione di ingegneria.",
   "explains processing and retention. These rights do not require a purchase or a marketing subscription.": "spiega l'elaborazione e la conservazione. Questi diritti non richiedono un acquisto o un abbonamento di marketing.",
   "explains why the mating pair and contact conditions matter. The material pages provide grade- and condition-specific strength references.": "spiega perché la coppia di accoppiamento e le condizioni di contatto sono importanti. Le pagine dei materiali forniscono riferimenti di resistenza specifici per grado e condizione.",
@@ -3125,5 +3125,6 @@
   "PRECISION": "PRECISION",
   "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — Viti metalliche su disegno",
   "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
-  "ZUFEK PRECISION": "ZUFEK PRECISION"
+  "ZUFEK PRECISION": "ZUFEK PRECISION",
+  "info@zufek.net": "info@zufek.net"
 }

@@ -2,7 +2,7 @@ const escape=s=>String(s).replaceAll('&','&amp;').replaceAll('"','&quot;').repla
 export function enrichPageGraph({graph,schema,url,origin,title,description,body}){
  const imagePath=body.match(/<img[^>]+src="(\/images\/[^"?]+)(?:\?[^\"]*)?"/)?.[1]??'/images/custom-screws.webp';
  const image=origin+imagePath,organization=graph.find(s=>s['@type']==='Organization');
- if(organization)Object.assign(organization,{logo:{'@type':'ImageObject',url:origin+'/brand/zufek-symbol.webp',width:512,height:512},contactPoint:{'@type':'ContactPoint',contactType:'sales and engineering inquiries',email:'engineer@zufek.com'}});
+ if(organization)Object.assign(organization,{logo:{'@type':'ImageObject',url:origin+'/brand/zufek-symbol.webp',width:512,height:512},contactPoint:{'@type':'ContactPoint',contactType:'sales and engineering inquiries',email:'info@zufek.net'}});
  const breadcrumb=graph.find(s=>s['@type']==='BreadcrumbList');if(breadcrumb)breadcrumb['@id']=origin+url+'#breadcrumb';
  const page=graph.find(s=>s['@type']==='CollectionPage');
  const common={'@id':origin+url+'#webpage',url:origin+url,name:title,description,inLanguage:'en',isPartOf:{'@id':origin+'/#website'},publisher:{'@id':origin+'/#organization'},primaryImageOfPage:{'@type':'ImageObject',url:image},...(breadcrumb?{breadcrumb:{'@id':breadcrumb['@id']}}:{})};

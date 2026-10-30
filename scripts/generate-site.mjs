@@ -30,7 +30,7 @@ const canonicalUrl=new URL(configuredOrigin);
 if(!(canonicalUrl.protocol==='https:'||process.env.ZUFEK_DOCKER_BUILD==='1'&&canonicalUrl.protocol==='http:')||canonicalUrl.username||canonicalUrl.password||canonicalUrl.search||canonicalUrl.hash||canonicalUrl.pathname!=='/')throw new Error('canonicalOrigin must be an HTTPS origin (or HTTP in the independent Docker build) without a path, credentials or query.');
 const origin=canonicalUrl.origin;
 const brand='ZUFEK';
-const email='engineer@zufek.com';
+const email='info@zufek.net';
 const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 export const products=[
  {slug:'custom-screws',name:'Custom Metal Screws',tag:'BUILT AROUND YOUR DRAWING',desc:'Non-standard screw designs with head, drive, thread and length requirements defined by your application.',shape:0},

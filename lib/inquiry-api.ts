@@ -25,7 +25,7 @@ export async function retryNotifications(limit=10){
   }catch(error){const delay=Math.min(86400000,60000*2**Math.min(r.attempts,10));await db().prepare('UPDATE inquiries SET attempts=attempts+1,next_attempt=?,notification_error=? WHERE id=?').bind(Date.now()+delay,error instanceof Error?error.message.slice(0,180):'发送失败，等待重试',r.id).run();}}}
   if(config.autoReply&&r.created_at>=(config.autoReplySince||new Date().toISOString())&&!r.ack_notified_at&&r.ack_next_attempt<=now){const locked=await db().prepare('UPDATE inquiries SET ack_next_attempt=? WHERE id=? AND ack_notified_at IS NULL AND ack_next_attempt<=?').bind(now+120000,r.id,now).run();if(locked.meta.changes){try{
    const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(r.email.toLowerCase()+':'+new Date().toISOString().slice(0,10)));const key='ack:'+Array.from(new Uint8Array(digest)).map(x=>x.toString(16).padStart(2,'0')).join('');const quota=await db().prepare('INSERT INTO rate_limits (key,count,expires) VALUES (?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1 RETURNING count').bind(key,now+86400000).first<{count:number}>();if((quota?.count??0)>3){await db().prepare('UPDATE inquiries SET ack_next_attempt=?,ack_error=? WHERE id=?').bind(now+86400000,'访客邮箱当日自动确认次数已达上限',r.id).run();continue;}
-   await deliverMail(config,{to:[r.email],replyTo:config.to.split(',')[0].trim(),subject:translate('Your inquiry has been received',r.language)+' — '+r.id,idempotency:`inquiry/${r.id}/ack`,text:translate('Thank you for contacting ZUFEK. Your inquiry has been saved with reference {id}. Our team will review your requirements and follow up. This confirms receipt only; it is not a quotation or order acceptance. For updates, reply with this reference.',r.language,{id:r.id})+'\n\nDONGGUAN ZUFEK PRECISION CO., LTD.\nengineer@zufek.com'});
+   await deliverMail(config,{to:[r.email],replyTo:config.to.split(',')[0].trim(),subject:translate('Your inquiry has been received',r.language)+' — '+r.id,idempotency:`inquiry/${r.id}/ack`,text:translate('Thank you for contacting ZUFEK. Your inquiry has been saved with reference {id}. Our team will review your requirements and follow up. This confirms receipt only; it is not a quotation or order acceptance. For updates, reply with this reference.',r.language,{id:r.id})+'\n\nDONGGUAN ZUFEK PRECISION CO., LTD.\ninfo@zufek.net'});
    await db().prepare('UPDATE inquiries SET ack_notified_at=?,ack_attempts=ack_attempts+1,ack_error=NULL WHERE id=?').bind(new Date().toISOString(),r.id).run();
   }catch(error){await db().prepare('UPDATE inquiries SET ack_attempts=ack_attempts+1,ack_next_attempt=?,ack_error=? WHERE id=?').bind(now+Math.min(86400000,60000*2**Math.min(r.ack_attempts,10)),error instanceof Error?error.message.slice(0,180):'自动确认发送失败',r.id).run();}}}
  }
@@ -46,7 +46,7 @@ export async function submitInquiry(request:Request){
   if(existing){if(existing.email!==email)return fail('Submission reference conflict. Reload the form.',409);return json({id:existing.id,saved:true});}
   const source=request.headers.get('CF-Connecting-IP')??'local';const hour=Math.floor(Date.now()/3600000);const raw=new TextEncoder().encode(source+':'+hour);const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',raw))).map(b=>b.toString(16).padStart(2,'0')).join('');
   const count=await db().prepare('INSERT INTO rate_limits (key,count,expires) VALUES (?,1,?) ON CONFLICT(key) DO UPDATE SET count=count+1 RETURNING count').bind(hash,Date.now()+7200000).first<{count:number}>();
-  if((count?.count??0)>12)return fail('Too many submissions. Please try later or email engineer@zufek.com.',429);
+  if((count?.count??0)>12)return fail('Too many submissions. Please try later or email info@zufek.net.',429);
   await db().prepare('DELETE FROM rate_limits WHERE expires < ?').bind(Date.now()).run();
   const id='ZF-'+new Date().toISOString().slice(0,10).replaceAll('-','')+'-'+crypto.randomUUID().slice(0,8).toUpperCase();
   const file=data.get('drawing');let fileKey:string|null=null;let fileName:string|null=null;
@@ -70,7 +70,7 @@ export async function submitInquiry(request:Request){
   }
   if(hasAnalyticsConsent(request)){try{const attribution=cleanAttribution(JSON.parse(value('attribution')||'null'));if(attribution){await db().prepare('UPDATE inquiries SET attribution=? WHERE id=?').bind(JSON.stringify(attribution),id).run();await countAnalytics(request,attribution.landing,'inquiry',attribution.source||attribution.referrer||'Direct / unknown');}}catch{/* Saved inquiry is never rolled back for attribution failure. */}}
   return json({id,saved:true},201);
- }catch{return fail('The inquiry could not be confirmed. Retry with the same details, or email engineer@zufek.com.',503);}
+ }catch{return fail('The inquiry could not be confirmed. Retry with the same details, or email info@zufek.net.',503);}
 }
 export async function adminAPI(request:Request,action:string){
  if(!request.headers.get('oai-authenticated-user-id'))return fail('Sign in with an authorized team account.',401);

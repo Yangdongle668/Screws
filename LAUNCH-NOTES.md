@@ -4,13 +4,13 @@ Public pages are complete pre-generated HTML. Run `node scripts/generate-site.mj
 
 ## Configured
 - Company: DONGGUAN ZUFEK PRECISION CO., LTD.
-- Contact and notification recipient: engineer@zufek.com
-- Admin allowlist: engineer@zufek.com (authenticated ChatGPT email; modify ADMIN_EMAILS if the operator uses another account).
+- Contact and notification recipient: info@zufek.net
+- Admin allowlist: info@zufek.net (authenticated ChatGPT email; modify ADMIN_EMAILS if the operator uses another account).
 - D1 inquiry records and R2 drawings. Only authenticated allowlisted users can read records, download drawings or update status.
 
 ## Required before business launch
 1. Add real product/factory images and verify every product family, technical article and manufacturing statement with the company. Existing screw illustrations are explicitly illustrative.
-2. Configure RESEND_API_KEY and MAIL_FROM using a verified sending domain. Complete domain verification (SPF/DKIM; align DMARC as appropriate). Redeploy to apply runtime configuration. Test actual delivery to engineer@zufek.com; API acceptance alone is not inbox delivery.
+2. Configure RESEND_API_KEY and MAIL_FROM using a verified sending domain. Complete domain verification (SPF/DKIM; align DMARC as appropriate). Redeploy to apply runtime configuration. Test actual delivery to info@zufek.net; API acceptance alone is not inbox delivery.
 3. Pending notifications are durable. The Worker retries a bounded batch after submissions and admin requests. Manual retry is available in the admin. No unattended retry schedule is configured. Configure a scheduled service before relying on periodic retries or overdue reminders when there is no traffic.
 4. Provider delivery/bounce webhooks are not implemented; current notification state tracks API acceptance or request failure only.
 5. CSV export is available, but independent automated database/drawing backup and restore verification are not yet configured. An export of inquiry fields does not back up the drawing files.

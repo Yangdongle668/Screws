@@ -1781,7 +1781,7 @@
   "No inquiries in this view.": "此视图中没有查询。",
   "No matching articles. Try another topic or category.": "没有匹配的文章。尝试其他主题或类别。",
   "No matching families. Try another term or send your drawing for review.": "没有匹配的家庭。尝试其他术语或发送您的工程图以供审核。",
-  "No success confirmation has been received. Retry with the same details, or email engineer@zufek.com. If a previous attempt was saved, retrying returns its reference.": "尚未收到成功确认信息。使用相同的详细信息重试，或发送电子邮件至engineer@zufek.com。如果保存了先前的尝试，重试将返回其引用。",
+  "No success confirmation has been received. Retry with the same details, or email info@zufek.net. If a previous attempt was saved, retrying returns its reference.": "尚未收到成功确认信息。使用相同的详细信息重试，或发送电子邮件至info@zufek.net。如果保存了先前的尝试，重试将返回其引用。",
   "No universal size, tolerance, material or lead-time claim is implied.": "不暗示通用尺寸、公差、材料或交货时间声明。",
   "No. Available options must be confirmed for your actual part. Read our": "否。必须针对您的实际零件确认可用选项。阅读我们的",
   "No. Compare the bearing geometry, joint function and installation conditions before replacing a washer with an integral flange.": "否。在用整体法兰更换垫圈之前，请比较轴承几何形状、接头功能和安装条件。",
@@ -2659,7 +2659,7 @@
   "The flange bears on the cover. Usable thread engagement and blind-hole depth are reviewed together so the screw seats before bottoming. Schematic only, not to scale. The geometry is not a released drawing.": "法兰压在盖上。配合部分中可用的螺纹旋合和盲孔深度一起进行检查，以便螺钉在触底之前就位。仅示意图，未按比例绘制。该几何图形不是已发布的工程图。",
   "The guides help engineers and sourcing teams prepare clearer drawings and RFQs. Topics include shoulder and bore requirements, special drives, manufacturing routes, final material condition, surface treatment and acceptance planning.": "这些指南帮助工程师和采购团队准备更清晰的图纸和询价。主题包括肩部和孔要求、特殊驱动装置、制造路线、最终材料状况、表面处理和验收计划。",
   "The hosting platform may use necessary authentication cookies when sign-in is required, including restricted previews and administration. These are managed by the platform; actual names and durations depend on its authentication session.": "需要登录时，托管平台可能会使用必要的身份验证 cookie，包括限制预览和管理。这些都是由平台管理的；实际名称和持续时间取决于其身份验证会话。",
-  "The inquiry could not be confirmed. Retry with the same details, or email engineer@zufek.com.": "调查未能得到证实。使用相同的详细信息重试，或发送电子邮件至 engineer@zufek.com。",
+  "The inquiry could not be confirmed. Retry with the same details, or email info@zufek.net.": "调查未能得到证实。使用相同的详细信息重试，或发送电子邮件至 info@zufek.net。",
   "The inquiry retry identifier exists in page memory, not a tracking cookie. Contact fields and drawings are not saved to localStorage. Optional attribution is stored separately only after consent. Server-side inquiry records are described in the": "查询重试标识符存在于页面存储器中，而不是跟踪cookie。联系人字段和绘图不会保存到 localStorage。可选归属仅在同意后才单独存储。服务器端查询记录的描述见",
   "The inspection plan should establish the same reference features used in the design. Discuss the practical measurement of offset, form and orientation before production. A photograph can illustrate the concept but is not an adequate substitute for controlled datum and dimensional requirements.": "检查计划应建立与设计中使用的相同参考特征。讨论生产前偏移、形状和方向的实际测量。照片可以说明这一概念，但不足以替代受控基准和尺寸要求。",
   "The matching tool.": "匹配工具。",
@@ -2765,7 +2765,7 @@
   "Titanium grades are considered where mass, corrosion exposure and required mechanical properties justify a grade-specific manufacturing and verification plan.": "钛及钛合金可用于兼顾重量、耐腐蚀性和机械性能的零件。应明确具体牌号，并评估加工与检测方案。",
   "To a verified requirement.": "达到已验证的要求。",
   "Tolerance and inspection": "公差与检验",
-  "Too many submissions. Please try later or email engineer@zufek.com.": "提交的内容太多。请稍后再试或发送电子邮件至engineer@zufek.com。",
+  "Too many submissions. Please try later or email info@zufek.net.": "提交的内容太多。请稍后再试或发送电子邮件至info@zufek.net。",
   "Tool access and effective engagement": "工具访问和有效参与",
   "Tool access or captured-head location": "工具访问或捕获头位置",
   "Tool interface": "槽型与工具配合",
@@ -3013,7 +3013,7 @@
   "directly.": "直接。",
   "e.g. 50 samples, then 5,000 pieces": "例如50 样品，然后5,000 件",
   "eccentric & angled head screws": "偏心和角头螺钉",
-  "engineer@zufek.com ↗": "engineer@zufek.com↗",
+  "info@zufek.net ↗": "info@zufek.net↗",
   "engineering discussion.": "工程讨论。",
   "explains processing and retention. These rights do not require a purchase or a marketing subscription.": "解释处理和保留。这些权利不需要购买或营销订阅。",
   "explains why the mating pair and contact conditions matter. The material pages provide grade- and condition-specific strength references.": "解释了为什么配合对和接触条件很重要。材料页面提供了特定等级和条件的强度参考。",
@@ -3131,5 +3131,6 @@
   "PRECISION": "PRECISION",
   "ZUFEK PRECISION — Custom Metal Screws": "ZUFEK PRECISION — 非标金属螺丝",
   "DONGGUAN ZUFEK PRECISION CO., LTD.": "DONGGUAN ZUFEK PRECISION CO., LTD.",
-  "ZUFEK PRECISION": "ZUFEK PRECISION"
+  "ZUFEK PRECISION": "ZUFEK PRECISION",
+  "info@zufek.net": "info@zufek.net"
 }

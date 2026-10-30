@@ -33,7 +33,7 @@ ADMIN_PASSWORD_HASH=$hash
 SESSION_SECRET=${generated[0]}
 MAIL_CONFIG_KEY=${generated[1]}
 LOCAL_SMTP_TOKEN=${generated[2]}
-INQUIRY_TO=engineer@zufek.com
+INQUIRY_TO=info@zufek.net
 EOF
   unset secrets generated hash
   chmod 600 .env.docker
