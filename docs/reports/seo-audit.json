@@ -1568,7 +1568,7 @@
       "description": "Carbon & Alloy Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "titleCharacters": 59,
       "descriptionCharacters": 111,
-      "bodyWords": 700,
+      "bodyWords": 989,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1582,7 +1582,7 @@
       "description": "10B21 Boron Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "titleCharacters": 56,
       "descriptionCharacters": 108,
-      "bodyWords": 672,
+      "bodyWords": 923,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1596,7 +1596,7 @@
       "description": "SUS304 & SUS316 Stainless Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "titleCharacters": 70,
       "descriptionCharacters": 122,
-      "bodyWords": 739,
+      "bodyWords": 1059,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1610,7 +1610,7 @@
       "description": "Aluminum Alloys strength references, application considerations and RFQ requirements for custom fasteners.",
       "titleCharacters": 54,
       "descriptionCharacters": 106,
-      "bodyWords": 716,
+      "bodyWords": 975,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1624,7 +1624,7 @@
       "description": "Copper strength references, application considerations and RFQ requirements for custom fasteners.",
       "titleCharacters": 45,
       "descriptionCharacters": 97,
-      "bodyWords": 679,
+      "bodyWords": 951,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1638,7 +1638,7 @@
       "description": "Brass strength references, application considerations and RFQ requirements for custom fasteners.",
       "titleCharacters": 44,
       "descriptionCharacters": 96,
-      "bodyWords": 692,
+      "bodyWords": 955,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1652,7 +1652,7 @@
       "description": "Titanium & Titanium Alloys strength references, application considerations and RFQ requirements for custom fasteners.",
       "titleCharacters": 65,
       "descriptionCharacters": 117,
-      "bodyWords": 695,
+      "bodyWords": 951,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9625,7 +9625,7 @@
       "description": "Referenzen zur Festigkeit von Kohlenstoff- und legiertem Stahl, Anwendungsüberlegungen und RFQ-Anforderungen für kundenspezifische Verbindungselemente.",
       "titleCharacters": 100,
       "descriptionCharacters": 151,
-      "bodyWords": 685,
+      "bodyWords": 982,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9639,7 +9639,7 @@
       "description": "Referencias de resistencia del acero al carbono y aleado, consideraciones de aplicación y requisitos de RFQ para sujetadores personalizados.",
       "titleCharacters": 81,
       "descriptionCharacters": 140,
-      "bodyWords": 915,
+      "bodyWords": 1271,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9653,7 +9653,7 @@
       "description": "Riferimenti sulla resistenza dell'acciaio al carbonio e legato, considerazioni sull'applicazione e requisiti RFQ per elementi di fissaggio personalizzati.",
       "titleCharacters": 80,
       "descriptionCharacters": 154,
-      "bodyWords": 881,
+      "bodyWords": 1221,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9667,7 +9667,7 @@
       "description": "定制紧固件的碳钢和合金钢强度参考、应用注意事项和询价要求。",
       "titleCharacters": 26,
       "descriptionCharacters": 29,
-      "bodyWords": 98,
+      "bodyWords": 143,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9681,7 +9681,7 @@
       "description": "Références de résistance en acier au carbone et allié, considérations d'application et exigences RFQ pour les fixations personnalisées.",
       "titleCharacters": 85,
       "descriptionCharacters": 135,
-      "bodyWords": 956,
+      "bodyWords": 1321,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9695,7 +9695,7 @@
       "description": "10B21 Festigkeitsreferenzen für Borstahl, Anwendungsüberlegungen und RFQ-Anforderungen für kundenspezifische Verbindungselemente.",
       "titleCharacters": 88,
       "descriptionCharacters": 129,
-      "bodyWords": 672,
+      "bodyWords": 929,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9709,7 +9709,7 @@
       "description": "Referencias de resistencia del acero al boro 10B21, consideraciones de aplicación y requisitos de RFQ para sujetadores personalizados.",
       "titleCharacters": 75,
       "descriptionCharacters": 134,
-      "bodyWords": 886,
+      "bodyWords": 1193,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9723,7 +9723,7 @@
       "description": "Riferimenti sulla resistenza dell'acciaio al boro 10B21, considerazioni sull'applicazione e requisiti RFQ per elementi di fissaggio personalizzati.",
       "titleCharacters": 73,
       "descriptionCharacters": 147,
-      "bodyWords": 845,
+      "bodyWords": 1155,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9737,7 +9737,7 @@
       "description": "10B21 硼钢强度参考、应用注意事项和定制紧固件的询价要求。",
       "titleCharacters": 28,
       "descriptionCharacters": 31,
-      "bodyWords": 92,
+      "bodyWords": 123,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9751,7 +9751,7 @@
       "description": "10B21 Références de résistance de l'acier au bore, considérations d'application et exigences de demande de prix pour les fixations personnalisées.",
       "titleCharacters": 79,
       "descriptionCharacters": 146,
-      "bodyWords": 916,
+      "bodyWords": 1247,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9765,7 +9765,7 @@
       "description": "SUS304 & SUS316 Referenzen zur Festigkeit von Edelstahl, Anwendungsüberlegungen und RFQ-Anforderungen für kundenspezifische Verbindungselemente.",
       "titleCharacters": 91,
       "descriptionCharacters": 144,
-      "bodyWords": 742,
+      "bodyWords": 1076,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9779,7 +9779,7 @@
       "description": "SUS304 y SUS316 Referencias de resistencia del acero inoxidable, consideraciones de aplicación y requisitos de RFQ para sujetadores personalizados.",
       "titleCharacters": 88,
       "descriptionCharacters": 147,
-      "bodyWords": 943,
+      "bodyWords": 1344,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9793,7 +9793,7 @@
       "description": "SUS304 e SUS316 Riferimenti sulla resistenza dell'acciaio inossidabile, considerazioni sull'applicazione e requisiti RFQ per elementi di fissaggio personalizzati.",
       "titleCharacters": 88,
       "descriptionCharacters": 162,
-      "bodyWords": 895,
+      "bodyWords": 1287,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9807,7 +9807,7 @@
       "description": "SUS304 和 SUS316 定制紧固件的不锈钢强度参考、应用注意事项和询价要求。",
       "titleCharacters": 39,
       "descriptionCharacters": 42,
-      "bodyWords": 137,
+      "bodyWords": 200,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9821,7 +9821,7 @@
       "description": "SUS304 et SUS316 Références de résistance de l'acier inoxydable, considérations d'application et exigences de demande de prix pour les fixations personnalisées.",
       "titleCharacters": 92,
       "descriptionCharacters": 160,
-      "bodyWords": 976,
+      "bodyWords": 1401,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9835,7 +9835,7 @@
       "description": "Referenzen zur Festigkeit von Aluminiumlegierungen, Anwendungsüberlegungen und RFQ-Anforderungen für kundenspezifische Verbindungselemente.",
       "titleCharacters": 93,
       "descriptionCharacters": 139,
-      "bodyWords": 723,
+      "bodyWords": 994,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9849,7 +9849,7 @@
       "description": "Referencias de resistencia de aleaciones de aluminio, consideraciones de aplicación y requisitos de RFQ para sujetadores personalizados.",
       "titleCharacters": 78,
       "descriptionCharacters": 136,
-      "bodyWords": 907,
+      "bodyWords": 1237,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9863,7 +9863,7 @@
       "description": "Riferimenti sulla resistenza delle leghe di alluminio, considerazioni sull'applicazione e requisiti RFQ per elementi di fissaggio personalizzati.",
       "titleCharacters": 70,
       "descriptionCharacters": 145,
-      "bodyWords": 863,
+      "bodyWords": 1198,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9877,7 +9877,7 @@
       "description": "定制紧固件的铝合金强度参考、应用注意事项和询价要求。",
       "titleCharacters": 23,
       "descriptionCharacters": 26,
-      "bodyWords": 103,
+      "bodyWords": 140,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9891,7 +9891,7 @@
       "description": "Références de résistance des alliages d'aluminium, considérations d'application et exigences de demande de prix pour les fixations personnalisées.",
       "titleCharacters": 80,
       "descriptionCharacters": 146,
-      "bodyWords": 929,
+      "bodyWords": 1272,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9905,7 +9905,7 @@
       "description": "Referenzen zur Kupferfestigkeit, Anwendungsüberlegungen und RFQ-Anforderungen für kundenspezifische Verbindungselemente.",
       "titleCharacters": 80,
       "descriptionCharacters": 120,
-      "bodyWords": 707,
+      "bodyWords": 992,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9919,7 +9919,7 @@
       "description": "Referencias de resistencia del cobre, consideraciones de aplicación y requisitos de RFQ para sujetadores personalizados.",
       "titleCharacters": 61,
       "descriptionCharacters": 120,
-      "bodyWords": 878,
+      "bodyWords": 1218,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9933,7 +9933,7 @@
       "description": "Riferimenti sulla resistenza del rame, considerazioni sull'applicazione e requisiti RFQ per elementi di fissaggio personalizzati.",
       "titleCharacters": 56,
       "descriptionCharacters": 129,
-      "bodyWords": 825,
+      "bodyWords": 1154,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9947,7 +9947,7 @@
       "description": "定制紧固件的铜强度参考、应用注意事项和询价要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 24,
-      "bodyWords": 88,
+      "bodyWords": 124,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9961,7 +9961,7 @@
       "description": "Références de résistance du cuivre, considérations d'application et exigences de demande de prix pour les fixations personnalisées.",
       "titleCharacters": 66,
       "descriptionCharacters": 131,
-      "bodyWords": 898,
+      "bodyWords": 1250,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9975,7 +9975,7 @@
       "description": "Referenzen zur Messingfestigkeit, Anwendungsüberlegungen und RFQ-Anforderungen für kundenspezifische Verbindungselemente.",
       "titleCharacters": 71,
       "descriptionCharacters": 121,
-      "bodyWords": 681,
+      "bodyWords": 951,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -9989,7 +9989,7 @@
       "description": "Referencias de resistencia del latón, consideraciones de aplicación y requisitos de RFQ para sujetadores personalizados.",
       "titleCharacters": 61,
       "descriptionCharacters": 120,
-      "bodyWords": 886,
+      "bodyWords": 1217,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10003,7 +10003,7 @@
       "description": "Riferimenti sulla resistenza dell'ottone, considerazioni sull'applicazione e requisiti RFQ per elementi di fissaggio personalizzati.",
       "titleCharacters": 58,
       "descriptionCharacters": 132,
-      "bodyWords": 830,
+      "bodyWords": 1159,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10017,7 +10017,7 @@
       "description": "定制紧固件的黄铜强度参考、应用注意事项和询价要求。",
       "titleCharacters": 23,
       "descriptionCharacters": 25,
-      "bodyWords": 96,
+      "bodyWords": 128,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10031,7 +10031,7 @@
       "description": "Références de résistance du laiton, considérations d’application et exigences RFQ pour les fixations personnalisées.",
       "titleCharacters": 66,
       "descriptionCharacters": 116,
-      "bodyWords": 897,
+      "bodyWords": 1253,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10045,7 +10045,7 @@
       "description": "Festigkeitsreferenzen zu Titan und Titanlegierungen, Anwendungsüberlegungen und RFQ-Anforderungen für kundenspezifische Verbindungselemente.",
       "titleCharacters": 94,
       "descriptionCharacters": 140,
-      "bodyWords": 679,
+      "bodyWords": 940,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10059,7 +10059,7 @@
       "description": "Referencias de resistencia del titanio y las aleaciones de titanio, consideraciones de aplicación y requisitos de RFQ para sujetadores personalizados.",
       "titleCharacters": 87,
       "descriptionCharacters": 150,
-      "bodyWords": 896,
+      "bodyWords": 1205,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10073,7 +10073,7 @@
       "description": "Riferimenti sulla resistenza del titanio e delle leghe di titanio, considerazioni sull'applicazione e requisiti RFQ per elementi di fissaggio personalizzati.",
       "titleCharacters": 78,
       "descriptionCharacters": 157,
-      "bodyWords": 842,
+      "bodyWords": 1151,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10087,7 +10087,7 @@
       "description": "定制紧固件的钛及钛合金强度参考、应用注意事项和询价要求。",
       "titleCharacters": 25,
       "descriptionCharacters": 28,
-      "bodyWords": 103,
+      "bodyWords": 144,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -10101,7 +10101,7 @@
       "description": "Références de résistance du titane et des alliages de titane, considérations d'application et exigences de demande de prix pour les fixations personnalisées.",
       "titleCharacters": 88,
       "descriptionCharacters": 157,
-      "bodyWords": 926,
+      "bodyWords": 1247,
       "types": [
         "Organization",
         "BreadcrumbList",

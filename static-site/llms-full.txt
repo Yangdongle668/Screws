@@ -10120,6 +10120,28 @@ Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Sc
 
 Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part.
 
+#### Compare grades and delivery conditions
+
+A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review.
+
+Grade or specified condition What distinguishes it When to consider it What to confirm before ordering
+
+C45 / C45E Medium-carbon steel; order the actual EN grade and delivery condition. Machined shoulders, stops and general mechanical parts where specified heat treatment is appropriate. Compare normalized, annealed and quenched-and-tempered conditions. Similar designation lists do not authorize a substitution.
+
+42CrMo4 Chromium-molybdenum steel used for quenching and tempering. Loaded threaded components where strength, toughness and section size justify alloy steel. Hardenability and section size matter. Do not infer a finished 10.9 or 12.9 class from the grade alone.
+
+SAE 4140 Specify the SAE grade and governing stock specification explicitly. A drawing-defined alternative to evaluate when the original drawing uses SAE material designations. Related to the chromium-molybdenum family, but not automatically interchangeable with every 42CrMo4 variant.
+
+##### How to narrow the choice
+
+For a machined locating part, start with the required wear surface and final condition. For a loaded fastening part, start with the finished mechanical requirements and applicable fastener standard; then review grade, section size, route and coating together.
+
+##### Write an unambiguous material requirement
+
+Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
+
+If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
+
 #### Why consider this family?
 
 Broad choice of grades and final mechanical conditions
@@ -10157,6 +10179,10 @@ Automotive Components ↗ Industrial Automation ↗ General Machinery & Equipmen
 ##### Material reference sources
 
 Bossard: steel fastener property classes ↗
+
+Ovako: C45 grade and variants ↗
+
+Ovako: 42CrMo4 grade, section effects and variants ↗
 
 #### Choose material and finished strength together
 
@@ -10214,6 +10240,28 @@ Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Sc
 10B21 in the required final condition Specify for the order Specify for the order Forming, heat treatment and final requirements determine the supplied properties.
 
 Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part.
+
+#### Compare grades and delivery conditions
+
+A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review.
+
+Grade or specified condition What distinguishes it When to consider it What to confirm before ordering
+
+10B21 — forming stock State the wire specification and forming condition. Cold-heading route review for repeat quantities. Wire condition is not the final screw condition; request material identification and agreed forming quality.
+
+10B21 — final heat-treated part State final core properties and the required verification. Parts where the approved route includes heat treatment. Do not assume a strength class or prescribe carburizing from the grade name.
+
+10B21 — case requirements, if specified State surface/core requirements separately. Only where the drawing calls for an appropriate hardened surface. Agree hardness, case requirements and inspection method; this is not a separate material grade.
+
+##### How to narrow the choice
+
+These rows describe different order conditions of one grade, not three interchangeable grades. Choose 10B21 only after the supplier reviews the geometry, required final properties and complete treatment route.
+
+##### Write an unambiguous material requirement
+
+Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
+
+If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
 
 #### Why consider this family?
 
@@ -10312,6 +10360,32 @@ ISO 3506 class 80 reference 800 minimum 600 minimum Applicable austenitic fasten
 
 Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part.
 
+#### Compare grades and delivery conditions
+
+A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review.
+
+Grade or specified condition What distinguishes it When to consider it What to confirm before ordering
+
+304 / SUS304 General-purpose austenitic stainless; specify the governing standard. General equipment and enclosure fasteners in suitable environments. Not corrosion-proof; review exposure, galling and final fastener class.
+
+304L / SUS304L Lower-carbon variant of the 304 family. Consider when welding or fabrication-related corrosion requirements call for it. The L suffix does not mean a higher strength class.
+
+316 / SUS316 Molybdenum-bearing austenitic stainless. Consider when the exposure assessment calls for improved resistance over 304. Chloride concentration, temperature and crevices still require review.
+
+316L / SUS316L Lower-carbon variant of the 316 family. Consider where fabrication or welding requirements justify the lower-carbon grade. Specify grade and final condition rather than assuming every 316 part is 316L.
+
+303 Free-machining austenitic grade. Turned parts where machining productivity is important and corrosion requirements permit it. Do not substitute for 304 or 316 without assessing corrosion and fabrication requirements.
+
+##### How to narrow the choice
+
+Start with the exposure and fabrication requirements, then assess manufacturing and assembly. A2/A4 fastener groups are not universal synonyms for a specific JIS or ASTM grade. Order the exact grade plus the applicable finished fastener class; passivation does not upgrade 304 into 316.
+
+##### Write an unambiguous material requirement
+
+Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
+
+If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
+
 #### Why consider this family?
 
 Useful for corrosion-exposed equipment and accessible exterior hardware
@@ -10351,6 +10425,10 @@ Security & Access Equipment ↗ Electronics & Optical Equipment ↗ Fluid Contro
 Bossard: stainless fastener mechanical properties ↗
 
 BSSA: stainless family selection ↗
+
+Outokumpu: austenitic stainless grade families ↗
+
+thyssenkrupp: stainless machining and fabrication comparison ↗
 
 #### Choose material and finished strength together
 
@@ -10411,6 +10489,28 @@ Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Sc
 
 Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part.
 
+#### Compare grades and delivery conditions
+
+A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review.
+
+Grade or specified condition What distinguishes it When to consider it What to confirm before ordering
+
+6061-T6 / T6511 Alloy plus temper and product form must be stated. Lightweight machined adjustment or enclosure components. T6511 is a stock temper designation, not a general finished-screw strength guarantee.
+
+6082-T6 / T6511 A different alloy with its own product-size property tables. Machined components where its specified stock properties suit the design. Do not substitute using one headline strength number; check section, condition and dimensional stability.
+
+6061 or 6082 in another temper The alloy number stays the same while condition changes. Forming or fabrication routes that require a different supplied condition. Properties quoted for T6 stock cannot be assigned to unspecified or annealed stock.
+
+##### How to narrow the choice
+
+Specify alloy, temper and bar or extrusion specification before comparing strength. Review thread engagement, bearing surfaces, anodizing allowance and mating-metal corrosion as separate joint-design questions.
+
+##### Write an unambiguous material requirement
+
+Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
+
+If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
+
 #### Why consider this family?
 
 Lower component mass than an equivalent-volume steel part
@@ -10450,6 +10550,8 @@ Electronics & Optical Equipment ↗ Industrial Automation ↗
 Hydro: 6061 extruded alloy data ↗
 
 Hydro: 6082 extruded alloy data ↗
+
+Hydro: alloy data sheets and temper-specific references ↗
 
 #### Choose material and finished strength together
 
@@ -10508,6 +10610,28 @@ C11000, H02 half-hard reference Approximately 290 typical Specify for the select
 
 Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part.
 
+#### Compare grades and delivery conditions
+
+A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review.
+
+Grade or specified condition What distinguishes it When to consider it What to confirm before ordering
+
+C11000 — ETP copper Electrolytic tough-pitch copper. Conductive components where the specified electrical and mechanical requirements suit this grade. Order temper and electrical acceptance separately; do not infer joint contact resistance from bulk conductivity.
+
+C10100 — oxygen-free electronic copper A distinct oxygen-free copper designation. Consider when the application explicitly requires its material specification. Not simply a premium substitute for every copper screw; verify need, stock form and traceability.
+
+C12200 — phosphorus-deoxidized copper A distinct deoxidized copper grade. Consider for the fabrication conditions identified by the designer. Do not assume the same conductivity as C11000; verify grade-specific electrical requirements.
+
+##### How to narrow the choice
+
+If the component carries current, define the electrical role, contact faces, plating, mating metal and final verification as well as the copper grade. Temper affects mechanical behavior; a copper-family label does not identify a usable strength value.
+
+##### Write an unambiguous material requirement
+
+Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
+
+If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
+
 #### Why consider this family?
 
 Relevant to electrical and thermal interface discussions
@@ -10545,6 +10669,10 @@ Energy, Charging & Storage Equipment ↗ Electronics & Optical Equipment ↗
 ##### Material reference sources
 
 Copper Development Association: copper alloy design guide ↗
+
+Copper Development Association: copper grades and properties ↗
+
+Copper Development Association: alloy data references ↗
 
 #### Choose material and finished strength together
 
@@ -10603,6 +10731,28 @@ C36000 rod, H02 reference 386 typical 310 typical CDA typical rod values; use th
 
 Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part.
 
+#### Compare grades and delivery conditions
+
+A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review.
+
+Grade or specified condition What distinguishes it When to consider it What to confirm before ordering
+
+C36000 — free-cutting brass Leaded free-machining brass. Turned threaded parts when the specification permits this composition. Check lead restrictions for the actual market and end use; do not claim universal compliance.
+
+C26000 — cartridge brass A different copper-zinc composition and forming behavior. Consider where the required fabrication route favors this grade. Not a drop-in replacement for free-cutting brass; review machinability and temper.
+
+Specified low-lead or lead-free brass Require the exact alloy and governing composition limits. Applications with explicitly defined substance or end-use requirements. Lead-free is not a complete grade designation. Verify machining, properties and required documents.
+
+##### How to narrow the choice
+
+Choose brass by exact composition, temper and processing requirements. If lead content matters, put the applicable limit and evidence in the RFQ instead of requesting only environmentally friendly brass.
+
+##### Write an unambiguous material requirement
+
+Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
+
+If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
+
 #### Why consider this family?
 
 Useful for custom turned profiles and threaded details
@@ -10642,6 +10792,10 @@ Fluid Control & Pneumatic Equipment ↗ Electronics & Optical Equipment ↗
 Copper Development Association: brass rod H02 reference properties ↗
 
 CDA: C36000 composition and condition ↗
+
+Copper Development Association: brass rod and lead-free selection ↗
+
+Copper Development Association: copper alloy guide ↗
 
 #### Choose material and finished strength together
 
@@ -10702,6 +10856,28 @@ CP Titanium Grade 2 reference Confirm the specified product 275 minimum yield re
 
 Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part.
 
+#### Compare grades and delivery conditions
+
+A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review.
+
+Grade or specified condition What distinguishes it When to consider it What to confirm before ordering
+
+Grade 2 — commercially pure titanium Specify product form and supplied condition. Corrosion-driven components where its mechanical properties meet the design. Not mechanically interchangeable with Ti-6Al-4V.
+
+Grade 5 — Ti-6Al-4V An alloy grade with a different strength and processing basis. Weight-sensitive loaded components where the complete specification justifies it. State condition and acceptance; titanium does not imply aerospace qualification.
+
+Grade 23 — Ti-6Al-4V ELI Extra-low-interstitial variant with a distinct specification. Consider only when the drawing or application requires this variant. Not automatic medical approval; traceability and application qualification are separate requirements.
+
+##### How to narrow the choice
+
+First decide whether commercially pure titanium or an alloy is needed. Then specify the exact grade, product standard, condition, surface requirements and verification. Review thread galling and mating surfaces during assembly planning.
+
+##### Write an unambiguous material requirement
+
+Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
+
+If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
+
 #### Why consider this family?
 
 Useful strength-to-mass considerations for suitable grades
@@ -10741,6 +10917,10 @@ Electronics & Optical Equipment ↗ Industrial Automation ↗ Fluid Control & Pn
 Carpenter: Ti-6Al-4V data sheet ↗
 
 Carpenter: CP titanium Grade 2 data ↗
+
+Carpenter: Ti-6Al-4V alloy data ↗
+
+Carpenter: Ti-6Al-4V ELI data sheet ↗
 
 #### Choose material and finished strength together
 

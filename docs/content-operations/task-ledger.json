@@ -1,5 +1,88 @@
 {
   "schemaVersion": 1,
-  "tasks": [],
-  "note": "No AI jobs have been executed. Repository presence is recorded in inventory.json, not inferred as verified production publication."
+  "tasks": [
+    {
+      "id": "2026-10-30-material-grade-selection",
+      "taskType": "COMMERCIAL_PAGE",
+      "status": "in_review",
+      "intent": "Help buyers distinguish material grades and delivery conditions before selecting custom screw materials.",
+      "gapEvidence": "Seven material detail pages gave family-level descriptions without a consistent grade-by-grade selection table.",
+      "comparedPages": [
+        "/materials/carbon-alloy-steel/",
+        "/materials/10b21-boron-steel/",
+        "/materials/stainless-steel-304-316/",
+        "/materials/aluminum-alloys/",
+        "/materials/copper/",
+        "/materials/brass/",
+        "/materials/titanium-alloys/"
+      ],
+      "artifactPath": "scripts/material-grade-content.mjs",
+      "artifactHash": "3e5628f9ae974ea9143a83649d7e7423bc9f401cc6ecb14913c16a7745aab3b4",
+      "sources": [
+        {
+          "title": "Ovako: C45 grade and variants",
+          "url": "https://steelnavigator.ovako.com/steel-grades/c45/"
+        },
+        {
+          "title": "Ovako: 42CrMo4 grade, section effects and variants",
+          "url": "https://steelnavigator.ovako.com/steel-grades/42crmo4/"
+        },
+        {
+          "title": "Outokumpu: austenitic stainless grade families",
+          "url": "https://www.outokumpu.com/en/products/stainless-steel-types/austenitic-stainless-steel"
+        },
+        {
+          "title": "thyssenkrupp: stainless machining and fabrication comparison",
+          "url": "https://www.thyssenkrupp-materials-na.com/materials/stainless-steel/stainless-steel-machining-data.html"
+        },
+        {
+          "title": "Hydro: alloy data sheets and temper-specific references",
+          "url": "https://www.hydro.com/us/us/aluminum/products/extruded-profiles/north-america-resources/north-america-alloy-data-sheets/"
+        },
+        {
+          "title": "Copper Development Association: copper grades and properties",
+          "url": "https://www.copper.org/publications/pub_list/pdf/a1360.pdf"
+        },
+        {
+          "title": "Copper Development Association: alloy data references",
+          "url": "https://datasheets.copper.org/"
+        },
+        {
+          "title": "Copper Development Association: brass rod and lead-free selection",
+          "url": "https://copper.org/publications/pub_list/pdf/a7052_brass_rod_solutions_for_lead-free_compliance.pdf"
+        },
+        {
+          "title": "Copper Development Association: copper alloy guide",
+          "url": "https://www.copper.org/publications/pub_list/pdf/a1360.pdf"
+        },
+        {
+          "title": "Carpenter: Ti-6Al-4V alloy data",
+          "url": "https://www.carpentertechnology.com/alloy-finder/Ti-6Al-4V"
+        },
+        {
+          "title": "Carpenter: Ti-6Al-4V ELI data sheet",
+          "url": "https://www.carpentertechnology.com/hubfs/Data%20Sheets/20210902--CT_Ti64ELI_Medical_Datasheet_F.pdf"
+        }
+      ],
+      "checks": [
+        "Generated six-language pages",
+        "Multilingual coverage and numerical checks",
+        "Metadata and topology audits"
+      ],
+      "reviewer": "Assistant editorial review; no customer engineering approval claimed",
+      "translations": {
+        "locales": [
+          "de",
+          "es",
+          "it",
+          "zh",
+          "fr"
+        ],
+        "status": "generated; Chinese grade-selection text contextually revised"
+      },
+      "deployedRevision": null,
+      "productionPublication": "not_verified"
+    }
+  ],
+  "note": "Task history records source work; production publication requires separate verification."
 }

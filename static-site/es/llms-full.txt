@@ -10120,6 +10120,28 @@ Grado / condición / base Resistencia a la tracción Rm (MPa) Rendimiento / 0.2%
 
 Los valores se refieren al material indicado o a la clase de sujetador. No son una propiedad certificada ni una capacidad de carga para cada geometría personalizada de ZUFEK. Confirme la especificación aplicable y la condición de prueba para la pieza solicitada.
 
+#### Comparar calidades y condiciones de entrega
+
+Una familia de materiales es un punto de partida, no una especificación completa. Las siguientes opciones son referencias de selección; el suministro y la idoneidad requieren revisión del dibujo.
+
+Grado o condición especificada que lo distingue Cuando considerarlo Qué confirmar antes de realizar el pedido
+
+C45 / C45E Acero de medio carbono; Solicite el grado EN real y las condiciones de entrega. Hombros mecanizados, topes y piezas mecánicas en general donde el tratamiento térmico especificado sea apropiado. Compare las condiciones normalizadas, recocidas y templadas y revenidas. Las listas de designaciones similares no autorizan una sustitución.
+
+42CrMo4 Acero al cromo-molibdeno utilizado para templado y revenido. Componentes roscados cargados donde la resistencia, la tenacidad y el tamaño de la sección justifican el acero aleado. La templabilidad y el tamaño de la sección son importantes. No infiera una clase 10.9 o 12.9 terminada únicamente a partir del grado.
+
+SAE 4140 Especifique explícitamente el grado SAE y la especificación de stock aplicable. Una alternativa definida por el dibujo para evaluar cuándo el dibujo original utiliza designaciones de materiales SAE. Relacionado con la familia del cromo-molibdeno, pero no intercambiable automáticamente con todas las variantes de 42CrMo4.
+
+##### Cómo limitar la elección
+
+Para una pieza de posicionamiento mecanizada, comience con la superficie de desgaste requerida y la condición final. Para una pieza de sujeción cargada, comience con los requisitos mecánicos terminados y la norma de sujeción aplicable; luego revisen juntos la pendiente, el tamaño de la sección, la ruta y el recubrimiento.
+
+##### Escriba un requisito material inequívoco.
+
+Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
+
+Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
+
 #### ¿Por qué considerar esta familia?
 
 Amplia variedad de calidades y condiciones mecánicas finales
@@ -10157,6 +10179,10 @@ Componentes automotrices ↗ Automatización Industrial ↗ Maquinaria y equipo 
 ##### Fuentes de referencia materiales
 
 Bossard: clases de propiedades de elementos de fijación de acero ↗
+
+Ovako: C45 grado y variantes ↗
+
+Ovako: grado 42CrMo4, efectos de sección y variantes ↗
 
 #### Elija juntos el material y la resistencia del acabado
 
@@ -10214,6 +10240,28 @@ Grado / condición / base Resistencia a la tracción Rm (MPa) Rendimiento / 0.2%
 10B21 en la condición final requerida Especificar para el pedido Especificar para el pedido El conformado, el tratamiento térmico y los requisitos finales determinan las propiedades suministradas.
 
 Los valores se refieren al material indicado o a la clase de sujetador. No son una propiedad certificada ni una capacidad de carga para cada geometría personalizada de ZUFEK. Confirme la especificación aplicable y la condición de prueba para la pieza solicitada.
+
+#### Comparar calidades y condiciones de entrega
+
+Una familia de materiales es un punto de partida, no una especificación completa. Las siguientes opciones son referencias de selección; el suministro y la idoneidad requieren revisión del dibujo.
+
+Grado o condición especificada que lo distingue Cuando considerarlo Qué confirmar antes de realizar el pedido
+
+10B21 - material en formación Indique la especificación del cable y la condición de formación. Revisión de ruta en frío para cantidades repetidas. La condición del cable no es la condición final del tornillo; Solicite identificación del material y calidad de conformado acordada.
+
+10B21 - pieza final tratada térmicamente Indique las propiedades principales finales y la verificación requerida. Partes donde la ruta aprobada incluya tratamiento térmico. No asuma una clase de resistencia ni prescriba la cementación a partir del nombre del grado.
+
+10B21 — requisitos del caso, si se especifica Indique los requisitos de superficie/núcleo por separado. Sólo cuando el dibujo requiera una superficie templada adecuada. Acordar la dureza, los requisitos del caso y el método de inspección; Este no es un grado de material separado.
+
+##### Cómo limitar la elección
+
+Estas filas describen diferentes condiciones de pedido de un grado, no de tres grados intercambiables. Elija 10B21 solo después de que el proveedor revise la geometría, las propiedades finales requeridas y la ruta de tratamiento completa.
+
+##### Escriba un requisito material inequívoco.
+
+Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
+
+Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
 
 #### ¿Por qué considerar esta familia?
 
@@ -10312,6 +10360,32 @@ ISO 3506 clase 80 referencia 800 mínimo 600 mínimo Sujetadores austeníticos a
 
 Los valores se refieren al material indicado o a la clase de sujetador. No son una propiedad certificada ni una capacidad de carga para cada geometría personalizada de ZUFEK. Confirme la especificación aplicable y la condición de prueba para la pieza solicitada.
 
+#### Comparar calidades y condiciones de entrega
+
+Una familia de materiales es un punto de partida, no una especificación completa. Las siguientes opciones son referencias de selección; el suministro y la idoneidad requieren revisión del dibujo.
+
+Grado o condición especificada que lo distingue Cuando considerarlo Qué confirmar antes de realizar el pedido
+
+304 / SUS304 Inoxidable austenítico de uso general; especificar la norma que lo rige. Equipos generales y tornillería de cerramientos en ambientes adecuados. No resistente a la corrosión; revise la exposición, el desgaste y la clase de sujetador final.
+
+304L/SUS304L Variante con bajas emisiones de carbono de la familia 304. Considere cuándo lo requieren los requisitos de corrosión relacionados con la soldadura o la fabricación. El sufijo L no significa una clase de resistencia superior.
+
+316 / SUS316 Acero inoxidable austenítico con molibdeno. Considere cuándo la evaluación de la exposición exige una resistencia mejorada por encima de 304. La concentración de cloruro, la temperatura y las grietas aún requieren revisión.
+
+316L/SUS316L Variante con bajas emisiones de carbono de la familia 316. Considere dónde los requisitos de fabricación o soldadura justifican el grado con menor contenido de carbono. Especifique el grado y la condición final en lugar de asumir que cada pieza 316 es 316L.
+
+303 Calidad austenítica de libre mecanizado. Piezas torneadas donde la productividad del mecanizado es importante y los requisitos de corrosión lo permiten. No sustituya 304 o 316 sin evaluar los requisitos de corrosión y fabricación.
+
+##### Cómo limitar la elección
+
+Comience con los requisitos de exposición y fabricación, luego evalúe la fabricación y el montaje. Los grupos de sujetadores A2/A4 no son sinónimos universales para un grado JIS o ASTM específico. Solicite el grado exacto más la clase de sujetador terminado aplicable; la pasivación no actualiza 304 a 316.
+
+##### Escriba un requisito material inequívoco.
+
+Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
+
+Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
+
 #### ¿Por qué considerar esta familia?
 
 Útil para equipos expuestos a la corrosión y hardware exterior accesible.
@@ -10351,6 +10425,10 @@ Equipos de seguridad y acceso ↗ Equipos electrónicos y ópticos ↗ Control d
 Bossard: propiedades mecánicas de los tornillos inoxidables ↗
 
 BSSA: selección familiar de inoxidables ↗
+
+Outokumpu: familias de grados de inoxidables austeníticos ↗
+
+Thyssenkrupp: comparación de mecanizado y fabricación de acero inoxidable ↗
 
 #### Elija juntos el material y la resistencia del acabado
 
@@ -10411,6 +10489,28 @@ Grado / condición / base Resistencia a la tracción Rm (MPa) Rendimiento / 0.2%
 
 Los valores se refieren al material indicado o a la clase de sujetador. No son una propiedad certificada ni una capacidad de carga para cada geometría personalizada de ZUFEK. Confirme la especificación aplicable y la condición de prueba para la pieza solicitada.
 
+#### Comparar calidades y condiciones de entrega
+
+Una familia de materiales es un punto de partida, no una especificación completa. Las siguientes opciones son referencias de selección; el suministro y la idoneidad requieren revisión del dibujo.
+
+Grado o condición especificada que lo distingue Cuando considerarlo Qué confirmar antes de realizar el pedido
+
+6061-T6 / T6511 Se debe indicar la aleación más el temple y la forma del producto. Componentes de ajuste o gabinete mecanizados livianos. T6511 es una designación de temperamento original, no una garantía general de resistencia del tornillo terminado.
+
+6082-T6 / T6511 Una aleación diferente con sus propias tablas de propiedades de tamaño de producto. Componentes mecanizados donde sus propiedades originales especificadas se adaptan al diseño. No lo sustituya utilizando un número de fuerza del título; comprobar sección, estado y estabilidad dimensional.
+
+6061 o 6082 de otro humor El número de aleación permanece igual mientras cambia la condición. Rutas de conformado o fabricación que requieren una condición de suministro diferente. Las propiedades cotizadas para el stock T6 no se pueden asignar a stock no especificado o recocido.
+
+##### Cómo limitar la elección
+
+Especifique la aleación, el temple y la barra o la especificación de extrusión antes de comparar la resistencia. Revise el acoplamiento de roscas, las superficies de apoyo, el margen de anodizado y la corrosión del metal de contacto como preguntas separadas sobre el diseño de juntas.
+
+##### Escriba un requisito material inequívoco.
+
+Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
+
+Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
+
 #### ¿Por qué considerar esta familia?
 
 Masa del componente menor que una pieza de acero de volumen equivalente
@@ -10450,6 +10550,8 @@ Equipos electrónicos y ópticos ↗ Automatización Industrial ↗
 Hidro: 6061 datos de aleación extruida ↗
 
 Hidro: 6082 datos de aleación extruida ↗
+
+Hydro: hojas de datos de aleaciones y referencias específicas de temple ↗
 
 #### Elija juntos el material y la resistencia del acabado
 
@@ -10508,6 +10610,28 @@ C11000, H02 referencia semiduro Aproximadamente 290 típico Especificar para el 
 
 Los valores se refieren al material indicado o a la clase de sujetador. No son una propiedad certificada ni una capacidad de carga para cada geometría personalizada de ZUFEK. Confirme la especificación aplicable y la condición de prueba para la pieza solicitada.
 
+#### Comparar calidades y condiciones de entrega
+
+Una familia de materiales es un punto de partida, no una especificación completa. Las siguientes opciones son referencias de selección; el suministro y la idoneidad requieren revisión del dibujo.
+
+Grado o condición especificada que lo distingue Cuando considerarlo Qué confirmar antes de realizar el pedido
+
+C11000 — Cobre ETP Cobre electrolítico de paso duro. Componentes conductores donde los requisitos eléctricos y mecánicos especificados se adaptan a este grado. Ordene el temperamento y la aceptación eléctrica por separado; No infiera la resistencia de contacto de la junta a partir de la conductividad general.
+
+C10100 — cobre electrónico sin oxígeno Una designación distintiva de cobre libre de oxígeno. Considere cuándo la aplicación requiere explícitamente su especificación de material. No es simplemente un sustituto premium de cada tornillo de cobre; verificar necesidad, forma de existencias y trazabilidad.
+
+C12200 — cobre desoxidado con fósforo Un grado distintivo de cobre desoxidado. Considere las condiciones de fabricación identificadas por el diseñador. No asuma la misma conductividad que C11000; verificar los requisitos eléctricos específicos del grado.
+
+##### Cómo limitar la elección
+
+Si el componente transporta corriente, defina la función eléctrica, las caras de contacto, el enchapado, el metal de acoplamiento y la verificación final, así como el grado de cobre. El temperamento afecta el comportamiento mecánico; una etiqueta de la familia del cobre no identifica un valor de resistencia utilizable.
+
+##### Escriba un requisito material inequívoco.
+
+Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
+
+Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
+
 #### ¿Por qué considerar esta familia?
 
 Relevante para las discusiones sobre interfaces eléctricas y térmicas.
@@ -10545,6 +10669,10 @@ Equipos de energía, carga y almacenamiento ↗ Equipos electrónicos y ópticos
 ##### Fuentes de referencia materiales
 
 Asociación de Desarrollo del Cobre: guía de diseño de aleaciones de cobre ↗
+
+Asociación de Desarrollo del Cobre: leyes y propiedades del cobre ↗
+
+Asociación de Desarrollo del Cobre: referencias de datos de aleaciones ↗
 
 #### Elija juntos el material y la resistencia del acabado
 
@@ -10603,6 +10731,28 @@ C36000 varilla, H02 referencia 386 típico 310 típico Valores típicos de varil
 
 Los valores se refieren al material indicado o a la clase de sujetador. No son una propiedad certificada ni una capacidad de carga para cada geometría personalizada de ZUFEK. Confirme la especificación aplicable y la condición de prueba para la pieza solicitada.
 
+#### Comparar calidades y condiciones de entrega
+
+Una familia de materiales es un punto de partida, no una especificación completa. Las siguientes opciones son referencias de selección; el suministro y la idoneidad requieren revisión del dibujo.
+
+Grado o condición especificada que lo distingue Cuando considerarlo Qué confirmar antes de realizar el pedido
+
+C36000 — latón de fácil mecanización Latón sin plomo. Piezas roscadas torneadas cuando la especificación permita esta composición. Verifique las restricciones de plomo para el mercado real y el uso final; No pretendo cumplimiento universal.
+
+C26000 — cartucho de latón Una composición y comportamiento de conformado diferente de cobre-zinc. Considere dónde la ruta de fabricación requerida favorece este grado. No es un sustituto directo del latón de fácil corte; revisar la maquinabilidad y el temple.
+
+Latón especificado con bajo contenido de plomo o sin plomo. Requiere la aleación exacta y los límites de composición que rigen. Aplicaciones con requisitos de sustancia o uso final explícitamente definidos. Sin plomo no es una designación de grado completa. Verificar mecanizados, propiedades y documentos requeridos.
+
+##### Cómo limitar la elección
+
+Elija latón según los requisitos exactos de composición, temperamento y procesamiento. Si el contenido de plomo es importante, incluya el límite aplicable y la evidencia en la solicitud de cotización en lugar de solicitar solo latón respetuoso con el medio ambiente.
+
+##### Escriba un requisito material inequívoco.
+
+Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
+
+Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
+
 #### ¿Por qué considerar esta familia?
 
 Útil para perfiles torneados personalizados y detalles roscados
@@ -10642,6 +10792,10 @@ Control de fluidos y equipos neumáticos ↗ Equipos electrónicos y ópticos �
 Asociación de Desarrollo del Cobre: varilla de latón H02 propiedades de referencia ↗
 
 CDA: C36000 composición y condición ↗
+
+Asociación de Desarrollo del Cobre: varilla de latón y selección sin plomo ↗
+
+Asociación de Desarrollo del Cobre: guía de aleaciones de cobre ↗
 
 #### Elija juntos el material y la resistencia del acabado
 
@@ -10702,6 +10856,28 @@ Referencia de grado de titanio CP 2 Confirmar el producto especificado 275 refer
 
 Los valores se refieren al material indicado o a la clase de sujetador. No son una propiedad certificada ni una capacidad de carga para cada geometría personalizada de ZUFEK. Confirme la especificación aplicable y la condición de prueba para la pieza solicitada.
 
+#### Comparar calidades y condiciones de entrega
+
+Una familia de materiales es un punto de partida, no una especificación completa. Las siguientes opciones son referencias de selección; el suministro y la idoneidad requieren revisión del dibujo.
+
+Grado o condición especificada que lo distingue Cuando considerarlo Qué confirmar antes de realizar el pedido
+
+Grado 2: titanio comercialmente puro Especifique la forma del producto y la condición de suministro. Componentes impulsados por la corrosión donde sus propiedades mecánicas coinciden con el diseño. No intercambiable mecánicamente con Ti-6Al-4V.
+
+Grado 5 — Ti-6Al-4V Un grado de aleación con diferente resistencia y base de procesamiento. Componentes cargados sensibles al peso donde la especificación completa lo justifica. Estado de condición y aceptación; El titanio no implica calificación aeroespacial.
+
+Grado 23 — Ti-6Al-4V ELI Variante intersticial extrabaja con especificaciones distintas. Considerar sólo cuando el dibujo o la aplicación requiera esta variante. No aprobación médica automática; la trazabilidad y la calificación de la aplicación son requisitos separados.
+
+##### Cómo limitar la elección
+
+Primero decida si se necesita titanio comercialmente puro o una aleación. Luego especifique el grado exacto, el estándar del producto, la condición, los requisitos de superficie y la verificación. Revise las superficies de fricción y de contacto de las roscas durante la planificación del ensamblaje.
+
+##### Escriba un requisito material inequívoco.
+
+Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
+
+Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
+
 #### ¿Por qué considerar esta familia?
 
 Consideraciones útiles de relación resistencia-masa para grados adecuados
@@ -10741,6 +10917,10 @@ Equipos electrónicos y ópticos ↗ Automatización Industrial ↗ Control de f
 Carpintero: Ficha técnica Ti-6Al-4V ↗
 
 Carpintero: CP titanio Grado 2 datos ↗
+
+Carpintero: datos de aleación Ti-6Al-4V ↗
+
+Carpintero: Ficha técnica Ti-6Al-4V ELI ↗
 
 #### Elija juntos el material y la resistencia del acabado
 

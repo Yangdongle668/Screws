@@ -10120,6 +10120,28 @@ Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) U
 
 Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasis. Es handelt sich nicht um eine zertifizierte Eigenschaft oder Belastungsbewertung für jede ZUFEK-Sondergeometrie. Bestätigen Sie die geltenden Spezifikationen und Testbedingungen für das bestellte Teil.
 
+#### Vergleichen Sie Sorten und Lieferbedingungen
+
+Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
+
+Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+
+C45 / C45E Stahl mit mittlerem Kohlenstoffgehalt; Bestellen Sie die aktuelle EN-Klasse und den Lieferzustand. Bearbeitete Schultern, Anschläge und allgemeine mechanische Teile, bei denen eine bestimmte Wärmebehandlung angebracht ist. Vergleichen Sie normalisierte, geglühte und vergütete Bedingungen. Vergleichbare Bezeichnungslisten berechtigen nicht zu einer Ersetzung.
+
+42CrMo4 Chrom-Molybdän-Stahl zum Härten und Anlassen. Belastete Gewindekomponenten, bei denen Festigkeit, Zähigkeit und Querschnittsgröße legierten Stahl rechtfertigen. Härtbarkeit und Abschnittsgröße sind wichtig. Schließen Sie nicht allein aus der Note auf eine abgeschlossene 10.9- oder 12.9-Klasse.
+
+SAE 4140 Geben Sie die SAE-Klasse und die maßgebliche Materialspezifikation explizit an. Eine zeichnungsdefinierte Alternative zur Bewertung, ob in der Originalzeichnung SAE-Materialbezeichnungen verwendet werden. Verwandt mit der Chrom-Molybdän-Familie, ist jedoch nicht automatisch mit jeder 42CrMo4-Variante austauschbar.
+
+##### So grenzen Sie die Auswahl ein
+
+Beginnen Sie bei einem bearbeiteten Positionierungsteil mit der erforderlichen Verschleißoberfläche und dem Endzustand. Beginnen Sie für ein belastetes Befestigungsteil mit den fertigen mechanischen Anforderungen und der geltenden Befestigungsnorm; Überprüfen Sie dann gemeinsam den Grad, die Abschnittsgröße, die Route und die Beschichtung.
+
+##### Schreiben Sie eine eindeutige Materialanforderung
+
+Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
+
+Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
+
 #### Warum diese Familie in Betracht ziehen?
 
 Große Auswahl an Güten und mechanischen Endbedingungen
@@ -10157,6 +10179,10 @@ Automobilkomponenten ↗ Industrielle Automatisierung ↗ Allgemeine Maschinen u
 ##### Materielle Referenzquellen
 
 Bossard: Eigenschaftsklassen von Verbindungselementen aus Stahl ↗
+
+Ovako: C45 Güteklasse und Varianten ↗
+
+Ovako: 42CrMo4-Sorte, Abschnittseffekte und Varianten ↗
 
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
@@ -10214,6 +10240,28 @@ Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) U
 10B21 im geforderten Endzustand Für die Bestellung angeben Für die Bestellung angeben Umformung, Wärmebehandlung und Endanforderungen bestimmen die gelieferten Eigenschaften.
 
 Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasis. Es handelt sich nicht um eine zertifizierte Eigenschaft oder Belastungsbewertung für jede ZUFEK-Sondergeometrie. Bestätigen Sie die geltenden Spezifikationen und Testbedingungen für das bestellte Teil.
+
+#### Vergleichen Sie Sorten und Lieferbedingungen
+
+Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
+
+Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+
+10B21 – Umformmaterial Geben Sie die Drahtspezifikation und den Umformzustand an. Überprüfung der Kaltstauchroute für wiederkehrende Mengen. Der Drahtzustand ist nicht der endgültige Schraubenzustand; Materialidentifikation und vereinbarte Umformqualität anfordern.
+
+10B21 – letztes wärmebehandeltes Teil Geben Sie die endgültigen Kerneigenschaften und die erforderlichen Nachweise an. Teile, bei denen der genehmigte Weg eine Wärmebehandlung umfasst. Gehen Sie nicht von der Sortenbezeichnung auf eine Festigkeitsklasse aus und schreiben Sie auch keine Aufkohlung vor.
+
+10B21 – Gehäuseanforderungen, falls angegeben Oberflächen-/Kernanforderungen separat angeben. Nur dort, wo die Zeichnung eine entsprechend gehärtete Oberfläche erfordert. Härte, Gehäuseanforderungen und Prüfmethode vereinbaren; Dies ist keine separate Materialqualität.
+
+##### So grenzen Sie die Auswahl ein
+
+Diese Zeilen beschreiben unterschiedliche Bestellbedingungen einer Sorte, nicht dreier austauschbarer Sorten. Wählen Sie 10B21 erst, nachdem der Lieferant die Geometrie, die erforderlichen Endeigenschaften und den vollständigen Behandlungsweg überprüft hat.
+
+##### Schreiben Sie eine eindeutige Materialanforderung
+
+Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
+
+Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -10312,6 +10360,32 @@ ISO 3506 Klasse 80 Referenz Mindestens 800 Mindestens 600 Anwendbare austenitisc
 
 Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasis. Es handelt sich nicht um eine zertifizierte Eigenschaft oder Belastungsbewertung für jede ZUFEK-Sondergeometrie. Bestätigen Sie die geltenden Spezifikationen und Testbedingungen für das bestellte Teil.
 
+#### Vergleichen Sie Sorten und Lieferbedingungen
+
+Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
+
+Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+
+304 / SUS304 Austenitischer Edelstahl für allgemeine Zwecke; Geben Sie den maßgeblichen Standard an. Allgemeine Geräte- und Gehäusebefestigungen in geeigneten Umgebungen. Nicht korrosionsbeständig; Überprüfen Sie die Expositions-, Fress- und Endklasse der Verbindungselemente.
+
+304L / SUS304L Kohlenstoffärmere Variante der 304-Familie. Berücksichtigen Sie, wann Schweiß- oder fertigungsbedingte Korrosionsanforderungen dies erfordern. Das Suffix L bedeutet nicht eine höhere Festigkeitsklasse.
+
+316 / SUS316 Molybdänhaltiger austenitischer Edelstahl. Bedenken Sie, wann die Expositionsbeurteilung eine verbesserte Beständigkeit über 304 erfordert. Chloridkonzentration, Temperatur und Spalten müssen noch überprüft werden.
+
+316L / SUS316L Kohlenstoffärmere Variante der 316-Familie. Überlegen Sie, wo Herstellungs- oder Schweißanforderungen die kohlenstoffärmere Sorte rechtfertigen. Geben Sie die Güteklasse und den Endzustand an, anstatt davon auszugehen, dass jedes 316-Teil aus 316L besteht.
+
+303 Freizerspanbare austenitische Sorte. Drehteile, bei denen die Bearbeitungsproduktivität wichtig ist und die Korrosionsanforderungen dies zulassen. Ersetzen Sie 304 oder 316 nicht, ohne die Korrosions- und Herstellungsanforderungen zu prüfen.
+
+##### So grenzen Sie die Auswahl ein
+
+Beginnen Sie mit den Belichtungs- und Fertigungsanforderungen und bewerten Sie dann die Fertigung und Montage. A2/A4 Verbindungselementgruppen sind keine universellen Synonyme für eine bestimmte JIS- oder ASTM-Klasse. Bestellen Sie die genaue Güteklasse plus die entsprechende Klasse der fertigen Verbindungselemente. Durch die Passivierung wird 304 nicht zu 316 hochgestuft.
+
+##### Schreiben Sie eine eindeutige Materialanforderung
+
+Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
+
+Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
+
 #### Warum diese Familie in Betracht ziehen?
 
 Nützlich für korrosionsanfällige Geräte und zugängliche Außenteile
@@ -10351,6 +10425,10 @@ Sicherheits- und Zugangsausrüstung ↗ Elektronische und optische Ausrüstung �
 Bossard: Mechanische Eigenschaften von rostfreien Verbindungselementen ↗
 
 BSSA: Auswahl der Edelstahlfamilie ↗
+
+Outokumpu: austenitische rostfreie Sortenfamilien ↗
+
+thyssenkrupp: Edelstahlbearbeitung und -fertigung im Vergleich ↗
 
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
@@ -10411,6 +10489,28 @@ Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) U
 
 Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasis. Es handelt sich nicht um eine zertifizierte Eigenschaft oder Belastungsbewertung für jede ZUFEK-Sondergeometrie. Bestätigen Sie die geltenden Spezifikationen und Testbedingungen für das bestellte Teil.
 
+#### Vergleichen Sie Sorten und Lieferbedingungen
+
+Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
+
+Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+
+6061-T6 / T6511 Legierung plus Härte und Produktform müssen angegeben werden. Leichte bearbeitete Anpassungs- oder Gehäusekomponenten. T6511 ist eine Bezeichnung für die Lagertemperatur und keine allgemeine Garantie für die Festigkeit der fertigen Schraube.
+
+6082-T6 / T6511 Eine andere Legierung mit eigenen Produktgrößen-Eigenschaftstabellen. Bearbeitete Komponenten, deren spezifizierte Materialeigenschaften zum Design passen. Ersetzen Sie nicht die Schlagzeilenstärke durch eine einzige Zahl. Schnitt, Zustand und Maßhaltigkeit prüfen.
+
+6061 oder 6082 in einer anderen Stimmung Die Legierungsnummer bleibt gleich, auch wenn sich der Zustand ändert. Umform- oder Fertigungswege, die einen anderen Lieferzustand erfordern. Die für T6-Bestände angegebenen Eigenschaften können nicht nicht spezifizierten oder geglühten Beständen zugeordnet werden.
+
+##### So grenzen Sie die Auswahl ein
+
+Geben Sie Legierung, Härte und Stangen- oder Strangpressspezifikation an, bevor Sie die Festigkeit vergleichen. Überprüfen Sie den Gewindeeingriff, die Lagerflächen, die Eloxierungszugabe und die Korrosion des Gegenmetalls als separate Fragen zur Verbindungskonstruktion.
+
+##### Schreiben Sie eine eindeutige Materialanforderung
+
+Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
+
+Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
+
 #### Warum diese Familie in Betracht ziehen?
 
 Geringere Bauteilmasse als ein Stahlteil mit gleichem Volumen
@@ -10450,6 +10550,8 @@ Elektronische und optische Ausrüstung ↗ Industrielle Automatisierung ↗
 Hydro: 6061 extrudierte Legierungsdaten ↗
 
 Hydro: 6082 extrudierte Legierungsdaten ↗
+
+Hydro: Legierungsdatenblätter und temperaturspezifische Referenzen ↗
 
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
@@ -10508,6 +10610,28 @@ C11000, H02 halbharte Referenz Ungefähr 290 typisch Für den ausgewählten Best
 
 Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasis. Es handelt sich nicht um eine zertifizierte Eigenschaft oder Belastungsbewertung für jede ZUFEK-Sondergeometrie. Bestätigen Sie die geltenden Spezifikationen und Testbedingungen für das bestellte Teil.
 
+#### Vergleichen Sie Sorten und Lieferbedingungen
+
+Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
+
+Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+
+C11000 – ETP-Kupfer Elektrolytisches Hartkupfer. Leitfähige Komponenten, bei denen die angegebenen elektrischen und mechanischen Anforderungen für diese Sorte geeignet sind. Temperier- und Elektroabnahme separat bestellen; Schließen Sie den gemeinsamen Kontaktwiderstand nicht aus der Gesamtleitfähigkeit ab.
+
+C10100 – sauerstofffreies elektronisches Kupfer Eine eindeutige Bezeichnung für sauerstofffreies Kupfer. Überlegen Sie, wann die Anwendung ihre Materialspezifikation explizit erfordert. Nicht einfach ein Premium-Ersatz für jede Kupferschraube; Überprüfen Sie den Bedarf, die Lagerform und die Rückverfolgbarkeit.
+
+C12200 – mit Phosphor desoxidiertes Kupfer Eine ausgeprägte desoxidierte Kupfersorte. Berücksichtigen Sie die vom Designer festgelegten Herstellungsbedingungen. Gehen Sie nicht von der gleichen Leitfähigkeit wie C11000 aus; Überprüfen Sie die sortenspezifischen elektrischen Anforderungen.
+
+##### So grenzen Sie die Auswahl ein
+
+Wenn die Komponente Strom führt, definieren Sie die elektrische Funktion, die Kontaktflächen, die Beschichtung, das Gegenmetall und die Endprüfung sowie den Kupfergrad. Das Temperament beeinflusst das mechanische Verhalten. Ein Etikett der Kupferfamilie gibt keinen nutzbaren Festigkeitswert an.
+
+##### Schreiben Sie eine eindeutige Materialanforderung
+
+Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
+
+Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
+
 #### Warum diese Familie in Betracht ziehen?
 
 Relevant für Diskussionen über elektrische und thermische Schnittstellen
@@ -10545,6 +10669,10 @@ Energie-, Lade- und Speicherausrüstung ↗ Elektronische und optische Ausrüstu
 ##### Materielle Referenzquellen
 
 Copper Development Association: Leitfaden zum Design von Kupferlegierungen ↗
+
+Copper Development Association: Kupferqualitäten und -eigenschaften ↗
+
+Copper Development Association: Referenzen zu Legierungsdaten ↗
 
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
@@ -10603,6 +10731,28 @@ C36000 Stab, H02 Referenz 386 typisch 310 typisch CDA-typische Stabwerte; Verwen
 
 Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasis. Es handelt sich nicht um eine zertifizierte Eigenschaft oder Belastungsbewertung für jede ZUFEK-Sondergeometrie. Bestätigen Sie die geltenden Spezifikationen und Testbedingungen für das bestellte Teil.
 
+#### Vergleichen Sie Sorten und Lieferbedingungen
+
+Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
+
+Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+
+C36000 – Automatenmessing Bleifreies Automatenmessing. Gedrehte Gewindeteile, wenn die Spezifikation diese Zusammensetzung zulässt. Überprüfen Sie Bleibeschränkungen für den tatsächlichen Markt und die Endverwendung; erheben keinen Anspruch auf universelle Konformität.
+
+C26000 – Kartusche aus Messing Eine andere Kupfer-Zink-Zusammensetzung und ein anderes Umformverhalten. Überlegen Sie, wo der erforderliche Herstellungsweg diese Qualität begünstigt. Kein Ersatz für Automatenmessing; Überprüfen Sie Bearbeitbarkeit und Härte.
+
+Spezifiziertes bleiarmes oder bleifreies Messing Erfordern die genauen Legierungs- und maßgeblichen Zusammensetzungsgrenzen. Anwendungen mit explizit definierten Stoff- oder Endverwendungsanforderungen. Bleifrei ist keine vollständige Sortenbezeichnung. Überprüfen Sie die Bearbeitung, Eigenschaften und erforderlichen Dokumente.
+
+##### So grenzen Sie die Auswahl ein
+
+Wählen Sie Messing nach genauen Zusammensetzungs-, Härte- und Verarbeitungsanforderungen aus. Wenn der Bleigehalt von Bedeutung ist, geben Sie in der Angebotsanfrage die geltenden Grenzwerte und Nachweise an, anstatt nur umweltfreundliches Messing anzufordern.
+
+##### Schreiben Sie eine eindeutige Materialanforderung
+
+Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
+
+Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
+
 #### Warum diese Familie in Betracht ziehen?
 
 Nützlich für individuell gedrehte Profile und Gewindedetails
@@ -10642,6 +10792,10 @@ Flüssigkeitssteuerung und pneumatische Ausrüstung ↗ Elektronische und optisc
 Copper Development Association: Messingstange H02 Referenzeigenschaften ↗
 
 CDA: C36000 Zusammensetzung und Zustand ↗
+
+Copper Development Association: Auswahl von Messingstangen und bleifreiem Material ↗
+
+Copper Development Association: Leitfaden für Kupferlegierungen ↗
 
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
@@ -10702,6 +10856,28 @@ CP Titanium Grade 2 Referenz Bestätigen Sie das angegebene Produkt 275 Mindeste
 
 Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasis. Es handelt sich nicht um eine zertifizierte Eigenschaft oder Belastungsbewertung für jede ZUFEK-Sondergeometrie. Bestätigen Sie die geltenden Spezifikationen und Testbedingungen für das bestellte Teil.
 
+#### Vergleichen Sie Sorten und Lieferbedingungen
+
+Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
+
+Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+
+Güteklasse 2 – kommerziell reines Titan Geben Sie Produktform und Lieferzustand an. Korrosionsbedingte Komponenten, deren mechanische Eigenschaften dem Design entsprechen. Mechanisch nicht austauschbar mit Ti-6Al-4V.
+
+Sorte 5 – Ti-6Al-4V Eine Legierungssorte mit anderer Festigkeit und Verarbeitungsbasis. Gewichtsempfindliche Ladekomponenten, sofern die vollständige Spezifikation dies rechtfertigt. Zustand und Akzeptanz angeben; Titan bedeutet keine Luft- und Raumfahrtqualifikation.
+
+Sorte 23 – Ti-6Al-4V ELI Extra-Low-Interstitial-Variante mit ausgeprägter Spezifikation. Berücksichtigen Sie dies nur, wenn die Zeichnung oder Anwendung diese Variante erfordert. Keine automatische ärztliche Genehmigung; Rückverfolgbarkeit und Anwendungsqualifizierung sind separate Anforderungen.
+
+##### So grenzen Sie die Auswahl ein
+
+Entscheiden Sie zunächst, ob handelsübliches Reintitan oder eine Legierung benötigt wird. Geben Sie dann die genaue Sorte, den Produktstandard, den Zustand, die Oberflächenanforderungen und die Überprüfung an. Überprüfen Sie bei der Montageplanung das Fressen des Gewindes und die Passflächen.
+
+##### Schreiben Sie eine eindeutige Materialanforderung
+
+Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
+
+Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
+
 #### Warum diese Familie in Betracht ziehen?
 
 Nützliche Überlegungen zum Verhältnis von Festigkeit zu Masse für geeignete Sorten
@@ -10741,6 +10917,10 @@ Elektronische und optische Ausrüstung ↗ Industrielle Automatisierung ↗ Flü
 Zimmermann: Ti-6Al-4V Datenblatt ↗
 
 Zimmermann: CP Titan Grade 2 Daten ↗
+
+Zimmermann: Ti-6Al-4V-Legierungsdaten ↗
+
+Zimmermann: Ti-6Al-4V ELI-Datenblatt ↗
 
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 

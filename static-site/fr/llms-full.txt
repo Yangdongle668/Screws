@@ -10120,6 +10120,28 @@ Référence de classe nominale 12.9 1,200 1,080 Valeurs nominales de désignatio
 
 Les valeurs se réfèrent au matériau indiqué ou à la classe de fixation. Il ne s'agit pas d'une propriété certifiée ou d'une capacité de charge pour chaque géométrie personnalisée ZUFEK. Confirmez les spécifications applicables et les conditions de test pour la pièce commandée.
 
+#### Comparez les grades et les conditions de livraison
+
+Une famille de matériaux est un point de départ et non une spécification complète. Les options suivantes sont des références de sélection ; l'approvisionnement et l'adéquation nécessitent un examen des dessins.
+
+Catégorie ou condition spécifiée Ce qui le distingue Quand l’envisager Que confirmer avant de commander
+
+C45 / C45E Acier à teneur moyenne en carbone ; commandez la qualité EN réelle et l'état de livraison. Épaulements, butées et pièces mécaniques générales usinés lorsqu'un traitement thermique spécifié est approprié. Comparez les conditions normalisées, recuites et trempées et revenues. Des listes de désignations similaires n’autorisent pas de substitution.
+
+42CrMo4 Acier au chrome-molybdène utilisé pour la trempe et le revenu. Composants filetés chargés où la résistance, la ténacité et la taille de la section justifient l'acier allié. La trempabilité et la taille de la section sont importantes. Ne déduisez pas un cours 10.9 ou 12.9 terminé à partir de la seule note.
+
+SAE4140 Spécifiez explicitement la qualité SAE et les spécifications du stock régissant. Une alternative définie par le dessin pour évaluer lorsque le dessin d'origine utilise les désignations de matériaux SAE. Lié à la famille chrome-molybdène, mais pas automatiquement interchangeable avec chaque variante 42CrMo4.
+
+##### Comment restreindre le choix
+
+Pour une pièce de positionnement usinée, commencez par la surface d'usure requise et l'état final. Pour une pièce de fixation chargée, commencez par les exigences mécaniques finies et la norme de fixation applicable ; puis examinez ensemble la qualité, la taille de la section, le tracé et le revêtement.
+
+##### Rédigez une exigence matérielle sans ambiguïté
+
+Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
+
+Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
+
 #### Pourquoi considérer cette famille ?
 
 Large choix de nuances et de conditions mécaniques finales
@@ -10157,6 +10179,10 @@ Composants automobiles ↗ Automatisation industrielle ↗ Machines et équipeme
 ##### Sources de référence matérielles
 
 Bossard : classes de propriétés des fixations en acier ↗
+
+Ovako : nuance C45 et variantes ↗
+
+Ovako : grade 42CrMo4, effets de section et variantes ↗
 
 #### Choisissez ensemble le matériau et la résistance finie
 
@@ -10214,6 +10240,28 @@ Grade / état / base Résistance à la traction Rm (MPa) Rendement / 0.2% de con
 10B21 dans l'état final requis A préciser pour la commande A préciser pour la commande Le formage, le traitement thermique et les exigences finales déterminent les propriétés fournies.
 
 Les valeurs se réfèrent au matériau indiqué ou à la classe de fixation. Il ne s'agit pas d'une propriété certifiée ou d'une capacité de charge pour chaque géométrie personnalisée ZUFEK. Confirmez les spécifications applicables et les conditions de test pour la pièce commandée.
+
+#### Comparez les grades et les conditions de livraison
+
+Une famille de matériaux est un point de départ et non une spécification complète. Les options suivantes sont des références de sélection ; l'approvisionnement et l'adéquation nécessitent un examen des dessins.
+
+Catégorie ou condition spécifiée Ce qui le distingue Quand l’envisager Que confirmer avant de commander
+
+10B21 — matériel de formage Indiquez les spécifications du fil et l’état de formage. Revue des itinéraires de frappe à froid pour les quantités répétées. L’état du fil n’est pas l’état final de la vis ; demander l’identification du matériau et la qualité de formage convenue.
+
+10B21 — pièce finale traitée thermiquement Indiquer les propriétés finales du noyau et la vérification requise. Pièces où le parcours approuvé comprend un traitement thermique. Ne supposez pas une classe de résistance et ne prescrivez pas de carburation à partir du nom de la qualité.
+
+10B21 — exigences du cas, si spécifié Indiquer séparément les exigences relatives à la surface et au noyau. Uniquement là où le dessin nécessite une surface durcie appropriée. Convenir de la dureté, des exigences du boîtier et de la méthode d'inspection ; il ne s'agit pas d'une qualité de matériau distincte.
+
+##### Comment restreindre le choix
+
+Ces lignes décrivent différentes conditions de commande d'une qualité, et non de trois qualités interchangeables. Choisissez 10B21 uniquement après que le fournisseur ait examiné la géométrie, les propriétés finales requises et le parcours de traitement complet.
+
+##### Rédigez une exigence matérielle sans ambiguïté
+
+Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
+
+Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
 
 #### Pourquoi considérer cette famille ?
 
@@ -10312,6 +10360,32 @@ ISO 3506 classe 80 référence 800 minimum 600 minimum Fixations austénitiques 
 
 Les valeurs se réfèrent au matériau indiqué ou à la classe de fixation. Il ne s'agit pas d'une propriété certifiée ou d'une capacité de charge pour chaque géométrie personnalisée ZUFEK. Confirmez les spécifications applicables et les conditions de test pour la pièce commandée.
 
+#### Comparez les grades et les conditions de livraison
+
+Une famille de matériaux est un point de départ et non une spécification complète. Les options suivantes sont des références de sélection ; l'approvisionnement et l'adéquation nécessitent un examen des dessins.
+
+Catégorie ou condition spécifiée Ce qui le distingue Quand l’envisager Que confirmer avant de commander
+
+304 / SUS304 Acier inoxydable austénitique à usage général ; préciser la norme applicable. Fixations des équipements généraux et des enceintes dans des environnements adaptés. Non résistant à la corrosion ; examiner l'exposition, le grippage et la classe finale des fixations.
+
+304L/SUS304L Variante à faible teneur en carbone de la famille 304. Considérez quand les exigences de soudage ou de corrosion liées à la fabrication l’exigent. Le suffixe L ne signifie pas une classe de résistance supérieure.
+
+316 / SUS316 Acier inoxydable austénitique au molybdène. Considérez quand l'évaluation de l'exposition demande une résistance améliorée au-dessus de 304. La concentration de chlorure, la température et les crevasses doivent encore être revues.
+
+316L / SUS316L Variante à faible teneur en carbone de la famille 316. Réfléchissez aux cas où les exigences de fabrication ou de soudage justifient la qualité à faible teneur en carbone. Spécifiez la qualité et l'état final plutôt que de supposer que chaque pièce 316 est en 316L.
+
+303 Nuance austénitique de libre usinage. Pièces tournées où la productivité d’usinage est importante et les exigences en matière de corrosion le permettent. Ne remplacez pas 304 ou 316 sans évaluer les exigences de corrosion et de fabrication.
+
+##### Comment restreindre le choix
+
+Commencez par les exigences d’exposition et de fabrication, puis évaluez la fabrication et l’assemblage. Les groupes de fixations A2/A4 ne sont pas des synonymes universels d'une qualité JIS ou ASTM spécifique. Commandez le grade exact ainsi que la classe de fixation finie applicable ; la passivation ne met pas à niveau 304 en 316.
+
+##### Rédigez une exigence matérielle sans ambiguïté
+
+Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
+
+Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
+
 #### Pourquoi considérer cette famille ?
 
 Utile pour les équipements exposés à la corrosion et le matériel extérieur accessible
@@ -10351,6 +10425,10 @@ Vis creuses et vis à perçage traversant ↗ Vis de sécurité et anti-effracti
 Bossard : propriétés mécaniques des fixations en inox ↗
 
 BSSA : sélection famille inox ↗
+
+Outokumpu : familles de nuances d'inox austénitiques ↗
+
+thyssenkrupp : comparaison de l'usinage et de la fabrication de l'acier inoxydable ↗
 
 #### Choisissez ensemble le matériau et la résistance finie
 
@@ -10411,6 +10489,28 @@ Exemple de stock extrudé 6082-T6 / T6511 310 minimum 260 minimum Données hydro
 
 Les valeurs se réfèrent au matériau indiqué ou à la classe de fixation. Il ne s'agit pas d'une propriété certifiée ou d'une capacité de charge pour chaque géométrie personnalisée ZUFEK. Confirmez les spécifications applicables et les conditions de test pour la pièce commandée.
 
+#### Comparez les grades et les conditions de livraison
+
+Une famille de matériaux est un point de départ et non une spécification complète. Les options suivantes sont des références de sélection ; l'approvisionnement et l'adéquation nécessitent un examen des dessins.
+
+Catégorie ou condition spécifiée Ce qui le distingue Quand l’envisager Que confirmer avant de commander
+
+6061-T6 / T6511 L'alliage, l'état et la forme du produit doivent être indiqués. Composants de réglage ou de boîtier usinés légers. T6511 est une désignation de trempe d'origine, et non une garantie générale de résistance des vis finies.
+
+6082-T6 / T6511 Un alliage différent avec ses propres tableaux de propriétés de taille de produit. Composants usinés dont les propriétés de stock spécifiées correspondent à la conception. Ne remplacez pas en utilisant un seul numéro de force de titre ; vérifier la section, l'état et la stabilité dimensionnelle.
+
+6061 ou 6082 dans un autre tempérament Le numéro d’alliage reste le même même si l’état change. Itinéraires de formage ou de fabrication qui nécessitent un état de fourniture différent. Les propriétés cotées pour le stock T6 ne peuvent pas être attribuées à du stock non spécifié ou recuit.
+
+##### Comment restreindre le choix
+
+Spécifiez l’alliage, l’état et les spécifications de la barre ou de l’extrusion avant de comparer la résistance. Examinez l'engagement des filetages, les surfaces d'appui, la tolérance d'anodisation et la corrosion du métal d'accouplement en tant que questions distinctes de conception des joints.
+
+##### Rédigez une exigence matérielle sans ambiguïté
+
+Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
+
+Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
+
 #### Pourquoi considérer cette famille ?
 
 Masse du composant inférieure à celle d'une pièce en acier de volume équivalent
@@ -10450,6 +10550,8 @@ Vis moletées et vis de réglage manuel ↗ Vis à tête spéciale ↗ Vis creus
 Hydro : 6061 données sur l'alliage extrudé ↗
 
 Hydro : 6082 données sur l'alliage extrudé ↗
+
+Hydro : fiches techniques des alliages et références spécifiques aux états ↗
 
 #### Choisissez ensemble le matériau et la résistance finie
 
@@ -10508,6 +10610,28 @@ C11000, H02 référence semi-dure Environ 290 typique Préciser pour le stock s�
 
 Les valeurs se réfèrent au matériau indiqué ou à la classe de fixation. Il ne s'agit pas d'une propriété certifiée ou d'une capacité de charge pour chaque géométrie personnalisée ZUFEK. Confirmez les spécifications applicables et les conditions de test pour la pièce commandée.
 
+#### Comparez les grades et les conditions de livraison
+
+Une famille de matériaux est un point de départ et non une spécification complète. Les options suivantes sont des références de sélection ; l'approvisionnement et l'adéquation nécessitent un examen des dessins.
+
+Catégorie ou condition spécifiée Ce qui le distingue Quand l’envisager Que confirmer avant de commander
+
+C11000 — Cuivre ETP Cuivre électrolytique à pas dur. Composants conducteurs dont les exigences électriques et mécaniques spécifiées correspondent à cette qualité. Commandez la température et l'acceptation électrique séparément ; ne déduisez pas la résistance de contact des joints de la conductivité globale.
+
+C10100 — cuivre électronique sans oxygène Une désignation distincte de cuivre sans oxygène. Considérez quand l'application nécessite explicitement sa spécification matérielle. Il ne s'agit pas simplement d'un substitut haut de gamme pour chaque vis en cuivre ; vérifier le besoin, la forme du stock et la traçabilité.
+
+C12200 — cuivre désoxydé au phosphore Une qualité de cuivre désoxydée distincte. Tenir compte des conditions de fabrication identifiées par le concepteur. Ne supposez pas la même conductivité que C11000 ; vérifier les exigences électriques spécifiques au niveau.
+
+##### Comment restreindre le choix
+
+Si le composant est porteur de courant, définissez le rôle électrique, les faces de contact, le placage, le métal d'accouplement et la vérification finale ainsi que la qualité du cuivre. L'état affecte le comportement mécanique ; une étiquette de la famille du cuivre n'identifie pas de valeur de résistance utilisable.
+
+##### Rédigez une exigence matérielle sans ambiguïté
+
+Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
+
+Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
+
 #### Pourquoi considérer cette famille ?
 
 Pertinent pour les discussions sur les interfaces électriques et thermiques
@@ -10545,6 +10669,10 @@ Vis à tête spéciale ↗ Goujons à double extrémité sur mesure ↗ Vis creu
 ##### Sources de référence matérielles
 
 Copper Development Association : guide de conception des alliages de cuivre ↗
+
+Copper Development Association : nuances et propriétés du cuivre ↗
+
+Copper Development Association : références de données sur les alliages ↗
 
 #### Choisissez ensemble le matériau et la résistance finie
 
@@ -10603,6 +10731,28 @@ Tige C36000, référence H02 386 typique 310 typique Valeurs typiques des tiges 
 
 Les valeurs se réfèrent au matériau indiqué ou à la classe de fixation. Il ne s'agit pas d'une propriété certifiée ou d'une capacité de charge pour chaque géométrie personnalisée ZUFEK. Confirmez les spécifications applicables et les conditions de test pour la pièce commandée.
 
+#### Comparez les grades et les conditions de livraison
+
+Une famille de matériaux est un point de départ et non une spécification complète. Les options suivantes sont des références de sélection ; l'approvisionnement et l'adéquation nécessitent un examen des dessins.
+
+Catégorie ou condition spécifiée Ce qui le distingue Quand l’envisager Que confirmer avant de commander
+
+C36000 — laiton de décolletage Laiton d'usinage libre au plomb. Pièces filetées tournées lorsque le cahier des charges permet cette composition. Vérifier les restrictions relatives aux plombs pour le marché réel et l'utilisation finale ; ne prétendons pas à une conformité universelle.
+
+C26000 — cartouche en laiton Une composition cuivre-zinc et un comportement de formage différents. Considérez où la voie de fabrication requise favorise cette qualité. Il ne s'agit pas d'un remplacement immédiat du laiton à décolletage ; examiner l'usinabilité et l'état.
+
+Laiton spécifié à faible teneur en plomb ou sans plomb Exiger les limites exactes de l’alliage et de la composition. Applications avec des exigences explicitement définies en matière de substance ou d’utilisation finale. Le sans plomb ne constitue pas une désignation de qualité complète. Vérifier l'usinage, les propriétés et les documents requis.
+
+##### Comment restreindre le choix
+
+Choisissez le laiton en fonction des exigences exactes de composition, de trempe et de traitement. Si la teneur en plomb est importante, indiquez la limite et les preuves applicables dans la demande de prix au lieu de demander uniquement du laiton respectueux de l'environnement.
+
+##### Rédigez une exigence matérielle sans ambiguïté
+
+Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
+
+Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
+
 #### Pourquoi considérer cette famille ?
 
 Utile pour les profils tournés personnalisés et les détails filetés
@@ -10642,6 +10792,10 @@ Contrôle des fluides et équipements pneumatiques ↗ Équipement électronique
 Copper Development Association : tige en laiton H02 propriétés de référence ↗
 
 CDA : C36000 composition et état ↗
+
+Copper Development Association : sélection de tiges en laiton et sans plomb ↗
+
+Association de développement du cuivre : guide des alliages de cuivre ↗
 
 #### Choisissez ensemble le matériau et la résistance finie
 
@@ -10702,6 +10856,28 @@ Référence CP Titane Grade 2 Confirmer le produit spécifié 275 référence de
 
 Les valeurs se réfèrent au matériau indiqué ou à la classe de fixation. Il ne s'agit pas d'une propriété certifiée ou d'une capacité de charge pour chaque géométrie personnalisée ZUFEK. Confirmez les spécifications applicables et les conditions de test pour la pièce commandée.
 
+#### Comparez les grades et les conditions de livraison
+
+Une famille de matériaux est un point de départ et non une spécification complète. Les options suivantes sont des références de sélection ; l'approvisionnement et l'adéquation nécessitent un examen des dessins.
+
+Catégorie ou condition spécifiée Ce qui le distingue Quand l’envisager Que confirmer avant de commander
+
+Grade 2 — titane commercialement pur Précisez la forme du produit et l’état fourni. Composants soumis à la corrosion dont les propriétés mécaniques répondent à la conception. Non interchangeable mécaniquement avec Ti-6Al-4V.
+
+Nuance 5 — Ti-6Al-4V Une nuance d'alliage avec une base de résistance et de traitement différente. Composants chargés sensibles au poids lorsque les spécifications complètes le justifient. État et acceptation ; le titane n'implique pas de qualification aérospatiale.
+
+Nuance 23 — Ti-6Al-4V ELI Variante interstitielle extra-faible avec une spécification distincte. A considérer uniquement lorsque le dessin ou l'application nécessite cette variante. Pas d’approbation médicale automatique ; la traçabilité et la qualification des applications sont des exigences distinctes.
+
+##### Comment restreindre le choix
+
+Décidez d’abord si du titane commercialement pur ou un alliage est nécessaire. Spécifiez ensuite la qualité exacte, la norme du produit, l'état, les exigences de surface et la vérification. Examinez le grippage des filetages et les surfaces de contact lors de la planification de l'assemblage.
+
+##### Rédigez une exigence matérielle sans ambiguïté
+
+Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
+
+Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
+
 #### Pourquoi considérer cette famille ?
 
 Considérations utiles sur le rapport résistance/masse pour les qualités appropriées
@@ -10741,6 +10917,10 @@ Vis à épaulement et à marchepied ↗ Vis à pas fin et extra-fin ↗ Vis à t
 Charpentier : fiche technique Ti-6Al-4V ↗
 
 Menuisier : titane CP Grade 2 données ↗
+
+Charpentier : données sur l'alliage Ti-6Al-4V ↗
+
+Charpentier : fiche technique Ti-6Al-4V ELI ↗
 
 #### Choisissez ensemble le matériau et la résistance finie
 

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "scope": "Repository snapshot of English public pages and corresponding translation presence. No production or technical approval is implied.",
   "sourceHashes": {
-    "lib/generated-pages.json": "404eb4fb7e87e3a98e36fcd0d408f285ae50fe5fc30c6c89c99101369b82bc58",
+    "lib/generated-pages.json": "dda06b0c40ef6129123bf62ba9df1403e8663883c0f8e5691ddaf37706ce71f0",
     "scripts/content/manifest.json": "e707f728ab1d1f498738bc3080103495a487d976792db0c21c489016610ef6ab"
   },
   "counts": {
@@ -13381,7 +13381,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "18a1128e9b61291a2ccfc8f53c769ba415d71c3c6f6384ddce62c881cd04269c",
+          "repositoryHash": "585fbb44cb33c94245c82fa31623b90fa39dd93dbead6602fbb1d9ea68b5d6df",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -14877,7 +14877,7 @@
       "title": "Carbon & Alloy Steel — Custom Screw Strength & Uses | ZUFEK",
       "description": "Carbon &amp; Alloy Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
-      "englishBodyHash": "aac9b1b9714e333ac1fa49eacf24600f33454e9ad6f911a525c47fbd2322846f",
+      "englishBodyHash": "f94b1000ab0a9d70dec84d270d9c32659c8c37fd4c37c651c2f4828b9f7a82e5",
       "headings": [
         {
           "level": 1,
@@ -14886,6 +14886,18 @@
         {
           "level": 2,
           "text": "Strength reference"
+        },
+        {
+          "level": 2,
+          "text": "Compare grades and delivery conditions"
+        },
+        {
+          "level": 3,
+          "text": "How to narrow the choice"
+        },
+        {
+          "level": 3,
+          "text": "Write an unambiguous material requirement"
         },
         {
           "level": 2,
@@ -14963,42 +14975,44 @@
         "/request-a-quote/"
       ],
       "externalLinks": [
-        "https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/screws-property-class-04-to-12/"
+        "https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/screws-property-class-04-to-12/",
+        "https://steelnavigator.ovako.com/steel-grades/c45/",
+        "https://steelnavigator.ovako.com/steel-grades/42crmo4/"
       ],
       "recordedSources": [],
       "sourceLocations": [
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Materials / Carbon & Alloy Steel GRADE / CONDITION / FINAL REQUIREMENT Carbon & Alloy Steel A practical choice for drawing-defined fasteners where the required mechanical class, wear behavior and surface protection can be specified together. Material appearance reference; grade and properties require documentation. Strength reference Specify the finished fastener property class, not a strength inferred from the raw grade. Common nominal class references include 8.8, 10.9 and 12.9. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference 8.8 nominal class reference 800 640 Nominal designation values; actual standard minimums depend on applicability and size. 10.9 nominal class reference 1,000 900 Nominal designation values, not a substitute for the acceptance table. 12.9 nominal class reference 1,200 1,080 Nominal designation values; review geometry, material and final condition. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Why consider this family? Broad choice of grades and final mechanical conditions Suitable route choices include forming and machining, subject to grade Surface protection can be matched to the environment Application range Automotive component brackets, machinery connections, fixture shoulder screws and application-specific clamping. Selection and process considerations Steel grade, heat treatment and property class are different specifications. Review corrosion exposure, hydrogen-related process risks where applicable, coating friction and dimensional allowances. Reduced-load geometries need their own assessment. Include in the RFQ Grade and final property requirement Applicable fastener specification and size Heat-treatment and coating system Functional load case and acceptance tests Related products and manufacturing routes Shoulder & Step Screws ↗ Custom Flange Screws ↗ Custom Double-Ended Studs ↗ Custom Set Screws & Grub Screws ↗ Multi-Station Cold Heading ↗ Material-Specific Heat Treatment ↗ Coatings & Surface Treatments ↗ Relevant application discussions Automotive Components ↗ Industrial Automation ↗ General Machinery & Equipment ↗ Material reference sources Bossard: steel fastener property classes ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Specify the finished fastener property class, not a strength inferred from the raw grade. Common nominal class references include 8.8, 10.9 and 12.9. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Steel grade, heat treatment and property class are different specifications. Review corrosion exposure, hydrogen-related process risks where applicable, coating friction and dimensional allowances. Reduced-load geometries need their own assessment. A practical selection and approval sequence For Carbon & Alloy Steel, first define grade and final property requirement; applicable fastener specification and size; heat-treatment and coating system; functional load case and acceptance tests. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Multi-Station Cold Heading, Material-Specific Heat Treatment, Coatings & Surface Treatments. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE High-strength screw coatings and hydrogen-risk review ↗ A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing. ENGINEERING GUIDE Coating allowance for threads and precision shoulders ↗ A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment. START YOUR NEXT PROJECT Discuss carbon & alloy steel for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Materials / Carbon & Alloy Steel GRADE / CONDITION / FINAL REQUIREMENT Carbon & Alloy Steel A practical choice for drawing-defined fasteners where the required mechanical class, wear behavior and surface protection can be specified together. Material appearance reference; grade and properties require documentation. Strength reference Specify the finished fastener property class, not a strength inferred from the raw grade. Common nominal class references include 8.8, 10.9 and 12.9. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference 8.8 nominal class reference 800 640 Nominal designation values; actual standard minimums depend on applicability and size. 10.9 nominal class reference 1,000 900 Nominal designation values, not a substitute for the acceptance table. 12.9 nominal class reference 1,200 1,080 Nominal designation values; review geometry, material and final condition. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Compare grades and delivery conditions A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review. Grade or specified condition What distinguishes it When to consider it What to confirm before ordering C45 / C45E Medium-carbon steel; order the actual EN grade and delivery condition. Machined shoulders, stops and general mechanical parts where specified heat treatment is appropriate. Compare normalized, annealed and quenched-and-tempered conditions. Similar designation lists do not authorize a substitution. 42CrMo4 Chromium-molybdenum steel used for quenching and tempering. Loaded threaded components where strength, toughness and section size justify alloy steel. Hardenability and section size matter. Do not infer a finished 10.9 or 12.9 class from the grade alone. SAE 4140 Specify the SAE grade and governing stock specification explicitly. A drawing-defined alternative to evaluate when the original drawing uses SAE material designations. Related to the chromium-molybdenum family, but not automatically interchangeable with every 42CrMo4 variant. How to narrow the choice For a machined locating part, start with the required wear surface and final condition. For a loaded fastening part, start with the finished mechanical requirements and applicable fastener standard; then review grade, section size, route and coating together. Write an unambiguous material requirement Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute. If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material. Why consider this family? Broad choice of grades and final mechanical conditions Suitable route choices include forming and machining, subject to grade Surface protection can be matched to the environment Application range Automotive component brackets, machinery connections, fixture shoulder screws and application-specific clamping. Selection and process considerations Steel grade, heat treatment and property class are different specifications. Review corrosion exposure, hydrogen-related process risks where applicable, coating friction and dimensional allowances. Reduced-load geometries need their own assessment. Include in the RFQ Grade and final property requirement Applicable fastener specification and size Heat-treatment and coating system Functional load case and acceptance tests Related products and manufacturing routes Shoulder & Step Screws ↗ Custom Flange Screws ↗ Custom Double-Ended Studs ↗ Custom Set Screws & Grub Screws ↗ Multi-Station Cold Heading ↗ Material-Specific Heat Treatment ↗ Coatings & Surface Treatments ↗ Relevant application discussions Automotive Components ↗ Industrial Automation ↗ General Machinery & Equipment ↗ Material reference sources Bossard: steel fastener property classes ↗ Ovako: C45 grade and variants ↗ Ovako: 42CrMo4 grade, section effects and variants ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Specify the finished fastener property class, not a strength inferred from the raw grade. Common nominal class references include 8.8, 10.9 and 12.9. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Steel grade, heat treatment and property class are different specifications. Review corrosion exposure, hydrogen-related process risks where applicable, coating friction and dimensional allowances. Reduced-load geometries need their own assessment. A practical selection and approval sequence For Carbon & Alloy Steel, first define grade and final property requirement; applicable fastener specification and size; heat-treatment and coating system; functional load case and acceptance tests. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Multi-Station Cold Heading, Material-Specific Heat Treatment, Coatings & Surface Treatments. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE High-strength screw coatings and hydrogen-risk review ↗ A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing. ENGINEERING GUIDE Coating allowance for threads and precision shoulders ↗ A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment. START YOUR NEXT PROJECT Discuss carbon & alloy steel for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "0c3f1e6583fe58a338bd03a9c755481969d9d44a42381153d3ade9a9668e8c46",
+          "repositoryHash": "1dacac5055bee41edfffa28348b5af7f4cf7412d3f0797c339cf4fec0e5ee45a",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "37ce6cdf0e25d984597dd537ac430b60267269f2308671318fcce709fb0a3ebf",
+          "repositoryHash": "09130a56131b3a3f7c5bc415b3e6db624dd9a4ad89550c3154d6768bfcae98ad",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "b4354b5c2390eb9933fd31039d7634f5d3ee13fd1339e224ccf8dd771c68b928",
+          "repositoryHash": "f517c14093dfa7c6a06f03831737005071e81a3e252a5304a6190e9f7e59aff1",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "7b22d52418802bb3d5d6b63745d552bec11756cc3802b90c3b49f08d970a50d1",
+          "repositoryHash": "5a97253ab79272865d76fdd12e19399247662822277a0de17293de45febb0f2d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "32b3f58ca665e6bc738dcc9f3818b60bddb84b4afcfc577c12f5019b12b569d6",
+          "repositoryHash": "e3fbac2fe0f2e69b6f0f75a800f4955ac51ae52a36dda022e1a8cddaf39900f6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -15013,7 +15027,7 @@
       "title": "10B21 Boron Steel — Custom Screw Strength & Uses | ZUFEK",
       "description": "10B21 Boron Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
-      "englishBodyHash": "7c2ef97acd90a4b74a2898d979f89649a8d996e90d95ca024c5b4975878452a1",
+      "englishBodyHash": "9a83abe5383232140138c555fff5d2b5bd94866a5ff29de885660091c5e48177",
       "headings": [
         {
           "level": 1,
@@ -15022,6 +15036,18 @@
         {
           "level": 2,
           "text": "Strength reference"
+        },
+        {
+          "level": 2,
+          "text": "Compare grades and delivery conditions"
+        },
+        {
+          "level": 3,
+          "text": "How to narrow the choice"
+        },
+        {
+          "level": 3,
+          "text": "Write an unambiguous material requirement"
         },
         {
           "level": 2,
@@ -15104,35 +15130,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Materials / 10B21 Boron Steel GRADE / CONDITION / FINAL REQUIREMENT 10B21 Boron Steel A boron-alloyed steel grade considered for formed fastener routes when the drawing, final material condition and required properties are defined. Material appearance reference; grade and properties require documentation. Strength reference 10B21 is a grade designation, not a finished strength class. There is no single tensile strength that applies to every 10B21 screw. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference 10B21 in the required final condition Specify for the order Specify for the order Forming, heat treatment and final requirements determine the supplied properties. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Why consider this family? Relevant to repeat fastener forming discussions Can be reviewed with the complete heat-treatment route Final requirements can distinguish core properties and surface condition Application range Drawing-defined production screws, flange parts and selected high-volume automotive or equipment fastener applications. Selection and process considerations Do not prescribe carburizing solely because the drawing says 10B21. State the required final mechanical properties and any case-depth or hardness requirements where relevant. Confirm the actual grade, processing route and material documentation during quotation. Include in the RFQ Exact grade and material condition Required finished properties Core or case requirements where applicable Treatment records and mechanical acceptance Related products and manufacturing routes Custom Flange Screws ↗ Shoulder & Step Screws ↗ Modified-Tip Self-Tapping Screws ↗ Multi-Station Cold Heading ↗ Material-Specific Heat Treatment ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Automotive Components ↗ General Machinery & Equipment ↗ Material reference sources Bossard: steel fastener property classes ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition 10B21 is a grade designation, not a finished strength class. There is no single tensile strength that applies to every 10B21 screw. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Do not prescribe carburizing solely because the drawing says 10B21. State the required final mechanical properties and any case-depth or hardness requirements where relevant. Confirm the actual grade, processing route and material documentation during quotation. A practical selection and approval sequence For 10B21 Boron Steel, first define exact grade and material condition; required finished properties; core or case requirements where applicable; treatment records and mechanical acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Multi-Station Cold Heading, Material-Specific Heat Treatment, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Cold heading or CNC turning: choosing a custom screw route ↗ Choose the manufacturing route around geometry, quantity, material and required condition. A lower cycle cost does not always offset tooling or secondary work. ENGINEERING GUIDE High-strength screw coatings and hydrogen-risk review ↗ A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing. START YOUR NEXT PROJECT Discuss 10b21 boron steel for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Materials / 10B21 Boron Steel GRADE / CONDITION / FINAL REQUIREMENT 10B21 Boron Steel A boron-alloyed steel grade considered for formed fastener routes when the drawing, final material condition and required properties are defined. Material appearance reference; grade and properties require documentation. Strength reference 10B21 is a grade designation, not a finished strength class. There is no single tensile strength that applies to every 10B21 screw. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference 10B21 in the required final condition Specify for the order Specify for the order Forming, heat treatment and final requirements determine the supplied properties. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Compare grades and delivery conditions A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review. Grade or specified condition What distinguishes it When to consider it What to confirm before ordering 10B21 — forming stock State the wire specification and forming condition. Cold-heading route review for repeat quantities. Wire condition is not the final screw condition; request material identification and agreed forming quality. 10B21 — final heat-treated part State final core properties and the required verification. Parts where the approved route includes heat treatment. Do not assume a strength class or prescribe carburizing from the grade name. 10B21 — case requirements, if specified State surface/core requirements separately. Only where the drawing calls for an appropriate hardened surface. Agree hardness, case requirements and inspection method; this is not a separate material grade. How to narrow the choice These rows describe different order conditions of one grade, not three interchangeable grades. Choose 10B21 only after the supplier reviews the geometry, required final properties and complete treatment route. Write an unambiguous material requirement Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute. If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material. Why consider this family? Relevant to repeat fastener forming discussions Can be reviewed with the complete heat-treatment route Final requirements can distinguish core properties and surface condition Application range Drawing-defined production screws, flange parts and selected high-volume automotive or equipment fastener applications. Selection and process considerations Do not prescribe carburizing solely because the drawing says 10B21. State the required final mechanical properties and any case-depth or hardness requirements where relevant. Confirm the actual grade, processing route and material documentation during quotation. Include in the RFQ Exact grade and material condition Required finished properties Core or case requirements where applicable Treatment records and mechanical acceptance Related products and manufacturing routes Custom Flange Screws ↗ Shoulder & Step Screws ↗ Modified-Tip Self-Tapping Screws ↗ Multi-Station Cold Heading ↗ Material-Specific Heat Treatment ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Automotive Components ↗ General Machinery & Equipment ↗ Material reference sources Bossard: steel fastener property classes ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition 10B21 is a grade designation, not a finished strength class. There is no single tensile strength that applies to every 10B21 screw. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Do not prescribe carburizing solely because the drawing says 10B21. State the required final mechanical properties and any case-depth or hardness requirements where relevant. Confirm the actual grade, processing route and material documentation during quotation. A practical selection and approval sequence For 10B21 Boron Steel, first define exact grade and material condition; required finished properties; core or case requirements where applicable; treatment records and mechanical acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Multi-Station Cold Heading, Material-Specific Heat Treatment, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Cold heading or CNC turning: choosing a custom screw route ↗ Choose the manufacturing route around geometry, quantity, material and required condition. A lower cycle cost does not always offset tooling or secondary work. ENGINEERING GUIDE High-strength screw coatings and hydrogen-risk review ↗ A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing. START YOUR NEXT PROJECT Discuss 10b21 boron steel for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "0342b7f84d469be256454d3c976f4fe4f4b7f72bf2a87524a9053fdcafc7d0af",
+          "repositoryHash": "d717d7f7b7ffe648a39ff949b45235669572194ee206f29c8548e25e0ef675a5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "05ce13e2150d2f261bd0705a005bfff7b54aa0f68c10aa1fd5c008f32546b4cb",
+          "repositoryHash": "9b56609db2f5a24f33196f37a54dd33fe4cc47c018b727e33e7fe8aef0e64f59",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "40154bb0761867419d90c3235e71be566651ee6a5b680cfca2be6ccb337dac8f",
+          "repositoryHash": "6176befa99bcf313ffa4508d8a3f23fa98dcce9483ddac651e10704db85ab4de",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "f014c3cbbca0162569b1e0c9db52ddcceee573ac16bbca335d2d6c25fa28d095",
+          "repositoryHash": "b33ffdc6e81503c87bdb51fc87e349abb786ca10bc29c60f406626db6bb749a3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "2ceaa4c2d57afa4fd47f94cf18b95d07c334ba9aac831fe6723a6ed09edf7c1c",
+          "repositoryHash": "9e5c94888c01d458fa0c54710129a3b1d8045bd9c909324bfa901c1be33d4712",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -15147,7 +15173,7 @@
       "title": "SUS304 & SUS316 Stainless Steel — Custom Screw Strength & Uses | ZUFEK",
       "description": "SUS304 &amp; SUS316 Stainless Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
-      "englishBodyHash": "b74fbc29a3686a7e1cd0fed1f077fcfa33b8fd9f2b341aa9ea31c917932a6f28",
+      "englishBodyHash": "859b67a3a3c59dc6d08c27fb7dcba5ce07c61b2035e4afd96218be94107c8865",
       "headings": [
         {
           "level": 1,
@@ -15156,6 +15182,18 @@
         {
           "level": 2,
           "text": "Strength reference"
+        },
+        {
+          "level": 2,
+          "text": "Compare grades and delivery conditions"
+        },
+        {
+          "level": 3,
+          "text": "How to narrow the choice"
+        },
+        {
+          "level": 3,
+          "text": "Write an unambiguous material requirement"
         },
         {
           "level": 2,
@@ -15234,42 +15272,44 @@
       ],
       "externalLinks": [
         "https://www.bossard.com/-/media/bossard-group/website/documents/technical-resources/en/f-021-en.pdf",
-        "https://bssa.org.uk/bssa_articles/general-principles-for-selection-of-stainless-steels/"
+        "https://bssa.org.uk/bssa_articles/general-principles-for-selection-of-stainless-steels/",
+        "https://www.outokumpu.com/en/products/stainless-steel-types/austenitic-stainless-steel",
+        "https://www.thyssenkrupp-materials-na.com/materials/stainless-steel/stainless-steel-machining-data.html"
       ],
       "recordedSources": [],
       "sourceLocations": [
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Materials / SUS304 & SUS316 Stainless Steel GRADE / CONDITION / FINAL REQUIREMENT SUS304 & SUS316 Stainless Steel Austenitic stainless choices for parts where corrosion exposure, surface condition and the specified fastener strength class need to be considered together. Material appearance reference; grade and properties require documentation. Strength reference A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference ISO 3506 class 70 reference 700 minimum 450 minimum Applicable austenitic fasteners; confirm grade, size and product scope. ISO 3506 class 80 reference 800 minimum 600 minimum Applicable austenitic fasteners; verify the ordered class and scope. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Why consider this family? Useful for corrosion-exposed equipment and accessible exterior hardware Grade and finish can be chosen for the actual medium Commonly discussed for machined and custom-formed screw geometries Application range Equipment covers, electronic and optical housings, outdoor security hardware and selected fluid-handling connections. Selection and process considerations 304 and 316 are not precipitation-hardening grades. Review the actual environment rather than assuming any stainless part is corrosion-proof. Consider thread galling, mating metals, cleaning and passivation. Form and final condition affect the mechanical requirements. Include in the RFQ 304 or 316 grade requirement Finished fastener class where applicable Exposure medium and mating metals Surface condition, passivation and thread acceptance Related products and manufacturing routes Hollow & Through-Hole Screws ↗ Security & Tamper-Resistant Screws ↗ Knurled Thumb & Adjustment Screws ↗ Shoulder & Step Screws ↗ Swiss-Type & CNC Turning ↗ Coatings & Surface Treatments ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Security & Access Equipment ↗ Electronics & Optical Equipment ↗ Fluid Control & Pneumatic Equipment ↗ Material reference sources Bossard: stainless fastener mechanical properties ↗ BSSA: stainless family selection ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. 304 and 316 are not precipitation-hardening grades. Review the actual environment rather than assuming any stainless part is corrosion-proof. Consider thread galling, mating metals, cleaning and passivation. Form and final condition affect the mechanical requirements. A practical selection and approval sequence For SUS304 & SUS316 Stainless Steel, first define 304 or 316 grade requirement; finished fastener class where applicable; exposure medium and mating metals; surface condition, passivation and thread acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Coatings & Surface Treatments, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE 304, 316 and 17-4PH: different heat-treatment questions ↗ Stainless steel describes several material families. Specify the grade and final condition rather than writing one generic heat-treatment instruction. ENGINEERING GUIDE Nickel plating and stainless passivation: different RFQ requirements ↗ A bright appearance does not identify a surface process. Specify the substrate and required surface function before choosing between plating, passivation or another treatment. START YOUR NEXT PROJECT Discuss sus304 & sus316 stainless steel for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Materials / SUS304 & SUS316 Stainless Steel GRADE / CONDITION / FINAL REQUIREMENT SUS304 & SUS316 Stainless Steel Austenitic stainless choices for parts where corrosion exposure, surface condition and the specified fastener strength class need to be considered together. Material appearance reference; grade and properties require documentation. Strength reference A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference ISO 3506 class 70 reference 700 minimum 450 minimum Applicable austenitic fasteners; confirm grade, size and product scope. ISO 3506 class 80 reference 800 minimum 600 minimum Applicable austenitic fasteners; verify the ordered class and scope. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Compare grades and delivery conditions A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review. Grade or specified condition What distinguishes it When to consider it What to confirm before ordering 304 / SUS304 General-purpose austenitic stainless; specify the governing standard. General equipment and enclosure fasteners in suitable environments. Not corrosion-proof; review exposure, galling and final fastener class. 304L / SUS304L Lower-carbon variant of the 304 family. Consider when welding or fabrication-related corrosion requirements call for it. The L suffix does not mean a higher strength class. 316 / SUS316 Molybdenum-bearing austenitic stainless. Consider when the exposure assessment calls for improved resistance over 304. Chloride concentration, temperature and crevices still require review. 316L / SUS316L Lower-carbon variant of the 316 family. Consider where fabrication or welding requirements justify the lower-carbon grade. Specify grade and final condition rather than assuming every 316 part is 316L. 303 Free-machining austenitic grade. Turned parts where machining productivity is important and corrosion requirements permit it. Do not substitute for 304 or 316 without assessing corrosion and fabrication requirements. How to narrow the choice Start with the exposure and fabrication requirements, then assess manufacturing and assembly. A2/A4 fastener groups are not universal synonyms for a specific JIS or ASTM grade. Order the exact grade plus the applicable finished fastener class; passivation does not upgrade 304 into 316. Write an unambiguous material requirement Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute. If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material. Why consider this family? Useful for corrosion-exposed equipment and accessible exterior hardware Grade and finish can be chosen for the actual medium Commonly discussed for machined and custom-formed screw geometries Application range Equipment covers, electronic and optical housings, outdoor security hardware and selected fluid-handling connections. Selection and process considerations 304 and 316 are not precipitation-hardening grades. Review the actual environment rather than assuming any stainless part is corrosion-proof. Consider thread galling, mating metals, cleaning and passivation. Form and final condition affect the mechanical requirements. Include in the RFQ 304 or 316 grade requirement Finished fastener class where applicable Exposure medium and mating metals Surface condition, passivation and thread acceptance Related products and manufacturing routes Hollow & Through-Hole Screws ↗ Security & Tamper-Resistant Screws ↗ Knurled Thumb & Adjustment Screws ↗ Shoulder & Step Screws ↗ Swiss-Type & CNC Turning ↗ Coatings & Surface Treatments ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Security & Access Equipment ↗ Electronics & Optical Equipment ↗ Fluid Control & Pneumatic Equipment ↗ Material reference sources Bossard: stainless fastener mechanical properties ↗ BSSA: stainless family selection ↗ Outokumpu: austenitic stainless grade families ↗ thyssenkrupp: stainless machining and fabrication comparison ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. 304 and 316 are not precipitation-hardening grades. Review the actual environment rather than assuming any stainless part is corrosion-proof. Consider thread galling, mating metals, cleaning and passivation. Form and final condition affect the mechanical requirements. A practical selection and approval sequence For SUS304 & SUS316 Stainless Steel, first define 304 or 316 grade requirement; finished fastener class where applicable; exposure medium and mating metals; surface condition, passivation and thread acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Coatings & Surface Treatments, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE 304, 316 and 17-4PH: different heat-treatment questions ↗ Stainless steel describes several material families. Specify the grade and final condition rather than writing one generic heat-treatment instruction. ENGINEERING GUIDE Nickel plating and stainless passivation: different RFQ requirements ↗ A bright appearance does not identify a surface process. Specify the substrate and required surface function before choosing between plating, passivation or another treatment. START YOUR NEXT PROJECT Discuss sus304 & sus316 stainless steel for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "5ebd5046bf8e98e2215436e03f10cddfdf8e1a343bb2f0bf7ffa6aee6978d740",
+          "repositoryHash": "742b16b6b43995d2b5d2a78e866b3245d965ff920036cf7f1a54427be8474f1e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "45064d4a233338ce58ee173e68b69ae737f96a1f68531cdbaff45dad1e2f7994",
+          "repositoryHash": "7a5e9337d374a5ab19e5a1fa3cd8053c85c25f2af108bb79f785d07248f88b8d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "8406589db3f4643844cdab6fd9124c8734836a1abd13ffe36a924971fdadcbb3",
+          "repositoryHash": "03fe5361c74b51c583e67668456a5d6b721e07a31778b33d6e030dbf73758cc5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "ebff812136969b8c4eed0e7f859e9de31b80b8b70d0369faae7ecf9fcb3dcd15",
+          "repositoryHash": "1de3eafdb19268d9043f023f90c4c2c5cdbf73a94d77526dfed894815716b67d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "8d9c469f4a2d11c26891c4aa81e728caa21fc3176c23f6254aafab09095154da",
+          "repositoryHash": "6cc5444cfa1594a2705eaaf8feb9c05d0a64c393d9137717057835221683174b",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -15284,7 +15324,7 @@
       "title": "Aluminum Alloys — Custom Screw Strength & Uses | ZUFEK",
       "description": "Aluminum Alloys strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
-      "englishBodyHash": "8e13f3a66a7ff5889178d1831ef74e13cd7acb953098b57d76818a876f3ac6cc",
+      "englishBodyHash": "2b29896487b5aefbbc6bf954a9b841aefaec575a780b18dbe7e08adcdb4a2673",
       "headings": [
         {
           "level": 1,
@@ -15293,6 +15333,18 @@
         {
           "level": 2,
           "text": "Strength reference"
+        },
+        {
+          "level": 2,
+          "text": "Compare grades and delivery conditions"
+        },
+        {
+          "level": 3,
+          "text": "How to narrow the choice"
+        },
+        {
+          "level": 3,
+          "text": "Write an unambiguous material requirement"
         },
         {
           "level": 2,
@@ -15369,42 +15421,43 @@
       ],
       "externalLinks": [
         "https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_6061.pdf",
-        "https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_6082_revise_1.pdf"
+        "https://www.hydro.com/globalassets/01-products--services/extruded-profiles/americas/ena-resources/alloy-data-sheets/hydro_2019_data_sheet_6082_revise_1.pdf",
+        "https://www.hydro.com/us/us/aluminum/products/extruded-profiles/north-america-resources/north-america-alloy-data-sheets/"
       ],
       "recordedSources": [],
       "sourceLocations": [
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Materials / Aluminum Alloys GRADE / CONDITION / FINAL REQUIREMENT Aluminum Alloys Lightweight metal options for custom threaded parts where the alloy, temper, engagement and surface requirements can be engineered for the application. Material appearance reference; grade and properties require documentation. Strength reference The same alloy in a different temper has different properties. The figures below are examples for specified extruded stock, not a finished screw rating. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference 6061-T6 / T6511 extruded stock example 260 minimum 240 minimum Hydro stock data; section and product specification apply. 6082-T6 / T6511 extruded stock example 310 minimum 260 minimum Hydro data for listed 5–150 mm wall/section range; other sizes differ. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Why consider this family? Lower component mass than an equivalent-volume steel part Machined geometry can combine steps, bores and adjustment features Surface finish and alloy temper can be reviewed together Application range Lightweight electronic assemblies, optical adjustment hardware, equipment covers and custom low-mass fixture components. Selection and process considerations Specify alloy and temper. Review thread stripping and engagement in the real joint, contact with dissimilar metals, wear, finishing allowance and assembly torque. Stock tensile properties do not by themselves establish the load capacity of a threaded component. Include in the RFQ Alloy, temper and stock form Mating thread and engagement Surface finish or anodizing requirement Joint load and assembly conditions Related products and manufacturing routes Knurled Thumb & Adjustment Screws ↗ Special Head Screws ↗ Hollow & Through-Hole Screws ↗ Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ Coatings & Surface Treatments ↗ Relevant application discussions Electronics & Optical Equipment ↗ Industrial Automation ↗ Material reference sources Hydro: 6061 extruded alloy data ↗ Hydro: 6082 extruded alloy data ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition The same alloy in a different temper has different properties. The figures below are examples for specified extruded stock, not a finished screw rating. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Specify alloy and temper. Review thread stripping and engagement in the real joint, contact with dissimilar metals, wear, finishing allowance and assembly torque. Stock tensile properties do not by themselves establish the load capacity of a threaded component. A practical selection and approval sequence For Aluminum Alloys, first define alloy, temper and stock form; mating thread and engagement; surface finish or anodizing requirement; joint load and assembly conditions. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, Coatings & Surface Treatments. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. ENGINEERING GUIDE From prototype to production: keeping the screw specification aligned ↗ A prototype can establish useful geometry without defining the final production route. Plan the transition so the approved function and acceptance requirements survive the change in manufacturing method. START YOUR NEXT PROJECT Discuss aluminum alloys for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Materials / Aluminum Alloys GRADE / CONDITION / FINAL REQUIREMENT Aluminum Alloys Lightweight metal options for custom threaded parts where the alloy, temper, engagement and surface requirements can be engineered for the application. Material appearance reference; grade and properties require documentation. Strength reference The same alloy in a different temper has different properties. The figures below are examples for specified extruded stock, not a finished screw rating. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference 6061-T6 / T6511 extruded stock example 260 minimum 240 minimum Hydro stock data; section and product specification apply. 6082-T6 / T6511 extruded stock example 310 minimum 260 minimum Hydro data for listed 5–150 mm wall/section range; other sizes differ. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Compare grades and delivery conditions A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review. Grade or specified condition What distinguishes it When to consider it What to confirm before ordering 6061-T6 / T6511 Alloy plus temper and product form must be stated. Lightweight machined adjustment or enclosure components. T6511 is a stock temper designation, not a general finished-screw strength guarantee. 6082-T6 / T6511 A different alloy with its own product-size property tables. Machined components where its specified stock properties suit the design. Do not substitute using one headline strength number; check section, condition and dimensional stability. 6061 or 6082 in another temper The alloy number stays the same while condition changes. Forming or fabrication routes that require a different supplied condition. Properties quoted for T6 stock cannot be assigned to unspecified or annealed stock. How to narrow the choice Specify alloy, temper and bar or extrusion specification before comparing strength. Review thread engagement, bearing surfaces, anodizing allowance and mating-metal corrosion as separate joint-design questions. Write an unambiguous material requirement Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute. If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material. Why consider this family? Lower component mass than an equivalent-volume steel part Machined geometry can combine steps, bores and adjustment features Surface finish and alloy temper can be reviewed together Application range Lightweight electronic assemblies, optical adjustment hardware, equipment covers and custom low-mass fixture components. Selection and process considerations Specify alloy and temper. Review thread stripping and engagement in the real joint, contact with dissimilar metals, wear, finishing allowance and assembly torque. Stock tensile properties do not by themselves establish the load capacity of a threaded component. Include in the RFQ Alloy, temper and stock form Mating thread and engagement Surface finish or anodizing requirement Joint load and assembly conditions Related products and manufacturing routes Knurled Thumb & Adjustment Screws ↗ Special Head Screws ↗ Hollow & Through-Hole Screws ↗ Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ Coatings & Surface Treatments ↗ Relevant application discussions Electronics & Optical Equipment ↗ Industrial Automation ↗ Material reference sources Hydro: 6061 extruded alloy data ↗ Hydro: 6082 extruded alloy data ↗ Hydro: alloy data sheets and temper-specific references ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition The same alloy in a different temper has different properties. The figures below are examples for specified extruded stock, not a finished screw rating. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Specify alloy and temper. Review thread stripping and engagement in the real joint, contact with dissimilar metals, wear, finishing allowance and assembly torque. Stock tensile properties do not by themselves establish the load capacity of a threaded component. A practical selection and approval sequence For Aluminum Alloys, first define alloy, temper and stock form; mating thread and engagement; surface finish or anodizing requirement; joint load and assembly conditions. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, Coatings & Surface Treatments. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. ENGINEERING GUIDE From prototype to production: keeping the screw specification aligned ↗ A prototype can establish useful geometry without defining the final production route. Plan the transition so the approved function and acceptance requirements survive the change in manufacturing method. START YOUR NEXT PROJECT Discuss aluminum alloys for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "0570bd45ba2eac7406bbfeff34ad099f94895036e10bef5a60bb6cec17404edd",
+          "repositoryHash": "0e5a762cf0ba9b4ae484ddaafa2ee4b70046c777e2451fedbe27e43102e09965",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "c768921a871b5de6f509ac1c7fa428d4359c94c5c5e600afda7c1c9df4138c62",
+          "repositoryHash": "ca0f7c3ddab1327d9940e6072f0d975d215f596d6fc444bec6002ead9526917b",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "3fded3e2785145afe9b8f59eb07c00917addfefba187abf5847df5c8b7364a87",
+          "repositoryHash": "f97c83d050478f9f925aa4d224d84efbf99821c48721b590197ae9a71f3d2a16",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "cc45387c76ee6680b7373714ea8aa8afa0ad0da5df0b9fc8163aaf800c40c86a",
+          "repositoryHash": "ac357c797b433f22ea8469e8018187304aaecdec50ec2f1d6972e20df82d9a63",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "4dcce8d064d25625dadcba8f1ed241692bbc79013cb7c42ee02b317a21d62c88",
+          "repositoryHash": "d9ac6739a53be51da71a88353f8810a5f3fdf4ef65ea3de1bbabe33d974196fe",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -15419,7 +15472,7 @@
       "title": "Copper — Custom Screw Strength & Uses | ZUFEK",
       "description": "Copper strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
-      "englishBodyHash": "3bd3696fc0c1237f509267cfc4c98e8164e632dc318ab7ad8c85b5e9dbb8de1b",
+      "englishBodyHash": "adbd769e2fcc60f123521031106236817302e8661de44c335bc0cea8b87871a2",
       "headings": [
         {
           "level": 1,
@@ -15428,6 +15481,18 @@
         {
           "level": 2,
           "text": "Strength reference"
+        },
+        {
+          "level": 2,
+          "text": "Compare grades and delivery conditions"
+        },
+        {
+          "level": 3,
+          "text": "How to narrow the choice"
+        },
+        {
+          "level": 3,
+          "text": "Write an unambiguous material requirement"
         },
         {
           "level": 2,
@@ -15503,42 +15568,44 @@
         "/request-a-quote/"
       ],
       "externalLinks": [
-        "https://live.copper.org/publications/pub_list/pdf/a1360.pdf"
+        "https://live.copper.org/publications/pub_list/pdf/a1360.pdf",
+        "https://www.copper.org/publications/pub_list/pdf/a1360.pdf",
+        "https://datasheets.copper.org/"
       ],
       "recordedSources": [],
       "sourceLocations": [
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Materials / Copper GRADE / CONDITION / FINAL REQUIREMENT Copper A material family considered where electrical or thermal function is important alongside the geometry and mechanical acceptance of the custom component. Material appearance reference; grade and properties require documentation. Strength reference Copper strength varies substantially with alloy, product form and temper. The following is a typical stock reference, not a screw acceptance requirement. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference C11000, H02 half-hard reference Approximately 290 typical Specify for the selected stock CDA design-guide stock reference; other tempers and forms differ. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Why consider this family? Relevant to electrical and thermal interface discussions Grade and temper can be selected for the required component function Can be reviewed for application-specific turned features Application range Electrical connection hardware, conductive custom components and thermal-interface threaded parts, subject to joint design. Selection and process considerations Conductivity and mechanical strength are separate requirements. Specify the copper grade and temper, contact surface condition, plating if required and the assembled joint requirements. Copper is not interchangeable with brass simply because both are copper-based materials. Include in the RFQ Copper grade, temper and stock form Electrical or thermal requirements Contact surface and finish Mechanical and joint acceptance Related products and manufacturing routes Special Head Screws ↗ Custom Double-Ended Studs ↗ Hollow & Through-Hole Screws ↗ Swiss-Type & CNC Turning ↗ Coatings & Surface Treatments ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Energy, Charging & Storage Equipment ↗ Electronics & Optical Equipment ↗ Material reference sources Copper Development Association: copper alloy design guide ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Copper strength varies substantially with alloy, product form and temper. The following is a typical stock reference, not a screw acceptance requirement. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Conductivity and mechanical strength are separate requirements. Specify the copper grade and temper, contact surface condition, plating if required and the assembled joint requirements. Copper is not interchangeable with brass simply because both are copper-based materials. A practical selection and approval sequence For Copper, first define copper grade, temper and stock form; electrical or thermal requirements; contact surface and finish; mechanical and joint acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Coatings & Surface Treatments, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. ENGINEERING GUIDE Technical cleanliness: writing a useful fastener requirement ↗ Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected. START YOUR NEXT PROJECT Discuss copper for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Materials / Copper GRADE / CONDITION / FINAL REQUIREMENT Copper A material family considered where electrical or thermal function is important alongside the geometry and mechanical acceptance of the custom component. Material appearance reference; grade and properties require documentation. Strength reference Copper strength varies substantially with alloy, product form and temper. The following is a typical stock reference, not a screw acceptance requirement. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference C11000, H02 half-hard reference Approximately 290 typical Specify for the selected stock CDA design-guide stock reference; other tempers and forms differ. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Compare grades and delivery conditions A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review. Grade or specified condition What distinguishes it When to consider it What to confirm before ordering C11000 — ETP copper Electrolytic tough-pitch copper. Conductive components where the specified electrical and mechanical requirements suit this grade. Order temper and electrical acceptance separately; do not infer joint contact resistance from bulk conductivity. C10100 — oxygen-free electronic copper A distinct oxygen-free copper designation. Consider when the application explicitly requires its material specification. Not simply a premium substitute for every copper screw; verify need, stock form and traceability. C12200 — phosphorus-deoxidized copper A distinct deoxidized copper grade. Consider for the fabrication conditions identified by the designer. Do not assume the same conductivity as C11000; verify grade-specific electrical requirements. How to narrow the choice If the component carries current, define the electrical role, contact faces, plating, mating metal and final verification as well as the copper grade. Temper affects mechanical behavior; a copper-family label does not identify a usable strength value. Write an unambiguous material requirement Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute. If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material. Why consider this family? Relevant to electrical and thermal interface discussions Grade and temper can be selected for the required component function Can be reviewed for application-specific turned features Application range Electrical connection hardware, conductive custom components and thermal-interface threaded parts, subject to joint design. Selection and process considerations Conductivity and mechanical strength are separate requirements. Specify the copper grade and temper, contact surface condition, plating if required and the assembled joint requirements. Copper is not interchangeable with brass simply because both are copper-based materials. Include in the RFQ Copper grade, temper and stock form Electrical or thermal requirements Contact surface and finish Mechanical and joint acceptance Related products and manufacturing routes Special Head Screws ↗ Custom Double-Ended Studs ↗ Hollow & Through-Hole Screws ↗ Swiss-Type & CNC Turning ↗ Coatings & Surface Treatments ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Energy, Charging & Storage Equipment ↗ Electronics & Optical Equipment ↗ Material reference sources Copper Development Association: copper alloy design guide ↗ Copper Development Association: copper grades and properties ↗ Copper Development Association: alloy data references ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Copper strength varies substantially with alloy, product form and temper. The following is a typical stock reference, not a screw acceptance requirement. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Conductivity and mechanical strength are separate requirements. Specify the copper grade and temper, contact surface condition, plating if required and the assembled joint requirements. Copper is not interchangeable with brass simply because both are copper-based materials. A practical selection and approval sequence For Copper, first define copper grade, temper and stock form; electrical or thermal requirements; contact surface and finish; mechanical and joint acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Coatings & Surface Treatments, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. ENGINEERING GUIDE Technical cleanliness: writing a useful fastener requirement ↗ Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected. START YOUR NEXT PROJECT Discuss copper for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "528eb35755cb8f4eae03da318890834feee09d44e9b1f5ebb28e5414f4401e64",
+          "repositoryHash": "e4ab9c741df36211f28c7c7a352f0d6d002b31832e1801192ab511edea4830b3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "e5fd9ab93cdc2d9fe6ac6e5623057e31d7d464b247b0a23d33dc98024614c64c",
+          "repositoryHash": "7063d2b15aa5b09b14f18722d1d218c4b84e9abe1a91fb066d2131eb2855bd6d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "002c32abbda65ff87d6d4d589698dd4f2113f7e10df93a7a8e750180723858a7",
+          "repositoryHash": "e8dc1efcda8421cd629e159252e99cd4e2b4bbfe8e847ad87d8c07e96120c5a9",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "60cd9c35a4457a0c91e3a1513ce5d01cad48eeda9a178798fc2566be244478f8",
+          "repositoryHash": "5ea40b6136f6b06ca873d33610c623df84cd1ba8b6f9af2d5a4be83616313e92",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "59a151cf9b8f6c60a1d125783f82aea29c97b2c708a70766550494db9654e9a3",
+          "repositoryHash": "c9d20b72425038b01ccccdf05caeb553ace626a1f89f5a417825ce3124e4dbe3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -15553,7 +15620,7 @@
       "title": "Brass — Custom Screw Strength & Uses | ZUFEK",
       "description": "Brass strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
-      "englishBodyHash": "4d3d654b1d72669a084ccf7ca72a0c6185c2a3b8fdf7cff1aaf9a5146e216ecd",
+      "englishBodyHash": "2f4d78c1b03730ea546c6c046f4031937c8951e7f6c4aac215ecfba41463306b",
       "headings": [
         {
           "level": 1,
@@ -15562,6 +15629,18 @@
         {
           "level": 2,
           "text": "Strength reference"
+        },
+        {
+          "level": 2,
+          "text": "Compare grades and delivery conditions"
+        },
+        {
+          "level": 3,
+          "text": "How to narrow the choice"
+        },
+        {
+          "level": 3,
+          "text": "Write an unambiguous material requirement"
         },
         {
           "level": 2,
@@ -15638,42 +15717,43 @@
       ],
       "externalLinks": [
         "https://copper.org/publications/pub_list/pdf/a7052_brass_rod_solutions_for_lead-free_compliance.pdf",
-        "https://alloys.copper.org/alloy/C36000"
+        "https://alloys.copper.org/alloy/C36000",
+        "https://www.copper.org/publications/pub_list/pdf/a1360.pdf"
       ],
       "recordedSources": [],
       "sourceLocations": [
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Materials / Brass GRADE / CONDITION / FINAL REQUIREMENT Brass Copper-zinc alloys can be useful for drawing-specific machined threaded components where machining behavior, contact conditions and the selected alloy composition fit the application. Material appearance reference; grade and properties require documentation. Strength reference Strength changes with composition and temper. The example below is published typical H02 rod data and must not be applied to all brass fasteners. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference C36000 rod, H02 reference 386 typical 310 typical CDA typical rod values; use the ordered alloy/temper specification for acceptance. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Why consider this family? Useful for custom turned profiles and threaded details Alloy selection can support different appearance and contact requirements Material composition can be matched to the customer specification Application range Instrument hardware, adjustment components, connection parts and selected custom fittings. Selection and process considerations Specify the actual alloy rather than a brass color. C36000 is a leaded free-cutting brass; composition or regulatory restrictions may require a different alloy. Mechanical behavior, media compatibility and any required leak test remain application-specific. Include in the RFQ Exact alloy and composition restrictions Temper and material documentation Threaded and contact geometry Finish and functional acceptance Related products and manufacturing routes Fine & Extra-Fine Pitch Screws ↗ Knurled Thumb & Adjustment Screws ↗ Special & Compound Thread Profiles ↗ Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Fluid Control & Pneumatic Equipment ↗ Electronics & Optical Equipment ↗ Material reference sources Copper Development Association: brass rod H02 reference properties ↗ CDA: C36000 composition and condition ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Strength changes with composition and temper. The example below is published typical H02 rod data and must not be applied to all brass fasteners. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Specify the actual alloy rather than a brass color. C36000 is a leaded free-cutting brass; composition or regulatory restrictions may require a different alloy. Mechanical behavior, media compatibility and any required leak test remain application-specific. A practical selection and approval sequence For Brass, first define exact alloy and composition restrictions; temper and material documentation; threaded and contact geometry; finish and functional acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Rolled or cut threads: questions to resolve in the RFQ ↗ Thread generation is a process choice, while thread geometry and acceptance are product requirements. A complete RFQ explains both without confusing the method with a guaranteed result. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. START YOUR NEXT PROJECT Discuss brass for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Materials / Brass GRADE / CONDITION / FINAL REQUIREMENT Brass Copper-zinc alloys can be useful for drawing-specific machined threaded components where machining behavior, contact conditions and the selected alloy composition fit the application. Material appearance reference; grade and properties require documentation. Strength reference Strength changes with composition and temper. The example below is published typical H02 rod data and must not be applied to all brass fasteners. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference C36000 rod, H02 reference 386 typical 310 typical CDA typical rod values; use the ordered alloy/temper specification for acceptance. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Compare grades and delivery conditions A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review. Grade or specified condition What distinguishes it When to consider it What to confirm before ordering C36000 — free-cutting brass Leaded free-machining brass. Turned threaded parts when the specification permits this composition. Check lead restrictions for the actual market and end use; do not claim universal compliance. C26000 — cartridge brass A different copper-zinc composition and forming behavior. Consider where the required fabrication route favors this grade. Not a drop-in replacement for free-cutting brass; review machinability and temper. Specified low-lead or lead-free brass Require the exact alloy and governing composition limits. Applications with explicitly defined substance or end-use requirements. Lead-free is not a complete grade designation. Verify machining, properties and required documents. How to narrow the choice Choose brass by exact composition, temper and processing requirements. If lead content matters, put the applicable limit and evidence in the RFQ instead of requesting only environmentally friendly brass. Write an unambiguous material requirement Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute. If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material. Why consider this family? Useful for custom turned profiles and threaded details Alloy selection can support different appearance and contact requirements Material composition can be matched to the customer specification Application range Instrument hardware, adjustment components, connection parts and selected custom fittings. Selection and process considerations Specify the actual alloy rather than a brass color. C36000 is a leaded free-cutting brass; composition or regulatory restrictions may require a different alloy. Mechanical behavior, media compatibility and any required leak test remain application-specific. Include in the RFQ Exact alloy and composition restrictions Temper and material documentation Threaded and contact geometry Finish and functional acceptance Related products and manufacturing routes Fine & Extra-Fine Pitch Screws ↗ Knurled Thumb & Adjustment Screws ↗ Special & Compound Thread Profiles ↗ Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Fluid Control & Pneumatic Equipment ↗ Electronics & Optical Equipment ↗ Material reference sources Copper Development Association: brass rod H02 reference properties ↗ CDA: C36000 composition and condition ↗ Copper Development Association: brass rod and lead-free selection ↗ Copper Development Association: copper alloy guide ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Strength changes with composition and temper. The example below is published typical H02 rod data and must not be applied to all brass fasteners. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. Specify the actual alloy rather than a brass color. C36000 is a leaded free-cutting brass; composition or regulatory restrictions may require a different alloy. Mechanical behavior, media compatibility and any required leak test remain application-specific. A practical selection and approval sequence For Brass, first define exact alloy and composition restrictions; temper and material documentation; threaded and contact geometry; finish and functional acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Rolled or cut threads: questions to resolve in the RFQ ↗ Thread generation is a process choice, while thread geometry and acceptance are product requirements. A complete RFQ explains both without confusing the method with a guaranteed result. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. START YOUR NEXT PROJECT Discuss brass for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "abadb6ad9d278a12170e75bdd411238e0f60b6e6fdff50754fd12bf4a7f662cf",
+          "repositoryHash": "4e8b91c872dd9eb2c8bdf097ed0d0fe67ce4fb016d2f66dc41f2ed396751afa7",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "bd9971698d5c94d30dbc0111aa9ae06a8bd93fbcf8ae606e23f2490a771e6528",
+          "repositoryHash": "b9ec0b8c98b6f721591ac3e7b8bf7e1fda402e4fb81ef33bd8a750d0627b3aa7",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "e5aebe0dc44e7f63b1e4e522d5c2b8af98e9e1c94f4692d08928dfc9179da10f",
+          "repositoryHash": "2642cc4d3465466601c279279ade6b89e5d145f2a5e1e1757a2eb80185113694",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "cf1c5f40478cd6a1eeb0c5205c7d881f9ddac7384029e3c8ca243c5f375c59f8",
+          "repositoryHash": "0b59876dd4ded486e7230a667ff54a8b07743f7c4f7765c59a6903b36c664286",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "237d891d22a29efe540fc79137102d54c77e74c356dc0682ba55d511e773f0df",
+          "repositoryHash": "da0ad57f29e1f71b2a96765c5c64fd5f0d37c1d681976c7279030be45a591c94",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -15688,7 +15768,7 @@
       "title": "Titanium & Titanium Alloys — Custom Screw Strength & Uses | ZUFEK",
       "description": "Titanium &amp; Titanium Alloys strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
-      "englishBodyHash": "0bf1a23828657e10b41b2b6ca7461dfa603b9c92f08f2434b259a4b43e9f0ba9",
+      "englishBodyHash": "d5add0fbbfedccd545d8e7b2890f7a5c2d815ea06b563401ca405601a51051ee",
       "headings": [
         {
           "level": 1,
@@ -15697,6 +15777,18 @@
         {
           "level": 2,
           "text": "Strength reference"
+        },
+        {
+          "level": 2,
+          "text": "Compare grades and delivery conditions"
+        },
+        {
+          "level": 3,
+          "text": "How to narrow the choice"
+        },
+        {
+          "level": 3,
+          "text": "Write an unambiguous material requirement"
         },
         {
           "level": 2,
@@ -15774,42 +15866,44 @@
       ],
       "externalLinks": [
         "https://www.carpentertechnology.com/hubfs/7407324/Material%20Saftey%20Data%20Sheets/Ti%206Al-4V.pdf",
-        "https://www.carpentertechnology.com/hubfs/7407324/Material%20Saftey%20Data%20Sheets/Ti%20CP%20Grade%202.pdf"
+        "https://www.carpentertechnology.com/hubfs/7407324/Material%20Saftey%20Data%20Sheets/Ti%20CP%20Grade%202.pdf",
+        "https://www.carpentertechnology.com/alloy-finder/Ti-6Al-4V",
+        "https://www.carpentertechnology.com/hubfs/Data%20Sheets/20210902--CT_Ti64ELI_Medical_Datasheet_F.pdf"
       ],
       "recordedSources": [],
       "sourceLocations": [
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Materials / Titanium & Titanium Alloys GRADE / CONDITION / FINAL REQUIREMENT Titanium & Titanium Alloys Titanium grades are considered where mass, corrosion exposure and required mechanical properties justify a grade-specific manufacturing and verification plan. Material appearance reference; grade and properties require documentation. Strength reference Commercially pure Grade 2 and Ti-6Al-4V are different materials. Grade, product form and condition must accompany any strength value. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference Ti-6Al-4V annealed material example 896 minimum 827 minimum Carpenter minimum specified material data; verify applicable stock and order requirements. CP Titanium Grade 2 reference Confirm the specified product 275 minimum yield reference Carpenter Grade 2 reference; not a Ti-6Al-4V equivalent. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Why consider this family? Useful strength-to-mass considerations for suitable grades Corrosion-driven material selection in appropriate environments Custom turned features can be evaluated against the specific grade Application range Lightweight equipment, optical and precision assemblies, and selected corrosion-exposed custom connections. Selection and process considerations A titanium label does not imply an aerospace or medical qualification. Review grade, final condition, thread galling, surface treatment, mating metals and verification. Exact mechanical and traceability requirements need agreement before production. Include in the RFQ Exact titanium grade and condition Required mechanical properties Surface and assembly requirements Traceability and verification scope Related products and manufacturing routes Shoulder & Step Screws ↗ Fine & Extra-Fine Pitch Screws ↗ Special Head Screws ↗ Swiss-Type & CNC Turning ↗ Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Electronics & Optical Equipment ↗ Industrial Automation ↗ Fluid Control & Pneumatic Equipment ↗ Material reference sources Carpenter: Ti-6Al-4V data sheet ↗ Carpenter: CP titanium Grade 2 data ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Commercially pure Grade 2 and Ti-6Al-4V are different materials. Grade, product form and condition must accompany any strength value. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. A titanium label does not imply an aerospace or medical qualification. Review grade, final condition, thread galling, surface treatment, mating metals and verification. Exact mechanical and traceability requirements need agreement before production. A practical selection and approval sequence For Titanium & Titanium Alloys, first define exact titanium grade and condition; required mechanical properties; surface and assembly requirements; traceability and verification scope. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Cleaning, Locking & Assembly, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. ENGINEERING GUIDE First-article approval for custom screws: a practical handoff ↗ A sample is most useful when its identity, revision and acceptance scope are clear. First-article planning connects the approved drawing with the evidence needed before the next production decision. START YOUR NEXT PROJECT Discuss titanium & titanium alloys for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Materials / Titanium & Titanium Alloys GRADE / CONDITION / FINAL REQUIREMENT Titanium & Titanium Alloys Titanium grades are considered where mass, corrosion exposure and required mechanical properties justify a grade-specific manufacturing and verification plan. Material appearance reference; grade and properties require documentation. Strength reference Commercially pure Grade 2 and Ti-6Al-4V are different materials. Grade, product form and condition must accompany any strength value. Grade / condition / basis Tensile strength Rm (MPa) Yield / 0.2% stress (MPa) Scope of the reference Ti-6Al-4V annealed material example 896 minimum 827 minimum Carpenter minimum specified material data; verify applicable stock and order requirements. CP Titanium Grade 2 reference Confirm the specified product 275 minimum yield reference Carpenter Grade 2 reference; not a Ti-6Al-4V equivalent. Values refer to the stated material or fastener-class basis. They are not a certified property or load rating for every ZUFEK custom geometry. Confirm the applicable specification and test condition for the ordered part. Compare grades and delivery conditions A material family is a starting point, not a complete specification. The following options are selection references; supply and suitability require drawing review. Grade or specified condition What distinguishes it When to consider it What to confirm before ordering Grade 2 — commercially pure titanium Specify product form and supplied condition. Corrosion-driven components where its mechanical properties meet the design. Not mechanically interchangeable with Ti-6Al-4V. Grade 5 — Ti-6Al-4V An alloy grade with a different strength and processing basis. Weight-sensitive loaded components where the complete specification justifies it. State condition and acceptance; titanium does not imply aerospace qualification. Grade 23 — Ti-6Al-4V ELI Extra-low-interstitial variant with a distinct specification. Consider only when the drawing or application requires this variant. Not automatic medical approval; traceability and application qualification are separate requirements. How to narrow the choice First decide whether commercially pure titanium or an alloy is needed. Then specify the exact grade, product standard, condition, surface requirements and verification. Review thread galling and mating surfaces during assembly planning. Write an unambiguous material requirement Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute. If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material. Why consider this family? Useful strength-to-mass considerations for suitable grades Corrosion-driven material selection in appropriate environments Custom turned features can be evaluated against the specific grade Application range Lightweight equipment, optical and precision assemblies, and selected corrosion-exposed custom connections. Selection and process considerations A titanium label does not imply an aerospace or medical qualification. Review grade, final condition, thread galling, surface treatment, mating metals and verification. Exact mechanical and traceability requirements need agreement before production. Include in the RFQ Exact titanium grade and condition Required mechanical properties Surface and assembly requirements Traceability and verification scope Related products and manufacturing routes Shoulder & Step Screws ↗ Fine & Extra-Fine Pitch Screws ↗ Special Head Screws ↗ Swiss-Type & CNC Turning ↗ Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗ Relevant application discussions Electronics & Optical Equipment ↗ Industrial Automation ↗ Fluid Control & Pneumatic Equipment ↗ Material reference sources Carpenter: Ti-6Al-4V data sheet ↗ Carpenter: CP titanium Grade 2 data ↗ Carpenter: Ti-6Al-4V alloy data ↗ Carpenter: Ti-6Al-4V ELI data sheet ↗ Choose material and finished strength together Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance. Follow the material and strength selection workflow ↗ Read the strength data in the right condition Commercially pure Grade 2 and Ti-6Al-4V are different materials. Grade, product form and condition must accompany any strength value. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure. A titanium label does not imply an aerospace or medical qualification. Review grade, final condition, thread galling, surface treatment, mating metals and verification. Exact mechanical and traceability requirements need agreement before production. A practical selection and approval sequence For Titanium & Titanium Alloys, first define exact titanium grade and condition; required mechanical properties; surface and assembly requirements; traceability and verification scope. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations. Review the chosen material with Swiss-Type & CNC Turning, Cleaning, Locking & Assembly, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Choosing material for a custom metal screw ↗ Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification. ENGINEERING GUIDE First-article approval for custom screws: a practical handoff ↗ A sample is most useful when its identity, revision and acceptance scope are clear. First-article planning connects the approved drawing with the evidence needed before the next production decision. START YOUR NEXT PROJECT Discuss titanium & titanium alloys for your drawing. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "9d8a3e242d6e742b50c324f2fecc12caeef186160bb434cf80189c2fe2bd550a",
+          "repositoryHash": "1303832654e58d6f24d8faf1cfe219891e6722c94b8cf665f388eb880adcef39",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "e11d12a260fa5098973c44112a598ee7ab89ef5c8db29cef142c4c17dee3acbb",
+          "repositoryHash": "ed18c0905d464a64b981e1f4325b01f5904cc0d1137256b4a88f9796342de158",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "f4567fcc68d6744fb5dc0a6320f69b924b2e47194f004556b39e6515c8bca701",
+          "repositoryHash": "c33f3e514f43e1e85bf9f944cc968e518112df44a4c9097ac32c4960f1544983",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "d084320267cffdb1f652a9334fb08ba4d0139eeb50b4f8f01d962494b420935f",
+          "repositoryHash": "1c804d997fff5e1f49135efba21507595992e15b524213f062e273d0ce15dd9c",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "b322246d16dfc59a385aead8b5911869ec6d60a5c0da98adb9718c94e18130f6",
+          "repositoryHash": "8628dbc44d8ae34268a6fc40e17924c7df48b9dade8a3170255525bcf6b7fcf4",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
