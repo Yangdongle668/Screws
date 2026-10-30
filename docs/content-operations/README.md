@@ -6,7 +6,7 @@ This package records existing content and defines separate English prompts. The 
 
 1. Regenerate the website if content sources have changed, following the repository validation workflow.
 2. Run `node scripts/content-inventory.mjs`, then `node scripts/content-inventory.mjs --check`.
-3. Read PRINCIPLES.md and task-ledger.json. Read inventory.json summary first, then relevant complete page records. Do not send the entire inventory blindly to the model; retrieve candidate records and their linked context within a token budget.
+3. Read COMPANY-FACTS.md, PRINCIPLES.md and task-ledger.json. Read inventory.json summary first, then relevant complete page records. Do not send the entire inventory blindly to the model; retrieve candidate records and their linked context within a token budget.
 4. Select exactly one specialist prompt. All require PRINCIPLES.md; the specialist supplies its own task-specific requirements.
 
 | Task | Prompt | What it must demonstrate |
