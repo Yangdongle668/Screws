@@ -97,6 +97,24 @@ Core Custom Screws
 
 Headless threaded components transfer a locating or clamping action through a specified tip.
 
+#### Industries ↗
+
+##### Automotive Components ↗
+
+Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
+
+##### Industrial Automation ↗
+
+Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.
+
+##### Electronics & Optical Equipment ↗
+
+Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.
+
+##### Energy, Charging & Storage Equipment ↗
+
+Custom fastening and connection geometries for equipment housings, brackets, routing features and electrical interface components.
+
 Cold Heading + Secondary Machining
 
 A clear drawing makes a better conversation. 02 / FROM SPECIFICATION TO SOLUTION
@@ -123,35 +141,39 @@ Discuss material, finish, functional dimensions and inspection needs.
 
 Agree feasibility, quotation and sample requirements before proceeding.
 
-Explore our custom approach ↗
+Explore our custom approach ↗ Multi-Station Cold Heading ↗ Cold Heading + Secondary Machining ↗ Swiss-Type & CNC Turning ↗ Hot Heading & Forging ↗
 
-03 / A CLEARER PATH
+#### Materials ↗
 
-#### From your inbox to the next step.
+##### Carbon & Alloy Steel ↗
 
-Prepare your RFQ ↗ 01
+A practical choice for drawing-defined fasteners where the required mechanical class, wear behavior and surface protection can be specified together.
 
-##### Submit your drawing
+##### SUS304 & SUS316 Stainless Steel ↗
 
-Tell us the dimensions, quantity and application.
+Austenitic stainless choices for parts where corrosion exposure, surface condition and the specified fastener strength class need to be considered together.
 
-02
+##### Aluminum Alloys ↗
 
-##### Technical review
+Lightweight metal options for custom threaded parts where the alloy, temper, engagement and surface requirements can be engineered for the application.
 
-Clarify requirements and confirm feasibility.
+##### Copper ↗
 
-03
+A material family considered where electrical or thermal function is important alongside the geometry and mechanical acceptance of the custom component.
 
-##### Quotation & samples
+##### Brass ↗
 
-Agree scope, pricing and sample approval where needed.
+Copper-zinc alloys can be useful for drawing-specific machined threaded components where machining behavior, contact conditions and the selected alloy composition fit the application.
 
-04
+##### Titanium & Titanium Alloys ↗
 
-##### Production & verification
+Titanium grades are considered where mass, corrosion exposure and required mechanical properties justify a grade-specific manufacturing and verification plan.
 
-Confirm the order and agreed inspection requirements.
+#### CCD Vision & Dimensional Inspection
+
+Non-contact optical checks for screw length, head diameter and visible stepped profiles, combined with the gauges and tests required by the drawing.
+
+CCD Vision & Dimensional Inspection ↗ Define the check. Agree the evidence. ↗ CCD Vision & Dimensional Inspection
 
 04 / ENGINEERING KNOWLEDGE
 
@@ -184,14 +206,6 @@ APPLICATION DESIGN STUDIES
 Two illustrative projects connect assembly needs with fastener structure, material, processing and an approval plan.
 
 Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Browse application design studies ↗
-
-#### Sampling, tooling and production planning
-
-Typical sampling lead time, including tooling, is approximately 10–15 days. The confirmed schedule follows drawing review and agreement on material, geometry, surface treatment and inspection requirements. Clarify the starting milestone in the quotation. Repeat-production delivery is quoted separately for the quantity and approved route.
-
-Send a drawing revision, sample quantity, expected order volume and the intended application. Identify functional dimensions and required documents so the technical review can resolve the important details before tooling and sample approval.
-
-Prepare the RFQ checklist ↗ Compare complete manufacturing routes ↗
 
 ### Custom Fastener Inspection & Quality Planning
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/quality/

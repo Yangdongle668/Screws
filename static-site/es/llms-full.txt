@@ -97,6 +97,24 @@ Tornillos especiales principales
 
 Estas piezas roscadas sin cabeza actúan sobre el componente de contacto mediante una punta definida para posicionarlo o sujetarlo.
 
+#### Industrias ↗
+
+##### Componentes automotrices ↗
+
+Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
+
+##### Automatización Industrial ↗
+
+Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de posicionamiento y equipos de automatización.
+
+##### Equipos electrónicos y ópticos ↗
+
+sujetadores definidos por planos de ingeniería para carcasas compactas, mecanismos de ajuste óptico y conjuntos de módulos de precisión.
+
+##### Equipos de energía, carga y almacenamiento ↗
+
+Geometrías de conexión y sujeción personalizadas para carcasas de equipos, soportes, funciones de enrutamiento y componentes de interfaz eléctrica.
+
 Estampación en frío y mecanizado secundario
 
 Un dibujo de ingeniería claro mejora la conversación. 02 / DE LA ESPECIFICACIÓN A LA SOLUCIÓN
@@ -123,35 +141,39 @@ Analice el material, el acabado, las dimensiones funcionales y las necesidades d
 
 Acuerde los requisitos de viabilidad, cotización y muestra antes de continuar.
 
-Explore nuestro enfoque personalizado ↗
+Explore nuestro enfoque personalizado ↗ Estampación en frío multiestación ↗ Estampación en frío y mecanizado secundario ↗ Torneado de cabezal móvil y CNC ↗ Recalcado y forja en caliente ↗
 
-03 / UN CAMINO MÁS CLARO
+#### Materiales ↗
 
-#### Desde tu bandeja de entrada al siguiente paso.
+##### Acero al carbono y aleado ↗
 
-Prepare su RFQ ↗ 01
+Una opción práctica para sujetadores definidos por planos de ingeniería donde se pueden especificar juntos la clase mecánica requerida, el comportamiento de desgaste y la protección de la superficie.
 
-##### Envíe su dibujo de ingeniería
+##### SUS304 y SUS316 Acero inoxidable ↗
 
-Díganos las dimensiones, cantidad y aplicación.
+Opciones de acero inoxidable austenítico para piezas donde es necesario considerar en conjunto la exposición a la corrosión, la condición de la superficie y la clase de resistencia de los sujetadores especificada.
 
-02
+##### Aleaciones de aluminio ↗
 
-##### Revisión técnica
+Opciones de metal liviano para piezas roscadas personalizadas donde los requisitos de aleación, temple, compromiso y superficie se pueden diseñar para la aplicación.
 
-Aclarar los requisitos y confirmar la viabilidad.
+##### Cobre ↗
 
-03
+Una familia de materiales considerada donde la función eléctrica o térmica es importante junto con la geometría y la aceptación mecánica del componente personalizado.
 
-##### Cotización y muestras
+##### Latón ↗
 
-Acuerde el alcance, el precio y la aprobación de la muestra cuando sea necesario.
+Las aleaciones de cobre y zinc pueden ser útiles para diseñar componentes roscados mecanizados específicos para planos donde el comportamiento del mecanizado, las condiciones de contacto y la composición de la aleación seleccionada se ajustan a la aplicación.
 
-04
+##### Titanio y aleaciones de titanio ↗
 
-##### Producción y verificación
+Se consideran grados de titanio donde la masa, la exposición a la corrosión y las propiedades mecánicas requeridas justifican un plan de fabricación y verificación específico para el grado.
 
-Confirmar el pedido y los requisitos de inspección acordados.
+#### Inspección dimensional y visión CCD
+
+Comprobaciones ópticas sin contacto de la longitud del tornillo, el diámetro de la cabeza y los perfiles escalonados visibles, combinadas con los calibres y pruebas requeridos por el plano de ingeniería.
+
+Inspección dimensional y visión CCD ↗ Defina el cheque. Acepta la evidencia. ↗ Inspección dimensional y visión CCD
 
 04 / CONOCIMIENTOS DE INGENIERÍA
 
@@ -184,14 +206,6 @@ ESTUDIOS DE DISEÑO DE APLICACIONES
 Dos proyectos ilustrativos conectan las necesidades de montaje con la estructura del sujetador, el material, el procesamiento y un plan de aprobación.
 
 Caja de módulo automotriz ↗ Pivote de automatización y dispositivo de ajuste ↗ Explorar estudios de diseño de aplicaciones ↗
-
-#### Muestreo, utillaje y planificación de la producción.
-
-El plazo típico de producción de muestras de prototipos, incluidas las herramientas, es de aproximadamente 10–15 días. El cronograma confirmado sigue la revisión de los planos de ingeniería y el acuerdo sobre el material, la geometría, el tratamiento de la superficie y los requisitos de inspección. Aclare el hito inicial en la cotización. La entrega de producción repetida se cotiza por separado para la cantidad y la ruta aprobada.
-
-Envíe una revisión del dibujo de ingeniería, la cantidad de muestra, el volumen de pedido esperado y la aplicación prevista. Identifique las dimensiones funcionales y los documentos requeridos para que la revisión técnica pueda resolver los detalles importantes antes de la aprobación de herramientas y muestras.
-
-Prepare la lista de verificación de RFQ ↗ Comparar rutas de fabricación completas ↗
 
 ### Inspección de sujetadores personalizados y planificación de calidad
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/quality/

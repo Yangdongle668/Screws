@@ -97,6 +97,24 @@ Gängige Sonderschrauben
 
 Gewindestifte wirken über die festgelegte Spitzenform auf das Gegenstück und übernehmen so eine Positionier-, Klemm- oder Anschlagfunktion.
 
+#### Branchen ↗
+
+##### Automobilkomponenten ↗
+
+Kundenspezifische Gewindekomponenten für Halterungen, Gerätemodule und andere in Konstruktionszeichnungen definierte Automobilkomponentenbaugruppen.
+
+##### Industrielle Automatisierung ↗
+
+Schulter-, Tritt- und Verstellbefestigungen für Führungsmechanismen, Positionierstationen und Automatisierungsgeräte.
+
+##### Elektronische und optische Geräte ↗
+
+Konstruktionszeichnungsdefinierte Verbindungselemente für kompakte Gehäuse, optische Einstellmechanismen und Präzisionsmodulbaugruppen.
+
+##### Energie-, Lade- und Speicherausrüstung ↗
+
+Kundenspezifische Befestigungs- und Verbindungsgeometrien für Gerätegehäuse, Halterungen, Verlegeelemente und elektrische Schnittstellenkomponenten.
+
 Kaltstauchen mit anschließender Zerspanung
 
 Eine klare technische Zeichnung sorgt für ein besseres Gespräch. 02 / VON DER SPEZIFIKATION ZUR LÖSUNG
@@ -123,35 +141,39 @@ Besprechen Sie Material, Verarbeitung, Funktionsabmessungen und Inspektionsbedar
 
 Vereinbaren Sie Machbarkeit, Angebot und Musteranforderungen, bevor Sie fortfahren.
 
-Entdecken Sie unseren maßgeschneiderten Ansatz ↗
+Entdecken Sie unseren maßgeschneiderten Ansatz ↗ Mehrstufen-Kaltstauchen ↗ Kaltstauchen mit anschließender Zerspanung ↗ Langdrehen und CNC-Drehen ↗ Warmstauchen und Warmumformen ↗
 
-03 / EIN KLARERER WEG
+#### Materialien ↗
 
-#### Von Ihrem Posteingang zum nächsten Schritt.
+##### Kohlenstoff- und legierter Stahl ↗
 
-Bereiten Sie Ihre Angebotsanfrage vor ↗ 01
+Eine praktische Wahl für durch Konstruktionszeichnungen definierte Verbindungselemente, bei denen die erforderliche mechanische Klasse, das Verschleißverhalten und der Oberflächenschutz gemeinsam spezifiziert werden können.
 
-##### Senden Sie Ihre technische Zeichnung
+##### SUS304 & SUS316 Edelstahl ↗
 
-Teilen Sie uns die Maße, Menge und Anwendung mit.
+Auswahl aus austenitischem Edelstahl für Teile, bei denen Korrosionseinwirkung, Oberflächenzustand und die angegebene Festigkeitsklasse des Befestigungselements gemeinsam berücksichtigt werden müssen.
 
-02
+##### Aluminiumlegierungen ↗
 
-##### Technische Überprüfung
+Leichtmetalloptionen für kundenspezifische Gewindeteile, bei denen Legierung, Härte, Eingriff und Oberflächenanforderungen für die Anwendung angepasst werden können.
 
-Anforderungen klären und Machbarkeit bestätigen.
+##### Kupfer ↗
 
-03
+Eine Materialfamilie, bei der neben der Geometrie und der mechanischen Akzeptanz der kundenspezifischen Komponente auch die elektrische oder thermische Funktion wichtig ist.
 
-##### Angebot und Muster
+##### Messing ↗
 
-Vereinbaren Sie bei Bedarf Umfang, Preise und Mustergenehmigung.
+Kupfer-Zink-Legierungen können für die Konstruktion zeichnungsspezifischer bearbeiteter Gewindekomponenten nützlich sein, bei denen das Bearbeitungsverhalten, die Kontaktbedingungen und die ausgewählte Legierungszusammensetzung zur Anwendung passen.
 
-04
+##### Titan und Titanlegierungen ↗
 
-##### Produktion & Verifizierung
+Titansorten werden in Betracht gezogen, wenn Masse, Korrosionseinwirkung und erforderliche mechanische Eigenschaften einen sortenspezifischen Herstellungs- und Verifizierungsplan rechtfertigen.
 
-Bestätigen Sie die Bestellung und die vereinbarten Prüfanforderungen.
+#### CCD-Bildverarbeitung und Maßprüfung
+
+Berührungslose optische Kontrollen von Schraubenlänge, Kopfdurchmesser und sichtbaren Stufenprofilen, kombiniert mit den in der Konstruktionszeichnung geforderten Lehren und Prüfungen.
+
+CCD-Bildverarbeitung und Maßprüfung ↗ Definieren Sie die Prüfung. Stimmen Sie den Beweisen zu. ↗ CCD-Bildverarbeitung und Maßprüfung
 
 04 / INGENIEURWISSEN
 
@@ -184,14 +206,6 @@ ANWENDUNGSDESIGN-STUDIEN
 Zwei anschauliche Projekte verbinden Montageanforderungen mit Verbindungselementstruktur, Material, Verarbeitung und einem Genehmigungsplan.
 
 Automotive-Modulgehäuse ↗ Automatisierungsdreh- und Verstellvorrichtung ↗ Durchsuchen Sie Studien zum Anwendungsdesign ↗
-
-#### Bemusterung, Werkzeugbau und Produktionsplanung
-
-Die typische Vorlaufzeit für die Herstellung von Prototypmustern, einschließlich der Werkzeuge, beträgt etwa 10–15 Tage. Der bestätigte Zeitplan folgt der Prüfung der technischen Zeichnung und der Einigung über Material-, Geometrie-, Oberflächenbehandlungs- und Inspektionsanforderungen. Klären Sie den Startmeilenstein im Angebot. Die Lieferung von Wiederholungsproduktionen wird für die Menge und die genehmigte Route separat angeboten.
-
-Senden Sie eine überarbeitete technische Zeichnung, eine Mustermenge, das erwartete Bestellvolumen und die beabsichtigte Anwendung. Identifizieren Sie Funktionsabmessungen und erforderliche Dokumente, damit die technische Überprüfung vor der Werkzeug- und Musterfreigabe wichtige Details klären kann.
-
-Bereiten Sie die RFQ-Checkliste vor ↗ Vergleichen Sie komplette Fertigungswege ↗
 
 ### Kundenspezifische Inspektion und Qualitätsplanung von Verbindungselementen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/quality/

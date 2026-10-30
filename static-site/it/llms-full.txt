@@ -97,6 +97,24 @@ Principali viti speciali
 
 Questi elementi filettati senza testa agiscono sul componente di contatto attraverso l’estremità prevista, per posizionarlo o bloccarlo.
 
+#### Industrie ↗
+
+##### Componenti automobilistici ↗
+
+Componenti filettati personalizzati per staffe, moduli di equipaggiamento e altri gruppi di componenti automobilistici definiti da disegni tecnici.
+
+##### Automazione industriale ↗
+
+Elementi di fissaggio a spalla, gradino e regolazione per meccanismi guidati, stazioni di posizionamento e apparecchiature di automazione.
+
+##### Elettronica e apparecchiature ottiche ↗
+
+elementi di fissaggio definiti dal disegno tecnico per alloggiamenti compatti, meccanismi di regolazione ottica e gruppi di moduli di precisione.
+
+##### Attrezzature per energia, ricarica e stoccaggio ↗
+
+Geometrie di fissaggio e connessione personalizzate per alloggiamenti di apparecchiature, staffe, caratteristiche di instradamento e componenti di interfaccia elettrica.
+
 Stampaggio a freddo e lavorazioni meccaniche secondarie
 
 Un disegno tecnico chiaro rende la conversazione migliore. 02 / DALLA SPECIFICA ALLA SOLUZIONE
@@ -123,35 +141,39 @@ Discutere materiale, finitura, dimensioni funzionali ed esigenze di ispezione.
 
 Concordare la fattibilità, il preventivo e i requisiti del campione prima di procedere.
 
-Esplora il nostro approccio personalizzato ↗
+Esplora il nostro approccio personalizzato ↗ Stampaggio a freddo multistazione ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Tornitura a fantina mobile e CNC ↗ Ricalcatura e forgiatura a caldo ↗
 
-03 / UN PERCORSO PIÙ CHIARO
+#### Materiali ↗
 
-#### Dalla tua casella di posta al passaggio successivo.
+##### Acciaio al carbonio e legato ↗
 
-Prepara la tua richiesta di offerta ↗ 01
+Una scelta pratica per elementi di fissaggio definiti dal disegno tecnico in cui è possibile specificare insieme la classe meccanica richiesta, il comportamento all'usura e la protezione superficiale.
 
-##### Invia il tuo disegno tecnico
+##### SUS304 & SUS316 Acciaio inossidabile ↗
 
-Comunicaci le dimensioni, la quantità e l'applicazione.
+Scelte di acciaio inossidabile austenitico per parti in cui è necessario considerare insieme l'esposizione alla corrosione, le condizioni della superficie e la classe di resistenza degli elementi di fissaggio specificata.
 
-02
+##### Leghe di alluminio ↗
 
-##### Revisione tecnica
+Opzioni in metallo leggero per parti filettate personalizzate in cui i requisiti di lega, stato fisico, impegno e superficie possono essere progettati per l'applicazione.
 
-Chiarire i requisiti e confermare la fattibilità.
+##### Rame ↗
 
-03
+Una famiglia di materiali considerata in cui la funzione elettrica o termica è importante insieme alla geometria e all'accettazione meccanica del componente personalizzato.
 
-##### Preventivo e campioni
+##### Ottone ↗
 
-Concordare ambito, prezzo e approvazione del campione ove necessario.
+Le leghe rame-zinco possono essere utili per componenti filettati lavorati a macchina specifici del disegno tecnico in cui il comportamento di lavorazione, le condizioni di contatto e la composizione della lega selezionata si adattano all'applicazione.
 
-04
+##### Titanio e leghe di titanio ↗
 
-##### Produzione e verifica
+I gradi di titanio vengono presi in considerazione laddove la massa, l'esposizione alla corrosione e le proprietà meccaniche richieste giustificano un piano di produzione e verifica specifico per il grado.
 
-Confermare l'ordine e i requisiti di ispezione concordati.
+#### Controllo dimensionale e visione CCD
+
+Controlli ottici senza contatto della lunghezza della vite, del diametro della testa e dei profili a gradini visibili, abbinati ai calibri e alle prove previste dal disegno tecnico.
+
+Controllo dimensionale e visione CCD ↗ Definire l'assegno. Accetta le prove. ↗ Controllo dimensionale e visione CCD
 
 04 / CONOSCENZE INGEGNERIstiche
 
@@ -184,14 +206,6 @@ STUDI DI PROGETTAZIONE APPLICATIVA
 Due progetti illustrativi collegano le esigenze di assemblaggio con la struttura degli elementi di fissaggio, il materiale, la lavorazione e un piano di approvazione.
 
 Custodia del modulo automobilistico ↗ Perno di automazione e dispositivo di regolazione ↗ Sfoglia gli studi di progettazione delle applicazioni ↗
-
-#### Campionatura, attrezzaggio e pianificazione della produzione
-
-Il tempo di produzione tipico del campione del prototipo, inclusa l'attrezzatura, è di circa 10–15 giorni. Il programma confermato segue la revisione dei disegni tecnici e l'accordo sui requisiti di materiale, geometria, trattamento superficiale e ispezione. Chiarire la tappa iniziale nella citazione. La consegna per produzione ripetuta viene quotata separatamente in base alla quantità e al percorso approvato.
-
-Invia una revisione del disegno tecnico, la quantità del campione, il volume dell'ordine previsto e l'applicazione prevista. Identificare le dimensioni funzionali e i documenti richiesti in modo che la revisione tecnica possa risolvere i dettagli importanti prima dell'approvazione degli strumenti e del campione.
-
-Preparare la lista di controllo della richiesta di offerta ↗ Confronta i percorsi di produzione completi ↗
 
 ### Ispezione di elementi di fissaggio personalizzati e pianificazione della qualità
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/quality/

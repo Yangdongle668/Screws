@@ -97,6 +97,24 @@ Principales vis spéciales
 
 Ces éléments filetés sans tête agissent sur la pièce en contact par une extrémité définie, afin de la positionner ou de la bloquer.
 
+#### Secteurs ↗
+
+##### Composants automobiles ↗
+
+Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
+
+##### Automatisation industrielle ↗
+
+Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, postes de positionnement et équipements d'automatisation.
+
+##### Équipement électronique et optique ↗
+
+fixations définies par des dessins techniques pour boîtiers compacts, mécanismes de réglage optique et assemblages de modules de précision.
+
+##### Équipements d'énergie, de recharge et de stockage ↗
+
+Géométries de fixation et de connexion personnalisées pour les boîtiers d'équipement, les supports, les éléments de routage et les composants d'interface électrique.
+
 Frappe à froid et usinage secondaire
 
 Un dessin technique clair facilite une meilleure conversation. 02 / DE LA SPÉCIFICATION À LA SOLUTION
@@ -123,35 +141,39 @@ Discutez des matériaux, de la finition, des dimensions fonctionnelles et des be
 
 Convenez des exigences de faisabilité, de devis et d’échantillon avant de continuer.
 
-Découvrez notre approche personnalisée ↗
+Découvrez notre approche personnalisée ↗ Frappe à froid multiposte ↗ Frappe à froid et usinage secondaire ↗ Décolletage à poupée mobile et tournage CNC ↗ Refoulement et forgeage à chaud ↗
 
-03 / UN CHEMIN PLUS CLAIR
+#### Matériaux ↗
 
-#### De votre boîte de réception à l'étape suivante.
+##### Acier au carbone et allié ↗
 
-Préparez votre demande de prix ↗ 01
+Un choix pratique pour les fixations définies par des dessins techniques où la classe mécanique requise, le comportement à l'usure et la protection de surface peuvent être spécifiés ensemble.
 
-##### Soumettez votre dessin technique
+##### SUS304 & SUS316 Acier inoxydable ↗
 
-Dites-nous les dimensions, la quantité et l'application.
+Choix d'acier inoxydable austénitique pour les pièces où l'exposition à la corrosion, l'état de surface et la classe de résistance des fixations spécifiée doivent être pris en compte ensemble.
 
-02
+##### Alliages d'aluminium ↗
 
-##### Examen technique
+Options de métaux légers pour pièces filetées personnalisées où les exigences en matière d'alliage, de trempe, d'engagement et de surface peuvent être conçues pour l'application.
 
-Clarifier les exigences et confirmer la faisabilité.
+##### Cuivre ↗
 
-03
+Une famille de matériaux considérée où la fonction électrique ou thermique est importante parallèlement à la géométrie et à l'acceptation mécanique du composant personnalisé.
 
-##### Devis et échantillons
+##### Laiton ↗
 
-Convenez de la portée, du prix et de l’approbation des échantillons si nécessaire.
+Les alliages cuivre-zinc peuvent être utiles pour les composants filetés usinés spécifiques aux dessins techniques où le comportement d'usinage, les conditions de contact et la composition de l'alliage sélectionné conviennent à l'application.
 
-04
+##### Titane et alliages de titane ↗
 
-##### Production et vérification
+Les nuances de titane sont prises en compte lorsque la masse, l'exposition à la corrosion et les propriétés mécaniques requises justifient un plan de fabrication et de vérification spécifique à la nuance.
 
-Confirmez la commande et les exigences d’inspection convenues.
+#### Contrôle dimensionnel et vision CCD
+
+Contrôles optiques sans contact pour la longueur des vis, le diamètre de la tête et les profils étagés visibles, combinés aux jauges et aux tests requis par le dessin technique.
+
+Contrôle dimensionnel et vision CCD ↗ Définir le chèque. Acceptez les preuves. ↗ Contrôle dimensionnel et vision CCD
 
 04 / CONNAISSANCES EN INGÉNIERIE
 
@@ -184,14 +206,6 @@ Par Theo Wan Lire le guide technique →
 Deux projets illustratifs relient les besoins d'assemblage à la structure des fixations, aux matériaux, au traitement et à un plan d'approbation.
 
 Boîtier de module automobile ↗ Pivot d'automatisation et dispositif de réglage ↗ Parcourir les études de conception d'applications ↗
-
-#### Échantillonnage, outillage et planification de la production
-
-Le délai typique de production d’échantillons de prototypes, outillage compris, est d’environ 10–15 jours. Le calendrier confirmé fait suite à l’examen des dessins techniques et à l’accord sur les exigences en matière de matériaux, de géométrie, de traitement de surface et d’inspection. Clarifiez l’étape de départ dans le devis. La livraison de production répétée est indiquée séparément pour la quantité et l'itinéraire approuvé.
-
-Envoyez une révision du dessin technique, la quantité d’échantillon, le volume de commande attendu et l’application prévue. Identifiez les dimensions fonctionnelles et les documents requis afin que l'examen technique puisse résoudre les détails importants avant l'approbation de l'outillage et des échantillons.
-
-Préparer la liste de contrôle de la RFQ ↗ Comparez les itinéraires de fabrication complets ↗
 
 ### Inspection des fixations personnalisées et planification de la qualité
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/quality/
