@@ -1,4 +1,3 @@
-import {intentNavigation} from '../lib/seo/search-intent.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {locales,localePath,localizeHtml,collectStrings} from '../lib/i18n/core.mjs';
@@ -11,7 +10,7 @@ export function generateLanguages(pages,origin){
  for(const [url,html]of base)for(const locale of locales){let translated=localizeHtml(html,{locale,base:url,origin,dictionary:dictionaries[locale],paths,strict:true});
   translated=translated.replace('</head>','<script id="locale-ui" type="application/json">'+JSON.stringify({locale,messages:ui[locale]}).replaceAll('<','\\u003c')+'</script></head>');
   if(url==='/request-a-quote/')translated=translated.replace('<form id="quote-form"','<form data-locale="'+locale+'" id="quote-form"');
-  translated=intentNavigation(translated);const localized=localePath(url,locale);pages[localized]=translated;const output=path.join('static-site',localized,'index.html');fs.mkdirSync(path.dirname(output),{recursive:true});writeFile(output,translated);
+  const localized=localePath(url,locale);pages[localized]=translated;const output=path.join('static-site',localized,'index.html');fs.mkdirSync(path.dirname(output),{recursive:true});writeFile(output,translated);
  }
  writeFile('lib/i18n/routes.json',JSON.stringify(routeMap));writeFile('lib/i18n/ui.json',JSON.stringify(ui));
  writeFile('lib/runtime-pages.json',JSON.stringify(Object.fromEntries(Object.entries(pages).filter(([url])=>!/^\/(de|es|it|zh|fr)\//.test(url)))));
