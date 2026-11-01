@@ -7,3 +7,10 @@ assert.throws(()=>parseTextContract(fixedFields(article).replace('ZUFEK_FIELDS_E
 assert.throws(()=>parseTextContract('ZUFEK_FIELDS_V1\n@@FIELD object /\n@@END\n@@FIELD string /__proto__\nx\n@@END\nZUFEK_FIELDS_END'));
 assert.throws(()=>parseTextContract(fixedFields(article).replace('/article/sections/0','/article/sections/2')));
 console.log(JSON.stringify({fixedTextRoundTrip:true,paragraphsAndQuotesPreserved:true,truncationRejected:true,unsafePathsRejected:true}));
+
+const original=fixedFields(article),duplicate='@@FIELD string /article/intro\n'+article.article.intro+'\n@@END\n',repairs=[];
+assert.deepEqual(parseTextContract(original.replace('ZUFEK_FIELDS_END',duplicate+'ZUFEK_FIELDS_END'),{onDuplicate:d=>repairs.push(d)}),article);
+assert.equal(repairs.length,1);
+assert.throws(()=>parseTextContract(original.replace('ZUFEK_FIELDS_END','@@FIELD string /article/intro\nDifferent body\n@@END\nZUFEK_FIELDS_END')),/冲突/);
+assert.deepEqual(parseTextContract(original.replace('ZUFEK_FIELDS_END','@@FIELD object /article\n@@END\nZUFEK_FIELDS_END')),article);
+assert.deepEqual(parseTextContract(original.replace('ZUFEK_FIELDS_END','@@FIELD string /article/intro\n\n@@END\nZUFEK_FIELDS_END')),article);
