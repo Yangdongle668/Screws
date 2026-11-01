@@ -1,6 +1,6 @@
 # Complete article JSON delivery contract — zufek.article.v1
 
-This contract governs the final DRAFT output for technical blogs, industry insights, engineering guides and existing-article updates. Keep the specialist prompt's editorial purpose; use one shared delivery format. The server supplies the authoritative JSON Schema in outputSchema. Return exactly one JSON object, without code fences or commentary.
+This contract governs the final DRAFT output for technical blogs, industry insights, engineering guides and existing-article updates. Keep the specialist prompt's editorial purpose; use one shared delivery format. The server supplies the authoritative JSON Schema in outputSchema. The internal stored article is JSON. At the model transport boundary, the final OUTPUT TRANSPORT OVERRIDE requires ZUFEK_FIELDS_V1 typed text blocks instead of serialized JSON. The server assembles the object and validates this schema.
 
 For READY_FOR_REVIEW every required field must be present and complete:
 - schemaVersion: "zufek.article.v1"; status; reason (an empty string is allowed for READY); gapEvidence; uncertainties (a string array).
@@ -23,5 +23,5 @@ Human approval authorizes server-managed five-language translation and unified p
 
 All article types may return sources:[] and article.sources:[]. Technical blogs, engineering guides and ordinary updates should normally do so and must not add a Sources/References section. Industry insights may include useful supplied references but need not. Without fresh references write qualitative industry and buyer analysis rather than pretending to report recent events, numerical market data or new regulations. Never fabricate URLs, credentials, customer stories or measurements.
 
-## JSON serialization
-Return raw valid JSON without Markdown fences or introductory text. Escape quotation marks, backslashes and all literal control characters inside string values (including paragraph breaks). Never truncate the article to fix formatting. The server preserves visible model output privately, attempts conservative local syntax recovery, and permits at most one budgeted syntax-only model repair with a full-content preservation check. A malformed or truncated response is never published as a valid article.
+## Fixed-field transport
+DRAFT, FORMAT_REPAIR and TRANSLATION use ZUFEK_FIELDS_V1 typed blocks supplied by the server. Write body text verbatim, with real paragraph breaks and quotation marks; no JSON escaping. Declare object and array containers and all required fields. End every block with @@END and the complete response with ZUFEK_FIELDS_END. The server constructs JSON deterministically, checks missing fields and semantic requirements, and retains the original response. A missing end marker or malformed field never becomes a published article. PLAN and OUTLINE retain their short JSON responses. Legacy valid JSON responses remain readable for compatibility.
