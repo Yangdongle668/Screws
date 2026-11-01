@@ -34,3 +34,7 @@ Single-article and bulk **AI风格与SEO复核** actions queue model review thro
 - `node docker/verify-ai-autoflow.mjs`: English approval triggers all five API translation calls and six published versions, management scores, model analysis and publication ledger, using an injected provider.
 - `node docker/verify-article-audits.mjs`: transparent score limits, known AI provenance, safe Markdown, cached results, stale reports and validated quoted passages.
 - Existing runtime checks continue to validate authentication, origin checks, mail, storage, metadata and translation publication. Live model quality and production delivery still require observation after deployment; repository tests do not call the owner's paid account.
+
+## Troubleshooting task-to-article handoff
+
+AI task drafts are not article-manager records until the approved publication workflow saves the English master. Legacy approved jobs need the explicit start-publication action. Body-only legacy jobs and existing-page improvement patches cannot be automatically published as new articles. Job details now explain structural eligibility and the handoff stage; action errors are shown inside the open dialog rather than only behind it. Missing fields must be repaired and reviewed, not replaced with invented metadata or silently regenerated paid calls.
