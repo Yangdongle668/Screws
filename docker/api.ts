@@ -11,3 +11,5 @@ export {crawlResponse} from '../lib/seo/response';
 export {Reader as CountryReader} from 'mmdb-lib';
 export {default as inquiryProducts} from '../lib/product-options.json';
 export {backupResponse} from '../lib/backup-api';
+
+export {validate as validateArticle} from '../lib/editorial-api';

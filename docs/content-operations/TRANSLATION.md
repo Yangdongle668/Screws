@@ -9,3 +9,5 @@ Compare the complete translation against the source. List ambiguous terms, chang
 ## Localized SEO fidelity
 
 Translate the approved English title, meta description, headings and internal-link labels for the same reader intent using natural local engineering terms. Preserve the approved scope, grade identifiers and source URLs. Do not invent local search volume or claim that literal translations have verified demand. Keep locale-specific canonical/hreflang generation under publisher control. Translation does not authorize changing schema type, publication dates or adding FAQ/review markup.
+
+Apply WRITING-STYLE.md. Resolve the specific reader decision in natural, precise engineering language, with meaningful assumptions and evidence. Avoid empty transitions, repeated templates and unsupported absolutes. Do not invent personal experience or manipulate prose to fool AI detectors. A style-risk score is not an AI-authorship percentage. Preserve the specialist task structure and all technical facts.

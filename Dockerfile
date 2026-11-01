@@ -15,6 +15,9 @@ ENV NODE_ENV=production PORT=3000 DATA_DIRECTORY=/data
 RUN apk add --no-cache chromium ca-certificates font-freefont
 COPY --from=build --chown=node:node /app/dist/docker ./dist/docker
 COPY --from=build --chown=node:node /app/docker ./docker
+COPY --from=build --chown=node:node /app/lib/translation-contract.mjs ./lib/translation-contract.mjs
+COPY --from=build --chown=node:node /app/lib/article-audit.mjs ./lib/article-audit.mjs
+COPY --from=build --chown=node:node /app/lib/safe-markdown.mjs ./lib/safe-markdown.mjs
 COPY --from=build --chown=node:node /app/public ./public
 COPY --from=build --chown=node:node /app/drizzle ./drizzle
 COPY --from=build --chown=node:node /app/docs/content-operations ./docs/content-operations

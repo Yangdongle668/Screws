@@ -1,6 +1,6 @@
 # AI maintenance: DeepSeek setup and recovery
 
-The Docker worker runs every 60 seconds. Scheduled jobs and manual jobs use the same queue; every generated result remains a draft for human review. Review approval and publication are separate actions.
+The Docker worker runs every 60 seconds. Scheduled jobs and manual jobs use the same queue; every generated English result starts as a draft for human review. Approval of a complete new technical blog starts the authorized five-language translation and six-language publication workflow. Other page patches remain manual integrations. See ARTICLE-WORKFLOW.md.
 
 ## Configuration
 
@@ -47,4 +47,4 @@ Each review-ready draft must have `seo` metadata and a `keywordBrief`. Missing t
 
 Technical handoff carries the validated title, description, topic keywords and descriptive related links into the article editor. The editor exposes keywords and internal links for adjustment and preserves them when saving. Keywords are article topics, not a meta-keywords tag or a density target. Publication renders canonical, social metadata, image, language, author/publisher, breadcrumbs and BlogPosting. New articles record the actual first publication timestamp, retaining it on subsequent revisions; older unknown first-publication dates are not fabricated. Related product references use the manufacturing-service entity. Translation generates locale-specific page URLs and metadata under the existing publication workflow.
 
-Industry insights, guides and targeted page reviews receive SEO metadata and a schema plan, but continue to require manual merging into their respective destinations. A schema plan is not deployed JSON-LD. No automatic publication, PAA rich-result eligibility, keyword-demand measurement, indexing or ranking is guaranteed by this workflow.
+Industry insights, guides and targeted page reviews receive SEO metadata and a schema plan, but continue to require manual merging into their respective destinations. A schema plan is not deployed JSON-LD. Only explicit English approval authorizes the technical-article publication workflow; no PAA rich-result eligibility, keyword-demand measurement, indexing or ranking is guaranteed.
