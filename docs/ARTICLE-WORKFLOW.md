@@ -38,3 +38,11 @@ Single-article and bulk **AI风格与SEO复核** actions queue model review thro
 ## Troubleshooting task-to-article handoff
 
 AI task drafts are not article-manager records until the approved publication workflow saves the English master. Legacy approved jobs need the explicit start-publication action. Body-only legacy jobs and existing-page improvement patches cannot be automatically published as new articles. Job details now explain structural eligibility and the handoff stage; action errors are shown inside the open dialog rather than only behind it. Missing fields must be repaired and reviewed, not replaced with invented metadata or silently regenerated paid calls.
+
+## Source matching and task deletion
+
+Source fetches now preserve the allowed redirect chain and final URL. Citation validation normalizes URL syntax and fragments and rewrites verified aliases to the fetched final address. It never assumes different paths, query strings, www hosts or trailing slashes are equivalent without a verified redirect. Draft prompts receive an explicit citation registry. Validation diagnostics list unverified citations and the available fetched addresses; valid planning/research checkpoints can be reused on retry.
+
+Task details provide permanent deletion with an explicit checkbox to include task-created articles (default selected). The confirmation warns that published English and translated pages will be removed. Deletion includes dependent translation jobs, task events, calls, publication workflow steps, owned article drafts, versions, translations, HTML publications, audit reports and task/checkpoint files. Other articles are preserved; legacy ownership is accepted only through an existing handover record without another owning task. Running generation, publication or analysis must finish or be cancelled first. Database changes are atomic; a cleanup queue retries failed file removal on restart. Inventory and ledger are refreshed. Existing independent backups are not rewritten.
+
+Only month-level anonymous usage totals and scheduled-slot suppression remain, without task IDs, article bodies, URLs or error diagnostics. These prevent billing-limit resets and unwanted recreation of deleted scheduled jobs. Deleting does not refund already incurred provider charges.
