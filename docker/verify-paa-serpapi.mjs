@@ -1,0 +1,21 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';import path from 'node:path';import os from 'node:os';import {randomBytes} from 'node:crypto';
+import {collectSerpPAA} from './paa-serpapi.mjs';import {createPAAService} from './paa-service.mjs';import {openDatabase} from './storage.mjs';
+const key='fixture-serp-secret',result={search_metadata:{status:'Success',id:'fixture-id'},related_questions:[{question:'What is a shoulder screw?',snippet:'A locating fastener.',link:'https://example.com/source',title:'Source'}]};
+let calls=0;const transport=async(url)=>{calls++;const u=new URL(url);assert.equal(u.hostname,'serpapi.com');assert.equal(u.searchParams.get('api_key'),key);assert.equal(u.searchParams.get('gl'),'us');return {status:200,text:JSON.stringify(result)};};
+const sample=await collectSerpPAA({keyword:'shoulder screws',apiKey:key,transport});assert.equal(sample.provenance,'google_serpapi_paa');assert.equal(sample.questions[0].sourceURL,'https://example.com/source');assert(!JSON.stringify(sample).includes(key));
+await assert.rejects(()=>collectSerpPAA({keyword:'x',apiKey:key,transport:async()=>({status:429,text:''})}),/额度/);
+await assert.rejects(()=>collectSerpPAA({keyword:'x',apiKey:key,transport:async()=>({status:200,text:'<html>'})}),/JSON/);
+await assert.rejects(()=>collectSerpPAA({keyword:'x',apiKey:key,transport:async()=>{throw Error('URL api_key='+key)}}),e=>!e.message.includes(key));
+const dir=await fs.mkdtemp(path.join(os.tmpdir(),'zufek-serp-qa-'));const db=openDatabase(path.join(dir,'test.sqlite'),'drizzle');process.env.MAIL_CONFIG_KEY=randomBytes(32).toString('base64');let service;let time=new Date('2026-11-01T00:00:00Z');
+try{service=await createPAAService({db,data:dir,clock:()=>time,serpCollector:args=>collectSerpPAA({...args,transport})});
+const api=async(a,b)=>{const base='https://qa.example.invalid';return service.handle(new Request(base+'/api/admin/'+a,{method:b?'POST':'GET',headers:{Origin:base},...(b?{body:JSON.stringify(b)}:{})}),a);};const state=async()=>(await api('paa-state')).json();const settle=async()=>{while(service.busy())await new Promise(r=>setTimeout(r,10));};
+let s=await state();assert.equal((await api('paa-settings',{...s.config,enabled:false,provider:'serpapi',serpApiKey:key,monthlyLimit:1,cacheDays:30})).status,200);
+s=await state();assert(s.serpKeyConfigured);assert(!JSON.stringify(s).includes(key));assert(!(await db.prepare('SELECT payload FROM paa_secrets').first()).payload.includes(key));
+const seedId=s.seeds[0].id;await api('paa-run',{seedId});await settle();s=await state();assert.equal(s.runs[0].status,'success',JSON.stringify(s.runs));assert.equal(s.monthlyUsage,1);
+time=new Date(+time+1000);await api('paa-run',{seedId});await settle();s=await state();assert.equal(s.runs[0].status,'cached');assert.equal(s.monthlyUsage,1);
+const questions=(await(await api('paa-questions')).json()).questions;assert.equal(questions[0].observations,1);assert.equal(questions[0].record.provenance,'google_serpapi_paa');
+time=new Date(+time+1000);await api('paa-run',{seedId:s.seeds[1].id});await settle();s=await state();assert.equal(s.runs[0].status,'failed');assert.match(s.runs[0].error,/上限/);assert.equal(calls,2);
+assert.equal((await api('paa-settings',{...s.config,serpApiKey:'',clearSerpKey:true})).status,200);assert.equal((await state()).serpKeyConfigured,false);
+console.log(JSON.stringify({providerContract:true,noSecretLeaks:true,encryptedStorage:true,cacheNoNewObservation:true,monthlyHardCap:true,providerProvenance:true,noExternalCalls:true},null,2));
+}finally{service?.close();db.close();if(path.dirname(dir)!==path.resolve(os.tmpdir())||!path.basename(dir).startsWith('zufek-serp-qa-'))throw Error('Unsafe cleanup');await fs.rm(dir,{recursive:true,force:true});}

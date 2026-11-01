@@ -39,6 +39,7 @@ jobs:
           node scripts/verify-product-services.mjs
           node docker/verify-article-audits.mjs
           node docker/verify-paa.mjs
+          node docker/verify-paa-serpapi.mjs
           node docker/verify-ai-seo.mjs
           node docker/verify-web-research.mjs
           node docker/verify-ai-provider.mjs
