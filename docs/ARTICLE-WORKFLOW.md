@@ -64,3 +64,7 @@ One FORMAT_REPAIR is allowed for missing fields/structure when an existing struc
 The model returns schema type/topics; final JSON-LD identity, canonical URLs, author and real dates are rendered by the server. Social metadata and schema topics are stored with the approved article, translated with it and included in publication/rollback. H1 and SEO title may differ; meta-title/description agree with their explicit SEO fields.
 
 Accepted documents are saved to data/ai-content/<task-id>-article.json and downloadable through the authenticated task's “下载标准文章JSON” link. The export has a single full article body and excludes orchestration context; full task diagnostics remain a separate download. Deletion includes the article JSON file. Existing legacy tasks keep their previous format and are not falsely labelled as validated v1 documents.
+
+## Optional references
+
+The source list is a required JSON field that may be empty. An empty list never prevents review or publication, including industry insights. Ordinary article generation does not perform external research. Industry insights have an optional, default-off research checkbox; failed/empty research continues without citations. Supplied unknown URLs are not presented as verified references. The renderer omits the reference section and citation property when sources is empty. Reference absence does not reduce the local SEO score.

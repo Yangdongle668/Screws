@@ -1,8 +1,12 @@
-export function citationURL(value){try{const u=new URL(value);if(u.protocol!=='https:'||u.username||u.password)return null;u.hash='';return u.href;}catch{return null;}}
-export function reconcileDraftSources(draft,evidence){
+export function citationURL(value){try{if(typeof value!=='string')return null;let raw=value.trim();const markdown=raw.match(/^\[([^\]\n]+)\]\(\s*(https:\/\/[^()\s]+)\s*\)$/);if(markdown){if(/^https:\/\//i.test(markdown[1])&&citationURL(markdown[1])!==citationURL(markdown[2]))return null;raw=markdown[2];}else if(/^<https:\/\/[^<>\s]+>$/.test(raw))raw=raw.slice(1,-1);const u=new URL(raw);if(u.protocol!=='https:'||u.username||u.password)return null;u.hash='';return u.href;}catch{return null;}}
+export function reconcileDraftSources(draft,evidence){if(!draft||typeof draft!=='object')return {result:draft,missing:[],allowed:evidence.map(e=>e.url)};
  const registry=new Map();for(const e of evidence){const canonical=citationURL(e.url);if(!canonical)continue;for(const value of [e.url,...(e.aliases||[])]){const key=citationURL(value);if(key)registry.set(key,e.url);}}
- const missing=[];const match=url=>{const key=citationURL(url),found=key&&registry.get(key);if(found)return found;missing.push(String(url||'').slice(0,1500));return url;};
+ const missing=[];const match=url=>{const key=citationURL(url),found=key&&registry.get(key);if(found)return found;missing.push(String(key||url||'').slice(0,1500));return key||url;};
  const result={...draft,sources:Array.isArray(draft.sources)?draft.sources.map(s=>({...s,url:match(s.url)})):draft.sources};
  if(draft.article)result.article={...draft.article,sources:Array.isArray(draft.article.sources)?draft.article.sources.map(s=>Array.isArray(s)?[s[0],match(s[1])]:s):draft.article.sources};
  return {result,missing:[...new Set(missing)],allowed:evidence.map(e=>e.url)};
+}
+export function optionalReferencePolicy(draft,evidence,{includeSources=false}={}){
+ const normalized=reconcileDraftSources(draft,evidence),result={...normalized.result},notes=[];if(Object.hasOwn(result,'sources')&&!Array.isArray(result.sources))result.sources=[];
+ if(Array.isArray(result.sources)){const known=new Set(evidence.flatMap(e=>[e.url,...(e.aliases||[])]).map(citationURL));result.sources=result.sources.filter(s=>{const valid=s&&typeof s==='object'&&typeof s.title==='string'&&s.title.trim()&&typeof s.claim==='string'&&s.claim.trim()&&typeof s.url==='string';const retain=includeSources&&valid&&!!citationURL(s.url)&&known.has(citationURL(s.url));if(!retain)notes.push({url:typeof s?.url==='string'?s.url:'',reason:includeSources?'未核对或不完整的引用未列入参考资料':'本类文章不要求外部引用，省略参考资料'});return retain;});if(result.article&&Object.hasOwn(result.article,'sources'))result.article={...result.article,sources:result.sources.map(s=>[s.title,s.url])};}return {result,notes};
 }

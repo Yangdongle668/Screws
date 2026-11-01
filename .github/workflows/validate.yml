@@ -43,6 +43,7 @@ jobs:
           node docker/verify-ai-seo.mjs
           node docker/verify-web-research.mjs
           node docker/verify-ai-provider.mjs
+          node docker/verify-ai-optional-sources.mjs
           node docker/verify-ai-article-contract.mjs
           node docker/verify-ai-research-quality.mjs
           node docker/verify-ai-citations.mjs
