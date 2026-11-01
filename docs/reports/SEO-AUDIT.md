@@ -15,7 +15,7 @@ Source audit, not a search-engine indexing or rich-result validation.
     "WebPage": 744,
     "BreadcrumbList": 774,
     "CollectionPage": 30,
-    "Product": 162,
+    "Service": 162,
     "BlogPosting": 288,
     "ProfilePage": 6,
     "TechArticle": 30,

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "scope": "Repository snapshot of English public pages and corresponding translation presence. No production or technical approval is implied.",
   "sourceHashes": {
-    "lib/generated-pages.json": "aeca11fce90c47b6150d480ed09fe9b51ef5f17f4d63ab3d6b8888b20519154c",
+    "lib/generated-pages.json": "5680904709b43a0364486aee209e23c1419c6d3d3ee45acb16ad0540440ce04a",
     "scripts/content/manifest.json": "e707f728ab1d1f498738bc3080103495a487d976792db0c21c489016610ef6ab"
   },
   "counts": {
@@ -550,31 +550,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "41e3701d227a9134b6b701b78d2646aa8b32b55caa7418c8ca5a9c4f39a54f56",
+          "repositoryHash": "9b5a788d548798367f89039979ea8ff685336c29442a686984f1a73f4a484b28",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "7714c94434340864e49aea0e19bb09bbb69d7e0482262675fbd26d1cec6f4ba7",
+          "repositoryHash": "6a6ff24e6edfd7240ea9a439497c4cfb60f9cac60dfb8777bdb921b611d12cbe",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "4d26d4cf0f72729e0672b69b8de082554f6704bf5a4d1a5838063134922db982",
+          "repositoryHash": "3c184ed452a794f6f2d87e6da049807e32c7e40ef8c86e51cd5f275822426759",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "8ad91f5da9287dfd7b172a22ffcaf004e3bfae09ad61e338ae85259e8c8a8387",
+          "repositoryHash": "1307fdc1a5c36208809bdb06de02391afcc379927941ca3c63b706254268890e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "37cd29ca31d584accb578e30e35f3f2160943c01559e6be5ed1c43020898fef7",
+          "repositoryHash": "01143c87a392817c2313f8e55a6b4b51026f17eeb0bbdcb5845008daf2894277",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -746,31 +746,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "0b1329dfc5bd5121ee16b3e9166b5e1a025aaf1ec1d2d8faed2e34b048289137",
+          "repositoryHash": "bf6516c3f0c205c8e7109979f801fbd99d52f04e0d5c142fe266adb1c2086e2d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "83dc5273f73497f15e18a2c4d8fd819a3e2a100b347504f2d89891951d7058f3",
+          "repositoryHash": "93ca3ee2cdf59f793477635a3fb165496fd1686c42db85f6bc7beabd3af6bd7e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "46278248c217860dfd46ddcf523c26cbaf90e348a2dca3b3d539b9eea3c0130e",
+          "repositoryHash": "a26ee23e0e8245c6bc91dfb075d4b1546146948621255da80a9302ad5c5c32f6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "9f4631e622492d47212c3cf90a034b29a95470b6b41c3664a5374cafca4901f0",
+          "repositoryHash": "f89b1277462ba190cee473f2a1470bbbbe95b9954ff4aa92e957443a5c1b1ad7",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "0d4f2381c7e4b7b0bfca3a3e97837b0d9ce2fe1be3040ad0dba7a7236fa3e4d5",
+          "repositoryHash": "1ad9ff4e5691e96ef5336832be0cd5a3d2d02828b22ec3e3afbf6b9e4a4d41ed",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -865,31 +865,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "a2dc7ace221e6f5d6c8e0c7fb13236b88bfea7878371706cce9838c01a12f820",
+          "repositoryHash": "b1af303f597865ee65d5b2929f0cd0f0e97376acaf41b964204f9d8d206dfc22",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "0b170a10fb3acca2baeb583fa03a6f274b705a70e3fa3a9a3aa13b49526ee9f2",
+          "repositoryHash": "aeacb8f18dd8547bfed6f944c71786c3aa833d386bb99e3476ca8292e39cc022",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "8ebfb647ccd95605a0a7607c3eb99392910d100788013fd8776b5d8f3274d273",
+          "repositoryHash": "b2b3cbcf642069371af6133db884793d9a51e59b59fe6f08f759438d5efe09e0",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "533b06dee698922e05742deb54e6c5a4fe84f865a4bf48a03f6e18a2fb735fd6",
+          "repositoryHash": "3dac2eb2b851e57db45bf7e1066d219e671d8cd32e0863d1c5d2a2ef328bf18d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "bd9e0b1e142d4c99c1e33c4cf92d102daac4bda2ce14b0362e3537f2059107ae",
+          "repositoryHash": "0fc4bad0d97f061abc0e18097351e80f2da1e69db36e9b77e5b99db5e05401bd",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -1004,31 +1004,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "63558aa4bc3013071f3b048b141ee2365b0c3b37a87c143e5094bfeb9fbbe7f9",
+          "repositoryHash": "d4627b457df2de3ac0b285e2fbc96a97408cf52d1a493955e573f263a42f94b4",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "202779cf80628ba16193442230e21d611d0d33e987a38250686a616e16b68313",
+          "repositoryHash": "5ebce5c02a96033b74c5e5c3202fc53c7aa8e1c1bfdd7ea16942d61025135942",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "f6104e25997c8685529af7aeeb6588d173ea6d98badfb5edd059d876d07fd000",
+          "repositoryHash": "201e744c19de396349efef64ed7d7fc04fae737f3c46f035d5082edeebe4e5f7",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "735204e9dfe2f34272c6fbf41463926b96c0dbc24247ee20c739f3e70b4705dd",
+          "repositoryHash": "a70848ec7a6f26cf6d6e148b3a09b5ab341500728ac4f032951298722a6f8fbb",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "dddb63adf6b801e56a8ae9767f6605f722e4c6db565440d943401ea4ef72b477",
+          "repositoryHash": "fad4f32d45d59dde69f3fd2b3c1ff3230d8835ed5f3825a9bba8ad1f5cc51445",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -8507,31 +8507,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "f3d0392068333a51efbac73075cae5fe837d4bb162b8019ca5e88341990b2fa6",
+          "repositoryHash": "b75228bfb5e5ca8845d5479b60b23ff69cc2795ef79cafbe81b3334082a2fcec",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "c81197acf67d6d6e78111d07f5d33c0cfcfe973cf2b13be1815d34c5dd19976d",
+          "repositoryHash": "b7f92dcceefb30bf55f6aa8cb971edeea8b0c658a0e1dbef564713cfb2b782f1",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "63835ca693f7ce9b652619e6f0eacd8fd940f267d417fe66aac42a8378ef8566",
+          "repositoryHash": "f5b9898653043a9b6883ec44707a287638577e2e216578c4001f3c839233136e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "4d832c317c65b4e87f9c88ec556184b9395c9951f4d3ca53acbbf79429e0a2e4",
+          "repositoryHash": "5c9ac61e85f21a86fd3e1fc7c7c05d5750aa72236d3dfbc92976a0590df60bd5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "feb67f861496a9f576115cb1c1eea71dadb7c67f28117e1e69d5285236b2c5e2",
+          "repositoryHash": "1dfb2d3e79be3c32caf21d9d4db25cf55fa8a81dc3ffb386101352f3609727a6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -8681,31 +8681,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "274f3f137389f66ed5fb360d8488c20b87d3872fb672c6be64bb781440dcf0c1",
+          "repositoryHash": "61e735ec1dea61eb7962e88147ed2dd0c3f3e34c5caaf4c7e2ec0f9d4a89ec95",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "a28c7a97bbd4c073a152788c7c30832bd769199203b509daca49f80714a68bea",
+          "repositoryHash": "114a87a2af3a4e492525c68dab79872103a8bc08c7b6965eb90697929dff96d1",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "76b40a09a52175605ecc23423e12e70f77ec4631ba9d4be3e867411b3eaa1c1d",
+          "repositoryHash": "90dd9575da81286733e2f3beef099ad5db5d6fdebce01a8dce4cedc87868f9e9",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "d69a7e683dfc755ed35b1f564a1c6564ab1d5439bd6d518b83fd5a7a0040ca37",
+          "repositoryHash": "03c4204b5b85d49ba1c506bed0c83e5cf453f5cecb5cb30103f24d1ce9870917",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "c274e8ca97766f0176275291852bb29281783881b91ce995e8c9a3a04850e6f8",
+          "repositoryHash": "91117f2076d4cecb735000c7aad26c946d28f5ea450d1f94c9364975f110b40a",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -8859,31 +8859,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "fcd9320f02a19341510eaadae142f7e7ee8697dc1cd9fe6dc85beaba50ef43f9",
+          "repositoryHash": "64b9415dbba0ce8c7a908850d380ad56c12e348999f4c033e60c419e62d9b0c2",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "5c8f9053eff304fa1576ce2c3abea374b147e3b7ac796c6d199ed1282abddbf1",
+          "repositoryHash": "82215f32b386db3534445236baebc645cac0219e981a50208fd29ab5ca7b2d2b",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "172dc7f86df819adf88fc66907ca6a644fdbccd501536deb4b167f2e21cb9e74",
+          "repositoryHash": "0cc7aca6246b7ebc9f0ae98114453b9bb56ce54756ca63b111db52a0f18286c1",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "b24dca82b6522b1062098488d26ebb8e61860683fc4e80a4fe6f09f860defeaa",
+          "repositoryHash": "9a0e8dd3fac5645eede4542432a5b684ef1616824112026e63e322facd98b972",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "665ba1135ba3a8c9806f9867180fb20272c507be13a6dd4ccac6c20ab433d41a",
+          "repositoryHash": "2dc80fa113723e49da5d91a95797f0b9a5699b870bf498e2c99514efeaef5bf5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9037,31 +9037,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "ec6378b62569441c865f161880a2303aa147eb0e04518cb9e18cc6428c5855aa",
+          "repositoryHash": "1f3e5eac4414d75e859cf25d003e3190aa0673eb9ed20acf1fbd205ee0c59e70",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "fe7f594d4f354b844278d5c763917c083c0933cfab21fb026043bfeed4458547",
+          "repositoryHash": "b0d4a47b1794fb2ba94cb36b50fc389e05a089db8bda908af8191e47e6e9d5e0",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "7e9dce4c9484147bb25dbdbea81ba26ecbb649a91dd4f4e2a5d3ad758ac4e3aa",
+          "repositoryHash": "c0ef27a931e7fe837e55cf9e8b65a8f99fdd63a20f656b1fc2465cdcea30abb3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "e69cfc6aeb175acbc1e9448b24926a3718a67cd55e09a4803fdbeef449dbaa9e",
+          "repositoryHash": "8dbffb7b3da03f96a632dafb2e85c4edc1f163a1f2b02f5bbd8d4205d3dc2207",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "28eb1f55fc942f9c9825b073ce007cb54e265aa33289fce283b65007aa00a678",
+          "repositoryHash": "b0391663f02d251e04cd073422108aa9eb7532eaabe54c343e35ede5c793bd08",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9199,31 +9199,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "5296d4735903a85050f63aca7e0d16d4032a92350da3ebc0920ae10040f61b0f",
+          "repositoryHash": "c6ed9bf3a83f8f683668701d98b9e3b76cb0b6c2acc5dc44677de95a3d6fa0f5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "0551b2040e0ca5fe3cb2e03e9ea1515682e9a1dead220152ee52f1943f0b6196",
+          "repositoryHash": "6f45fae2a805f7cfde8b2c40c80aac12f09346111f7eb9a458b453db6cef5655",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "d51c74a4df58e625168c4226e5be36bd487ad11e0cf61836f363e0d1b18a6caf",
+          "repositoryHash": "52c2fab721c7a2aa109acdb1e15985ef078678fc7571b111cbb8a55ec26c136c",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "38e053a0ab9bd3d42fe55f6e58bd31591afb52bcb4e8bddca8fc5d2624a95fd7",
+          "repositoryHash": "7ff938d32dc222c196278215170c03627d257d04accabb9d4db6fc41d5f1ec96",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "54c173ee3ab141e533e320a86188ffb283735cb8358af29aee432a9239f4ec42",
+          "repositoryHash": "9f586a6c1cdcdd34dd6488ace1cc20de4a6f51c4ceab24f1282be9ea628055ad",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9333,31 +9333,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "982f5f110d301bf83de8638c29c8044af66093960fa4230a55aa0ee774d00361",
+          "repositoryHash": "d08877423fdb5878da8b86d9bf5f1141ae93d524186ec319bc459cbc0bca75ab",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "88bb360e7dba9981f956a7443b306d314d481dd0e116da287f92d39eba91c33f",
+          "repositoryHash": "f8f02898a99e0744a7212ab06a25dd86483426f277ed57da72a0649b214d84ed",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "97fd95d11116b102e65cdbf98f7b4469de4bbb94eb15aa7c50c951553135c2a4",
+          "repositoryHash": "12907e463d0e84f5439ee32b214b9bfae22a85363343bffe06b7113aa2011bb3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "f90e2e21bc25ac921795c1e93a69e33346c281ebc94badb5542012282d137359",
+          "repositoryHash": "e4be068c271866ce78bd77c69339abd306833cfa68f4082648259cf71cd66e1c",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "9bbc14a254b66627d14d53cb8aaff6cc235f024a7529205dd54fca0e0df2122a",
+          "repositoryHash": "f7db461cf21bdee17ca5fa4fb3a5399117c2258976ae000733cba14c0be5d5fe",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9466,31 +9466,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "88a8e70c97550db5c26e1183777cf4492aa844f1782478cd6ce61d0b0b1c295e",
+          "repositoryHash": "4cdc001857daab81a12a97ef3c6793b24df9718e3c52acb1a3287cf8f0afd0e8",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "b535073442bc9458da71ea57abc022b80674ff58b38055342bb8eb45b7379f8e",
+          "repositoryHash": "6d8b700315d1dbda03790de3a2200a4e73008170de2e7ee003766045049a9271",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "aa2e7af30b1264ff58213f6038d4b815bf04711f3d2f2b53612eafc4e6c04786",
+          "repositoryHash": "79daa00124dc7388699ce67170ff359a9bc9c48b4b306a0efca87798c67a582f",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "82fea345ecf6792bf2c2958b6d98b753389b26e183c351cb8e6c7576cba83f9e",
+          "repositoryHash": "8603b5f7c43a79fddd9ff4e2f314bd6e2d810c7d563fa6463abb1b09a56b2e37",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "2801d055adf563ea23704ce0fec24a66cda78408f4dd008ca7c9d58d77c628a5",
+          "repositoryHash": "911d64450103ebf0e00f1be1009a76ae213640916d0a2742443453c5f2678666",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9598,31 +9598,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "8b0c85bd408b67b948278152a114af02427918334fc5fd3c53cfb9ef2220cf24",
+          "repositoryHash": "99e54af5d4384361e8479a2073fb05543ed34bdb386b3959c1123f0385e3f27d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "94903c78f416f0fc065ad1aaa500ea558f93e1ee27621c920122350e9ca2bb89",
+          "repositoryHash": "b5685caa068796588859a1cfb54ae4d44f7bde6405189e376b137881e66f2fdd",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "5c3fe6e529f7b72c4ff0869f327b4be15f73863eb9a09604f0f8c6078269eb0e",
+          "repositoryHash": "9fe373de808dcb07092788fac44222ec358e6e1b88e7f4966d75e455a3a8ed22",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "c500e29b6a88f9ea1ae84205ab885caa15d7bc206bba36ab93088924ed56cb21",
+          "repositoryHash": "332a310dce0cba51bac4737e35097f082232dca2a29aba7c6748d29cfa304243",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "748eb7bef2ae858cd2ea151920de1dc3be1937967d9c54f3ae2a53c85153bcf3",
+          "repositoryHash": "3003f217862b128e5e77a407455d135b1052edc84190d4af52c66d2d3414188f",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9729,31 +9729,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "f189a7b43c6981089934cf6e7ee2bd829465824b382fce4f2a4c58e15ec99aa6",
+          "repositoryHash": "4016dea2d3864f181c1d0d548ea05de87801763e5107741f80f8803a1ef03a3b",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "c17ebd5e6b30a7234d1b7d258a8236cc894de37ecb5fed0d390987ecccab1376",
+          "repositoryHash": "6278aba11419f55fbfa9197dc51581d5a18fbad7ff6584790798cbfdd6b8d8e6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "eda15b2c0bcaee751354e1a60c0aaa0fe35dbba21305138a2f57e896638657ea",
+          "repositoryHash": "99d98065834f20b9cbe6aaf157ca3b81d022d99ea84ac3c3b802ee6795a6171b",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "a58f7f0f03b514f9c883e4658082ace7989a118d74deb6dd413bbd22955aace6",
+          "repositoryHash": "87362cee8f6b3e061f1ef675ad9e21e88fcb8b041308849a6a6412fd31e33370",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "f3a7d906342835b0d66ca2c3e65780e98541bdab4150eb2e63f60a40fba1dd3c",
+          "repositoryHash": "ee37dfc1388585ac8d1f28ea138cf71f9f61ebeca5f94a2529b26de32ed31764",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9862,31 +9862,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "aa8ac9b1743a4cec8fb01f5491a6253b1fad508aadcb8c0bfa3eeeb85b5147f5",
+          "repositoryHash": "a97b623db4d4b3d4883b3ab8c18b1a07cb7b9d85ee1ada58d7f629928a3d4dce",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "a9ac407da8a2686656d89d72021b2d25a1afca778fa29b71de6acff191a96336",
+          "repositoryHash": "d97431b9e463b824c9e47d1d4ba955cf2f986df7cd7f8d19c3e17f8a83e6f59c",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "914b12ba12bf2919c0c040295005393df9ff5d1ce4fe01dc2fd251b9cedeb1d3",
+          "repositoryHash": "935d278a6ae6d8337cc73c34cb832b4041a4afe22864061f5e8c12cec4b834c6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "3f47f6cf532eb087b131aae06da438c8ef0ff5c4067b2214052358c412ef8eba",
+          "repositoryHash": "d94993801f949289b556350a49caa4d237f1d08ff2f121e5c1b18a44cb059a29",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "d9fb2c904d505ee1dbdb0983b5b103e2b2c9592b1b35c9e3349f962e1b0d5523",
+          "repositoryHash": "ef11839e933905fd815d5d8625fa98b82d7d264c01d8c67f2f31510459f7947a",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -9993,31 +9993,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "94419635c43f64506203d2b90ccbf808d8c0e1932b73fd87be5088f495db48f7",
+          "repositoryHash": "92b7585b06d87dc3578ff750cea2cb5bca454faf3f9970ad6c73a39cf8a1ddee",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "a5cfb2d6b48e1a05ace9f3fc7a83e343d90a6ece5665215d32ef4cb5fb2fdb0e",
+          "repositoryHash": "f1f64d581263605cefe29d999961bd958fce34535de8fa77574868f6651c3d05",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "9bf0c83ffc2c2c93f5e0b8c43656243db64db595915cecd401c3880b2569fe41",
+          "repositoryHash": "1f3c79685134d3efc81798e1516ab50ce2bcf97a7c22bc83467c48e9acc879b1",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "853aa656419a0b3005b40bb429a641fe88fad22a19cb5010f4628dbc31541fcc",
+          "repositoryHash": "c703890fd74c815d276860052039247cd6fba10b8ff95022146abbb505d2ac98",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "03a05a7512aed2884c841d0d7cb3fbc323a3471c908219fce7b1ff7dd98fd639",
+          "repositoryHash": "fcea713765d692256461600eb1c6082398739c5c79a9ae87f5f6e625767c23a5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -10126,31 +10126,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "d9284c3d99b84454f90a7cd65f10e2e6043861eb6c51586a4cdc940351dc658d",
+          "repositoryHash": "b72f51579a5c39c5e73d5b4e82e87aced02b76d3e84001011079efd46c06e025",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "019e30e7b64fb162bcbf17de290d99bed8a14ee569715345316c854de2e4f8e6",
+          "repositoryHash": "da1866958bd215b156f4d06a11c3e33249f78da81752b7b49684c959ebe09932",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "72c801a1a5b14b118d331c20bd9d6edf1c62b833d0517123da5ebeda1f88904e",
+          "repositoryHash": "06d611f9253e4a8532436bb710898572e114bcb17c1f310c3ba7e2c2537dd8ae",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "790039aabe8adad3893fbccf527727dbdd06b77c4f63bd943ccbeefda6c1cd31",
+          "repositoryHash": "e6565f9752bdbaf7b2ce8392d52eeea43bfa039688b84de18c9ba97b1d4b51b3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "698c3c6238dbdaadb94e244daa9cb628109cb4aeeaea3a6c2325e06ed42b494b",
+          "repositoryHash": "3268edcfe169597d9fe9cdac10634e2c75bb5da409d0b2a3754d5ad4a6b61f8e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -10275,31 +10275,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "bd4871cba33d6137f5530cbd01274aeedb89d0177e016c60a7dc16ad37485dbf",
+          "repositoryHash": "52dbb77983da63ccba815e1b8547a115d4258e5bff66bd89e89331c63775d2a8",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "341e82feb70f279a14995928f7ffb710c9087c8d1341e72ae071de5f5e1469f7",
+          "repositoryHash": "938a72f6eca732972420171b121a968890904be5b2b5bedbabeb4745d48caf16",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "32b4abc3c8d340f0f22efd1a7674b84a8801415731ea8f5d58bbdec01237d739",
+          "repositoryHash": "553ba15d25756ec115afde3b318e0032d4c1a6b56266bdabefe3b549b791123c",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "bd36467376bc6672887dd52dac3f2228f73f1984155ba4e545e6bdbe4ed08a61",
+          "repositoryHash": "dbb2dac66ddd94428048ed8953cd0a34289c7bdb51086b3a2eb1b6faac18d5bd",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "8fca121b4550e525068745cb85fdaf8977fa0f6557360bd3a90e9201fc19592d",
+          "repositoryHash": "238103805822ddd7c7f04460137a4fa7e232dd55907879c9e54eb16c392bd8f5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -10422,31 +10422,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "5a22cf4b2a9e98c4b50aeaf8f6f05150d3250568eca9a7175d6db0fca5b377e9",
+          "repositoryHash": "a5242c3ee877dc45925cb17e91aa0d1b50aabbffb8428c72a35621c060179942",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "a34e88a49298ddfee60c4a4f643e797fad819c92b9932b0748894d65ac11451f",
+          "repositoryHash": "8fdf4f4f3258337e89b3ad12f112ca8ab8d61833c92680bab4ec674eaf533de7",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "44931850e1021208ebe55e6da51ece5f62e8c034a3135504996301b75db122f9",
+          "repositoryHash": "93ccb83d35ce0597076feacc25ecb3307308c36301a76a5d5d1398a06548872e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "907224c670f383a018c511804451dea7ece6a27a835a5324e8f9a58f0ff93c8f",
+          "repositoryHash": "5b086bcb5ed5d8e422fc22b4bf77121ebc090f84fc0dc48e562392fa1df94386",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "8dca1df9f4a0cf791cfdbc077965a6cc06bfa9294c238ea2cdb68baa9f4c7a9d",
+          "repositoryHash": "b3a45931ec615350ff599d924d0d426b3fa4148edac05562880da48c2cec1a28",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -10564,31 +10564,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "7421008560c6613e5a52954a18698f1c65e82ad02f8491afab8ffe4ca735e961",
+          "repositoryHash": "951bbd1a254502af4ec6ae11e9a38c77adda39b30962af302f67f75eb05f252c",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "d1dc144ea3d2ba38fc8522c7756b08d7cd0005544d3fe98d5aee8e00849f5418",
+          "repositoryHash": "3da838a7bb78db4ca89b7277576389ad487187c4359bc60a16320b4e80bd4f4d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "87188dcc0e3bfc3da6821a41fde2262ae09bbdd3fdbdd50137701bcc819060ea",
+          "repositoryHash": "c38650f87fb303c4485ea830b1aac69b99944a111b3b7b8cf263c9a4a621688a",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "63df4f02d1fb352d1647e11924f3d4465d518aea8219394dd79c0b86a318ef76",
+          "repositoryHash": "c9a690e7b4bb249910ce804bb57d5c392612ffd61cf98f6302dd75697830489d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "bce1e282e9bd1822b8483b87e03782e13f8727bbb1cf0c2c6630fb13bc5acf57",
+          "repositoryHash": "ebc22a7626507e4fa2e2ca812053b8d29c38e7f3024eafe1eadb2c4967b09ef2",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -10705,31 +10705,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "569ffb9db1f5875dd0861f1c50d376d2b94d66bf50794a674258cba204a6ab27",
+          "repositoryHash": "e25d4f7a69c3e6a61981e56f2482ddbc8a1212642606ee96d43c46d6c42ec748",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "679b42b63d2c230819d92dda4ba473ae9deb59724218425d3fab41bb025cad5d",
+          "repositoryHash": "2702760f4e831d393abe53f09eb5ee7275453d87097ec88d71d7e8e8ba154e95",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "f1acf3a72881a2f95ab54dbc22c9e4811cfca3712cb5faa451a7461ca2285eab",
+          "repositoryHash": "b3c5a0ef35396bbd1ab19ed89209aad4cec407cb48e44019f64dc0c86095241d",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "ddb513ee82df82cb7a235eec4a4b2a2f76a18c3be5f9144dd9780c6ca91897f4",
+          "repositoryHash": "06a9a77a6f838584a6417837e54108972ee72ff79bc29e4fc338be70814d569e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "31d76de4dbbdbabc332a96d0b05d6f8baa2eb1d93f125cd418a7ba9cb5e6a94f",
+          "repositoryHash": "23b5ad6b2c4dbf5c09934d02bdaded62d4cf3e1d877c6b83bdb1807ea0405aaa",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -10837,31 +10837,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "9b77bb4616837858b060ca12d0bc702d44f5f7068c502539165c955c3bca4214",
+          "repositoryHash": "0d48ae8f65c0e3d53218bf5b3b548c7f5aac48d4b5cf50834321a1a8fd34488f",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "85d1dbc4dd7e347be95c7900750c12e1d1ebbcbe4391b45fe3c93f1aa562fe56",
+          "repositoryHash": "7743d49b5cb7005ad330a4109f51c74c23abced99886f09b208e7230f2b76cd1",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "85dd32fdb71d44f81f5ef1db33a8b1051a5f8bf3c2464503236a16aeb6cb8dc4",
+          "repositoryHash": "28fb5d501790bba020d6b71979ac2bdc9307e67ab6359a4ef865180994f5e8a0",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "1f28007fb6097d8a2d4ee9e59b2d86777871dff3b16e12c19edb3c147f27c7de",
+          "repositoryHash": "721450160a03a6af2890991d17e7c482f55fd77da5885d146b1b6edb51319007",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "0be50d0f30493a26a994dbccd07d1c4b9005ffd0c093b9dc03422fb236a45f3a",
+          "repositoryHash": "9e1dc764ec7d9b89f9c5fb0bedcec65f92d53c34e917e6085706fb3648c9cbdf",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -10970,31 +10970,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "ff51bdba4b861126d7aa865d239771f2673cdfdb976e5b886803cbe6bd9d8cb8",
+          "repositoryHash": "aa06baebdc7f2dbc9efea93608986281d7d671aee43b53db8069d0ee33de355a",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "daef9bd0a1eb659cc2b9b1bc7500c202ddd12db80a1934d522e8b49a8da1fee8",
+          "repositoryHash": "ab5595a53559b2c5407982fdfbc5550bc4f9c83eb3526b1eea8144498e03fcd2",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "0233c0eb41aae8a6c387bae699fe3f874f104aa70f838c76a69bc2259f1b1148",
+          "repositoryHash": "04c190bbfef4fb63bc8814f958634271267dba93558eece5bdaacfe7457ad211",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "5a1325df6ad876210f66342566ad607a9b6ce8c4fc4e02255d9659ddc19e7439",
+          "repositoryHash": "a08892b02175f4dbd7f5c9a6c8460ec65ed3366b343e447a7e3258573335ef07",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "c50ac06c6a65cf59e8a15ceb636a39fa32773a886eba0b33e3f56c87cbefa0a0",
+          "repositoryHash": "6522d3a7d7445b55fec9b174a3184ca872d149301c44e1841ffb1a49f2738a73",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -11103,31 +11103,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "a9f12e67396884aaf2c6047980a33043405b226f0edeccd71d9b77a18bd88b4b",
+          "repositoryHash": "e9417575e402a1dd511db91049b2d59fcf36442fe430216d402834e2df390924",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "aa1df93dcfcb7c6c0f710b1c7ccc9a3ac506bd308d5070f0b800e9708d04e98e",
+          "repositoryHash": "c2b41ed992672b63b3f2f151ac1f66ed17f48d15f2f3b47e7b5f59a5a7c9ee3f",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "54b87708bdcfcbfa77be79539b0407aae0a40c8a4cf011ea293a2e9501aef024",
+          "repositoryHash": "bdcd67e1f2e19826070f85d7423b728d0a6845b5fe67854d6dcdf0f19bb578ec",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "34bfe4aae97f7c4a4146c684868fcbc63309c96b76ed5257041b7fdd1f49ef57",
+          "repositoryHash": "cb56a036cc785f272ea7c4c31bf9487a326985939e5967637cf009dcc826c3ee",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "dc249e8eddd55c38919e5a527cec41a4dbce29bea19e85bb1ca04969d50efb26",
+          "repositoryHash": "d7f5eeca81be6d6cfce4ae57ad931fd17bd826485f99dffabb1a9ad400554bae",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -11235,31 +11235,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "9cd8f8723c7812817557f505d2263b3faf9ebac1d6840ffbbd450a7779d40852",
+          "repositoryHash": "33356dcb4893bcb4f03c48219612ca26708b684109cb0225fe94eb64abe160db",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "3c366a7da384d8d8ec64d8b959edde270bd8654f202dc90107ca4f88d3b0cc9b",
+          "repositoryHash": "6fb9114eda3836f3b1234fdbf6e207591817c705e214eee65c008ee7298c33cc",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "af280459a99c2a2dd6efb4e67bdbf0fe69cb98508ada7e6a25e211f1b7b7b85b",
+          "repositoryHash": "e451a928377e45ef31ae56790546c1a59fab0775cc6ad5c314a09f7d3d4f76ac",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "a3bdc2abcbb5555d9e775160fd9b8ac498f1f0bc2979daea1c1fe3011fd6293c",
+          "repositoryHash": "f4967876069a3f78bbb3a336a8101b66217890f75a5a20d5d710e86db7500811",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "c8d13983a4d084e8ae24543ff43643e982de14ffe74feeb63dd12018c0428c3d",
+          "repositoryHash": "8ee36d6abdfb6ad0da70c673d93622d646efc7eeca31b1fa8b37366c6dba8ffb",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -11368,31 +11368,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "f19c58021cc33b3713e661b666cb1dde1ef6080bef8984550c5a0c4f65caa872",
+          "repositoryHash": "f3baa4526bc5f98a8838fe4fa1f5c4f3c46f890da21e9e5eab943ab8d5d4ae43",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "d1acc208507425e0b122b8253bb3a262d1ab8d53b84da47a138744d161c49c32",
+          "repositoryHash": "c3d99d2ca4bb2b6897e326152c398711b9197656fa19202fedc21885de6bc795",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "50d0b6030fe19f4b60cd44baa9064ef9b9da3b236d15d4177db69e616e596bd8",
+          "repositoryHash": "c1a0f7c12765db174a4af33597e6f91f71cc3475c0ea325a5fb9ccfe884a5858",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "e9a0cdca23a00bb042961ad1447d50e995bd021c13bc2d25fa273fb1c3fbb762",
+          "repositoryHash": "9f1d4e6a6ffc190719f70f13564dd492d2558c1df36c2aa5f61e54cc5fe1a4a3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "271eab0bef701326fea84e9717e8854e3e54b4420021d2741ef9ac79846d2953",
+          "repositoryHash": "aa7e358e17121db00fd77b7f05553bc9af1c8fad6c36ef3efa36be4f409c0e23",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -11502,31 +11502,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "b59ff2140c2bf2e6305a1d4cc18c68c48912739dd34331b6068c77f54eff526a",
+          "repositoryHash": "47242083a65305195356313e06badbc28ac1205ff9911cdd4aeed9892af836b1",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "21b5e7d78dcec6b41e228477d4db6319e5a4b85c3d5f99bd47816a2db35cd461",
+          "repositoryHash": "71b95b0a8e5dc612ef08ef33a0bb53c21b9af9b77cf0467ec17e6ebdeb741a45",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "2093da87afc05df71481fe362ab76a42add45b9625f32137d95d3ae79a5c6e4b",
+          "repositoryHash": "e0cd6e69c0464389f000f7f2be3f6cb2bdc74d9c52d1e058a0393e0bd286d376",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "208b40bb51eaa167f368d973e4db6acd0a2feb6ebec0a6fb678577d49663aff6",
+          "repositoryHash": "39a8bb3b2452cdd29f3fba990551baf7c0a8588c79bb01eed4f8b108294869aa",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "58bd02d535726dbe4816efa047373994a575a4cd0aafb7bc6535bb09d9ffdca4",
+          "repositoryHash": "eb59cf2434b14c0815e7cd501699b50cb26d3570a5a27f5bdc73b3aba4102ebd",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -11634,31 +11634,31 @@
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "375dee94b61c74e527a4a4a2fc37f0eb50299c86e5934c3bd11bf9ecb9fba6a4",
+          "repositoryHash": "0402f3a3198916e559dd61777e95e6ae7935b9c32d38354c3e222ce6846420a6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "4357563e5ec0ca2186954f616bd2b8c5fdc7236e9f0d1e78c194c91a9232d108",
+          "repositoryHash": "6a531742c191962feac4bdb6756d239d08a8a41312f87490f3128c455903de9b",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "c236406edfc723dfa3ababfc57dd8ae47c25e525ff00800008fb49abd7f898c0",
+          "repositoryHash": "257b228a66a6e910a513a2aa2b3964fd577430d22203f75425ae9d41678879b5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "2fcb8118800a2050c1c1218cd46e05c0950d294539c65e0a0c78761f160044ab",
+          "repositoryHash": "b150f91758da8d6e6e110e10bc15224d4f7ca1082d830d4538369093f79df547",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "c62396174eb6b3fa44a4509254786f94dfcb7dc285b118ca4c2222572cee7f7e",
+          "repositoryHash": "791b447cb3d492cf38ce8aff4eaa87d654b820c72cb42785ebc2729156ba7fb6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }

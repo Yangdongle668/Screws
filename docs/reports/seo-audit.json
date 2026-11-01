@@ -11,7 +11,7 @@
       "WebPage": 744,
       "BreadcrumbList": 774,
       "CollectionPage": 30,
-      "Product": 162,
+      "Service": 162,
       "BlogPosting": 288,
       "ProfilePage": 6,
       "TechArticle": 30,
@@ -61,7 +61,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -76,7 +76,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -91,7 +91,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -106,7 +106,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -905,7 +905,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -920,7 +920,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -935,7 +935,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -950,7 +950,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -965,7 +965,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -980,7 +980,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -995,7 +995,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1010,7 +1010,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1025,7 +1025,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1040,7 +1040,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1055,7 +1055,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1070,7 +1070,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1085,7 +1085,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1100,7 +1100,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1115,7 +1115,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1130,7 +1130,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1145,7 +1145,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1160,7 +1160,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1175,7 +1175,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1190,7 +1190,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1205,7 +1205,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1220,7 +1220,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -1235,7 +1235,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2074,7 +2074,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2089,7 +2089,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2104,7 +2104,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2119,7 +2119,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2134,7 +2134,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2149,7 +2149,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2164,7 +2164,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2179,7 +2179,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2194,7 +2194,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2209,7 +2209,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2224,7 +2224,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2239,7 +2239,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2254,7 +2254,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2269,7 +2269,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2284,7 +2284,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2299,7 +2299,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2314,7 +2314,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2329,7 +2329,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2344,7 +2344,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -2359,7 +2359,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6294,7 +6294,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6309,7 +6309,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6324,7 +6324,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6339,7 +6339,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6354,7 +6354,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6369,7 +6369,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6384,7 +6384,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6399,7 +6399,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6414,7 +6414,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6429,7 +6429,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6444,7 +6444,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6459,7 +6459,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6474,7 +6474,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6489,7 +6489,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6504,7 +6504,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6519,7 +6519,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6534,7 +6534,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6549,7 +6549,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6564,7 +6564,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6579,7 +6579,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6594,7 +6594,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6609,7 +6609,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6624,7 +6624,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6639,7 +6639,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6654,7 +6654,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6669,7 +6669,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6684,7 +6684,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6699,7 +6699,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6714,7 +6714,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6729,7 +6729,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6744,7 +6744,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6759,7 +6759,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6774,7 +6774,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6789,7 +6789,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6804,7 +6804,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6819,7 +6819,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6834,7 +6834,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6849,7 +6849,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6864,7 +6864,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6879,7 +6879,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6894,7 +6894,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6909,7 +6909,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6924,7 +6924,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6939,7 +6939,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6954,7 +6954,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6969,7 +6969,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6984,7 +6984,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -6999,7 +6999,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7014,7 +7014,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7029,7 +7029,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7044,7 +7044,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7059,7 +7059,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7074,7 +7074,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7089,7 +7089,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7104,7 +7104,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7119,7 +7119,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7134,7 +7134,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7149,7 +7149,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7164,7 +7164,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7179,7 +7179,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7194,7 +7194,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7209,7 +7209,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7224,7 +7224,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7239,7 +7239,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7254,7 +7254,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7269,7 +7269,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7284,7 +7284,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7299,7 +7299,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7314,7 +7314,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7329,7 +7329,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7344,7 +7344,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7359,7 +7359,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7374,7 +7374,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7389,7 +7389,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7404,7 +7404,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7419,7 +7419,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7434,7 +7434,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7449,7 +7449,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7464,7 +7464,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7479,7 +7479,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7494,7 +7494,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7509,7 +7509,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7524,7 +7524,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7539,7 +7539,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7554,7 +7554,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7569,7 +7569,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7584,7 +7584,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7599,7 +7599,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7614,7 +7614,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7629,7 +7629,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7644,7 +7644,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7659,7 +7659,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7674,7 +7674,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7689,7 +7689,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7704,7 +7704,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7719,7 +7719,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7734,7 +7734,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7749,7 +7749,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7764,7 +7764,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7779,7 +7779,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7794,7 +7794,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7809,7 +7809,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7824,7 +7824,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7839,7 +7839,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7854,7 +7854,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7869,7 +7869,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7884,7 +7884,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7899,7 +7899,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7914,7 +7914,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7929,7 +7929,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7944,7 +7944,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7959,7 +7959,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7974,7 +7974,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -7989,7 +7989,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },
@@ -8004,7 +8004,7 @@
       "types": [
         "Organization",
         "BreadcrumbList",
-        "Product",
+        "Service",
         "WebPage"
       ]
     },

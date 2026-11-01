@@ -36,6 +36,8 @@ jobs:
           node scripts/audit-topology.mjs
           node scripts/audit-seo.mjs
           node scripts/verify-deep-content.mjs
+          node scripts/verify-product-services.mjs
+          node docker/verify-ai-provider.mjs
           node docker/verify-ai.mjs
           node docker/verify-insights.mjs
       - name: Type check
