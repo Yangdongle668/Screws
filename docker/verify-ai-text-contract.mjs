@@ -14,3 +14,7 @@ assert.equal(repairs.length,1);
 assert.throws(()=>parseTextContract(original.replace('ZUFEK_FIELDS_END','@@FIELD string /article/intro\nDifferent body\n@@END\nZUFEK_FIELDS_END')),/冲突/);
 assert.deepEqual(parseTextContract(original.replace('ZUFEK_FIELDS_END','@@FIELD object /article\n@@END\nZUFEK_FIELDS_END')),article);
 assert.deepEqual(parseTextContract(original.replace('ZUFEK_FIELDS_END','@@FIELD string /article/intro\n\n@@END\nZUFEK_FIELDS_END')),article);
+
+const malformedExample='ZUFEK_FIELDS_V1\n@@FIELD object /\n@@END\n@@FIELD object /article\n@@END\n@@FIELD array /article/example\n@@END\n@@FIELD string /article/example\nOriginal example with "quotes".\n@@END\nFIELD string /article/intro\nOriginal introduction.\n@@END\n@@FIELD object /schema\n@@END\n@@FIELD array /schema/topics\n@@END\n@@FIELD string /schema/topics/0\nMating seat\n@@END\n@@FIELD array /schema/topics/1\n@@END\nZUFEK_FIELDS_END';
+const actions=[];assert.deepEqual(parseTextContract(malformedExample,{onDuplicate:x=>actions.push(x)}),{article:{example:'Original example with "quotes".',intro:'Original introduction.'},schema:{topics:['Mating seat']}});assert.equal(actions.length,3);
+assert.throws(()=>parseTextContract(malformedExample.replace('@@FIELD string /article/example','@@FIELD string /article/example/0\nNonempty container\n@@END\n@@FIELD string /article/example')),/冲突/);
