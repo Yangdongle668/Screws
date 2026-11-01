@@ -12,6 +12,7 @@ RUN node docker/build.mjs --configure-only && node scripts/generate-site.mjs && 
 FROM node:24-alpine AS runtime
 WORKDIR /app
 ENV NODE_ENV=production PORT=3000 DATA_DIRECTORY=/data
+RUN apk add --no-cache chromium ca-certificates font-freefont
 COPY --from=build --chown=node:node /app/dist/docker ./dist/docker
 COPY --from=build --chown=node:node /app/docker ./docker
 COPY --from=build --chown=node:node /app/public ./public

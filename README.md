@@ -126,3 +126,7 @@ GitHub 保存代码和基础内容，不保存实际询盘、上传图纸、后�
 更新：`bash update.sh`。使用、真实IP配置、数据保留及功能对照见 [询盘与访问分析升级](docs/INQUIRY-ANALYTICS-UPGRADE.md)。
 
 DeepSeek 流式响应、阶段恢复、搜索接口及新版产品 Schema 的说明见 [AI维护与恢复](docs/AI-MAINTENANCE.md)。更新后可在后台选择“DeepSeek 官方预设”，保存后测试；生产连通性与账户权限需在服务器上确认。
+
+## Google PAA 调研
+
+独立Docker后台新增 **PAA 调研**（`/admin/#paa`）：默认两周试运行，每周一、周四上海时间9点，轮换5个关键词；支持关键词管理、问题库、历次记录和截图。无需付费搜索API。更新镜像会安装Chromium；Google可能限制服务器访问，模块会如实记录并停止，不绕过验证码。使用和测试见 [PAA调研模块](docs/PAA-RESEARCH.md)。

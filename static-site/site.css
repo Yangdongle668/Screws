@@ -91,3 +91,7 @@
 .topbar-mail-icon{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.65;flex-shrink:0}
 @media(max-width:700px){.topbar-tools>.topbar-email{font-size:14px;gap:7px}.topbar-mail-icon{width:18px;height:18px}}
 #ai-job-dialog{width:min(920px,calc(100% - 32px));max-height:88dvh;overflow:auto;padding:28px;border:1px solid #cbd6d0;color:var(--ink);background:#fbfaf7}#ai-job-dialog::backdrop{background:#102c3780}#ai-job-detail{overflow-wrap:anywhere}#ai-job-detail pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:320px;overflow:auto}#ai-job-detail textarea{width:100%;box-sizing:border-box}#ai-job-dialog .admin-dialog-heading{position:sticky;top:-28px;background:#fbfaf7;z-index:1;padding-top:16px}@media(max-width:700px){#ai-job-dialog{padding:18px;width:calc(100% - 24px)}#ai-job-dialog .admin-dialog-heading{top:-18px}}
+
+[data-admin-panel="paa"] pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:400px;overflow:auto}.paa-seeds{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(260px,100%),1fr));gap:12px;margin:24px 0}.paa-seeds label{display:flex;align-items:center;gap:8px;padding:12px;background:white;border:1px solid #d3ddd7;overflow-wrap:anywhere}.paa-seeds input{width:auto;flex-shrink:0}
+
+@media(min-width:701px){.admin-sidebar{overflow-y:auto;overscroll-behavior:contain}}

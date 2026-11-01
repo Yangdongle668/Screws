@@ -1,8 +1,8 @@
-export function validateKeywordBrief(brief,{pages,searchResults=[]}){
+export function validateKeywordBrief(brief,{pages,searchResults=[],observedPAA=[]}){
  if(!brief||typeof brief.primaryKeyword!=='string'||!brief.primaryKeyword.trim()||!Array.isArray(brief.secondaryKeywords)||!brief.secondaryKeywords.length||brief.secondaryKeywords.some(k=>typeof k!=='string'||!k.trim())||!['informational','commercial_investigation','transactional'].includes(brief.searchIntent)||typeof brief.readerQuestion!=='string'||!brief.readerQuestion.trim()||!['new_article','improve_existing'].includes(brief.coverageDecision)||!Array.isArray(brief.competingPaths)||!brief.competingPaths.length||brief.competingPaths.some(p=>!pages.some(x=>x.path===p)))throw Error('关键词简报缺少主关键词、搜索意图或真实页面覆盖分析');
  if(brief.serpURLs&&!Array.isArray(brief.serpURLs)||brief.observedPAA&&!Array.isArray(brief.observedPAA))throw Error('关键词简报的搜索结果或PAA字段格式错误');
- const observed=new Set(searchResults.map(r=>r.url));if((brief.serpURLs||[]).some(u=>!observed.has(u)))throw Error('关键词简报包含未观察到的搜索结果');if((brief.observedPAA||[]).length)throw Error('本轮没有采集可验证的PAA区块，不能把推测问题标成真实PAA');
- return {...brief,primaryKeyword:brief.primaryKeyword.trim(),searchMetrics:{volume:null,difficulty:null,reason:'No verified keyword metrics provider used.'},serpBasis:(brief.serpURLs||[]).length?'observed_search_results':'publisher_sources_and_intent_inference',observedPAA:[]};
+ const observed=new Set(searchResults.map(r=>r.url));if((brief.serpURLs||[]).some(u=>!observed.has(u)))throw Error('关键词简报包含未观察到的搜索结果');const observedQuestions=new Set(observedPAA.map(q=>q.question));if((brief.observedPAA||[]).some(q=>typeof q!=='string'||!observedQuestions.has(q)))throw Error('不能把未在采集问题库中观察到的问题标记为真实PAA');
+ return {...brief,primaryKeyword:brief.primaryKeyword.trim(),searchMetrics:{volume:null,difficulty:null,reason:'No verified keyword metrics provider used.'},serpBasis:(brief.serpURLs||[]).length?'observed_search_results':'publisher_sources_and_intent_inference',observedPAA:brief.observedPAA||[]};
 }
 export function validateDraftSEO(result,brief,{pages,type}){
  const seo=result.seo;if(!seo||typeof seo.title!=='string'||!seo.title.trim()||seo.title.length>160||typeof seo.description!=='string'||!seo.description.trim()||seo.description.length>320)throw Error('草稿缺少完整SEO标题或Meta描述，未转入审核');
