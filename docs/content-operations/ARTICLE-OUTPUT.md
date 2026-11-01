@@ -22,3 +22,6 @@ Human approval authorizes server-managed five-language translation and unified p
 ## Source policy
 
 All article types may return sources:[] and article.sources:[]. Technical blogs, engineering guides and ordinary updates should normally do so and must not add a Sources/References section. Industry insights may include useful supplied references but need not. Without fresh references write qualitative industry and buyer analysis rather than pretending to report recent events, numerical market data or new regulations. Never fabricate URLs, credentials, customer stories or measurements.
+
+## JSON serialization
+Return raw valid JSON without Markdown fences or introductory text. Escape quotation marks, backslashes and all literal control characters inside string values (including paragraph breaks). Never truncate the article to fix formatting. The server preserves visible model output privately, attempts conservative local syntax recovery, and permits at most one budgeted syntax-only model repair with a full-content preservation check. A malformed or truncated response is never published as a valid article.
