@@ -37,6 +37,7 @@ jobs:
           node scripts/audit-seo.mjs
           node scripts/verify-deep-content.mjs
           node scripts/verify-product-services.mjs
+          node docker/verify-ai-seo.mjs
           node docker/verify-web-research.mjs
           node docker/verify-ai-provider.mjs
           node docker/verify-ai.mjs

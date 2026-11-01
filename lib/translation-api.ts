@@ -5,7 +5,7 @@ import {knownLocale,translate,localePath} from './i18n/runtime';
 const json=(data:unknown,status=200)=>Response.json(data,{status,headers:{'Cache-Control':'no-store','X-Robots-Tag':'noindex'}});
 export async function sourceArticle(slug:string){const row=await env.DB!.prepare('SELECT payload FROM article_drafts WHERE slug=?').bind(slug).first<{payload:string}>();return row?JSON.parse(row.payload) as Article:seedArticles.find(a=>a.slug===slug);}
 export async function fingerprint(article:Article){const bytes=new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(JSON.stringify(article))));return Array.from(bytes).map(n=>n.toString(16).padStart(2,'0')).join('');}
-export function translatedSeed(article:Article,locale:string):Article{const t=(s:string)=>translate(s,locale);return {...article,title:t(article.title),description:t(article.intro).slice(0,320),category:t(article.category),intro:t(article.intro),sections:article.sections.map(([h,b])=>[t(h),t(b)]),checklist:article.checklist.map(t),example:t(article.example),sources:article.sources?.map(([n,u])=>[t(n),u])};}
+export function translatedSeed(article:Article,locale:string):Article{const t=(s:string)=>translate(s,locale);return {...article,title:t(article.title),description:t(article.intro).slice(0,320),category:t(article.category),intro:t(article.intro),sections:article.sections.map(([h,b])=>[t(h),t(b)]),checklist:article.checklist.map(t),example:t(article.example),sources:article.sources?.map(([n,u])=>[t(n),u]),keywords:article.keywords?.map(t),relatedLinks:article.relatedLinks?.map(l=>({...l,label:t(l.label)}))};}
 export async function translationAPI(request:Request,action:string){try{
  if(!env.DB)return json({error:'Database unavailable'},503);const url=new URL(request.url);
  const input=request.method==='GET'?null:await request.json() as {slug:string;locale:string;article:Article;revision:number;sourceFingerprint:string};
@@ -24,7 +24,7 @@ export async function translationAPI(request:Request,action:string){try{
  }
  if(['article-translation-publish','article-translation-withdraw'].includes(action)&&request.method==='POST'){
   if(action==='article-translation-publish'&&row?.source_fingerprint!==currentFingerprint)return json({error:'原文已变化，请核对并保存译文后再发布'},409);
-  if(!row)return json({error:'请先保存译文草稿'},400);const published=action==='article-translation-publish';const article=validate(JSON.parse(row.payload));const html=published?renderArticle(article,now,false,locale,[locale]):'';
+  if(!row)return json({error:'请先保存译文草稿'},400);const published=action==='article-translation-publish';const article=validate(JSON.parse(row.payload));const priorDate=row.html?.match(/"datePublished":"([^"]+)"/)?.[1];const html=published?renderArticle(article,now,false,locale,[locale],priorDate||(!row.html?now:undefined)):'';
   if(published&&article.title===source.title&&article.intro===source.intro)return json({error:'请完成该语言的标题和正文翻译后发布'},400);
   const result=await env.DB.prepare('UPDATE article_translations SET state=?,html=?,published_revision=?,published_at=?,updated_at=? WHERE slug=? AND locale=? AND revision=?').bind(published?'published':'withdrawn',html,published?row.revision:0,now,now,slug,locale,row.revision).run();return result.meta.changes?json({saved:true,url:localePath('/blog/'+slug+'/',locale)}):json({error:'译文已变更'},409);
  }

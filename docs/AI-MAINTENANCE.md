@@ -13,9 +13,9 @@ Search is separate from model generation. The default public-web mode reads publ
 1. Read the current published-content inventory, draft ledger, company facts, maintenance principles, and the prompt specific to the task type.
 2. Compare relevant existing pages and identify an uncovered engineering or procurement question.
 3. Research approved sources and record retrieved evidence, source failures, and retrieval mode.
-4. Generate a structured outline identifying the gap and intended sections.
+4. Generate a structured outline and mandatory keyword brief: primary/related terms, search intent, reader question, existing competing paths and new-page versus improvement decision. Distinguish observed search URLs from inference; uncollected PAA and unavailable metrics must not be invented.
 5. Draft from that outline and evidence. Structured technical articles are rendered into Markdown by the server instead of asking the model to duplicate the body.
-6. Validate source references, internal links, minimum content and response completeness; save a review draft and update the ledger. Translation uses an approved English revision and does not invent new research.
+6. Validate source references, descriptive existing internal links, mandatory SEO title/description, minimum content and response completeness; save a review draft and update the ledger. Translation uses an approved English revision and does not invent new research.
 
 The task panel shows stage, elapsed time, received content size, checkpoints and sanitized call diagnostics. Reasoning text and API keys are not saved in task output. Each model request has connection, inactivity and total deadlines, and each job has a 20-minute upper bound.
 
@@ -40,3 +40,11 @@ This intentionally stops requesting Google Product rich-result eligibility for q
 PLAN is a preliminary routing stage, not the final gap assessment. Its request includes a refreshed inventory timestamp, baseline page hashes, source fingerprints, the coverage directory and separate draft/task summaries. It selects 1–4 exact existing path strings. Full bodies and baseline hashes are delivered to OUTLINE for the specialist assessment; DRAFT receives the same context. The routing prompt must not demand file access or a completed body comparison before selecting pages.
 
 A malformed PLAN response receives one explicit format-correction request, counted against the normal model budget. If still invalid, the job stops with PLAN_SCHEMA_INVALID diagnostics (returned status, paths type/count and a bounded path preview). No arbitrary fallback pages are substituted and invalid plans are never checkpointed. Pipeline versioning invalidates checkpoints created under the old routing contract. This format correction is distinct from network retries and never turns missing evidence into approval.
+
+## SEO handoff and publication
+
+Each review-ready draft must have `seo` metadata and a `keywordBrief`. Missing title/description, non-existing internal paths, fabricated SERP URLs or claimed PAA observations stop validation. Search volume and difficulty remain explicitly unavailable, not invented. Duplicate titles and long metadata are flagged for review; intent cannibalization still needs editorial judgment. A task proposing improvement of an existing page cannot be handed over as a new technical blog.
+
+Technical handoff carries the validated title, description, topic keywords and descriptive related links into the article editor. The editor exposes keywords and internal links for adjustment and preserves them when saving. Keywords are article topics, not a meta-keywords tag or a density target. Publication renders canonical, social metadata, image, language, author/publisher, breadcrumbs and BlogPosting. New articles record the actual first publication timestamp, retaining it on subsequent revisions; older unknown first-publication dates are not fabricated. Related product references use the manufacturing-service entity. Translation generates locale-specific page URLs and metadata under the existing publication workflow.
+
+Industry insights, guides and targeted page reviews receive SEO metadata and a schema plan, but continue to require manual merging into their respective destinations. A schema plan is not deployed JSON-LD. No automatic publication, PAA rich-result eligibility, keyword-demand measurement, indexing or ranking is guaranteed by this workflow.
