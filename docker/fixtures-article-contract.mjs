@@ -1,0 +1,6 @@
+// Offline fixtures only: construct the model response used by integration tests.
+export function completeArticleFixture(result,input){
+ if(!['technical','insight','guide','review'].includes(input.taskType))return result;
+ const brief=input.keywordBrief,a=result.article;const path=input.updateTarget?.path||(input.taskType==='insight'?'/industry-insights/':input.taskType==='guide'?'/guides/':'/blog/')+a.slug+'/';const seo={...result.seo,social:{title:result.seo.title,description:result.seo.description}};
+ return {schemaVersion:'zufek.article.v1',status:result.status,reason:'',gapEvidence:result.gapEvidence,publication:{action:input.updateTarget?'update':'new',type:path.startsWith('/guides/')?'guide':path.startsWith('/industry-insights/')?'insight':'technical',targetPath:path},keywordBrief:brief,seo,schema:{type:path.startsWith('/guides/')?'TechArticle':'BlogPosting',topics:[brief.primaryKeyword]},article:{...a,path,bodyFormat:'plain',metaTitle:seo.title,description:seo.description,sections:a.sections.map(([h,b])=>[h,Array(8).fill(b).join(' ')]),processes:[],keywords:[brief.primaryKeyword,...brief.secondaryKeywords],relatedLinks:seo.internalLinks},sources:result.sources,changeSummary:{summary:'Completes the supplied engineering decision.',changes:['Adds an acceptance sequence.'],preserved:['Existing engineering conditions.']},uncertainties:[]};
+}

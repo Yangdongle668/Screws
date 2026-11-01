@@ -134,3 +134,5 @@ DeepSeek 流式响应、阶段恢复、搜索接口及新版产品 Schema 的说
 ## 审核后多语言发布、文章分析和可视编辑
 
 技术博客、行业洞察、工程指南及旧文更新审核通过后，会自动调用已保存的AI接口翻译五种语言，再统一发布六种语言；失败保留进度，可重试。文章管理显示手动／定时AI任务来源、SEO基础分及写作风格风险。AI风格风险不是AI生成比例，也不是Google评分。编辑器支持可视化格式和Markdown、独立Meta标题、关键词、搜索结果预览及逐项检查。详见 [文章发布与分析流程](docs/ARTICLE-WORKFLOW.md)。
+
+AI文章交付统一采用 `zufek.article.v1`：完整正文、关键词与意图、Meta/社交信息、Schema内容、来源和更新说明。中文后台可下载标准文章JSON；漏字段仅定向修复一次，正文保持不变。英文规范见 [ARTICLE-OUTPUT.md](docs/content-operations/ARTICLE-OUTPUT.md)。
