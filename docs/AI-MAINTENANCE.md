@@ -34,3 +34,9 @@ Run `bash update.sh` on the deployment server, then save the preset and test it 
 Product-family pages describe custom manufacturing subject to drawing review and quotation. Their structured entity is now `Service`, linked to the organization and page, rather than a `Product` lacking a real price or review. No free offers, invented prices or ratings are added. All six languages share this rule. Legacy quote-only Product overrides saved in the SEO editor are normalized when read, preserving their title and description.
 
 This intentionally stops requesting Google Product rich-result eligibility for quotation-only families. After deployment, inspect the live URL in Search Console and request validation of the old issue. Reports reflect Google's last crawl and may continue showing the old Product error until recrawl; this change does not guarantee indexing or ranking.
+
+## Topic-routing contract
+
+PLAN is a preliminary routing stage, not the final gap assessment. Its request includes a refreshed inventory timestamp, baseline page hashes, source fingerprints, the coverage directory and separate draft/task summaries. It selects 1–4 exact existing path strings. Full bodies and baseline hashes are delivered to OUTLINE for the specialist assessment; DRAFT receives the same context. The routing prompt must not demand file access or a completed body comparison before selecting pages.
+
+A malformed PLAN response receives one explicit format-correction request, counted against the normal model budget. If still invalid, the job stops with PLAN_SCHEMA_INVALID diagnostics (returned status, paths type/count and a bounded path preview). No arbitrary fallback pages are substituted and invalid plans are never checkpointed. Pipeline versioning invalidates checkpoints created under the old routing contract. This format correction is distinct from network retries and never turns missing evidence into approval.
