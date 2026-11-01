@@ -6,7 +6,7 @@ First line: ZUFEK_FIELDS_V1
 Each block starts with: @@FIELD <type> <path>
 Then its raw value on subsequent lines, followed by a line containing exactly @@END.
 Types: string, number, boolean, null, object, array. Container blocks have no value.
-Declare every object/array before its children. Root is an object at path /. Use string /article/example (not an array), even when empty. Every marker must include @@. Emit each path exactly once. Never repeat a field to correct it; finish the complete object once.
+Declare every object/array before its children. Root is an object at path /. For article.processes use only the supplied process slugs (for example cnc-turning, threading, inspection), never their display names. Use string /article/example (not an array), even when empty. Every marker must include @@. Emit each path exactly once. Never repeat a field to correct it; finish the complete object once.
 Array children use contiguous indices starting at 0. Empty arrays still need an array block.
 Escape path components only: ~ becomes ~0 and / becomes ~1. Never escape body text.
 A string block may contain real paragraph breaks, quotes, Markdown and backslashes unchanged.
