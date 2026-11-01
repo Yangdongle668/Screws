@@ -93,3 +93,9 @@ body:not(.admin-page) :where(input,select,textarea){min-width:0;max-width:100%}
 body:not(.admin-page) main :where(a,button,li,h1,h2,h3,p){min-width:0}
 .topic-context-grid>a,.catalog-card,.home-topic-card{overflow-wrap:anywhere;hyphens:auto}
 @media(max-width:600px){.topic-context-grid{grid-template-columns:minmax(0,1fr)}}
+
+/* Independent article SEO reports and field-by-field repair preview. */
+#article-seo-tools-dialog{box-sizing:border-box;width:min(960px,calc(100% - 32px));max-height:85vh;overflow:auto;padding:24px;border:1px solid #cbd3d5}
+#article-seo-tools-dialog section{padding:16px 0;border-bottom:1px solid #dce2e3}
+#article-seo-tools-dialog pre{white-space:pre-wrap;overflow-wrap:anywhere;max-width:100%;padding:12px;background:#f3f5f4}
+#article-seo-tools-dialog button{min-height:44px}
