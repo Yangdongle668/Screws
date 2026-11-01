@@ -1,3 +1,4 @@
+import {articlePath,isArticlePath,publishedArticle} from './article-path.mjs';
 import {pageOverride} from './seo/page-settings';
 import {env} from 'cloudflare:workers';
 import {articleCard,type Article} from './editorial-api';
@@ -13,18 +14,18 @@ export async function staticResponse(request:Request,path?:string){
  if(base==='/resources/visual-library/')return Response.redirect(u.origin+localePath('/products/',locale),308);
  let html=(pages as Record<string,string>)[base];if(locale!=='en'&&html)html=localizedArticleHtml(html,base,locale,locales);
  if(locale!=='en'&&!baselineExists(base,locale))html=undefined as unknown as string;
- if(base.startsWith('/blog/')){
+ if(isArticlePath(base)||['/blog/','/industry-insights/','/guides/'].includes(base)){
   if(!env.DB)return new Response('Content temporarily unavailable',{status:503});
   try{
-   if(base==='/blog/'){
-    const changes=locale==='en'?await env.DB.prepare('SELECT slug,metadata,state FROM article_publications ORDER BY published_at DESC').all<{slug:string;metadata?:string;payload?:string;state:string}>():await env.DB.prepare("SELECT slug,payload,state FROM article_translations WHERE locale=? AND state IN ('published','withdrawn') ORDER BY published_at DESC").bind(locale).all<{slug:string;metadata?:string;payload?:string;state:string}>();
-    for(const change of changes.results){const target=localePath('/blog/'+change.slug+'/',locale);const article=JSON.parse(change.metadata??change.payload??'{}') as Article;const english=locale==='en'?article:await sourceArticle(change.slug);const card=change.state==='published'?localizedArticleHtml(articleCard(article,english?.category??article.category),'/blog/'+change.slug+'/',locale,locales):'';let found=false;html=html.replace(/<a class="article-card"[^>]*>[\s\S]*?<\/a>/g,old=>{if(!old.includes('href="'+target+'"'))return old;found=true;return card;});if(!found&&card)html=html.replace(/(<div class="[^"]*filter-grid[^"]*">)/,open=>open+card);}
+   if(['/blog/','/industry-insights/','/guides/'].includes(base)){
+    const changes=locale==='en'?await env.DB.prepare('SELECT slug,metadata,state FROM article_publications ORDER BY published_at DESC').all<{slug:string;metadata?:string;payload?:string;state:string;html?:string}>():await env.DB.prepare("SELECT slug,payload,state,html FROM article_translations WHERE locale=? AND state IN ('published','withdrawn') ORDER BY published_at DESC").bind(locale).all<{slug:string;metadata?:string;payload?:string;state:string;html?:string}>();
+    for(const change of changes.results){const article=publishedArticle(JSON.parse(change.metadata??change.payload??'{}'),change.html) as Article;if(articlePath(article).split('/')[1]!==base.split('/')[1])continue;const target=localePath(articlePath(article),locale);const english=locale==='en'?article:await sourceArticle(change.slug);const card=change.state==='published'?localizedArticleHtml(articleCard(article,english?.category??article.category),articlePath(article),locale,locales):'';let found=false;html=html.replace(/<a class="(?:article-card|catalog-card)"[^>]*>[\s\S]*?<\/a>/g,old=>{if(!old.includes('href="'+target+'"'))return old;found=true;return card;});if(!found&&card)html=html.replace(/(<div class="[^"]*(?:filter-grid|catalog-grid)[^"]*">)/,open=>open+card);}
    }else{
     const slug=base.split('/')[2];
-    const english=await env.DB.prepare('SELECT html,state FROM article_publications WHERE slug=?').bind(slug).first<{html:string;state:string}>();
-    const translations=await env.DB.prepare('SELECT locale,html,state FROM article_translations WHERE slug=?').bind(slug).all<{locale:string;html:string;state:string}>();
+    const english=await env.DB.prepare('SELECT html,state,metadata FROM article_publications WHERE slug=?').bind(slug).first<{html:string;state:string;metadata:string}>();
+    const translations=await env.DB.prepare('SELECT locale,html,state,payload FROM article_translations WHERE slug=?').bind(slug).all<{locale:string;html:string;state:string;payload:string}>();
     const selected=locale==='en'?english:translations.results.find(row=>row.locale===locale&&row.state!=='draft');
-    if(selected)html=selected.state==='published'?selected.html:undefined as unknown as string;
+    if(selected&&articlePath(JSON.parse(locale==='en'?english!.metadata:(selected as {payload:string}).payload))===base)html=selected.state==='published'?selected.html:undefined as unknown as string;
     if(html){const available=locales.filter((l:string)=>{const row=l==='en'?english:translations.results.find(r=>r.locale===l&&r.state!=='draft');return row?row.state==='published':baselineExists(base,l);});html=updateLanguageLinks(html,base,locale,available);}
    }
   }catch{return new Response('Content temporarily unavailable',{status:503,headers:{'Cache-Control':'no-store'}});}

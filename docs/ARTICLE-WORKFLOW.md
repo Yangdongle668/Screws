@@ -2,7 +2,7 @@
 
 ## Approval authorizes publication
 
-For a complete **new technical blog**, the English approval action now authorizes this server workflow: save the validated English article, translate German/Spanish/Italian/Chinese/French through the saved model API, save each structured translation, then publish all six language versions in one database transaction. The existing model request/token budgets still apply. Generation of a draft alone never publishes it; targeted improvements to existing pages and other non-article patches remain manual integrations.
+For complete **technical blogs, industry insights, engineering guides and existing-article reviews**, the English approval action now authorizes this server workflow: save the validated English article, translate German/Spanish/Italian/Chinese/French through the saved model API, save each structured translation, then publish all six language versions in one database transaction. The existing model request/token budgets still apply. Generation of a draft alone never publishes it; existing-article reviews overwrite the approved target at its existing route. Non-article product/company page patches remain outside this article renderer.
 
 New approvals create a durable publication request. Older approved tasks are not bulk-published by an update: their task details offer **启动五种翻译并发布六种语言**. The article management panel displays the article as soon as its English draft is saved, with workflow progress. Source badges distinguish manual AI tasks, scheduled AI tasks and manual editing. Historical records without provenance are marked as unknown rather than guessed.
 
@@ -10,7 +10,7 @@ Publication records and per-language steps are stored in `ai_publications` and `
 
 Each language keeps its successfully generated payload. An interrupted or failed workflow requires an explicit retry; previously successful translations are reused, not generated again. A language has at most three generation attempts. Ambiguous model timeouts are not silently replayed, and retained budget reservations are not provider billing statements. Budget exhaustion can leave the article pending until configuration is reviewed. Stop controls cancel unfinished publication, while manual withdrawal also stops an active automated workflow. Already committed publication can be withdrawn through article management.
 
-The server never overwrites a human-edited source or conflicting destination. Publication validates all revisions and commits English plus five translations together; a concurrent revision change rolls back the transaction. Reopening an already completed workflow does not create duplicate publication versions. First-publication timestamps remain real, and repeat publication retains known original dates. Sitemap, language alternates and LLM resources use the existing runtime content inventory. Final publication state is attached to the task ledger separately from English approval.
+Approval of an article update authorizes overwriting the target source and translations, with a pre-update six-language release snapshot. New articles do not overwrite occupied URLs; edits made after approval stop the running workflow. Publication validates all revisions and commits English plus five translations together; a concurrent revision change rolls back the transaction. Reopening an already completed workflow does not create duplicate publication versions. First-publication timestamps remain real, and repeat publication retains known original dates. Sitemap, language alternates and LLM resources use the existing runtime content inventory. Final publication state is attached to the task ledger separately from English approval.
 
 ## Article editor
 
@@ -37,7 +37,7 @@ Single-article and bulk **AI风格与SEO复核** actions queue model review thro
 
 ## Troubleshooting task-to-article handoff
 
-AI task drafts are not article-manager records until the approved publication workflow saves the English master. Legacy approved jobs need the explicit start-publication action. Body-only legacy jobs and existing-page improvement patches cannot be automatically published as new articles. Job details now explain structural eligibility and the handoff stage; action errors are shown inside the open dialog rather than only behind it. Missing fields must be repaired and reviewed, not replaced with invented metadata or silently regenerated paid calls.
+AI task drafts are not article-manager records until the approved publication workflow saves the English master. Legacy approved jobs need the explicit start-publication action. Body-only legacy jobs and patch-only legacy updates lack a complete article and must be regenerated or completed first. Full updates preserve their existing route and do not create duplicate articles. Job details now explain structural eligibility and the handoff stage; action errors are shown inside the open dialog rather than only behind it. Missing fields must be repaired and reviewed, not replaced with invented metadata or silently regenerated paid calls.
 
 ## Source matching and task deletion
 
@@ -46,3 +46,11 @@ Source fetches now preserve the allowed redirect chain and final URL. Citation v
 Task details provide permanent deletion with an explicit checkbox to include task-created articles (default selected). The confirmation warns that published English and translated pages will be removed. Deletion includes dependent translation jobs, task events, calls, publication workflow steps, owned article drafts, versions, translations, HTML publications, audit reports and task/checkpoint files. Other articles are preserved; legacy ownership is accepted only through an existing handover record without another owning task. Running generation, publication or analysis must finish or be cancelled first. Database changes are atomic; a cleanup queue retries failed file removal on restart. Inventory and ledger are refreshed. Existing independent backups are not rewritten.
 
 Only month-level anonymous usage totals and scheduled-slot suppression remain, without task IDs, article bodies, URLs or error diagnostics. These prevent billing-limit resets and unwanted recreation of deleted scheduled jobs. Deleting does not refund already incurred provider charges.
+
+## Unified article types and rollback
+
+New technical articles use /blog/, industry insights /industry-insights/, and engineering guides /guides/. Their list pages, schema, canonical URLs, hreflang, sitemap and LLM inventory share the runtime article records. Existing repository resource articles are now exposed in article management as structured masters. Review tasks select existing articles and receive their full current article object. The server assigns updateTarget; it is not a model-authorized arbitrary page write.
+
+An approved update snapshots the pre-update English and five translated release states in article_release_history, saves the complete replacement English master, regenerates all five translations, and commits the six published pages together. Existing URLs and known first-publication dates are preserved. Failed updates leave the current public HTML in place; per-language caches allow resumption. Concurrent edits after approval remain protected. Article management exposes “回滚并发布六种语言”, restoring the prior public HTML and article/translation records without extra AI calls; the replaced current version is itself retained. This is separate from the existing restore-to-draft action. Pure product/company patches are not treated as articles.
+
+`node docker/verify-ai-article-types.mjs` verifies all article destinations, six-language routing, list links, crawl resources, overwrite, original-date preservation and six-language rollback using local fixtures, without paid calls.

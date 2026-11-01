@@ -93,5 +93,6 @@ jobs:
         run: |
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-publishing.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-autoflow.mjs
+          docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-article-types.mjs
       - name: Test production container without external services
         run: docker run --rm --entrypoint node zufek-ci:${{ github.sha }} docker/verify-runtime.mjs

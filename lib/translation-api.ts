@@ -1,3 +1,4 @@
+import {articlePath} from './article-path.mjs';
 import {env} from 'cloudflare:workers';
 import {seedArticles,validate,renderArticle,type Article} from './editorial-api';
 import dictionaries from './i18n/dictionaries.json';
@@ -19,14 +20,14 @@ export async function translationAPI(request:Request,action:string){try{
  if(!Number.isInteger(input.revision)||input.revision<0||input.revision!==(row?.revision??0))return json({error:'译文已被其他操作修改，请重新加载'},409);
  const now=new Date().toISOString();
  if(action==='article-translation-save'&&request.method==='POST'){
-  const article=validate(input.article);if(article.slug!==slug)return json({error:'译文必须关联同一篇原文'},400);
+  const article=validate(input.article);if(article.slug!==slug||articlePath(article)!==articlePath(source))return json({error:'译文必须关联同一篇原文'},400);
   const result=row?await env.DB.prepare('UPDATE article_translations SET payload=?,revision=revision+1,source_fingerprint=?,updated_at=? WHERE slug=? AND locale=? AND revision=?').bind(JSON.stringify(article),currentFingerprint,now,slug,locale,input.revision).run():await env.DB.prepare('INSERT INTO article_translations (slug,locale,payload,source_fingerprint,updated_at) VALUES (?,?,?,?,?) ON CONFLICT(slug,locale) DO NOTHING').bind(slug,locale,JSON.stringify(article),currentFingerprint,now).run();return result.meta.changes?json({saved:true,revision:input.revision+1}):json({error:'译文已变更，请重新加载'},409);
  }
  if(['article-translation-publish','article-translation-withdraw'].includes(action)&&request.method==='POST'){
   if(action==='article-translation-publish'&&row?.source_fingerprint!==currentFingerprint)return json({error:'原文已变化，请核对并保存译文后再发布'},409);
   if(!row)return json({error:'请先保存译文草稿'},400);const published=action==='article-translation-publish';const article=validate(JSON.parse(row.payload));const priorDate=row.html?.match(/"datePublished":"([^"]+)"/)?.[1];const html=published?renderArticle(article,now,false,locale,[locale],priorDate||(!row.html?now:undefined)):'';
   if(published&&article.title===source.title&&article.intro===source.intro)return json({error:'请完成该语言的标题和正文翻译后发布'},400);
-  const result=await env.DB.prepare('UPDATE article_translations SET state=?,html=?,published_revision=?,published_at=?,updated_at=? WHERE slug=? AND locale=? AND revision=?').bind(published?'published':'withdrawn',html,published?row.revision:0,now,now,slug,locale,row.revision).run();return result.meta.changes?json({saved:true,url:localePath('/blog/'+slug+'/',locale)}):json({error:'译文已变更'},409);
+  const result=await env.DB.prepare('UPDATE article_translations SET state=?,html=?,published_revision=?,published_at=?,updated_at=? WHERE slug=? AND locale=? AND revision=?').bind(published?'published':'withdrawn',html,published?row.revision:0,now,now,slug,locale,row.revision).run();return result.meta.changes?json({saved:true,url:localePath(articlePath(article),locale)}):json({error:'译文已变更'},409);
  }
  return json({error:'Unsupported operation'},405);
 }catch(error){return json({error:error instanceof Error?error.message:'译文操作失败'},400);}}

@@ -1,6 +1,6 @@
 # AI maintenance: DeepSeek setup and recovery
 
-The Docker worker runs every 60 seconds. Scheduled jobs and manual jobs use the same queue; every generated English result starts as a draft for human review. Approval of a complete new technical blog starts the authorized five-language translation and six-language publication workflow. Other page patches remain manual integrations. See ARTICLE-WORKFLOW.md.
+The Docker worker runs every 60 seconds. Scheduled jobs and manual jobs use the same queue; every generated English result starts as a draft for human review. Approval of a complete technical blog, industry insight, engineering guide or existing-article update starts the authorized five-language translation and six-language publication workflow. Article updates overwrite their established routes with six-language rollback snapshots; non-article page patches remain manual integrations. See ARTICLE-WORKFLOW.md.
 
 ## Configuration
 
