@@ -31,7 +31,7 @@ Then define the shoulder fit.
 Confirm the mating surface.
 @@END
 ZUFEK_FIELDS_END
-The example is not a complete article. Include ALL fields required by the supplied article or translation contract, including SEO, sections, lists and workflow status. Do not return JSON serialized inside string blocks.`;
+The example only illustrates syntax. Include exactly the fields required by the CURRENT STAGE contract. BODY stages omit SEO; SEO stages omit article/body fields. Stage-specific reduced contracts take precedence over older full-article examples. Do not return JSON serialized inside string blocks.`;
 export function parseTextContract(raw,{onDuplicate=()=>{}}={}){
  const lines=String(raw).replace(/^\uFEFF/,'').replace(/\r\n/g,'\n').trim().split('\n');
  if(lines.shift()!=='ZUFEK_FIELDS_V1'||lines.pop()!=='ZUFEK_FIELDS_END')throw Error('固定格式缺少开始或结束标记');
