@@ -1,31 +1,39 @@
-# Complete article JSON delivery contract — zufek.article.v1
+# Canonical article document — zufek.article.v1
 
-This contract governs the final DRAFT output for technical blogs, industry insights, engineering guides and existing-article updates. Keep the specialist prompt's editorial purpose; use one shared delivery format. The server supplies the authoritative JSON Schema in outputSchema. The internal stored article is JSON. At the model transport boundary, the final OUTPUT TRANSPORT OVERRIDE requires ZUFEK_FIELDS_V1 typed text blocks instead of serialized JSON. The server assembles the object and validates this schema.
+This is the server-owned stored and exported document format. It is not a list of admission gates for a writing model. The application assembles the complete canonical JSON from the article body, task settings and available model suggestions.
 
-For READY_FOR_REVIEW every required field must be present and complete:
-- schemaVersion: "zufek.article.v1"; status; reason (an empty string is allowed for READY); gapEvidence; uncertainties (a string array).
-- publication: action "new" or "update", type "technical" / "insight" / "guide", targetPath. A review uses the existing article's type and exact path. Do not invent a destination.
-- keywordBrief: copy the supplied validated outline keyword brief unchanged. Do not invent volume, difficulty, observed PAA or SERP observations.
-- seo: title, description, internalLinks [{path,label}], social {title,description}. Use existing paths and contextual anchors. The H1 and SEO title may differ in wording while serving the same intent.
-- schema: only {type:"BlogPosting"|"TechArticle",topics:[specific article subjects]}. Guides use TechArticle. Do not generate raw JSON-LD, author qualifications, ratings, offers, dates or enterprise identity. The server renders the final graph, canonical URL, author, publication dates and language alternates from actual records.
-- article: slug, path, title (H1), metaTitle (equal to seo.title), description (equal to seo.description), category, intro, sections [[heading,completeBody]], product, cover, bodyFormat (plain/markdown), checklist, example, processes, sources [[title,url]], keywords, relatedLinks. Body text belongs only here: do not output a duplicate content field or a second full Markdown article. Use 1–12 substantive sections; supported Markdown lists belong inside their section bodies; use prose or lists for comparisons rather than unsupported HTML or table markup. Empty example/checklist/processes arrays are allowed when not relevant; never pad an example with invented experience. Product and cover must come from articleChoices.
-- sources: an array, normally [] for ordinary articles and optionally [{title,url,claim}] for industry insights when useful fetched references are supplied. External references are never mandatory. Cite only citationRegistry / fetched evidence URLs when you choose to include them. article.sources must contain the same labels and URLs in the same order. Describe exactly what the source supports, with applicable conditions. A link or catalogue page does not prove an engineering conclusion.
-- article.keywords: [keywordBrief.primaryKeyword,...keywordBrief.secondaryKeywords]. article.relatedLinks must match seo.internalLinks. These are internal editorial fields, not a meta-keywords tag.
-- changeSummary: {summary,changes:[substantive changes],preserved:[unchanged scope]}. New articles explain their contribution. Updates return the COMPLETE replacement article, preserving valid content and the existing URL.
+## Model writing task
 
-Do not silently replace unknown required strings with placeholders or invented data. For a non-ready DRAFT outcome keep all required top-level keys: use null for article/publication/keywordBrief/seo/schema/changeSummary, empty sources/uncertainties arrays where justified, and a concrete reason. If no supported gap exists, return NO_CHANGE with a reason and article:null. Missing external sources is not a reason for HOLD. Use qualitative explanations, approved facts and general engineering knowledge; omit unconfirmed precise numbers, claimed test results, exact standard clauses or current-news assertions. HOLD is reserved for substantive blockers that remain after narrowing scope. Absence of observed PAA is not a reason to stop. Earlier research and outline stages can request bounded evidence recovery; this contract cannot turn missing evidence into a fact.
+Write a complete useful English article. Supply article.title, article.intro and article.sections as heading/body pairs when possible. Existing compatible section objects and Markdown content can also be organized by the application. Preserve all technical meaning, numbers and actual paragraphs. Do not output placeholder prose merely to fill a field.
 
-When a FORMAT_REPAIR request is supplied, correct only the listed field/structure issues once. Preserve existing title, intro, section bodies, checklist and example verbatim. Keep the workflow status unchanged. Use the supplied destinations; references may remain empty. Do not add unconfirmed precise claims or rewrite existing body text. The application verifies this preservation and rejects a changed body.
+The fixed-field ZUFEK_FIELDS_V1 transport remains supported. Valid JSON remains readable. No need to duplicate a full Markdown copy outside the structured article. Optional SEO and publication suggestions may accompany the article; missing bookkeeping or metadata does not justify HOLD or a request for sources.
 
-Human approval authorizes server-managed five-language translation and unified publication. Never assert that a model response itself has been published. Earlier legacy tasks are not retroactively certified against this contract.
+Search results, PAA, publisher pages and other AI assessments are reference material. They are not proof of engineering correctness and are not prerequisites for writing. Useful inferred reader questions are valid without a Google observation claim. Avoid invented search metrics, measurements, certifications, customer cases or news; omit or qualify an unconfirmed precise assertion.
 
-## Source policy
+For updates return the full revised article. The server preserves its existing route and protects later manual edits. For new articles answer the selected reader question; actual route/title/content collisions are checked against the website. A formal gap-evidence paragraph is optional editorial context, not a publication license.
 
-All article types may return sources:[] and article.sources:[]. Technical blogs, engineering guides and ordinary updates should normally do so and must not add a Sources/References section. Industry insights may include useful supplied references but need not. Without fresh references write qualitative industry and buyer analysis rather than pretending to report recent events, numerical market data or new regulations. Never fabricate URLs, credentials, customer stories or measurements.
+## Server assembly
 
-## Fixed-field transport
-DRAFT, FORMAT_REPAIR and TRANSLATION use ZUFEK_FIELDS_V1 typed blocks supplied by the server. Write body text verbatim, with real paragraph breaks and quotation marks; no JSON escaping. Declare object and array containers and all required fields. End every block with @@END and the complete response with ZUFEK_FIELDS_END. The server constructs JSON deterministically, checks missing fields and semantic requirements, and retains the original response. A missing end marker or malformed field never becomes a published article. PLAN and OUTLINE retain their short JSON responses. Legacy valid JSON responses remain readable for compatibility.
+The canonical document includes:
 
-## Production generation mode
-Production returns one complete article document in the DRAFT call using the fixed-field transport. The experimental BODY/SEO split is disabled. The server still validates metadata, preserves raw responses, and recovers only complete bodies with truncated optional tails. External references remain optional.
-Before accepting a new article and before approval, the server refreshes the inventory and rejects an existing route or exact normalized title. Existing content updates preserve their explicit target. Successful runtime publications and manual articles are recorded in inventory.json; task-ledger.json also records article coverage. Published articles are excluded from the pending-draft list unless they have unpublished edits. The queue refreshes these files even when automatic generation is disabled.
+- schemaVersion, status, reason, editorial topic/comparison notes and uncertainties;
+- publication action, article type and authoritative route from the task;
+- keywordBrief with inferred keyword intent, existing comparison paths and optional observed PAA;
+- seo title, description, valid related links and social metadata, derived from the article when absent;
+- schema type and concise topics; server rendering supplies organization, author, URLs, actual dates and language alternates;
+- article title, introduction, complete sections, category, existing product/cover, optional checklist/example/processes/references, keywords and links;
+- optional sources and a change summary.
+
+No model response has to copy all these fields perfectly. The application fills metadata from supplied content without inventing engineering evidence, records advisory notes and preserves the raw response. It does not request a second full-body rewrite solely for a missing meta field, schema shape or change-summary key.
+
+A complete article returned early at OUTLINE can be retained as the draft. When there is no actual body, the application retains the response and reports that honestly rather than manufacturing an article. Network/authentication failure, cancellation, exhausted budgets or unreadable/truncated actual body output can still require retry.
+
+## Review and publication
+
+Editorial assessments, overlap suggestions and small-update findings are visible review notes, not third-party vetoes. Exact duplicate destinations, titles and clearly repeated content, simultaneous writes to the same article, and changes since approval remain application responsibilities. Completely unchanged updates do not produce another version.
+
+English approval authorizes the established five-language translation and unified publication process. Updates retain original first-publication dates and rollback snapshots. Never claim that a model response has been published before the server publication transaction succeeds.
+
+References are optional for all article types, including industry insights. The existing reference policy may omit unverified suggested links from the public bibliography while retaining notes; this does not block draft saving. Without fresh references, write qualitative industry analysis rather than fabricated reports of recent events.
+
+The experimental BODY/SEO split remains disabled in production. Production uses one full-body DRAFT response and deterministic server metadata assembly.
