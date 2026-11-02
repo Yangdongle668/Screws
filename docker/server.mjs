@@ -1,3 +1,4 @@
+import {createAIWorkerPool} from './ai-worker-pool.mjs';
 import {createPAAService} from './paa-service.mjs';
 import {publicAddress} from './ai-network.mjs';
 import {createInsights} from './insights.mjs';
@@ -29,7 +30,10 @@ if(!/^[a-f0-9]{64}$/.test(bridgeToken||''))throw Error('Configure LOCAL_SMTP_TOK
 const smtp=api.createBridge({token:bridgeToken,authorizeTarget:async()=>{const {config}=await api.loadMailConfig();const from=config.from||config.smtpUser;const sender=String(from).match(/<([^<>]+)>$/)?.[1]||from;return {hosts:[config.smtpHost],senders:[String(sender).split('@').at(-1).toLowerCase()]};},stateDirectory:path.join(data,'smtp-receipts')});
 await new Promise(resolve=>smtp.listen(0,'127.0.0.1',resolve));
 Object.assign(api.env,{DB:db,BUCKET:fileBucket(path.join(data,'drawings')),ADMIN_EMAILS:email,INQUIRY_TO:process.env.INQUIRY_TO||'info@zufek.net',MAIL_CONFIG_KEY:process.env.MAIL_CONFIG_KEY,LOCAL_SMTP_ENDPOINT:'https://docker-mail.zufek.invalid',LOCAL_SMTP_TOKEN:bridgeToken,LOCAL_SMTP_FETCH:(input,options)=>{const url=new URL(String(input));if(url.origin!=='https://docker-mail.zufek.invalid'||!['/send','/diagnose'].includes(url.pathname))throw Error('Invalid local mail route');return fetch('http://127.0.0.1:'+smtp.address().port+url.pathname,options);}});
-const ai=await createAIService({db,data,normalizeArticle:api.validateArticle,editorialAction:(action,body)=>api.adminAPI(new Request('https://docker-admin.zufek.invalid/api/admin/'+action,{method:body?'POST':'GET',headers:{'oai-authenticated-user-id':'docker-admin','oai-authenticated-user-email':email,Origin:'https://docker-admin.zufek.invalid','Content-Type':'application/json'},...(body?{body:JSON.stringify(body)}:{})}),action.split('?')[0]),saveArticle:(request,body)=>api.adminAPI(new Request(new URL('/api/admin/article-save',request.url),{method:'POST',headers:request.headers,body:JSON.stringify(body)}),'article-save')});
+const aiEditorial=(action,body)=>api.adminAPI(new Request('https://docker-admin.zufek.invalid/api/admin/'+action,{method:body?'POST':'GET',headers:{'oai-authenticated-user-id':'docker-admin','oai-authenticated-user-email':email,Origin:'https://docker-admin.zufek.invalid','Content-Type':'application/json'},...(body?{body:JSON.stringify(body)}:{})}),action.split('?')[0]);
+const aiPool=createAIWorkerPool({db,data,editorialAction:aiEditorial});
+const ai=await createAIService({db,data,executor:aiPool,normalizeArticle:api.validateArticle,editorialAction:aiEditorial,saveArticle:(request,body)=>api.adminAPI(new Request(new URL('/api/admin/article-save',request.url),{method:'POST',headers:request.headers,body:JSON.stringify(body)}),'article-save')});
+aiPool.setWake(()=>ai.tick());
 const paa=await createPAAService({db,data});
 const geoReader=new api.CountryReader(gunzipSync(fs.readFileSync(path.join(root,'docker/geoip/country.mmdb.gz'))));
 const countryForIP=ip=>{try{if(!publicAddress(ip))return 'Unknown';const country=geoReader.get(ip)?.country?.iso_code;return /^[A-Z]{2}$/.test(country||'')?country:'Unknown';}catch{return 'Unknown';}};
@@ -118,4 +122,5 @@ const server=http.createServer(async(incoming,outgoing)=>{
 });
 server.requestTimeout=35000;server.headersTimeout=10000;server.keepAliveTimeout=5000;
 server.listen(Number(process.env.PORT||3000),process.env.HOST||'0.0.0.0',()=>console.log('ZUFEK production server ready.'));
-for(const signal of ['SIGINT','SIGTERM'])process.on(signal,()=>{clearInterval(timer);clearInterval(aiTimer);clearInterval(paaTimer);paa.close();ai.close();server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});setTimeout(()=>process.exit(1),20000).unref();});
+let shuttingDown=false;
+for(const signal of ['SIGINT','SIGTERM'])process.on(signal,async()=>{if(shuttingDown)return;shuttingDown=true;setTimeout(()=>process.exit(1),20000).unref();clearInterval(timer);clearInterval(aiTimer);clearInterval(paaTimer);paa.close();await ai.close();server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});});

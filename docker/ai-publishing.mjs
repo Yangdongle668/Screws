@@ -4,9 +4,9 @@ import {createHash} from 'node:crypto';import {assertArticleTranslation} from '.
 const canonical=v=>Array.isArray(v)?v.map(canonical):v&&typeof v==='object'?Object.fromEntries(Object.entries(v).sort(([a],[b])=>a.localeCompare(b)).map(([k,x])=>[k,canonical(x)])):v;
 const contentHash=a=>{const {sourceJobId,publicationOrigin,...body}=a;return hash(canonical({...body,path:articlePath(a)}));};
 const hash=x=>createHash('sha256').update(JSON.stringify(x)).digest('hex'),locales=['de','es','it','zh','fr'];
-export async function createAIPublisher({db,editorial,normalize=x=>x,translate,clock=()=>new Date(),progress=async()=>{}}){
+export async function createAIPublisher({db,editorial,normalize=x=>x,translate,clock=()=>new Date(),progress=async()=>{},recoverOnStart=true}){
  await db.prepare('CREATE TABLE IF NOT EXISTS ai_publications(job_id TEXT PRIMARY KEY,slug TEXT NOT NULL,status TEXT NOT NULL,phase TEXT NOT NULL,details TEXT NOT NULL,error TEXT,updated_at TEXT NOT NULL)').run();await db.prepare('CREATE TABLE IF NOT EXISTS ai_publication_steps(job_id TEXT NOT NULL,locale TEXT NOT NULL,payload TEXT,revision INTEGER,attempts INTEGER NOT NULL DEFAULT 0,status TEXT NOT NULL,error TEXT,PRIMARY KEY(job_id,locale))').run();
- await db.prepare("UPDATE ai_publications SET status='failed',error='服务重启中断发布流程；已保存的译文保留，请重试未完成步骤' WHERE status='working'").run();
+ if(recoverOnStart)await db.prepare("UPDATE ai_publications SET status='failed',error='服务重启中断发布流程；已保存的译文保留，请重试未完成步骤' WHERE status='working'").run();
  const request=async(action,body)=>{const response=await editorial(action,body),data=await response.json();if(!response.ok)throw Error(data.error||'文章接口调用失败：'+action);return data;};
  const eligible=job=>['technical','insight','guide','review','commercial'].includes(job.type)&&!!job.result?.article;
  const prepare=job=>{if(!eligible(job))throw Error('此任务缺少可发布的完整结构化文章');let article;try{article=normalize({...job.result.article,publicationOrigin:job.slot.startsWith('manual:')?'ai_manual':'ai_scheduled',sourceJobId:job.id});}catch(e){throw Error('文章结构校验未通过：'+String(e.message||e).slice(0,400));}if(job.result.keywordBrief?.coverageDecision==='improve_existing'&&!job.result.updateTarget)throw Error('旧文更新缺少目标文章，请重新生成完整更新稿');if(job.result.updateTarget&&(!isArticlePath(job.result.updateTarget.path)||articlePath(article)!==job.result.updateTarget.path))throw Error('旧文更新必须保留目标文章网址');return {article,updateTarget:job.result.updateTarget||null,sourceHash:hash(job.result.article),fingerprint:hash(article),review:job.result.review};};
@@ -42,6 +42,6 @@ export async function createAIPublisher({db,editorial,normalize=x=>x,translate,c
   const steps=(await db.prepare('SELECT status FROM ai_publication_steps WHERE job_id=?').bind(job.id).all()).results;if(steps.some(s=>s.status!=='queued'))throw Error('翻译已经开始，不能直接替换批准版本');
   await db.batch([db.prepare("UPDATE ai_jobs SET result=?,updated_at=? WHERE id=? AND status='approved'").bind(JSON.stringify(result),clock().toISOString(),job.id),db.prepare("UPDATE ai_publications SET details=?,status='queued',error=NULL WHERE job_id=? AND status='failed' AND phase='prepare'").bind(JSON.stringify(details),job.id)]);return {queued:true};
  }
- await reconcile();
+ if(recoverOnStart)await reconcile();
  return {prepare,eligible,enqueue,summary,retry,next,run,conflict,reapprove,cancel:async id=>{const result=await db.prepare("UPDATE ai_publications SET status='cancelled',error='管理员取消自动发布',updated_at=? WHERE job_id=? AND status IN ('queued','working')").bind(clock().toISOString(),id).run();return !!result.meta.changes;}};
 }
