@@ -42,6 +42,7 @@ jobs:
           node docker/verify-paa.mjs
           node docker/verify-paa-serpapi.mjs
           node docker/verify-ai-seo.mjs
+          node docker/verify-ai-editorial-inputs.mjs
           node docker/verify-web-research.mjs
           node docker/verify-ai-provider.mjs
           node docker/verify-ai-optional-sources.mjs
