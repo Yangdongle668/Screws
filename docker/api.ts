@@ -13,3 +13,5 @@ export {default as inquiryProducts} from '../lib/product-options.json';
 export {backupResponse} from '../lib/backup-api';
 
 export {validate as validateArticle} from '../lib/editorial-api';
+
+export {applyEditorialCorrections,correctionFingerprint} from '../lib/editorial-corrections';

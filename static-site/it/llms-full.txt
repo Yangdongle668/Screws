@@ -332,7 +332,7 @@ Di Theo Wan Leggi la guida tecnica → QUALITÀ 2 LETTURA MIN
 
 ##### Come preparare un piano di ispezione per viti personalizzate ↗
 
-Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
+Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
 Di Theo Wan Leggi la guida tecnica → PRODUZIONE 2 LETTURA MIN
 
@@ -354,7 +354,7 @@ L'acciaio inossidabile descrive diverse famiglie di materiali. Specificare il gr
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -382,11 +382,11 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 Una vite regolata manualmente deve essere accessibile, comoda da impugnare e compatibile con la regolazione richiesta. La struttura della testa da sola non definisce il funzionamento del meccanismo.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-L'estremità di una vite di fissaggio definisce il modo in cui entra in contatto con il componente di accoppiamento. Scegliere la punta attorno al contatto richiesto e al cambiamento di superficie consentito, non solo al diametro della vite.
+Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
@@ -609,7 +609,7 @@ Di Theo Wan Leggi la guida tecnica → QUALITÀ 2 LETTURA MIN
 
 ##### Come preparare un piano di ispezione per viti personalizzate ↗
 
-Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
+Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
 Di Theo Wan Leggi la guida tecnica → PRODUZIONE 2 LETTURA MIN
 
@@ -631,7 +631,7 @@ L'acciaio inossidabile descrive diverse famiglie di materiali. Specificare il gr
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -659,11 +659,11 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 Una vite regolata manualmente deve essere accessibile, comoda da impugnare e compatibile con la regolazione richiesta. La struttura della testa da sola non definisce il funzionamento del meccanismo.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-L'estremità di una vite di fissaggio definisce il modo in cui entra in contatto con il componente di accoppiamento. Scegliere la punta attorno al contatto richiesto e al cambiamento di superficie consentito, non solo al diametro della vite.
+Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
@@ -902,6 +902,14 @@ Due progetti illustrativi collegano le esigenze di assemblaggio con la struttura
 
 Custodia del modulo automobilistico ↗ Perno di automazione e dispositivo di regolazione ↗ Sfoglia gli studi di progettazione delle applicazioni ↗
 
+#### Fotografie di prodotto fornite per questo sito
+
+Queste fotografie di riferimento mostrano le forme visibili del prodotto. Non stabiliscono la qualità del materiale, le dimensioni, i risultati dell'ispezione o l'applicazione consegnata al cliente.
+
+Componenti filettati misti e forme di spalla su un tavolo espositivo
+
+Gambi filettati, spallamenti e componenti tubolari fotografati insieme
+
 #### Campionatura, attrezzaggio e pianificazione della produzione
 
 Il tempo di produzione tipico del campione del prototipo, inclusa l'attrezzatura, è di circa 10–15 giorni. Il programma confermato segue la revisione dei disegni tecnici e l'accordo sui requisiti di materiale, geometria, trattamento superficiale e ispezione. Chiarire la tappa iniziale nella citazione. La consegna per produzione ripetuta viene quotata separatamente in base alla quantità e al percorso approvato.
@@ -1008,7 +1016,7 @@ Di Theo Wan Leggi la guida tecnica → QUALITÀ 2 LETTURA MIN
 
 ##### Come preparare un piano di ispezione per viti personalizzate ↗
 
-Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
+Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
 Di Theo Wan Leggi la guida tecnica → PRODUZIONE 2 LETTURA MIN
 
@@ -1401,6 +1409,14 @@ Le opzioni di materiale e finitura sono pre-approvate? No. Le opzioni disponibil
 
 Come viene concordato l'ambito di qualità? Definire le caratteristiche critiche e le esigenze di documentazione durante la revisione. Vedi il nostro approccio di pianificazione della qualità .
 
+#### Fotografie di prodotto fornite per questo sito
+
+Queste fotografie di riferimento mostrano le forme visibili del prodotto. Non stabiliscono la qualità del materiale, le dimensioni, i risultati dell'ispezione o l'applicazione consegnata al cliente.
+
+Componenti filettati misti e forme di spalla su un tavolo espositivo
+
+Gambi filettati, spallamenti e componenti tubolari fotografati insieme
+
 #### Inizia con l'interfaccia che una vite standard non può soddisfare
 
 Utilizzare questo percorso quando il requisito combina funzionalità o non si adatta a un'unica famiglia di prodotti. Identificare il motivo della personalizzazione: azionamento inaccessibile, superficie del cuscinetto insolita, filettature miste, passaggio interno o diversi gradini di posizionamento. Separare le interfacce essenziali dalle dimensioni che possono essere discusse durante la revisione della producibilità.
@@ -1413,7 +1429,7 @@ Invia un disegno tecnico con unità e revisione o un campione con uno schizzo qu
 
 Rivedi insieme attrezzature, formatura o tornitura, caratteristiche secondarie, generazione della filettatura, trattamento e controlli finali. Un basso costo di formatura iniziale può essere compensato da finiture aggiuntive, mentre un prototipo lavorato a macchina potrebbe non rappresentare il percorso di produzione ripetuto preferito. Confronta le quantità di campioni e ordini ricorrenti utilizzando le stesse specifiche approvate.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire il disegno tecnico, il materiale, la finitura e l'assemblaggio previsto. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -1464,7 +1480,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -1502,7 +1518,7 @@ Superficie d'appoggio Struttura della superficie, copertura del trattamento e co
 
 La spalla e la filettatura possono avere diametri diversi? Sì, la spalla e il filetto vengono specificati in modo indipendente. Esaminare la transizione, il gioco di accoppiamento disponibile e l'impegno effettivo della filettatura nella parte di accoppiamento come un'unica geometria.
 
-Ogni vite sulla spalla è rettificata? No. Le dimensioni finali, la forma e i requisiti della superficie determinano il percorso di finitura. Rivedere la necessità di molatura con distorsione del trattamento e le condizioni di accettazione finale.
+Ogni vite a spallamento deve essere rettificata? No. Le dimensioni finali, la forma e i requisiti della superficie determinano il percorso di finitura. Rivedere la necessità di molatura con distorsione del trattamento e le condizioni di accettazione finale.
 
 #### Segui una progettazione completa dell'applicazione
 
@@ -1526,13 +1542,13 @@ La transizione dalla spalla piana alla filettatura della vite necessita di spazi
 
 La tornitura CNC è un percorso da rivedere per quantità di campioni e passaggi complessi. La stampaggio a freddo seguita da lavorazione locale può essere valutata per la produzione ripetuta. La macinazione viene selezionata laddove i requisiti di dimensione, forma o superficie lo giustificano, piuttosto che presupporre dal nome del prodotto. L'ispezione CCD può selezionare i profili accessibili; i rapporti tra dati geometrici, rugosità superficiale e accettazione dell'ispezione della filettatura necessitano di metodi propri adeguati.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti a spalla e a gradino, rivedere la ricalcatura a freddo + lavorazione secondaria, tornitura a fantina mobile e CNC, operazioni secondarie e di precisione rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere il diametro e la lunghezza della spalla; thread e transizione; opzioni di precisione. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Includere i dettagli del foro di accoppiamento, le dimensioni critiche della spalla, la ruvidità della superficie e l'ispezione dimensionale richiesta. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -1572,7 +1588,7 @@ GUIDA INGEGNERIA
 
 ##### Come preparare un piano di ispezione per viti personalizzate ↗
 
-Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
+Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
 #### Qual è la differenza tra una vite a spallamento e una interamente filettata?
 
@@ -1659,7 +1675,7 @@ Mostra il movimento minimo necessario per disimpegnare il filetto di accoppiamen
 
 Concordare il controllo di conservazione previsto, i movimenti consentiti e qualsiasi requisito di servizio ripetuto. La misurazione del filetto conferma una caratteristica diversa dalla ritenzione del pannello. Confermare la condizione dopo il rivestimento e l'eventuale preassemblaggio e mantenere la disposizione di fissaggio approvata identificata con il disegno tecnico della vite.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire il disegno tecnico, il materiale, la finitura e l'assemblaggio previsto. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -1754,7 +1770,7 @@ Specificare la forma esterna, l'altezza, la transizione sottotesta e la geometri
 
 La geometria della testa può influenzare l'attrezzatura e il lavoro secondario. Esamina le forme degli angoli, l'accesso per la lavorazione ed eventuali requisiti di superficie visibile con il percorso proposto. Approvare la testa finita rispetto sia alla busta di installazione che allo strumento di corrispondenza; una silhouette esterna corretta non determina le prestazioni di guida.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire il disegno tecnico, il materiale, la finitura e l'assemblaggio previsto. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2053,7 +2069,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2115,13 +2131,13 @@ Una guida speciale scoraggia la rimozione casuale; non fornisce una valutazione 
 
 Valutare il driver previsto con campioni finiti rappresentativi. Controllare l'aggancio, l'alloggiamento e il comportamento di montaggio concordato dopo ogni rivestimento. Definire l'aspetto della testata visibile separatamente dall'accettazione funzionale della rientranza. La schermatura del profilo esterno non dimostra le prestazioni della coppia di rientranza; utilizzare il controllo funzionale concordato e registrare le specifiche dell'utensile con la revisione della vite approvata.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per viti di sicurezza e antimanomissione, rivedere lo stampaggio a freddo multistazione, le operazioni secondarie e di precisione, i rivestimenti e i trattamenti superficiali rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere le opzioni di guida; interfaccia dello strumento; configurazioni della testa. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire il disegno tecnico dell'azionamento o le specifiche dello strumento corrispondente. La resistenza alla manomissione dipende dalla disponibilità dell'utensile e dall'assemblaggio completo; non è una sicurezza assoluta. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2184,7 +2200,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2240,13 +2256,13 @@ Un foro radiale che attraversa un foro assiale può lasciare un bordo interno ch
 
 Lo screening della vista può verificare le caratteristiche esterne adeguate ma non stabilisce il passaggio interno completo. Concordare un controllo appropriato del foro e qualsiasi prova di pressione, flusso o tenuta con condizioni definite. Non dedurre una valutazione della pressione dal termine vite cava. La compatibilità dei materiali, la geometria della tenuta e le condizioni di assemblaggio devono essere affrontate prima che venga rilasciato un requisito funzionale.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti a foro cavo e passante, rivedere Tornitura CNC e di tipo svizzero, Operazioni secondarie e di precisione, Pulizia, Bloccaggio e Assemblaggio rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la geometria del foro; relazione muro-filetto; finitura interna. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Indicare il diametro e la profondità del foro, le bave consentite, la pulizia e qualsiasi prova di tenuta o pressione concordata. Un foro passante da solo non stabilisce una valutazione della pressione. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2321,7 +2337,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2383,13 +2399,13 @@ Il rivestimento si applica a una parte tridimensionale, compresa la superficie d
 
 Per una copertura dell'apparecchiatura, rivedere la distanza della flangia, l'accesso alla testa, la sede e le condizioni visive concordate sulle parti rappresentative. Definisci il diametro della flangia, lo spessore e qualsiasi requisito di planarità in modo indipendente. Scegliere i controlli meccanici e di rivestimento secondo la specifica; uno schermo dimensionale della flangia non stabilisce il carico di serraggio o le prestazioni di corrosione.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti flangiate personalizzate, rivedere la ricalcatura a freddo multistazione, la ricalcatura a freddo + lavorazione secondaria, i rivestimenti e i trattamenti superficiali rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere le dimensioni della flangia; faccia del cuscinetto; flangia sottile o allargata. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Includere i requisiti del materiale di accoppiamento e della superficie del cuscinetto. Una flangia più grande non previene automaticamente i danni alla superficie. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2464,7 +2480,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2526,13 +2542,13 @@ Un'estremità piatta, arrotondata o definita in un altro disegno tecnico interag
 
 Un regolatore del dispositivo illustrativo deve essere controllato lungo tutta la corsa prevista, compreso l'accesso ad entrambe le posizioni finali. Ispezionare le dimensioni della filettatura e dell'impugnatura e concordare eventuali verifiche funzionali. Il serraggio manuale è variabile e non è un metodo di coppia calibrata; dove è importante il carico di serraggio controllato, definire il processo di assemblaggio separatamente dalla testa zigrinata.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti di regolazione e ad alette zigrinate, rivedere Tornitura CNC e di tipo svizzero, Operazioni secondarie e di precisione, Rullatura di filetti, Taglio e Maschiatura rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere lo stile di presa; interfaccia di regolazione; azionamento opzionale. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Specificare l'impugnatura della testa, la corsa di regolazione e l'eventuale metodo di bloccaggio richiesto. La sola impugnatura non costituisce una coppia di serraggio calibrata. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2607,7 +2623,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2663,13 +2679,13 @@ Una vite di fissaggio utilizzata come fermo dell'albero presenta una domanda di 
 
 Verificare l'accettazione dell'ispezione della filettatura, la forma della punta, la lunghezza complessiva e le condizioni del materiale specificato. Un profilo di visione esterna non può da solo convalidare il comportamento dell'invasatura o della tenuta assemblata. Laddove venga aggiunta una punta modificata, un foro laterale o una caratteristica eccentrica, includere la sua relazione con l'asse della filettatura e il metodo concordato per verificare tale relazione.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per viti di fissaggio e grani personalizzati, rivedere la tornitura Swiss Type e CNC, la rullatura di filetti, il taglio e la maschiatura, il trattamento termico specifico del materiale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere le opzioni relative ai suggerimenti; opzioni di discussione; funzionalità aggiuntive. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Indicare la geometria della punta, la superficie di accoppiamento, la guida e la funzione prevista. Le prestazioni di bloccaggio dipendono dall'intero assemblaggio. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2732,7 +2748,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2756,13 +2772,13 @@ Montaggio bullone con scanalatura a T: cosa misurare prima di ordinare ↗ Come 
 
 Mostra sia la stretta apertura della fessura che la cavità interna. Stabilire se la testa entra dall'estremità o ruota in posizione. Controllare il gioco del collo, il contatto antirotazione e l'area del cuscinetto durante tutta la regolazione, non solo nella posizione di bloccaggio finale.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per i bulloni con scanalatura a T personalizzati, rivedere le operazioni di stampaggio a freddo multistazione, stampaggio a caldo e forgiatura, operazioni secondarie e di precisione rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la larghezza e lo spessore della testa; collo e orientamento; gambo filettato. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire la sezione trasversale della fessura e il metodo di inserimento; non selezionare solo dall'aspetto della testa. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2813,7 +2829,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2837,13 +2853,13 @@ Golfari per collegamenti e sollevamento: diverse esigenze specifiche ↗ Disegni
 
 Dimensionare il foro dell'occhio rispetto al perno di accoppiamento, al legamento rimanente e all'articolazione disponibile. Mostra la direzione del carico e le interferenze nelle vicinanze attraverso il movimento. Un occhiello di collegamento e un componente di sollevamento omologato hanno requisiti di verifica diversi; la forma degli occhi non stabilisce un carico di lavoro.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per bulloni ad occhiello e articolati personalizzati, esamina la stampatura a caldo e la forgiatura, la tornitura a fantina mobile e CNC, la visione CCD e l'ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la geometria dell'occhio o della forcella; transizione del gambo; movimento di assemblaggio. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Direzione della forza statale e destinazione d'uso. Qualsiasi applicazione di sollevamento necessita di un progetto di carico nominale approvato e di una verifica concordata, non semplicemente di una testa a forma di occhio. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2894,7 +2910,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2916,13 +2932,13 @@ Rivestimenti delle viti ad alta resistenza e revisione del rischio idrogeno ↗ 
 
 Fornire le direzioni di carico consentite, l'impegno della filettatura nella parte di accoppiamento, la disposizione dei sedili e i requisiti di verifica applicabili. Le condizioni di carico angolare e di installazione rientrano nella revisione del progetto. Non rilasciare un anello di sollevamento personalizzato sulla base della sola conformità dimensionale; la progettazione approvata e la verifica tracciabile concordata sono essenziali.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per progetti personalizzati di golfari di sollevamento, rivedere la stampatura a caldo e la forgiatura, il trattamento termico specifico del materiale, la visione CCD e l'ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere anello e gambo; direzione del carico; ambito di verifica. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire il caso di carico approvato e lo standard applicabile. La geometria personalizzata non è una valutazione del carico di lavoro certificata; utilizzare solo dopo progettazione e verifica qualificate. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -2973,7 +2989,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -2995,13 +3011,13 @@ Come quotare un cavallotto personalizzato ↗ Gli accoppiamenti delle spalle, le
 
 Definisce la larghezza interna e il raggio di piegatura rispetto al componente bloccato. Mostra la spaziatura delle gambe, il parallelismo e la lunghezza filettata disponibile dopo l'installazione della sella e dei dadi. Esaminare il contatto dei cuscinetti e le condizioni del rivestimento in corrispondenza della curvatura; la larghezza complessiva da sola non può stabilire un morsetto che si adatti correttamente.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per i bulloni a U personalizzati, rivedere le operazioni secondarie e di precisione, la rullatura delle filettature, il taglio e la maschiatura, i rivestimenti e i trattamenti superficiali rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere il profilo di piegatura; geometria delle gambe; hardware di accoppiamento. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire la sezione trasversale bloccata e i requisiti di carico. Materiale, processo di piegatura e rivestimento devono essere esaminati insieme. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3052,7 +3068,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3076,13 +3092,13 @@ Come specificare un azionamento a vite antimanomissione ↗ Montaggio bullone co
 
 Decidi se il quadrato viene guidato da una chiave inglese o trattenuto in una tasca. Il primo richiede l'autorizzazione dell'utensile; il secondo necessita di tascabilità, accesso per l'inserimento e contatto antirotazione controllato. Indicare la forma dell'angolo e la transizione sotto la testa in modo che una dimensione trasversale apparentemente corretta non nasconda un'interferenza.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per i bulloni a testa quadrata personalizzati, rivedere le operazioni di stampaggio a freddo multistazione, stampaggio a caldo e forgiatura, operazioni secondarie e di precisione rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la dimensione della testa; vestibilità catturata; configurazione del gambo. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Mostrare l'accesso alla chiave o la tasca di fissaggio e le proprietà meccaniche richieste. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3133,7 +3149,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3155,13 +3171,13 @@ Bulloni a carrello personalizzati: specificando il collo quadrato ↗ Progettazi
 
 Controllare la profondità e la larghezza del collo rispetto al foro del pannello e impilare. Il collo deve impegnarsi nella funzione antirotazione prevista consentendo al tempo stesso alla superficie del cuscinetto di posizionarsi. Se il quadrato si estende troppo in una parte inadatta della pila, il serraggio può sembrare completo prima che il giunto sia posizionato.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per i bulloni a carrello personalizzati, rivedere la ricalcatura a freddo multistazione, la rullatura delle filettature, il taglio e la maschiatura, i rivestimenti e i trattamenti superficiali rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere il collo quadrato; forma della testa; gambo e filetto. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire la geometria del foro di accoppiamento e il materiale del cuscinetto; l'innesto del collo fa parte del design antirotazione. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3212,7 +3228,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3236,13 +3252,13 @@ Disegni delle viti eccentriche: rendere inequivocabile l'offset ↗ Viti coniche
 
 Definire l'offset da un asse di Riferimento con nome e mostrare l'orientamento di piani, unità o facce di contatto. Per un regolatore, descrivere il movimento richiesto e gli arresti nell'assemblaggio. Misurare solo i diametri esterni non può stabilire l'eccentricità o la relazione angolare che fa funzionare il meccanismo.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per viti a testa eccentrica e angolata, rivedere Tornitura CNC e di tipo svizzero, Operazioni secondarie e di precisione, Visione CCD e Ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere offset e datum; orientamento della testa; intervallo di regolazione. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire una vista dell'assieme, uno schema di riferimento e l'intervallo di regolazione richiesto. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3293,7 +3309,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3317,13 +3333,13 @@ Prigionieri a doppia estremità: prevengono errori di assemblaggio di filetti mi
 
 Specificare ciascuna estremità in modo indipendente: diametro, passo, mano, filettatura utilizzabile e impegno. Dimensionare la sezione centrale e le eventuali spalle del sedile. Se le estremità sembrano simili, concordare un metodo di identificazione e includerlo nell'ispezione e nell'imballaggio per evitare di invertire la parte durante l'assemblaggio.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per i perni a doppia estremità personalizzati, rivedere la tornitura di tipo svizzero e CNC, la rullatura di filetti, il taglio e la maschiatura, il trattamento termico specifico del materiale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere le estremità miste delle filettature; gambo centrale; orientamento dell'assieme. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Indicare le filettature di accoppiamento, la sede della spalla e la sequenza di assemblaggio. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3392,7 +3408,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3416,13 +3432,13 @@ Calibri per filettature e accettazione di viti personalizzate ↗ Prigionieri a 
 
 Correlare il passo alla regolazione prevista, considerando l'adattamento della filettatura di accoppiamento e l'impegno disponibile. Il passo fine non stabilisce di per sé la precisione del posizionamento o la resistenza alle vibrazioni. Indicare la geometria del contatto, la corsa, il bloccaggio e l'accettazione dell'ispezione della filettatura come requisiti separati.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per viti a passo fine ed extra-fine, rivedere rullatura filetti, taglio e maschiatura, tornitura CNC e di tipo svizzero, visione CCD e ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere esempi di altezze; forma e coinvolgimento; azione di aggiustamento. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Il passo fine da solo non garantisce la resistenza all'allentamento. Specificare separatamente i requisiti di bloccaggio e vibrazione. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3491,7 +3507,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3515,13 +3531,13 @@ Fili laminati o tagliati: domande da risolvere nella richiesta di offerta ↗ Pr
 
 Specificare il passo, la forma del fianco, i diametri maggiori e minori, la mano ed eventuali requisiti di conicità o piombo. Un'etichetta come quella trapezoidale o a contrafforte non è un disegno tecnico completo. Concordare il componente di accoppiamento e l'approccio di misurazione prima della produzione, soprattutto laddove un calibro standard non è adatto al profilo personalizzato.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per profili di filettatura speciali e composti, rivedere la rullatura di filetti, il taglio e la maschiatura, la tornitura a fantina mobile e CNC, la visione CCD e l'ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la definizione del profilo; movimento e carico; più zone thread. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 L'autobloccaggio dipende dalla geometria, dall'attrito e dalle condizioni operative. Non dare per scontato che ogni filettatura trapezoidale o di contrafforte sia autobloccante. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3584,7 +3600,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3606,13 +3622,13 @@ Come specificare un azionamento a vite antimanomissione ↗ Montaggio bullone co
 
 Mostra il foro pilota, il materiale del substrato, lo spessore e lo spazio disponibile oltre il giunto. Una punta tagliata o scanalata modifica la geometria locale ma non garantisce un'installazione priva di scheggiature né impedisce la penetrazione. Concordare una prova di assemblaggio e definire la sporgenza consentita della punta e le condizioni dei detriti.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti autofilettanti con punta modificata, rivedere la ricalcatura a freddo multistazione, le operazioni secondarie e di precisione, il trattamento termico specifico del materiale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere mance e sgravi; materiale di accoppiamento; requisito di installazione. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Le punte da taglio possono generare trucioli. Il controllo dei detriti e degli sfondamenti deve essere dimostrato nell'assemblaggio vero e proprio. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3675,7 +3691,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3697,13 +3713,13 @@ Viti a gambo ridotto: perché le transizioni necessitano di attenzione ↗ Viti 
 
 Quotare la sezione ridotta ed entrambe le transizioni rispetto alle superfici funzionali. Spiegare se fornisce gioco, un particolare comportamento elastico o una caratteristica di assemblaggio. Un gambo più piccolo modifica il percorso del carico; la geometria da sola non può comprovare una richiesta di riduzione della fatica o delle sollecitazioni senza la relativa valutazione del progetto.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per viti a gambo ridotto e variabile, rivedere la tornitura Swiss Type e CNC, la ricalcatura a freddo + lavorazione secondaria, la visione CCD e l'ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la modifica della sezione; intento funzionale; verifica meccanica. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Un gambo ridotto non impedisce automaticamente la rottura. Fornire i requisiti di carico e fatica per la revisione del progetto. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3754,7 +3770,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3778,13 +3794,13 @@ Viti coniche: definizione della sede di accoppiamento ↗ Disegni delle viti ecc
 
 Indicare la definizione della conicità, il datum, la lunghezza di contatto e la geometria di accoppiamento. Mostra dove dovrebbe posizionarsi la parte e quale dimensione controlla quella posizione. Una rastremazione utilizzata per la localizzazione non garantisce automaticamente la tenuta; qualsiasi esigenza di tenuta necessita di superfici, condizioni e verifiche definite.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti coniche e con gambo conico, rivedere Tornitura CNC e di tipo svizzero, Operazioni secondarie e di precisione, Visione CCD e Ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la definizione della rastremazione; superficie di accoppiamento; relazione del filetto. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Le prestazioni di tenuta richiedono una progettazione e una verifica adeguate; una rastremazione da sola non garantisce la tenuta alle perdite. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3835,7 +3851,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3859,13 +3875,13 @@ Perni di posizionamento integrati: perno di coordinamento e riferimenti a vite �
 
 Mostra il diametro, la proiezione e la posizione del perno rispetto al datum di posizionamento, non solo al contorno generale. Rivedere il percorso di assemblaggio in modo che il perno possa agganciarsi prima che la vite raggiunga la sua posizione in sede. La funzione di localizzazione e la ritenzione del filetto necessitano di controlli di accettazione indipendenti.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti con perni di posizionamento integrati, rivedere Tornitura CNC e di tipo svizzero, Operazioni secondarie e di precisione, Visione CCD e Ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la posizione del perno; geometria del perno; relazione di funzionalità. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire il foro di accoppiamento e la direzione di montaggio. Confermare quale funzione individua e quale fornisce il morsetto. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3916,7 +3932,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -3938,13 +3954,13 @@ Intestazione a freddo o tornitura CNC: scelta di un percorso personalizzato dell
 
 Definire le filettature a ciascuna estremità, le lunghezze delle spalle e l'asse di Riferimento. Mostra quale faccia è posizionata per prima e come viene assemblata la seconda connessione. Controllare se stringendo un'estremità si modifica la posizione o l'impegno dell'altra e identificare la funzione di serraggio prevista.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti con spallamento a doppia estremità, rivedere Tornitura di tipo svizzero e CNC, intestazione a freddo + lavorazione secondaria, rullatura di filetti, taglio e maschiatura rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere due zone di filettatura; spalla centrale; controllo del dato. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Includere entrambi i componenti di accoppiamento e spiegare quale estremità viene installata per prima. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -3995,7 +4011,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -4019,13 +4035,13 @@ Fori trasversali nelle viti: pianificazione del controllo e dell'ispezione delle
 
 Specificare il diametro del foro e la sua posizione assiale e angolare da un dato funzionale. Spiegare se è necessario un perno, un filo di bloccaggio o un passaggio di flusso. Ispezionare l'intersezione e le condizioni dei bordi come richiesto; un foro di ingresso esterno non dimostra che l'uscita interna sia esente da bava dannosa.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per le viti con foro incrociato e con testa, rivedere le operazioni secondarie e di precisione, tornitura a fantina mobile e CNC, pulizia, bloccaggio e assemblaggio rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la posizione del foro; condizione del bordo; interfaccia funzionale. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Dichiarare il metodo di ritenzione previsto e i requisiti di carico; un foro trasversale da solo non garantisce una ritenzione sicura. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -4076,7 +4092,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -4100,13 +4116,13 @@ Viti multi-step: controllo della catena dimensionale assiale ↗ Campionamento e
 
 Identificare quale passaggio individua ciascun componente di accoppiamento. Considerare lo stack assiale totale ed evitare di lasciare la distanza di controllo come un accumulo involontario di dimensioni non correlate. Concordare i diametri, la concentricità o il rapporto coassiale effettivamente necessari per il montaggio e la condizione in cui vengono accettati.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per viti multi-step e multi-spallamento, rivedere la stampatura a freddo + lavorazione secondaria, tornitura a fantina mobile e CNC, operazioni secondarie e di precisione rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la sequenza dei passaggi; relazioni tra caratteristiche; sequenza finale. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Utilizzare un disegno tecnico basato su dati e identificare le superfici che effettivamente posizionano o trasportano il carico. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -4157,7 +4173,7 @@ Apri la checklist completa della richiesta di offerta ↗
 
 Definire le condizioni del materiale, il rivestimento, le dimensioni critiche e i registri di ispezione richiesti. Una famiglia di prodotti denominata non implica un carico testato, una pressione o una valutazione delle prestazioni.
 
-Confronta le famiglie di materiali ↗ Specificare un sistema di superficie ↗ Concordare l'ambito dell'ispezione ↗
+Confronta le famiglie di materiali ↗ Definire il trattamento superficiale ↗ Concordare l’estensione dei controlli ↗
 
 OPZIONI DI PROCESSO RILEVANTI
 
@@ -4179,13 +4195,13 @@ Perni di fissaggio personalizzati: specificare il pannello e il dispositivo di f
 
 Fornire il materiale del pannello, lo spessore, la preparazione dei fori e la direzione di installazione insieme al disegno tecnico del dispositivo di fissaggio. L'elemento di fissaggio e il pannello si deformano come un sistema. Definire i controlli di installazione e conservazione richiesti; una corretta filettatura della vite non stabilisce resistenza allo sfilamento o alla rotazione del pannello.
 
-#### Rivedi il percorso prima di fissare il preventivo
+#### Definire il ciclo prima del preventivo
 
 Per viti e perni di ribaditura personalizzati, rivedere la ricalcatura a freddo multistazione, le operazioni secondarie e di precisione, la visione CCD e l'ispezione dimensionale rispetto al disegno tecnico e alla quantità. Identificare quali caratteristiche possono essere prodotte nella forma iniziale e quali richiedono una configurazione separata. Una modifica a uno spallamento funzionale, un foro, una trasmissione o una filettatura può modificare il percorso proposto nonché lo sforzo di ispezione.
 
 La revisione del disegno tecnico dovrebbe risolvere la geometria di ritenzione; condizione del pannello; convalida dell'installazione. Mantenere le condizioni del materiale e il margine di finitura allegati a tali requisiti. Definire le condizioni di accettazione per le caratteristiche critiche e approvare qualsiasi modifica dimensionale proposta prima di confrontare i campioni con l'assieme originale.
 
-#### Dal disegno tecnico ai campioni approvati
+#### Dal disegno all’approvazione dei campioni
 
 Fornire le specifiche del pannello e i test di accettazione. Non dare per scontato che una caratteristica personalizzata condivida le valutazioni di una parte di ribaditura standard di marca. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
@@ -4324,7 +4340,7 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -4332,7 +4348,7 @@ Di Theo Wan Leggi la guida tecnica → QUALITÀ 2 LETTURA MIN
 
 ##### Come preparare un piano di ispezione per viti personalizzate ↗
 
-Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
+Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
 Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 
@@ -4418,7 +4434,7 @@ La spalla, il filetto e la testa lavorano insieme come un'unica geometria. Un di
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -4612,47 +4628,71 @@ elementi di fissaggio definiti dal disegno tecnico per alloggiamenti compatti, m
 
 ### Come preparare un piano di ispezione per viti personalizzate
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/custom-screw-inspection-plan/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
 QUALITÀ / 2 LETTURA MIN
 
 ### Come preparare un piano di ispezione per viti personalizzate
 
-Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
+Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Viti a spallamento e a gradini
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 · Aggiornato 2026-11-02 Viti a spallamento e a gradini
 
-IN QUESTA GUIDA Utilizzare il disegno tecnico corrente Identificare le caratteristiche critiche Concordare metodi e registrazioni Pianificare l'approvazione del campione Costruisci una matrice a livello di caratteristica Pianificare l'ispezione nella fase in cui si forniscono le prove Controllare le revisioni e i risultati non conformi PRODOTTO CORRELATO Viti per spalla e gradino ↗
+IN QUESTA GUIDA Inizia con il requisito rilasciato Utilizzare l'esempio senza copiare ciecamente un ambito di test Definire la copertura e la reazione prima della produzione Registrare il risultato e la decisione di rilascio PRODOTTO CORRELATO Viti per spalla e gradino ↗
 
-#### Utilizzare il disegno tecnico corrente
+#### Esempio compilato di piano di controllo
 
-Collegare il piano di ispezione al numero e alla revisione del disegno tecnico. Risolvere note poco chiare e requisiti contrastanti prima che la parte venga rilasciata.
+Righe di pianificazione illustrative, risultati non misurati. Inserire i requisiti effettivi del disegno e la copertura dell'ispezione concordata prima del rilascio.
 
-#### Identificare le caratteristiche critiche
+Esempio di piano di ispezione di viti con spallamento Caratteristico Requisito da inserire Prove adeguate Estensione del controllo e registrazione
 
-Elencare le dimensioni, i requisiti di filettatura, le caratteristiche del materiale e della finitura da verificare. Distinguere le verifiche dimensionali dalle verifiche di assemblaggio funzionale.
+C1 · Diametro spalla Limiti di prelievo approvati; condizione finale di fornitura Misura del diametro calibrato; visione validata solo se idonea Campione concordato o ambito di ogni pezzo; registrare i valori effettivi o il risultato dello screening approvato
+
+C2 · Lunghezza alle spalle Distanza dal fronte funzionale della seduta Misurazione della lunghezza dal viso specificato, con una configurazione documentata Collegare il risultato alla revisione del disegno e al lotto
+
+C3 · Accettazione del thread Sistema di filettatura, passo, classe e lunghezza utile Calibri adeguati più un controllo separato della lunghezza utilizzabile quando richiesto Registrare l'identità del misuratore e il risultato dell'accettazione concordato
+
+C4 · Eccentricità geometrica, se specificata Riferimento, superficie controllata e tolleranza sul disegno Un'impostazione con riferimento al dato che misura la relazione specificata Un risultato della fotocamera relativo al solo diametro non sostituisce questo controllo
+
+C5 · Materiale e finitura Requisiti ordinati di grado, condizione e trattamento Documenti concordati e controlli fisici o di rivestimento applicabili Mantieni distinguibili i certificati azionari, i risultati delle parti finali e i registri dei rivestimenti
+
+C6 · Funzione di assemblaggio Revisione approvata delle parti di accoppiamento e criteri funzionali Prova di assemblaggio controllato per movimento, seduta o ritenzione Registrare il riferimento dell'accoppiamento, il risultato, le deviazioni e l'approvatore
+
+Scarica il piano di ispezione di esempio (inglese) · Scarica un foglio di lavoro di ispezione vuoto (inglese)
+
+#### Inizia con il requisito rilasciato
+
+Registrare il codice prodotto, la revisione del disegno, l'ordine o il lotto, la condizione del materiale e la finitura fornita. Risolvi dimensioni contrastanti e note indefinite prima di selezionare l'attrezzatura. La matrice di esempio utilizza deliberatamente riferimenti di disegno invece di limiti di produzione inventati. Sostituire tali riferimenti con i requisiti approvati per la parte effettiva.
+
+#### Utilizzare l'esempio senza copiare ciecamente un ambito di test
+
+Un diametro della spalla, una filettatura e una proprietà del materiale richiedono prove diverse. Una telecamera può schermare un profilo visibile dopo la convalida, ma non stabilisce la resistenza del materiale o ogni relazione tra i dati. Un calibro del filo non stabilisce la lunghezza della spalla. Mantenere queste caratteristiche in file separate anche quando una stazione di produzione esegue più controlli.
 
 Stai lavorando su questo tipo di pezzo? Esplora il nostro viti per spalla e gradino e includi i requisiti funzionali nella tua richiesta di offerta.
 
-#### Concordare metodi e registrazioni
+#### Definire la copertura e la reazione prima della produzione
 
-Discutere metodi di misurazione, requisiti di campionamento e reporting richiesto. L'idoneità dell'attrezzatura e i criteri di accettazione dovrebbero essere concordati per le effettive caratteristiche coinvolte.
+Per ogni riga, concordare la copertura del primo articolo, del campione o di ogni pezzo e il punto del percorso in cui viene misurata l'accettazione. Non è possibile effettuare un controllo distruttivo su ogni pezzo consegnato allo stesso modo di un vaglio dimensionale. Definire in che modo un risultato non riuscito o limite viene identificato, separato e rivisto, incluso quale lavoro o spedizione deve essere interrotto in attesa della disposizione.
 
-#### Pianificare l'approvazione del campione
+#### Registrare il risultato e la decisione di rilascio
 
-Ove richiesto, confermare come i campioni verranno identificati, esaminati e approvati. Registra le modifiche approvate in modo che gli ordini ripetuti facciano riferimento alla stessa specifica.
+Utilizzare il foglio di lavoro vuoto per acquisire requisiti, valore effettivo o risultato passato/fallito concordato, riferimento allo strumento o al metodo, ispettore, data e disposizione. Un rapporto di esempio dovrebbe identificare la parte di accoppiamento utilizzata per qualsiasi prova di assemblaggio. Quando il disegno o la finitura cambiano, rivedi le righe interessate e conserva la revisione precedente anziché modificare silenziosamente un vecchio risultato.
 
-#### Costruisci una matrice a livello di caratteristica
+#### Esempio di specifica
 
-Per ogni caratteristica critica concordata, elencare il riferimento del disegno tecnico, i requisiti, il metodo, la frequenza di ispezione e la documentazione conservata. Separare una dimensione esterna, una filettatura, una proprietà del materiale e una caratteristica del rivestimento. Dare un nome a una macchina non definisce quale di queste verifica. Imposta la copertura prima dell'ordine in modo che acquisto e qualità utilizzino la stessa base di accettazione.
+Solo esempio realizzato: la dimensione di una spalla esterna viene controllata dopo la finitura, mentre l'accettazione del filo utilizza i calibri specificati e una prova di assemblaggio verifica che la piastra mobile non sia bloccata. L'esempio stabilisce i campi record, non i limiti numerici, le misurazioni completate o il risultato di un'ispezione ZUFEK.
 
-#### Pianificare l'ispezione nella fase in cui si forniscono le prove
+#### Lista di controllo della richiesta di offerta
 
-Un bordo interno potrebbe diventare meno accessibile dopo l'assemblaggio, mentre l'adattamento potrebbe richiedere l'accettazione dopo la finitura. Concordare eventuali controlli intermedi così come quelli finali. Il test distruttivo non può ispezionare ogni parte fornita allo stesso modo di uno schermo dimensionale esterno; definirne separatamente il campione e la tracciabilità.
+Parte, revisione disegno e identità del lotto
 
-#### Controllare le revisioni e i risultati non conformi
+Requisito di accettazione caratteristico e approvato
 
-Identificare il disegno tecnico e la revisione del programma di ispezione con il lotto. Definire come vengono separati i pezzi scartati e chi decide lo smaltimento. Quando una dimensione o un processo di superficie cambia, rivedere i criteri di ispezione interessati anziché dare per scontato che il vecchio programma rimanga adeguato. Mantieni disponibili le decisioni sull'approvazione dei campioni per gli ordini ripetuti.
+Metodo, fase e copertura
+
+Risultato effettivo e registrazione tracciabile
+
+Disposizione delle non conformità e approvazione del rilascio
 
 Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione della richiesta di offerta , quindi invia il tuo disegno tecnico per la revisione . Per i requisiti di accettazione cfr pianificazione della qualità .
 
@@ -4842,7 +4882,7 @@ Un rivestimento rientra nel piano dimensionale. La vestibilità finale deve esse
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -4972,13 +5012,13 @@ Falegname 17-4PH dati
 
 BSSA: resistenza al grippaggio degli acciai inossidabili
 
-### Adattamenti delle spalle, classi di filettatura e quando si macina è importante
+### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 DESIGN E DIMENSIONI / 2 LETTURA MIN
 
-### Adattamenti delle spalle, classi di filettatura e quando si macina è importante
+### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5146,7 +5186,7 @@ Una connessione a pressione dipende dal pannello, dal foro e dal processo di ins
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5155,8 +5195,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Rotta a freddo multistazione ↗ Lavorazioni secondarie e di precisione ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -5255,8 +5293,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Swiss Type e CNC Tornitura ↗ Lavorazioni secondarie e di precisione ↗ Pulizia, chiusura e assemblaggio ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -5362,8 +5398,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Rotta a freddo multistazione ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Rivestimenti e trattamenti superficiali ↗
 
-##### Riferimenti tecnici
-
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -5446,7 +5480,7 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5456,19 +5490,17 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-L'estremità di una vite di fissaggio definisce il modo in cui entra in contatto con il componente di accoppiamento. Scegliere la punta attorno al contatto richiesto e al cambiamento di superficie consentito, non solo al diametro della vite.
+Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
 
 Di Theo Wan Leggi la guida tecnica →
 
 #### Argomenti correlati alla produzione
 
 Swiss Type e CNC Tornitura ↗ Lavorazioni secondarie e di precisione ↗ Rullatura, taglio e maschiatura del filetto ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -5496,51 +5528,69 @@ Elementi di fissaggio a spalla, gradino e regolazione per meccanismi guidati, st
 
 ### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/set-screw-tip-selection/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
-DESIGN E DIMENSIONI / 2 LETTURA MIN
+DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 ### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio
 
-L'estremità di una vite di fissaggio definisce il modo in cui entra in contatto con il componente di accoppiamento. Scegliere la punta attorno al contatto richiesto e al cambiamento di superficie consentito, non solo al diametro della vite.
+Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 · Aggiornato 2026-11-02 Tornitura a fantina mobile e CNC
 
-IN QUESTA GUIDA Identificare ciò che la punta entra in contatto Confrontare le geometrie finali effettive Rivedere la marcatura e la regolazione ripetuta Definire coinvolgimento e accettazione PRODOTTO CORRELATO Viti di fermo e grani personalizzati ↗
+IN QUESTA GUIDA Scegli prima il meccanismo di contatto Lavora attraverso un esempio di arresto regolabile Posizione separata dal bloccaggio per attrito Rilascia un punto e un piano di verifica PRODOTTO CORRELATO Viti di fermo e grani personalizzati ↗
 
-#### Identificare ciò che la punta entra in contatto
+#### Confronto tra quattro modalità di contatto
 
-Mostrare l'albero, la parte piatta, la scanalatura o il foro sotto la vite. Una punta che entra in contatto con una superficie curva si comporta diversamente da una che impegna una rientranza preparata. Spiegare se la connessione è destinata a bloccare, localizzare, arrestare la corsa o fornire una funzione antirotazione.
+Estremità piana Punta conica Estremità a codolo cilindrico Estremità a coppa Schemi delle estremità; dimensioni e geometrie accoppiate sono definite dal disegno approvato.
 
-#### Confrontare le geometrie finali effettive
+Selezione del punto di fissaggio: geometria e compromessi Forma puntiforme Contatto Quando rivederlo Cosa verificare
 
-Le punte coniche, piatte, cilindriche e a coppa sono forme di contatto diverse. Quotare le caratteristiche funzionali dell'estremità selezionata e la sua relazione con la filettatura. Evitare di considerare un nome generico della punta come un'autorizzazione per qualsiasi interpretazione della forma specifica del produttore.
+Estremità piana Una faccia terminale larga poggia contro un piano o un cuscinetto preparato. Revisione per le regolazioni in cui un bordo tagliente è indesiderabile. Può ancora segnare la superficie di accoppiamento. Controllare l'allineamento piatto, la pressione di contatto e la ritenzione.
+
+Punta conica Un'estremità appuntita impegna una rientranza adatta o rientra nella superficie di accoppiamento. Revisione per un ambiente definito in cui la penetrazione o un recesso di accoppiamento sono accettabili. Lo spostamento ripetuto può danneggiare l'area di contatto. Definire il cono e la feature di accoppiamento.
+
+Estremità a codolo cilindrico Un'estensione cilindrica entra in un foro o fessura predisposta. Esaminare quando l'estensione deve individuare o guidare un componente. Specificare sporgenza, diametro, luce libera e profondità disponibile; non lasciare che il punto raggiunga il fondo involontariamente.
+
+Estremità a coppa Il bordo di un'estremità incassata crea un contatto concentrato. Verifica un'impostazione in cui un rientro è accettabile. Non dare per scontato che la superficie non sia danneggiata dopo la rimozione, né dedurre una forza di tenuta universale dal nome del punto.
+
+Confronta prima il meccanismo di contatto; confermare la capacità e l'installazione sul giunto effettivo.
+
+Scarica il foglio di lavoro per la selezione dei punti (inglese)
+
+#### Scegli prima il meccanismo di contatto
+
+La forma dell’estremità descrive la geometria, non la capacità di tenuta del collegamento montato. Selezionare prima la modalità di contatto usando la tabella, poi indicare materiale e durezza del componente accoppiato, piano, sede o foro predisposti e sequenza di regolazione e smontaggio. Un’estremità piana può essere valutata quando non si desidera uno spigolo penetrante, ma non garantisce assenza di impronte. Cono e coppa possono incidere la superficie; il codolo cilindrico richiede un foro o una cava definiti.
+
+#### Lavora attraverso un esempio di arresto regolabile
+
+Si consideri un arresto di attrezzatura regolato tra una lavorazione e l’altra, a contatto con una piastrina lavorata. È un esercizio di progettazione, non un caso consegnato a un cliente. Stabilire prima se sono ammesse impronte. In caso contrario, valutare il contatto piano e il materiale della piastrina. Verificare l’allineamento per tutta la corsa: se la vite arriva inclinata, anche un’estremità nominalmente piana può toccare solo con il bordo.
 
 Stai lavorando su questo tipo di pezzo? Esplora il nostro viti di fissaggio e grani personalizzati e includi i requisiti funzionali nella tua richiesta di offerta.
 
-#### Rivedere la marcatura e la regolazione ripetuta
+#### Posizione separata dal bloccaggio per attrito
 
-Indicare se la superficie di accoppiamento potrebbe essere intaccata o graffiata e se la vite verrà riposizionata. Le condizioni della superficie possono diventare importanti quando un'impostazione viene modificata ripetutamente. Le condizioni del materiale della punta, la finitura e il materiale di accoppiamento devono essere esaminati come parte dello stesso sistema di contatto.
+Quando il codolo cilindrico entra in un foro, indicarne sporgenza e profondità utile disponibile. Stabilire se serve a posizionare, guidare il movimento o trasmettere un carico definito. Prevedere il gioco necessario e verificare la sequenza di montaggio. Un codolo inserito in un foro non costituisce automaticamente un collegamento a taglio approvato; il solo serraggio non dimostra la tenuta richiesta.
 
-#### Definire coinvolgimento e accettazione
+#### Rilascia un punto e un piano di verifica
 
-l'impegno della filettatura nella parte di accoppiamento, l'accesso all'azionamento e i requisiti di installazione continuano ad avere importanza su una parte con vite senza testa. Concordare un controllo dimensionale del puntale ed eventuale prova di montaggio necessaria per la funzione prevista. Un profilo corretto della punta da solo non stabilisce una forza di tenuta o un valore di coppia.
+Definire nel disegno controllato filettatura, accesso dell’utensile, lunghezza totale, dimensioni dell’estremità, stato finale del materiale e trattamento superficiale. Concordare le condizioni di montaggio e una prova funzionale con un componente accoppiato rappresentativo. Registrare le impronte ammesse e il comportamento dopo la sequenza di regolazione o manutenzione richiesta. Non vengono indicati valori universali di coppia o forza di tenuta, che dipendono dal collegamento reale.
 
 #### Esempio di specifica
 
-Se un punto del cane entra in un foro preparato, fornire la geometria del foro con il disegno tecnico della vite. L'estensione cilindrica e il foro di accoppiamento devono essere esaminati insieme anziché specificati in modo indipendente.
+Risultato della revisione illustrativa: un arresto regolato ripetutamente utilizza un cuscinetto di contatto preparato e una faccia finale definita. La prova verifica il contatto durante tutto il viaggio, la marcatura visibile e il mantenimento dell'impostazione alle condizioni concordate. Dimensioni, materiale, coppia e carichi rimangono input del progetto; non viene rivendicato il risultato del test.
 
 #### Lista di controllo della richiesta di offerta
 
-Superficie o rientranza di accoppiamento
+Forma puntuale e geometria controllata
 
-Forma della punta e dimensioni controllate
+Disegno della superficie di accoppiamento, rientranza o foro
 
-Marcatura superficiale consentita
+Sequenza di marcatura e regolazione consentita
 
-impegno della filettatura nella parte accoppiata e nella trasmissione
+Requisiti di coinvolgimento, accesso e installazione del thread
 
-Requisito di accettazione funzionale
+Criteri di accettazione dimensionale e funzionale
 
 Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione della richiesta di offerta , quindi invia il tuo disegno tecnico per la revisione . Per i requisiti di accettazione cfr pianificazione della qualità .
 
@@ -5564,7 +5614,7 @@ Diversi thread alle due estremità possono risolvere un problema di interfaccia 
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5575,6 +5625,8 @@ Di Theo Wan Leggi la guida tecnica →
 Swiss Type e CNC Tornitura ↗ Rullatura, taglio e maschiatura del filetto ↗ Trattamento termico specifico per il materiale ↗
 
 ##### Riferimenti tecnici
+
+Unbrako: geometria del punto di fissaggio
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -5658,7 +5710,7 @@ Una connessione a pressione dipende dal pannello, dal foro e dal processo di ins
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5673,8 +5725,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Rotta a freddo multistazione ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -5746,7 +5796,7 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5767,8 +5817,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Stampaggio a caldo e forgiatura ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -5840,7 +5888,7 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5861,8 +5909,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Lavorazioni secondarie e di precisione ↗ Rullatura, taglio e maschiatura del filetto ↗ Rivestimenti e trattamenti superficiali ↗
-
-##### Riferimenti tecnici
 
 ### Bulloni a carrello personalizzati: specificando il collo quadrato
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/carriage-bolt-square-neck/
@@ -5922,7 +5968,7 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -5943,8 +5989,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Rotta a freddo multistazione ↗ Rullatura, taglio e maschiatura del filetto ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ### Disegni delle viti eccentriche: rendere l'offset inequivocabile
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/eccentric-screw-datum-drawing/
@@ -6016,7 +6060,7 @@ Combinando un piccolo perno di posizionamento con una vite si possono ridurre i 
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -6025,8 +6069,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Swiss Type e CNC Tornitura ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -6098,7 +6140,7 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -6108,19 +6150,17 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 Una vite regolata manualmente deve essere accessibile, comoda da impugnare e compatibile con la regolazione richiesta. La struttura della testa da sola non definisce il funzionamento del meccanismo.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-L'estremità di una vite di fissaggio definisce il modo in cui entra in contatto con il componente di accoppiamento. Scegliere la punta attorno al contatto richiesto e al cambiamento di superficie consentito, non solo al diametro della vite.
+Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
 
 Di Theo Wan Leggi la guida tecnica →
 
 #### Argomenti correlati alla produzione
 
 Swiss Type e CNC Tornitura ↗ Rullatura, taglio e maschiatura del filetto ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -6226,8 +6266,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Swiss Type e CNC Tornitura ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Controllo dimensionale e visione CCD ↗
 
-##### Riferimenti tecnici
-
 ### Viti coniche: definizione della sede di accoppiamento
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
@@ -6298,7 +6336,7 @@ Combinando un piccolo perno di posizionamento con una vite si possono ridurre i 
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -6307,8 +6345,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Swiss Type e CNC Tornitura ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -6392,7 +6428,7 @@ Una rastremazione funziona contro una superficie corrispondente. Il suo angolo, 
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -6401,8 +6437,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Swiss Type e CNC Tornitura ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -6496,8 +6530,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Swiss Type e CNC Tornitura ↗ Controllo dimensionale e visione CCD ↗
 
-##### Riferimenti tecnici
-
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -6574,7 +6606,7 @@ Una testa a T deve entrare, girare o scorrere all'interno della fessura prevista
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -6589,8 +6621,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Rotta a freddo multistazione ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ### Fili laminati o tagliati: domande da risolvere nella richiesta di offerta
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/rolled-vs-cut-thread-rfq/
@@ -6671,8 +6701,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Rullatura, taglio e maschiatura del filetto ↗ Trattamento termico specifico per il materiale ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -6762,7 +6790,7 @@ Scegli la sequenza del processo di produzione in base alla geometria, alla quant
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -6771,8 +6799,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Lavorazioni secondarie e di precisione ↗ Pulizia, chiusura e assemblaggio ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -6850,7 +6876,7 @@ Un elemento di fissaggio in acciaio ad alta resistenza necessita di una decision
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -6865,8 +6891,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Lavorazioni secondarie e di precisione ↗ Rivestimenti e trattamenti superficiali ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -6972,8 +6996,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Rivestimenti e trattamenti superficiali ↗ Pulizia, chiusura e assemblaggio ↗ Controllo dimensionale e visione CCD ↗
 
-##### Riferimenti tecnici
-
 ### Cosa specificare per una vite personalizzata rivestita in zinco lamellare
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
@@ -7053,8 +7075,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Rivestimenti e trattamenti superficiali ↗ Trattamento termico specifico per il materiale ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -7160,8 +7180,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Pulizia, chiusura e assemblaggio ↗ Controllo dimensionale e visione CCD ↗
 
-##### Riferimenti tecnici
-
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -7266,8 +7284,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Pulizia, chiusura e assemblaggio ↗ Rullatura, taglio e maschiatura del filetto ↗ Controllo dimensionale e visione CCD ↗
 
-##### Riferimenti tecnici
-
 ### Viti rondelle premontate: specificare il set completo
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
@@ -7347,8 +7363,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Pulizia, chiusura e assemblaggio ↗ Rullatura, taglio e maschiatura del filetto ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -7446,11 +7460,11 @@ QUALITÀ 2 LETTURA MIN
 
 ##### Come preparare un piano di ispezione per viti personalizzate ↗
 
-Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.
+Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
-##### Adattamenti delle spalle, classi di filettatura e quando si macina è importante ↗
+##### Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica ↗
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
@@ -7576,8 +7590,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Controllo dimensionale e visione CCD ↗ Pulizia, chiusura e assemblaggio ↗
 
-##### Riferimenti tecnici
-
 ### Campionamento e ispezione al 100%: scegliere la giusta copertura
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
@@ -7657,8 +7669,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Controllo dimensionale e visione CCD ↗ Pulizia, chiusura e assemblaggio ↗
-
-##### Riferimenti tecnici
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -7968,8 +7978,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Swiss Type e CNC Tornitura ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Controllo dimensionale e visione CCD ↗
 
-##### Riferimenti tecnici
-
 ### controllo della revisione dei disegni tecnici per ordini ripetuti di dispositivi di fissaggio personalizzati
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
@@ -8050,8 +8058,6 @@ Di Theo Wan Leggi la guida tecnica →
 
 Controllo dimensionale e visione CCD ↗ Pulizia, chiusura e assemblaggio ↗
 
-##### Riferimenti tecnici
-
 ### Imballaggio e tracciabilità del lotto per ordini di viti personalizzate
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
@@ -8131,8 +8137,6 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Pulizia, chiusura e assemblaggio ↗ Controllo dimensionale e visione CCD ↗
-
-##### Riferimenti tecnici
 
 ### Involucri di ricarica per veicoli elettrici: perché le specifiche di fissaggio devono seguire il giunto
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industry-insights/ev-charging-enclosure-fasteners/
@@ -8216,7 +8220,7 @@ IEA Global EV Outlook 2026
 
 Attrezzature per energia, ricarica e stoccaggio Viti di sicurezza antimanomissione Viti flangiate su disegno Specificare un trattamento superficiale dell'elemento di fissaggio senza lasciare l'interfaccia indefinita
 
-### Automazione di fabbrica: specificazione di elementi di fissaggio di posizionamento e articolazione per assemblaggi ripetibili
+### Automazione di fabbrica: specificazione di dispositivi di fissaggio di posizionamento e articolazione per assemblaggi ripetibili
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industry-insights/automation-locating-pivot-fasteners/
 Last modified: 2026-10-30
 
@@ -8304,7 +8308,7 @@ Reporting dell'IFR World Robotics
 
 Automazione industriale Viti a spallamento e a gradini Viti zigrinate manuali e di regolazione Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio
 
-### Attrezzature per lo stoccaggio dell'energia della batteria: definire le interfacce di fissaggio oltre la qualità del materiale
+### Apparecchiature per l'accumulo dell'energia della batteria: definizione delle interfacce di fissaggio oltre la qualità del materiale
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industry-insights/battery-storage-fastener-interfaces/
 Last modified: 2026-10-30
 
@@ -8576,7 +8580,7 @@ Quadro normativo sulla progettazione ecocompatibile dei prodotti sostenibili
 
 Viti prigioniere al tuo disegno. Viti di sicurezza antimanomissione Dalla vite prototipo alla produzione ripetuta: una guida alla consegna in fase iniziale domande frequenti
 
-### Rischio relativo alla fornitura di materiale: qualificare le alternative di fissaggio senza perdere l'interfaccia approvata
+### Rischio relativo alla fornitura del materiale: qualificare le alternative di fissaggio senza perdere l'interfaccia approvata
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industry-insights/material-supply-risk-qualified-alternatives/
 Last modified: 2026-10-30
 
@@ -11932,7 +11936,7 @@ BSSA: resistenza al grippaggio degli acciai inossidabili ↗ spiega perché la c
 
 Famiglie di materiali e dati di origine ↗ Classi di resistenza dell'acciaio finito ↗ Condizioni SUS304 e SUS316 ↗ Rivestimenti e revisione del rischio idrogeno ↗ Articolo sulla selezione dei materiali ↗ Preparare la richiesta di offerta ↗
 
-### Revisione dei disegni di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio
+### Revisione del disegno di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/drawing-review-release-checklist/
 Last modified: 2026-10-30
 
@@ -11996,7 +12000,7 @@ NASA Fastener Design Manual, 1990: background generale di progettazione
 
 Una richiesta di offerta più chiara. Una risposta più utile. Viti a spallamento e a gradini Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio
 
-### Scegliere un percorso di produzione per una vite personalizzata
+### Scelta di un percorso di produzione per una vite personalizzata
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/manufacturing-route-selection/
 Last modified: 2026-10-30
 
@@ -12196,7 +12200,7 @@ ISO 3269: ambito pubblicato e limitazioni di applicabilità
 
 Controllo dimensionale e visione CCD Definire l'assegno. Accetta le prove. Revisione del disegno di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio
 
-### Dalla vite prototipo alla produzione ripetuta: una guida alla consegna
+### Dalla vite prototipo alla produzione ripetuta: una guida alla consegna in fase iniziale
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/guides/prototype-production-handover/
 Last modified: 2026-10-30
 

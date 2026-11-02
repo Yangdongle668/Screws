@@ -332,7 +332,7 @@ Par Theo Wan Lire le guide technique → QUALITÉ 2 LECTURE MIN
 
 ##### Comment préparer un plan d'inspection pour des vis personnalisées ↗
 
-Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
+Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
 Par Theo Wan Lire le guide technique → FABRICATION 2 LECTURE MIN
 
@@ -354,7 +354,7 @@ L'acier inoxydable décrit plusieurs familles de matériaux. Spécifiez la quali
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -382,11 +382,11 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Une vis réglée manuellement doit être accessible, confortable à saisir et compatible avec le réglage requis. La texture de la tête à elle seule ne définit pas le fonctionnement du mécanisme.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-L'extrémité d'une vis de réglage définit la façon dont elle entre en contact avec le composant d'accouplement. Choisissez la pointe autour du contact requis et du changement de surface autorisé, pas seulement le diamètre de la vis.
+Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
@@ -609,7 +609,7 @@ Par Theo Wan Lire le guide technique → QUALITÉ 2 LECTURE MIN
 
 ##### Comment préparer un plan d'inspection pour des vis personnalisées ↗
 
-Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
+Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
 Par Theo Wan Lire le guide technique → FABRICATION 2 LECTURE MIN
 
@@ -631,7 +631,7 @@ L'acier inoxydable décrit plusieurs familles de matériaux. Spécifiez la quali
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -659,11 +659,11 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Une vis réglée manuellement doit être accessible, confortable à saisir et compatible avec le réglage requis. La texture de la tête à elle seule ne définit pas le fonctionnement du mécanisme.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-L'extrémité d'une vis de réglage définit la façon dont elle entre en contact avec le composant d'accouplement. Choisissez la pointe autour du contact requis et du changement de surface autorisé, pas seulement le diamètre de la vis.
+Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
@@ -902,6 +902,14 @@ Deux projets illustratifs relient les besoins d'assemblage à la structure des f
 
 Boîtier de module automobile ↗ Pivot d'automatisation et dispositif de réglage ↗ Parcourir les études de conception d'applications ↗
 
+#### Photographies de produits fournies pour ce site
+
+Ces photographies de référence montrent des formes de produits visibles. Ils n'établissent pas la qualité du matériau, les dimensions, les résultats d'inspection ou l'application client livrée.
+
+Composants filetés mixtes et formes d'épaule sur une table d'affichage
+
+Tiges filetées, épaulements et composants tubulaires photographiés ensemble
+
 #### Échantillonnage, outillage et planification de la production
 
 Le délai typique de production d’échantillons de prototypes, outillage compris, est d’environ 10–15 jours. Le calendrier confirmé fait suite à l’examen des dessins techniques et à l’accord sur les exigences en matière de matériaux, de géométrie, de traitement de surface et d’inspection. Clarifiez l’étape de départ dans le devis. La livraison de production répétée est indiquée séparément pour la quantité et l'itinéraire approuvé.
@@ -1008,7 +1016,7 @@ Par Theo Wan Lire le guide technique → QUALITÉ 2 LECTURE MIN
 
 ##### Comment préparer un plan d'inspection pour des vis personnalisées ↗
 
-Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
+Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
 Par Theo Wan Lire le guide technique → FABRICATION 2 LECTURE MIN
 
@@ -1401,6 +1409,14 @@ Les options de matériaux et de finition sont-elles pré-approuvées ? Non. Les 
 
 Comment le périmètre de qualité est-il convenu ? Définir les fonctionnalités critiques et les besoins en documentation lors de l’examen. Voir notre approche de planification de la qualité .
 
+#### Photographies de produits fournies pour ce site
+
+Ces photographies de référence montrent des formes de produits visibles. Ils n'établissent pas la qualité du matériau, les dimensions, les résultats d'inspection ou l'application client livrée.
+
+Composants filetés mixtes et formes d'épaule sur une table d'affichage
+
+Tiges filetées, épaulements et composants tubulaires photographiés ensemble
+
 #### Commencez par l'interface qu'une vis standard ne peut pas satisfaire
 
 Utilisez cette voie lorsque l’exigence combine des fonctionnalités ou ne correspond pas à une seule famille de produits. Identifiez la raison de la personnalisation : entraînement inaccessible, face d'appui inhabituelle, filetages mixtes, passage interne ou plusieurs étapes de repérage. Séparez les interfaces essentielles des dimensions qui peuvent être discutées lors de l’examen de fabricabilité.
@@ -1413,7 +1429,7 @@ Envoyez un dessin technique avec unités et révision, ou un échantillon avec u
 
 Passez en revue ensemble l'outillage, le formage ou le tournage, les caractéristiques secondaires, la génération de filetage, le traitement et les contrôles finaux. Un faible coût de formage initial peut être compensé par une finition supplémentaire, tandis qu'un prototype usiné peut ne pas représenter la voie privilégiée pour une production répétée. Comparez les quantités d’échantillons et de commandes récurrentes en utilisant la même spécification approuvée.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournir le dessin technique, le matériau, la finition et l’assemblage prévu. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -1464,7 +1480,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -1502,7 +1518,7 @@ Surface d'appui Texture de la surface, couverture du traitement et état des bor
 
 L'épaulement et le filetage peuvent-ils avoir des diamètres différents ? Oui, l'épaule et le fil sont spécifiés indépendamment. Examinez la transition, le jeu d'accouplement disponible et l'engagement efficace du filetage dans la pièce d'accouplement comme une seule géométrie.
 
-Chaque vis à épaulement est-elle rectifiée ? Non. Les exigences finales en matière de taille, de forme et de surface déterminent le parcours de finition. Revoir la nécessité d'un broyage avec distorsion du traitement et la condition d'acceptation finale.
+Toutes les vis à épaulement doivent-elles être rectifiées ? Non. Les exigences finales en matière de taille, de forme et de surface déterminent le parcours de finition. Revoir la nécessité d'un broyage avec distorsion du traitement et la condition d'acceptation finale.
 
 #### Suivez une conception d’application complète
 
@@ -1526,13 +1542,13 @@ La transition entre l'épaulement simple et le filetage nécessite suffisamment 
 
 Le tournage CNC est une voie à suivre pour vérifier les quantités d'échantillons et les étapes complexes. Une frappe à froid suivie d'un usinage local peut être évaluée pour une production répétée. Le meulage est sélectionné lorsque les exigences en matière de taille, de forme ou de surface le justifient, plutôt que de le supposer à partir du nom du produit. L'inspection CCD peut filtrer les profils accessibles ; Les relations entre les références géométriques, la rugosité de surface et l'acceptation de l'inspection des filetages nécessitent leurs propres méthodes appropriées.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à épaulement et à épaulement, examinez la frappe à froid + l'usinage secondaire, le tournage de type suisse et CNC, les opérations secondaires et de précision par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques doit déterminer le diamètre et la longueur de l'épaulement ; fil et transition ; options de précision. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Incluez les détails de l'alésage d'accouplement, les dimensions critiques de l'épaulement, la rugosité de la surface et l'inspection dimensionnelle requise. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -1572,7 +1588,7 @@ GUIDE D'INGÉNIERIE
 
 ##### Comment préparer un plan d'inspection pour des vis sur mesure ↗
 
-Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
+Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
 #### Quelle différence entre une vis à épaulement et une vis entièrement filetée ?
 
@@ -1659,7 +1675,7 @@ Montrer le mouvement minimum nécessaire pour désengager le filetage correspond
 
 Acceptez le contrôle de rétention prévu, les mouvements autorisés et toute exigence de service répété. Le jaugeage du filetage confirme une caractéristique différente de la rétention du panneau. Confirmez l'état après le revêtement et tout pré-assemblage, et conservez le dispositif de retenue approuvé identifié avec le dessin technique de la vis.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournir le dessin technique, le matériau, la finition et l’assemblage prévu. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -1754,7 +1770,7 @@ Spécifiez la forme extérieure, la hauteur, la transition sous la tête et la g
 
 La géométrie de la tête peut affecter l'outillage et le travail secondaire. Examinez les formes d’angle, l’accès pour l’usinage et toutes les exigences de surface visible avec l’itinéraire proposé. Approuver la tête finie contre l'enveloppe d'installation et l'outil correspondant ; une silhouette extérieure correcte ne garantit pas les performances de conduite.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournir le dessin technique, le matériau, la finition et l’assemblage prévu. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2053,7 +2069,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2115,13 +2131,13 @@ Un lecteur spécial décourage les retraits occasionnels ; il ne fournit pas une
 
 Évaluez le pilote prévu avec des échantillons finis représentatifs. Vérifier l'engagement, l'assise et le comportement de montage convenu après tout revêtement. Définissez l’apparence de la tête visible séparément de l’acceptation de l’évidement fonctionnel. Le blindage du profil externe ne démontre pas les performances en matière de couple d'enfoncement ; utilisez le contrôle fonctionnel convenu et enregistrez les spécifications de l'outil avec la révision de vis approuvée.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis de sécurité et inviolables, examinez la frappe à froid multi-stations, les opérations secondaires et de précision, les revêtements et les traitements de surface par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre les options d'entraînement ; interface outil ; configurations de tête. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournissez le dessin technique du variateur ou les spécifications de l’outil correspondant. L'inviolabilité dépend de la disponibilité de l'outil et de l'assemblage complet ; ce n'est pas une sécurité absolue. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2184,7 +2200,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2240,13 +2256,13 @@ Un trou radial traversant un alésage axial peut laisser un bord interne qui ne 
 
 Le dépistage visuel peut vérifier les caractéristiques externes appropriées, mais n'établit pas le passage interne complet. Convenez d'un contrôle d'alésage approprié et de tout test de pression, de débit ou de fuite avec des conditions définies. Ne déduisez pas une pression nominale du terme vis creuse. La compatibilité des matériaux, la géométrie des joints et les conditions d’assemblage doivent être prises en compte avant qu’une exigence fonctionnelle ne soit émise.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis creuses et traversantes, examinez le tournage de type suisse et CNC, les opérations secondaires et de précision, le nettoyage, le verrouillage et l'assemblage par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques doit résoudre la géométrie de l'alésage ; relation mur et fil ; finition intérieure. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Indiquez le diamètre et la profondeur de l'alésage, les bavures autorisées, la propreté et tout test de fuite ou de pression convenu. Un trou traversant à lui seul n’établit pas une pression nominale. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2321,7 +2337,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2383,13 +2399,13 @@ Le revêtement s'applique à une pièce tridimensionnelle, y compris la face d'a
 
 Pour un couvercle d'équipement, vérifiez le jeu des brides, l'accès à la tête, le siège et l'état visuel convenu sur les pièces représentatives. Définissez indépendamment le diamètre de la bride, l’épaisseur et toute exigence de planéité. Choisir les vérifications mécaniques et de revêtement selon le cahier des charges ; un écran dimensionnel de la bride n'établit pas la charge de serrage ou les performances en matière de corrosion.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à bride personnalisées, examinez la frappe à froid multi-stations, la frappe à froid + l'usinage secondaire, les revêtements et les traitements de surface par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre les dimensions des brides ; face d'appui ; bride fine ou élargie. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Incluez les exigences en matière de matériau d'accouplement et de face d'appui. Une bride plus grande n’empêche pas automatiquement les dommages superficiels. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2464,7 +2480,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2526,13 +2542,13 @@ Une extrémité plate, arrondie ou définie par un autre dessin technique intera
 
 Un dispositif de réglage de luminaire illustratif doit être vérifié sur toute sa course prévue, y compris l'accès aux deux positions finales. Inspectez les dimensions du filetage et de la poignée et acceptez tout contrôle fonctionnel. Le serrage manuel est variable et ne constitue pas une méthode de couple calibrée ; lorsque la charge de serrage contrôlée est importante, définissez le processus d'assemblage séparément de la tête moletée.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis moletées et les vis de réglage, examinez le tournage de type suisse et CNC, les opérations secondaires et de précision, le roulage de filetage, la coupe et le taraudage par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre le style de préhension ; interface de réglage ; lecteur en option. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Spécifiez la prise de la tête, la course de réglage et toute méthode de verrouillage requise. La poignée seule ne constitue pas un couple de serrage calibré. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2607,7 +2623,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2663,13 +2679,13 @@ Une vis de réglage utilisée comme dispositif de retenue d'arbre a une question
 
 Vérifiez l'acceptation de l'inspection du filetage, la forme de la pointe, la longueur totale et l'état du matériau spécifié. Un profil de vision externe ne peut pas à lui seul valider le comportement de maintien de l'emboîture ou de l'assemblage. Lorsqu'une pointe modifiée, un trou latéral ou un élément excentrique est ajouté, indiquez sa relation avec l'axe du filetage et la méthode convenue pour vérifier cette relation.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis de réglage personnalisées et les vis sans tête, examinez le tournage de type suisse et CNC, le roulage de filetage, la coupe et le taraudage, le traitement thermique spécifique au matériau par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre les options de pointe ; options de fil ; fonctionnalités supplémentaires. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Indiquer la géométrie de la pointe, la surface de contact, l'entraînement et la fonction attendue. Les performances de serrage dépendent de l'assemblage complet. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2732,7 +2748,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2756,13 +2772,13 @@ Ajustement des boulons à rainure en T : que mesurer avant de commander ↗ Comm
 
 Montrez à la fois l’ouverture étroite de la fente et la cavité interne. Déterminez si la tête entre par l’extrémité ou tourne en position. Vérifiez le jeu du col, le contact anti-rotation et la zone d'appui tout au long du réglage, et pas seulement à la position de serrage finale.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les boulons à rainure en T personnalisés, examinez les opérations de frappe à froid multi-stations, de frappe à chaud et de forgeage, ainsi que les opérations secondaires et de précision par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques doit résoudre la largeur et l'épaisseur de la tête ; cou et orientation ; tige filetée. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournir la section transversale de la fente et la méthode d'insertion ; ne faites pas votre choix uniquement en fonction de l'apparence de la tête. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2813,7 +2829,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2837,13 +2853,13 @@ Boulons à œil pour liaisons et levage : différents besoins en matière de sp�
 
 Dimensionnez le trou pour l’œil par rapport à la broche d’accouplement, au ligament restant et à l’articulation disponible. Afficher la direction de la charge et les interférences à proximité lors du mouvement. Un œillet de liaison et un composant de levage approuvé ont des exigences de vérification différentes ; la forme des yeux n’établit pas de charge de travail.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les boulons à œil et articulés personnalisés, examinez la frappe à chaud et le forgeage, le tournage de type suisse et CNC, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques doit résoudre la géométrie de l'œil ou de la fourche ; transition de tige ; mouvement d’assemblage. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Indiquer la direction de la force et l’utilisation prévue. Toute application de levage nécessite une conception de charge nominale approuvée et une vérification convenue, et pas simplement une tête en forme d'œil. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2894,7 +2910,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2916,13 +2932,13 @@ Revêtements de vis à haute résistance et examen des risques liés à l'hydrog
 
 Fournir les directions de charge autorisées, l'engagement du filetage dans la pièce d'accouplement, la disposition des sièges et les exigences de vérification applicables. Les conditions de chargement angulaire et d'installation font partie de la revue de conception. Ne libérez pas un anneau personnalisé pour le levage sur la seule base de la conformité dimensionnelle ; la conception approuvée et la vérification traçable convenue sont essentielles.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les conceptions personnalisées de boulons à œil de levage, examinez le captage à chaud et le forgeage, le traitement thermique spécifique au matériau, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre le problème de la bague et de la tige ; direction de la charge ; portée de la vérification. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournir le cas de charge approuvé et la norme applicable. La géométrie personnalisée ne constitue pas une charge de travail certifiée ; utiliser uniquement après une conception et une vérification qualifiées. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -2973,7 +2989,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -2995,13 +3011,13 @@ Comment dimensionner un boulon en U personnalisé ↗ Ajustements d'épaulement,
 
 Définissez la largeur intérieure et le rayon de courbure par rapport au composant serré. Montrez l'espacement des jambes, le parallélisme et la longueur filetée disponible une fois la selle et les écrous installés. Vérifier le contact des roulements et l'état du revêtement au niveau du virage ; la largeur hors tout ne peut à elle seule établir une pince correctement ajustée.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les boulons en U personnalisés, examinez les opérations secondaires et de précision, le roulage de filetage, la coupe et le taraudage, les revêtements et les traitements de surface par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre le profil de courbure ; géométrie des jambes; matériel d'accouplement. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournissez les exigences de section transversale serrée et de charge. Le matériau, le processus de pliage et le revêtement doivent être examinés ensemble. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3052,7 +3068,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3076,13 +3092,13 @@ Comment spécifier un entraînement à vis inviolable ↗ Ajustement des boulons
 
 Décidez si le carré est entraîné par une clé ou retenu dans une poche. Le premier nécessite un dégagement d’outil ; le second nécessite un ajustement de poche, un accès à l'insertion et un contact anti-rotation contrôlé. Indiquez la forme du coin et la transition sous la tête afin qu'une dimension transversale apparemment correcte ne cache pas une interférence.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les boulons à tête carrée personnalisés, examinez les opérations de frappe à froid multi-stations, de frappe à chaud et de forgeage, ainsi que les opérations secondaires et de précision par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait déterminer la taille de la tête ; ajustement capturé; configuration de la tige. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Montrer l'accès à la clé ou la poche de retenue et les propriétés mécaniques requises. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3133,7 +3149,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3155,13 +3171,13 @@ Boulons de carrosserie sur mesure : spécification du col carré ↗ Conception 
 
 Vérifiez la profondeur et la largeur du col par rapport au trou du panneau et empilez-le. Le col doit s'engager dans la fonction anti-rotation prévue tout en permettant à la face du roulement de s'asseoir. Si le carré s'étend trop loin dans une partie inappropriée de la pile, le serrage peut sembler terminé avant que le joint ne soit bien en place.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les boulons de carrosserie personnalisés, examinez la frappe à froid multi-stations, le laminage de filets, la coupe et le taraudage, les revêtements et les traitements de surface par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre le problème du col carré ; forme de tête; tige et fil. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournir la géométrie du trou d'accouplement et le matériau du roulement ; l'engagement du cou fait partie de la conception anti-rotation. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3212,7 +3228,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3236,13 +3252,13 @@ Dessins de vis excentriques : rendre le décalage sans ambiguïté ↗ Vis coniq
 
 Définissez le décalage par rapport à un axe de référence nommé et affichez l'orientation des méplats, des entraînements ou des faces de contact. Pour un ajusteur, décrivez le mouvement et les butées requis dans l’assemblage. Mesurer uniquement les diamètres extérieurs ne peut pas établir l'excentricité ou la relation angulaire qui fait fonctionner le mécanisme.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à tête excentrique et coudée, examinez le tournage de type suisse et CNC, les opérations secondaires et de précision, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques doit résoudre le décalage et les données ; orientation de la tête ; plage de réglage. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournissez une vue d’assemblage, un schéma de référence et une plage de réglage requise. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3293,7 +3309,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3317,13 +3333,13 @@ Goujons à double extrémité : éviter les erreurs d'assemblage avec filetage m
 
 Spécifiez chaque extrémité indépendamment : diamètre, pas, caractère manuel, filetage utilisable et engagement. Dimensionnez la section centrale et tout épaulement d'assise. Si les extrémités se ressemblent, convenez d'une méthode d'identification et incluez-la dans l'inspection et l'emballage pour éviter d'inverser la pièce lors de l'assemblage.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les goujons personnalisés à double extrémité, examinez le tournage de type suisse et CNC, le roulage de filetage, la coupe et le taraudage, le traitement thermique spécifique au matériau par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre les problèmes de filetage mixte ; tige centrale ; orientation de l'assemblage. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Indiquez les deux filetages d'accouplement, l'assise des épaulements et la séquence d'assemblage. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3392,7 +3408,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3416,13 +3432,13 @@ Jauges de filetage et acceptation de vis personnalisées ↗ Goujons à double e
 
 Reliez le pas au réglage prévu, tout en tenant compte de l'ajustement du filetage correspondant et de l'engagement disponible. Un pas fin n'établit pas en soi la précision du positionnement ou la résistance aux vibrations. Indiquer la géométrie des contacts, la course, le verrouillage et l'acceptation de l'inspection du filetage comme exigences distinctes.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à pas fin et extra-fin, examinez le roulage de filetage, la coupe et le taraudage, le tournage de type suisse et CNC, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre des exemples de pas ; ajustement et engagement ; action de réglage. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Le pas fin ne garantit pas à lui seul la résistance au desserrage. Spécifiez séparément les exigences en matière de verrouillage et de vibration. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3491,7 +3507,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3515,13 +3531,13 @@ Fils roulés ou coupés : questions à résoudre dans l'appel d'offres ↗ Goujo
 
 Spécifiez le pas, la forme des flancs, les diamètres majeurs et mineurs, la maniabilité et toute exigence de conicité ou d'avance. Une étiquette telle que trapézoïdale ou contrefort ne constitue pas un dessin technique complet. Convenez du composant d'accouplement et de l'approche de calibrage avant la production, en particulier lorsqu'un calibre standard ne convient pas au profil personnalisé.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les profils de filetage spéciaux et composés, examinez le roulage de filetage, la coupe et le taraudage, le tournage de type suisse et CNC, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre la définition du profil ; mouvement et charge ; plusieurs zones de thread. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 L'autoblocage dépend de la géométrie, du frottement et des conditions de fonctionnement. Ne présumez pas que chaque filetage trapézoïdal ou contrefort est autobloquant. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3584,7 +3600,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3606,13 +3622,13 @@ Comment spécifier un entraînement à vis inviolable ↗ Ajustement des boulons
 
 Montrez le trou pilote, le matériau du substrat, l'épaisseur et l'espace disponible au-delà du joint. Une pointe coupée ou fendue modifie la géométrie locale mais ne garantit pas une installation sans éclats ni n'empêche la pénétration. Convenez d’un essai d’assemblage et définissez la projection de pointe autorisée et l’état des débris.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis autotaraudeuses à pointe modifiée, examinez la frappe à froid multi-stations, les opérations secondaires et de précision, le traitement thermique spécifique au matériau par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre les pointes et les reliefs ; matériel d'accouplement; Exigence d'installation. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Les pointes coupantes peuvent générer des copeaux. Le contrôle des débris et des percées doit être démontré dans l’assemblage lui-même. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3675,7 +3691,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3697,13 +3713,13 @@ Vis à tige réduite : pourquoi les transitions nécessitent une attention parti
 
 Dimensionnez la section réduite et les deux transitions par rapport aux surfaces fonctionnelles. Expliquez s'il apporte un jeu, un comportement élastique particulier ou une fonction d'assemblage. Une tige plus petite modifie le chemin de charge ; la géométrie à elle seule ne peut pas justifier une allégation de fatigue ou de réduction des contraintes sans l'évaluation de conception pertinente.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à tige réduite et variable, examinez le tournage de type suisse et CNC, la frappe à froid + l'usinage secondaire, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre le changement de section ; intention fonctionnelle ; vérification mécanique. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Une tige réduite n’empêche pas automatiquement les fissures. Exigences de charge et de fatigue pour la revue de conception. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3754,7 +3770,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3778,13 +3794,13 @@ Vis coniques : définition du siège d'accouplement ↗ Dessins de vis excentriq
 
 Indiquer la définition du cône, la référence, la longueur de contact et la géométrie d'accouplement. Indiquez où la pièce doit être placée et quelle dimension contrôle cette position. Un cône utilisé pour l'emplacement n'assure pas automatiquement l'étanchéité ; toute exigence d’étanchéité nécessite des surfaces, des conditions et une vérification définies.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à tige conique et à cône, examinez le tournage de type suisse et CNC, les opérations secondaires et de précision, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre la définition de la conicité ; surface de contact ; relation de fil. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Les performances d'étanchéité nécessitent une conception et une vérification adaptées ; un cône à lui seul n’assure pas l’étanchéité. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3835,7 +3851,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3859,13 +3875,13 @@ Goupilles de positionnement intégrées : coordonnées des références des goup
 
 Affichez le diamètre de la broche, la projection et la position par rapport à la référence de localisation, et pas seulement au contour général. Examinez le chemin d'assemblage afin que la goupille puisse s'engager avant que la vis n'atteigne sa position en place. La fonction de localisation et la rétention du fil nécessitent des contrôles d'acceptation indépendants.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis avec goupilles de positionnement intégrées, examinez le tournage de type suisse et CNC, les opérations secondaires et de précision, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait déterminer l'emplacement des broches ; géométrie des broches ; relation de fonctionnalité. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Précisez le trou de raccordement et le sens d’assemblage. Confirmez quelle fonctionnalité localise et laquelle fournit la pince. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3916,7 +3932,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -3938,13 +3954,13 @@ Frappe à froid ou tournage CNC : choisir un tracé de vis personnalisé ↗ Vis
 
 Définissez les filetages à chaque extrémité, les longueurs d'épaulement et l'axe de référence. Montrez quelle face s'installe en premier et comment la deuxième connexion est assemblée. Vérifiez si le serrage d’une extrémité modifie la position ou l’engagement de l’autre et identifiez la fonction de serrage prévue.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à épaulement à double extrémité, examinez le tournage de type suisse et CNC, la frappe à froid + l'usinage secondaire, le laminage de filetage, la découpe et le taraudage par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques doit résoudre deux zones de filetage ; épaule centrale ; contrôle des données. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Incluez les deux composants correspondants et expliquez quelle extrémité est installée en premier. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -3995,7 +4011,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -4019,13 +4035,13 @@ Trous transversaux dans les vis : planification du contrôle des bavures et insp
 
 Spécifiez le diamètre du trou et sa position axiale et angulaire à partir d'une référence fonctionnelle. Expliquez s'il faut une goupille, un fil de verrouillage ou un passage d'écoulement. Inspecter l'intersection et l'état des bords, au besoin ; une entrée de trou externe ne garantit pas que la sortie interne est exempte de bavures nuisibles.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à perçage cruciforme et à trou de tête, examinez les opérations secondaires et de précision, le tournage de type suisse et CNC, le nettoyage, le verrouillage et l'assemblage par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait déterminer la position du trou ; état des bords ; interface fonctionnelle. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Indiquer la méthode de rétention prévue et les exigences de charge ; un trou transversal à lui seul n’établit pas une rétention sûre. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -4076,7 +4092,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -4100,13 +4116,13 @@ Vis multi-étapes : contrôle de la chaîne de cotes axiales ↗ Échantillonnag
 
 Identifiez quelle étape localise chaque composant d’accouplement. Considérez l'empilement axial total et évitez de laisser la distance de contrôle comme une accumulation involontaire de dimensions non liées. Convenir des diamètres, du faux-rond ou du rapport coaxial réellement nécessaires à l'assemblage et de la condition dans laquelle ils sont acceptés.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis à plusieurs étapes et à plusieurs épaulements, examinez la frappe à froid + l'usinage secondaire, le tournage de type suisse et CNC, les opérations secondaires et de précision par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques doit résoudre la séquence des étapes ; relations entre les fonctionnalités ; terminer la séquence. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Utilisez un dessin technique basé sur des données et identifiez les surfaces qui localisent ou supportent réellement la charge. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -4157,7 +4173,7 @@ Les exigences en matière d'acier au carbone, 10B21, SUS304/316, d'aluminium, de
 
 Définir l’état des matériaux, le revêtement, les dimensions critiques et les dossiers d’inspection requis. Une famille de produits nommée n’implique pas une charge, une pression ou une performance testée.
 
-Comparer les familles de matériaux ↗ Spécifier un système de surface ↗ Convenez de la portée de l’inspection ↗
+Comparer les familles de matériaux ↗ Définir le système de traitement de surface ↗ Convenir de l’étendue des contrôles ↗
 
 OPTIONS DE PROCESSUS PERTINENTES
 
@@ -4179,13 +4195,13 @@ Goujons à clincher sur mesure : préciser le panneau ainsi que la fixation ↗ 
 
 Fournissez le matériau du panneau, l’épaisseur, la préparation des trous et le sens d’installation avec le dessin technique des fixations. L'élément de retenue et le panneau se déforment comme un système. Définir les contrôles d'installation et de rétention requis ; un filetage de vis correct n'établit pas de résistance à l'expulsion ou à la rotation du panneau.
 
-#### Revoir l'itinéraire avant de fixer le devis
+#### Définir la gamme avant de finaliser le devis
 
 Pour les vis et goujons personnalisés, examinez la frappe à froid multi-stations, les opérations secondaires et de précision, la vision CCD et l'inspection dimensionnelle par rapport au dessin technique et à la quantité. Identifiez les éléments qui peuvent être produits dans la forme initiale et ceux qui nécessitent une configuration distincte. Une modification d'un épaulement, d'un alésage, d'un entraînement ou d'un filetage fonctionnel peut modifier l'itinéraire proposé ainsi que l'effort d'inspection.
 
 L'examen des dessins techniques devrait résoudre la géométrie de rétention ; état du panneau ; validation de l'installation. Conservez l’état des matériaux et la tolérance de finition attachés à ces exigences. Définissez les conditions d'acceptation des caractéristiques critiques et approuvez toute modification dimensionnelle proposée avant de comparer les échantillons avec l'assemblage d'origine.
 
-#### Du dessin technique aux échantillons approuvés
+#### Du plan à l’approbation des échantillons
 
 Fournir les spécifications du panneau et les tests d’acceptation. Ne présumez pas qu’une fonctionnalité personnalisée partage les notes d’une pièce à clin standard de marque. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
@@ -4324,7 +4340,7 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -4332,7 +4348,7 @@ Par Theo Wan Lire le guide technique → QUALITÉ 2 LECTURE MIN
 
 ##### Comment préparer un plan d'inspection pour des vis personnalisées ↗
 
-Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
+Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
 Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 
@@ -4418,7 +4434,7 @@ L'épaule, le fil et la tête fonctionnent ensemble comme une seule géométrie.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -4612,47 +4628,71 @@ fixations définies par des dessins techniques pour boîtiers compacts, mécanis
 
 ### Comment préparer un plan d'inspection pour des vis personnalisées
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-screw-inspection-plan/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
 QUALITÉ / 2 LECTURE MIN
 
 ### Comment préparer un plan d'inspection pour des vis personnalisées
 
-Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
+Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Vis à épaulement et vis étagées
+Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 · Mise à jour 2026-11-02 Vis à épaulement et vis étagées
 
-DANS CE GUIDE Utiliser le dessin technique actuel Identifier les caractéristiques critiques Convenir des méthodes et des enregistrements Approbation de l'échantillon de plan Construire une matrice au niveau des caractéristiques Planifier l’inspection au stade qui fournit la preuve Révisions de contrôle et résultats non conformes PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
+DANS CE GUIDE Commencez par l'exigence publiée Utilisez l'exemple sans copier aveuglément une portée de test Définir la couverture et la réaction avant la production Enregistrer le résultat et la décision de libération PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
 
-#### Utiliser le dessin technique actuel
+#### Exemple de plan de contrôle renseigné
 
-Liez le plan d’inspection au numéro du dessin technique et à la révision. Résolvez les notes peu claires et les exigences contradictoires avant la sortie de la pièce.
+Lignes de planification illustratives, pas de résultats mesurés. Insérez les exigences réelles des dessins et la couverture d'inspection convenue avant la publication.
 
-#### Identifier les caractéristiques critiques
+Exemple de plan d'inspection de vis à épaulement Caractéristique Exigence à renseigner Preuve appropriée Étendue du contrôle et enregistrement
 
-Énumérez les dimensions, les exigences de filetage, les caractéristiques des matériaux et de finition à vérifier. Distinguer les contrôles dimensionnels des contrôles fonctionnels d’assemblage.
+C1 · Diamètre d'épaulement Limites de dessin approuvées ; état final de livraison Mesure de diamètre calibrée ; vision validée seulement si adaptée Échantillon convenu ou portée de chaque pièce ; enregistrer les valeurs réelles ou le résultat de dépistage approuvé
+
+C2 · Longueur épaule Distance par rapport à la face du siège fonctionnel Mesure de la longueur à partir du visage spécifié, avec une configuration documentée Liez le résultat à la révision du dessin et au lot
+
+C3 · Acceptation du fil de discussion Système de filetage, pas, classe et longueur utile Jauges appropriées et contrôle séparé de la longueur utilisable si nécessaire Enregistrer l'identité de la jauge et le résultat d'acceptation convenu
+
+C4 · Faux-rond géométrique, si spécifié Référence, surface contrôlée et tolérance sur le dessin Une configuration référencée par des données qui mesure la relation spécifiée Un résultat de caméra portant uniquement sur le diamètre ne remplace pas cette vérification
+
+C5 · Matière et finition Exigences de qualité, de condition et de traitement commandées Documents convenus et contrôles physiques ou de revêtement applicables Gardez les certificats de stock, les résultats de la pièce finale et les enregistrements de revêtement distincts
+
+C6 · Fonction d'assemblage Révision approuvée des pièces à raccorder et critères fonctionnels Essai d'assemblage contrôlé pour le mouvement, l'assise ou la rétention Enregistrer la référence d'accouplement, le résultat, les écarts et l'approbateur
+
+Téléchargez l'exemple de plan d'inspection (anglais) · Téléchargez une feuille de travail d'inspection vierge (anglais)
+
+#### Commencez par l'exigence publiée
+
+Enregistrez le numéro de pièce, la révision du dessin, la commande ou le lot, l'état du matériau et la finition fournie. Résolvez les dimensions conflictuelles et les notes non définies avant de sélectionner l'équipement. L'exemple de matrice utilise délibérément des références de dessin au lieu de limites de production inventées. Remplacez ces références par les exigences approuvées pour la pièce réelle.
+
+#### Utilisez l'exemple sans copier aveuglément une portée de test
+
+Un diamètre d'épaule, un filetage et une propriété matérielle nécessitent des preuves différentes. Une caméra peut filtrer un profil visible après validation, mais elle n'établit pas la résistance du matériau ni toutes les relations de données. Un calibre de filetage ne détermine pas la longueur des épaules. Conservez ces caractéristiques dans des lignes séparées même lorsqu'une station de production effectue plusieurs contrôles.
 
 Vous travaillez sur ce type de pièce ? Explorez notre vis à épaulement et à marchepied et incluez les exigences fonctionnelles dans votre demande de prix.
 
-#### Convenir des méthodes et des enregistrements
+#### Définir la couverture et la réaction avant la production
 
-Discutez des méthodes de mesure, des exigences d’échantillonnage et des rapports requis. L'adéquation de l'équipement et les critères d'acceptation doivent être convenus pour les fonctionnalités réelles impliquées.
+Pour chaque rangée, convenez de la couverture du premier article, de l'échantillon ou de chaque pièce et du point de l'itinéraire où l'acceptation est mesurée. Un contrôle destructif ne peut pas être appliqué à chaque pièce livrée de la même manière qu'un contrôle dimensionnel. Définissez la manière dont un résultat échoué ou limite est identifié, séparé et examiné, y compris quel travail ou quelle expédition doit être arrêté en attendant sa décision.
 
-#### Approbation de l'échantillon de plan
+#### Enregistrer le résultat et la décision de libération
 
-Le cas échéant, confirmez la manière dont les échantillons seront identifiés, examinés et approuvés. Enregistrez les modifications approuvées afin que les commandes répétées se réfèrent aux mêmes spécifications.
+Utilisez la feuille de travail vierge pour saisir l'exigence, la valeur réelle ou le résultat de réussite/échec convenu, la référence de l'instrument ou de la méthode, l'inspecteur, la date et la disposition. Un exemple de rapport doit identifier la pièce à assembler utilisée pour tout essai d'assemblage. Lorsque le dessin ou la finition change, examinez les lignes concernées et conservez la révision précédente plutôt que de modifier silencieusement un ancien résultat.
 
-#### Construire une matrice au niveau des caractéristiques
+#### Exemple de spécification
 
-Pour chaque caractéristique critique convenue, indiquez la référence du dessin technique, les exigences, la méthode, la fréquence d'inspection et les enregistrements conservés. Séparez une dimension extérieure, un ajustement de filetage, une propriété de matériau et une caractéristique de revêtement. Nommer une machine ne définit pas lesquels d’entre eux elle vérifie. Définissez la couverture avant la commande afin que l'achat et la qualité utilisent la même base d'acceptation.
+Exemple concret uniquement : une taille d'épaulement externe est vérifiée après finition, tandis que l'acceptation du filetage utilise les calibres spécifiés et un essai d'assemblage vérifie que le plateau mobile n'est pas serré. L'exemple établit des champs d'enregistrement, et non des limites numériques, des mesures terminées ou un résultat d'inspection ZUFEK.
 
-#### Planifier l’inspection au stade qui fournit la preuve
+#### Liste de contrôle de la demande de prix
 
-Un bord interne peut devenir moins accessible après l'assemblage, tandis qu'un ajustement peut nécessiter une acceptation après la finition. Accepter tout contrôle intermédiaire ainsi que les contrôles finaux. Les tests destructifs ne peuvent pas inspecter chaque pièce fournie de la même manière qu'un écran dimensionnel externe ; définir séparément son échantillon et sa traçabilité.
+Pièce, révision du dessin et identité du lot
 
-#### Révisions de contrôle et résultats non conformes
+Caractéristique et exigence d'acceptation approuvée
 
-Identifiez le dessin technique et la révision du programme d’inspection avec le lot. Définissez la manière dont les pièces rejetées sont séparées et qui décide de leur disposition. Lorsqu'une dimension ou un processus de surface change, examinez les critères d'inspection concernés plutôt que de supposer que l'ancien programme reste adapté. Conservez des exemples de décisions d’approbation à disposition pour les commandes répétées.
+Méthode, étape et couverture
+
+Résultat réel et enregistrement traçable
+
+Disposition des non-conformités et approbation de la version
 
 Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la préparation de la demande de prix , alors soumettre votre dessin technique pour examen . Pour les conditions d'acceptation, voir planification de la qualité .
 
@@ -4842,7 +4882,7 @@ Un revêtement appartient au plan dimensionnel. L'ajustement final doit être é
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -4972,13 +5012,13 @@ Données du charpentier 17-4PH
 
 BSSA : résistance au grippage des aciers inoxydables
 
-### Ajustements d'épaulement, classes de filetage et lors du meulage
+### Ajustement de la portée, tolérances du filetage et recours à la rectification
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
-### Ajustements d'épaulement, classes de filetage et lors du meulage
+### Ajustement de la portée, tolérances du filetage et recours à la rectification
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5146,7 +5186,7 @@ Une connexion par pression dépend du panneau, du trou et du processus d'install
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5155,8 +5195,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Frappe à froid multiposte ↗ Opérations secondaires et de précision ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -5255,8 +5293,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Type Suisse & CNC Tournage ↗ Opérations secondaires et de précision ↗ Nettoyage, freinage et préassemblage ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -5362,8 +5398,6 @@ Par Theo Wan Lire le guide technique →
 
 Frappe à froid multiposte ↗ Frappe à froid et usinage secondaire ↗ Revêtements et traitements de surface ↗
 
-##### Références techniques
-
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -5446,7 +5480,7 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5456,19 +5490,17 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-L'extrémité d'une vis de réglage définit la façon dont elle entre en contact avec le composant d'accouplement. Choisissez la pointe autour du contact requis et du changement de surface autorisé, pas seulement le diamètre de la vis.
+Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
 
 Par Theo Wan Lire le guide technique →
 
 #### Thèmes de fabrication connexes
 
 Type Suisse & CNC Tournage ↗ Opérations secondaires et de précision ↗ Filetage, coupe et taraudage ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -5496,51 +5528,69 @@ Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, post
 
 ### Cône, plat, chien ou coupelle : choisir un embout à vis
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/set-screw-tip-selection/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
-CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
+CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 ### Cône, plat, chien ou coupelle : choisir un embout à vis
 
-L'extrémité d'une vis de réglage définit la façon dont elle entre en contact avec le composant d'accouplement. Choisissez la pointe autour du contact requis et du changement de surface autorisé, pas seulement le diamètre de la vis.
+Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 · Mise à jour 2026-11-02 Décolletage à poupée mobile et tournage CNC
 
-DANS CE GUIDE Identifiez ce que la pointe contacte Comparez les géométries d'extrémité réelles Revoir le marquage et les ajustements répétés Définir l’engagement et l’acceptation PRODUIT CONNEXE Vis sans tête et vis de pression sur mesure ↗
+DANS CE GUIDE Choisissez d'abord le mécanisme de contact Travailler sur un exemple de butée réglable Emplacement séparé du serrage par friction Libérer un point et un plan de vérification PRODUIT CONNEXE Vis sans tête et vis de pression sur mesure ↗
 
-#### Identifiez ce que la pointe contacte
+#### Comparer les quatre modes de contact
 
-Montrez l'arbre, le plat, la rainure ou le trou sous la vis. Une pointe entrant en contact avec une surface incurvée se comporte différemment d'une pointe entrant en contact avec un évidement préparé. Expliquez si la connexion est destinée à serrer, à localiser, à arrêter le déplacement ou à fournir une fonction anti-rotation.
+Bout plat Bout conique Bout téton Bout cuvette Schémas des bouts uniquement ; leurs dimensions et les pièces en regard sont définies par le plan approuvé.
 
-#### Comparez les géométries d'extrémité réelles
+Sélection du point de vis de réglage : géométrie et compromis Formulaire à points Contacter Quand le réviser Que vérifier
 
-Les pointes coniques, plates, cylindriques et en coupe sont des formes de contact différentes. Dimensionnez les caractéristiques fonctionnelles de l'extrémité sélectionnée et sa relation avec le filetage. Évitez de considérer un nom de pointe générique comme une autorisation pour toute interprétation spécifique au fabricant de la forme.
+Bout plat Une face d'extrémité large s'appuie contre un plat ou un tampon préparé. Examinez les ajustements pour lesquels un bord mordant tranchant n'est pas souhaitable. Il peut toujours marquer la surface de contact. Vérifiez l'alignement à plat, la pression de contact et la rétention.
+
+Bout conique Une extrémité pointue s'engage dans un évidement approprié ou indente la surface de contact. Vérifiez un paramètre défini où la pénétration ou un évidement d'accouplement est acceptable. Des déplacements répétés peuvent endommager la zone de contact. Définissez le cône et la fonction d'accouplement.
+
+Bout téton Une extension cylindrique pénètre dans un trou ou une fente préparé. Vérifiez quand l’extension doit localiser ou guider un composant. Préciser la projection, le diamètre, le dégagement et la profondeur disponible ; ne laissez pas la pointe descendre involontairement.
+
+Bout cuvette Le bord d’une extrémité encastrée établit un contact concentré. Recherchez un paramètre dans lequel une indentation est acceptable. Ne supposez pas une surface intacte après le retrait et ne déduisez pas une force de maintien universelle à partir du nom du point.
+
+Comparez d'abord le mécanisme de contact ; confirmer la capacité et l'installation sur le joint réel.
+
+Téléchargez la feuille de travail de sélection de points (anglais)
+
+#### Choisissez d'abord le mécanisme de contact
+
+La forme du bout décrit sa géométrie, pas la capacité de maintien de l’assemblage. Sélectionnez d’abord le mode de contact à l’aide du tableau. Précisez ensuite le matériau et la dureté de la pièce en regard, le méplat, le logement ou le trou préparé, ainsi que la séquence de réglage et de démontage. Le bout plat peut convenir lorsqu’une arête pénétrante est indésirable, sans garantir l’absence de marques. Les bouts conique et cuvette peuvent marquer la surface ; le téton nécessite un trou ou une rainure définis.
+
+#### Travailler sur un exemple de butée réglable
+
+Considérez une butée de montage réglée entre les travaux et en appui sur une pastille usinée. Il s’agit d’un exercice de conception, pas d’un projet livré. Déterminez d’abord si les empreintes sont acceptables. Sinon, examinez le contact plan et le matériau de la pastille avant de choisir le bout. Vérifiez l’alignement sur toute la course : même un bout nominalement plat peut porter sur son arête si la vis arrive en biais.
 
 Vous travaillez sur ce type de pièce ? Explorez notre vis de réglage personnalisées et vis sans tête et incluez les exigences fonctionnelles dans votre demande de prix.
 
-#### Revoir le marquage et les ajustements répétés
+#### Emplacement séparé du serrage par friction
 
-Indiquez si la surface de contact peut être échancrée ou rayée et si la vis sera repositionnée. L’état de la surface peut devenir important lorsqu’un paramètre est modifié à plusieurs reprises. L’état du matériau de la pointe, la finition et le matériau d’accouplement doivent être examinés dans le cadre du même système de contact.
+Lorsqu’un téton cylindrique entre dans un trou, indiquez sa saillie et la profondeur utile disponible. Précisez s’il positionne la pièce, guide son déplacement ou transmet une charge définie. Prévoyez le jeu nécessaire et vérifiez la séquence de montage. Un téton engagé dans un trou n’est pas automatiquement une liaison au cisaillement validée ; le serrage seul ne démontre pas non plus le maintien requis.
 
-#### Définir l’engagement et l’acceptation
+#### Libérer un point et un plan de vérification
 
-L'engagement du filetage dans la pièce d'accouplement, l'accès au lecteur et les exigences d'installation comptent toujours sur une pièce de vis sans tête. Convenir d'un contrôle dimensionnel de l'embout et d'un éventuel test d'assemblage nécessaire à la fonction prévue. Un contour de pointe correct ne suffit pas à établir une force de maintien ou un couple nominal.
+Le plan maîtrisé doit définir le filetage, l’accès de l’outil, la longueur totale, les dimensions du bout, l’état final du matériau et le traitement de surface. Convenez des conditions de montage et d’un essai fonctionnel avec une pièce en regard représentative. Consignez les marques admises et le comportement après la séquence de réglage ou de maintenance demandée. Aucun couple ni effort de maintien universel n’est donné ici : ils dépendent de l’assemblage réel.
 
 #### Exemple de spécification
 
-Si une pointe de chien pénètre dans un trou préparé, fournissez la géométrie de ce trou avec le dessin technique de la vis. L'extension cylindrique et le trou d'accouplement doivent être examinés ensemble plutôt que spécifiés indépendamment.
+Résultat de l'examen illustratif : une butée ajustée à plusieurs reprises utilise une plage de contact préparée et une face d'extrémité définie. L'essai vérifie le contact tout au long du trajet, le marquage visible et le maintien du sertissage dans les conditions convenues. Les dimensions, les matériaux, le couple et les charges restent des intrants du projet ; aucun résultat de test n’est revendiqué.
 
 #### Liste de contrôle de la demande de prix
 
-Surface de contact ou évidement
+Forme ponctuelle et géométrie contrôlée
 
-Forme de pointe et dimensions contrôlées
+Plan de surface de contact, d'évidement ou de trou
 
-Marquage de surface autorisé
+Séquence de marquage et de réglage autorisée
 
-engagement du filetage dans la pièce d'accouplement et entraînement
+Conditions d'engagement, d'accès et d'installation des threads
 
-Exigence d’acceptation fonctionnelle
+Critères d'acceptation dimensionnelle et fonctionnelle
 
 Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la préparation de la demande de prix , alors soumettre votre dessin technique pour examen . Pour les conditions d'acceptation, voir planification de la qualité .
 
@@ -5564,7 +5614,7 @@ Différents threads aux deux extrémités peuvent résoudre un problème d'inter
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5575,6 +5625,8 @@ Par Theo Wan Lire le guide technique →
 Type Suisse & CNC Tournage ↗ Filetage, coupe et taraudage ↗ Traitement thermique adapté au matériau ↗
 
 ##### Références techniques
+
+Unbrako : géométrie de pointe à vis de réglage
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -5658,7 +5710,7 @@ Une connexion par pression dépend du panneau, du trou et du processus d'install
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5673,8 +5725,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Frappe à froid multiposte ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -5746,7 +5796,7 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5767,8 +5817,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Captage à chaud et forgeage ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -5840,7 +5888,7 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5861,8 +5909,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Opérations secondaires et de précision ↗ Filetage, coupe et taraudage ↗ Revêtements et traitements de surface ↗
-
-##### Références techniques
 
 ### Boulons à tête ronde et collet carré sur mesure : spécification du col carré
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/carriage-bolt-square-neck/
@@ -5922,7 +5968,7 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -5943,8 +5989,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Frappe à froid multiposte ↗ Filetage, coupe et taraudage ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 ### Dessins de vis excentriques : rendre le décalage sans ambiguïté
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/eccentric-screw-datum-drawing/
@@ -6016,7 +6060,7 @@ La combinaison d'une petite goupille de positionnement avec une vis peut réduir
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -6025,8 +6069,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Type Suisse & CNC Tournage ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6098,7 +6140,7 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -6108,19 +6150,17 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Une vis réglée manuellement doit être accessible, confortable à saisir et compatible avec le réglage requis. La texture de la tête à elle seule ne définit pas le fonctionnement du mécanisme.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-L'extrémité d'une vis de réglage définit la façon dont elle entre en contact avec le composant d'accouplement. Choisissez la pointe autour du contact requis et du changement de surface autorisé, pas seulement le diamètre de la vis.
+Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
 
 Par Theo Wan Lire le guide technique →
 
 #### Thèmes de fabrication connexes
 
 Type Suisse & CNC Tournage ↗ Filetage, coupe et taraudage ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6226,8 +6266,6 @@ Par Theo Wan Lire le guide technique →
 
 Type Suisse & CNC Tournage ↗ Frappe à froid et usinage secondaire ↗ Contrôle dimensionnel et vision CCD ↗
 
-##### Références techniques
-
 ### Vis coniques : définition du siège d'accouplement
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
@@ -6298,7 +6336,7 @@ La combinaison d'une petite goupille de positionnement avec une vis peut réduir
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -6307,8 +6345,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Type Suisse & CNC Tournage ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6392,7 +6428,7 @@ Un cône fonctionne contre une surface correspondante. Son angle, sa position ax
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -6401,8 +6437,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Type Suisse & CNC Tournage ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6496,8 +6530,6 @@ Par Theo Wan Lire le guide technique →
 
 Frappe à froid et usinage secondaire ↗ Type Suisse & CNC Tournage ↗ Contrôle dimensionnel et vision CCD ↗
 
-##### Références techniques
-
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -6574,7 +6606,7 @@ Une tête en T doit entrer, tourner ou glisser à l'intérieur de la fente prév
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -6589,8 +6621,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Frappe à froid multiposte ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 ### Fils roulés ou coupés : questions à résoudre dans l'appel d'offres
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/rolled-vs-cut-thread-rfq/
@@ -6671,8 +6701,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Filetage, coupe et taraudage ↗ Traitement thermique adapté au matériau ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6762,7 +6790,7 @@ Choisissez la séquence du processus de fabrication en fonction de la géométri
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -6771,8 +6799,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Opérations secondaires et de précision ↗ Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6850,7 +6876,7 @@ Une fixation en acier à haute résistance nécessite une décision de revêteme
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -6865,8 +6891,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Opérations secondaires et de précision ↗ Revêtements et traitements de surface ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6972,8 +6996,6 @@ Par Theo Wan Lire le guide technique →
 
 Revêtements et traitements de surface ↗ Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
 
-##### Références techniques
-
 ### Que spécifier pour une vis personnalisée à revêtement en flocons de zinc
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
@@ -7053,8 +7075,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Revêtements et traitements de surface ↗ Traitement thermique adapté au matériau ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -7160,8 +7180,6 @@ Par Theo Wan Lire le guide technique →
 
 Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
 
-##### Références techniques
-
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -7266,8 +7284,6 @@ Par Theo Wan Lire le guide technique →
 
 Nettoyage, freinage et préassemblage ↗ Filetage, coupe et taraudage ↗ Contrôle dimensionnel et vision CCD ↗
 
-##### Références techniques
-
 ### Vis rondelles préassemblées : préciser le jeu complet
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
@@ -7347,8 +7363,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Nettoyage, freinage et préassemblage ↗ Filetage, coupe et taraudage ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -7446,11 +7460,11 @@ QUALITÉ 2 LECTURE MIN
 
 ##### Comment préparer un plan d'inspection pour des vis personnalisées ↗
 
-Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.
+Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
-##### Ajustements d'épaulement, classes de filetage et lors du meulage ↗
+##### Ajustement de la portée, tolérances du filetage et recours à la rectification ↗
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
@@ -7576,8 +7590,6 @@ Par Theo Wan Lire le guide technique →
 
 Contrôle dimensionnel et vision CCD ↗ Nettoyage, freinage et préassemblage ↗
 
-##### Références techniques
-
 ### Échantillonnage et contrôle 100% : choisir la bonne couverture
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
@@ -7657,8 +7669,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Contrôle dimensionnel et vision CCD ↗ Nettoyage, freinage et préassemblage ↗
-
-##### Références techniques
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -7968,8 +7978,6 @@ Par Theo Wan Lire le guide technique →
 
 Type Suisse & CNC Tournage ↗ Frappe à froid et usinage secondaire ↗ Contrôle dimensionnel et vision CCD ↗
 
-##### Références techniques
-
 ### contrôle de révision des dessins techniques pour les commandes répétées de fixations personnalisées
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
@@ -8050,8 +8058,6 @@ Par Theo Wan Lire le guide technique →
 
 Contrôle dimensionnel et vision CCD ↗ Nettoyage, freinage et préassemblage ↗
 
-##### Références techniques
-
 ### Conditionnement et traçabilité des lots pour les commandes de vis personnalisées
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
@@ -8131,8 +8137,6 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
-
-##### Références techniques
 
 ### Boîtiers de recharge pour véhicules électriques : pourquoi les spécifications des fixations doivent suivre le joint
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/ev-charging-enclosure-fasteners/
@@ -8216,7 +8220,7 @@ IEA Global EV Outlook 2026
 
 Équipements d'énergie, de recharge et de stockage Vis de sécurité et anti-effraction Vis à embase sur mesure Spécification d'un traitement de surface de fixation sans laisser l'interface indéfinie
 
-### Automatisation d'usine : spécification des fixations de positionnement et de pivotement pour les assemblages répétables
+### Automatisation d'usine : spécification de fixations de positionnement et de pivot pour des assemblages reproductibles
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/automation-locating-pivot-fasteners/
 Last modified: 2026-10-30
 
@@ -11932,7 +11936,7 @@ BSSA : résistance au grippage des aciers inoxydables ↗ explique pourquoi le c
 
 Familles de matériaux et données sources ↗ Classes de résistance de l'acier fini ↗ Conditions SUS304 et SUS316 ↗ Examen des risques liés aux revêtements et à l’hydrogène ↗ Article sur la sélection des matériaux ↗ Préparer la demande de prix ↗
 
-### Examen des dessins de fixations personnalisés : une liste de contrôle de publication pratique
+### Examen des dessins de fixations personnalisés : une liste de contrôle pratique pour la publication
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/drawing-review-release-checklist/
 Last modified: 2026-10-30
 
@@ -12060,7 +12064,7 @@ NASA Fastener Design Manual, 1990 : contexte général de conception
 
 Trois parcours complets. Défini par le dessin. Frappe à froid multiposte Décolletage à poupée mobile et tournage CNC Du prototype de vis à la production répétée : un guide de passation des portes de l'étape
 
-### Spécifier un traitement de surface de fixation sans laisser l'interface indéfinie
+### Spécification d'un traitement de surface de fixation sans laisser l'interface indéfinie
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/surface-treatment-specification/
 Last modified: 2026-10-30
 
@@ -12126,7 +12130,7 @@ ISO 10683 : périmètre publié pour les systèmes zinc-flacons
 
 Revêtements et traitements de surface Nommez le matériau. Définir ses performances. Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
 
-### Création d'un plan d'inspection et d'acceptation des fixations personnalisé
+### Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/inspection-acceptance-plan/
 Last modified: 2026-10-30
 

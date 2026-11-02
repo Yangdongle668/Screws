@@ -332,7 +332,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → QUALITÄT 2 MIN. LESEN
 
 ##### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben ↗
 
-Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
+Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → HERSTELLUNG 2 MIN. LESEN
 
@@ -354,7 +354,7 @@ Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -382,11 +382,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine handverstellte Schraube muss zugänglich, bequem zu greifen und mit der erforderlichen Einstellung kompatibel sein. Die Kopfbeschaffenheit allein bestimmt nicht, wie der Mechanismus funktioniert.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Das Ende einer Stellschraube definiert, wie sie die Gegenkomponente berührt. Wählen Sie die Spitze entsprechend dem erforderlichen Kontakt und der zulässigen Oberflächenveränderung, nicht nur nach dem Schraubendurchmesser.
+Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
@@ -609,7 +609,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → QUALITÄT 2 MIN. LESEN
 
 ##### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben ↗
 
-Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
+Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → HERSTELLUNG 2 MIN. LESEN
 
@@ -631,7 +631,7 @@ Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -659,11 +659,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine handverstellte Schraube muss zugänglich, bequem zu greifen und mit der erforderlichen Einstellung kompatibel sein. Die Kopfbeschaffenheit allein bestimmt nicht, wie der Mechanismus funktioniert.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Das Ende einer Stellschraube definiert, wie sie die Gegenkomponente berührt. Wählen Sie die Spitze entsprechend dem erforderlichen Kontakt und der zulässigen Oberflächenveränderung, nicht nur nach dem Schraubendurchmesser.
+Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
@@ -902,6 +902,14 @@ Zwei anschauliche Projekte verbinden Montageanforderungen mit Verbindungselement
 
 Automotive-Modulgehäuse ↗ Automatisierungsdreh- und Verstellvorrichtung ↗ Durchsuchen Sie Studien zum Anwendungsdesign ↗
 
+#### Für diese Website bereitgestellte Produktfotos
+
+Diese Referenzfotos zeigen sichtbare Produktformen. Sie legen keine Materialgüte, Abmessungen, Prüfergebnisse oder eine gelieferte Kundenanwendung fest.
+
+Gemischte Gewindeteile und Schulterformen auf einem Ausstellungstisch
+
+Gewindeschäfte, Schultern und Rohrkomponenten zusammen fotografiert
+
 #### Bemusterung, Werkzeugbau und Produktionsplanung
 
 Die typische Vorlaufzeit für die Herstellung von Prototypmustern, einschließlich der Werkzeuge, beträgt etwa 10–15 Tage. Der bestätigte Zeitplan folgt der Prüfung der technischen Zeichnung und der Einigung über Material-, Geometrie-, Oberflächenbehandlungs- und Inspektionsanforderungen. Klären Sie den Startmeilenstein im Angebot. Die Lieferung von Wiederholungsproduktionen wird für die Menge und die genehmigte Route separat angeboten.
@@ -1008,7 +1016,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → QUALITÄT 2 MIN. LESEN
 
 ##### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben ↗
 
-Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
+Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → HERSTELLUNG 2 MIN. LESEN
 
@@ -1401,6 +1409,14 @@ Sind Material- und Oberflächenoptionen vorab genehmigt? Nein. Die verfügbaren 
 
 Wie wird der Qualitätsumfang vereinbart? Definieren Sie während der Überprüfung kritische Funktionen und Dokumentationsanforderungen. Sehen Sie sich unsere an Qualitätsplanungsansatz .
 
+#### Für diese Website bereitgestellte Produktfotos
+
+Diese Referenzfotos zeigen sichtbare Produktformen. Sie legen keine Materialgüte, Abmessungen, Prüfergebnisse oder eine gelieferte Kundenanwendung fest.
+
+Gemischte Gewindeteile und Schulterformen auf einem Ausstellungstisch
+
+Gewindeschäfte, Schultern und Rohrkomponenten zusammen fotografiert
+
 #### Beginnen Sie mit der Schnittstelle, die eine Standardschraube nicht erfüllen kann
 
 Verwenden Sie diesen Weg, wenn die Anforderung Funktionen kombiniert oder nicht zu einer einzelnen Produktfamilie passt. Identifizieren Sie den Grund für die Anpassung: unzugänglicher Antrieb, ungewöhnliche Lagerfläche, gemischte Gewinde, interner Durchgang oder mehrere Positionierungsstufen. Trennen Sie wesentliche Schnittstellen von Dimensionen, die bei der Herstellbarkeitsprüfung besprochen werden können.
@@ -1413,7 +1429,7 @@ Senden Sie eine technische Zeichnung mit Einheiten und Revision oder ein Muster 
 
 Überprüfen Sie gemeinsam Werkzeuge, Formen oder Drehen, sekundäre Merkmale, Gewindeerzeugung, Behandlung und Endkontrollen. Niedrige anfängliche Umformkosten können durch zusätzliche Nachbearbeitung ausgeglichen werden, während ein bearbeiteter Prototyp möglicherweise nicht die bevorzugte Route für die Wiederholungsproduktion darstellt. Vergleichen Sie Muster- und wiederkehrende Bestellmengen anhand derselben genehmigten Spezifikation.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Stellen Sie die technische Zeichnung, das Material, die Ausführung und die geplante Montage bereit. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -1464,7 +1480,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -1502,7 +1518,7 @@ Auflagefläche Oberflächenbeschaffenheit, Behandlungsumfang und Kantenzustand V
 
 Können Schulter und Gewinde unterschiedliche Durchmesser haben? Ja, Schulter und Gewinde werden unabhängig voneinander angegeben. Überprüfen Sie den Übergang, den verfügbaren Passspielraum und den effektiven Gewindeeingriff im Passteil als eine Geometrie.
 
-Ist jede Ansatzschraube geschliffen? Nein. Die endgültige Größe, Form und Oberflächenanforderungen bestimmen die Endbearbeitungsroute. Überprüfen Sie die Notwendigkeit des Schleifens mit Behandlungsverzerrung und die endgültige Akzeptanzbedingung.
+Muss jede Ansatzschraube geschliffen werden? Nein. Die endgültige Größe, Form und Oberflächenanforderungen bestimmen die Endbearbeitungsroute. Überprüfen Sie die Notwendigkeit des Schleifens mit Behandlungsverzerrung und die endgültige Akzeptanzbedingung.
 
 #### Befolgen Sie ein vollständiges Anwendungsdesign
 
@@ -1526,13 +1542,13 @@ Der Übergang von der glatten Schulter zum Schraubengewinde benötigt genügend 
 
 Das CNC-Drehen ist eine Methode zur Überprüfung von Mustermengen und komplexen Schritten. Kaltstauchen mit anschließender lokaler Bearbeitung kann für die Wiederholungsproduktion ausgewertet werden. Das Schleifen wird dann gewählt, wenn Größe, Form oder Oberflächenanforderungen dies rechtfertigen, und nicht aus dem Produktnamen abgeleitet. Die CCD-Inspektion kann zugängliche Profile überprüfen. Zusammenhänge zwischen geometrischen Bezugsgrößen, Oberflächenrauheit und Gewindeprüfabnahme bedürfen eigener, geeigneter Methoden.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für Schulter- und Stufenschrauben Kaltstauchen + Sekundärbearbeitung, Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsbearbeitung anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollten Schulterdurchmesser und -länge ermittelt werden. Gewinde & Übergang; Präzisionsoptionen. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Berücksichtigen Sie die Details der Passbohrung, kritische Schulterabmessungen, die Oberflächenrauheit und die erforderliche Maßprüfung. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -1572,7 +1588,7 @@ ENGINEERING-LEITFADEN
 
 ##### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben ↗
 
-Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
+Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
 #### Was unterscheidet eine Schulterschraube von einer Vollgewindeschraube?
 
@@ -1659,7 +1675,7 @@ Zeigen Sie die minimale Bewegung an, die zum Lösen des Gegengewindes erforderli
 
 Vereinbaren Sie die beabsichtigte Aufbewahrungsprüfung, die zulässige Bewegung und etwaige wiederholte Wartungsanforderungen. Die Gewindemessung bestätigt eine andere Eigenschaft als die Plattenhaftung. Bestätigen Sie den Zustand nach der Beschichtung und einer etwaigen Vormontage und bewahren Sie die zugelassene Befestigungsanordnung auf, die anhand der Schraubenkonstruktionszeichnung gekennzeichnet ist.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Stellen Sie die technische Zeichnung, das Material, die Ausführung und die geplante Montage bereit. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -1754,7 +1770,7 @@ Geben Sie äußere Form, Höhe, Unterkopfübergang und Lagergeometrie sowie die 
 
 Die Kopfgeometrie kann sich auf Werkzeuge und Sekundärarbeiten auswirken. Überprüfen Sie die Eckformen, den Zugang zur Bearbeitung und alle Anforderungen an die sichtbare Oberfläche anhand der vorgeschlagenen Route. Genehmigen Sie den fertigen Kopf sowohl anhand des Installationsrahmens als auch des passenden Werkzeugs. Eine korrekte äußere Silhouette bestimmt nicht die Fahrleistung.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Stellen Sie die technische Zeichnung, das Material, die Ausführung und die geplante Montage bereit. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2053,7 +2069,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2115,13 +2131,13 @@ Ein spezieller Antrieb verhindert das gelegentliche Entfernen; es bietet keine a
 
 Bewerten Sie den vorgesehenen Treiber anhand repräsentativer fertiger Muster. Überprüfen Sie nach jeder Beschichtung den Halt, den Sitz und das vereinbarte Montageverhalten. Definieren Sie das Erscheinungsbild des sichtbaren Kopfes getrennt von der Akzeptanz der funktionalen Aussparung. Das Screening des externen Profils zeigt nicht die Leistung des Einstichdrehmoments; Verwenden Sie die vereinbarte Funktionsprüfung und dokumentieren Sie die Werkzeugspezifikation mit der genehmigten Schraubenrevision.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Informationen zu Sicherheits- und manipulationssicheren Schrauben finden Sie unter Multi-Station Cold Heading, Secondary & Precision Operations, Coatings & Surface Treatments anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollten Antriebsoptionen geklärt werden. Werkzeugschnittstelle; Kopfkonfigurationen. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Stellen Sie die Antriebskonstruktionszeichnung oder die passende Werkzeugspezifikation bereit. Die Manipulationssicherheit hängt von der Verfügbarkeit des Werkzeugs und der vollständigen Baugruppe ab. es ist keine absolute Sicherheit. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2184,7 +2200,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2240,13 +2256,13 @@ Ein radiales Loch, das eine axiale Bohrung kreuzt, kann eine Innenkante hinterla
 
 Mit dem Sehscreening können geeignete äußere Merkmale überprüft werden, es wird jedoch nicht der vollständige innere Durchgang festgestellt. Vereinbaren Sie eine entsprechende Bohrungsprüfung und etwaige Druck-, Durchfluss- oder Lecktests mit definierten Bedingungen. Aus dem Begriff Hohlschraube darf keine Druckstufe abgeleitet werden. Bevor eine Funktionsanforderung freigegeben wird, müssen Materialverträglichkeit, Dichtungsgeometrie und Montagebedingungen berücksichtigt werden.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für Hohl- und Durchgangslochschrauben Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsbearbeitung, Reinigung, Verriegelung und Montage anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Bohrungsgeometrie klären; Beziehung zwischen Wand und Gewinde; interne Verarbeitung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie Bohrungsdurchmesser und -tiefe, zulässige Grate, Sauberkeit und alle vereinbarten Dichtheits- oder Drucktests an. Eine Durchgangsbohrung allein ergibt noch keinen Druckwert. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2321,7 +2337,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2383,13 +2399,13 @@ Die Beschichtung wird auf ein dreidimensionales Teil angewendet, einschließlich
 
 Überprüfen Sie bei einer Geräteabdeckung den Flanschabstand, den Kopfzugang, den Sitz und den vereinbarten optischen Zustand an repräsentativen Teilen. Definieren Sie Flanschdurchmesser, -dicke und etwaige Ebenheitsanforderungen unabhängig voneinander. Wählen Sie mechanische Prüfungen und Beschichtungsprüfungen entsprechend der Spezifikation aus; Eine Maßprüfung des Flansches gibt keinen Aufschluss über die Klemmkraft oder das Korrosionsverhalten.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für kundenspezifische Flanschschrauben prüfen Sie die Optionen „Mehrstations-Kaltstauchen“, „Kaltstauchen + Sekundärbearbeitung“, „Beschichtungen und Oberflächenbehandlungen“ anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Flanschabmessungen klären; Auflagefläche; dünner oder vergrößerter Flansch. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Berücksichtigen Sie die Anforderungen an das passende Material und die Lagerfläche. Ein größerer Flansch verhindert nicht automatisch eine Beschädigung der Oberfläche. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2464,7 +2480,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2526,13 +2542,13 @@ Ein flaches, abgerundetes oder auf andere technische Zeichnungen definiertes End
 
 Ein beispielhafter Vorrichtungseinsteller sollte über seinen vorgesehenen Verfahrweg hinweg überprüft werden, einschließlich der Zugänglichkeit an beiden Endpositionen. Überprüfen Sie die Gewinde- und Griffmaße und vereinbaren Sie eine eventuelle Funktionsprüfung. Das Anziehen von Hand ist variabel und keine kalibrierte Drehmomentmethode; Wenn es auf eine kontrollierte Klemmkraft ankommt, definieren Sie den Montageprozess getrennt vom Rändelkopf.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für gerändelte Rändel- und Einstellschrauben vergleichen Sie Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsbearbeitungen, Gewindewalzen, Schneiden und Gewindeschneiden anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte den Griffstil klären; Einstellschnittstelle; optionales Laufwerk. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie den Kopfgriff, den Verstellweg und die erforderliche Verriegelungsmethode an. Der Handgriff allein ist kein kalibriertes Anzugsdrehmoment. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2607,7 +2623,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2663,13 +2679,13 @@ Eine Stellschraube, die als Wellensicherung verwendet wird, hat eine andere Akze
 
 Überprüfen Sie die Abnahme der Gewindeinspektion, die Spitzenform, die Gesamtlänge und den angegebenen Materialzustand. Ein externes Sichtprofil allein kann das Halteverhalten des Sockels oder der Montage nicht validieren. Wenn eine modifizierte Spitze, ein Seitenloch oder ein exzentrisches Merkmal hinzugefügt wird, geben Sie deren Beziehung zur Gewindeachse und die vereinbarte Methode zur Überprüfung dieser Beziehung an.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für kundenspezifische Stellschrauben und Madenschrauben vergleichen Sie Swiss-Type- und CNC-Drehen, Gewinderollen, Schneiden und Gewindeschneiden sowie materialspezifische Wärmebehandlung mit der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollten die Tippoptionen geklärt werden. Gewinde-Optionen; zusätzliche Funktionen. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie Spitzengeometrie, Gegenfläche, Antrieb und erwartete Funktion an. Die Spannleistung hängt von der Gesamtmontage ab. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2732,7 +2748,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2756,13 +2772,13 @@ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ So 
 
 Zeigen Sie sowohl die schmale Schlitzöffnung als auch den inneren Hohlraum. Stellen Sie fest, ob der Kopf vom Ende her eindringt oder sich in die richtige Position dreht. Überprüfen Sie den Halsabstand, den Verdrehschutzkontakt und die Auflagefläche während der gesamten Einstellung, nicht nur in der endgültigen Spannposition.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für kundenspezifische T-Nut-Schrauben die Multi-Station-Kaltstauchung, Warmstauchung und Schmieden sowie Sekundär- und Präzisionsoperationen anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Breite und Dicke des Kopfes klären. Hals & Orientierung; Gewindeschaft. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie den Schlitzquerschnitt und die Einführmethode an. Wählen Sie nicht nur das Aussehen des Kopfes aus. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2813,7 +2829,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2837,13 +2853,13 @@ Ringschrauben für Gestänge und Hebevorrichtungen: unterschiedliche Spezifikati
 
 Bemaßen Sie das Augenloch anhand des passenden Stifts, des verbleibenden Bandes und der verfügbaren Artikulation. Zeigen Sie die Lastrichtung und die in der Nähe befindlichen Störungen durch die Bewegung an. Für eine Verbindungsöse und eine zugelassene Hebekomponente gelten unterschiedliche Überprüfungsanforderungen. Die Augenform stellt keine Arbeitsbelastung dar.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für kundenspezifische Augen- und Gelenkschrauben Warmstauchen und Schmieden, Swiss-Type- und CNC-Drehen, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollte die Augen- oder Gabelgeometrie geklärt werden. Schaftübergang; Versammlungsbewegung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie die Richtung und den Verwendungszweck der Streitkräfte an. Jede Hebeanwendung erfordert eine genehmigte Tragfähigkeitskonstruktion und eine vereinbarte Überprüfung, nicht nur einen augenförmigen Kopf. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2894,7 +2910,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2916,13 +2932,13 @@ Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗ 304, 316 und
 
 Geben Sie die zulässigen Belastungsrichtungen, den Gewindeeingriff im Gegenstück, die Sitzanordnung und die geltenden Überprüfungsanforderungen an. Winkelbelastungen und Einbaubedingungen gehören in die Designprüfung. Geben Sie einen kundenspezifischen Ring nicht allein aufgrund der Maßhaltigkeit zum Heben frei; Wesentlich sind das genehmigte Design und die vereinbarte rückverfolgbare Verifizierung.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für kundenspezifische Ringschraubenkonstruktionen prüfen Sie bitte Warmstauchen und -schmieden, materialspezifische Wärmebehandlung, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte das Problem von Ring und Schaft lösen. Belastungsrichtung; Überprüfungsumfang. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie den genehmigten Lastfall und die anwendbare Norm an. Bei der benutzerdefinierten Geometrie handelt es sich nicht um eine zertifizierte Arbeitslastbewertung; Verwendung nur nach qualifizierter Planung und Prüfung. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -2973,7 +2989,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -2995,13 +3011,13 @@ So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗ Schulterpassungen, G
 
 Definieren Sie die Innenbreite und den Biegeradius gegenüber dem eingespannten Bauteil. Zeigen Sie den Beinabstand, die Parallelität und die verfügbare Gewindelänge an, nachdem der Sattel und die Muttern installiert wurden. Überprüfen Sie den Lagerkontakt und den Beschichtungszustand an der Biegung. Die Gesamtbreite allein kann keine korrekt sitzende Klemme ergeben.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für kundenspezifische U-Bolzen Sekundär- und Präzisionsoperationen, Gewindewalzen, Schneiden und Gewindeschneiden, Beschichtungen und Oberflächenbehandlungen anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte das Biegeprofil klären. Beingeometrie; passende Hardware. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie den Klemmquerschnitt und die Lastanforderungen an. Material, Biegeverfahren und Beschichtung müssen gemeinsam überprüft werden. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3052,7 +3068,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3076,13 +3092,13 @@ So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Passform d
 
 Entscheiden Sie, ob der Vierkant mit einem Schraubenschlüssel angetrieben oder in einer Tasche gehalten wird. Der erste benötigt Werkzeugfreiraum; Der zweite benötigt eine passgenaue Passform, Zugang zum Einführen und einen kontrollierten Anti-Rotations-Kontakt. Geben Sie die Eckform und den Unterkopfübergang an, damit ein scheinbar korrektes Quermaß keine Überschneidung verbirgt.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für kundenspezifische Vierkantschrauben die Multi-Station-Kaltstauchung, Warmstauchung und Schmieden sowie Sekundär- und Präzisionsoperationen anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Kopfgröße klären; erfasste Passform; Schaftkonfiguration. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Zeigen Sie den Schlüsselzugang oder die Haltetasche und die erforderlichen mechanischen Eigenschaften an. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3133,7 +3149,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3155,13 +3171,13 @@ Flachrundschrauben mit Vierkantansatz nach Zeichnung: Angabe des Vierkanthalses 
 
 Überprüfen Sie die Halstiefe und -breite anhand des Plattenlochs und des Stapels. Der Hals muss in die vorgesehene Verdrehsicherung eingreifen und gleichzeitig den Sitz der Lagerfläche ermöglichen. Wenn der Vierkant zu weit in einen ungeeigneten Teil des Stapels hineinragt, kann es sein, dass das Anziehen abgeschlossen erscheint, bevor die Verbindung sitzt.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für kundenspezifische Schlossschrauben vergleichen Sie die Bereiche Kaltstauchen mit mehreren Stationen, Gewindewalzen, Schneiden und Gewindeschneiden, Beschichtungen und Oberflächenbehandlungen anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte das Problem des quadratischen Halses lösen. Kopfform; Schaft & Gewinde. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie die Passlochgeometrie und das Lagermaterial an. Der Nackeneingriff ist Teil des Anti-Rotations-Designs. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3212,7 +3228,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3236,13 +3252,13 @@ Zeichnungen von Exzenterschrauben: Den Versatz eindeutig machen ↗ Konische Sch
 
 Definieren Sie den Versatz von einer benannten Bezugsachse und zeigen Sie die Ausrichtung von Abflachungen, Antrieben oder Kontaktflächen an. Beschreiben Sie für einen Einsteller die erforderliche Bewegung und Anschläge in der Baugruppe. Die ausschließliche Messung von Außendurchmessern kann weder die Exzentrizität noch die Winkelbeziehung bestimmen, die für die Funktionsweise des Mechanismus verantwortlich ist.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für exzentrische und abgewinkelte Kopfschrauben Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsoperationen, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollten Versatz und Bezugspunkt behoben werden. Kopforientierung; Einstellbereich. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Stellen Sie eine Baugruppenansicht, ein Bezugsschema und den erforderlichen Einstellbereich bereit. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3293,7 +3309,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3317,13 +3333,13 @@ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Kegel
 
 Geben Sie jedes Ende unabhängig an: Durchmesser, Steigung, Händigkeit, nutzbares Gewinde und Eingriff. Bemaßen Sie den Mittelteil und eventuelle Sitzschultern. Wenn die Enden ähnlich aussehen, vereinbaren Sie eine Identifizierungsmethode und beziehen Sie diese in die Inspektion und Verpackung ein, um ein Umdrehen des Teils während der Montage zu vermeiden.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für kundenspezifische doppelseitige Bolzen prüfen Sie bitte Swiss-Type- und CNC-Drehen, Gewindewalzen, Schneiden und Gewindeschneiden sowie materialspezifische Wärmebehandlung anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte gemischte Gewindeenden beheben. Mittelschaft; Montageausrichtung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie beide Gegengewinde, den Schultersitz und die Montagereihenfolge an. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3392,7 +3408,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3416,13 +3432,13 @@ Gewindelehren und individuelle Schraubenaufnahme ↗ Doppelte Bolzen: Vermeidung
 
 Beziehen Sie die Steigung auf die beabsichtigte Einstellung und berücksichtigen Sie dabei die Passung des Gegengewindes und den verfügbaren Eingriff. Eine Feinteilung alleine bestimmt nicht die Positionierungsgenauigkeit oder Vibrationsfestigkeit. Geben Sie Kontaktgeometrie, Hub, Verriegelung und Abnahme der Gewindeprüfung als separate Anforderungen an.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für Schrauben mit feiner und extrafeiner Steigung Gewindewalzen, Schneiden und Gewindeschneiden, Swiss-Type- und CNC-Drehen, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollten Tonhöhenbeispiele gelöst werden. Passform und Engagement; Anpassungsmaßnahme. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Eine feine Steigung allein garantiert keinen Widerstand gegen Lockerung. Geben Sie die Anforderungen an Verriegelung und Vibration separat an. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3491,7 +3507,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3515,13 +3531,13 @@ Gerollte oder geschnittene Gewinde: Fragen, die in der Ausschreibung geklärt we
 
 Geben Sie Steigung, Flankenform, Haupt- und Nebendurchmesser, Händigkeit und eventuelle Konizitäts- oder Steigungsanforderungen an. Eine Beschriftung wie „Trapez“ oder „Stützpfeiler“ ist keine vollständige Konstruktionszeichnung. Vereinbaren Sie vor der Produktion die passende Komponente und den Messansatz, insbesondere wenn eine Standardlehre nicht für das kundenspezifische Profil geeignet ist.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für spezielle und zusammengesetzte Gewindeprofile Gewindewalzen, Schneiden und Gewindeschneiden, Swiss-Type- und CNC-Drehen, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Profildefinition klären. Bewegung & Last; mehrere Gewinde-Zonen. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Die Selbsthemmung hängt von der Geometrie, der Reibung und den Betriebsbedingungen ab. Gehen Sie nicht davon aus, dass jedes Trapez- oder Sägegewinde selbstsichernd ist. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3584,7 +3600,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3606,13 +3622,13 @@ So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Passform d
 
 Zeigen Sie das Pilotloch, das Untergrundmaterial, die Dicke und den verfügbaren Platz hinter der Verbindung an. Eine geschnittene oder geschlitzte Spitze verändert die lokale Geometrie, garantiert jedoch keinen spanfreien Einbau und verhindert kein Eindringen. Vereinbaren Sie einen Montageversuch und legen Sie den zulässigen Spitzenüberstand und den Schmutzzustand fest.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für selbstschneidende Schrauben mit modifizierter Spitze prüfen Sie die Optionen Kaltstauchen mit mehreren Stationen, Sekundär- und Präzisionsoperationen sowie materialspezifische Wärmebehandlung anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte das Problem von Tip & Relief lösen. passendes Material; Installationsanforderung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Schneidspitzen können Späne erzeugen. Die Kontrolle von Trümmern und Durchbrüchen muss in der tatsächlichen Montage nachgewiesen werden. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3675,7 +3691,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3697,13 +3713,13 @@ Schrauben mit reduziertem Schaft: Warum Übergänge Aufmerksamkeit erfordern ↗
 
 Bemaßen Sie den reduzierten Abschnitt und beide Übergänge relativ zu den Funktionsflächen. Erklären Sie, ob es Spiel, ein besonderes elastisches Verhalten oder eine Montagefunktion bietet. Ein kleinerer Schaft verändert den Lastpfad; Die Geometrie allein kann ohne die entsprechende Designbewertung keinen Anspruch auf Ermüdungs- oder Spannungsreduzierung begründen.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Für Schrauben mit reduziertem und variablem Schaft überprüfen Sie Swiss-Type- und CNC-Drehen, Kaltstauchen + Sekundärbearbeitung, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Abschnittsänderung klären. funktionale Absicht; mechanische Überprüfung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Ein reduzierter Schaft verhindert nicht automatisch eine Rissbildung. Stellen Sie Belastungs- und Ermüdungsanforderungen für die Entwurfsprüfung bereit. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3754,7 +3770,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3778,13 +3794,13 @@ Konische Schrauben: Definition des passenden Sitzes ↗ Zeichnungen von Exzenter
 
 Geben Sie die Kegeldefinition, den Bezug, die Kontaktlänge und die passende Geometrie an. Zeigen Sie an, wo das Teil sitzen soll und welche Bemaßung diese Position steuert. Eine zur Positionierung verwendete Verjüngung sorgt nicht automatisch für eine Abdichtung; Für jede Dichtungsanforderung sind definierte Oberflächen, Bedingungen und Nachweise erforderlich.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für konische Schaft- und Konusschrauben Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsoperationen, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Konizitätsdefinition klären; Passfläche; Gewinde-Beziehung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Die Dichtungsleistung erfordert ein abgestimmtes Design und eine entsprechende Überprüfung. Eine Verjüngung allein stellt keine Dichtheit her. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3835,7 +3851,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3859,13 +3875,13 @@ Integrierte Fixierstifte: Koordinierende Stift- und Schraubenbezugspunkte ↗ Ze
 
 Zeigen Sie Stiftdurchmesser, Vorsprung und Position relativ zum Positionierungsbezugspunkt an, nicht nur zum Gesamtumriss. Überprüfen Sie den Montagepfad, damit der Stift einrasten kann, bevor die Schraube ihren festen Sitz erreicht. Die Ortungsfunktion und die Gewindehaltung bedürfen einer unabhängigen Abnahmeprüfung.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für Schrauben mit integrierten Fixierstiften Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsoperationen, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Position der Stifte klären. Stiftgeometrie; Merkmalsbeziehung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie das passende Loch und die Montagerichtung an. Bestätigen Sie, welche Funktion die Klemme lokalisiert und welche bereitstellt. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3916,7 +3932,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -3938,13 +3954,13 @@ Kaltstauchen oder CNC-Drehen: Auswahl einer benutzerdefinierten Schraubenroute �
 
 Definieren Sie die Gewinde an jedem Ende, die Schulterlängen und die Bezugsachse. Zeigen Sie, welche Seite zuerst sitzt und wie die zweite Verbindung montiert wird. Überprüfen Sie, ob sich durch das Anziehen eines Endes die Position oder der Eingriff am anderen Ende ändert, und identifizieren Sie die beabsichtigte Drehmomentfunktion.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Vergleichen Sie für doppelseitige Schulterschrauben Swiss-Type- und CNC-Drehen, Kaltstauchen + Sekundärbearbeitung, Gewindewalzen, Schneiden und Gewindeschneiden mit der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte zwei Gewinde-Zonen auflösen; zentrale Schulter; Datumskontrolle. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Fügen Sie beide passenden Komponenten bei und erklären Sie, welches Ende zuerst installiert wird. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -3995,7 +4011,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -4019,13 +4035,13 @@ Querlöcher in Schrauben: Gratkontrolle und Inspektion planen ↗ Hohlschraubenb
 
 Geben Sie den Lochdurchmesser sowie seine axiale und Winkelposition anhand eines funktionalen Bezugspunkts an. Erklären Sie, ob es sich um einen Stift, einen Sicherungsdraht oder einen Strömungskanal handelt. Überprüfen Sie nach Bedarf den Kreuzungs- und Kantenzustand; Ein äußerer Locheingang stellt nicht sicher, dass der innere Ausgang frei von schädlichen Graten ist.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für Kreuzloch- und Kopflochschrauben Sekundär- und Präzisionsoperationen, Swiss-Type- und CNC-Drehen, Reinigen, Verriegeln und Zusammenbauen anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Die Überprüfung der technischen Zeichnung sollte die Lochposition klären; Kantenzustand; funktionale Schnittstelle. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Geben Sie die vorgesehene Rückhaltemethode und die Belastungsanforderungen an. Eine Querbohrung allein stellt keinen sicheren Halt dar. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -4076,7 +4092,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -4100,13 +4116,13 @@ Mehrstufige Schrauben: Kontrolle der Axialmaßkette ↗ Probenahme und 100%-Insp
 
 Identifizieren Sie, welcher Schritt die einzelnen passenden Komponenten lokalisiert. Berücksichtigen Sie den gesamten axialen Stapel und vermeiden Sie, dass der Kontrollabstand eine unbeabsichtigte Anhäufung unabhängiger Dimensionen darstellt. Vereinbaren Sie die für die Baugruppe tatsächlich benötigten Durchmesser, Rundlaufabweichungen oder Koaxialbeziehungen sowie den Zustand, in dem sie akzeptiert werden.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Vergleichen Sie für mehrstufige und mehrschultrige Schrauben Kaltstauchen + Sekundärbearbeitung, Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsbearbeitungen mit der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollte die Schrittfolge geklärt werden. Merkmalsbeziehungen; Sequenz beenden. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Verwenden Sie eine datumsbasierte Konstruktionszeichnung und identifizieren Sie die Flächen, die tatsächlich Lasten aufnehmen oder tragen. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -4157,7 +4173,7 @@ Anforderungen an Kohlenstoffstahl, 10B21, SUS304/316, Aluminium, Kupfer/Messing 
 
 Definieren Sie Materialzustand, Beschichtung, kritische Abmessungen und erforderliche Prüfprotokolle. Eine benannte Produktfamilie impliziert keine getestete Belastung, Druck oder Leistungsbewertung.
 
-Vergleichen Sie Materialfamilien ↗ Geben Sie ein Oberflächensystem an ↗ Vereinbaren Sie den Prüfumfang ↗
+Vergleichen Sie Materialfamilien ↗ Oberflächensystem festlegen ↗ Prüfumfang abstimmen ↗
 
 RELEVANTE PROZESSOPTIONEN
 
@@ -4179,13 +4195,13 @@ Kundenspezifische Einpressbolzen: Geben Sie sowohl das Paneel als auch das Befes
 
 Geben Sie Plattenmaterial, Dicke, Lochvorbereitung und Installationsrichtung zusammen mit der Konstruktionszeichnung für Befestigungselemente an. Halteelement und Platte verformen sich als System. Definieren Sie die erforderlichen Installations- und Aufbewahrungsprüfungen; Ein korrektes Schraubengewinde stellt keinen Widerstand gegen Herausdrücken oder Drehen im Paneel dar.
 
-#### Überprüfen Sie die Route, bevor Sie das Angebot festlegen
+#### Fertigungsablauf vor Angebotsfreigabe klären
 
 Überprüfen Sie für kundenspezifische Einpressschrauben und -bolzen die Multi-Station-Kaltstauchung, Sekundär- und Präzisionsoperationen, CCD-Vision und Maßprüfung anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
 
 Bei der Überprüfung der technischen Zeichnung sollte die Retentionsgeometrie geklärt werden. Zustand des Panels; Installationsvalidierung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
 
-#### Von der Konstruktionszeichnung bis zum genehmigten Muster
+#### Von der Zeichnung zur Musterfreigabe
 
 Bereitstellung der Panel-Spezifikation und Abnahmetests. Gehen Sie nicht davon aus, dass eine benutzerdefinierte Funktion die gleiche Bewertung wie ein Marken-Standard-Clinch-Teil hat. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
@@ -4324,7 +4340,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -4332,7 +4348,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → QUALITÄT 2 MIN. LESEN
 
 ##### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben ↗
 
-Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
+Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -4418,7 +4434,7 @@ Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktio
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -4612,47 +4628,71 @@ Konstruktionszeichnungsdefinierte Verbindungselemente für kompakte Gehäuse, op
 
 ### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/custom-screw-inspection-plan/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
 QUALITÄT / 2 MIN. READ
 
 ### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben
 
-Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
+Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Schulter- und Passschrauben
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 · Aktualisiert 2026-11-02 Schulter- und Passschrauben
 
-IN DIESEM HANDBUCH Verwenden Sie die aktuelle Konstruktionszeichnung Identifizieren Sie kritische Merkmale Vereinbaren Sie Methoden und Aufzeichnungen Musterfreigabe planen Erstellen Sie eine Matrix auf Merkmalsebene Planen Sie die Inspektion in der Beweisphase Kontrollieren Sie Revisionen und fehlerhafte Ergebnisse VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
+IN DIESEM HANDBUCH Beginnen Sie mit der freigegebenen Anforderung Nutzen Sie das Beispiel, ohne einen Testumfang blind zu kopieren Definieren Sie Abdeckung und Reaktion vor der Produktion Protokollieren Sie das Ergebnis und die Freigabeentscheidung VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
 
-#### Verwenden Sie die aktuelle Konstruktionszeichnung
+#### Ausgefülltes Beispiel eines Prüfplans
 
-Verknüpfen Sie den Prüfplan mit der technischen Zeichnungsnummer und der Revision. Klären Sie unklare Hinweise und widersprüchliche Anforderungen, bevor das Teil freigegeben wird.
+Illustrative Planungszeilen, keine gemessenen Ergebnisse. Geben Sie vor der Freigabe die tatsächlichen Zeichnungsanforderungen und den vereinbarten Inspektionsumfang ein.
 
-#### Identifizieren Sie kritische Merkmale
+Beispiel für einen Inspektionsplan für Schulterschrauben Charakteristisch Einzutragende Anforderung Geeignete Beweise Prüfumfang und Aufzeichnung
 
-Listen Sie die zu überprüfenden Abmessungen, Gewindeanforderungen, Material- und Oberflächeneigenschaften auf. Unterscheiden Sie zwischen Maßprüfungen und funktionalen Montageprüfungen.
+C1 · Schulterdurchmesser Zugelassene Zeichnungsgrenzen; Endgültiger Lieferzustand Kalibrierte Durchmessermessung; validierte Sicht nur, wenn geeignet Vereinbarter Muster- oder Stückumfang; Erfassen Sie tatsächliche Werte oder das genehmigte Screening-Ergebnis
+
+C2 · Schulterlänge Abstand von der funktionellen Sitzfläche Längenmessung von der angegebenen Fläche aus mit dokumentierter Einrichtung Verknüpfen Sie das Ergebnis mit der Zeichnungsrevision und dem Los
+
+C3 · Thread-Akzeptanz Gewindesystem, Steigung, Klasse und nutzbare Länge Passende Lehren und bei Bedarf eine separate Nutzlängenprüfung Notieren Sie die Lehrenidentität und das vereinbarte Abnahmeergebnis
+
+C4 · Geometrischer Rundlauf, falls angegeben Bezugspunkt, kontrollierte Fläche und Toleranz in der Zeichnung Eine datumsbezogene Einrichtung, die die angegebene Beziehung misst Ein reines Durchmesser-Kameraergebnis ersetzt diese Prüfung nicht
+
+C5 · Material und Verarbeitung Geordneter Grad, Zustand und Behandlungsanforderungen Vereinbarte Dokumente und entsprechende physische oder Beschichtungsprüfungen Halten Sie Lagerbescheinigungen, Endergebnisse der Teile und Beschichtungsaufzeichnungen unterscheidbar
+
+C6 · Montagefunktion Genehmigte Überarbeitung der Gegenteile und Funktionskriterien Kontrollierter Montageversuch für Bewegung, Sitz oder Halt Notieren Sie die Paarungsreferenz, das Ergebnis, die Abweichungen und den Genehmiger
+
+Laden Sie den Beispielinspektionsplan herunter (Englisch) · Laden Sie ein leeres Inspektionsarbeitsblatt herunter (Englisch)
+
+#### Beginnen Sie mit der freigegebenen Anforderung
+
+Notieren Sie die Teilenummer, die Zeichnungsversion, die Bestellung oder Charge, den Materialzustand und die gelieferte Oberfläche. Lösen Sie widersprüchliche Abmessungen und undefinierte Notizen, bevor Sie Geräte auswählen. Die Beispielmatrix verwendet bewusst Zeichnungsbezüge statt erfundener Produktionsgrenzen. Ersetzen Sie diese Referenzen durch die genehmigten Anforderungen für das tatsächliche Teil.
+
+#### Nutzen Sie das Beispiel, ohne einen Testumfang blind zu kopieren
+
+Ein Schulterdurchmesser, ein Gewinde und eine Materialeigenschaft erfordern unterschiedliche Nachweise. Eine Kamera kann nach der Validierung ein sichtbares Profil überprüfen, sie stellt jedoch nicht die Materialstärke oder jede Bezugspunktbeziehung fest. Eine Gewindelehre ermittelt keine Schulterlänge. Behalten Sie diese Merkmale in separaten Zeilen bei, auch wenn eine Produktionsstation mehrere Prüfungen durchführt.
 
 Arbeiten Sie an dieser Art von Teil? Entdecken Sie unsere Schulter- und Stufenschrauben und nehmen Sie die funktionalen Anforderungen in Ihre Ausschreibung auf.
 
-#### Vereinbaren Sie Methoden und Aufzeichnungen
+#### Definieren Sie Abdeckung und Reaktion vor der Produktion
 
-Besprechen Sie Messmethoden, Probenahmeanforderungen und erforderliche Berichte. Die Eignungs- und Akzeptanzkriterien der Ausrüstung sollten für die tatsächlich betroffenen Funktionen vereinbart werden.
+Vereinbaren Sie für jede Zeile die Erstartikel-, Stichproben- oder Stückabdeckung sowie den Punkt in der Route, an dem die Akzeptanz gemessen wird. Eine zerstörende Prüfung kann nicht auf die gleiche Weise wie eine Maßprüfung auf jedes gelieferte Stück angewendet werden. Definieren Sie, wie ein fehlgeschlagenes oder grenzwertiges Ergebnis identifiziert, getrennt und überprüft wird, einschließlich der Arbeiten oder Lieferungen, die bis zur Entsorgung gestoppt werden müssen.
 
-#### Musterfreigabe planen
+#### Protokollieren Sie das Ergebnis und die Freigabeentscheidung
 
-Bestätigen Sie bei Bedarf, wie Proben identifiziert, überprüft und genehmigt werden. Notieren Sie genehmigte Änderungen, damit sich Nachbestellungen auf dieselbe Spezifikation beziehen.
+Verwenden Sie das leere Arbeitsblatt, um Anforderungen, tatsächliche Werte oder vereinbarte Pass/Fail-Ergebnisse, Instrumenten- oder Methodenreferenzen, Prüfer, Datum und Disposition zu erfassen. Ein Musterbericht sollte das Gegenstück identifizieren, das für jeden Montageversuch verwendet wurde. Wenn sich die Zeichnung oder das Finish ändert, überprüfen Sie die betroffenen Zeilen und behalten Sie die vorherige Überarbeitung bei, anstatt stillschweigend ein altes Ergebnis zu bearbeiten.
 
-#### Erstellen Sie eine Matrix auf Merkmalsebene
+#### Spezifikationsbeispiel
 
-Listen Sie für jedes vereinbarte kritische Merkmal die technische Zeichnungsreferenz, die Anforderung, die Methode, die Inspektionshäufigkeit und die aufbewahrten Aufzeichnungen auf. Trennen Sie ein Außenmaß, eine Gewindepassung, eine Materialeigenschaft und eine Beschichtungseigenschaft. Durch die Benennung einer Maschine wird nicht definiert, welche davon überprüft werden. Legen Sie die Abdeckung vor der Bestellung fest, sodass Einkauf und Qualität auf derselben Akzeptanzbasis basieren.
+Nur Arbeitsbeispiel: Nach der Endbearbeitung wird eine Außenschultergröße überprüft, während bei der Gewindeabnahme die angegebenen Lehren verwendet werden und bei einem Montageversuch überprüft wird, dass die bewegliche Platte nicht festgeklemmt ist. Das Beispiel legt Datensatzfelder fest, nicht numerische Grenzwerte, abgeschlossene Messungen oder ein ZUFEK-Inspektionsergebnis.
 
-#### Planen Sie die Inspektion in der Beweisphase
+#### RFQ-Checkliste
 
-Eine Innenkante kann nach der Montage weniger zugänglich sein, während eine Passung nach der Fertigstellung möglicherweise noch abgenommen werden muss. Vereinbaren Sie eventuelle Zwischenkontrollen sowie Endkontrollen. Bei der zerstörenden Prüfung kann nicht jedes gelieferte Teil auf die gleiche Weise geprüft werden wie bei einer externen Maßprüfung; Legen Sie die Probe und die Rückverfolgbarkeit separat fest.
+Teil, Zeichnungsrevision und Losidentität
 
-#### Kontrollieren Sie Revisionen und fehlerhafte Ergebnisse
+Charakteristische und genehmigte Abnahmevoraussetzung
 
-Identifizieren Sie die technische Zeichnung und die Revision des Inspektionsprogramms mit dem Los. Definieren Sie, wie abgelehnte Teile getrennt werden und wer über die Entsorgung entscheidet. Wenn sich eine Abmessung oder ein Oberflächenprozess ändert, überprüfen Sie die betroffenen Prüfkriterien, anstatt davon auszugehen, dass das alte Programm weiterhin geeignet ist. Halten Sie Musterfreigabeentscheidungen für Nachbestellungen bereit.
+Methode, Bühne und Umfang
+
+Tatsächliches Ergebnis und nachvollziehbare Aufzeichnung
+
+Beseitigung von Abweichungen und Freigabegenehmigung
 
 Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-Vorbereitung , dann Senden Sie Ihre Konstruktionszeichnung zur Überprüfung . Zu den Akzeptanzvoraussetzungen siehe Qualitätsplanung .
 
@@ -4842,7 +4882,7 @@ Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem 
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -4972,13 +5012,13 @@ Carpenter 17-4PH Daten
 
 BSSA: Verschleißfestigkeit von rostfreien Stählen
 
-### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt
+### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
-### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt
+### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5146,7 +5186,7 @@ Eine Einpressverbindung ist abhängig von der Platte, dem Loch und dem Montagevo
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5155,8 +5195,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Mehrstufen-Kaltstauchen ↗ Sekundär- und Präzisionsbearbeitung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -5255,8 +5293,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Langdrehen und CNC-Drehen ↗ Sekundär- und Präzisionsbearbeitung ↗ Reinigung, Schraubensicherung und Vormontage ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -5362,8 +5398,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Mehrstufen-Kaltstauchen ↗ Kaltstauchen mit anschließender Zerspanung ↗ Beschichtungen und Oberflächenbehandlungen ↗
 
-##### Technische Referenzen
-
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -5446,7 +5480,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5456,19 +5490,17 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Das Ende einer Stellschraube definiert, wie sie die Gegenkomponente berührt. Wählen Sie die Spitze entsprechend dem erforderlichen Kontakt und der zulässigen Oberflächenveränderung, nicht nur nach dem Schraubendurchmesser.
+Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 #### Verwandte Fertigungsthemen
 
 Langdrehen und CNC-Drehen ↗ Sekundär- und Präzisionsbearbeitung ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -5496,51 +5528,69 @@ Schulter-, Tritt- und Verstellbefestigungen für Führungsmechanismen, Positioni
 
 ### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/set-screw-tip-selection/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
-DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
+DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 ### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift
 
-Das Ende einer Stellschraube definiert, wie sie die Gegenkomponente berührt. Wählen Sie die Spitze entsprechend dem erforderlichen Kontakt und der zulässigen Oberflächenveränderung, nicht nur nach dem Schraubendurchmesser.
+Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 · Aktualisiert 2026-11-02 Langdrehen und CNC-Drehen
 
-IN DIESEM HANDBUCH Identifizieren Sie, was die Spitze berührt Vergleichen Sie die tatsächlichen Endgeometrien Überprüfen Sie die Markierung und wiederholen Sie die Anpassung Definieren Sie Engagement und Akzeptanz VERWANDTES PRODUKT Kundenspezifische Gewindestifte und Madenschrauben ↗
+IN DIESEM HANDBUCH Wählen Sie zunächst den Kontaktmechanismus Arbeiten Sie ein Beispiel für einen verstellbaren Anschlag durch Getrennt von der reibschlüssigen Klemmung Geben Sie einen Punkt und einen Verifizierungsplan frei VERWANDTES PRODUKT Kundenspezifische Gewindestifte und Madenschrauben ↗
 
-#### Identifizieren Sie, was die Spitze berührt
+#### Vier Kontaktarten im Vergleich
 
-Zeigen Sie den Schaft, die Abflachung, die Nut oder das Loch unter der Schraube an. Eine Spitze, die eine gekrümmte Oberfläche berührt, verhält sich anders als eine Spitze, die eine vorbereitete Vertiefung berührt. Erklären Sie, ob die Verbindung zum Klemmen, Fixieren, Stoppen des Hubs oder als Verdrehschutz dienen soll.
+Flache Spitze Kegelspitze Zapfen Ringschneide Nur schematische Spitzenformen; Maße und Gegenkonturen sind der freigegebenen Zeichnung zu entnehmen.
 
-#### Vergleichen Sie die tatsächlichen Endgeometrien
+Auswahl des Stellschraubenpunkts: Geometrie und Kompromisse Punktform Kontakt Wann sollte man es überprüfen? Was zu überprüfen ist
 
-Kegel-, Flach-, Zylinder- und Napfspitzen sind unterschiedliche Kontaktformen. Bemaßen Sie die Funktionsmerkmale des ausgewählten Endes und seine Beziehung zum Gewinde. Vermeiden Sie es, einen generischen Spitzennamen als Erlaubnis für eine herstellerspezifische Interpretation der Form zu betrachten.
+Flache Spitze Eine breite Endfläche liegt an einer vorbereiteten Fläche oder Unterlage an. Überprüfen Sie die Einstellungen auf Einstellungen, bei denen eine scharfe Schneidekante unerwünscht ist. Es kann immer noch Spuren auf der Kontaktfläche hinterlassen. Planlage, Anpressdruck und Halt prüfen.
+
+Kegelspitze Ein spitzes Ende greift in eine geeignete Aussparung ein oder drückt die Passfläche ein. Überprüfen Sie, ob eine definierte Einstellung vorliegt, bei der eine Durchdringung oder eine passende Aussparung akzeptabel ist. Durch wiederholtes Umsetzen kann der Kontaktbereich beschädigt werden. Definieren Sie den Kegel und das Verbindungselement.
+
+Zapfen Eine zylindrische Verlängerung dringt in ein vorbereitetes Loch oder einen vorbereiteten Schlitz ein. Überprüfen Sie, wann die Erweiterung eine Komponente lokalisieren oder führen muss. Geben Sie Vorsprung, Durchmesser, Spielraum und verfügbare Tiefe an; Lassen Sie die Spitze nicht unbeabsichtigt nach unten sinken.
+
+Ringschneide Der Rand eines vertieften Endes sorgt für einen konzentrierten Kontakt. Suchen Sie nach einer Einstellung, bei der eine Einrückung akzeptabel ist. Gehen Sie nicht davon aus, dass die Oberfläche nach dem Entfernen unbeschädigt ist, und schließen Sie aus der Punktbezeichnung nicht auf eine universelle Haltekraft.
+
+Vergleichen Sie zunächst den Kontaktmechanismus; Bestätigen Sie die Kapazität und die Installation an der tatsächlichen Verbindung.
+
+Laden Sie das Arbeitsblatt zur Punktauswahl herunter (Englisch)
+
+#### Wählen Sie zunächst den Kontaktmechanismus
+
+Die Spitzenform beschreibt die Geometrie, nicht das Haltevermögen der fertigen Verbindung. Wählen Sie zunächst anhand der Tabelle die Kontaktart. Geben Sie Werkstoff und Härte des Gegenstücks, die vorbereitete Fläche, Vertiefung oder Bohrung sowie die Einstell- und Lösefolge an. Eine flache Spitze ist bei unerwünschter scharfer Eindringkante zu prüfen, garantiert aber keine abdruckfreie Welle. Kegelspitze und Ringschneide können eindrücken; ein Zapfen benötigt eine definierte Bohrung oder Nut.
+
+#### Arbeiten Sie ein Beispiel für einen verstellbaren Anschlag durch
+
+Als Konstruktionsbeispiel dient ein Vorrichtungsanschlag, der zwischen Aufträgen neu eingestellt wird und eine bearbeitete Auflage berührt. Es handelt sich nicht um einen gelieferten Kundenfall. Klären Sie zuerst, ob Eindrückungen zulässig sind. Falls nicht, prüfen Sie flächigen Kontakt und den Auflagenwerkstoff. Kontrollieren Sie die Ausrichtung über den gesamten Verstellweg: Bei schräger Annäherung kann auch eine flache Spitze nur mit ihrer Kante anliegen.
 
 Arbeiten Sie an dieser Art von Teil? Entdecken Sie unsere Maßgeschneiderte Stellschrauben und Madenschrauben und nehmen Sie die funktionalen Anforderungen in Ihre Ausschreibung auf.
 
-#### Überprüfen Sie die Markierung und wiederholen Sie die Anpassung
+#### Getrennt von der reibschlüssigen Klemmung
 
-Geben Sie an, ob die Passfläche möglicherweise eingedrückt oder zerkratzt ist und ob die Schraube neu positioniert werden muss. Der Oberflächenzustand kann wichtig werden, wenn eine Einstellung wiederholt geändert wird. Der Zustand des Spitzenmaterials, die Oberflächenbeschaffenheit und das passende Material sollten als Teil desselben Kontaktsystems überprüft werden.
+Greift ein zylindrischer Zapfen in eine Bohrung, sind Zapfenüberstand und nutzbare Bohrungstiefe anzugeben. Klären Sie, ob der Zapfen positioniert, eine Bewegung führt oder eine festgelegte Last überträgt. Berücksichtigen Sie Bewegungsspiel und Montagereihenfolge. Ein in eine Bohrung eingreifender Zapfen ist nicht automatisch eine freigegebene Scherverbindung; auch das Anziehen allein belegt das geforderte Haltevermögen nicht.
 
-#### Definieren Sie Engagement und Akzeptanz
+#### Geben Sie einen Punkt und einen Verifizierungsplan frei
 
-Gewindeeingriff im Gegenstück, Antriebszugang und Installationsanforderungen spielen auch bei einem kopflosen Schraubenteil eine Rolle. Vereinbaren Sie eine Maßkontrolle der Spitze und eventuelle Montagetests, die für die beabsichtigte Funktion erforderlich sind. Eine korrekte Spitzenkontur allein ergibt noch keine Aussage über die Haltekraft oder das Drehmoment.
+Legen Sie Gewinde, Werkzeugzugang, Gesamtlänge, Spitzenmaße, endgültigen Werkstoffzustand und Oberflächenbehandlung in der freigegebenen Zeichnung fest. Stimmen Sie Montagevorgaben und einen Funktionsversuch mit einem repräsentativen Gegenstück ab. Dokumentieren Sie zulässige Abdrücke und das Verhalten nach der geforderten Einstell- oder Wartungsfolge. Allgemeine Drehmoment- oder Haltekraftwerte werden hier nicht angegeben; diese hängen von der tatsächlichen Verbindung ab.
 
 #### Spezifikationsbeispiel
 
-Wenn eine Mitnehmerspitze in ein vorbereitetes Loch eindringt, geben Sie diese Lochgeometrie in der Schraubenkonstruktionszeichnung an. Die zylindrische Verlängerung und das passende Loch sollten gemeinsam überprüft und nicht unabhängig voneinander spezifiziert werden.
+Illustratives Prüfergebnis: Ein wiederholt angepasster Anschlag verwendet ein vorbereitetes Kontaktpad und eine definierte Endfläche. Beim Probelauf werden der Kontakt während der Fahrt, die sichtbare Markierung und die Beibehaltung der Einstellung unter den vereinbarten Bedingungen überprüft. Abmessungen, Material, Drehmomente und Lasten bleiben Projekteingaben; Es wird kein Testergebnis beansprucht.
 
 #### RFQ-Checkliste
 
-Passfläche oder Aussparung
+Punktform und kontrollierte Geometrie
 
-Spitzenform und kontrollierte Abmessungen
+Passfläche, Aussparung oder Lochzeichnung
 
-Erlaubte Oberflächenmarkierung
+Zulässige Markierungs- und Einstellreihenfolge
 
-Gewindeeingriff in Gegenstück und Antrieb
+Gewindeeingriff, Zugangs- und Installationsanforderungen
 
-Funktionale Abnahmeanforderung
+Dimensions- und funktionale Akzeptanzkriterien
 
 Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-Vorbereitung , dann Senden Sie Ihre Konstruktionszeichnung zur Überprüfung . Zu den Akzeptanzvoraussetzungen siehe Qualitätsplanung .
 
@@ -5564,7 +5614,7 @@ Unterschiedliche Gewindes an den beiden Enden können ein Schnittstellenproblem 
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5575,6 +5625,8 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 Langdrehen und CNC-Drehen ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ Werkstoffspezifische Wärmebehandlung ↗
 
 ##### Technische Referenzen
+
+Unbrako: Stellschrauben-Punktgeometrie
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -5658,7 +5710,7 @@ Eine Einpressverbindung ist abhängig von der Platte, dem Loch und dem Montagevo
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5673,8 +5725,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Mehrstufen-Kaltstauchen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -5746,7 +5796,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5767,8 +5817,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Warmstauchen und Warmumformen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -5840,7 +5888,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5861,8 +5909,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Sekundär- und Präzisionsbearbeitung ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ Beschichtungen und Oberflächenbehandlungen ↗
-
-##### Technische Referenzen
 
 ### Flachrundschrauben mit Vierkantansatz nach Zeichnung: Angabe des Vierkanthalses
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/carriage-bolt-square-neck/
@@ -5922,7 +5968,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5943,8 +5989,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Mehrstufen-Kaltstauchen ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 ### Zeichnungen von Exzenterschrauben: Den Versatz eindeutig machen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/eccentric-screw-datum-drawing/
@@ -6016,7 +6060,7 @@ Durch die Kombination eines kleinen Fixierstifts mit einer Schraube können sepa
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6025,8 +6069,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Langdrehen und CNC-Drehen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6098,7 +6140,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6108,19 +6150,17 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine handverstellte Schraube muss zugänglich, bequem zu greifen und mit der erforderlichen Einstellung kompatibel sein. Die Kopfbeschaffenheit allein bestimmt nicht, wie der Mechanismus funktioniert.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Das Ende einer Stellschraube definiert, wie sie die Gegenkomponente berührt. Wählen Sie die Spitze entsprechend dem erforderlichen Kontakt und der zulässigen Oberflächenveränderung, nicht nur nach dem Schraubendurchmesser.
+Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 #### Verwandte Fertigungsthemen
 
 Langdrehen und CNC-Drehen ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6226,8 +6266,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Langdrehen und CNC-Drehen ↗ Kaltstauchen mit anschließender Zerspanung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
-##### Technische Referenzen
-
 ### Konische Schrauben: Definition des passenden Sitzes
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
@@ -6298,7 +6336,7 @@ Durch die Kombination eines kleinen Fixierstifts mit einer Schraube können sepa
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6307,8 +6345,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Langdrehen und CNC-Drehen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6392,7 +6428,7 @@ Eine Verjüngung wirkt gegen eine entsprechende Fläche. Sein Winkel, seine axia
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6401,8 +6437,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Langdrehen und CNC-Drehen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6496,8 +6530,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Kaltstauchen mit anschließender Zerspanung ↗ Langdrehen und CNC-Drehen ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
-##### Technische Referenzen
-
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -6574,7 +6606,7 @@ Ein T-Kopf muss in den vorgesehenen Schlitz eindringen, sich darin drehen oder g
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6589,8 +6621,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Mehrstufen-Kaltstauchen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 ### Gerollte oder geschnittene Gewinde: Fragen, die in der Ausschreibung geklärt werden müssen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/rolled-vs-cut-thread-rfq/
@@ -6671,8 +6701,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Gewinderollen, Schneiden und Gewindeschneiden ↗ Werkstoffspezifische Wärmebehandlung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6762,7 +6790,7 @@ Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Mat
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6771,8 +6799,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Sekundär- und Präzisionsbearbeitung ↗ Reinigung, Schraubensicherung und Vormontage ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6850,7 +6876,7 @@ Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheid
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6865,8 +6891,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Sekundär- und Präzisionsbearbeitung ↗ Beschichtungen und Oberflächenbehandlungen ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6972,8 +6996,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Beschichtungen und Oberflächenbehandlungen ↗ Reinigung, Schraubensicherung und Vormontage ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
-##### Technische Referenzen
-
 ### Was ist für eine kundenspezifische Schraube mit Zinklamellenbeschichtung zu beachten?
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
@@ -7053,8 +7075,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Beschichtungen und Oberflächenbehandlungen ↗ Werkstoffspezifische Wärmebehandlung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -7160,8 +7180,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Reinigung, Schraubensicherung und Vormontage ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
-##### Technische Referenzen
-
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -7266,8 +7284,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Reinigung, Schraubensicherung und Vormontage ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
-##### Technische Referenzen
-
 ### Vormontierte Unterlegscheibenschrauben: Geben Sie den kompletten Satz an
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
@@ -7347,8 +7363,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Reinigung, Schraubensicherung und Vormontage ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -7446,11 +7460,11 @@ QUALITÄT 2 MIN. LESEN
 
 ##### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben ↗
 
-Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.
+Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt ↗
+##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -7576,8 +7590,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 CCD-Bildverarbeitung und Maßprüfung ↗ Reinigung, Schraubensicherung und Vormontage ↗
 
-##### Technische Referenzen
-
 ### Probenahme und 100%-Inspektion: Auswahl der richtigen Abdeckung
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
@@ -7657,8 +7669,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 CCD-Bildverarbeitung und Maßprüfung ↗ Reinigung, Schraubensicherung und Vormontage ↗
-
-##### Technische Referenzen
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -7968,8 +7978,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Langdrehen und CNC-Drehen ↗ Kaltstauchen mit anschließender Zerspanung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
-##### Technische Referenzen
-
 ### Revisionskontrolle von Konstruktionszeichnungen für wiederholte kundenspezifische Verbindungsbestellungen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
@@ -8050,8 +8058,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 CCD-Bildverarbeitung und Maßprüfung ↗ Reinigung, Schraubensicherung und Vormontage ↗
 
-##### Technische Referenzen
-
 ### Verpackung und Chargenrückverfolgbarkeit für kundenspezifische Schraubenbestellungen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
@@ -8131,8 +8137,6 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Reinigung, Schraubensicherung und Vormontage ↗ CCD-Bildverarbeitung und Maßprüfung ↗
-
-##### Technische Referenzen
 
 ### Ladegehäuse für Elektrofahrzeuge: Warum die Spezifikationen der Befestigungselemente der Verbindung folgen müssen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industry-insights/ev-charging-enclosure-fasteners/
@@ -8304,7 +8308,7 @@ Berichterstattung von IFR World Robotics
 
 Industrielle Automatisierung Schulter- und Passschrauben Rändel- und Einstellschrauben Erstellen eines maßgeschneiderten Inspektions- und Abnahmeplans für Verbindungselemente
 
-### Batterieenergiespeichergeräte: Definition von Befestigungsschnittstellen über die Materialqualität hinaus
+### Batterieenergiespeichergeräte: Definition von Verbindungsschnittstellen über die Materialqualität hinaus
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industry-insights/battery-storage-fastener-interfaces/
 Last modified: 2026-10-30
 
@@ -8392,7 +8396,7 @@ IEA-Batterien und sichere Energiewende
 
 Energie-, Lade- und Speicherausrüstung Kohlenstoff- und legierter Stahl Reinigung, Schraubensicherung und Vormontage Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Checkliste für die Freigabe
 
-### Rechenzentrumsausrüstung: Entscheidungen über Verbindungselemente für Kühlung, Servicezugang und kontrollierte Montage
+### Ausstattung von Rechenzentren: Entscheidungen über Verbindungselemente für Kühlung, Servicezugang und kontrollierte Montage
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industry-insights/data-centre-cooling-service-fasteners/
 Last modified: 2026-10-30
 
@@ -8480,7 +8484,7 @@ IEA Energie und KI
 
 Elektronische und optische Geräte Unverlierbare Schrauben für Ihre Zeichnung. Hohlschrauben und Schrauben mit Durchgangsbohrung Von der Prototypenschraube bis zur Wiederholungsproduktion: ein Leitfaden zur Stage-Gate-Übergabe
 
-### Reparierbarkeit und Produktinformationen: Was Käufer kundenspezifischer Verbindungselemente jetzt definieren sollten
+### Reparierbarkeit und Produktinformationen: Was Käufer von kundenspezifischen Verbindungselementen jetzt definieren sollten
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industry-insights/repairability-product-information-fasteners/
 Last modified: 2026-10-30
 
@@ -11932,7 +11936,7 @@ BSSA: Abriebfestigkeit von rostfreien Stählen ↗ erklärt, warum das Paarungsp
 
 Materialfamilien und Quelldaten ↗ Fertigfestigkeitsklassen von Stahl ↗ SUS304 und SUS316 Bedingungen ↗ Überprüfung von Beschichtungen und Wasserstoffrisiken ↗ Artikel zur Materialauswahl ↗ Bereiten Sie die Angebotsanfrage vor ↗
 
-### Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Freigabe-Checkliste
+### Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Checkliste für die Freigabe
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/drawing-review-release-checklist/
 Last modified: 2026-10-30
 
@@ -11996,7 +12000,7 @@ NASA Fastener Design Manual, 1990: allgemeiner Designhintergrund
 
 Eine klarere Angebotsanfrage. Eine nützlichere Antwort. Schulter- und Passschrauben Erstellen eines maßgeschneiderten Inspektions- und Abnahmeplans für Verbindungselemente
 
-### Auswahl einer Herstellungsroute für eine kundenspezifische Schraube
+### Auswahl eines Herstellungswegs für eine kundenspezifische Schraube
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/manufacturing-route-selection/
 Last modified: 2026-10-30
 
@@ -12196,7 +12200,7 @@ ISO 3269: veröffentlichte Umfangs- und Anwendbarkeitsbeschränkungen
 
 CCD-Bildverarbeitung und Maßprüfung Definieren Sie die Prüfung. Stimmen Sie den Beweisen zu. Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Checkliste für die Freigabe
 
-### Von der Prototypenschraube zur Wiederholungsproduktion: ein Leitfaden zur Stage-Gate-Übergabe
+### Von der Prototypenschraube bis zur Wiederholungsproduktion: ein Leitfaden zur Stage-Gate-Übergabe
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/guides/prototype-production-handover/
 Last modified: 2026-10-30
 

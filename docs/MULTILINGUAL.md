@@ -18,6 +18,8 @@ node scripts/verify-language-preference.mjs
 
 不要直接改生成页面。新增英文内容须补全五份字典；生成器缺少翻译时会报错。检查包括页面覆盖、对应语言链接、规范网址、内链、占位符和技术数值。自动检查不能判定所有语句是否地道。
 
+本轮语境校订在 `translations/quality-review.json`；`scripts/quality-context-review.mjs`维护对应人工审校映射。`node scripts/apply-editorial-review.mjs`最后应用此映射，避免旧审校文件覆盖新版专业术语。修改后运行完整生成、内容台账及六语言验证。`generate-site.mjs --collect-only`仅用于采集新增英文翻译键，不能作为发布构建；随后必须完整生成。技术校订流程见 `docs/CONTENT-QUALITY-IMPROVEMENTS.md`。
+
 ## 语言入口与默认选择
 
 顶部邮箱旁提供国旗、语言原名和当前项勾选。首次进入英文地址时，优先采用已保存的手动选择，否则按照浏览器语言列表匹配六种支持语言；未匹配保持英文。手动切换保存本机偏好，并保留对应页面、查询参数及锚点。明确访问带语言前缀的链接时保留该语言；站内浏览不反复跳转。搜索爬虫不做客户端自动跳转，全部语言保留可访问网址与 `hreflang`。

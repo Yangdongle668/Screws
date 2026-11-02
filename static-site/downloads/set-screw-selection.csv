@@ -1,0 +1,6 @@
+﻿"Planning worksheet only; not a load or torque specification"
+"Point","Contact","Review context","Checks"
+"Flat point","A broad end face bears against a prepared flat or pad.","Review for adjustments where a sharp biting edge is undesirable.","It can still mark the mating surface. Check flat alignment, contact pressure and retention."
+"Cone point","A pointed end engages a suitable recess or indents the mating surface.","Review for a defined setting where penetration or a mating recess is acceptable.","Repeated relocation can damage the contact area. Define the cone and the mating feature."
+"Dog point","A cylindrical extension enters a prepared hole or slot.","Review when the extension must locate or guide a component.","Specify projection, diameter, clearance and available depth; do not let the point bottom unintentionally."
+"Cup point","The rim of a recessed end makes concentrated contact.","Review for a setting where an indentation is acceptable.","Do not assume an undamaged surface after removal, or infer a universal holding force from the point name."

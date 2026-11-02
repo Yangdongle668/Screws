@@ -332,7 +332,7 @@ By Theo Wan Read technical guide → QUALITY 2 MIN READ
 
 ##### How to prepare an inspection plan for custom screws ↗
 
-An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
+Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
 By Theo Wan Read technical guide → MANUFACTURING 2 MIN READ
 
@@ -382,11 +382,11 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-The end of a set screw defines how it contacts the mating component. Choose the tip around the required contact and permitted surface change, not only the screw diameter.
+Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -609,7 +609,7 @@ By Theo Wan Read technical guide → QUALITY 2 MIN READ
 
 ##### How to prepare an inspection plan for custom screws ↗
 
-An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
+Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
 By Theo Wan Read technical guide → MANUFACTURING 2 MIN READ
 
@@ -659,11 +659,11 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-The end of a set screw defines how it contacts the mating component. Choose the tip around the required contact and permitted surface change, not only the screw diameter.
+Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -902,6 +902,14 @@ Two illustrative projects connect assembly needs with fastener structure, materi
 
 Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Browse application design studies ↗
 
+#### Product photographs supplied for this website
+
+These reference photographs show visible product forms. They do not establish material grade, dimensions, inspection results or a delivered customer application.
+
+Mixed threaded components and shoulder forms on a display table
+
+Threaded shanks, shoulders and tubular components photographed together
+
 #### Sampling, tooling and production planning
 
 Typical sampling lead time, including tooling, is approximately 10–15 days. The confirmed schedule follows drawing review and agreement on material, geometry, surface treatment and inspection requirements. Clarify the starting milestone in the quotation. Repeat-production delivery is quoted separately for the quantity and approved route.
@@ -1008,7 +1016,7 @@ By Theo Wan Read technical guide → QUALITY 2 MIN READ
 
 ##### How to prepare an inspection plan for custom screws ↗
 
-An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
+Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
 By Theo Wan Read technical guide → MANUFACTURING 2 MIN READ
 
@@ -1401,6 +1409,14 @@ Are material and finish options pre-approved? No. Available options must be conf
 
 How is quality scope agreed? Define critical features and documentation needs during review. See our quality planning approach .
 
+#### Product photographs supplied for this website
+
+These reference photographs show visible product forms. They do not establish material grade, dimensions, inspection results or a delivered customer application.
+
+Mixed threaded components and shoulder forms on a display table
+
+Threaded shanks, shoulders and tubular components photographed together
+
 #### Start with the interface a standard screw cannot satisfy
 
 Use this route when the requirement combines features or does not fit a single product family. Identify the reason for customization: inaccessible drive, unusual bearing face, mixed threads, internal passage or several locating steps. Separate essential interfaces from dimensions that can be discussed during manufacturability review.
@@ -1572,7 +1588,7 @@ ENGINEERING GUIDE
 
 ##### How to prepare an inspection plan for custom screws ↗
 
-An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
+Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
 #### How is a shoulder screw different from a fully threaded bolt?
 
@@ -4332,7 +4348,7 @@ By Theo Wan Read technical guide → QUALITY 2 MIN READ
 
 ##### How to prepare an inspection plan for custom screws ↗
 
-An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
+Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
 By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 
@@ -4612,47 +4628,71 @@ Drawing-defined fasteners for compact housings, optical adjustment mechanisms an
 
 ### How to prepare an inspection plan for custom screws
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-screw-inspection-plan/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
 QUALITY / 2 MIN READ
 
 ### How to prepare an inspection plan for custom screws
 
-An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
+Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Shoulder & Step Screws
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-02 Shoulder & Step Screws
 
-IN THIS GUIDE Use the current drawing Identify critical characteristics Agree on methods and records Plan sample approval Build a characteristic-level matrix Plan inspection at the stage that provides evidence Control revisions and nonconforming results RELATED PRODUCT Shoulder & Step Screws ↗
+IN THIS GUIDE Start with the released requirement Use the example without copying a test scope blindly Define coverage and reaction before production Record the result and the release decision RELATED PRODUCT Shoulder & Step Screws ↗
 
-#### Use the current drawing
+#### Worked inspection-plan matrix
 
-Link the inspection plan to the drawing number and revision. Resolve unclear notes and conflicting requirements before the part is released.
+Illustrative planning rows, not measured results. Insert the actual drawing requirements and agreed inspection coverage before release.
 
-#### Identify critical characteristics
+Shoulder-screw inspection-plan example Characteristic Requirement to enter Suitable evidence Coverage and record
 
-List the dimensions, thread requirements, material and finish characteristics to be verified. Distinguish dimensional checks from functional assembly checks.
+C1 · Shoulder diameter Approved drawing limits; final supplied condition Calibrated diameter measurement; validated vision only if suitable Agreed sample or every-piece scope; record actual values or the approved screening result
+
+C2 · Shoulder length Distance from the functional seating face Length measurement from the specified face, with a documented setup Link the result to the drawing revision and lot
+
+C3 · Thread acceptance Thread system, pitch, class and usable length Appropriate gauges plus a separate usable-length check when required Record gauge identity and the agreed acceptance result
+
+C4 · Geometric runout, if specified Datum, controlled surface and tolerance on the drawing A datum-referenced setup that measures the specified relationship A diameter-only camera result does not replace this check
+
+C5 · Material and finish Ordered grade, condition and treatment requirements Agreed documents and applicable physical or coating checks Keep stock certificates, final-part results and coating records distinguishable
+
+C6 · Assembly function Approved mating-part revision and functional criteria Controlled assembly trial for movement, seating or retention Record the mating reference, outcome, deviations and approver
+
+Download the example inspection plan (English) · Download a blank inspection worksheet (English)
+
+#### Start with the released requirement
+
+Record the part number, drawing revision, order or lot, material condition and supplied finish. Resolve conflicting dimensions and undefined notes before selecting equipment. The example matrix deliberately uses drawing references instead of invented production limits. Replace those references with the approved requirements for the actual part.
+
+#### Use the example without copying a test scope blindly
+
+A shoulder diameter, a thread and a material property require different evidence. A camera may screen a visible profile after validation, but it does not establish material strength or every datum relationship. A thread gauge does not establish shoulder length. Keep these characteristics in separate rows even when one production station performs several checks.
 
 Working on this type of part? Explore our shoulder & step screws and include the functional requirements in your RFQ.
 
-#### Agree on methods and records
+#### Define coverage and reaction before production
 
-Discuss measurement methods, sampling requirements and required reporting. Equipment suitability and acceptance criteria should be agreed for the actual features involved.
+For each row, agree first-article, sampled or every-piece coverage and the point in the route where acceptance is measured. A destructive check cannot be applied to every delivered piece in the same way as a dimensional screen. Define how a failed or borderline result is identified, segregated and reviewed, including which work or shipment must stop pending disposition.
 
-#### Plan sample approval
+#### Record the result and the release decision
 
-Where required, confirm how samples will be identified, reviewed and approved. Record approved changes so repeat orders refer to the same specification.
+Use the blank worksheet to capture requirement, actual value or agreed pass/fail result, instrument or method reference, inspector, date and disposition. A sample report should identify the mating part used for any assembly trial. When the drawing or finish changes, review the affected rows and preserve the previous revision rather than silently editing an old result.
 
-#### Build a characteristic-level matrix
+#### Specification example
 
-For every agreed critical characteristic, list drawing reference, requirement, method, inspection frequency and retained record. Separate an external dimension, a thread fit, a material property and a coating characteristic. Naming a machine does not define which of these it verifies. Set the coverage before the order so purchasing and quality use the same acceptance basis.
+Worked example only: an external shoulder size is checked after finishing, while thread acceptance uses the specified gauges and an assembly trial checks that the moving plate is not clamped. The example establishes record fields, not numerical limits, completed measurements or a ZUFEK inspection result.
 
-#### Plan inspection at the stage that provides evidence
+#### RFQ checklist
 
-An internal edge may become less accessible after assembly, while a fit may need acceptance after finishing. Agree any intermediate check as well as final checks. Destructive testing cannot inspect every supplied part in the same manner as an external dimensional screen; define its sample and traceability separately.
+Part, drawing revision and lot identity
 
-#### Control revisions and nonconforming results
+Characteristic and approved acceptance requirement
 
-Identify the drawing and inspection-program revision with the lot. Define how rejected pieces are segregated and who decides disposition. When a dimension or surface process changes, review the affected inspection criteria rather than assuming the old program remains suitable. Keep sample approval decisions available for repeat orders.
+Method, stage and coverage
+
+Actual result and traceable record
+
+Nonconformance disposition and release approval
 
 Ready to discuss your part? Use the RFQ preparation checklist , then submit your drawing for review . For acceptance requirements, see quality planning .
 
@@ -5156,8 +5196,6 @@ By Theo Wan Read technical guide →
 
 Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗
 
-##### Technical references
-
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -5255,8 +5293,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ Cleaning, Locking & Assembly ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -5362,8 +5398,6 @@ By Theo Wan Read technical guide →
 
 Multi-Station Cold Heading ↗ Cold Heading + Secondary Machining ↗ Coatings & Surface Treatments ↗
 
-##### Technical references
-
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -5456,19 +5490,17 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-The end of a set screw defines how it contacts the mating component. Choose the tip around the required contact and permitted surface change, not only the screw diameter.
+Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
 
 By Theo Wan Read technical guide →
 
 #### Related manufacturing topics
 
 Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ Thread Rolling, Cutting & Tapping ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -5496,51 +5528,69 @@ Shoulder, step and adjustment fasteners for guided mechanisms, positioning stati
 
 ### Cone, flat, dog or cup: choosing a set-screw tip
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/set-screw-tip-selection/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
-DESIGN & DIMENSIONS / 2 MIN READ
+DESIGN & DIMENSIONS / 3 MIN READ
 
 ### Cone, flat, dog or cup: choosing a set-screw tip
 
-The end of a set screw defines how it contacts the mating component. Choose the tip around the required contact and permitted surface change, not only the screw diameter.
+Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-02 Swiss-Type & CNC Turning
 
-IN THIS GUIDE Identify what the tip contacts Compare the actual end geometries Review marking and repeated adjustment Define engagement and acceptance RELATED PRODUCT Custom Set Screws & Grub Screws ↗
+IN THIS GUIDE Choose the contact mechanism first Work through an adjustable-stop example Separate location from frictional clamping Release a point and a verification plan RELATED PRODUCT Custom Set Screws & Grub Screws ↗
 
-#### Identify what the tip contacts
+#### Compare the four contact mechanisms
 
-Show the shaft, flat, groove or hole beneath the screw. A tip contacting a curved surface behaves differently from one engaging a prepared recess. Explain whether the connection is intended to clamp, locate, stop travel or provide an anti-rotation feature.
+Flat point Cone point Dog point Cup point Concept sketches only; point dimensions and mating features follow the approved drawing.
 
-#### Compare the actual end geometries
+Set-screw point selection: geometry and trade-offs Point form Contact When to review it What to verify
 
-Cone, flat, cylindrical dog and cup points are different contact forms. Dimension the functional features of the selected end and its relationship to the thread. Avoid treating a generic tip name as permission for any manufacturer-specific interpretation of the shape.
+Flat point A broad end face bears against a prepared flat or pad. Review for adjustments where a sharp biting edge is undesirable. It can still mark the mating surface. Check flat alignment, contact pressure and retention.
+
+Cone point A pointed end engages a suitable recess or indents the mating surface. Review for a defined setting where penetration or a mating recess is acceptable. Repeated relocation can damage the contact area. Define the cone and the mating feature.
+
+Dog point A cylindrical extension enters a prepared hole or slot. Review when the extension must locate or guide a component. Specify projection, diameter, clearance and available depth; do not let the point bottom unintentionally.
+
+Cup point The rim of a recessed end makes concentrated contact. Review for a setting where an indentation is acceptable. Do not assume an undamaged surface after removal, or infer a universal holding force from the point name.
+
+Compare the contact mechanism first; confirm capacity and installation on the actual joint.
+
+Download the point-selection worksheet (English)
+
+#### Choose the contact mechanism first
+
+A point name describes geometry, not the holding capacity of the completed joint. Use the comparison below to shortlist a contact mechanism. Then provide the mating material and hardness, the prepared flat, recess or hole, and the intended adjustment and release procedure. A flat point is worth reviewing when a sharp biting edge is undesirable; it does not guarantee a mark-free shaft. A cone or cup can indent the mating surface. A dog point needs a defined mating hole or slot.
+
+#### Work through an adjustable-stop example
+
+Consider a fixture stop that is reset between jobs and contacts a finished pad. This is a design exercise, not a delivered customer case. First decide whether indentation is acceptable. If it is not, review broad-face contact and the pad material before selecting a point. Check alignment throughout the adjustment travel: a nominally flat end can contact on an edge if the screw approaches at an angle.
 
 Working on this type of part? Explore our custom set screws & grub screws and include the functional requirements in your RFQ.
 
-#### Review marking and repeated adjustment
+#### Separate location from frictional clamping
 
-State whether the mating surface may be indented or scratched and whether the screw will be repositioned. Surface condition can become important when a setting is changed repeatedly. Tip material condition, finish and the mating material should be reviewed as part of the same contact system.
+If a cylindrical dog enters a hole, show its projection and the available hole depth. Decide whether that extension locates the part, guides its movement or transmits a defined load. Provide clearance for the intended motion and check the installation sequence. Do not assume that an extension in a hole is an approved shear connection or that tightening the screw establishes the required retention by itself.
 
-#### Define engagement and acceptance
+#### Release a point and a verification plan
 
-Thread engagement, drive access and installation requirements still matter on a headless part. Agree a dimensional check for the tip and any assembly test needed for the intended function. A correct tip outline alone does not establish a holding-force or torque rating.
+Show the thread, drive access, overall length, point dimensions, final material condition and surface treatment on the controlled drawing. Agree installation requirements and a functional trial on a representative mating component. Record permitted marking and the behavior after the required adjustment or service sequence. No general torque or holding-force value is supplied here: those depend on the actual joint.
 
 #### Specification example
 
-If a dog point enters a prepared hole, supply that hole geometry with the screw drawing. The cylindrical extension and the mating hole should be reviewed together rather than specified independently.
+Illustrative review outcome: a repeat-adjusted stop uses a prepared contact pad and a defined end face. The trial checks contact throughout travel, visible marking and retention of the setting under the agreed conditions. Dimensions, material, torque and loads remain project inputs; no test result is claimed.
 
 #### RFQ checklist
 
-Mating surface or recess
+Point form and controlled geometry
 
-Tip form and controlled dimensions
+Mating surface, recess or hole drawing
 
-Allowed surface marking
+Allowed marking and adjustment sequence
 
-Thread engagement and drive
+Thread engagement, access and installation requirements
 
-Functional acceptance requirement
+Dimensional and functional acceptance criteria
 
 Ready to discuss your part? Use the RFQ preparation checklist , then submit your drawing for review . For acceptance requirements, see quality planning .
 
@@ -5575,6 +5625,8 @@ By Theo Wan Read technical guide →
 Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ Material-Specific Heat Treatment ↗
 
 ##### Technical references
+
+Unbrako: set-screw point geometry
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -5674,8 +5726,6 @@ By Theo Wan Read technical guide →
 
 Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -5767,8 +5817,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Hot Heading & Forging ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -5862,8 +5910,6 @@ By Theo Wan Read technical guide →
 
 Secondary & Precision Operations ↗ Thread Rolling, Cutting & Tapping ↗ Coatings & Surface Treatments ↗
 
-##### Technical references
-
 ### Custom carriage bolts: specifying the square neck
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/carriage-bolt-square-neck/
 Last modified: 2026-10-29
@@ -5943,8 +5989,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Multi-Station Cold Heading ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 ### Eccentric screw drawings: making the offset unambiguous
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/eccentric-screw-datum-drawing/
@@ -6026,8 +6070,6 @@ By Theo Wan Read technical guide →
 
 Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -6108,19 +6150,17 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-The end of a set screw defines how it contacts the mating component. Choose the tip around the required contact and permitted surface change, not only the screw diameter.
+Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
 
 By Theo Wan Read technical guide →
 
 #### Related manufacturing topics
 
 Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -6226,8 +6266,6 @@ By Theo Wan Read technical guide →
 
 Swiss-Type & CNC Turning ↗ Cold Heading + Secondary Machining ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 ### Tapered screws: defining the mating seat
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
@@ -6307,8 +6345,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -6402,8 +6438,6 @@ By Theo Wan Read technical guide →
 
 Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -6495,8 +6529,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Cold Heading + Secondary Machining ↗ Swiss-Type & CNC Turning ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -6590,8 +6622,6 @@ By Theo Wan Read technical guide →
 
 Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 ### Rolled or cut threads: questions to resolve in the RFQ
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/rolled-vs-cut-thread-rfq/
 Last modified: 2026-10-29
@@ -6671,8 +6701,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Thread Rolling, Cutting & Tapping ↗ Material-Specific Heat Treatment ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -6772,8 +6800,6 @@ By Theo Wan Read technical guide →
 
 Secondary & Precision Operations ↗ Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -6865,8 +6891,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Secondary & Precision Operations ↗ Coatings & Surface Treatments ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -6972,8 +6996,6 @@ By Theo Wan Read technical guide →
 
 Coatings & Surface Treatments ↗ Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 ### What to specify for a zinc-flake coated custom screw
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
@@ -7053,8 +7075,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Coatings & Surface Treatments ↗ Material-Specific Heat Treatment ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -7160,8 +7180,6 @@ By Theo Wan Read technical guide →
 
 Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -7266,8 +7284,6 @@ By Theo Wan Read technical guide →
 
 Cleaning, Locking & Assembly ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 ### Preassembled washer screws: specify the complete set
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
@@ -7347,8 +7363,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Cleaning, Locking & Assembly ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -7446,7 +7460,7 @@ QUALITY 2 MIN READ
 
 ##### How to prepare an inspection plan for custom screws ↗
 
-An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.
+Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -7576,8 +7590,6 @@ By Theo Wan Read technical guide →
 
 CCD Vision & Dimensional Inspection ↗ Cleaning, Locking & Assembly ↗
 
-##### Technical references
-
 ### Sampling and 100% inspection: choosing the right coverage
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
@@ -7657,8 +7669,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 CCD Vision & Dimensional Inspection ↗ Cleaning, Locking & Assembly ↗
-
-##### Technical references
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -7968,8 +7978,6 @@ By Theo Wan Read technical guide →
 
 Swiss-Type & CNC Turning ↗ Cold Heading + Secondary Machining ↗ CCD Vision & Dimensional Inspection ↗
 
-##### Technical references
-
 ### Drawing revision control for repeat custom fastener orders
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
@@ -8050,8 +8058,6 @@ By Theo Wan Read technical guide →
 
 CCD Vision & Dimensional Inspection ↗ Cleaning, Locking & Assembly ↗
 
-##### Technical references
-
 ### Packaging and lot traceability for custom screw orders
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
@@ -8131,8 +8137,6 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗
-
-##### Technical references
 
 ### EV charging enclosures: why fastener specifications must follow the joint
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/ev-charging-enclosure-fasteners/

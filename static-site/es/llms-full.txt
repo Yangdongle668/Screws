@@ -332,7 +332,7 @@ Por Theo Wan Leer guía técnica → CALIDAD 2 LECTURA MÍNIMA
 
 ##### Cómo preparar un plan de inspección para tornillos personalizados ↗
 
-Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
+Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.
 
 Por Theo Wan Leer guía técnica → FABRICACIÓN 2 LECTURA MÍNIMA
 
@@ -354,7 +354,7 @@ El acero inoxidable describe varias familias de materiales. Especifique el grado
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -382,11 +382,11 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un tornillo ajustado manualmente debe ser accesible, cómodo de agarrar y compatible con el ajuste requerido. La textura de la cabeza por sí sola no define cómo funciona el mecanismo.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-El extremo de un tornillo de fijación define cómo hace contacto con el componente acoplado. Elija la punta según el contacto requerido y el cambio de superficie permitido, no solo el diámetro del tornillo.
+Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
@@ -609,7 +609,7 @@ Por Theo Wan Leer guía técnica → CALIDAD 2 LECTURA MÍNIMA
 
 ##### Cómo preparar un plan de inspección para tornillos personalizados ↗
 
-Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
+Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.
 
 Por Theo Wan Leer guía técnica → FABRICACIÓN 2 LECTURA MÍNIMA
 
@@ -631,7 +631,7 @@ El acero inoxidable describe varias familias de materiales. Especifique el grado
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -659,11 +659,11 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un tornillo ajustado manualmente debe ser accesible, cómodo de agarrar y compatible con el ajuste requerido. La textura de la cabeza por sí sola no define cómo funciona el mecanismo.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-El extremo de un tornillo de fijación define cómo hace contacto con el componente acoplado. Elija la punta según el contacto requerido y el cambio de superficie permitido, no solo el diámetro del tornillo.
+Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
@@ -902,6 +902,14 @@ Dos proyectos ilustrativos conectan las necesidades de montaje con la estructura
 
 Caja de módulo automotriz ↗ Pivote de automatización y dispositivo de ajuste ↗ Explorar estudios de diseño de aplicaciones ↗
 
+#### Fotografías de productos aportadas para este sitio
+
+Estas fotografías de referencia muestran formas visibles del producto. No establecen el grado del material, las dimensiones, los resultados de la inspección ni la aplicación entregada al cliente.
+
+Componentes roscados mixtos y formas de hombros en una mesa de exhibición
+
+Vástagos roscados, hombros y componentes tubulares fotografiados juntos
+
 #### Muestreo, utillaje y planificación de la producción.
 
 El plazo típico de producción de muestras de prototipos, incluidas las herramientas, es de aproximadamente 10–15 días. El cronograma confirmado sigue la revisión de los planos de ingeniería y el acuerdo sobre el material, la geometría, el tratamiento de la superficie y los requisitos de inspección. Aclare el hito inicial en la cotización. La entrega de producción repetida se cotiza por separado para la cantidad y la ruta aprobada.
@@ -1008,7 +1016,7 @@ Por Theo Wan Leer guía técnica → CALIDAD 2 LECTURA MÍNIMA
 
 ##### Cómo preparar un plan de inspección para tornillos personalizados ↗
 
-Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
+Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.
 
 Por Theo Wan Leer guía técnica → FABRICACIÓN 2 LECTURA MÍNIMA
 
@@ -1401,6 +1409,14 @@ Por Theo Wan Leer guía técnica →
 
 ¿Cómo se acuerda el alcance de la calidad? Defina las características críticas y las necesidades de documentación durante la revisión. Vea nuestro enfoque de planificación de calidad .
 
+#### Fotografías de productos aportadas para este sitio
+
+Estas fotografías de referencia muestran formas visibles del producto. No establecen el grado del material, las dimensiones, los resultados de la inspección ni la aplicación entregada al cliente.
+
+Componentes roscados mixtos y formas de hombros en una mesa de exhibición
+
+Vástagos roscados, hombros y componentes tubulares fotografiados juntos
+
 #### Comience con la interfaz que un tornillo estándar no puede satisfacer
 
 Utilice esta ruta cuando el requisito combine características o no se ajuste a una sola familia de productos. Identifique el motivo de la personalización: accionamiento inaccesible, cara de rodamiento inusual, roscas mixtas, paso interno o varios pasos de localización. Separe las interfaces esenciales de las dimensiones que se pueden discutir durante la revisión de la capacidad de fabricación.
@@ -1413,7 +1429,7 @@ Envíe un plano de ingeniería con unidades y revisión, o una muestra con un cr
 
 Revisar juntos las herramientas, el conformado o torneado, las características secundarias, la generación de roscas, el tratamiento y las comprobaciones finales. Un bajo costo de conformado inicial puede compensarse con un acabado adicional, mientras que un prototipo mecanizado puede no representar la ruta preferida de repetición de producción. Compare las cantidades de muestras y de pedidos recurrentes utilizando la misma especificación aprobada.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcionar el plano de ingeniería, material, acabado y montaje previsto. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -1464,7 +1480,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -1502,7 +1518,7 @@ Superficie de apoyo Textura de la superficie, cobertura del tratamiento y condic
 
 ¿El hombro y el rosca pueden tener diferentes diámetros? Sí, el hombro y el rosca se especifican de forma independiente. Revise la transición, la holgura de acoplamiento disponible y el acoplamiento efectivo de la rosca en la pieza de acoplamiento como una sola geometría.
 
-¿Están todos los tornillos de hombro rectificados? No. Los requisitos finales de tamaño, forma y superficie determinan la ruta de acabado. Revisar la necesidad de rectificado con tratamiento de distorsión y la condición de aceptación final.
+¿Todos los tornillos con hombro deben rectificarse? No. Los requisitos finales de tamaño, forma y superficie determinan la ruta de acabado. Revisar la necesidad de rectificado con tratamiento de distorsión y la condición de aceptación final.
 
 #### Siga un diseño de aplicación completo
 
@@ -1526,13 +1542,13 @@ La transición del hombro plano a la rosca del tornillo necesita suficiente espa
 
 El torneado CNC es una ruta para revisar cantidades de muestra y pasos complejos. Se puede evaluar el cabezal en frío seguido del mecanizado local para repetir la producción. El rectificado se selecciona cuando los requisitos de tamaño, forma o superficie lo justifican, en lugar de asumirse por el nombre del producto. La inspección CCD puede examinar perfiles accesibles; Las relaciones entre los datos geométricos, la rugosidad de la superficie y la aceptación de la inspección de roscas necesitan métodos propios y adecuados.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de hombro y escalonados, revise el mecanizado en frío + mecanizado secundario, el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver el diámetro y la longitud del hombro; rosca y transición; Opciones de precisión. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Incluya detalles del orificio de acoplamiento, dimensiones críticas del hombro, rugosidad de la superficie e inspección dimensional requerida. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -1572,7 +1588,7 @@ GUÍA DE INGENIERÍA
 
 ##### Cómo preparar un plan de inspección para tornillos personalizados ↗
 
-Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
+Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.
 
 #### ¿En qué se diferencia un tornillo de hombro de uno totalmente roscado?
 
@@ -1659,7 +1675,7 @@ Muestre el movimiento mínimo necesario para desenganchar la rosca coincidente y
 
 Acordar el control de retención previsto, el movimiento permitido y cualquier requisito de servicio repetido. El calibre del rosca confirma una característica diferente a la retención del panel. Confirme la condición después del recubrimiento y de cualquier preensamblaje, y mantenga la disposición de retención aprobada identificada con el plano de ingeniería del tornillo.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcionar el plano de ingeniería, material, acabado y montaje previsto. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -1754,7 +1770,7 @@ Especifique la forma exterior, la altura, la transición debajo del cabezal y la
 
 La geometría del cabezal puede afectar las herramientas y el trabajo secundario. Revise las formas de las esquinas, el acceso para mecanizado y cualquier requisito de superficie visible con la ruta propuesta. Apruebe el cabezal terminado tanto con el sobre de instalación como con la herramienta correspondiente; una silueta exterior correcta no establece el rendimiento de conducción.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcionar el plano de ingeniería, material, acabado y montaje previsto. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2053,7 +2069,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2115,13 +2131,13 @@ Un impulso especial desalienta la mudanza casual; no proporciona una calificaci�
 
 Evalúe el controlador previsto con muestras terminadas representativas. Después de cualquier recubrimiento, comprobar el encaje, el asiento y el comportamiento de montaje acordado. Defina la apariencia de la cabeza visible por separado de la aceptación del hueco funcional. El blindaje del perfil externo no demuestra el rendimiento del torque de receso; utilice la verificación funcional acordada y registre la especificación de la herramienta con la revisión de tornillo aprobada.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de seguridad y resistentes a manipulaciones, revise el cabezal en frío de estaciones múltiples, las operaciones secundarias y de precisión, los revestimientos y los tratamientos de superficie con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debería resolver las opciones de manejo; interfaz de herramienta; configuraciones de cabeza. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcione el dibujo de ingeniería del variador o la especificación de la herramienta correspondiente. La resistencia a la manipulación depende de la disponibilidad de la herramienta y del conjunto completo; No es seguridad absoluta. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2184,7 +2200,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2240,13 +2256,13 @@ Un orificio radial que cruza un orificio axial puede dejar un borde interno que 
 
 El examen de la vista puede comprobar las características externas adecuadas, pero no establece el paso interno completo. Acuerde una verificación adecuada del diámetro interior y cualquier prueba de presión, flujo o fuga con condiciones definidas. No deduzca una clasificación de presión del término tornillo hueco. La compatibilidad del material, la geometría del sellado y las condiciones de montaje deben abordarse antes de publicar un requisito funcional.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos huecos y de orificio pasante, revise el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión, la limpieza, el bloqueo y el ensamblaje con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debe resolver la geometría del orificio; relación pared e rosca; acabado interno. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Indique el diámetro y la profundidad del orificio, las rebabas permitidas, la limpieza y cualquier prueba de presión o fuga acordada. Un orificio pasante por sí solo no establece una clasificación de presión. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2321,7 +2337,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2383,13 +2399,13 @@ El recubrimiento se aplica a una pieza tridimensional, incluida la cara del roda
 
 Para una cubierta de equipo, revise la holgura de las bridas, el acceso al cabezal, el asiento y la condición visual acordada en las piezas representativas. Defina el diámetro de la brida, el espesor y cualquier requisito de planitud de forma independiente. Elija controles mecánicos y de recubrimiento según las especificaciones; una pantalla dimensional de la brida no establece la carga de sujeción ni el rendimiento contra la corrosión.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de brida personalizados, revise el encabezado en frío de estaciones múltiples, el encabezado en frío + mecanizado secundario, los revestimientos y los tratamientos de superficie con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería deberá resolver las dimensiones de las bridas; cara de apoyo; brida delgada o agrandada. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Incluya los requisitos del material de acoplamiento y de la cara del rodamiento. Una brida más grande no previene automáticamente el daño a la superficie. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2464,7 +2480,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2526,13 +2542,13 @@ Un extremo plano, redondeado u otro extremo definido por un dibujo de ingenierí
 
 Se debe verificar un ajustador de accesorio ilustrativo en todo su recorrido previsto, incluido el acceso en ambas posiciones finales. Inspeccionar las dimensiones de la rosca y de la empuñadura y acordar cualquier control funcional. El apriete manual es variable y no es un método de torsión calibrado; Cuando la carga de sujeción controlada sea importante, defina el proceso de montaje por separado del cabezal moleteado.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos moleteados y de ajuste, revise el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión, el laminado de roscas, el corte y el roscado con respecto al plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver el estilo de agarre; interfaz de ajuste; unidad opcional. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Especifique el agarre del cabezal, el recorrido de ajuste y cualquier método de bloqueo requerido. La empuñadura por sí sola no constituye un par de apriete calibrado. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2607,7 +2623,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2663,13 +2679,13 @@ Un tornillo de fijación utilizado como retenedor de eje tiene una cuestión de 
 
 Verifique la aceptación de la inspección de la rosca, la forma de la punta, la longitud total y la condición del material especificado. Un perfil de visión externo no puede por sí solo validar el comportamiento de sujeción del encaje o del conjunto. Cuando se agregue una punta modificada, un orificio lateral o una característica excéntrica, incluya su relación con el eje de la rosca y el método acordado para verificar esa relación.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de fijación y tornillos prisioneros personalizados, revise el torneado CNC y de tipo suizo, el laminado de roscas, el corte y roscado y el tratamiento térmico específico del material en comparación con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debería resolver las opciones de propinas; opciones de rosca; características adicionales. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Indique la geometría de la punta, la superficie de contacto, el accionamiento y la función esperada. El rendimiento de sujeción depende del conjunto completo. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2732,7 +2748,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2756,13 +2772,13 @@ Ajuste del perno con ranura en T: qué medir antes de realizar el pedido ↗ Có
 
 Muestre tanto la abertura de la ranura estrecha como la cavidad interna. Establezca si la cabeza entra por el extremo o gira hasta su posición. Verifique la holgura del cuello, el contacto antirrotación y el área de apoyo durante todo el ajuste, no solo en la posición final de sujeción.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para pernos con ranura en T personalizados, revise las operaciones de cabezal en frío, cabezal en caliente y forjado de estaciones múltiples, operaciones secundarias y de precisión con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver el ancho y espesor de la cabeza; cuello y orientación; vástago roscado. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcionar sección transversal de ranura y método de inserción; No seleccione únicamente por la apariencia de la cabeza. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2813,7 +2829,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2837,13 +2853,13 @@ Armellas para varillaje y elevación: diferentes especificaciones necesarias ↗
 
 Dimensione el orificio del ojo contra el pasador de acoplamiento, el ligamento restante y la articulación disponible. Muestra la dirección de la carga y la interferencia cercana a través del movimiento. Una argolla de varillaje y un componente de elevación aprobado tienen requisitos de verificación diferentes; La forma de los ojos no establece una carga de trabajo.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para cáncamos y pernos articulados personalizados, revise el mecanizado y forjado en caliente, el torneado CNC y de tipo suizo, la visión CCD y la inspección dimensional con el dibujo de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver la geometría del ojo o de la horquilla; transición del vástago; movimiento de asamblea. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Dirección de la fuerza estatal y uso previsto. Cualquier aplicación de elevación necesita un diseño con capacidad de carga aprobada y una verificación acordada, no simplemente una cabeza con forma de ojo. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2894,7 +2910,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2916,13 +2932,13 @@ Recubrimientos de tornillos de alta resistencia y revisión del riesgo de hidró
 
 Proporcione las direcciones de carga permitidas, el encaje de la rosca en la pieza acoplada, la disposición de los asientos y los requisitos de verificación aplicables. Las condiciones de carga angular e instalación pertenecen a la revisión del diseño. No libere un anillo personalizado para su elevación basándose únicamente en la conformidad dimensional; el diseño aprobado y la verificación trazable acordada son esenciales.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para diseños de cáncamos de elevación personalizados, revise el encabezado y forjado en caliente, el tratamiento térmico para materiales específicos, la visión CCD y la inspección dimensional con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver los problemas relacionados con el anillo y el vástago. dirección de carga; alcance de la verificación. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Suministre el caso de carga aprobado y la norma aplicable. La geometría personalizada no es una clasificación de carga de trabajo certificada; Úselo solo después de un diseño y verificación calificados. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -2973,7 +2989,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -2995,13 +3011,13 @@ Cómo dimensionar un perno en U personalizado ↗ Ajustes de hombro, clases de r
 
 Defina el ancho interior y el radio de curvatura contra el componente sujetado. Muestre el espaciado de las patas, el paralelismo y la longitud de la rosca disponible después de instalar el sillín y las tuercas. Revise el contacto del rodamiento y la condición del recubrimiento en la curva; El ancho total por sí solo no puede establecer una abrazadera que encaje correctamente.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para pernos en U personalizados, revise las operaciones secundarias y de precisión, laminación de roscas, corte y roscado, revestimientos y tratamientos de superficie con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debe resolver el perfil de curvatura; geometría de las piernas; hardware de acoplamiento. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcione la sección transversal sujeta y los requisitos de carga. El material, el proceso de plegado y el recubrimiento deben revisarse juntos. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3052,7 +3068,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3076,13 +3092,13 @@ Cómo especificar un tornillo a prueba de manipulaciones ↗ Ajuste del perno co
 
 Decide si el cuadrado se acciona con una llave o se guarda en un bolsillo. El primero necesita espacio libre para herramientas; el segundo necesita ajuste de bolsillo, acceso de inserción y contacto antirrotación controlado. Indique la forma de la esquina y la transición debajo de la cabeza de modo que una dimensión transversal aparentemente correcta no oculte una interferencia.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para pernos de cabeza cuadrada personalizados, revise las operaciones de cabezal en frío, cabezal en caliente y forjado de estaciones múltiples, operaciones secundarias y de precisión con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver el tamaño de la cabeza; ajuste capturado; configuración del vástago. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Muestre el acceso a la llave o el bolsillo de retención y las propiedades mecánicas requeridas. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3133,7 +3149,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3155,13 +3171,13 @@ Pernos de cuello cuadrado a medida: especificando el cuello cuadrado ↗ Diseño
 
 Verifique la profundidad y el ancho del cuello contra el orificio del panel y apílelo. El cuello debe acoplarse a la característica antirrotación prevista y al mismo tiempo permitir que la cara del rodamiento se asiente. Si el cuadrado se extiende demasiado hacia una parte inadecuada de la pila, el ajuste puede parecer completo antes de que se asiente la junta.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para pernos de carro personalizados, revise el mecanizado en frío, laminación de roscas, corte y roscado, revestimientos y tratamientos de superficie de estaciones múltiples con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería deberá resolver el cuello cuadrado; forma de cabeza; vástago e rosca. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcionar la geometría del orificio de acoplamiento y el material del cojinete; El compromiso del cuello es parte del diseño antirotación. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3212,7 +3228,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3236,13 +3252,13 @@ Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco �
 
 Defina el desplazamiento desde un eje de referencia con nombre y muestre la orientación de superficies planas, unidades o caras de contacto. Para un ajustador, describa el movimiento requerido y las paradas en el conjunto. Medir únicamente los diámetros exteriores no puede establecer la excentricidad o la relación angular que hace que el mecanismo funcione.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de cabeza excéntrica y angulada, revise el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión, la visión CCD y la inspección dimensional con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver los problemas de compensación y referencia. orientación de la cabeza; rango de ajuste. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcione una vista de ensamblaje, un esquema de referencia y el rango de ajuste requerido. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3293,7 +3309,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3317,13 +3333,13 @@ Espárragos de doble extremo: prevención de errores de montaje con roscas mixta
 
 Especifique cada extremo de forma independiente: diámetro, paso, dirección, rosca utilizable y compromiso. Dimensione la sección central y cualquier hombro del asiento. Si los extremos se parecen, acuerde un método de identificación e inclúyalo en la inspección y el embalaje para evitar invertir la pieza durante el montaje.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para pernos de doble extremo personalizados, revise el torneado CNC y de tipo suizo, el laminado de roscas, el corte y roscado y el tratamiento térmico específico del material en comparación con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debe resolver los extremos de roscas mixtos; vástago central; Orientación del montaje. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Indique ambas roscas coincidentes, el asiento del hombro y la secuencia de ensamblaje. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3392,7 +3408,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3416,13 +3432,13 @@ Calibres de rosca y aceptación de tornillos personalizados ↗ Espárragos de d
 
 Relacione el paso con el ajuste previsto, teniendo en cuenta el ajuste de la rosca coincidente y el enganche disponible. El paso fino no establece por sí solo la precisión del posicionamiento ni la resistencia a las vibraciones. Indique la aceptación de la geometría de contacto, el recorrido, el bloqueo y la inspección de roscas como requisitos separados.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de paso fino y extrafino, revise el laminado de roscas, el corte y roscado, el torneado CNC y de tipo suizo, la visión CCD y la inspección dimensional con los planos de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión de los planos de ingeniería debe resolver ejemplos de tono; ajuste y compromiso; acción de ajuste. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 La brea fina por sí sola no garantiza resistencia al aflojamiento. Especifique los requisitos de bloqueo y vibración por separado. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3491,7 +3507,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3515,13 +3531,13 @@ Hilos enrollados o cortados: dudas a resolver en la RFQ ↗ Espárragos de doble
 
 Especifique el paso, la forma del flanco, los diámetros mayor y menor, la dirección y cualquier requisito de conicidad o avance. Una etiqueta como trapezoidal o contrafuerte no es un dibujo de ingeniería completo. Acuerde el componente de acoplamiento y el enfoque de calibre antes de la producción, especialmente cuando un calibre estándar no sea adecuado para el perfil personalizado.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para perfiles de rosca especiales y compuestos, revise el laminado de roscas, el corte y roscado, el torneado CNC y de tipo suizo, la visión CCD y la inspección dimensional con los planos de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería deberá resolver la definición del perfil; movimiento y carga; múltiples zonas de rosca. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 El autobloqueo depende de la geometría, la fricción y las condiciones de funcionamiento. No asuma que todas las roscas trapezoidales o de contrafuerte son autoblocantes. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3584,7 +3600,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3606,13 +3622,13 @@ Cómo especificar un tornillo a prueba de manipulaciones ↗ Ajuste del perno co
 
 Muestre el orificio piloto, el material del sustrato, el espesor y el espacio disponible más allá de la junta. Una punta cortada o ranurada cambia la geometría local pero no garantiza una instalación libre de astillas ni evita la penetración. Acordar una prueba de montaje y definir la proyección de punta permitida y la condición de escombros.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos autorroscantes de punta modificada, revise el encabezado en frío de estaciones múltiples, operaciones secundarias y de precisión, tratamiento térmico específico del material con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver la punta y el relieve; material de apareamiento; requisito de instalación. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Las puntas de corte pueden generar virutas. El control de escombros y avance debe demostrarse en el montaje real. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3675,7 +3691,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3697,13 +3713,13 @@ Tornillos de mango reducido: por qué hay que prestar atención a las transicion
 
 Dimensione la sección reducida y ambas transiciones con respecto a las superficies funcionales. Explique si proporciona holgura, un comportamiento elástico particular o una característica de ensamblaje. Un vástago más pequeño cambia la trayectoria de la carga; La geometría por sí sola no puede fundamentar una afirmación de fatiga o reducción de tensiones sin la evaluación de diseño pertinente.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de vástago reducido y variable, revise el torneado CNC y tipo suizo, el mecanizado en frío + mecanizado secundario, la visión CCD y la inspección dimensional con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería deberá resolver el cambio de sección; intención funcional; verificación mecánica. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Un mango reducido no evita automáticamente el agrietamiento. Suministrar requisitos de carga y fatiga para revisión de diseño. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3754,7 +3770,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3778,13 +3794,13 @@ Tornillos cónicos: definición del asiento de acoplamiento ↗ Dibujos de torni
 
 Indique la definición del cono, el punto de referencia, la longitud de contacto y la geometría de acoplamiento. Muestre dónde debe asentarse la pieza y qué dimensión controla esa posición. Un cono utilizado para la ubicación no proporciona sellado automáticamente; cualquier requisito de sellado necesita superficies, condiciones y verificación definidas.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos cónicos y de vástago cónico, revise el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión, la visión CCD y la inspección dimensional con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debe resolver la definición del cono; superficie de apareamiento; relación de rosca. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 El rendimiento del sellado requiere un diseño y una verificación combinados; un cono por sí solo no establece la estanqueidad. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3835,7 +3851,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3859,13 +3875,13 @@ Pasadores de localización integrales: puntos de referencia de pasador y tornill
 
 Muestre el diámetro, la proyección y la posición del pasador en relación con el punto de referencia de ubicación, no solo con el contorno general. Revise el recorrido de montaje para que el pasador pueda encajar antes de que el tornillo alcance su posición de asiento. La función de localización y la retención del rosca necesitan controles de aceptación independientes.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos con pasadores de ubicación integrales, revise el torneado tipo suizo y CNC, las operaciones secundarias y de precisión, la visión CCD y la inspección dimensional con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debe resolver la ubicación de los pasadores; geometría del pasador; relación de características. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcione el orificio de acoplamiento y la dirección de montaje. Confirme qué característica ubica y cuál proporciona la abrazadera. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3916,7 +3932,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -3938,13 +3954,13 @@ Torneado en frío o CNC: elegir una ruta de tornillo personalizada ↗ Tornillos
 
 Defina las roscas en cada extremo, las longitudes de los hombros y el eje de referencia. Muestre qué cara se asienta primero y cómo se ensambla la segunda conexión. Verifique si apretar un extremo cambia la posición o el compromiso en el otro e identifique la característica de apriete deseada.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de hombro de doble extremo, revise el torneado CNC y tipo suizo, el mecanizado en frío + mecanizado secundario, el laminado de roscas, el corte y el roscado con respecto al plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debe resolver dos zonas de subprocesos; hombro central; control de datos. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Incluya ambos componentes coincidentes y explique qué extremo se instala primero. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -3995,7 +4011,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -4019,13 +4035,13 @@ Orificios cruzados en tornillos: planificación del control e inspección de reb
 
 Especifique el diámetro del orificio y su posición axial y angular a partir de un dato funcional. Explique si se necesita un pasador, un alambre de bloqueo o un conducto de flujo. Inspeccione la intersección y el estado del borde según sea necesario; una entrada de orificio externo no establece que la salida interna esté libre de rebabas dañinas.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos con perforación cruzada y con orificios de cabeza, revise Operaciones secundarias y de precisión, torneado CNC y tipo suizo, limpieza, bloqueo y ensamblaje con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería debe resolver la posición del agujero; condición de borde; interfaz funcional. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Indique el método de retención previsto y los requisitos de carga; un orificio transversal por sí solo no establece una retención segura. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -4076,7 +4092,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -4100,13 +4116,13 @@ Tornillos de varios pasos: control de la cadena de dimensiones axiales ↗ Muest
 
 Identifique qué paso ubica cada componente de acoplamiento. Considere la pila axial total y evite dejar la distancia de control como una acumulación involuntaria de dimensiones no relacionadas. Acordar los diámetros, descentramiento o relación coaxial realmente necesarios para el montaje y el estado en el que se aceptan.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos de varios pasos y de múltiples hombros, revise el mecanizado en frío + mecanizado secundario, el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión con el dibujo de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del dibujo de ingeniería debe resolver la secuencia de pasos; relaciones de características; terminar la secuencia. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Utilice un dibujo de ingeniería basado en datos de referencia e identifique las superficies que realmente ubican o soportan la carga. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -4157,7 +4173,7 @@ Se pueden discutir los requisitos de acero al carbono, 10B21, SUS304/316, alumin
 
 Defina la condición del material, el recubrimiento, las dimensiones críticas y los registros de inspección requeridos. Una familia de productos nombrada no implica una carga, presión o clasificación de rendimiento probadas.
 
-Comparar familias de materiales ↗ Especificar un sistema de superficie ↗ Acordar el alcance de la inspección ↗
+Comparar familias de materiales ↗ Definir el sistema de acabado ↗ Acordar el alcance de inspección ↗
 
 OPCIONES DE PROCESO RELEVANTES
 
@@ -4179,13 +4195,13 @@ Pernos de remachado personalizados: especifique el panel y el sujetador ↗ Ajus
 
 Suministre el material del panel, el espesor, la preparación de los orificios y la dirección de instalación con el plano de ingeniería del sujetador. El elemento de retención y el panel se deforman como un sistema. Definir los controles de instalación y retención requeridos; una rosca de tornillo correcta no establece resistencia a la extracción o rotación en el panel.
 
-#### Revisar la ruta antes de fijar la cotización.
+#### Acordar el proceso antes de cerrar la oferta
 
 Para tornillos y pernos de remachado personalizados, revise el cabezal en frío de estaciones múltiples, las operaciones secundarias y de precisión, la visión CCD y la inspección dimensional con el plano de ingeniería y la cantidad. Identifique qué características se pueden producir en la forma inicial y cuáles requieren una configuración separada. Un cambio en un hombro, orificio, transmisión o rosca funcional puede cambiar la ruta propuesta, así como el esfuerzo de inspección.
 
 La revisión del plano de ingeniería deberá resolver la geometría de retención; condición del panel; validación de la instalación. Mantenga la condición del material y el margen de acabado adjunto a esos requisitos. Defina la condición de aceptación para características críticas y apruebe cualquier cambio dimensional propuesto antes de comparar muestras con el ensamblaje original.
 
-#### Desde planos de ingeniería hasta muestras aprobadas
+#### Del plano a la aprobación de muestras
 
 Proporcionar las especificaciones del panel y las pruebas de aceptación. No asuma que una característica personalizada comparte las calificaciones de una pieza de cierre estándar de marca. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
@@ -4324,7 +4340,7 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -4332,7 +4348,7 @@ Por Theo Wan Leer guía técnica → CALIDAD 2 LECTURA MÍNIMA
 
 ##### Cómo preparar un plan de inspección para tornillos personalizados ↗
 
-Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
+Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.
 
 Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 
@@ -4418,7 +4434,7 @@ El hombro, el rosca y la cabeza trabajan juntos como una sola geometría. Un dib
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -4612,47 +4628,71 @@ sujetadores definidos por planos de ingeniería para carcasas compactas, mecanis
 
 ### Cómo preparar un plan de inspección para tornillos personalizados
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-screw-inspection-plan/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
 CALIDAD / 2 LECTURA MÍNIMA
 
 ### Cómo preparar un plan de inspección para tornillos personalizados
 
-Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
+Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 Tornillos de hombro y escalonados
+Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 · Actualizado 2026-11-02 Tornillos de hombro y escalonados
 
-EN ESTA GUÍA Utilice el dibujo de ingeniería actual. Identificar características críticas Acordar métodos y registros Aprobación de muestra del plan Construir una matriz de nivel de característica Planificar la inspección en la etapa que proporciona evidencia. Controlar revisiones y resultados no conformes. PRODUCTO RELACIONADO Tornillos de hombro y escalón ↗
+EN ESTA GUÍA Comience con el requisito publicado Utilice el ejemplo sin copiar un alcance de prueba a ciegas Definir cobertura y reacción antes de la producción. Registre el resultado y la decisión de liberación. PRODUCTO RELACIONADO Tornillos de hombro y escalón ↗
 
-#### Utilice el dibujo de ingeniería actual.
+#### Ejemplo de plan de inspección
 
-Vincule el plan de inspección con el número de dibujo de ingeniería y la revisión. Resuelva notas poco claras y requisitos contradictorios antes de que se publique la pieza.
+Filas de planificación ilustrativas, resultados no medidos. Inserte los requisitos de dibujo reales y la cobertura de inspección acordada antes del lanzamiento.
 
-#### Identificar características críticas
+Ejemplo de plan de inspección con tornillo de hombro Característica Requisito que debe indicarse evidencia adecuada Alcance y registro
 
-Enumerar las dimensiones, requisitos de rosca, características de material y acabado a verificar. Distinga las comprobaciones dimensionales de las comprobaciones funcionales del conjunto.
+C1 · Diámetro del hombro Límites de dibujo aprobados; condición final suministrada Medición de diámetro calibrada; visión validada sólo si es adecuada Muestra acordada o alcance de cada pieza; registrar los valores reales o el resultado de detección aprobado
+
+C2 · Longitud del hombro Distancia desde la cara del asiento funcional Medición de longitud desde la cara especificada, con una configuración documentada Vincular el resultado a la revisión del dibujo y al lote.
+
+C3 · Aceptación del hilo Sistema de rosca, paso, clase y longitud útil. Calibres apropiados más una verificación separada de la longitud utilizable cuando sea necesario Registrar la identidad del medidor y el resultado de aceptación acordado.
+
+C4 · Desviación geométrica, si se especifica Dato, superficie controlada y tolerancia en el dibujo. Una configuración referenciada a datos que mide la relación especificada Un resultado de cámara de solo diámetro no reemplaza esta verificación
+
+C5 · Material y acabado Requisitos de grado, condición y tratamiento ordenados Documentos acordados y controles físicos o de revestimiento aplicables. Mantenga distinguibles los certificados de existencias, los resultados de las piezas finales y los registros de recubrimiento
+
+C6 · Función de montaje Revisión de piezas de acoplamiento aprobadas y criterios funcionales. Prueba de montaje controlada para movimiento, asiento o retención. Registre la referencia de emparejamiento, el resultado, las desviaciones y el aprobador.
+
+Descargue el ejemplo de plan de inspección (inglés) · Descargue una hoja de trabajo de inspección en blanco (inglés)
+
+#### Comience con el requisito publicado
+
+Registre el número de pieza, revisión del dibujo, pedido o lote, condición del material y acabado suministrado. Resuelva dimensiones conflictivas y notas indefinidas antes de seleccionar el equipo. La matriz de ejemplo utiliza deliberadamente referencias de dibujos en lugar de límites de producción inventados. Reemplace esas referencias con los requisitos aprobados para la pieza real.
+
+#### Utilice el ejemplo sin copiar un alcance de prueba a ciegas
+
+Un diámetro de hombro, una rosca y una propiedad del material requieren pruebas diferentes. Una cámara puede visualizar un perfil visible después de la validación, pero no establece la resistencia del material ni todas las relaciones de referencia. Un calibre de hilo no establece la longitud del hombro. Mantenga estas características en filas separadas incluso cuando una estación de producción realice varias comprobaciones.
 
 ¿Trabajando en este tipo de pieza? Explora nuestro tornillos de hombro y escalón e incluya los requisitos funcionales en su RFQ.
 
-#### Acordar métodos y registros
+#### Definir cobertura y reacción antes de la producción.
 
-Analice los métodos de medición, los requisitos de muestreo y los informes requeridos. Se deben acordar criterios de idoneidad y aceptación del equipo para las características reales involucradas.
+Para cada fila, acuerde la cobertura del primer artículo, de la muestra o de cada pieza y el punto de la ruta donde se mide la aceptación. No se puede aplicar un control destructivo a cada pieza entregada del mismo modo que una pantalla dimensional. Defina cómo se identifica, segrega y revisa un resultado fallido o dudoso, incluido qué trabajo o envío debe detenerse en espera de su disposición.
 
-#### Aprobación de muestra del plan
+#### Registre el resultado y la decisión de liberación.
 
-Cuando sea necesario, confirme cómo se identificarán, revisarán y aprobarán las muestras. Registre los cambios aprobados para que los pedidos repetidos se refieran a la misma especificación.
+Utilice la hoja de trabajo en blanco para capturar los requisitos, el valor real o el resultado de aprobación/rechazo acordado, la referencia del instrumento o método, el inspector, la fecha y la disposición. Un informe de muestra debe identificar la pieza coincidente utilizada para cualquier prueba de ensamblaje. Cuando el dibujo o el acabado cambien, revise las filas afectadas y conserve la revisión anterior en lugar de editar silenciosamente un resultado antiguo.
 
-#### Construir una matriz de nivel de característica
+#### Ejemplo de especificación
 
-Para cada característica crítica acordada, enumere la referencia del dibujo de ingeniería, los requisitos, el método, la frecuencia de inspección y el registro conservado. Separe una dimensión externa, un ajuste de rosca, una propiedad del material y una característica del revestimiento. Nombrar una máquina no define cuál de ellas verifica. Establezca la cobertura antes del pedido para que la compra y la calidad utilicen la misma base de aceptación.
+Solo ejemplo resuelto: se verifica el tamaño del hombro externo después del acabado, mientras que la aceptación del hilo utiliza los calibres especificados y una prueba de ensamblaje verifica que la placa móvil no esté sujeta. El ejemplo establece campos de registro, no límites numéricos, mediciones completadas o un resultado de inspección ZUFEK.
 
-#### Planificar la inspección en la etapa que proporciona evidencia.
+#### Lista de verificación de solicitudes de presupuesto
 
-Un borde interno puede volverse menos accesible después del ensamblaje, mientras que un ajuste puede necesitar aceptación después del acabado. Acordar cualquier control intermedio así como los controles finales. Las pruebas destructivas no pueden inspeccionar todas las piezas suministradas de la misma manera que una pantalla dimensional externa; definir su muestra y trazabilidad por separado.
+Pieza, revisión de planos e identidad de lote.
 
-#### Controlar revisiones y resultados no conformes.
+Característica y requisito de aceptación aprobado.
 
-Identificar con el lote el plano de ingeniería y la revisión del programa de inspección. Definir cómo se segregan las piezas rechazadas y quién decide su disposición. Cuando cambia una dimensión o un proceso de superficie, revise los criterios de inspección afectados en lugar de asumir que el programa anterior sigue siendo adecuado. Mantenga las decisiones de aprobación de muestras disponibles para pedidos repetidos.
+Método, etapa y cobertura.
+
+Resultado real y registro rastreable.
+
+Disposición de no conformidades y aprobación de versiones.
 
 ¿Listo para discutir tu parte? Utilice el Lista de verificación de preparación de RFQ , entonces envíe su dibujo de ingeniería para su revisión . Para conocer los requisitos de aceptación, consulte planificación de calidad .
 
@@ -4842,7 +4882,7 @@ Un revestimiento pertenece al plano dimensional. El ajuste final debe evaluarse 
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -4972,13 +5012,13 @@ Carpintero 17-4PH datos
 
 BSSA: resistencia al irritamiento de los aceros inoxidables
 
-### Ajustes de hombro, clases de rosca y cuestiones de rectificado
+### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
 
-### Ajustes de hombro, clases de rosca y cuestiones de rectificado
+### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5146,7 +5186,7 @@ Una conexión a presión depende del panel, el orificio y el proceso de instalac
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5155,8 +5195,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Estampación en frío multiestación ↗ Operaciones secundarias y de precisión ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -5255,8 +5293,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Tipo suizo y CNC Girando ↗ Operaciones secundarias y de precisión ↗ Limpieza, bloqueo y premontaje ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -5362,8 +5398,6 @@ Por Theo Wan Leer guía técnica →
 
 Estampación en frío multiestación ↗ Rodamiento en frío + mecanizado secundario ↗ Recubrimientos y tratamientos superficiales ↗
 
-##### Referencias técnicas
-
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -5446,7 +5480,7 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5456,19 +5490,17 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-El extremo de un tornillo de fijación define cómo hace contacto con el componente acoplado. Elija la punta según el contacto requerido y el cambio de superficie permitido, no solo el diámetro del tornillo.
+Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
 
 Por Theo Wan Leer guía técnica →
 
 #### Temas de fabricación relacionados
 
 Tipo suizo y CNC Girando ↗ Operaciones secundarias y de precisión ↗ Laminado, corte y roscado de rosca ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -5496,51 +5528,69 @@ Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de p
 
 ### Cono, plano, perro o copa: elegir una punta de tornillo prisionero
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/set-screw-tip-selection/
-Last modified: 2026-10-29
+Last modified: 2026-11-02
 
-DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
+DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
 
 ### Cono, plano, perro o copa: elegir una punta de tornillo prisionero
 
-El extremo de un tornillo de fijación define cómo hace contacto con el componente acoplado. Elija la punta según el contacto requerido y el cambio de superficie permitido, no solo el diámetro del tornillo.
+Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 Torneado de cabezal móvil y CNC
+Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 · Actualizado 2026-11-02 Torneado de cabezal móvil y CNC
 
-EN ESTA GUÍA Identificar con qué contacta la punta Comparar las geometrías finales reales Revisión de marcado y ajuste repetido. Definir compromiso y aceptación PRODUCTO RELACIONADO Tornillos prisioneros y de fijación a medida ↗
+EN ESTA GUÍA Elija primero el mecanismo de contacto Trabaje con un ejemplo de tope ajustable Ubicación separada de la sujeción por fricción Liberar un punto y un plan de verificación PRODUCTO RELACIONADO Tornillos prisioneros y de fijación a medida ↗
 
-#### Identificar con qué contacta la punta
+#### Comparar los cuatro tipos de contacto
 
-Muestre el eje, la parte plana, la ranura o el orificio debajo del tornillo. Una punta que entra en contacto con una superficie curva se comporta de manera diferente a una que se acopla a un hueco preparado. Explique si la conexión está destinada a sujetar, ubicar, detener el recorrido o proporcionar una función antirrotación.
+Punta plana Punta cónica Punta cilíndrica Punta de copa Esquemas de las puntas; sus dimensiones y las superficies complementarias se definen en el plano aprobado.
 
-#### Comparar las geometrías finales reales
+Selección del punto de ajuste del tornillo: geometría y compensaciones forma de punto Contacto Cuando revisarlo Que verificar
 
-Las puntas cónicas, planas, cilíndricas y de copa son formas de contacto diferentes. Dimensionar las características funcionales del extremo seleccionado y su relación con el rosca. Evite tratar un nombre de punta genérico como un permiso para cualquier interpretación de la forma específica del fabricante.
+Punta plana Una cara de extremo ancha se apoya contra una superficie plana o almohadilla preparada. Revise los ajustes en los que no es deseable un borde cortante afilado. Todavía puede marcar la superficie de contacto. Verifique la alineación plana, la presión de contacto y la retención.
+
+Punta cónica Un extremo puntiagudo encaja en un hueco adecuado o indenta la superficie de contacto. Revise para encontrar un entorno definido donde la penetración o un hueco de acoplamiento sea aceptable. La reubicación repetida puede dañar el área de contacto. Defina el cono y la característica de acoplamiento.
+
+Punta cilíndrica Una extensión cilíndrica ingresa a un orificio o ranura preparado. Revise cuándo la extensión debe localizar o guiar un componente. Especificar proyección, diámetro, espacio libre y profundidad disponible; no deje que la punta toque fondo sin querer.
+
+Punta de copa El borde de un extremo empotrado hace un contacto concentrado. Revise para encontrar una configuración donde una sangría sea aceptable. No asuma que la superficie no está dañada después de la remoción ni deduzca una fuerza de sujeción universal del nombre del punto.
+
+Compare primero el mecanismo de contacto; Confirme la capacidad y la instalación en la junta real.
+
+Descargue la hoja de trabajo de selección de puntos (inglés)
+
+#### Elija primero el mecanismo de contacto
+
+La forma de la punta describe la geometría, no la capacidad de retención de la unión montada. Seleccione primero el tipo de contacto con la tabla. Indique después material y dureza de la pieza complementaria, el plano, alojamiento o taladro preparado y la secuencia de ajuste y desmontaje. Una punta plana puede ser adecuada si no se desea una arista que penetre, pero no garantiza ausencia de marcas. Las puntas cónica y de copa pueden producir huellas; la cilíndrica necesita un taladro o una ranura definidos.
+
+#### Trabaje con un ejemplo de tope ajustable
+
+Considere un tope de utillaje que se reajusta entre trabajos y apoya sobre una pastilla mecanizada. Es un ejercicio de diseño, no un caso entregado a un cliente. Decida primero si se permiten huellas. Si no, evalúe el contacto plano y el material de la pastilla antes de elegir la punta. Compruebe la alineación durante todo el recorrido: una punta nominalmente plana puede apoyar solo por una arista si el tornillo se aproxima inclinado.
 
 ¿Trabajando en este tipo de pieza? Explora nuestro tornillos de fijación y tornillos prisioneros personalizados e incluya los requisitos funcionales en su RFQ.
 
-#### Revisión de marcado y ajuste repetido.
+#### Ubicación separada de la sujeción por fricción
 
-Indique si la superficie de contacto puede tener mellas o rayones y si se reposicionará el tornillo. La condición de la superficie puede volverse importante cuando una configuración se cambia repetidamente. La condición del material de la punta, el acabado y el material de acoplamiento deben revisarse como parte del mismo sistema de contacto.
+Si la prolongación cilíndrica entra en un taladro, indique cuánto sobresale y qué profundidad útil hay disponible. Defina si posiciona la pieza, guía su movimiento o transmite una carga especificada. Deje la holgura necesaria y compruebe la secuencia de montaje. La entrada de una prolongación en un taladro no demuestra una conexión validada a cortadura; apretar el tornillo tampoco acredita por sí solo la retención exigida.
 
-#### Definir compromiso y aceptación
+#### Liberar un punto y un plan de verificación
 
-el encaje de la rosca en la pieza acoplada, el acceso a la unidad y los requisitos de instalación siguen siendo importantes en una pieza de tornillo sin cabeza. Acuerde una verificación dimensional de la punta y cualquier prueba de ensamblaje necesaria para la función prevista. Un contorno correcto de la punta por sí solo no establece una fuerza de sujeción o un índice de torsión.
+El plano controlado debe definir rosca, acceso de herramienta, longitud total, dimensiones de la punta, estado final del material y acabado. Acuerde las condiciones de montaje y una prueba funcional con una pieza complementaria representativa. Registre las marcas permitidas y el comportamiento tras los ajustes o intervenciones exigidos. No se ofrecen pares de apriete ni fuerzas de retención universales: dependen de la unión real.
 
 #### Ejemplo de especificación
 
-Si una punta de perro entra en un orificio preparado, proporcione la geometría del orificio con el plano de ingeniería del tornillo. La extensión cilíndrica y el orificio correspondiente deben revisarse juntos en lugar de especificarse de forma independiente.
+Resultado ilustrativo de la revisión: un tope con ajuste repetido utiliza una almohadilla de contacto preparada y una cara final definida. La prueba comprueba el contacto durante todo el recorrido, la señalización visible y el mantenimiento del entorno en las condiciones acordadas. Las dimensiones, el material, el par y las cargas siguen siendo datos del proyecto; no se reclama ningún resultado de la prueba.
 
 #### Lista de verificación de solicitudes de presupuesto
 
-Superficie de contacto o hueco
+Forma puntual y geometría controlada.
 
-Forma de punta y dimensiones controladas.
+Plano de superficie de contacto, hueco o agujero
 
-Marcado de superficie permitido
+Secuencia permitida de marcado y ajuste.
 
-Enganche de rosca en la pieza de acoplamiento y accionamiento.
+Requisitos de instalación, acceso y conexión de roscas.
 
-Requisito de aceptación funcional
+Criterios de aceptación dimensional y funcional.
 
 ¿Listo para discutir tu parte? Utilice el Lista de verificación de preparación de RFQ , entonces envíe su dibujo de ingeniería para su revisión . Para conocer los requisitos de aceptación, consulte planificación de calidad .
 
@@ -5564,7 +5614,7 @@ Diferentes roscas en los dos extremos pueden resolver un problema de interfaz y 
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5575,6 +5625,8 @@ Por Theo Wan Leer guía técnica →
 Tipo suizo y CNC Girando ↗ Laminado, corte y roscado de rosca ↗ Tratamiento térmico según el material ↗
 
 ##### Referencias técnicas
+
+Unbrako: geometría de la punta del tornillo de fijación
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -5658,7 +5710,7 @@ Una conexión a presión depende del panel, el orificio y el proceso de instalac
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5673,8 +5725,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Estampación en frío multiestación ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -5746,7 +5796,7 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5767,8 +5817,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Recalcado y forja en caliente ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -5840,7 +5888,7 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5861,8 +5909,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Operaciones secundarias y de precisión ↗ Laminado, corte y roscado de rosca ↗ Recubrimientos y tratamientos superficiales ↗
-
-##### Referencias técnicas
 
 ### Pernos de cuello cuadrado a medida: especificando el cuello cuadrado
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/carriage-bolt-square-neck/
@@ -5922,7 +5968,7 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -5943,8 +5989,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Estampación en frío multiestación ↗ Laminado, corte y roscado de rosca ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 ### Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/eccentric-screw-datum-drawing/
@@ -6016,7 +6060,7 @@ La combinación de un pequeño pasador de ubicación con un tornillo puede reduc
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -6025,8 +6069,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Tipo suizo y CNC Girando ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -6098,7 +6140,7 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -6108,19 +6150,17 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un tornillo ajustado manualmente debe ser accesible, cómodo de agarrar y compatible con el ajuste requerido. La textura de la cabeza por sí sola no define cómo funciona el mecanismo.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-El extremo de un tornillo de fijación define cómo hace contacto con el componente acoplado. Elija la punta según el contacto requerido y el cambio de superficie permitido, no solo el diámetro del tornillo.
+Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
 
 Por Theo Wan Leer guía técnica →
 
 #### Temas de fabricación relacionados
 
 Tipo suizo y CNC Girando ↗ Laminado, corte y roscado de rosca ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -6226,8 +6266,6 @@ Por Theo Wan Leer guía técnica →
 
 Tipo suizo y CNC Girando ↗ Rodamiento en frío + mecanizado secundario ↗ Inspección dimensional y visión CCD ↗
 
-##### Referencias técnicas
-
 ### Tornillos cónicos: definición del asiento de acoplamiento
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
@@ -6298,7 +6336,7 @@ La combinación de un pequeño pasador de ubicación con un tornillo puede reduc
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -6307,8 +6345,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Tipo suizo y CNC Girando ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -6392,7 +6428,7 @@ Un cono trabaja contra una superficie correspondiente. Su ángulo, posición axi
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -6401,8 +6437,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Tipo suizo y CNC Girando ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -6496,8 +6530,6 @@ Por Theo Wan Leer guía técnica →
 
 Rodamiento en frío + mecanizado secundario ↗ Tipo suizo y CNC Girando ↗ Inspección dimensional y visión CCD ↗
 
-##### Referencias técnicas
-
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -6574,7 +6606,7 @@ Un cabezal en T debe entrar, girar o deslizarse dentro de la ranura prevista man
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -6589,8 +6621,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Estampación en frío multiestación ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 ### Hilos enrollados o cortados: cuestiones a resolver en la RFQ
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/rolled-vs-cut-thread-rfq/
@@ -6671,8 +6701,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Laminado, corte y roscado de rosca ↗ Tratamiento térmico según el material ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -6762,7 +6790,7 @@ Elija la secuencia del proceso de fabricación en cuanto a geometría, cantidad,
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -6771,8 +6799,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Operaciones secundarias y de precisión ↗ Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -6850,7 +6876,7 @@ Un sujetador de acero de alta resistencia necesita una decisión de recubrimient
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -6865,8 +6891,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Operaciones secundarias y de precisión ↗ Recubrimientos y tratamientos superficiales ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -6972,8 +6996,6 @@ Por Theo Wan Leer guía técnica →
 
 Recubrimientos y tratamientos superficiales ↗ Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
 
-##### Referencias técnicas
-
 ### Qué especificar para un tornillo personalizado recubierto con escamas de zinc
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
@@ -7053,8 +7075,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Recubrimientos y tratamientos superficiales ↗ Tratamiento térmico según el material ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -7160,8 +7180,6 @@ Por Theo Wan Leer guía técnica →
 
 Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
 
-##### Referencias técnicas
-
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -7266,8 +7284,6 @@ Por Theo Wan Leer guía técnica →
 
 Limpieza, bloqueo y premontaje ↗ Laminado, corte y roscado de rosca ↗ Inspección dimensional y visión CCD ↗
 
-##### Referencias técnicas
-
 ### Tornillos arandela premontados: especificar el juego completo
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
@@ -7347,8 +7363,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Limpieza, bloqueo y premontaje ↗ Laminado, corte y roscado de rosca ↗ Inspección dimensional y visión CCD ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -7446,11 +7460,11 @@ CALIDAD 2 LECTURA MÍNIMA
 
 ##### Cómo preparar un plan de inspección para tornillos personalizados ↗
 
-Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.
+Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
-##### Ajustes de hombro, clases de rosca y cuestiones de rectificado ↗
+##### Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar ↗
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
@@ -7576,8 +7590,6 @@ Por Theo Wan Leer guía técnica →
 
 Inspección dimensional y visión CCD ↗ Limpieza, bloqueo y premontaje ↗
 
-##### Referencias técnicas
-
 ### Muestreo e inspección 100%: elegir la cobertura adecuada
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
@@ -7657,8 +7669,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Inspección dimensional y visión CCD ↗ Limpieza, bloqueo y premontaje ↗
-
-##### Referencias técnicas
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -7968,8 +7978,6 @@ Por Theo Wan Leer guía técnica →
 
 Tipo suizo y CNC Girando ↗ Rodamiento en frío + mecanizado secundario ↗ Inspección dimensional y visión CCD ↗
 
-##### Referencias técnicas
-
 ### Control de revisión de planos de ingeniería para pedidos repetidos de sujetadores personalizados.
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
@@ -8049,8 +8057,6 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Inspección dimensional y visión CCD ↗ Limpieza, bloqueo y premontaje ↗
-
-##### Referencias técnicas
 
 ### Embalaje y trazabilidad de lotes para pedidos de tornillos personalizados.
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-screw-packaging-lot-traceability/
@@ -8132,9 +8138,7 @@ Por Theo Wan Leer guía técnica →
 
 Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
 
-##### Referencias técnicas
-
-### Recintos de carga para vehículos eléctricos: por qué las especificaciones de los sujetadores deben seguir la articulación
+### Recintos de carga para vehículos eléctricos: por qué las especificaciones de los sujetadores deben seguir la junta
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/ev-charging-enclosure-fasteners/
 Last modified: 2026-10-30
 
@@ -8216,7 +8220,7 @@ IEA Global EV Outlook 2026
 
 Equipos de energía, carga y almacenamiento Tornillos de seguridad y antimanipulación Tornillos con brida a medida Especificación de un tratamiento de superficie de sujetador sin dejar la interfaz sin definir
 
-### Automatización de fábricas: especificación de sujetadores de ubicación y pivote para ensamblajes repetibles
+### Automatización de fábrica: especificación de sujetadores de ubicación y pivote para ensamblajes repetibles
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/automation-locating-pivot-fasteners/
 Last modified: 2026-10-30
 
@@ -8392,7 +8396,7 @@ Baterías de la AIE y transiciones energéticas seguras
 
 Equipos de energía, carga y almacenamiento Acero al carbono y aleado Limpieza, bloqueo y premontaje Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación
 
-### Equipos para centros de datos: decisiones sobre sujetadores para refrigeración, acceso de servicio y montaje controlado
+### Equipos de centro de datos: decisiones sobre sujetadores para refrigeración, acceso de servicio y montaje controlado
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/data-centre-cooling-service-fasteners/
 Last modified: 2026-10-30
 
@@ -8576,7 +8580,7 @@ Marco normativo sobre ecodiseño para productos sostenibles
 
 Tornillos cautivos a tu dibujo. Tornillos de seguridad y antimanipulación Del prototipo de tornillo a la repetición de la producción: una guía de entrega del escenario preguntas frecuentes
 
-### Riesgo de suministro de material: calificar alternativas de sujetadores sin perder la interfaz aprobada
+### Riesgo de suministro de material: alternativas de sujetadores calificadas sin perder la interfaz aprobada
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/material-supply-risk-qualified-alternatives/
 Last modified: 2026-10-30
 
@@ -12060,7 +12064,7 @@ Manual de diseño de sujetadores de la NASA, 1990: antecedentes generales de dis
 
 Tres rutas completas. Definido por el dibujo. Estampación en frío multiestación Torneado de cabezal móvil y CNC Del prototipo de tornillo a la repetición de la producción: una guía de entrega del escenario
 
-### Especificación de un tratamiento superficial de sujetador sin dejar la interfaz sin definir
+### Especificación de un tratamiento de superficie de sujetador sin dejar la interfaz sin definir
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/surface-treatment-specification/
 Last modified: 2026-10-30
 
@@ -12126,7 +12130,7 @@ ISO 10683: alcance publicado para sistemas de escamas de zinc
 
 Recubrimientos y tratamientos superficiales Nombra el material. Definir su desempeño. Elaboración de un plan personalizado de inspección y aceptación de sujetadores
 
-### Creación de un plan personalizado de inspección y aceptación de sujetadores
+### Elaboración de un plan personalizado de inspección y aceptación de sujetadores
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/inspection-acceptance-plan/
 Last modified: 2026-10-30
 
@@ -12196,7 +12200,7 @@ ISO 3269: alcance publicado y limitaciones de aplicabilidad
 
 Inspección dimensional y visión CCD Defina el cheque. Acepta la evidencia. Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación
 
-### Del prototipo de tornillo a la repetición de la producción: una guía de entrega de etapa-puerta
+### Del prototipo de tornillo a la repetición de la producción: una guía de entrega del escenario
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/prototype-production-handover/
 Last modified: 2026-10-30
 

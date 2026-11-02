@@ -28,6 +28,7 @@ jobs:
       - name: Verify content and links
         run: |
           node scripts/verify-content.mjs
+          node scripts/verify-content-quality.mjs
           node scripts/verify-multilingual.mjs
           node scripts/verify-language-preference.mjs
           node scripts/verify-images.mjs
@@ -101,6 +102,7 @@ jobs:
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-workers.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-coverage.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-topics.mjs
+          docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-editorial-corrections.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-publishing.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-autoflow.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-article-types.mjs

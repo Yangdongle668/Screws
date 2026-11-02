@@ -19,7 +19,7 @@
     },
     "sitemapSections": 8,
     "sitemapURLs": 780,
-    "descriptionOver200": 205
+    "descriptionOver200": 211
   },
   "pages": [
     {
@@ -57,7 +57,7 @@
       "description": "Develop a drawing-defined screw with ZUFEK: geometry review, process selection, tooling, samples and approval before repeat production.",
       "titleCharacters": 59,
       "descriptionCharacters": 135,
-      "bodyWords": 981,
+      "bodyWords": 1026,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -72,7 +72,7 @@
       "description": "A head, a locating shoulder and a threaded section combine fastening with controlled spacing or movement. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "titleCharacters": 41,
       "descriptionCharacters": 181,
-      "bodyWords": 1332,
+      "bodyWords": 1353,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -145,7 +145,7 @@
       "description": "Practical custom screw design, procurement, material and quality resources from ZUFEK.",
       "titleCharacters": 51,
       "descriptionCharacters": 86,
-      "bodyWords": 2119,
+      "bodyWords": 2152,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -159,7 +159,7 @@
       "description": "Read drawing guides, procurement checklists and practical material and quality considerations for non-standard metal screws.",
       "titleCharacters": 35,
       "descriptionCharacters": 124,
-      "bodyWords": 2023,
+      "bodyWords": 2056,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -188,7 +188,7 @@
       "description": "The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.",
       "titleCharacters": 52,
       "descriptionCharacters": 176,
-      "bodyWords": 790,
+      "bodyWords": 811,
       "types": [
         "BlogPosting",
         "Organization",
@@ -245,10 +245,10 @@
       "path": "/blog/custom-screw-inspection-plan/",
       "locale": "en",
       "title": "How to prepare an inspection plan for custom screws | ZUFEK",
-      "description": "An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.",
+      "description": "Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.",
       "titleCharacters": 59,
-      "descriptionCharacters": 155,
-      "bodyWords": 729,
+      "descriptionCharacters": 289,
+      "bodyWords": 1016,
       "types": [
         "BlogPosting",
         "Organization",
@@ -323,7 +323,7 @@
       "description": "A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.",
       "titleCharacters": 53,
       "descriptionCharacters": 158,
-      "bodyWords": 690,
+      "bodyWords": 688,
       "types": [
         "BlogPosting",
         "Organization",
@@ -338,7 +338,7 @@
       "description": "An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.",
       "titleCharacters": 61,
       "descriptionCharacters": 171,
-      "bodyWords": 729,
+      "bodyWords": 727,
       "types": [
         "BlogPosting",
         "Organization",
@@ -353,7 +353,7 @@
       "description": "A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.",
       "titleCharacters": 59,
       "descriptionCharacters": 135,
-      "bodyWords": 722,
+      "bodyWords": 720,
       "types": [
         "BlogPosting",
         "Organization",
@@ -368,7 +368,7 @@
       "description": "A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works.",
       "titleCharacters": 60,
       "descriptionCharacters": 166,
-      "bodyWords": 749,
+      "bodyWords": 759,
       "types": [
         "BlogPosting",
         "Organization",
@@ -380,10 +380,10 @@
       "path": "/blog/set-screw-tip-selection/",
       "locale": "en",
       "title": "Cone, flat, dog or cup: choosing a set-screw tip | ZUFEK",
-      "description": "The end of a set screw defines how it contacts the mating component. Choose the tip around the required contact and permitted surface change, not only the screw diameter.",
+      "description": "Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.",
       "titleCharacters": 56,
-      "descriptionCharacters": 170,
-      "bodyWords": 699,
+      "descriptionCharacters": 278,
+      "bodyWords": 1062,
       "types": [
         "BlogPosting",
         "Organization",
@@ -398,7 +398,7 @@
       "description": "A T-head must enter, turn or slide inside the intended slot while retaining the required contact. The slot cross-section is therefore an essential part of the fastener RFQ.",
       "titleCharacters": 56,
       "descriptionCharacters": 172,
-      "bodyWords": 642,
+      "bodyWords": 640,
       "types": [
         "BlogPosting",
         "Organization",
@@ -413,7 +413,7 @@
       "description": "An eye-shaped end can belong to a linkage, a tensioning device or a lifting component. Similar appearance does not establish the same design requirements or approved use.",
       "titleCharacters": 73,
       "descriptionCharacters": 170,
-      "bodyWords": 656,
+      "bodyWords": 654,
       "types": [
         "BlogPosting",
         "Organization",
@@ -428,7 +428,7 @@
       "description": "Inside width, bend shape and leg alignment determine whether a U-bolt fits the supported component. A clear drawing separates those features from the threaded connection.",
       "titleCharacters": 40,
       "descriptionCharacters": 170,
-      "bodyWords": 601,
+      "bodyWords": 599,
       "types": [
         "BlogPosting",
         "Organization",
@@ -443,7 +443,7 @@
       "description": "The square neck is the functional anti-rotation feature of a carriage bolt. It should be matched to the mating hole and supporting material rather than treated as a cosmetic detail.",
       "titleCharacters": 57,
       "descriptionCharacters": 181,
-      "bodyWords": 608,
+      "bodyWords": 606,
       "types": [
         "BlogPosting",
         "Organization",
@@ -458,7 +458,7 @@
       "description": "An eccentric feature needs a clear reference axis. Without a datum scheme, two manufacturers can interpret an apparently simple offset drawing differently.",
       "titleCharacters": 63,
       "descriptionCharacters": 155,
-      "bodyWords": 637,
+      "bodyWords": 635,
       "types": [
         "BlogPosting",
         "Organization",
@@ -473,7 +473,7 @@
       "description": "Different threads at the two ends can solve an interface problem and create an identification problem. The drawing, inspection plan and packaging should distinguish each end clearly.",
       "titleCharacters": 67,
       "descriptionCharacters": 182,
-      "bodyWords": 711,
+      "bodyWords": 721,
       "types": [
         "BlogPosting",
         "Organization",
@@ -488,7 +488,7 @@
       "description": "A narrow center section changes the geometry of a threaded connection. Its purpose and transition details must be defined before the manufacturing route is selected.",
       "titleCharacters": 60,
       "descriptionCharacters": 165,
-      "bodyWords": 599,
+      "bodyWords": 597,
       "types": [
         "BlogPosting",
         "Organization",
@@ -503,7 +503,7 @@
       "description": "A taper works against a corresponding surface. Its angle, axial position and relationship to the thread must be considered with the mating component.",
       "titleCharacters": 48,
       "descriptionCharacters": 149,
-      "bodyWords": 651,
+      "bodyWords": 649,
       "types": [
         "BlogPosting",
         "Organization",
@@ -518,7 +518,7 @@
       "description": "Combining a small locating pin with a screw can reduce separate components, but the locating and clamping functions still need distinct specifications.",
       "titleCharacters": 65,
       "descriptionCharacters": 151,
-      "bodyWords": 645,
+      "bodyWords": 643,
       "types": [
         "BlogPosting",
         "Organization",
@@ -533,7 +533,7 @@
       "description": "Several shoulders can locate several components. A clear dimension scheme explains which axial distances control the assembly and which are consequences of other dimensions.",
       "titleCharacters": 64,
       "descriptionCharacters": 173,
-      "bodyWords": 635,
+      "bodyWords": 633,
       "types": [
         "BlogPosting",
         "Organization",
@@ -548,7 +548,7 @@
       "description": "A press-in connection depends on the panel, hole and installation process. A custom stud cannot be evaluated as an isolated threaded shape.",
       "titleCharacters": 70,
       "descriptionCharacters": 139,
-      "bodyWords": 606,
+      "bodyWords": 604,
       "types": [
         "BlogPosting",
         "Organization",
@@ -563,7 +563,7 @@
       "description": "Thread generation is a process choice, while thread geometry and acceptance are product requirements. A complete RFQ explains both without confusing the method with a guaranteed result.",
       "titleCharacters": 62,
       "descriptionCharacters": 185,
-      "bodyWords": 695,
+      "bodyWords": 693,
       "types": [
         "BlogPosting",
         "Organization",
@@ -578,7 +578,7 @@
       "description": "A drilled cross hole creates entry and exit edges, and may intersect another feature. The RFQ should define those edges as carefully as the hole location.",
       "titleCharacters": 67,
       "descriptionCharacters": 154,
-      "bodyWords": 659,
+      "bodyWords": 657,
       "types": [
         "BlogPosting",
         "Organization",
@@ -593,7 +593,7 @@
       "description": "A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment.",
       "titleCharacters": 61,
       "descriptionCharacters": 154,
-      "bodyWords": 705,
+      "bodyWords": 703,
       "types": [
         "BlogPosting",
         "Organization",
@@ -608,7 +608,7 @@
       "description": "A bright appearance does not identify a surface process. Specify the substrate and required surface function before choosing between plating, passivation or another treatment.",
       "titleCharacters": 76,
       "descriptionCharacters": 175,
-      "bodyWords": 594,
+      "bodyWords": 592,
       "types": [
         "BlogPosting",
         "Organization",
@@ -623,7 +623,7 @@
       "description": "A coating-family name does not define the complete supplied surface. Custom fastener RFQs should connect the coating system with fit, friction and acceptance requirements.",
       "titleCharacters": 60,
       "descriptionCharacters": 171,
-      "bodyWords": 708,
+      "bodyWords": 706,
       "types": [
         "BlogPosting",
         "Organization",
@@ -638,7 +638,7 @@
       "description": "Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected.",
       "titleCharacters": 68,
       "descriptionCharacters": 181,
-      "bodyWords": 711,
+      "bodyWords": 709,
       "types": [
         "BlogPosting",
         "Organization",
@@ -653,7 +653,7 @@
       "description": "A pre-applied locking feature needs a defined material, location and assembly requirement. A colored patch shown in a photograph is not a complete specification.",
       "titleCharacters": 70,
       "descriptionCharacters": 161,
-      "bodyWords": 599,
+      "bodyWords": 597,
       "types": [
         "BlogPosting",
         "Organization",
@@ -668,7 +668,7 @@
       "description": "A preassembled screw is supplied as a small assembly. The washer, retention method and component sequence need the same control as the screw itself.",
       "titleCharacters": 60,
       "descriptionCharacters": 148,
-      "bodyWords": 714,
+      "bodyWords": 712,
       "types": [
         "BlogPosting",
         "Organization",
@@ -683,7 +683,7 @@
       "description": "Camera-based dimensional inspection can evaluate visible features of a screw, but the image, setup and inspection program must match the requirement. It is one part of a complete acceptance plan.",
       "titleCharacters": 62,
       "descriptionCharacters": 195,
-      "bodyWords": 917,
+      "bodyWords": 938,
       "types": [
         "BlogPosting",
         "Organization",
@@ -698,7 +698,7 @@
       "description": "A sample is most useful when its identity, revision and acceptance scope are clear. First-article planning connects the approved drawing with the evidence needed before the next production decision.",
       "titleCharacters": 69,
       "descriptionCharacters": 198,
-      "bodyWords": 619,
+      "bodyWords": 617,
       "types": [
         "BlogPosting",
         "Organization",
@@ -713,7 +713,7 @@
       "description": "Inspection coverage should follow the characteristic and acceptance plan. Saying that a non-standard screw needs full inspection leaves the method, features and evidence undefined.",
       "titleCharacters": 65,
       "descriptionCharacters": 180,
-      "bodyWords": 644,
+      "bodyWords": 642,
       "types": [
         "BlogPosting",
         "Organization",
@@ -758,7 +758,7 @@
       "description": "A prototype can establish useful geometry without defining the final production route. Plan the transition so the approved function and acceptance requirements survive the change in manufacturing method.",
       "titleCharacters": 77,
       "descriptionCharacters": 203,
-      "bodyWords": 603,
+      "bodyWords": 601,
       "types": [
         "BlogPosting",
         "Organization",
@@ -773,7 +773,7 @@
       "description": "Repeat orders should repeat the approved specification, not the ambiguities of an old email. A small revision-control habit can prevent expensive confusion across drawings, samples and inspection records.",
       "titleCharacters": 66,
       "descriptionCharacters": 204,
-      "bodyWords": 600,
+      "bodyWords": 598,
       "types": [
         "BlogPosting",
         "Organization",
@@ -788,7 +788,7 @@
       "description": "Packaging is part of the delivered condition. It should protect functional surfaces, preserve identification and make the incoming inspection and assembly process practical.",
       "titleCharacters": 62,
       "descriptionCharacters": 173,
-      "bodyWords": 605,
+      "bodyWords": 603,
       "types": [
         "BlogPosting",
         "Organization",
@@ -817,7 +817,7 @@
       "description": "Founded in 2005 in Dalang, Dongguan, ZUFEK supplies custom metal screws for equipment and automotive component supply-chain projects.",
       "titleCharacters": 62,
       "descriptionCharacters": 133,
-      "bodyWords": 540,
+      "bodyWords": 585,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1428,7 +1428,7 @@
       "description": "Technical articles published under Theo Wan (万天恩), the editorial pen name for ZUFEK custom fastener guides.",
       "titleCharacters": 44,
       "descriptionCharacters": 107,
-      "bodyWords": 555,
+      "bodyWords": 576,
       "types": [
         "ProfilePage",
         "Organization",
@@ -2070,7 +2070,7 @@
       "description": "Entwickeln Sie mit ZUFEK eine in der Konstruktionszeichnung definierte Schraube: Überprüfung der Geometrie, Prozessauswahl, Werkzeuge, Muster und Genehmigung vor der erneuten Produktion.",
       "titleCharacters": 94,
       "descriptionCharacters": 186,
-      "bodyWords": 1028,
+      "bodyWords": 1060,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2085,7 +2085,7 @@
       "description": "Desarrolle un tornillo definido por un plano de ingeniería con ZUFEK: revisión de geometría, selección de procesos, herramientas, muestras y aprobación antes de repetir la producción.",
       "titleCharacters": 93,
       "descriptionCharacters": 183,
-      "bodyWords": 1218,
+      "bodyWords": 1273,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2100,7 +2100,7 @@
       "description": "Sviluppa una vite definita dal disegno tecnico con ZUFEK: revisione della geometria, selezione del processo, attrezzature, campioni e approvazione prima della ripetizione della produzione.",
       "titleCharacters": 73,
       "descriptionCharacters": 188,
-      "bodyWords": 1157,
+      "bodyWords": 1208,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2115,7 +2115,7 @@
       "description": "使用 ZUFEK 开发工程图定义的螺钉：重复生产前的几何形状审查、工艺选择、工具、样品和批准。",
       "titleCharacters": 28,
       "descriptionCharacters": 47,
-      "bodyWords": 167,
+      "bodyWords": 171,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2130,7 +2130,7 @@
       "description": "Développez une vis définie par un dessin technique avec ZUFEK : examen de la géométrie, sélection du processus, outillage, échantillons et approbation avant de répéter la production.",
       "titleCharacters": 89,
       "descriptionCharacters": 182,
-      "bodyWords": 1246,
+      "bodyWords": 1297,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2145,7 +2145,7 @@
       "description": "Ein Kopf, eine Positionierungsschulter und ein Gewindeabschnitt kombinieren die Befestigung mit kontrolliertem Abstand oder Bewegung. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 213,
-      "bodyWords": 1298,
+      "bodyWords": 1300,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2160,7 +2160,7 @@
       "description": "Una cabeza, un hombro de localización y una sección roscada combinan la sujeción con un espaciado o movimiento controlado. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 68,
       "descriptionCharacters": 204,
-      "bodyWords": 1685,
+      "bodyWords": 1707,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2175,7 +2175,7 @@
       "description": "Una testa, una spalla di posizionamento e una sezione filettata combinano il fissaggio con una spaziatura o un movimento controllato. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 60,
       "descriptionCharacters": 210,
-      "bodyWords": 1605,
+      "bodyWords": 1626,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2190,7 +2190,7 @@
       "description": "头部、定位肩部和螺纹部分将紧固与受控间距或运动结合起来。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 24,
       "descriptionCharacters": 54,
-      "bodyWords": 140,
+      "bodyWords": 141,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2205,7 +2205,7 @@
       "description": "Une tête, un épaulement de positionnement et une section filetée combinent la fixation avec un espacement ou un mouvement contrôlé. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 63,
       "descriptionCharacters": 234,
-      "bodyWords": 1679,
+      "bodyWords": 1704,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2220,7 +2220,7 @@
       "description": "Retentionsorientierte Schraubenkonstruktionen. Geben Sie die passende Baugruppe frei, damit die Haltemerkmale gemeinsam überprüft werden können. Senden Sie Ihre technische Zeichnung zur Überprüfung an ZUFEK.",
       "titleCharacters": 58,
       "descriptionCharacters": 207,
-      "bodyWords": 648,
+      "bodyWords": 646,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2250,7 +2250,7 @@
       "description": "Progettazioni di viti orientate alla ritenzione. Condividere l'assieme di accoppiamento in modo che le funzioni di fissaggio possano essere riviste insieme. Invia il tuo disegno tecnico a ZUFEK per la revisione.",
       "titleCharacters": 43,
       "descriptionCharacters": 211,
-      "bodyWords": 735,
+      "bodyWords": 734,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2295,7 +2295,7 @@
       "description": "Alternative Kopf- und Antriebsgeometrien für Zugangs-, Freiraum- und Montageanforderungen. Senden Sie Ihre technische Zeichnung zur Überprüfung an ZUFEK.",
       "titleCharacters": 54,
       "descriptionCharacters": 153,
-      "bodyWords": 747,
+      "bodyWords": 745,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2325,7 +2325,7 @@
       "description": "Geometrie alternative della testa e dell'azionamento per requisiti di accesso, spazio libero e assemblaggio. Invia il tuo disegno tecnico a ZUFEK per la revisione.",
       "titleCharacters": 46,
       "descriptionCharacters": 163,
-      "bodyWords": 856,
+      "bodyWords": 855,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2510,7 +2510,7 @@
       "description": "Praktische kundenspezifische Schraubendesign-, Beschaffungs-, Material- und Qualitätsressourcen von ZUFEK.",
       "titleCharacters": 67,
       "descriptionCharacters": 106,
-      "bodyWords": 2161,
+      "bodyWords": 2184,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2524,7 +2524,7 @@
       "description": "Diseño práctico de tornillos personalizados, adquisición, materiales y recursos de calidad de ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 100,
-      "bodyWords": 2517,
+      "bodyWords": 2558,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2538,7 +2538,7 @@
       "description": "Risorse pratiche per la progettazione di viti personalizzate, approvvigionamento, materiali e qualità da ZUFEK.",
       "titleCharacters": 59,
       "descriptionCharacters": 111,
-      "bodyWords": 2496,
+      "bodyWords": 2529,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2566,7 +2566,7 @@
       "description": "Ressources pratiques de conception, d'approvisionnement, de matériaux et de qualité de vis personnalisées de ZUFEK.",
       "titleCharacters": 66,
       "descriptionCharacters": 115,
-      "bodyWords": 2579,
+      "bodyWords": 2618,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2580,7 +2580,7 @@
       "description": "Lesen Sie technische Zeichnungsleitfäden, Beschaffungschecklisten und praktische Material- und Qualitätsüberlegungen für nicht standardmäßige Metallschrauben.",
       "titleCharacters": 56,
       "descriptionCharacters": 158,
-      "bodyWords": 2078,
+      "bodyWords": 2101,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2594,7 +2594,7 @@
       "description": "Lea guías de dibujos de ingeniería, listas de verificación de adquisiciones y consideraciones prácticas sobre materiales y calidad para tornillos metálicos no estándar.",
       "titleCharacters": 48,
       "descriptionCharacters": 168,
-      "bodyWords": 2389,
+      "bodyWords": 2430,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2608,7 +2608,7 @@
       "description": "Leggi le guide ai disegni tecnici, le liste di controllo per l'approvvigionamento e le considerazioni pratiche sui materiali e sulla qualità per le viti metalliche non standard.",
       "titleCharacters": 46,
       "descriptionCharacters": 177,
-      "bodyWords": 2355,
+      "bodyWords": 2388,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2636,7 +2636,7 @@
       "description": "Lisez les guides de dessins techniques, les listes de contrôle d'approvisionnement et les considérations pratiques sur les matériaux et la qualité des vis à métaux non standard.",
       "titleCharacters": 49,
       "descriptionCharacters": 177,
-      "bodyWords": 2446,
+      "bodyWords": 2485,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2725,7 +2725,7 @@
       "description": "Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.",
       "titleCharacters": 66,
       "descriptionCharacters": 206,
-      "bodyWords": 826,
+      "bodyWords": 838,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2740,7 +2740,7 @@
       "description": "El hombro, el rosca y la cabeza trabajan juntos como una sola geometría. Un dibujo de ingeniería claro explica no solo las dimensiones, sino también qué superficies ubican, giran o sujetan en su ensamblaje.",
       "titleCharacters": 66,
       "descriptionCharacters": 206,
-      "bodyWords": 966,
+      "bodyWords": 989,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2755,7 +2755,7 @@
       "description": "La spalla, il filetto e la testa lavorano insieme come un'unica geometria. Un disegno tecnico chiaro spiega non solo le dimensioni, ma anche quali superfici posizionare, ruotare o bloccare nell'assieme.",
       "titleCharacters": 63,
       "descriptionCharacters": 202,
-      "bodyWords": 943,
+      "bodyWords": 964,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2785,7 +2785,7 @@
       "description": "L'épaule, le fil et la tête fonctionnent ensemble comme une seule géométrie. Un dessin technique clair explique non seulement les dimensions, mais également les surfaces qui se situent, tournent ou se fixent dans votre assemblage.",
       "titleCharacters": 57,
       "descriptionCharacters": 230,
-      "bodyWords": 985,
+      "bodyWords": 1009,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2800,7 +2800,7 @@
       "description": "Eine unverlierbare Schraube ist Teil eines Haltesystems. Überprüfen Sie die Platte, das Halteelement und das Gegengewinde zusammen, bevor Sie die Schraubenkonstruktionszeichnung fertigstellen.",
       "titleCharacters": 72,
       "descriptionCharacters": 192,
-      "bodyWords": 540,
+      "bodyWords": 539,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2830,7 +2830,7 @@
       "description": "Una vite imperdibile fa parte di un sistema di ritenzione. Esaminare insieme il pannello, la funzione di fissaggio e la filettatura di accoppiamento prima di finalizzare il disegno tecnico della vite.",
       "titleCharacters": 64,
       "descriptionCharacters": 200,
-      "bodyWords": 628,
+      "bodyWords": 626,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2860,7 +2860,7 @@
       "description": "Une vis imperdable fait partie d'un système de rétention. Examinez le panneau, la fonction de retenue et le filetage d'accouplement avant de finaliser le dessin technique de la vis.",
       "titleCharacters": 60,
       "descriptionCharacters": 181,
-      "bodyWords": 659,
+      "bodyWords": 662,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3022,10 +3022,10 @@
       "path": "/de/blog/custom-screw-inspection-plan/",
       "locale": "de",
       "title": "So erstellen Sie einen Prüfplan für kundenspezifische Schrauben | ZUFEK",
-      "description": "Ein Inspektionsplan übersetzt eine technische Zeichnung in vereinbarte Prüfungen und Aufzeichnungen. Definieren Sie es während der Angebotsphase, damit die Annahme vor der Produktion verstanden wird.",
+      "description": "Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.",
       "titleCharacters": 71,
-      "descriptionCharacters": 199,
-      "bodyWords": 761,
+      "descriptionCharacters": 324,
+      "bodyWords": 1015,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3037,10 +3037,10 @@
       "path": "/es/blog/custom-screw-inspection-plan/",
       "locale": "es",
       "title": "Cómo preparar un plan de inspección para tornillos personalizados | ZUFEK",
-      "description": "Un plan de inspección traduce un plano de ingeniería en controles y registros acordados. Defínelo durante la etapa de cotización para que se entienda la aceptación antes de la producción.",
+      "description": "Cree un plan de inspección, una característica a la vez. Para cada requisito de dibujo, registre la condición de aceptación, un método adecuado, la etapa y cobertura de la inspección y la evidencia retenida. Las filas trabajadas a continuación muestran cómo convertir un dibujo de tornillo de hombro en un registro de inspección.",
       "titleCharacters": 73,
-      "descriptionCharacters": 187,
-      "bodyWords": 906,
+      "descriptionCharacters": 329,
+      "bodyWords": 1258,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3052,10 +3052,10 @@
       "path": "/it/blog/custom-screw-inspection-plan/",
       "locale": "it",
       "title": "Come preparare un piano di ispezione per viti personalizzate | ZUFEK",
-      "description": "Un piano di ispezione traduce un disegno tecnico in controlli e registrazioni concordati. Definirlo durante la fase di preventivo in modo che l'accettazione sia compresa prima della produzione.",
+      "description": "Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.",
       "titleCharacters": 68,
-      "descriptionCharacters": 193,
-      "bodyWords": 886,
+      "descriptionCharacters": 336,
+      "bodyWords": 1225,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3067,10 +3067,10 @@
       "path": "/zh/blog/custom-screw-inspection-plan/",
       "locale": "zh",
       "title": "非标螺丝检测计划怎么制定 | ZUFEK",
-      "description": "检查计划将工程图纸转化为商定的检查和记录。在报价阶段定义它，以便在生产之前了解验收。",
+      "description": "检验计划应按特性逐项编制。每项要求都要说明验收条件、适用方法、检验工序、抽检或全检范围，以及保留什么记录。下面以台阶螺丝为例，展示如何把图纸要求转成检验记录。",
       "titleCharacters": 20,
-      "descriptionCharacters": 42,
-      "bodyWords": 117,
+      "descriptionCharacters": 79,
+      "bodyWords": 167,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3082,10 +3082,10 @@
       "path": "/fr/blog/custom-screw-inspection-plan/",
       "locale": "fr",
       "title": "Comment préparer un plan d'inspection pour des vis personnalisées | ZUFEK",
-      "description": "Un plan d'inspection traduit un dessin technique en contrôles et enregistrements convenus. Définissez-le lors de la phase de cotation afin que l’acceptation soit comprise avant la production.",
+      "description": "Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.",
       "titleCharacters": 73,
-      "descriptionCharacters": 191,
-      "bodyWords": 920,
+      "descriptionCharacters": 360,
+      "bodyWords": 1278,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3175,7 +3175,7 @@
       "description": "Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.",
       "titleCharacters": 80,
       "descriptionCharacters": 197,
-      "bodyWords": 820,
+      "bodyWords": 819,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3205,7 +3205,7 @@
       "description": "Un elemento di fissaggio in acciaio ad alta resistenza necessita di una decisione sul rivestimento che consideri sia la corrosione che l'esposizione all'idrogeno durante tutta la lavorazione.",
       "titleCharacters": 83,
       "descriptionCharacters": 191,
-      "bodyWords": 978,
+      "bodyWords": 976,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3235,7 +3235,7 @@
       "description": "Une fixation en acier à haute résistance nécessite une décision de revêtement qui prend en compte à la fois la corrosion et l'exposition à l'hydrogène tout au long du traitement.",
       "titleCharacters": 86,
       "descriptionCharacters": 178,
-      "bodyWords": 1024,
+      "bodyWords": 1027,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3321,11 +3321,11 @@
     {
       "path": "/de/blog/shoulder-fit-thread-class-grinding/",
       "locale": "de",
-      "title": "Schulterpassungen, Gewindeklassen und wenn es aufs Schleifen ankommt | ZUFEK",
+      "title": "Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens | ZUFEK",
       "description": "Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.",
-      "titleCharacters": 76,
+      "titleCharacters": 69,
       "descriptionCharacters": 207,
-      "bodyWords": 813,
+      "bodyWords": 811,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3336,9 +3336,9 @@
     {
       "path": "/es/blog/shoulder-fit-thread-class-grinding/",
       "locale": "es",
-      "title": "Ajustes de hombro, clases de rosca y cuestiones de rectificado | ZUFEK",
+      "title": "Ajustes del tramo liso, tolerancias de rosca y cuándo rectificar | ZUFEK",
       "description": "Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.",
-      "titleCharacters": 70,
+      "titleCharacters": 72,
       "descriptionCharacters": 181,
       "bodyWords": 990,
       "types": [
@@ -3351,11 +3351,11 @@
     {
       "path": "/it/blog/shoulder-fit-thread-class-grinding/",
       "locale": "it",
-      "title": "Adattamenti delle spalle, classi di filettatura e quando si macina è importante | ZUFEK",
+      "title": "Accoppiamenti del gambo, tolleranze del filetto e impiego della rettifica | ZUFEK",
       "description": "L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.",
-      "titleCharacters": 87,
+      "titleCharacters": 81,
       "descriptionCharacters": 208,
-      "bodyWords": 974,
+      "bodyWords": 970,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3370,7 +3370,7 @@
       "description": "轴配合和螺纹公差等级控制不同的接口。在决定如何完成表面之前，先清楚地写下所需的功能。",
       "titleCharacters": 25,
       "descriptionCharacters": 42,
-      "bodyWords": 134,
+      "bodyWords": 127,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3381,11 +3381,11 @@
     {
       "path": "/fr/blog/shoulder-fit-thread-class-grinding/",
       "locale": "fr",
-      "title": "Ajustements d'épaulement, classes de filetage et lors du meulage | ZUFEK",
+      "title": "Ajustement de la portée, tolérances du filetage et recours à la rectification | ZUFEK",
       "description": "Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.",
-      "titleCharacters": 72,
+      "titleCharacters": 85,
       "descriptionCharacters": 193,
-      "bodyWords": 997,
+      "bodyWords": 1003,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3400,7 +3400,7 @@
       "description": "Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.",
       "titleCharacters": 73,
       "descriptionCharacters": 195,
-      "bodyWords": 708,
+      "bodyWords": 705,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3415,7 +3415,7 @@
       "description": "El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.",
       "titleCharacters": 63,
       "descriptionCharacters": 202,
-      "bodyWords": 875,
+      "bodyWords": 873,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3430,7 +3430,7 @@
       "description": "Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.",
       "titleCharacters": 63,
       "descriptionCharacters": 213,
-      "bodyWords": 840,
+      "bodyWords": 836,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3445,7 +3445,7 @@
       "description": "安全驱动器名称是一个起点，而不是完整的接口规范。凹槽、匹配工具和可用的装配通道必须一起工作。",
       "titleCharacters": 20,
       "descriptionCharacters": 46,
-      "bodyWords": 121,
+      "bodyWords": 120,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3460,7 +3460,7 @@
       "description": "Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.",
       "titleCharacters": 58,
       "descriptionCharacters": 199,
-      "bodyWords": 872,
+      "bodyWords": 873,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3475,7 +3475,7 @@
       "description": "Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.",
       "titleCharacters": 84,
       "descriptionCharacters": 199,
-      "bodyWords": 740,
+      "bodyWords": 738,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3490,7 +3490,7 @@
       "description": "Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.",
       "titleCharacters": 98,
       "descriptionCharacters": 183,
-      "bodyWords": 881,
+      "bodyWords": 879,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3505,7 +3505,7 @@
       "description": "Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.",
       "titleCharacters": 86,
       "descriptionCharacters": 180,
-      "bodyWords": 869,
+      "bodyWords": 867,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3520,7 +3520,7 @@
       "description": "轴向孔改变了制造和检查。有用的空心螺钉规范解释了通道、周围的壁以及孔内的条件。",
       "titleCharacters": 24,
       "descriptionCharacters": 39,
-      "bodyWords": 125,
+      "bodyWords": 124,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3535,7 +3535,7 @@
       "description": "Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.",
       "titleCharacters": 81,
       "descriptionCharacters": 185,
-      "bodyWords": 901,
+      "bodyWords": 899,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3550,7 +3550,7 @@
       "description": "Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.",
       "titleCharacters": 76,
       "descriptionCharacters": 145,
-      "bodyWords": 731,
+      "bodyWords": 729,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3565,7 +3565,7 @@
       "description": "Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.",
       "titleCharacters": 72,
       "descriptionCharacters": 148,
-      "bodyWords": 894,
+      "bodyWords": 892,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3580,7 +3580,7 @@
       "description": "Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.",
       "titleCharacters": 84,
       "descriptionCharacters": 156,
-      "bodyWords": 869,
+      "bodyWords": 867,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3595,7 +3595,7 @@
       "description": "法兰不仅仅是头部下方的一个较大的圆圈。其支承面、刚度和间隙必须与被夹紧的部件相匹配。",
       "titleCharacters": 20,
       "descriptionCharacters": 42,
-      "bodyWords": 123,
+      "bodyWords": 122,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3610,7 +3610,7 @@
       "description": "Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.",
       "titleCharacters": 69,
       "descriptionCharacters": 138,
-      "bodyWords": 909,
+      "bodyWords": 907,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3625,7 +3625,7 @@
       "description": "Eine handverstellte Schraube muss zugänglich, bequem zu greifen und mit der erforderlichen Einstellung kompatibel sein. Die Kopfbeschaffenheit allein bestimmt nicht, wie der Mechanismus funktioniert.",
       "titleCharacters": 66,
       "descriptionCharacters": 199,
-      "bodyWords": 755,
+      "bodyWords": 763,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3640,7 +3640,7 @@
       "description": "Un tornillo ajustado manualmente debe ser accesible, cómodo de agarrar y compatible con el ajuste requerido. La textura de la cabeza por sí sola no define cómo funciona el mecanismo.",
       "titleCharacters": 63,
       "descriptionCharacters": 182,
-      "bodyWords": 898,
+      "bodyWords": 914,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3655,7 +3655,7 @@
       "description": "Una vite regolata manualmente deve essere accessibile, comoda da impugnare e compatibile con la regolazione richiesta. La struttura della testa da sola non definisce il funzionamento del meccanismo.",
       "titleCharacters": 53,
       "descriptionCharacters": 198,
-      "bodyWords": 879,
+      "bodyWords": 887,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3670,7 +3670,7 @@
       "description": "手动调节螺钉必须易于操作、握持舒适并且与所需的调节兼容。头部纹理本身并不能定义该机制的工作原理。",
       "titleCharacters": 22,
       "descriptionCharacters": 48,
-      "bodyWords": 125,
+      "bodyWords": 124,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3685,7 +3685,7 @@
       "description": "Une vis réglée manuellement doit être accessible, confortable à saisir et compatible avec le réglage requis. La texture de la tête à elle seule ne définit pas le fonctionnement du mécanisme.",
       "titleCharacters": 64,
       "descriptionCharacters": 190,
-      "bodyWords": 919,
+      "bodyWords": 935,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3697,10 +3697,10 @@
       "path": "/de/blog/set-screw-tip-selection/",
       "locale": "de",
       "title": "Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift | ZUFEK",
-      "description": "Das Ende einer Stellschraube definiert, wie sie die Gegenkomponente berührt. Wählen Sie die Spitze entsprechend dem erforderlichen Kontakt und der zulässigen Oberflächenveränderung, nicht nur nach dem Schraubendurchmesser.",
+      "description": "Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.",
       "titleCharacters": 98,
-      "descriptionCharacters": 222,
-      "bodyWords": 724,
+      "descriptionCharacters": 349,
+      "bodyWords": 1058,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3712,10 +3712,10 @@
       "path": "/es/blog/set-screw-tip-selection/",
       "locale": "es",
       "title": "Cono, plano, perro o copa: elegir una punta de tornillo prisionero | ZUFEK",
-      "description": "El extremo de un tornillo de fijación define cómo hace contacto con el componente acoplado. Elija la punta según el contacto requerido y el cambio de superficie permitido, no solo el diámetro del tornillo.",
+      "description": "Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.",
       "titleCharacters": 74,
-      "descriptionCharacters": 205,
-      "bodyWords": 868,
+      "descriptionCharacters": 333,
+      "bodyWords": 1267,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3727,10 +3727,10 @@
       "path": "/it/blog/set-screw-tip-selection/",
       "locale": "it",
       "title": "Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio | ZUFEK",
-      "description": "L'estremità di una vite di fissaggio definisce il modo in cui entra in contatto con il componente di accoppiamento. Scegliere la punta attorno al contatto richiesto e al cambiamento di superficie consentito, non solo al diametro della vite.",
+      "description": "Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.",
       "titleCharacters": 83,
-      "descriptionCharacters": 240,
-      "bodyWords": 862,
+      "descriptionCharacters": 350,
+      "bodyWords": 1213,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3742,10 +3742,10 @@
       "path": "/zh/blog/set-screw-tip-selection/",
       "locale": "zh",
       "title": "圆锥形、扁平形、爪形或杯形：选择紧定螺钉尖端 | ZUFEK",
-      "description": "紧定螺钉的末端定义了它如何接触配合部件。选择所需接触和允许表面变化的尖端，而不仅仅是螺杆直径。",
+      "description": "选择顶丝端型，先看它怎样与配合件接触：平面压紧、尖端嵌入、圆柱端定位，还是凹端边缘咬合。再结合允许的表面压痕、调节频率及固定要求，同时确定端部和配合结构。",
       "titleCharacters": 30,
-      "descriptionCharacters": 47,
-      "bodyWords": 118,
+      "descriptionCharacters": 77,
+      "bodyWords": 152,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3757,10 +3757,10 @@
       "path": "/fr/blog/set-screw-tip-selection/",
       "locale": "fr",
       "title": "Cône, plat, chien ou coupelle : choisir un embout à vis | ZUFEK",
-      "description": "L'extrémité d'une vis de réglage définit la façon dont elle entre en contact avec le composant d'accouplement. Choisissez la pointe autour du contact requis et du changement de surface autorisé, pas seulement le diamètre de la vis.",
+      "description": "Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.",
       "titleCharacters": 63,
-      "descriptionCharacters": 231,
-      "bodyWords": 872,
+      "descriptionCharacters": 348,
+      "bodyWords": 1285,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3775,7 +3775,7 @@
       "description": "Ein T-Kopf muss in den vorgesehenen Schlitz eindringen, sich darin drehen oder gleiten lassen und dabei den erforderlichen Kontakt beibehalten. Der Schlitzquerschnitt ist daher ein wesentlicher Bestandteil der Verbindungselement-Ausschreibung.",
       "titleCharacters": 80,
       "descriptionCharacters": 243,
-      "bodyWords": 649,
+      "bodyWords": 646,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3790,7 +3790,7 @@
       "description": "Un cabezal en T debe entrar, girar o deslizarse dentro de la ranura prevista manteniendo el contacto requerido. Por lo tanto, la sección transversal de la ranura es una parte esencial del RFQ del sujetador.",
       "titleCharacters": 79,
       "descriptionCharacters": 206,
-      "bodyWords": 792,
+      "bodyWords": 790,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3805,7 +3805,7 @@
       "description": "Una testa a T deve entrare, girare o scorrere all'interno della fessura prevista mantenendo il contatto richiesto. La sezione trasversale dell'asola è quindi una parte essenziale della richiesta di offerta di dispositivi di fissaggio.",
       "titleCharacters": 78,
       "descriptionCharacters": 234,
-      "bodyWords": 767,
+      "bodyWords": 763,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3820,7 +3820,7 @@
       "description": "T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需的接触。因此，槽横截面是紧固件询价的重要组成部分。",
       "titleCharacters": 26,
       "descriptionCharacters": 53,
-      "bodyWords": 119,
+      "bodyWords": 118,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3835,7 +3835,7 @@
       "description": "Une tête en T doit entrer, tourner ou glisser à l'intérieur de la fente prévue tout en conservant le contact requis. La section transversale de la fente est donc une partie essentielle de la demande d'offre de fixation.",
       "titleCharacters": 78,
       "descriptionCharacters": 219,
-      "bodyWords": 786,
+      "bodyWords": 787,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3850,7 +3850,7 @@
       "description": "Ein ösenförmiges Ende kann zu einem Gestänge, einer Spannvorrichtung oder einer Hubkomponente gehören. Ein ähnliches Erscheinungsbild begründet nicht die gleichen Designanforderungen oder die gleiche genehmigte Verwendung.",
       "titleCharacters": 103,
       "descriptionCharacters": 222,
-      "bodyWords": 673,
+      "bodyWords": 670,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3865,7 +3865,7 @@
       "description": "Un extremo en forma de ojo puede pertenecer a un varillaje, a un dispositivo tensor o a un elemento elevador. Una apariencia similar no establece los mismos requisitos de diseño o uso aprobado.",
       "titleCharacters": 87,
       "descriptionCharacters": 193,
-      "bodyWords": 805,
+      "bodyWords": 803,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3880,7 +3880,7 @@
       "description": "Un'estremità a forma di occhio può appartenere ad un collegamento, ad un dispositivo di tensionamento o ad un componente di sollevamento. Un aspetto simile non stabilisce gli stessi requisiti di progettazione o l'uso approvato.",
       "titleCharacters": 76,
       "descriptionCharacters": 227,
-      "bodyWords": 776,
+      "bodyWords": 772,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3895,7 +3895,7 @@
       "description": "眼形端部可以属于联动装置、张紧装置或提升部件。相似的外观并不代表相同的设计要求或批准的用途。",
       "titleCharacters": 28,
       "descriptionCharacters": 46,
-      "bodyWords": 118,
+      "bodyWords": 117,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3910,7 +3910,7 @@
       "description": "Une extrémité en forme d'oeil peut appartenir à une tringlerie, un dispositif tendeur ou un élément de levage. Une apparence similaire n’établit pas les mêmes exigences de conception ou l’utilisation approuvée.",
       "titleCharacters": 102,
       "descriptionCharacters": 210,
-      "bodyWords": 824,
+      "bodyWords": 825,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3925,7 +3925,7 @@
       "description": "Innenbreite, Biegeform und Schenkelausrichtung bestimmen, ob ein U-Bolzen zum unterstützten Bauteil passt. Eine klare technische Zeichnung trennt diese Merkmale von der Gewindeverbindung.",
       "titleCharacters": 64,
       "descriptionCharacters": 187,
-      "bodyWords": 629,
+      "bodyWords": 626,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3940,7 +3940,7 @@
       "description": "El ancho interior, la forma de la curvatura y la alineación de las patas determinan si un perno en U se ajusta al componente soportado. Un claro dibujo de ingeniería separa esas características de la conexión roscada.",
       "titleCharacters": 52,
       "descriptionCharacters": 217,
-      "bodyWords": 748,
+      "bodyWords": 746,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3955,7 +3955,7 @@
       "description": "La larghezza interna, la forma della piega e l'allineamento delle gambe determinano se un bullone a U si adatta al componente supportato. Un chiaro disegno tecnico separa queste caratteristiche dalla connessione filettata.",
       "titleCharacters": 49,
       "descriptionCharacters": 222,
-      "bodyWords": 706,
+      "bodyWords": 702,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3970,7 +3970,7 @@
       "description": "内部宽度、弯曲形状和腿部对齐决定了 U 形螺栓是否适合支撑的组件。清晰的工程图将这些特征与螺纹连接分开。",
       "titleCharacters": 23,
       "descriptionCharacters": 52,
-      "bodyWords": 119,
+      "bodyWords": 118,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3985,7 +3985,7 @@
       "description": "La largeur intérieure, la forme du pli et l'alignement des pieds déterminent si un boulon en U s'adapte au composant supporté. Un dessin technique clair sépare ces caractéristiques de la connexion filetée.",
       "titleCharacters": 56,
       "descriptionCharacters": 205,
-      "bodyWords": 743,
+      "bodyWords": 744,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4000,7 +4000,7 @@
       "description": "Der Vierkanthals ist die funktionelle Verdrehsicherung einer Schlossschraube. Es sollte auf das passende Loch und das Trägermaterial abgestimmt sein und nicht als kosmetisches Detail betrachtet werden.",
       "titleCharacters": 87,
       "descriptionCharacters": 201,
-      "bodyWords": 639,
+      "bodyWords": 636,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4015,7 +4015,7 @@
       "description": "El cuello cuadrado es la característica antirrotación funcional de un perno de carro. Debe combinarse con el orificio de acoplamiento y el material de soporte en lugar de tratarse como un detalle cosmético.",
       "titleCharacters": 76,
       "descriptionCharacters": 206,
-      "bodyWords": 758,
+      "bodyWords": 756,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4030,7 +4030,7 @@
       "description": "Il collo quadrato è la caratteristica antirotazione funzionale di un bullone a testa tonda. Dovrebbe essere abbinato al foro di accoppiamento e al materiale di supporto piuttosto che trattato come un dettaglio estetico.",
       "titleCharacters": 73,
       "descriptionCharacters": 219,
-      "bodyWords": 732,
+      "bodyWords": 728,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4045,7 +4045,7 @@
       "description": "方颈是马车螺栓的功能性防旋转特征。它应该与配合孔和支撑材料相匹配，而不是被视为装饰细节。",
       "titleCharacters": 19,
       "descriptionCharacters": 44,
-      "bodyWords": 109,
+      "bodyWords": 108,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4060,7 +4060,7 @@
       "description": "Le col carré est la fonction anti-rotation fonctionnelle d'un boulon de carrosserie. Il doit être adapté au trou de raccordement et au matériau de support plutôt que traité comme un détail esthétique.",
       "titleCharacters": 84,
       "descriptionCharacters": 200,
-      "bodyWords": 754,
+      "bodyWords": 755,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4075,7 +4075,7 @@
       "description": "Ein exzentrisches Merkmal benötigt eine klare Referenzachse. Ohne ein Bezugsschema können zwei Hersteller eine scheinbar einfache Offset-Konstruktionszeichnung unterschiedlich interpretieren.",
       "titleCharacters": 71,
       "descriptionCharacters": 191,
-      "bodyWords": 652,
+      "bodyWords": 649,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4090,7 +4090,7 @@
       "description": "Una característica excéntrica necesita un eje de referencia claro. Sin un esquema de referencia, dos fabricantes pueden interpretar de manera diferente un plano de ingeniería offset aparentemente simple.",
       "titleCharacters": 84,
       "descriptionCharacters": 203,
-      "bodyWords": 758,
+      "bodyWords": 756,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4105,7 +4105,7 @@
       "description": "Una caratteristica eccentrica necessita di un asse di riferimento chiaro. Senza uno schema di riferimento, due produttori possono interpretare in modo diverso un disegno tecnico di offset apparentemente semplice.",
       "titleCharacters": 71,
       "descriptionCharacters": 212,
-      "bodyWords": 755,
+      "bodyWords": 751,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4120,7 +4120,7 @@
       "description": "偏心特征需要清晰的参考轴。如果没有基准方案，两个制造商可能会以不同的方式解释看似简单的偏移工程图。",
       "titleCharacters": 20,
       "descriptionCharacters": 49,
-      "bodyWords": 114,
+      "bodyWords": 113,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4135,7 +4135,7 @@
       "description": "Une fonction excentrique nécessite un axe de référence clair. Sans schéma de référence, deux fabricants peuvent interpréter différemment un dessin technique décalé apparemment simple.",
       "titleCharacters": 71,
       "descriptionCharacters": 183,
-      "bodyWords": 782,
+      "bodyWords": 783,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4150,7 +4150,7 @@
       "description": "Unterschiedliche Gewindes an den beiden Enden können ein Schnittstellenproblem lösen und ein Identifikationsproblem erzeugen. Die technische Zeichnung, der Prüfplan und die Verpackung sollten jedes Ende deutlich unterscheiden.",
       "titleCharacters": 78,
       "descriptionCharacters": 226,
-      "bodyWords": 741,
+      "bodyWords": 749,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4165,7 +4165,7 @@
       "description": "Diferentes roscas en los dos extremos pueden resolver un problema de interfaz y crear un problema de identificación. El plano de ingeniería, el plan de inspección y el embalaje deben distinguir claramente cada extremo.",
       "titleCharacters": 82,
       "descriptionCharacters": 218,
-      "bodyWords": 866,
+      "bodyWords": 882,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4180,7 +4180,7 @@
       "description": "Diversi thread alle due estremità possono risolvere un problema di interfaccia e creare un problema di identificazione. Il disegno tecnico, il piano di ispezione e l'imballaggio dovrebbero distinguere chiaramente ciascuna estremità.",
       "titleCharacters": 86,
       "descriptionCharacters": 232,
-      "bodyWords": 867,
+      "bodyWords": 875,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4195,7 +4195,7 @@
       "description": "两端的不同螺纹可以解决接口问题并产生识别问题。工程图纸、检验计划和包装应明确区分两端。",
       "titleCharacters": 23,
       "descriptionCharacters": 43,
-      "bodyWords": 126,
+      "bodyWords": 125,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4210,7 +4210,7 @@
       "description": "Différents threads aux deux extrémités peuvent résoudre un problème d'interface et créer un problème d'identification. Le dessin technique, le plan d’inspection et l’emballage doivent clairement distinguer chaque extrémité.",
       "titleCharacters": 86,
       "descriptionCharacters": 223,
-      "bodyWords": 872,
+      "bodyWords": 888,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4225,7 +4225,7 @@
       "description": "Ein schmaler Mittelabschnitt verändert die Geometrie einer Gewindeverbindung. Sein Zweck und die Übergangsdetails müssen definiert werden, bevor die Reihenfolge des Herstellungsprozesses ausgewählt wird.",
       "titleCharacters": 82,
       "descriptionCharacters": 203,
-      "bodyWords": 621,
+      "bodyWords": 619,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4240,7 +4240,7 @@
       "description": "Una sección central estrecha cambia la geometría de una conexión roscada. Su propósito y los detalles de transición deben definirse antes de seleccionar la secuencia del proceso de fabricación.",
       "titleCharacters": 88,
       "descriptionCharacters": 193,
-      "bodyWords": 723,
+      "bodyWords": 721,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4255,7 +4255,7 @@
       "description": "Una sezione centrale stretta modifica la geometria di una connessione filettata. Il suo scopo e i dettagli della transizione devono essere definiti prima di selezionare la sequenza del processo di produzione.",
       "titleCharacters": 77,
       "descriptionCharacters": 208,
-      "bodyWords": 706,
+      "bodyWords": 704,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4270,7 +4270,7 @@
       "description": "狭窄的中心部分改变了螺纹连接的几何形状。在选择制造工艺顺序之前必须定义其目的和过渡细节。",
       "titleCharacters": 22,
       "descriptionCharacters": 44,
-      "bodyWords": 107,
+      "bodyWords": 106,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4285,7 +4285,7 @@
       "description": "Une section centrale étroite modifie la géométrie d'une connexion filetée. Son objectif et les détails de sa transition doivent être définis avant la sélection de la séquence du processus de fabrication.",
       "titleCharacters": 92,
       "descriptionCharacters": 203,
-      "bodyWords": 725,
+      "bodyWords": 723,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4300,7 +4300,7 @@
       "description": "Eine Verjüngung wirkt gegen eine entsprechende Fläche. Sein Winkel, seine axiale Position und seine Beziehung zum Gewinde müssen beim Gegenstück berücksichtigt werden.",
       "titleCharacters": 59,
       "descriptionCharacters": 167,
-      "bodyWords": 666,
+      "bodyWords": 663,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4315,7 +4315,7 @@
       "description": "Un cono trabaja contra una superficie correspondiente. Su ángulo, posición axial y relación con la rosca deben considerarse con el componente acoplado.",
       "titleCharacters": 65,
       "descriptionCharacters": 151,
-      "bodyWords": 775,
+      "bodyWords": 773,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4330,7 +4330,7 @@
       "description": "Una rastremazione funziona contro una superficie corrispondente. Il suo angolo, la posizione assiale e il rapporto con la filettatura devono essere considerati con il componente di accoppiamento.",
       "titleCharacters": 61,
       "descriptionCharacters": 195,
-      "bodyWords": 769,
+      "bodyWords": 765,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4345,7 +4345,7 @@
       "description": "锥度作用于相应的表面。其角度、轴向位置以及与螺纹的关系必须与配合部件一起考虑。",
       "titleCharacters": 18,
       "descriptionCharacters": 39,
-      "bodyWords": 114,
+      "bodyWords": 113,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4360,7 +4360,7 @@
       "description": "Un cône fonctionne contre une surface correspondante. Son angle, sa position axiale et sa relation avec le filetage doivent être pris en compte avec le composant d'accouplement.",
       "titleCharacters": 57,
       "descriptionCharacters": 177,
-      "bodyWords": 793,
+      "bodyWords": 794,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4375,7 +4375,7 @@
       "description": "Durch die Kombination eines kleinen Fixierstifts mit einer Schraube können separate Komponenten reduziert werden, die Fixierungs- und Klemmfunktionen erfordern jedoch immer noch eindeutige Spezifikationen.",
       "titleCharacters": 81,
       "descriptionCharacters": 205,
-      "bodyWords": 666,
+      "bodyWords": 663,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4390,7 +4390,7 @@
       "description": "La combinación de un pequeño pasador de ubicación con un tornillo puede reducir los componentes separados, pero las funciones de ubicación y sujeción aún necesitan especificaciones distintas.",
       "titleCharacters": 95,
       "descriptionCharacters": 191,
-      "bodyWords": 789,
+      "bodyWords": 787,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4405,7 +4405,7 @@
       "description": "Combinando un piccolo perno di posizionamento con una vite si possono ridurre i componenti separati, ma le funzioni di posizionamento e bloccaggio necessitano comunque di specifiche distinte.",
       "titleCharacters": 86,
       "descriptionCharacters": 191,
-      "bodyWords": 781,
+      "bodyWords": 777,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4420,7 +4420,7 @@
       "description": "将小定位销与螺钉组合可以减少单独的部件，但定位和夹紧功能仍然需要不同的规格。",
       "titleCharacters": 23,
       "descriptionCharacters": 38,
-      "bodyWords": 114,
+      "bodyWords": 113,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4435,7 +4435,7 @@
       "description": "La combinaison d'une petite goupille de positionnement avec une vis peut réduire le nombre de composants séparés, mais les fonctions de positionnement et de serrage nécessitent toujours des spécifications distinctes.",
       "titleCharacters": 99,
       "descriptionCharacters": 216,
-      "bodyWords": 800,
+      "bodyWords": 801,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4450,7 +4450,7 @@
       "description": "Mehrere Schultern können mehrere Komponenten aufnehmen. Ein übersichtliches Bemaßungsschema erklärt, welche Achsabstände die Montage steuern und welche sich aus anderen Bemaßungen ergeben.",
       "titleCharacters": 58,
       "descriptionCharacters": 188,
-      "bodyWords": 638,
+      "bodyWords": 636,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4465,7 +4465,7 @@
       "description": "Varios hombros pueden ubicar varios componentes. Un esquema de dimensiones claro explica qué distancias axiales controlan el montaje y cuáles son consecuencias de otras dimensiones.",
       "titleCharacters": 78,
       "descriptionCharacters": 181,
-      "bodyWords": 792,
+      "bodyWords": 790,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4480,7 +4480,7 @@
       "description": "Diverse spalle possono posizionare diversi componenti. Uno schema dimensionale chiaro spiega quali distanze assiali controllano l'assemblaggio e quali sono conseguenze di altre dimensioni.",
       "titleCharacters": 68,
       "descriptionCharacters": 188,
-      "bodyWords": 763,
+      "bodyWords": 761,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4495,7 +4495,7 @@
       "description": "多个肩部可以定位多个部件。清晰的尺寸方案解释了哪些轴向距离控制装配以及哪些是其他尺寸的结果。",
       "titleCharacters": 20,
       "descriptionCharacters": 46,
-      "bodyWords": 114,
+      "bodyWords": 113,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4510,7 +4510,7 @@
       "description": "Plusieurs épaulements permettent de localiser plusieurs composants. Un schéma dimensionnel clair explique quelles distances axiales contrôlent l'assemblage et lesquelles sont les conséquences d'autres dimensions.",
       "titleCharacters": 65,
       "descriptionCharacters": 212,
-      "bodyWords": 764,
+      "bodyWords": 762,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4525,7 +4525,7 @@
       "description": "Eine Einpressverbindung ist abhängig von der Platte, dem Loch und dem Montagevorgang. Ein benutzerdefinierter Bolzen kann nicht als isolierte Gewindeform ausgewertet werden.",
       "titleCharacters": 104,
       "descriptionCharacters": 173,
-      "bodyWords": 636,
+      "bodyWords": 633,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4540,7 +4540,7 @@
       "description": "Una conexión a presión depende del panel, el orificio y el proceso de instalación. Un perno personalizado no puede evaluarse como una forma roscada aislada.",
       "titleCharacters": 77,
       "descriptionCharacters": 156,
-      "bodyWords": 738,
+      "bodyWords": 736,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4555,7 +4555,7 @@
       "description": "Una connessione a pressione dipende dal pannello, dal foro e dal processo di installazione. Un perno personalizzato non può essere valutato come una forma filettata isolata.",
       "titleCharacters": 96,
       "descriptionCharacters": 173,
-      "bodyWords": 729,
+      "bodyWords": 725,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4570,7 +4570,7 @@
       "description": "压入式连接取决于面板、孔和安装过程。定制螺柱不能被视为独立的螺纹形状。",
       "titleCharacters": 22,
       "descriptionCharacters": 35,
-      "bodyWords": 109,
+      "bodyWords": 108,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4585,7 +4585,7 @@
       "description": "Une connexion par pression dépend du panneau, du trou et du processus d'installation. Un goujon personnalisé ne peut pas être évalué comme une forme filetée isolée.",
       "titleCharacters": 81,
       "descriptionCharacters": 164,
-      "bodyWords": 739,
+      "bodyWords": 740,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4600,7 +4600,7 @@
       "description": "Die Gewindeerzeugung ist eine Prozessauswahl, während Gewindegeometrie und -abnahme Produktanforderungen sind. Eine vollständige Ausschreibung erklärt beides, ohne die Methode mit einem garantierten Ergebnis zu verwechseln.",
       "titleCharacters": 98,
       "descriptionCharacters": 223,
-      "bodyWords": 711,
+      "bodyWords": 709,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4615,7 +4615,7 @@
       "description": "La generación de roscas es una elección del proceso, mientras que la geometría y la aceptación de las roscas son requisitos del producto. Una RFQ completa explica ambos sin confundir el método con un resultado garantizado.",
       "titleCharacters": 68,
       "descriptionCharacters": 222,
-      "bodyWords": 846,
+      "bodyWords": 844,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4630,7 +4630,7 @@
       "description": "La generazione della filettatura è una scelta del processo, mentre la geometria e l'accettazione della filettatura sono requisiti del prodotto. Una richiesta di offerta completa spiega entrambi senza confondere il metodo con un risultato garantito.",
       "titleCharacters": 81,
       "descriptionCharacters": 248,
-      "bodyWords": 845,
+      "bodyWords": 843,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4645,7 +4645,7 @@
       "description": "螺纹生成是一种工艺选择，而螺纹几何形状和验收是产品要求。完整的询价对两者进行了解释，不会将方法与有保证的结果混淆。",
       "titleCharacters": 26,
       "descriptionCharacters": 57,
-      "bodyWords": 124,
+      "bodyWords": 123,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4660,7 +4660,7 @@
       "description": "La génération de filetage est un choix de processus, tandis que la géométrie et l'acceptation du filetage sont des exigences du produit. Un RFQ complet explique les deux sans confondre la méthode avec un résultat garanti.",
       "titleCharacters": 74,
       "descriptionCharacters": 221,
-      "bodyWords": 885,
+      "bodyWords": 883,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4675,7 +4675,7 @@
       "description": "Ein gebohrtes Querloch erzeugt Eintritts- und Austrittskanten und kann ein anderes Merkmal schneiden. In der Ausschreibung sollten diese Kanten ebenso sorgfältig definiert werden wie die Lochposition.",
       "titleCharacters": 68,
       "descriptionCharacters": 200,
-      "bodyWords": 684,
+      "bodyWords": 681,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4690,7 +4690,7 @@
       "description": "Un orificio transversal perforado crea bordes de entrada y salida y puede cruzar otra entidad. La solicitud de presupuesto debe definir esos bordes con tanto cuidado como la ubicación del agujero.",
       "titleCharacters": 90,
       "descriptionCharacters": 196,
-      "bodyWords": 812,
+      "bodyWords": 810,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4705,7 +4705,7 @@
       "description": "Un foro trasversale crea bordi di entrata e di uscita e può intersecare un altro elemento. La richiesta di offerta dovrebbe definire tali bordi con la stessa attenzione della posizione del foro.",
       "titleCharacters": 93,
       "descriptionCharacters": 194,
-      "bodyWords": 786,
+      "bodyWords": 782,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4720,7 +4720,7 @@
       "description": "钻出的交叉孔创建入口和出口边缘，并且可能与另一个特征相交。 RFQ 应像定义孔位置一样仔细定义这些边缘。",
       "titleCharacters": 25,
       "descriptionCharacters": 52,
-      "bodyWords": 118,
+      "bodyWords": 117,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4735,7 +4735,7 @@
       "description": "Un trou transversal percé crée des bords d’entrée et de sortie et peut croiser une autre entité. La demande de prix doit définir ces bords avec autant de soin que l'emplacement du trou.",
       "titleCharacters": 93,
       "descriptionCharacters": 185,
-      "bodyWords": 814,
+      "bodyWords": 815,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4750,7 +4750,7 @@
       "description": "Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem Zustand beurteilt werden, den der Kunde erhält, und nicht nur vor der Oberflächenbehandlung.",
       "titleCharacters": 63,
       "descriptionCharacters": 169,
-      "bodyWords": 714,
+      "bodyWords": 711,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4765,7 +4765,7 @@
       "description": "Un revestimiento pertenece al plano dimensional. El ajuste final debe evaluarse en las condiciones que recibe el cliente, no sólo antes del tratamiento superficial.",
       "titleCharacters": 66,
       "descriptionCharacters": 164,
-      "bodyWords": 852,
+      "bodyWords": 850,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4780,7 +4780,7 @@
       "description": "Un rivestimento rientra nel piano dimensionale. La vestibilità finale deve essere valutata nelle condizioni in cui la riceve il cliente, non solo prima del trattamento superficiale.",
       "titleCharacters": 78,
       "descriptionCharacters": 181,
-      "bodyWords": 849,
+      "bodyWords": 845,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4795,7 +4795,7 @@
       "description": "涂层属于尺寸计划。最终的配合必须在客户收到的情况下进行评估，而不仅仅是在表面处理之前。",
       "titleCharacters": 20,
       "descriptionCharacters": 43,
-      "bodyWords": 124,
+      "bodyWords": 123,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4810,7 +4810,7 @@
       "description": "Un revêtement appartient au plan dimensionnel. L'ajustement final doit être évalué dans l'état dans lequel le client reçoit, et pas seulement avant le traitement de surface.",
       "titleCharacters": 77,
       "descriptionCharacters": 173,
-      "bodyWords": 874,
+      "bodyWords": 875,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4825,7 +4825,7 @@
       "description": "Ein helles Erscheinungsbild weist nicht auf einen Oberflächenprozess hin. Geben Sie das Substrat und die gewünschte Oberflächenfunktion an, bevor Sie zwischen Galvanisierung, Passivierung oder einer anderen Behandlung wählen.",
       "titleCharacters": 84,
       "descriptionCharacters": 225,
-      "bodyWords": 626,
+      "bodyWords": 624,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4840,7 +4840,7 @@
       "description": "Una apariencia brillante no identifica un proceso superficial. Especifique el sustrato y la función superficial requerida antes de elegir entre enchapado, pasivación u otro tratamiento.",
       "titleCharacters": 80,
       "descriptionCharacters": 185,
-      "bodyWords": 714,
+      "bodyWords": 712,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4855,7 +4855,7 @@
       "description": "Un aspetto brillante non identifica un processo superficiale. Specificare il substrato e la funzione superficiale richiesta prima di scegliere tra placcatura, passivazione o altro trattamento.",
       "titleCharacters": 70,
       "descriptionCharacters": 192,
-      "bodyWords": 675,
+      "bodyWords": 673,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4870,7 +4870,7 @@
       "description": "光亮的外观并不代表表面经过处理。在选择电镀、钝化或其他处理之前，请指定基材和所需的表面功能。",
       "titleCharacters": 24,
       "descriptionCharacters": 46,
-      "bodyWords": 109,
+      "bodyWords": 108,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4885,7 +4885,7 @@
       "description": "Un aspect brillant n’identifie pas un processus de surface. Précisez le substrat et la fonction de surface requise avant de choisir entre le placage, la passivation ou un autre traitement.",
       "titleCharacters": 71,
       "descriptionCharacters": 188,
-      "bodyWords": 743,
+      "bodyWords": 741,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4900,7 +4900,7 @@
       "description": "Ein Beschichtungsfamilienname definiert nicht die gesamte gelieferte Oberfläche. Ausschreibungen für kundenspezifische Verbindungselemente sollten das Beschichtungssystem mit den Anforderungen an Passform, Reibung und Akzeptanz in Verbindung bringen.",
       "titleCharacters": 93,
       "descriptionCharacters": 250,
-      "bodyWords": 712,
+      "bodyWords": 710,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4915,7 +4915,7 @@
       "description": "El nombre de una familia de revestimientos no define la superficie completa suministrada. Las solicitudes de cotización de sujetadores personalizados deben conectar el sistema de recubrimiento con los requisitos de ajuste, fricción y aceptación.",
       "titleCharacters": 85,
       "descriptionCharacters": 245,
-      "bodyWords": 876,
+      "bodyWords": 874,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4930,7 +4930,7 @@
       "description": "Il nome di una famiglia di rivestimenti non definisce la superficie completa fornita. Le richieste di offerta di dispositivi di fissaggio personalizzati dovrebbero collegare il sistema di rivestimento ai requisiti di adattamento, attrito e accettazione.",
       "titleCharacters": 81,
       "descriptionCharacters": 253,
-      "bodyWords": 858,
+      "bodyWords": 856,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4945,7 +4945,7 @@
       "description": "涂层系列名称并不定义完整的供应表面。定制紧固件询价应将涂层系统与配合、摩擦和验收要求联系起来。",
       "titleCharacters": 19,
       "descriptionCharacters": 47,
-      "bodyWords": 123,
+      "bodyWords": 122,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4960,7 +4960,7 @@
       "description": "Un nom de famille de revêtements ne définit pas la surface complète fournie. Les demandes de prix sur les fixations personnalisées doivent relier le système de revêtement aux exigences d’ajustement, de friction et d’acceptation.",
       "titleCharacters": 80,
       "descriptionCharacters": 228,
-      "bodyWords": 914,
+      "bodyWords": 912,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4975,7 +4975,7 @@
       "description": "Sauberkeit wird zu einer technischen Anforderung, wenn Verunreinigungen die Baugruppe beeinträchtigen können. Definieren Sie, was entfernt werden muss, wie es gemessen wird und wie der saubere Zustand geschützt wird.",
       "titleCharacters": 92,
       "descriptionCharacters": 216,
-      "bodyWords": 739,
+      "bodyWords": 737,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4990,7 +4990,7 @@
       "description": "La limpieza se convierte en un requisito técnico cuando la contaminación puede afectar al conjunto. Defina qué es necesario eliminar, cómo se mide y cómo se protege la condición de limpieza.",
       "titleCharacters": 68,
       "descriptionCharacters": 190,
-      "bodyWords": 875,
+      "bodyWords": 873,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5005,7 +5005,7 @@
       "description": "La pulizia diventa un requisito tecnico quando la contaminazione può compromettere l'assemblaggio. Definire cosa deve essere rimosso, come viene misurato e come viene protetta la condizione di pulizia.",
       "titleCharacters": 65,
       "descriptionCharacters": 201,
-      "bodyWords": 846,
+      "bodyWords": 844,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5020,7 +5020,7 @@
       "description": "当污染影响装配时，清洁度就成为一项技术要求。定义需要去除的内容、测量方式以及如何保护清洁状态。",
       "titleCharacters": 24,
       "descriptionCharacters": 47,
-      "bodyWords": 123,
+      "bodyWords": 122,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5035,7 +5035,7 @@
       "description": "La propreté devient une exigence technique lorsqu'une contamination peut affecter l'assemblage. Définissez ce qui doit être retiré, comment cela est mesuré et comment l'état de propreté est protégé.",
       "titleCharacters": 78,
       "descriptionCharacters": 198,
-      "bodyWords": 878,
+      "bodyWords": 876,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5050,7 +5050,7 @@
       "description": "Für eine vorab angebrachte Verriegelungsfunktion sind definierte Material-, Standort- und Montageanforderungen erforderlich. Ein auf einem Foto abgebildeter Farbfleck stellt keine vollständige Spezifikation dar.",
       "titleCharacters": 95,
       "descriptionCharacters": 211,
-      "bodyWords": 608,
+      "bodyWords": 606,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5065,7 +5065,7 @@
       "description": "Una característica de bloqueo preaplicada necesita un material, una ubicación y un requisito de ensamblaje definidos. Un parche de color que se muestra en una fotografía no es una especificación completa.",
       "titleCharacters": 92,
       "descriptionCharacters": 204,
-      "bodyWords": 729,
+      "bodyWords": 727,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5080,7 +5080,7 @@
       "description": "Una funzione di bloccaggio preapplicata necessita di requisiti di materiale, posizione e assemblaggio definiti. Una toppa colorata mostrata in una fotografia non rappresenta una specifica completa.",
       "titleCharacters": 90,
       "descriptionCharacters": 197,
-      "bodyWords": 728,
+      "bodyWords": 726,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5095,7 +5095,7 @@
       "description": "预应用的锁定功能需要明确的材料、位置和组装要求。照片中显示的彩色补丁并不是完整的规格。",
       "titleCharacters": 27,
       "descriptionCharacters": 43,
-      "bodyWords": 107,
+      "bodyWords": 106,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5110,7 +5110,7 @@
       "description": "Une fonction de verrouillage pré-appliquée nécessite des exigences définies en matière de matériau, d'emplacement et d'assemblage. Un patch coloré montré sur une photographie ne constitue pas une spécification complète.",
       "titleCharacters": 97,
       "descriptionCharacters": 219,
-      "bodyWords": 743,
+      "bodyWords": 741,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5125,7 +5125,7 @@
       "description": "Als Kleinbaugruppe wird eine vormontierte Schraube mitgeliefert. Die Unterlegscheibe, die Haltemethode und die Reihenfolge der Komponenten erfordern die gleiche Kontrolle wie die Schraube selbst.",
       "titleCharacters": 80,
       "descriptionCharacters": 195,
-      "bodyWords": 738,
+      "bodyWords": 736,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5140,7 +5140,7 @@
       "description": "Se suministra un tornillo premontado como un conjunto pequeño. La arandela, el método de retención y la secuencia de los componentes necesitan el mismo control que el propio tornillo.",
       "titleCharacters": 69,
       "descriptionCharacters": 183,
-      "bodyWords": 874,
+      "bodyWords": 872,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5155,7 +5155,7 @@
       "description": "Una vite preassemblata viene fornita come piccolo assieme. La rondella, il metodo di ritenzione e la sequenza dei componenti necessitano dello stesso controllo della vite stessa.",
       "titleCharacters": 61,
       "descriptionCharacters": 178,
-      "bodyWords": 840,
+      "bodyWords": 838,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5170,7 +5170,7 @@
       "description": "预装螺钉作为小组件提供。垫圈、固位方法和部件顺序需要与螺钉本身相同的控制。",
       "titleCharacters": 19,
       "descriptionCharacters": 37,
-      "bodyWords": 125,
+      "bodyWords": 124,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5185,7 +5185,7 @@
       "description": "Une vis préassemblée est fournie sous forme de petit assemblage. La rondelle, la méthode de rétention et la séquence des composants nécessitent le même contrôle que la vis elle-même.",
       "titleCharacters": 61,
       "descriptionCharacters": 182,
-      "bodyWords": 877,
+      "bodyWords": 875,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5200,7 +5200,7 @@
       "description": "Mit der kamerabasierten Maßprüfung können sichtbare Merkmale einer Schraube beurteilt werden, allerdings müssen Bild, Einrichtung und Prüfprogramm zur Anforderung passen. Es ist Teil eines vollständigen Akzeptanzplans.",
       "titleCharacters": 85,
       "descriptionCharacters": 218,
-      "bodyWords": 928,
+      "bodyWords": 940,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5215,7 +5215,7 @@
       "description": "La inspección dimensional basada en cámara puede evaluar las características visibles de un tornillo, pero la imagen, la configuración y el programa de inspección deben cumplir con los requisitos. Es una parte de un plan de aceptación completo.",
       "titleCharacters": 81,
       "descriptionCharacters": 244,
-      "bodyWords": 1126,
+      "bodyWords": 1149,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5230,7 +5230,7 @@
       "description": "L'ispezione dimensionale basata su telecamera può valutare le caratteristiche visibili di una vite, ma il programma di immagine, configurazione e ispezione deve soddisfare i requisiti. È una parte di un piano di accettazione completo.",
       "titleCharacters": 77,
       "descriptionCharacters": 234,
-      "bodyWords": 1089,
+      "bodyWords": 1110,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5260,7 +5260,7 @@
       "description": "L'inspection dimensionnelle par caméra peut évaluer les caractéristiques visibles d'une vis, mais l'image, la configuration et le programme d'inspection doivent correspondre aux exigences. Il s’agit d’une partie d’un plan d’acceptation complet.",
       "titleCharacters": 80,
       "descriptionCharacters": 244,
-      "bodyWords": 1160,
+      "bodyWords": 1184,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5275,7 +5275,7 @@
       "description": "Ein Muster ist am nützlichsten, wenn seine Identität, Revision und Akzeptanzumfang klar sind. Die Erstmusterplanung verknüpft die genehmigte Konstruktionszeichnung mit den erforderlichen Nachweisen vor der nächsten Produktionsentscheidung.",
       "titleCharacters": 73,
       "descriptionCharacters": 239,
-      "bodyWords": 634,
+      "bodyWords": 632,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5290,7 +5290,7 @@
       "description": "Una muestra es más útil cuando su identidad, alcance de revisión y aceptación son claros. La planificación del primer artículo conecta el dibujo de ingeniería aprobado con la evidencia necesaria antes de la siguiente decisión de producción.",
       "titleCharacters": 90,
       "descriptionCharacters": 240,
-      "bodyWords": 735,
+      "bodyWords": 733,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5305,7 +5305,7 @@
       "description": "Un campione è particolarmente utile quando la sua identità, revisione e ambito di accettazione sono chiari. La pianificazione del primo articolo collega il disegno tecnico approvato con le prove necessarie prima della successiva decisione di produzione.",
       "titleCharacters": 85,
       "descriptionCharacters": 253,
-      "bodyWords": 722,
+      "bodyWords": 720,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5320,7 +5320,7 @@
       "description": "当样本的身份、修订和接受范围明确时，它是最有用的。首件规划将批准的工程图纸与下一个生产决策之前所需的证据联系起来。",
       "titleCharacters": 23,
       "descriptionCharacters": 57,
-      "bodyWords": 105,
+      "bodyWords": 104,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5335,7 +5335,7 @@
       "description": "Un échantillon est plus utile lorsque son identité, sa révision et sa portée d'acceptation sont claires. La planification du premier article relie le dessin technique approuvé aux preuves nécessaires avant la prochaine décision de production.",
       "titleCharacters": 90,
       "descriptionCharacters": 242,
-      "bodyWords": 758,
+      "bodyWords": 756,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5350,7 +5350,7 @@
       "description": "Der Inspektionsumfang sollte dem Merkmals- und Abnahmeplan folgen. Wenn man sagt, dass eine nicht standardmäßige Schraube einer vollständigen Inspektion bedarf, bleiben Methode, Merkmale und Beweise unklar.",
       "titleCharacters": 71,
       "descriptionCharacters": 206,
-      "bodyWords": 662,
+      "bodyWords": 660,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5365,7 +5365,7 @@
       "description": "La cobertura de inspección debe seguir las características y el plan de aceptación. Decir que un tornillo no estándar necesita una inspección completa deja sin definir el método, las características y la evidencia.",
       "titleCharacters": 64,
       "descriptionCharacters": 214,
-      "bodyWords": 786,
+      "bodyWords": 784,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5380,7 +5380,7 @@
       "description": "La copertura dell'ispezione dovrebbe seguire il piano delle caratteristiche e dell'accettazione. Dire che una vite non standard necessita di un'ispezione completa lascia indefiniti il ​​metodo, le caratteristiche e le prove.",
       "titleCharacters": 72,
       "descriptionCharacters": 224,
-      "bodyWords": 760,
+      "bodyWords": 758,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5395,7 +5395,7 @@
       "description": "检查范围应遵循特性和验收计划。说非标螺丝需要全面检查，却没有明确方法、特征和证据。",
       "titleCharacters": 27,
       "descriptionCharacters": 41,
-      "bodyWords": 112,
+      "bodyWords": 111,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5410,7 +5410,7 @@
       "description": "La couverture d'inspection doit suivre les caractéristiques et le plan d'acceptation. Dire qu’une vis non standard nécessite une inspection complète laisse la méthode, les caractéristiques et les preuves indéfinies.",
       "titleCharacters": 70,
       "descriptionCharacters": 215,
-      "bodyWords": 796,
+      "bodyWords": 794,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5575,7 +5575,7 @@
       "description": "Ein Prototyp kann eine nützliche Geometrie erstellen, ohne den endgültigen Produktionsweg zu definieren. Planen Sie den Übergang so, dass die genehmigten Funktions- und Akzeptanzanforderungen die Änderung der Herstellungsmethode überdauern.",
       "titleCharacters": 78,
       "descriptionCharacters": 240,
-      "bodyWords": 626,
+      "bodyWords": 624,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5590,7 +5590,7 @@
       "description": "Un prototipo puede establecer una geometría útil sin definir la ruta de producción final. Planifique la transición para que la función aprobada y los requisitos de aceptación sobrevivan al cambio en el método de fabricación.",
       "titleCharacters": 91,
       "descriptionCharacters": 224,
-      "bodyWords": 759,
+      "bodyWords": 757,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5605,7 +5605,7 @@
       "description": "Un prototipo può stabilire una geometria utile senza definire il percorso di produzione finale. Pianificare la transizione in modo che la funzione approvata e i requisiti di accettazione sopravvivano al cambiamento del metodo di produzione.",
       "titleCharacters": 83,
       "descriptionCharacters": 240,
-      "bodyWords": 743,
+      "bodyWords": 741,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5620,7 +5620,7 @@
       "description": "原型可以建立有用的几何形状，而无需定义最终的生产路线。规划过渡，以便批准的功能和验收要求能够在制造方法的变化中继续存在。",
       "titleCharacters": 23,
       "descriptionCharacters": 60,
-      "bodyWords": 107,
+      "bodyWords": 106,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5635,7 +5635,7 @@
       "description": "Un prototype peut établir une géométrie utile sans définir l’itinéraire de production final. Planifiez la transition de manière à ce que les fonctions approuvées et les exigences d'acceptation survivent au changement de méthode de fabrication.",
       "titleCharacters": 88,
       "descriptionCharacters": 243,
-      "bodyWords": 770,
+      "bodyWords": 768,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5650,7 +5650,7 @@
       "description": "Nachbestellungen sollten die genehmigte Spezifikation wiederholen und nicht die Unklarheiten einer alten E-Mail. Eine kleine Gewohnheit zur Revisionskontrolle kann kostspielige Verwirrung bei Zeichnungen, Mustern und Prüfprotokollen verhindern.",
       "titleCharacters": 113,
       "descriptionCharacters": 244,
-      "bodyWords": 626,
+      "bodyWords": 624,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5665,7 +5665,7 @@
       "description": "Los pedidos repetidos deben repetir las especificaciones aprobadas, no las ambigüedades de un correo electrónico antiguo. Un pequeño hábito de control de revisiones puede evitar costosas confusiones entre dibujos, muestras y registros de inspección.",
       "titleCharacters": 105,
       "descriptionCharacters": 249,
-      "bodyWords": 755,
+      "bodyWords": 753,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5680,7 +5680,7 @@
       "description": "Gli ordini ripetuti dovrebbero ripetere le specifiche approvate, non le ambiguità di una vecchia email. Una piccola abitudine al controllo delle revisioni può evitare costose confusioni tra disegni, campioni e registrazioni di ispezione.",
       "titleCharacters": 116,
       "descriptionCharacters": 237,
-      "bodyWords": 733,
+      "bodyWords": 731,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5695,7 +5695,7 @@
       "description": "重复订单应重复已批准的规格，而不是旧电子邮件中的含糊之处。一个小小的修订控制习惯可以防止图纸、样品和检验记录之间出现昂贵的混乱。",
       "titleCharacters": 25,
       "descriptionCharacters": 64,
-      "bodyWords": 105,
+      "bodyWords": 104,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5710,7 +5710,7 @@
       "description": "Les commandes répétées doivent répéter les spécifications approuvées, et non les ambiguïtés d'un ancien e-mail. Une petite habitude de contrôle des révisions peut éviter une confusion coûteuse entre les dessins, les échantillons et les enregistrements d’inspection.",
       "titleCharacters": 107,
       "descriptionCharacters": 265,
-      "bodyWords": 767,
+      "bodyWords": 765,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5725,7 +5725,7 @@
       "description": "Die Verpackung gehört zum Lieferzustand. Es soll Funktionsflächen schützen, die Identifikation wahren und den Wareneingangs- und Montageprozess praxistauglich gestalten.",
       "titleCharacters": 92,
       "descriptionCharacters": 169,
-      "bodyWords": 628,
+      "bodyWords": 626,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5740,7 +5740,7 @@
       "description": "El embalaje forma parte del estado de entrega. Debe proteger las superficies funcionales, preservar la identificación y hacer práctico el proceso de inspección y montaje entrante.",
       "titleCharacters": 82,
       "descriptionCharacters": 179,
-      "bodyWords": 732,
+      "bodyWords": 730,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5755,7 +5755,7 @@
       "description": "L'imballaggio fa parte della condizione di consegna. Dovrebbe proteggere le superfici funzionali, preservare l'identificazione e rendere pratico il processo di ispezione e assemblaggio in entrata.",
       "titleCharacters": 79,
       "descriptionCharacters": 196,
-      "bodyWords": 705,
+      "bodyWords": 703,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5770,7 +5770,7 @@
       "description": "包装是交付状态的一部分。它应该保护功能表面，保留标识并使进货检查和组装过程切实可行。",
       "titleCharacters": 24,
       "descriptionCharacters": 42,
-      "bodyWords": 105,
+      "bodyWords": 104,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5785,7 +5785,7 @@
       "description": "L'emballage fait partie de l'état de livraison. Il doit protéger les surfaces fonctionnelles, préserver l’identification et rendre pratique le processus d’inspection et d’assemblage à l’arrivée.",
       "titleCharacters": 88,
       "descriptionCharacters": 194,
-      "bodyWords": 763,
+      "bodyWords": 761,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5870,7 +5870,7 @@
       "description": "ZUFEK wurde 2005 in Dalang, Dongguan, gegründet und liefert kundenspezifische Metallschrauben für Lieferkettenprojekte für Geräte und Automobilkomponenten.",
       "titleCharacters": 61,
       "descriptionCharacters": 155,
-      "bodyWords": 556,
+      "bodyWords": 590,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5884,7 +5884,7 @@
       "description": "Fundada en 2005 en Dalang, Dongguan, ZUFEK suministra tornillos metálicos personalizados para proyectos de cadena de suministro de equipos y componentes automotrices.",
       "titleCharacters": 72,
       "descriptionCharacters": 166,
-      "bodyWords": 723,
+      "bodyWords": 778,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5898,7 +5898,7 @@
       "description": "Fondata nel 2005 a Dalang, Dongguan, ZUFEK fornisce viti metalliche personalizzate per progetti di catena di fornitura di apparecchiature e componenti automobilistici.",
       "titleCharacters": 81,
       "descriptionCharacters": 167,
-      "bodyWords": 686,
+      "bodyWords": 738,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5912,7 +5912,7 @@
       "description": "ZUFEK 成立于东莞大朗2005，为设备和汽车零部件供应链项目提供定制金属螺丝。",
       "titleCharacters": 34,
       "descriptionCharacters": 41,
-      "bodyWords": 87,
+      "bodyWords": 91,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5926,7 +5926,7 @@
       "description": "Fondée à 2005 à Dalang, Dongguan, ZUFEK fournit des vis métalliques sur mesure pour les projets de chaîne d'approvisionnement d'équipements et de composants automobiles.",
       "titleCharacters": 78,
       "descriptionCharacters": 169,
-      "bodyWords": 728,
+      "bodyWords": 779,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6290,7 +6290,7 @@
       "description": "Spezielle Antriebsschnittstellen verhindern den zufälligen Zugriff und ermöglichen gleichzeitig die Betätigung der Schraube durch ein zugelassenes Servicewerkzeug. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 83,
       "descriptionCharacters": 243,
-      "bodyWords": 1062,
+      "bodyWords": 1050,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6305,7 +6305,7 @@
       "description": "Las interfaces de accionamiento especiales ayudan a restringir el acceso casual y al mismo tiempo permiten que una herramienta de servicio aprobada opere el tornillo. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 87,
       "descriptionCharacters": 248,
-      "bodyWords": 1374,
+      "bodyWords": 1373,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6320,7 +6320,7 @@
       "description": "Interfacce di azionamento speciali aiutano a limitare l'accesso occasionale consentendo allo stesso tempo a uno strumento di servizio approvato di azionare la vite. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 241,
-      "bodyWords": 1269,
+      "bodyWords": 1266,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6335,7 +6335,7 @@
       "description": "特殊的驱动接口有助于限制随意接触，同时允许使用经批准的维修工具来操作螺钉。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 63,
-      "bodyWords": 125,
+      "bodyWords": 126,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6350,7 +6350,7 @@
       "description": "Des interfaces d'entraînement spéciales aident à restreindre l'accès occasionnel tout en permettant à un outil d'entretien approuvé de faire fonctionner la vis. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 64,
       "descriptionCharacters": 263,
-      "bodyWords": 1328,
+      "bodyWords": 1330,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6365,7 +6365,7 @@
       "description": "Eine axiale Bohrung schafft einen Durchgang durch eine Gewindekomponente für eine anwendungsspezifische Leitungs- oder Durchflussanforderung. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 221,
-      "bodyWords": 1108,
+      "bodyWords": 1096,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6380,7 +6380,7 @@
       "description": "Un orificio axial crea un paso a través de un componente roscado para un requisito de flujo o enrutamiento específico de la aplicación. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 61,
       "descriptionCharacters": 217,
-      "bodyWords": 1401,
+      "bodyWords": 1400,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6395,7 +6395,7 @@
       "description": "Un foro assiale crea un passaggio attraverso un componente filettato per un percorso o un requisito di flusso specifico dell'applicazione. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 62,
       "descriptionCharacters": 215,
-      "bodyWords": 1329,
+      "bodyWords": 1326,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6410,7 +6410,7 @@
       "description": "轴向孔创建穿过螺纹部件的通道，以满足特定应用的路由或流量要求。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 57,
-      "bodyWords": 127,
+      "bodyWords": 128,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6425,7 +6425,7 @@
       "description": "Un alésage axial crée un passage à travers un composant fileté pour une exigence de routage ou de débit spécifique à une application. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 58,
       "descriptionCharacters": 236,
-      "bodyWords": 1395,
+      "bodyWords": 1397,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6440,7 +6440,7 @@
       "description": "Ein integrierter Flansch bietet eine in der Konstruktionszeichnung definierte Lagerfläche ohne eine separat behandelte Unterlegscheibe. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 69,
       "descriptionCharacters": 215,
-      "bodyWords": 1106,
+      "bodyWords": 1094,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6455,7 +6455,7 @@
       "description": "Una brida integral proporciona una huella de rodamiento definida por el dibujo de ingeniería sin una arandela manejada por separado. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 68,
       "descriptionCharacters": 214,
-      "bodyWords": 1426,
+      "bodyWords": 1425,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6470,7 +6470,7 @@
       "description": "Una flangia integrale fornisce un'impronta del cuscinetto definita nel disegno tecnico senza una rondella gestita separatamente. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 56,
       "descriptionCharacters": 205,
-      "bodyWords": 1316,
+      "bodyWords": 1313,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6485,7 +6485,7 @@
       "description": "整体式法兰提供了工程图定义的轴承足迹，无需单独处理的垫圈。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 23,
       "descriptionCharacters": 55,
-      "bodyWords": 129,
+      "bodyWords": 130,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6500,7 +6500,7 @@
       "description": "Une bride intégrée fournit une empreinte de roulement définie par le dessin technique sans rondelle manipulée séparément. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 57,
       "descriptionCharacters": 224,
-      "bodyWords": 1382,
+      "bodyWords": 1384,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6515,7 +6515,7 @@
       "description": "Ein grifforientierter Kopf unterstützt die manuelle Einstellung, mit optionalem Werkzeugantrieb für die angegebene Montagemethode. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 210,
-      "bodyWords": 1096,
+      "bodyWords": 1084,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6530,7 +6530,7 @@
       "description": "Un cabezal orientado al agarre admite el ajuste manual, con accionamiento de herramienta opcional para el método de montaje especificado. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 74,
       "descriptionCharacters": 219,
-      "bodyWords": 1394,
+      "bodyWords": 1393,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6545,7 +6545,7 @@
       "description": "Una testa orientata alla presa supporta la regolazione manuale, con azionamento utensile opzionale per il metodo di assemblaggio specificato. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 81,
       "descriptionCharacters": 218,
-      "bodyWords": 1303,
+      "bodyWords": 1300,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6560,7 +6560,7 @@
       "description": "面向抓握的头部支持手动调节，并可选配用于指定装配方法的工具驱动装置。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 26,
       "descriptionCharacters": 60,
-      "bodyWords": 130,
+      "bodyWords": 131,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6575,7 +6575,7 @@
       "description": "Une tête orientée poignée prend en charge le réglage manuel, avec un entraînement d'outil en option pour la méthode d'assemblage spécifiée. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 64,
       "descriptionCharacters": 242,
-      "bodyWords": 1381,
+      "bodyWords": 1383,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6590,7 +6590,7 @@
       "description": "Gewindekomponenten mit kopflosen Schrauben übertragen eine Positionierungs- oder Klemmwirkung über eine bestimmte Spitze. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 87,
       "descriptionCharacters": 201,
-      "bodyWords": 1000,
+      "bodyWords": 988,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6605,7 +6605,7 @@
       "description": "Los componentes roscados sin cabeza transfieren una acción de localización o sujeción a través de una punta específica. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 98,
       "descriptionCharacters": 201,
-      "bodyWords": 1259,
+      "bodyWords": 1258,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6620,7 +6620,7 @@
       "description": "I componenti filettati senza testa trasferiscono un'azione di posizionamento o bloccaggio attraverso una punta specifica. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 67,
       "descriptionCharacters": 198,
-      "bodyWords": 1189,
+      "bodyWords": 1186,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6635,7 +6635,7 @@
       "description": "无头螺纹元件通过指定的尖端传递定位或夹紧动作。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 26,
       "descriptionCharacters": 49,
-      "bodyWords": 111,
+      "bodyWords": 112,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6650,7 +6650,7 @@
       "description": "Les composants filetés sans tête transfèrent une action de localisation ou de serrage à travers une pointe spécifiée. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 80,
       "descriptionCharacters": 220,
-      "bodyWords": 1261,
+      "bodyWords": 1263,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6665,7 +6665,7 @@
       "description": "Ein für die Konstruktionszeichnung spezifischer T-Kopf greift zum Positionieren oder Klemmen in einen passenden Schlitz ein. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 68,
       "descriptionCharacters": 204,
-      "bodyWords": 564,
+      "bodyWords": 552,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6680,7 +6680,7 @@
       "description": "Una cabeza en T específica del dibujo de ingeniería encaja en una ranura correspondiente para posicionamiento o sujeción. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 75,
       "descriptionCharacters": 203,
-      "bodyWords": 723,
+      "bodyWords": 722,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6695,7 +6695,7 @@
       "description": "Una testa a T specifica per il disegno tecnico si innesta in una fessura corrispondente per il posizionamento o il bloccaggio. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 69,
       "descriptionCharacters": 203,
-      "bodyWords": 691,
+      "bodyWords": 688,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6710,7 +6710,7 @@
       "description": "工程图专用的 T 型头接合匹配的槽以进行定位或夹紧。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 22,
       "descriptionCharacters": 52,
-      "bodyWords": 81,
+      "bodyWords": 82,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6725,7 +6725,7 @@
       "description": "Une tête en T spécifique au dessin technique s'engage dans une fente correspondante pour le positionnement ou le serrage. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 70,
       "descriptionCharacters": 224,
-      "bodyWords": 746,
+      "bodyWords": 748,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6740,7 +6740,7 @@
       "description": "Ein ösen- oder gabelförmiges Ende verbindet einen Gewindeschaft mit einem Stift oder Gelenk. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 76,
       "descriptionCharacters": 172,
-      "bodyWords": 576,
+      "bodyWords": 564,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6755,7 +6755,7 @@
       "description": "Un extremo estilo ojo o horquilla conecta un vástago roscado a un pasador o junta articulada. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 77,
       "descriptionCharacters": 175,
-      "bodyWords": 750,
+      "bodyWords": 749,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6770,7 +6770,7 @@
       "description": "Un'estremità a occhiello o a forcella collega un gambo filettato a un perno o un giunto articolato. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 75,
       "descriptionCharacters": 176,
-      "bodyWords": 724,
+      "bodyWords": 721,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6785,7 +6785,7 @@
       "description": "孔眼或叉式端部将螺纹杆连接至销或铰接接头。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 47,
-      "bodyWords": 77,
+      "bodyWords": 78,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6800,7 +6800,7 @@
       "description": "Une extrémité de type œil ou fourche relie une tige filetée à une goupille ou à un joint articulé. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 201,
-      "bodyWords": 762,
+      "bodyWords": 764,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6815,7 +6815,7 @@
       "description": "In der Konstruktionszeichnung definierte Ring- und Schaftgeometrien zur technischen Überprüfung hebebezogener Anforderungen. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 82,
       "descriptionCharacters": 204,
-      "bodyWords": 580,
+      "bodyWords": 568,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6830,7 +6830,7 @@
       "description": "Geometrías de vástago y anillo definidas por planos de ingeniería para la revisión de ingeniería de los requisitos relacionados con la elevación. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 82,
       "descriptionCharacters": 227,
-      "bodyWords": 768,
+      "bodyWords": 767,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6845,7 +6845,7 @@
       "description": "geometrie dell'anello e del gambo definite dal disegno tecnico per la revisione tecnica dei requisiti relativi al sollevamento. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 82,
       "descriptionCharacters": 204,
-      "bodyWords": 736,
+      "bodyWords": 733,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6860,7 +6860,7 @@
       "description": "工程图定义的环和柄几何形状，用于起重相关要求的工程审查。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 23,
       "descriptionCharacters": 54,
-      "bodyWords": 77,
+      "bodyWords": 78,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6875,7 +6875,7 @@
       "description": "géométries d'anneaux et de tiges définies par des dessins techniques pour l'examen technique des exigences liées au levage. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 87,
       "descriptionCharacters": 226,
-      "bodyWords": 786,
+      "bodyWords": 788,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6890,7 +6890,7 @@
       "description": "Ein gebogener Schaft und zwei Gewindeschenkel passen sich den Abmessungen des Rohrs, Rahmens oder geklemmten Bauteils an. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 61,
       "descriptionCharacters": 201,
-      "bodyWords": 541,
+      "bodyWords": 529,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6905,7 +6905,7 @@
       "description": "Un vástago curvado y dos patas roscadas siguen las dimensiones del tubo, marco o componente sujetado. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 64,
       "descriptionCharacters": 183,
-      "bodyWords": 702,
+      "bodyWords": 701,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6920,7 +6920,7 @@
       "description": "Un gambo piegato e due gambe filettate seguono le dimensioni del tubo, del telaio o del componente serrato. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 53,
       "descriptionCharacters": 184,
-      "bodyWords": 680,
+      "bodyWords": 677,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6935,7 +6935,7 @@
       "description": "弯曲柄和两个螺纹腿遵循管道、框架或夹紧部件的尺寸。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 51,
-      "bodyWords": 80,
+      "bodyWords": 81,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6950,7 +6950,7 @@
       "description": "Une tige courbée et deux pattes filetées suivent les dimensions du tuyau, du cadre ou du composant serré. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 57,
       "descriptionCharacters": 208,
-      "bodyWords": 710,
+      "bodyWords": 712,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6965,7 +6965,7 @@
       "description": "Eine quadratische Werkzeugschnittstelle oder ein erfasster Kopf unterstützen anwendungsspezifische Zugriffs- und Verdrehsicherungsanforderungen. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 70,
       "descriptionCharacters": 224,
-      "bodyWords": 549,
+      "bodyWords": 537,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6980,7 +6980,7 @@
       "description": "Una interfaz de herramienta cuadrada o un cabezal capturado respalda las necesidades de acceso y antirrotación específicas de la aplicación. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 75,
       "descriptionCharacters": 222,
-      "bodyWords": 716,
+      "bodyWords": 715,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6995,7 +6995,7 @@
       "description": "Un'interfaccia utensile quadrata o una testa catturata supporta le esigenze di accesso e antirotazione specifiche dell'applicazione. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 74,
       "descriptionCharacters": 209,
-      "bodyWords": 677,
+      "bodyWords": 674,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7010,7 +7010,7 @@
       "description": "方形工具接口或捕获头支持特定于应用程序的访问和防旋转需求。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 55,
-      "bodyWords": 79,
+      "bodyWords": 80,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7025,7 +7025,7 @@
       "description": "Une interface d'outil carrée ou une tête capturée prend en charge les besoins d'accès et d'anti-rotation spécifiques à l'application. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 69,
       "descriptionCharacters": 236,
-      "bodyWords": 724,
+      "bodyWords": 726,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7040,7 +7040,7 @@
       "description": "Ein runder Kopf und ein durch die Konstruktionszeichnung definierter Vierkanthals sorgen für eine verdrehsichere Schnittstelle mit der Gegenkomponente. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 69,
       "descriptionCharacters": 231,
-      "bodyWords": 560,
+      "bodyWords": 548,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7055,7 +7055,7 @@
       "description": "Una cabeza redonda y un cuello cuadrado definido por un dibujo de ingeniería proporcionan una interfaz antirrotación con el componente acoplado. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 67,
       "descriptionCharacters": 226,
-      "bodyWords": 713,
+      "bodyWords": 712,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7070,7 +7070,7 @@
       "description": "Una testa rotonda e un collo quadrato definito dal disegno tecnico forniscono un'interfaccia antirotazione con il componente di accoppiamento. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 62,
       "descriptionCharacters": 219,
-      "bodyWords": 685,
+      "bodyWords": 682,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7085,7 +7085,7 @@
       "description": "圆头和工程图定义的方颈提供了与配合部件的防旋转接口。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 52,
-      "bodyWords": 78,
+      "bodyWords": 79,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7100,7 +7100,7 @@
       "description": "Une tête ronde et un col carré défini par le dessin technique fournissent une interface anti-rotation avec le composant d'accouplement. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 67,
       "descriptionCharacters": 238,
-      "bodyWords": 724,
+      "bodyWords": 726,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7115,7 +7115,7 @@
       "description": "Eine Versatz- oder Winkelfunktion wandelt eine Anpassung in eine kontrollierte Positionsänderung um. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 69,
       "descriptionCharacters": 180,
-      "bodyWords": 556,
+      "bodyWords": 544,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7130,7 +7130,7 @@
       "description": "Una característica desplazada o en ángulo convierte un ajuste en un cambio de posición controlado. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 75,
       "descriptionCharacters": 180,
-      "bodyWords": 713,
+      "bodyWords": 712,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7145,7 +7145,7 @@
       "description": "Una caratteristica offset o angolata converte una regolazione in un cambiamento di posizione controllato. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 69,
       "descriptionCharacters": 182,
-      "bodyWords": 671,
+      "bodyWords": 668,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7160,7 +7160,7 @@
       "description": "偏移或角度特征将调整转换为受控的位置变化。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 24,
       "descriptionCharacters": 47,
-      "bodyWords": 77,
+      "bodyWords": 78,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7175,7 +7175,7 @@
       "description": "Une fonction de décalage ou d'angle convertit un ajustement en un changement de position contrôlé. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 63,
       "descriptionCharacters": 201,
-      "bodyWords": 706,
+      "bodyWords": 708,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7190,7 +7190,7 @@
       "description": "Zwei Gewindeenden können unterschiedliche Durchmesser, Steigungen oder Eingriffslängen haben und sind durch einen benutzerdefinierten Mittelabschnitt getrennt. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 239,
-      "bodyWords": 661,
+      "bodyWords": 649,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7205,7 +7205,7 @@
       "description": "Dos extremos roscados pueden utilizar diferentes diámetros, pasos o longitudes de acoplamiento, separados por una sección central personalizada. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 73,
       "descriptionCharacters": 226,
-      "bodyWords": 827,
+      "bodyWords": 826,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7220,7 +7220,7 @@
       "description": "Due estremità filettate possono utilizzare diametri, passi o lunghezze di impegno diversi, separati da una sezione centrale personalizzata. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 68,
       "descriptionCharacters": 216,
-      "bodyWords": 797,
+      "bodyWords": 794,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7235,7 +7235,7 @@
       "description": "两个螺纹端可以使用不同的直径、螺距或啮合长度，并由定制的中心部分分隔开。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 62,
-      "bodyWords": 91,
+      "bodyWords": 92,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7250,7 +7250,7 @@
       "description": "Deux extrémités filetées peuvent utiliser des diamètres, pas ou longueurs d'engagement différents, séparées par une section centrale personnalisée. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 250,
-      "bodyWords": 818,
+      "bodyWords": 820,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7265,7 +7265,7 @@
       "description": "In der Konstruktionszeichnung definierte Feinabstände unterstützen Anpassungs- und Eingriffsanforderungen, wenn eine Standardauswahl nicht passt. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 80,
       "descriptionCharacters": 225,
-      "bodyWords": 656,
+      "bodyWords": 644,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7280,7 +7280,7 @@
       "description": "Los pasos finos definidos por dibujos de ingeniería admiten requisitos de ajuste y compromiso donde una selección estándar no encaja. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 68,
       "descriptionCharacters": 215,
-      "bodyWords": 840,
+      "bodyWords": 839,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7295,7 +7295,7 @@
       "description": "I passi fini definiti dal disegno tecnico supportano i requisiti di regolazione e impegno laddove una selezione standard non si adatta. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 63,
       "descriptionCharacters": 212,
-      "bodyWords": 798,
+      "bodyWords": 795,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7310,7 +7310,7 @@
       "description": "工程图定义的细间距支持标准选择不适合的调整和接合要求。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 23,
       "descriptionCharacters": 53,
-      "bodyWords": 94,
+      "bodyWords": 95,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7325,7 +7325,7 @@
       "description": "Les pas fins définis par les dessins techniques prennent en charge les exigences d'ajustement et d'engagement là où une sélection standard ne convient pas. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 57,
       "descriptionCharacters": 258,
-      "bodyWords": 849,
+      "bodyWords": 851,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7340,7 +7340,7 @@
       "description": "Trapez-, Stütz-, Hoch-Tief- und Verbundgewindeanordnungen erfordern ein explizites Profil und ein passendes Teil. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 81,
       "descriptionCharacters": 193,
-      "bodyWords": 647,
+      "bodyWords": 635,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7355,7 +7355,7 @@
       "description": "Las disposiciones de rosca trapezoidal, de contrafuerte, alta-baja y compuesta requieren un perfil explícito y una pieza coincidente. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 75,
       "descriptionCharacters": 215,
-      "bodyWords": 807,
+      "bodyWords": 806,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7370,7 +7370,7 @@
       "description": "Le disposizioni trapezoidali, a contrafforte, alto-basso e con filettatura composta richiedono un profilo esplicito e una parte corrispondente. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 65,
       "descriptionCharacters": 220,
-      "bodyWords": 780,
+      "bodyWords": 777,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7385,7 +7385,7 @@
       "description": "梯形、梯形、高低和复合螺纹布置需要明确的轮廓和匹配零件。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 24,
       "descriptionCharacters": 54,
-      "bodyWords": 86,
+      "bodyWords": 87,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7400,7 +7400,7 @@
       "description": "Les dispositions de filetage trapézoïdal, contrefort, haut-bas et composé nécessitent un profil explicite et une pièce correspondante. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 237,
-      "bodyWords": 805,
+      "bodyWords": 807,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7415,7 +7415,7 @@
       "description": "Geschlitzte, geschnittene oder ausgesparte Enden können entsprechend dem tatsächlichen Material- und Lochzustand angegeben werden. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 88,
       "descriptionCharacters": 210,
-      "bodyWords": 622,
+      "bodyWords": 610,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7430,7 +7430,7 @@
       "description": "Los extremos ranurados, cortados o aliviados se pueden especificar según el material real y la condición del orificio. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 78,
       "descriptionCharacters": 200,
-      "bodyWords": 783,
+      "bodyWords": 782,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7445,7 +7445,7 @@
       "description": "È possibile specificare le estremità scanalate, tagliate o scaricate in base al materiale effettivo e alle condizioni del foro. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 75,
       "descriptionCharacters": 204,
-      "bodyWords": 755,
+      "bodyWords": 752,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7460,7 +7460,7 @@
       "description": "可以根据实际材料和孔状况指定开槽、切割或浮雕端部。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 24,
       "descriptionCharacters": 51,
-      "bodyWords": 83,
+      "bodyWords": 84,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7475,7 +7475,7 @@
       "description": "Les extrémités fendues, coupées ou soulagées peuvent être spécifiées autour du matériau réel et de l'état du trou. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 217,
-      "bodyWords": 781,
+      "bodyWords": 783,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7490,7 +7490,7 @@
       "description": "Ein reduzierter oder abgestufter Schaft führt zu einer bewussten Querschnittsänderung zwischen den Funktionsmerkmalen. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 82,
       "descriptionCharacters": 198,
-      "bodyWords": 572,
+      "bodyWords": 560,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7505,7 +7505,7 @@
       "description": "Un mango reducido o escalonado introduce un cambio deliberado en la sección entre características funcionales. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 72,
       "descriptionCharacters": 192,
-      "bodyWords": 712,
+      "bodyWords": 711,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7520,7 +7520,7 @@
       "description": "Un gambo ridotto o gradinato introduce un cambiamento deliberato nella sezione tra le caratteristiche funzionali. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 64,
       "descriptionCharacters": 190,
-      "bodyWords": 694,
+      "bodyWords": 691,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7535,7 +7535,7 @@
       "description": "缩小或阶梯式刀柄在功能特征之间引入了故意的截面变化。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 22,
       "descriptionCharacters": 52,
-      "bodyWords": 77,
+      "bodyWords": 78,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7550,7 +7550,7 @@
       "description": "Une tige réduite ou étagée introduit un changement délibéré de section entre les caractéristiques fonctionnelles. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 61,
       "descriptionCharacters": 216,
-      "bodyWords": 722,
+      "bodyWords": 724,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7565,7 +7565,7 @@
       "description": "Eine definierte konische oder konische Oberfläche stellt eine Positionierungs-, Kontakt- oder Dichtungsschnittstelle mit einer passenden Komponente her. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 76,
       "descriptionCharacters": 232,
-      "bodyWords": 576,
+      "bodyWords": 564,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7580,7 +7580,7 @@
       "description": "Una superficie cónica o cónica definida establece una interfaz de localización, contacto o sellado con un componente correspondiente. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 215,
-      "bodyWords": 726,
+      "bodyWords": 725,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7595,7 +7595,7 @@
       "description": "Una superficie rastremata o conica definita stabilisce un'interfaccia di posizionamento, contatto o sigillatura con un componente corrispondente. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 63,
       "descriptionCharacters": 222,
-      "bodyWords": 699,
+      "bodyWords": 696,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7610,7 +7610,7 @@
       "description": "限定的锥度或圆锥形表面与匹配部件建立定位、接触或密封界面。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 22,
       "descriptionCharacters": 55,
-      "bodyWords": 77,
+      "bodyWords": 78,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7625,7 +7625,7 @@
       "description": "Une surface conique ou conique définie établit une interface de positionnement, de contact ou d'étanchéité avec un composant correspondant. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 62,
       "descriptionCharacters": 242,
-      "bodyWords": 729,
+      "bodyWords": 731,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7640,7 +7640,7 @@
       "description": "Ein lokaler Stift oder eine Positionierungsverlängerung kombiniert eine Schraubverbindung mit einer in der Konstruktionszeichnung definierten Positionierungsfunktion. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 76,
       "descriptionCharacters": 246,
-      "bodyWords": 562,
+      "bodyWords": 550,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7655,7 +7655,7 @@
       "description": "Un pasador local o una extensión de posicionamiento combinan una conexión por tornillo con una característica de posicionamiento definida por un plano de ingeniería. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 81,
       "descriptionCharacters": 247,
-      "bodyWords": 729,
+      "bodyWords": 728,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7670,7 +7670,7 @@
       "description": "Un perno locale o un'estensione di posizionamento combina una connessione a vite con una funzione di posizionamento definita dal disegno tecnico. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 77,
       "descriptionCharacters": 222,
-      "bodyWords": 692,
+      "bodyWords": 689,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7685,7 +7685,7 @@
       "description": "局部销或定位延伸件将螺钉连接与工程图定义的定位特征相结合。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 22,
       "descriptionCharacters": 55,
-      "bodyWords": 77,
+      "bodyWords": 78,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7700,7 +7700,7 @@
       "description": "Une broche locale ou une extension de positionnement combine une connexion vissée avec une fonction de positionnement définie par un dessin technique. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 74,
       "descriptionCharacters": 253,
-      "bodyWords": 719,
+      "bodyWords": 721,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7715,7 +7715,7 @@
       "description": "Zwei Gewindeenden und eine größere Mittelschulter vereinen Verbindung und axiale Fixierung in einem Teil. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 67,
       "descriptionCharacters": 185,
-      "bodyWords": 549,
+      "bodyWords": 537,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7730,7 +7730,7 @@
       "description": "Dos extremos roscados y un hombro central más grande combinan conexión y ubicación axial en una sola pieza. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 72,
       "descriptionCharacters": 189,
-      "bodyWords": 697,
+      "bodyWords": 696,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7745,7 +7745,7 @@
       "description": "Due estremità filettate e uno spallamento centrale più grande uniscono collegamento e posizionamento assiale in un unico pezzo. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 55,
       "descriptionCharacters": 204,
-      "bodyWords": 675,
+      "bodyWords": 672,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7760,7 +7760,7 @@
       "description": "两个螺纹端和一个较大的中央肩部将连接和轴向定位结合在一个部件中。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 58,
-      "bodyWords": 76,
+      "bodyWords": 77,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7775,7 +7775,7 @@
       "description": "Deux extrémités filetées et un épaulement central plus grand combinent connexion et positionnement axial en une seule pièce. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 66,
       "descriptionCharacters": 227,
-      "bodyWords": 691,
+      "bodyWords": 693,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7790,7 +7790,7 @@
       "description": "Ein radiales oder quer verlaufendes Loch bietet einen bestimmten Durchgang für einen Stift, einen Draht oder ein anderes Montageelement. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 81,
       "descriptionCharacters": 216,
-      "bodyWords": 566,
+      "bodyWords": 554,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7805,7 +7805,7 @@
       "description": "Un orificio radial o transversal proporciona un paso específico para un pasador, alambre u otro elemento de ensamblaje. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 92,
       "descriptionCharacters": 201,
-      "bodyWords": 725,
+      "bodyWords": 724,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7820,7 +7820,7 @@
       "description": "Un foro radiale o trasversale fornisce un passaggio specifico per un perno, un filo o un altro elemento di assemblaggio. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 79,
       "descriptionCharacters": 197,
-      "bodyWords": 698,
+      "bodyWords": 695,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7835,7 +7835,7 @@
       "description": "径向或横向孔为销、线或其他组装元件提供指定的通道。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 24,
       "descriptionCharacters": 51,
-      "bodyWords": 76,
+      "bodyWords": 77,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7850,7 +7850,7 @@
       "description": "Un trou radial ou transversal fournit un passage spécifié pour une broche, un fil ou un autre élément d'assemblage. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 77,
       "descriptionCharacters": 218,
-      "bodyWords": 736,
+      "bodyWords": 738,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7865,7 +7865,7 @@
       "description": "Mehrere Durchmesser und Passflächen passen zu einem komplexeren Stapel zusammenpassender Komponenten. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 76,
       "descriptionCharacters": 181,
-      "bodyWords": 552,
+      "bodyWords": 540,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7880,7 +7880,7 @@
       "description": "Varios diámetros y caras de ubicación se adaptan a una pila más compleja de componentes acoplados. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 85,
       "descriptionCharacters": 180,
-      "bodyWords": 717,
+      "bodyWords": 716,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7895,7 +7895,7 @@
       "description": "Diversi diametri e facce di posizionamento si adattano a una pila più complessa di componenti accoppiati. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 57,
       "descriptionCharacters": 182,
-      "bodyWords": 684,
+      "bodyWords": 681,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7910,7 +7910,7 @@
       "description": "多种直径和定位面适合更复杂的配对组件堆叠。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 20,
       "descriptionCharacters": 47,
-      "bodyWords": 81,
+      "bodyWords": 82,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7925,7 +7925,7 @@
       "description": "Plusieurs diamètres et faces de positionnement s'adaptent à un empilement plus complexe de composants d'accouplement. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 64,
       "descriptionCharacters": 220,
-      "bodyWords": 718,
+      "bodyWords": 720,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7940,7 +7940,7 @@
       "description": "Konstruktionszeichnungsspezifische Einpressfunktionen können eine Gewindekomponente mit einer Blechbefestigungsschnittstelle kombinieren. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 81,
       "descriptionCharacters": 217,
-      "bodyWords": 566,
+      "bodyWords": 554,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7955,7 +7955,7 @@
       "description": "Las funciones de inserción a presión específicas de los dibujos de ingeniería pueden combinar un componente roscado con una interfaz de fijación de chapa metálica. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 84,
       "descriptionCharacters": 245,
-      "bodyWords": 756,
+      "bodyWords": 755,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7970,7 +7970,7 @@
       "description": "le funzionalità di pressatura specifiche del disegno tecnico possono combinare un componente filettato con un'interfaccia di fissaggio in lamiera. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 70,
       "descriptionCharacters": 223,
-      "bodyWords": 720,
+      "bodyWords": 717,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7985,7 +7985,7 @@
       "description": "工程图特定的压入特征可以将螺纹组件与钣金连接接口结合起来。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 24,
       "descriptionCharacters": 55,
-      "bodyWords": 76,
+      "bodyWords": 77,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -8000,7 +8000,7 @@
       "description": "Les fonctionnalités d'insertion spécifiques aux dessins techniques peuvent combiner un composant fileté avec une interface de fixation en tôle. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 73,
       "descriptionCharacters": 246,
-      "bodyWords": 729,
+      "bodyWords": 731,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -8925,7 +8925,7 @@
       "description": "Technische Artikel veröffentlicht unter Theo Wan (万天恩), dem redaktionellen Pseudonym für ZUFEK maßgeschneiderte Verbindungsführungen.",
       "titleCharacters": 48,
       "descriptionCharacters": 133,
-      "bodyWords": 569,
+      "bodyWords": 582,
       "types": [
         "ProfilePage",
         "Organization",
@@ -8939,7 +8939,7 @@
       "description": "Artículos técnicos publicados bajo Theo Wan (万天恩), el seudónimo editorial de ZUFEK guías de sujetadores personalizadas.",
       "titleCharacters": 42,
       "descriptionCharacters": 119,
-      "bodyWords": 683,
+      "bodyWords": 706,
       "types": [
         "ProfilePage",
         "Organization",
@@ -8953,7 +8953,7 @@
       "description": "Articoli tecnici pubblicati sotto Theo Wan (万天恩), lo pseudonimo editoriale per le guide di fissaggio personalizzate ZUFEK.",
       "titleCharacters": 42,
       "descriptionCharacters": 122,
-      "bodyWords": 662,
+      "bodyWords": 685,
       "types": [
         "ProfilePage",
         "Organization",
@@ -8981,7 +8981,7 @@
       "description": "Articles techniques publiés sous Theo Wan (万天恩), le nom de plume éditorial des guides de fixation personnalisés ZUFEK.",
       "titleCharacters": 44,
       "descriptionCharacters": 118,
-      "bodyWords": 712,
+      "bodyWords": 733,
       "types": [
         "ProfilePage",
         "Organization",
@@ -10406,9 +10406,9 @@
     {
       "path": "/es/industry-insights/ev-charging-enclosure-fasteners/",
       "locale": "es",
-      "title": "Recintos de carga para vehículos eléctricos: por qué las especificaciones de los sujetadores deben seguir la articulación | ZUFEK",
+      "title": "Recintos de carga para vehículos eléctricos: por qué las especificaciones de los sujetadores deben seguir la junta | ZUFEK",
       "description": "Revise los tornillos del recinto de carga de vehículos eléctricos a través de la función de las juntas, la pila de juntas, el acceso de seguridad, el revestimiento y un plan de inspección acordado.",
-      "titleCharacters": 129,
+      "titleCharacters": 122,
       "descriptionCharacters": 197,
       "bodyWords": 2376,
       "types": [
@@ -10481,9 +10481,9 @@
     {
       "path": "/es/industry-insights/automation-locating-pivot-fasteners/",
       "locale": "es",
-      "title": "Automatización de fábricas: especificación de sujetadores de ubicación y pivote para ensamblajes repetibles | ZUFEK",
+      "title": "Automatización de fábrica: especificación de sujetadores de ubicación y pivote para ensamblajes repetibles | ZUFEK",
       "description": "Cómo los equipos de automatización pueden especificar tornillos de hombro para ubicarlos, girarlos y ajustarlos, con interfaces controladas y evidencia de pedidos repetidos.",
-      "titleCharacters": 115,
+      "titleCharacters": 114,
       "descriptionCharacters": 173,
       "bodyWords": 2502,
       "types": [
@@ -10496,9 +10496,9 @@
     {
       "path": "/it/industry-insights/automation-locating-pivot-fasteners/",
       "locale": "it",
-      "title": "Automazione di fabbrica: specificazione di elementi di fissaggio di posizionamento e articolazione per assemblaggi ripetibili | ZUFEK",
+      "title": "Automazione di fabbrica: specificazione di dispositivi di fissaggio di posizionamento e articolazione per assemblaggi ripetibili | ZUFEK",
       "description": "In che modo i team di automazione possono specificare le viti a spallamento per il posizionamento, la rotazione e la regolazione, con interfacce controllate e prove di ordine ripetuto.",
-      "titleCharacters": 133,
+      "titleCharacters": 136,
       "descriptionCharacters": 184,
       "bodyWords": 2391,
       "types": [
@@ -10526,9 +10526,9 @@
     {
       "path": "/fr/industry-insights/automation-locating-pivot-fasteners/",
       "locale": "fr",
-      "title": "Automatisation d'usine : spécification des fixations de positionnement et de pivotement pour les assemblages répétables | ZUFEK",
+      "title": "Automatisation d'usine : spécification de fixations de positionnement et de pivot pour des assemblages reproductibles | ZUFEK",
       "description": "Comment les équipes d'automatisation peuvent spécifier des vis à épaulement pour la localisation, le pivotement et le réglage, avec des interfaces contrôlées et des preuves de commande répétée.",
-      "titleCharacters": 127,
+      "titleCharacters": 125,
       "descriptionCharacters": 193,
       "bodyWords": 2498,
       "types": [
@@ -10541,9 +10541,9 @@
     {
       "path": "/de/industry-insights/battery-storage-fastener-interfaces/",
       "locale": "de",
-      "title": "Batterieenergiespeichergeräte: Definition von Befestigungsschnittstellen über die Materialqualität hinaus | ZUFEK",
+      "title": "Batterieenergiespeichergeräte: Definition von Verbindungsschnittstellen über die Materialqualität hinaus | ZUFEK",
       "description": "Spezifizieren Sie Batteriespeicherbefestigungen nach mechanischer oder elektrischer Funktion, Materialbeschaffenheit, Beschichtung, Sauberkeit und nachvollziehbarer Abnahme.",
-      "titleCharacters": 113,
+      "titleCharacters": 112,
       "descriptionCharacters": 173,
       "bodyWords": 2100,
       "types": [
@@ -10571,9 +10571,9 @@
     {
       "path": "/it/industry-insights/battery-storage-fastener-interfaces/",
       "locale": "it",
-      "title": "Attrezzature per lo stoccaggio dell'energia della batteria: definire le interfacce di fissaggio oltre la qualità del materiale | ZUFEK",
+      "title": "Apparecchiature per l'accumulo dell'energia della batteria: definizione delle interfacce di fissaggio oltre la qualità del materiale | ZUFEK",
       "description": "Specificare i dispositivi di fissaggio per lo stoccaggio della batteria in base alla funzione meccanica o elettrica, alle condizioni del materiale, al rivestimento, alla pulizia e all'accettazione tracciabile.",
-      "titleCharacters": 134,
+      "titleCharacters": 140,
       "descriptionCharacters": 209,
       "bodyWords": 2422,
       "types": [
@@ -10616,9 +10616,9 @@
     {
       "path": "/de/industry-insights/data-centre-cooling-service-fasteners/",
       "locale": "de",
-      "title": "Rechenzentrumsausrüstung: Entscheidungen über Verbindungselemente für Kühlung, Servicezugang und kontrollierte Montage | ZUFEK",
+      "title": "Ausstattung von Rechenzentren: Entscheidungen über Verbindungselemente für Kühlung, Servicezugang und kontrollierte Montage | ZUFEK",
       "description": "Überprüfen Sie die Befestigungselemente der Rechenzentrumsausrüstung auf Servicezugang, sicheren Halt, kontrollierte Passagen, Sauberkeit und Endzustandsprüfung.",
-      "titleCharacters": 126,
+      "titleCharacters": 131,
       "descriptionCharacters": 161,
       "bodyWords": 2163,
       "types": [
@@ -10631,9 +10631,9 @@
     {
       "path": "/es/industry-insights/data-centre-cooling-service-fasteners/",
       "locale": "es",
-      "title": "Equipos para centros de datos: decisiones sobre sujetadores para refrigeración, acceso de servicio y montaje controlado | ZUFEK",
+      "title": "Equipos de centro de datos: decisiones sobre sujetadores para refrigeración, acceso de servicio y montaje controlado | ZUFEK",
       "description": "Revise los sujetadores de los equipos del centro de datos para verificar el acceso al servicio, la retención cautiva, los pasajes controlados, la limpieza y la inspección del estado final.",
-      "titleCharacters": 127,
+      "titleCharacters": 124,
       "descriptionCharacters": 188,
       "bodyWords": 2573,
       "types": [
@@ -10691,9 +10691,9 @@
     {
       "path": "/de/industry-insights/repairability-product-information-fasteners/",
       "locale": "de",
-      "title": "Reparierbarkeit und Produktinformationen: Was Käufer kundenspezifischer Verbindungselemente jetzt definieren sollten | ZUFEK",
+      "title": "Reparierbarkeit und Produktinformationen: Was Käufer von kundenspezifischen Verbindungselementen jetzt definieren sollten | ZUFEK",
       "description": "Verbinden Sie Reparaturzugang, Ersatzteilkontrolle und evidenzbasierte Produktinformationen, ohne eine einheitliche Passpflicht für Schrauben zu übernehmen.",
-      "titleCharacters": 124,
+      "titleCharacters": 129,
       "descriptionCharacters": 156,
       "bodyWords": 2300,
       "types": [
@@ -10781,9 +10781,9 @@
     {
       "path": "/es/industry-insights/material-supply-risk-qualified-alternatives/",
       "locale": "es",
-      "title": "Riesgo de suministro de material: calificar alternativas de sujetadores sin perder la interfaz aprobada | ZUFEK",
+      "title": "Riesgo de suministro de material: alternativas de sujetadores calificadas sin perder la interfaz aprobada | ZUFEK",
       "description": "Calificar materiales de fijación alternativos a través de propiedades finales, capacidad de fabricación, tratamiento, ajuste, documentación y liberación controlada.",
-      "titleCharacters": 111,
+      "titleCharacters": 113,
       "descriptionCharacters": 164,
       "bodyWords": 2706,
       "types": [
@@ -10796,9 +10796,9 @@
     {
       "path": "/it/industry-insights/material-supply-risk-qualified-alternatives/",
       "locale": "it",
-      "title": "Rischio relativo alla fornitura di materiale: qualificare le alternative di fissaggio senza perdere l'interfaccia approvata | ZUFEK",
+      "title": "Rischio relativo alla fornitura del materiale: qualificare le alternative di fissaggio senza perdere l'interfaccia approvata | ZUFEK",
       "description": "Qualificare i materiali di fissaggio alternativi attraverso proprietà finali, producibilità, trattamento, idoneità, documentazione e rilascio controllato.",
-      "titleCharacters": 131,
+      "titleCharacters": 132,
       "descriptionCharacters": 154,
       "bodyWords": 2562,
       "types": [
@@ -10841,9 +10841,9 @@
     {
       "path": "/de/guides/drawing-review-release-checklist/",
       "locale": "de",
-      "title": "Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Freigabe-Checkliste | ZUFEK",
+      "title": "Überprüfung der benutzerdefinierten Verbindungszeichnung: eine praktische Checkliste für die Freigabe | ZUFEK",
       "description": "Eine Schritt-für-Schritt-Zeichnungsüberprüfung für kundenspezifische Schraubenanfragen: kontrollierte Definition, Passschnittstellen, kritische Merkmale, Endzustand und Freigabenachweise.",
-      "titleCharacters": 101,
+      "titleCharacters": 109,
       "descriptionCharacters": 187,
       "bodyWords": 1168,
       "types": [
@@ -10871,7 +10871,7 @@
     {
       "path": "/it/guides/drawing-review-release-checklist/",
       "locale": "it",
-      "title": "Revisione dei disegni di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio | ZUFEK",
+      "title": "Revisione del disegno di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio | ZUFEK",
       "description": "Una revisione dettagliata dei disegni per le richieste di offerta di viti personalizzate: definizione controllata, interfacce di accoppiamento, caratteristiche critiche, condizioni finali e prove di rilascio.",
       "titleCharacters": 117,
       "descriptionCharacters": 208,
@@ -10901,9 +10901,9 @@
     {
       "path": "/fr/guides/drawing-review-release-checklist/",
       "locale": "fr",
-      "title": "Examen des dessins de fixations personnalisés : une liste de contrôle de publication pratique | ZUFEK",
+      "title": "Examen des dessins de fixations personnalisés : une liste de contrôle pratique pour la publication | ZUFEK",
       "description": "Un examen étape par étape des dessins pour les appels d'offres de vis personnalisées : définition contrôlée, interfaces de raccordement, caractéristiques critiques, état final et preuves de libération.",
-      "titleCharacters": 101,
+      "titleCharacters": 106,
       "descriptionCharacters": 201,
       "bodyWords": 1382,
       "types": [
@@ -10916,9 +10916,9 @@
     {
       "path": "/de/guides/manufacturing-route-selection/",
       "locale": "de",
-      "title": "Auswahl einer Herstellungsroute für eine kundenspezifische Schraube | ZUFEK",
+      "title": "Auswahl eines Herstellungswegs für eine kundenspezifische Schraube | ZUFEK",
       "description": "Vergleichen Sie Kaltstauch-, CNC-Dreh-, Hybrid- und Warmumformungsrouten anhand von Geometrie, Menge, Werkzeugausstattung, Sekundärarbeit und Endabnahme.",
-      "titleCharacters": 75,
+      "titleCharacters": 74,
       "descriptionCharacters": 153,
       "bodyWords": 1176,
       "types": [
@@ -10946,7 +10946,7 @@
     {
       "path": "/it/guides/manufacturing-route-selection/",
       "locale": "it",
-      "title": "Scegliere un percorso di produzione per una vite personalizzata | ZUFEK",
+      "title": "Scelta di un percorso di produzione per una vite personalizzata | ZUFEK",
       "description": "Confronta i percorsi di stampaggio a freddo, tornitura CNC, ibridi e forgiati a caldo utilizzando geometria, quantità, attrezzature, lavoro secondario e accettazione finale.",
       "titleCharacters": 71,
       "descriptionCharacters": 173,
@@ -11006,9 +11006,9 @@
     {
       "path": "/es/guides/surface-treatment-specification/",
       "locale": "es",
-      "title": "Especificación de un tratamiento superficial de sujetador sin dejar la interfaz sin definir | ZUFEK",
+      "title": "Especificación de un tratamiento de superficie de sujetador sin dejar la interfaz sin definir | ZUFEK",
       "description": "Defina el propósito del recubrimiento, las superficies sensibles, el ajuste final, los riesgos del tratamiento, los criterios de prueba, los requisitos de instalación y los registros rastreables.",
-      "titleCharacters": 99,
+      "titleCharacters": 101,
       "descriptionCharacters": 195,
       "bodyWords": 1348,
       "types": [
@@ -11051,9 +11051,9 @@
     {
       "path": "/fr/guides/surface-treatment-specification/",
       "locale": "fr",
-      "title": "Spécifier un traitement de surface de fixation sans laisser l'interface indéfinie | ZUFEK",
+      "title": "Spécification d'un traitement de surface de fixation sans laisser l'interface indéfinie | ZUFEK",
       "description": "Définir le but du revêtement, les surfaces sensibles, l'ajustement final, les risques du traitement, les critères de test, les exigences d'installation et les enregistrements traçables.",
-      "titleCharacters": 89,
+      "titleCharacters": 95,
       "descriptionCharacters": 185,
       "bodyWords": 1362,
       "types": [
@@ -11081,9 +11081,9 @@
     {
       "path": "/es/guides/inspection-acceptance-plan/",
       "locale": "es",
-      "title": "Creación de un plan personalizado de inspección y aceptación de sujetadores | ZUFEK",
+      "title": "Elaboración de un plan personalizado de inspección y aceptación de sujetadores | ZUFEK",
       "description": "Construya un plan de aceptación característica por característica con métodos, frecuencia de inspección, registros y manejo de desviaciones adecuados.",
-      "titleCharacters": 83,
+      "titleCharacters": 86,
       "descriptionCharacters": 150,
       "bodyWords": 1436,
       "types": [
@@ -11126,9 +11126,9 @@
     {
       "path": "/fr/guides/inspection-acceptance-plan/",
       "locale": "fr",
-      "title": "Création d'un plan d'inspection et d'acceptation des fixations personnalisé | ZUFEK",
+      "title": "Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé | ZUFEK",
       "description": "Élaborez un plan d'acceptation caractéristique par caractéristique avec des méthodes, une fréquence d'inspection, des enregistrements et une gestion des écarts appropriés.",
-      "titleCharacters": 83,
+      "titleCharacters": 86,
       "descriptionCharacters": 171,
       "bodyWords": 1478,
       "types": [
@@ -11141,9 +11141,9 @@
     {
       "path": "/de/guides/prototype-production-handover/",
       "locale": "de",
-      "title": "Von der Prototypenschraube zur Wiederholungsproduktion: ein Leitfaden zur Stage-Gate-Übergabe | ZUFEK",
+      "title": "Von der Prototypenschraube bis zur Wiederholungsproduktion: ein Leitfaden zur Stage-Gate-Übergabe | ZUFEK",
       "description": "Verwenden Sie Stage Gates, um von Geometriemustern zur genehmigten Wiederholungsproduktion überzugehen und dabei die Zeichnungskontrolle, Routenentscheidungen und Chargennachweise zu bewahren.",
-      "titleCharacters": 101,
+      "titleCharacters": 105,
       "descriptionCharacters": 192,
       "bodyWords": 1344,
       "types": [
@@ -11156,9 +11156,9 @@
     {
       "path": "/es/guides/prototype-production-handover/",
       "locale": "es",
-      "title": "Del prototipo de tornillo a la repetición de la producción: una guía de entrega de etapa-puerta | ZUFEK",
+      "title": "Del prototipo de tornillo a la repetición de la producción: una guía de entrega del escenario | ZUFEK",
       "description": "Utilice puertas de etapa para pasar de muestras de geometría a producción repetida aprobada, preservando el control del dibujo, las decisiones de ruta y la evidencia del lote.",
-      "titleCharacters": 103,
+      "titleCharacters": 101,
       "descriptionCharacters": 175,
       "bodyWords": 1552,
       "types": [
@@ -11171,9 +11171,9 @@
     {
       "path": "/it/guides/prototype-production-handover/",
       "locale": "it",
-      "title": "Dalla vite prototipo alla produzione ripetuta: una guida alla consegna | ZUFEK",
+      "title": "Dalla vite prototipo alla produzione ripetuta: una guida alla consegna in fase iniziale | ZUFEK",
       "description": "Utilizza gli stage gate per passare dai campioni geometrici alla produzione ripetuta approvata, preservando il controllo del disegno, le decisioni sul percorso e le prove del lotto.",
-      "titleCharacters": 78,
+      "titleCharacters": 95,
       "descriptionCharacters": 181,
       "bodyWords": 1496,
       "types": [

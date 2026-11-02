@@ -31,6 +31,7 @@ const smtp=api.createBridge({token:bridgeToken,authorizeTarget:async()=>{const {
 await new Promise(resolve=>smtp.listen(0,'127.0.0.1',resolve));
 Object.assign(api.env,{DB:db,BUCKET:fileBucket(path.join(data,'drawings')),ADMIN_EMAILS:email,INQUIRY_TO:process.env.INQUIRY_TO||'info@zufek.net',MAIL_CONFIG_KEY:process.env.MAIL_CONFIG_KEY,LOCAL_SMTP_ENDPOINT:'https://docker-mail.zufek.invalid',LOCAL_SMTP_TOKEN:bridgeToken,LOCAL_SMTP_FETCH:(input,options)=>{const url=new URL(String(input));if(url.origin!=='https://docker-mail.zufek.invalid'||!['/send','/diagnose'].includes(url.pathname))throw Error('Invalid local mail route');return fetch('http://127.0.0.1:'+smtp.address().port+url.pathname,options);}});
 const aiEditorial=(action,body)=>api.adminAPI(new Request('https://docker-admin.zufek.invalid/api/admin/'+action,{method:body?'POST':'GET',headers:{'oai-authenticated-user-id':'docker-admin','oai-authenticated-user-email':email,Origin:'https://docker-admin.zufek.invalid','Content-Type':'application/json'},...(body?{body:JSON.stringify(body)}:{})}),action.split('?')[0]);
+const editorialCorrections=await api.applyEditorialCorrections().catch(error=>{console.error('Editorial correction not applied:',String(error.message).slice(0,500));return [];});for(const correction of editorialCorrections)if(correction.status!=='not_present')console.log('Editorial correction:',correction.id,correction.status);
 const aiPool=createAIWorkerPool({db,data,editorialAction:aiEditorial});
 const ai=await createAIService({db,data,executor:aiPool,normalizeArticle:api.validateArticle,editorialAction:aiEditorial,saveArticle:(request,body)=>api.adminAPI(new Request(new URL('/api/admin/article-save',request.url),{method:'POST',headers:request.headers,body:JSON.stringify(body)}),'article-save')});
 aiPool.setWake(()=>ai.tick());
@@ -42,7 +43,7 @@ await insights.cleanup();
 const recovery=await createInquiryRecovery({directory:path.join(data,'inquiry-emergency'),secret:Buffer.from(process.env.MAIL_CONFIG_KEY,'base64'),allowedProducts:new Set([...api.inquiryProducts.map(p=>p.slug),'other']),submit:api.submitInquiry,recordSaved:insights.attach});
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
-const types={'.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
+const types={'.jpg':'image/jpeg','.jpeg':'image/jpeg','.csv':'text/csv; charset=utf-8','.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
 const redirect=(url,extra={})=>new Response(null,{status:303,headers:{Location:url,'Cache-Control':'no-store',...extra}});
 const authenticatedRequest=request=>session.valid(cookie(request));
 const denied=()=>Response.json({error:'Authentication required'},{status:401,headers:{'Cache-Control':'no-store','X-Robots-Tag':'noindex'}});

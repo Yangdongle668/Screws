@@ -1,0 +1,24 @@
+{
+  "ownerSuppliedDirectory": "D:/dev/Website/图片",
+  "selected": [
+    {
+      "source": "D:\\dev\\Website\\图片\\微信图片_20261028205401_397_130.jpg",
+      "publishedAsset": "public/photos/sample-display.jpg",
+      "sha256": "ac44ab9c273e42f41e280b6778ac4b3a0b0ce5e8acdb2f370059598524eefe86",
+      "use": "Visible product form only; no material, dimensional, customer or test attribution"
+    },
+    {
+      "source": "D:\\dev\\Website\\图片\\微信图片_20261028205400_396_130.jpg",
+      "publishedAsset": "public/photos/stepped-components.jpg",
+      "sha256": "4b9b8e2ceae3d6737611bdb2d654387340c1022f6cb3624f6120ef26982cbed5",
+      "use": "Visible product form only; no material, dimensional, customer or test attribution"
+    }
+  ],
+  "notAvailable": [
+    "Verified inspection reports",
+    "Calibration records",
+    "Approved customer case records",
+    "Verified factory and machine photographs"
+  ],
+  "publicationRule": "No performance or provenance claims are inferred from a product photograph."
+}

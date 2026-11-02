@@ -1,0 +1,8 @@
+﻿"Illustrative plan only; no measured results"
+"Characteristic","Drawing requirement","Method","Coverage and evidence"
+"C1 · Shoulder diameter","Approved drawing limits; final supplied condition","Calibrated diameter measurement; validated vision only if suitable","Agreed sample or every-piece scope; record actual values or the approved screening result"
+"C2 · Shoulder length","Distance from the functional seating face","Length measurement from the specified face, with a documented setup","Link the result to the drawing revision and lot"
+"C3 · Thread acceptance","Thread system, pitch, class and usable length","Appropriate gauges plus a separate usable-length check when required","Record gauge identity and the agreed acceptance result"
+"C4 · Geometric runout, if specified","Datum, controlled surface and tolerance on the drawing","A datum-referenced setup that measures the specified relationship","A diameter-only camera result does not replace this check"
+"C5 · Material and finish","Ordered grade, condition and treatment requirements","Agreed documents and applicable physical or coating checks","Keep stock certificates, final-part results and coating records distinguishable"
+"C6 · Assembly function","Approved mating-part revision and functional criteria","Controlled assembly trial for movement, seating or retention","Record the mating reference, outcome, deviations and approver"

@@ -16,6 +16,7 @@ RUN apk add --no-cache chromium ca-certificates font-freefont
 COPY --from=build --chown=node:node /app/dist/docker ./dist/docker
 COPY --from=build --chown=node:node /app/docker ./docker
 COPY --from=build --chown=node:node /app/lib/article-path.mjs ./lib/article-path.mjs
+COPY --from=build --chown=node:node /app/lib/editorial-corrections.json ./lib/editorial-corrections.json
 COPY --from=build --chown=node:node /app/lib/translation-contract.mjs ./lib/translation-contract.mjs
 COPY --from=build --chown=node:node /app/lib/article-audit.mjs ./lib/article-audit.mjs
 COPY --from=build --chown=node:node /app/lib/article-publication-state.mjs ./lib/article-publication-state.mjs
