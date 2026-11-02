@@ -2,7 +2,7 @@
 
 Read PRINCIPLES.md, inventory.json and task-ledger.json first. Focus on existing technical blogs and related product, material, process, guide and FAQ pages. Read their full content using the inventory paths. Do not reuse the industry-insight template.
 
-Find one specific unresolved engineering or purchasing question. State the existing answer, exactly what is missing, and why it deserves an update or a separate article. Inspect current search questions if tools are available; never invent observed People Also Ask results. Reject a proposed new page if an existing page serves the same intent and can be improved.
+Find one specific unresolved engineering or purchasing question. State the existing answer, exactly what is missing, and why it deserves a separate article in this new-article task. Inspect current search questions if tools are available; never invent observed People Also Ask results. Reject a proposed new page if an existing page serves the same intent; select another question, leaving updates to the dedicated review task.
 
 External research is not required. Use the supplied approved facts, existing content and sound general engineering knowledge. Explain definitions and material/process conditions carefully; do not invent exact standard provisions or precise performance figures. Write a direct answer, necessary assumptions, decision factors, failure modes, a practical check or example, and next steps. Use a worked example only with explicit assumptions; no invented test evidence. Do not force every article into identical sections. Write enough to resolve the question without padding or keyword-density targets.
 
@@ -25,3 +25,7 @@ For READY_FOR_REVIEW return a complete structured article, not only a Markdown b
 The final DRAFT must follow ARTICLE-OUTPUT.md and the supplied ARTICLE_OUTPUT_SCHEMA (zufek.article.v1). Return one complete article JSON object, including publication intent, the unchanged keyword brief, full article, SEO/social metadata, schema content, evidence claims and change summary. Do not return a second full Markdown body. Apply this format without weakening the specialist research and editorial requirements above.
 
 Source policy override: external references are not required. Write from approved company facts, the supplied existing content and sound general engineering knowledge. Return sources:[] and article.sources:[] and do not append a reference section. Do not stop solely because no external source or PAA was supplied. Omit or qualify unverified precise data instead of inventing citations.
+
+## Task action and novelty boundary
+
+This specialist creates NEW articles only. Do not silently convert this task to improve_existing; that belongs to the dedicated existing-content review task. Compare reader questions, answer scope and decisions against published coverage, pending drafts and reserved topics, including alternative titles and synonyms. A narrower title alone does not create a gap. If the intent is already answered, choose a different specific question or return NO_CHANGE. The server may request one bounded reselection. Respect its selectionAvoidance records. Never invent a gap to fill the schedule. External sources remain optional.

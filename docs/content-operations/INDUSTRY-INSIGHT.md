@@ -23,3 +23,7 @@ For READY_FOR_REVIEW return a complete structured article, not only a Markdown b
 The final DRAFT must follow ARTICLE-OUTPUT.md and the supplied ARTICLE_OUTPUT_SCHEMA (zufek.article.v1). Return one complete article JSON object, including publication intent, the unchanged keyword brief, full article, SEO/social metadata, schema content, evidence claims and change summary. Do not return a second full Markdown body. Apply this format without weakening the specialist research and editorial requirements above.
 
 References are optional: sources:[] and article.sources:[] are complete valid output. Include supplied references only when useful. Never require the owner to provide a URL.
+
+## Task action and novelty boundary
+
+This specialist creates NEW articles only. Do not silently convert this task to improve_existing; that belongs to the dedicated existing-content review task. Compare reader questions, answer scope and decisions against published coverage, pending drafts and reserved topics, including alternative titles and synonyms. A narrower title alone does not create a gap. If the intent is already answered, choose a different specific question or return NO_CHANGE. The server may request one bounded reselection. Respect its selectionAvoidance records. Never invent a gap to fill the schedule. External sources remain optional.

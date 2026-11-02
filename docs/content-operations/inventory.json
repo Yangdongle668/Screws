@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "scope": "Repository snapshot of English public pages and corresponding translation presence. No production or technical approval is implied.",
   "sourceHashes": {
-    "lib/generated-pages.json": "e294327da512136db642e197c0ae4b9d56fc8cb81467e6b50861bf20831b4548",
+    "lib/generated-pages.json": "681316e02ee2eb5a4208b1393ce16296ad8c0f6affc06039f601180f8f8846bf",
     "scripts/content/manifest.json": "e707f728ab1d1f498738bc3080103495a487d976792db0c21c489016610ef6ab"
   },
   "counts": {
@@ -25,6 +25,8 @@
       "title": "Custom Metal Screws Manufacturer in Dongguan, China | ZUFEK",
       "description": "ZUFEK manufactures drawing-defined metal screws in Dongguan since 2005. Explore products, materials and complete routes. Tooling and sampling typically 10–15 days, subject to review.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "0565dd348475406c58725097352803742d2302e003ca8954fc2b3d687b040a40",
       "headings": [
         {
@@ -237,6 +239,8 @@
       "title": "Custom Screw Products & Non-Standard Fastener Types | ZUFEK",
       "description": "Compare shoulder, security, hollow, flange, thumb, set and compound screw structures. Choose a product family, then review materials, manufacturing and acceptance.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "bf633a253a13ad491d9683294a4e38e55c3ae478e0b1e8c64d2880a0eff115ef",
       "headings": [
         {
@@ -435,6 +439,8 @@
       "title": "Custom Screws from Your Drawing — Tooling & Samples | ZUFEK",
       "description": "Develop a drawing-defined screw with ZUFEK: geometry review, process selection, tooling, samples and approval before repeat production.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "49309753ebaae24c46ce103de52b85867960bdae9c7013c43a5d84aacfce0c55",
       "headings": [
         {
@@ -589,6 +595,8 @@
       "title": "Shoulder & Step Screws to Drawing | ZUFEK",
       "description": "A head, a locating shoulder and a threaded section combine fastening with controlled spacing or movement. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "4c4521ebc947566b2d712027a15dba290c3a0a7fd871fb653d16de469000e32b",
       "headings": [
         {
@@ -785,6 +793,8 @@
       "title": "Captive Screws to Drawing | ZUFEK",
       "description": "Retention-oriented screw designs. Share the mating assembly so the retaining features can be reviewed together. Send your drawing to ZUFEK for review.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "5f234b1127448bc4425458f30e2f2b58d04599173d5f2ed40371d5df44ff077d",
       "headings": [
         {
@@ -904,6 +914,8 @@
       "title": "Special Head Screws to Drawing | ZUFEK",
       "description": "Alternative head and drive geometries for access, clearance and assembly requirements. Send your drawing to ZUFEK for review.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "860e4108f6ab9bf78c18292487d40ade0db571523d03d6f4180ee5a5634b9940",
       "headings": [
         {
@@ -1043,6 +1055,8 @@
       "title": "Custom Fastener Manufacturing Routes & Processes | ZUFEK",
       "description": "Cold heading, CNC turning, hybrid manufacturing and hot forging: explore threading, secondary machining, heat treatment, coatings, cleaning and inspection.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "a3e7fc297b3403cc1ef61a050ad000732f9450b1c943a6d2236d0d42c5c35306",
       "headings": [
         {
@@ -1176,6 +1190,8 @@
       "title": "Custom Fastener Inspection & Quality Planning | ZUFEK",
       "description": "Specify thread gauging, dimensional inspection, hardness, coating verification, functional tests and records for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "52eece846ee1e7df97a509fc7d4146386ad8161f2b4ee3d2a14563972c1e259c",
       "headings": [
         {
@@ -1278,6 +1294,8 @@
       "title": "Technical Resources for Custom Metal Screws | ZUFEK",
       "description": "Practical custom screw design, procurement, material and quality resources from ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "b515e705a9b4623cf685218f5d437f051734b98929f15f47bfe17f0830cb3f94",
       "headings": [
         {
@@ -1591,6 +1609,8 @@
       "title": "Custom Screw Technical Blog | ZUFEK",
       "description": "Read drawing guides, procurement checklists and practical material and quality considerations for non-standard metal screws.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "11bc8e488e29c3ca40dc801ace5bf1aeed46a77943e7d9de4b81a4c8df4fcd08",
       "headings": [
         {
@@ -1866,6 +1886,8 @@
       "title": "What to include in a custom screw RFQ | ZUFEK",
       "description": "A useful quotation starts with a clear specification. A drawing is the best starting point, but a sample, sketch or assembly description can also help define the next questions.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "6b0216d4ee624f173f6e5ca0ab5d25f2c1fd60a736b1053dcccef41ffaf7bee9",
       "headings": [
         {
@@ -1988,6 +2010,8 @@
       "title": "A practical guide to shoulder screw drawings | ZUFEK",
       "description": "The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "7cd9db2c8c60d23d9a0337ffd80316662c5503c843084399e80d0c47ccfbd88e",
       "headings": [
         {
@@ -2125,6 +2149,8 @@
       "title": "Five questions before specifying a captive screw | ZUFEK",
       "description": "A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "3f70628840f29ffdbf3c80dfe568df3aedf27b581fd347e5627528a3d0146116",
       "headings": [
         {
@@ -2244,6 +2270,8 @@
       "title": "Choosing material for a custom metal screw | ZUFEK",
       "description": "Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "4f58730cd30dddea6ae34a502785f51c1d4ad22765743c562f69346a251d5fd6",
       "headings": [
         {
@@ -2362,6 +2390,8 @@
       "title": "What affects the price of a non-standard screw? | ZUFEK",
       "description": "A custom screw quotation reflects the complete specification and order conditions. Understanding the cost drivers can make a design review more productive.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "a7bbf374258ae48c72967ebcdf9265a974a8c44549eafc9cb89f7e98c99a1607",
       "headings": [
         {
@@ -2499,6 +2529,8 @@
       "title": "How to prepare an inspection plan for custom screws | ZUFEK",
       "description": "An inspection plan translates a drawing into agreed checks and records. Define it during the quotation stage so acceptance is understood before production.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "52324ac6afa8353e76981564df7e7a581c2530985c2a9d8ef9e815801bbf2385",
       "headings": [
         {
@@ -2636,6 +2668,8 @@
       "title": "Cold heading or CNC turning: choosing a custom screw route | ZUFEK",
       "description": "Choose the manufacturing route around geometry, quantity, material and required condition. A lower cycle cost does not always offset tooling or secondary work.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "54254b0dc00ffcbefd06be5ead8533192df6f90f82f545d5bea95a448047fc0d",
       "headings": [
         {
@@ -2761,6 +2795,8 @@
       "title": "High-strength screw coatings and hydrogen-risk review | ZUFEK",
       "description": "A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "201cf794e25d0ce91d4b395aef6bd69d65c0c2d6ae66a2c2e9a5a72b3d84b588",
       "headings": [
         {
@@ -2912,6 +2948,8 @@
       "title": "304, 316 and 17-4PH: different heat-treatment questions | ZUFEK",
       "description": "Stainless steel describes several material families. Specify the grade and final condition rather than writing one generic heat-treatment instruction.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "6773446de644103280667543dd2e6a2db74d3157a832e13efe2c91f3d8ae994d",
       "headings": [
         {
@@ -3045,6 +3083,8 @@
       "title": "Shoulder fits, thread classes and when grinding matters | ZUFEK",
       "description": "A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "77b189d4ced75eee57764ba42526be44d3f16917c784e0f93abb477199500f51",
       "headings": [
         {
@@ -3195,6 +3235,8 @@
       "title": "How to specify a tamper-resistant screw drive | ZUFEK",
       "description": "A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "1a36ff72c5118bd832bebd6bdd19855ef17a2b035b53e93c0420ed96fe428825",
       "headings": [
         {
@@ -3333,6 +3375,8 @@
       "title": "Hollow screw bores: the details an RFQ should include | ZUFEK",
       "description": "An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "ed0979ff4219ebe55d7391bc6bb739c134a46062eaa755e0fafc74af66926689",
       "headings": [
         {
@@ -3477,6 +3521,8 @@
       "title": "Designing the bearing face of a custom flange screw | ZUFEK",
       "description": "A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "3dffdc9a02442a4e407dc2010a2fa38bfbc540c41cbeb450536332dd88a9d9a1",
       "headings": [
         {
@@ -3621,6 +3667,8 @@
       "title": "Knurled thumb screws: specifying grip and adjustment | ZUFEK",
       "description": "A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "85738e6292a25353f7488c732fe58c6180cd2c1dcac50e3b00668159259bc241",
       "headings": [
         {
@@ -3765,6 +3813,8 @@
       "title": "Cone, flat, dog or cup: choosing a set-screw tip | ZUFEK",
       "description": "The end of a set screw defines how it contacts the mating component. Choose the tip around the required contact and permitted surface change, not only the screw diameter.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "e6a5366989d3286a58fcdd732399e6427b1cd39d1483d4e0615f1856a5c41092",
       "headings": [
         {
@@ -3904,6 +3954,8 @@
       "title": "T-slot bolt fit: what to measure before ordering | ZUFEK",
       "description": "A T-head must enter, turn or slide inside the intended slot while retaining the required contact. The slot cross-section is therefore an essential part of the fastener RFQ.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "4d5d6a09adf2315d25455c9124e60f6b23993e19b1bd4cbb08135f2a2ed21ce6",
       "headings": [
         {
@@ -4038,6 +4090,8 @@
       "title": "Eye bolts for linkages and lifting: different specification needs | ZUFEK",
       "description": "An eye-shaped end can belong to a linkage, a tensioning device or a lifting component. Similar appearance does not establish the same design requirements or approved use.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "092201caca5989428bede212939df164fc9ca4ccbb1dd88da5efaa8932d1e2bb",
       "headings": [
         {
@@ -4172,6 +4226,8 @@
       "title": "How to dimension a custom U-bolt | ZUFEK",
       "description": "Inside width, bend shape and leg alignment determine whether a U-bolt fits the supported component. A clear drawing separates those features from the threaded connection.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "6230416a67b32f57f52212c064ea4c40cc9505aeace68d9d6c99c12712bce688",
       "headings": [
         {
@@ -4297,6 +4353,8 @@
       "title": "Custom carriage bolts: specifying the square neck | ZUFEK",
       "description": "The square neck is the functional anti-rotation feature of a carriage bolt. It should be matched to the mating hole and supporting material rather than treated as a cosmetic detail.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "ab0730296f3ea9de18ded3e7d9fa860235cb02c2b663f58778ccb2d6f42fb67a",
       "headings": [
         {
@@ -4422,6 +4480,8 @@
       "title": "Eccentric screw drawings: making the offset unambiguous | ZUFEK",
       "description": "An eccentric feature needs a clear reference axis. Without a datum scheme, two manufacturers can interpret an apparently simple offset drawing differently.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "efcb8f29341c77017a5245b954828e99d2854716b35972b48205d515db459ed2",
       "headings": [
         {
@@ -4556,6 +4616,8 @@
       "title": "Double-ended studs: preventing mixed-thread assembly errors | ZUFEK",
       "description": "Different threads at the two ends can solve an interface problem and create an identification problem. The drawing, inspection plan and packaging should distinguish each end clearly.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "f280b2ec2a8e47571d03fd56e71a619c6e0e9fa9972e72beb2f17cf6b2710045",
       "headings": [
         {
@@ -4700,6 +4762,8 @@
       "title": "Reduced-shank screws: why transitions need attention | ZUFEK",
       "description": "A narrow center section changes the geometry of a threaded connection. Its purpose and transition details must be defined before the manufacturing route is selected.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "fb0b000a92657fc0f086a7f64146d981f5b499876d57d038a59b9cfbcecbb479",
       "headings": [
         {
@@ -4825,6 +4889,8 @@
       "title": "Tapered screws: defining the mating seat | ZUFEK",
       "description": "A taper works against a corresponding surface. Its angle, axial position and relationship to the thread must be considered with the mating component.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "13930400885ec932f8c2b5a6592b6f5e46dc3a81b39bfca3f4f165447d031020",
       "headings": [
         {
@@ -4959,6 +5025,8 @@
       "title": "Integral locating pins: coordinating pin and screw datums | ZUFEK",
       "description": "Combining a small locating pin with a screw can reduce separate components, but the locating and clamping functions still need distinct specifications.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "c339c6dd335c11034183db6195b2db0d5643d598b853b65e65c90b9c4c77f2f8",
       "headings": [
         {
@@ -5093,6 +5161,8 @@
       "title": "Multi-step screws: controlling the axial dimension chain | ZUFEK",
       "description": "Several shoulders can locate several components. A clear dimension scheme explains which axial distances control the assembly and which are consequences of other dimensions.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "3ef9d39818464ce61772371f9c8748082d8fa4e7bc1077f9c0c66316804fcf62",
       "headings": [
         {
@@ -5227,6 +5297,8 @@
       "title": "Custom clinch studs: specify the panel as well as the fastener | ZUFEK",
       "description": "A press-in connection depends on the panel, hole and installation process. A custom stud cannot be evaluated as an isolated threaded shape.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "7b426eb6e170a3e7d84770e141137d9621b96a2efc99b9d9080b7ab50e19e6e4",
       "headings": [
         {
@@ -5352,6 +5424,8 @@
       "title": "Rolled or cut threads: questions to resolve in the RFQ | ZUFEK",
       "description": "Thread generation is a process choice, while thread geometry and acceptance are product requirements. A complete RFQ explains both without confusing the method with a guaranteed result.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "27a0040d4528dc799addbbbe2510d8b3366b0cb174eaf0aded2e4bf038ecfc6c",
       "headings": [
         {
@@ -5491,6 +5565,8 @@
       "title": "Cross holes in screws: planning burr control and inspection | ZUFEK",
       "description": "A drilled cross hole creates entry and exit edges, and may intersect another feature. The RFQ should define those edges as carefully as the hole location.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "49db8b46d38891d2fe4c6033052985a24bc691a36818d1c19889df4c9669ce3a",
       "headings": [
         {
@@ -5625,6 +5701,8 @@
       "title": "Coating allowance for threads and precision shoulders | ZUFEK",
       "description": "A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "9b0702b202f12128f0cadd3732b2192fb5af540a40abcd4483b6342be41099db",
       "headings": [
         {
@@ -5769,6 +5847,8 @@
       "title": "Nickel plating and stainless passivation: different RFQ requirements | ZUFEK",
       "description": "A bright appearance does not identify a surface process. Specify the substrate and required surface function before choosing between plating, passivation or another treatment.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "4335a770b01f3bd31f533d5ac7d8a6c60c690e52b295181472d9c65dd013881a",
       "headings": [
         {
@@ -5894,6 +5974,8 @@
       "title": "What to specify for a zinc-flake coated custom screw | ZUFEK",
       "description": "A coating-family name does not define the complete supplied surface. Custom fastener RFQs should connect the coating system with fit, friction and acceptance requirements.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "602a0594d002185be64c809fc7ca5c9ef88ee77385aefd60fe83b0913b5c3fac",
       "headings": [
         {
@@ -6038,6 +6120,8 @@
       "title": "Technical cleanliness: writing a useful fastener requirement | ZUFEK",
       "description": "Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "597686378d41d8e019af181188ac9250e26f4db01c3feae86456b17e72661352",
       "headings": [
         {
@@ -6181,6 +6265,8 @@
       "title": "Pre-applied locking patches: what the screw drawing should say | ZUFEK",
       "description": "A pre-applied locking feature needs a defined material, location and assembly requirement. A colored patch shown in a photograph is not a complete specification.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "3f087f7fcc0e599a01eb7f50151e22dbdcf365ed4d50b964c3177d030a2571b8",
       "headings": [
         {
@@ -6306,6 +6392,8 @@
       "title": "Preassembled washer screws: specify the complete set | ZUFEK",
       "description": "A preassembled screw is supplied as a small assembly. The washer, retention method and component sequence need the same control as the screw itself.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "21c666b1fde744ffb052211e832e387ca6f9dd0a3bf48f4f26ccbd552c19c9b1",
       "headings": [
         {
@@ -6450,6 +6538,8 @@
       "title": "What CCD vision inspection can check on a custom screw | ZUFEK",
       "description": "Camera-based dimensional inspection can evaluate visible features of a screw, but the image, setup and inspection program must match the requirement. It is one part of a complete acceptance plan.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "1e01e9043a50784758385abc653563c9767bb302b96786d7381e31c4be604f0b",
       "headings": [
         {
@@ -6608,6 +6698,8 @@
       "title": "First-article approval for custom screws: a practical handoff | ZUFEK",
       "description": "A sample is most useful when its identity, revision and acceptance scope are clear. First-article planning connects the approved drawing with the evidence needed before the next production decision.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "aee9ed804b7f60544318f6806781406d850c6d2f5098ecd3779a47cbc54b9177",
       "headings": [
         {
@@ -6732,6 +6824,8 @@
       "title": "Sampling and 100% inspection: choosing the right coverage | ZUFEK",
       "description": "Inspection coverage should follow the characteristic and acceptance plan. Saying that a non-standard screw needs full inspection leaves the method, features and evidence undefined.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "94857238f2492908de25e22c94aa63f420e5eebe0bd54862868097e924b6c71a",
       "headings": [
         {
@@ -6865,6 +6959,8 @@
       "title": "Thread gauges and custom screw acceptance | ZUFEK",
       "description": "Thread acceptance begins with the specified thread system and fit. The gauge, supplied finish and inspection method should all refer to that same requirement.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "09fdcd5a75de21e2f8b40150f7d399b55d8146e134c02dc598c33d06dcec4f05",
       "headings": [
         {
@@ -7010,6 +7106,8 @@
       "title": "Why a custom screw needs more than a generic torque value | ZUFEK",
       "description": "A tightening instruction belongs to the joint, not just the screw diameter. Friction, bearing conditions and the assembly method influence the relationship between tightening torque and clamp load.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "db53459dc04a7d391c07178591fa2d47bee717dbcfb1843b5eaaf9bb17f5addd",
       "headings": [
         {
@@ -7155,6 +7253,8 @@
       "title": "From prototype to production: keeping the screw specification aligned | ZUFEK",
       "description": "A prototype can establish useful geometry without defining the final production route. Plan the transition so the approved function and acceptance requirements survive the change in manufacturing method.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "947c4f8959fa4227b0cbb77f94884d2b7475c7302ab82afe0239af24a10bb1d6",
       "headings": [
         {
@@ -7280,6 +7380,8 @@
       "title": "Drawing revision control for repeat custom fastener orders | ZUFEK",
       "description": "Repeat orders should repeat the approved specification, not the ambiguities of an old email. A small revision-control habit can prevent expensive confusion across drawings, samples and inspection records.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "5ca4a4625dcaea5d0b6080c71b96006642610947210c869133381c4a3bda5945",
       "headings": [
         {
@@ -7404,6 +7506,8 @@
       "title": "Packaging and lot traceability for custom screw orders | ZUFEK",
       "description": "Packaging is part of the delivered condition. It should protect functional surfaces, preserve identification and make the incoming inspection and assembly process practical.",
       "indexable": true,
+      "publishedAt": "2026-10-29",
+      "modifiedAt": "2026-10-29",
       "englishBodyHash": "e6bac444b579f9d2ded0dc46749ebbee25c29b2e15b8d52da13347e2464a9072",
       "headings": [
         {
@@ -7528,6 +7632,8 @@
       "title": "Custom Screw RFQ Checklist | ZUFEK",
       "description": "Prepare your drawing, material, finish, quantity and inspection requirements using the ZUFEK custom screw RFQ checklist.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "423bf2994041aab7aa1a4ede1b4c3c54ea797485b79fa7a7723f9a7270d9df62",
       "headings": [
         {
@@ -7602,6 +7708,8 @@
       "title": "About us — ZUFEK, Dongguan Custom Fasteners Since 2005 | ZUFEK",
       "description": "Founded in 2005 in Dalang, Dongguan, ZUFEK supplies custom metal screws for equipment and automotive component supply-chain projects.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "6480c3110f9555077dae6703b6abbe482ef3d02804dd36ccad22c017337e0688",
       "headings": [
         {
@@ -7704,6 +7812,8 @@
       "title": "Privacy notice | ZUFEK",
       "description": "How ZUFEK handles business inquiries and personal information.",
       "indexable": false,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "e219593499983df3425da4612c3112045e99a2a72c1903761d2610dfbfb452d9",
       "headings": [
         {
@@ -7800,6 +7910,8 @@
       "title": "Request a Custom Screw Quote | ZUFEK",
       "description": "Send ZUFEK your drawing, quantity and application requirements for a non-standard metal screw quotation.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "d4be2037e0d9a9d27020d2e299669c11964f0637acd19702a6bac53d199ed325",
       "headings": [
         {
@@ -7874,6 +7986,8 @@
       "title": "Page Not Found | ZUFEK",
       "description": "The requested page could not be found.",
       "indexable": false,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "b7ddd6827d6a2350eef825f49b9ed13055a8a1f9660483769434fcf899b8a752",
       "headings": [
         {
@@ -7933,6 +8047,8 @@
       "title": "Core Custom Screws | ZUFEK",
       "description": "Shoulder, security, hollow, flange, hand-adjustment and set screw designs for daily engineering requirements. Explore drawing-defined ZUFEK fastener families.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "9ce1f1d85dff3d8e06e88a31d2cf13dd9a2100f528bc4e8efa29f672d266a2fe",
       "headings": [
         {
@@ -8044,6 +8160,8 @@
       "title": "Special Heads & Functional Bolts | ZUFEK",
       "description": "T-heads, eyes, rings, U-bends, square heads and other geometries shaped around mounting and adjustment. Explore drawing-defined ZUFEK fastener families.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "a4e0049efe362ed8103d08d3561201e6470dcecaeada597061d3ba3c5a6ba9b4",
       "headings": [
         {
@@ -8165,6 +8283,8 @@
       "title": "Special Threads & Shanks | ZUFEK",
       "description": "Fine pitches, special profiles, modified tips and stepped or tapered shanks defined by the drawing. Explore drawing-defined ZUFEK fastener families.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "b37ab8a01cfc80997a82a3850d946cfaf17519c5a2f7077fa247462db489eb44",
       "headings": [
         {
@@ -8271,6 +8391,8 @@
       "title": "Compound Structures | ZUFEK",
       "description": "Multiple locating features, cross holes, press-in features and mixed threaded sections in one custom part. Explore drawing-defined ZUFEK fastener families.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "3f042c97700a437f0a1d6bf88ffe5955618a1952af2b834d94ddf02c80f3b92a",
       "headings": [
         {
@@ -8377,6 +8499,8 @@
       "title": "Security & Tamper-Resistant Screws to Drawing | ZUFEK",
       "description": "Special drive interfaces help restrict casual access while allowing an approved service tool to operate the screw. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "74a6f2b5d725b0ed5610c2baf883baec198b5243e632955de7c6799093926252",
       "headings": [
         {
@@ -8546,6 +8670,8 @@
       "title": "Hollow & Through-Hole Screws to Drawing | ZUFEK",
       "description": "An axial bore creates a passage through a threaded component for an application-specific routing or flow requirement. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "44eae9d661c5aab80c3f1602e93e67dc84fe47bff9f97b890a6e66d2c25bf71f",
       "headings": [
         {
@@ -8720,6 +8846,8 @@
       "title": "Custom Flange Screws to Drawing | ZUFEK",
       "description": "An integral flange provides a drawing-defined bearing footprint without a separately handled washer. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "3c2b725f19a084c7a1da675078fd3f68821afc40d1017f8d966d00460be276e6",
       "headings": [
         {
@@ -8898,6 +9026,8 @@
       "title": "Knurled Thumb & Adjustment Screws to Drawing | ZUFEK",
       "description": "A grip-oriented head supports manual adjustment, with optional tool drive for the specified assembly method. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "8f2deda70dd435b46b5996c0ddaa144c2b923e1189aa8860356adb75072d6b92",
       "headings": [
         {
@@ -9076,6 +9206,8 @@
       "title": "Custom Set Screws & Grub Screws to Drawing | ZUFEK",
       "description": "Headless threaded components transfer a locating or clamping action through a specified tip. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "7429f1de4df033cbc85aac14dc047216b80c0e1671a5dc3a6b3597b60562b68e",
       "headings": [
         {
@@ -9238,6 +9370,8 @@
       "title": "Custom T-Slot Bolts to Drawing | ZUFEK",
       "description": "A drawing-specific T-head engages a matching slot for positioning or clamping. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "47a385ab71efd1e2871893d5b7bb130bcff6b8359af941e02d254379506fe9c2",
       "headings": [
         {
@@ -9372,6 +9506,8 @@
       "title": "Custom Eye & Articulating Bolts to Drawing | ZUFEK",
       "description": "An eye or fork-style end connects a threaded shank to a pin or articulating joint. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "67e1cb11db50643565b428fd730aaad1ebe23fc18f6c8e04134ea6dbe985d0f7",
       "headings": [
         {
@@ -9505,6 +9641,8 @@
       "title": "Custom Lifting Eye Bolt Designs to Drawing | ZUFEK",
       "description": "Drawing-defined ring and shank geometries for engineering review of lifting-related requirements. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "319f25c3fc2f097d078166753b6cdfb84f0752ffbbcf1c83dabcd15f4da24415",
       "headings": [
         {
@@ -9637,6 +9775,8 @@
       "title": "Custom U-Bolts to Drawing | ZUFEK",
       "description": "A bent shank and two threaded legs follow the dimensions of the pipe, frame or clamped component. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "c6a6c59a55932aeaaa1242308bc9b09267843537085251da500470f1be87e82d",
       "headings": [
         {
@@ -9768,6 +9908,8 @@
       "title": "Custom Square Head Bolts to Drawing | ZUFEK",
       "description": "A square tool interface or captured head supports application-specific access and anti-rotation needs. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "5799761bdfa02b0221c66ad147a32aae1ff3be1a9dacb5425c44564b38d53a9a",
       "headings": [
         {
@@ -9901,6 +10043,8 @@
       "title": "Custom Carriage Bolts to Drawing | ZUFEK",
       "description": "A round head and drawing-defined square neck provide an anti-rotation interface with the mating component. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "170e46d798dd4843a1bf6e1cc050266e301ef11e43f6ed24e26fc4828a46c9bc",
       "headings": [
         {
@@ -10032,6 +10176,8 @@
       "title": "Eccentric & Angled Head Screws to Drawing | ZUFEK",
       "description": "An offset or angled feature converts an adjustment into a controlled change of position. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "0da4f23179d6313d6fc5f809c94db343c08465a1492f5e91d7873da4c82f881e",
       "headings": [
         {
@@ -10165,6 +10311,8 @@
       "title": "Custom Double-Ended Studs to Drawing | ZUFEK",
       "description": "Two threaded ends can use different diameters, pitches or engagement lengths, separated by a custom center section. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "e92d2b710d016c84dc9e2681e89c7178c9fddc129f3134c708858926f971db65",
       "headings": [
         {
@@ -10314,6 +10462,8 @@
       "title": "Fine & Extra-Fine Pitch Screws to Drawing | ZUFEK",
       "description": "Drawing-defined fine pitches support adjustment and engagement requirements where a standard selection does not fit. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "68f22e3a01f50e2655585eec7670eeb1bb403dce40bd248d918ed48e89a16702",
       "headings": [
         {
@@ -10461,6 +10611,8 @@
       "title": "Special & Compound Thread Profiles to Drawing | ZUFEK",
       "description": "Trapezoidal, buttress, high-low and compound thread arrangements require an explicit profile and matching part. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "2a1c2a836c0a0af1f6dcdcdd1b28941167a325c2c32cb5c753a09f4d018aca15",
       "headings": [
         {
@@ -10603,6 +10755,8 @@
       "title": "Modified-Tip Self-Tapping Screws to Drawing | ZUFEK",
       "description": "Slotted, cut or relieved ends can be specified around the actual material and hole condition. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "eda63dcfc2f2757a8cde492ad4de12cf45fe6c5b78e145ec05700005e6ac4ae7",
       "headings": [
         {
@@ -10744,6 +10898,8 @@
       "title": "Reduced & Variable Shank Screws to Drawing | ZUFEK",
       "description": "A reduced or stepped shank introduces a deliberate change in section between functional features. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "0dcf6ec473a9925737dc24415a90679ccc848b719e8ec06934d784c153341ec2",
       "headings": [
         {
@@ -10876,6 +11032,8 @@
       "title": "Tapered Shank & Cone Screws to Drawing | ZUFEK",
       "description": "A defined taper or conical surface establishes a locating, contact or sealing interface with a matching component. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "a66d633981316d108c5182720030e66fc09e10fe096de9ccc99f7ecc5dc66b30",
       "headings": [
         {
@@ -11009,6 +11167,8 @@
       "title": "Screws with Integral Locating Pins to Drawing | ZUFEK",
       "description": "A local pin or locating extension combines a screw connection with a drawing-defined positioning feature. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "76f9df839e9e8dd160847c551c5024ce83fb39b0da687e8ba75d3936adec31e2",
       "headings": [
         {
@@ -11142,6 +11302,8 @@
       "title": "Double-Ended Shoulder Screws to Drawing | ZUFEK",
       "description": "Two threaded ends and a larger central shoulder combine connection and axial location in one part. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "29e38c50a05f7549e6062d54bcedddaa22b1d47cd11d2a0da9d69f8e0897770d",
       "headings": [
         {
@@ -11274,6 +11436,8 @@
       "title": "Cross-Drilled & Head-Hole Screws to Drawing | ZUFEK",
       "description": "A radial or transverse hole provides a specified passage for a pin, wire or other assembly element. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "091c233962ef8f0d340f26d39dc94b11be328d55a4ec6f981bfc027d2c04f0e7",
       "headings": [
         {
@@ -11407,6 +11571,8 @@
       "title": "Multi-Step & Multi-Shoulder Screws to Drawing | ZUFEK",
       "description": "Several diameters and locating faces fit a more complex stack of mating components. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "64abd22a779ebf71411501128aadcd658647296be42277f385cd4e8811e32ada",
       "headings": [
         {
@@ -11541,6 +11707,8 @@
       "title": "Custom Clinch Screws & Studs to Drawing | ZUFEK",
       "description": "Drawing-specific press-in features can combine a threaded component with a sheet-metal attachment interface. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "f52401867cb42c1ddd73930a55ff880d9564d6be040e555081243bb220b9266a",
       "headings": [
         {
@@ -11673,6 +11841,8 @@
       "title": "Multi-Station Cold Heading | ZUFEK",
       "description": "Wire is cut and formed through a sequence of dies. Head, flange and some shoulder features can be integrated into a repeatable production route.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "d5f747261dd7ca88f5f32e97cc51eabe89235736f35a28c3382adca1250298e1",
       "headings": [
         {
@@ -11839,6 +12009,8 @@
       "title": "Swiss-Type & CNC Turning | ZUFEK",
       "description": "Bar-fed turning and turn-mill operations create drawing-specific steps, bores and other details with flexible programming.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "c1cf649f9c496fefa7c976d219c669c79f3e084ce06df799bcd622e5717d7ab3",
       "headings": [
         {
@@ -12005,6 +12177,8 @@
       "title": "Hot Heading & Forging | ZUFEK",
       "description": "Heated stock can be formed into larger or heavier geometries before finishing operations define the final interfaces.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "00925b5e96012fecc7dda8ef779e8c0752018a22b4dcdd7ba7dac65108cbc955",
       "headings": [
         {
@@ -12147,6 +12321,8 @@
       "title": "Cold Heading + Secondary Machining | ZUFEK",
       "description": "A formed blank provides the basic shape; selected machined features establish critical steps, faces or holes.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "3c5c4d76af4dc14acff61ba782db96edc56463943cafe2a71dbc9c3d599a61bc",
       "headings": [
         {
@@ -12298,6 +12474,8 @@
       "title": "Thread Rolling, Cutting & Tapping | ZUFEK",
       "description": "The thread profile, material and batch conditions determine whether rolling, cutting, grinding or an internal tapping process is appropriate.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "678812c890bf8c2968a41e3a1d6a1f6a5a697e16080ec2c1840d72482ac6e93e",
       "headings": [
         {
@@ -12464,6 +12642,8 @@
       "title": "Secondary & Precision Operations | ZUFEK",
       "description": "Local holes, flats, grooves and finished diameters often create the functional difference in a non-standard fastener.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "c0292ad3ca2dc1ba19f1fb3adf0fba96fc8368a5d9d0b0f06fb751a3d0d7f03e",
       "headings": [
         {
@@ -12620,6 +12800,8 @@
       "title": "Material-Specific Heat Treatment | ZUFEK",
       "description": "Heat-treatment selection follows the alloy, required condition and applicable acceptance specification. One sequence cannot be applied to every screw.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "5979b3e3d399513e020d27e9412e27a9756a8c247563d51627f39dbfc825b25f",
       "headings": [
         {
@@ -12787,6 +12969,8 @@
       "title": "Coatings & Surface Treatments | ZUFEK",
       "description": "Specify a complete surface system: substrate condition, coating, thickness, functional surfaces and acceptance criteria.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "cfb3b9f47aa4eed6ee5ea302775a9a366357b23374ac9d3a1d16950f3b701776",
       "headings": [
         {
@@ -12960,6 +13144,8 @@
       "title": "Cleaning, Locking & Assembly | ZUFEK",
       "description": "Cleanliness, burr control and pre-applied features are part of the finished-part specification, not an afterthought.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "320f4637d83676584341cd94eb1b8d033b368d4d7e881e6469dc87b7fcf2f51b",
       "headings": [
         {
@@ -13116,6 +13302,8 @@
       "title": "CCD Vision & Dimensional Inspection | ZUFEK",
       "description": "Non-contact optical checks for screw length, head diameter and visible stepped profiles, combined with the gauges and tests required by the drawing.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "a586809ee07d7dcefa88f3e981c002072a9898b8ec86066bcadb497c29d47904",
       "headings": [
         {
@@ -13286,6 +13474,8 @@
       "title": "Custom Fastener Materials — Strength & Applications | ZUFEK",
       "description": "Compare carbon steel, 10B21, SUS304/316, aluminum, copper, brass and titanium for custom screws, with condition-specific strength references and application guidance.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "d6c6a7bf3d90b8a235217c931336516c6c1db01f4ac13dc34c9d740077afda3f",
       "headings": [
         {
@@ -13406,6 +13596,8 @@
       "title": "Special Screw Drive & Security Recess Guide | ZUFEK",
       "description": "Compare pin-in six-lobe, Y-type, pentalobe, spanner, triangular, square and combination screw drive specification requirements.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "56d38f056cd64938a1447a113d549e4fcfc2940e050910307990dce967c8fca1",
       "headings": [
         {
@@ -13481,6 +13673,8 @@
       "title": "Custom Screw Manufacturing Route Examples | ZUFEK",
       "description": "Compare complete route examples for cold-headed shoulder screws, CNC hollow and eccentric parts, and hot-forged eye components.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "40dbcf5fe502d0642a0d4a43e64dd88a7b06575a99197a6ec3302d715ba12cd6",
       "headings": [
         {
@@ -13580,6 +13774,8 @@
       "title": "Theo Wan — ZUFEK Technical Editorial | ZUFEK",
       "description": "Technical articles published under Theo Wan (万天恩), the editorial pen name for ZUFEK custom fastener guides.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "8b14bd4cea1d13d0632da7b06a28deffbe34ea6c48e40485f551107ae24ed765",
       "headings": [
         {
@@ -13698,6 +13894,8 @@
       "title": "Industries — Custom Fasteners by Application | ZUFEK",
       "description": "Explore ZUFEK custom fasteners for automotive components, automation, electronics, energy equipment, tooling, security, fluid control and machinery.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "ac16c36e2f809d4899cd1046499075d58d36b8df0eb18daa81c8cabd3d01a7e2",
       "headings": [
         {
@@ -13816,6 +14014,8 @@
       "title": "Automotive Components Custom Fasteners | ZUFEK",
       "description": "Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "d2521835c6714da38f336fc46ab9cae8e64a6439b3fe298cc47ea1917a51d13f",
       "headings": [
         {
@@ -13953,6 +14153,8 @@
       "title": "Industrial Automation Custom Fasteners | ZUFEK",
       "description": "Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "2a16b2843a45e1769ec1cac48356c5361c039dcd79144043e9e345276ee6f205",
       "headings": [
         {
@@ -14090,6 +14292,8 @@
       "title": "Electronics & Optical Equipment Custom Fasteners | ZUFEK",
       "description": "Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "8dd2eb7b2fda78411a935c7bd223de57b05973f3a446c793b3379034b20bb23c",
       "headings": [
         {
@@ -14223,6 +14427,8 @@
       "title": "Energy, Charging & Storage Equipment Custom Fasteners | ZUFEK",
       "description": "Custom fastening and connection geometries for equipment housings, brackets, routing features and electrical interface components.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "e11fc528c4acb06eda38a9f0fe00e11139d5ef3918ffc5e0188b259064f3ec7d",
       "headings": [
         {
@@ -14355,6 +14561,8 @@
       "title": "Molds, Tooling & Test Fixtures Custom Fasteners | ZUFEK",
       "description": "Custom shoulder screws, stops and threaded locating components for mold-related mechanisms, jigs and test fixtures.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "552331d8f228dd64fae0daeaa8ecd970e459dfb2591f794b5f3b53d1635021f6",
       "headings": [
         {
@@ -14486,6 +14694,8 @@
       "title": "Security & Access Equipment Custom Fasteners | ZUFEK",
       "description": "Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "d38b64cae57903aa3aecbcc98dd2aec60c717beea30d87616fd7da474bba729b",
       "headings": [
         {
@@ -14617,6 +14827,8 @@
       "title": "Fluid Control & Pneumatic Equipment Custom Fasteners | ZUFEK",
       "description": "Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "bc97142a28a2b6661b693e2ad40cc268755af3b04847a4f4f2a7435b5da26384",
       "headings": [
         {
@@ -14749,6 +14961,8 @@
       "title": "General Machinery & Equipment Custom Fasteners | ZUFEK",
       "description": "Special heads, studs and connection geometries for machine frames, brackets, custom linkages and equipment assemblies.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "d1e276302ede44968e540afa708ce244cf9d43ad7e68850d331b1ea5ab74919f",
       "headings": [
         {
@@ -14881,6 +15095,8 @@
       "title": "Carbon & Alloy Steel — Custom Screw Strength & Uses | ZUFEK",
       "description": "Carbon &amp; Alloy Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "87045c178f8b58379d1850e8b78110d2d05f3f07803aa121cdbfbadf92e47ccd",
       "headings": [
         {
@@ -15031,6 +15247,8 @@
       "title": "10B21 Boron Steel — Custom Screw Strength & Uses | ZUFEK",
       "description": "10B21 Boron Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "75a506d6876e3a8f63518b1a32cdaac20876e270e229fe83dcbbdd1547df440e",
       "headings": [
         {
@@ -15177,6 +15395,8 @@
       "title": "SUS304 & SUS316 Stainless Steel — Custom Screw Strength & Uses | ZUFEK",
       "description": "SUS304 &amp; SUS316 Stainless Steel strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "8713ef6495f2089842368bbaf8735b1f9e31340d0170d3cda9d15c3c5dd90e04",
       "headings": [
         {
@@ -15328,6 +15548,8 @@
       "title": "Aluminum Alloys — Custom Screw Strength & Uses | ZUFEK",
       "description": "Aluminum Alloys strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "9721d998903c60fdcfeb402e9f8dcd6052e0fefa6cbe2d95022e62624f0f48e4",
       "headings": [
         {
@@ -15476,6 +15698,8 @@
       "title": "Copper — Custom Screw Strength & Uses | ZUFEK",
       "description": "Copper strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "431dcad880f71b4446b8503f863023c7a80a97515539e42282601efab8287e6b",
       "headings": [
         {
@@ -15624,6 +15848,8 @@
       "title": "Brass — Custom Screw Strength & Uses | ZUFEK",
       "description": "Brass strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "4b156422940dce2facd2991d3fb75847bc8977eee3f3f82b88fa709b3ba35666",
       "headings": [
         {
@@ -15772,6 +15998,8 @@
       "title": "Titanium & Titanium Alloys — Custom Screw Strength & Uses | ZUFEK",
       "description": "Titanium &amp; Titanium Alloys strength references, application considerations and RFQ requirements for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "e952ab72ff695b0f53cbb4b95d5de7539e6a7e9100036ce6e46f4844bd60d01a",
       "headings": [
         {
@@ -15922,6 +16150,8 @@
       "title": "Custom Screw Material & Strength Selection Workflow | ZUFEK",
       "description": "Compare material grade, finished strength, exposure, mating interfaces and inspection evidence before selecting a custom screw material.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "f45fdb071dc84a6374f1bf9d7ed053af3881cdb09fa85873549ee18fef81dbdb",
       "headings": [
         {
@@ -16019,6 +16249,8 @@
       "title": "Custom Fastener Application Design Studies | ZUFEK",
       "description": "Follow two illustrative fastener projects from assembly requirements through product selection, material, manufacturing, sampling and approval.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "f939206ed5e1c820053355737f39837e248293b23ef4c717d4f81d187a1414c8",
       "headings": [
         {
@@ -16094,6 +16326,8 @@
       "title": "Automotive Module Enclosure: Custom Flange Screw Design Study | ZUFEK",
       "description": "An illustrative enclosure fastener project linking flange geometry, service access, material and coating review, manufacturing and sample acceptance.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "94407defc5c9a038cd8d8b3410a398890814d25bf61e39da48fcfe324f2361d9",
       "headings": [
         {
@@ -16239,6 +16473,8 @@
       "title": "Automation Fixture: Shoulder Screw & Adjustment Design Study | ZUFEK",
       "description": "An illustrative pivot-fixture project connecting shoulder fits, axial stack, adjustment, route selection, CCD limits and sample approval.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "67bfffe6c2fbf23c2b637fcc3cc0182ae1e15a0d970b4526a15b2631405d4bfc",
       "headings": [
         {
@@ -16384,6 +16620,8 @@
       "title": "Cookie & storage policy | ZUFEK",
       "description": "Choose essential-only browsing or allow first-party analytics.",
       "indexable": false,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "e42a267d6ff21974372321c6c7a90f3dc4ab5b7013418c49d4cd6bc678ef83ec",
       "headings": [
         {
@@ -16451,6 +16689,8 @@
       "title": "Your data rights | ZUFEK",
       "description": "A direct way to ask about information held with your inquiry.",
       "indexable": false,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "940280fcb527aba235aeb3b2176d5cc4236e036c894db8ab5c4e6d1b0b377485",
       "headings": [
         {
@@ -16518,6 +16758,8 @@
       "title": "Company information | ZUFEK",
       "description": "The business behind ZUFEK custom metal fasteners.",
       "indexable": false,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "5a238cdf986c828baae3a7e2e8283e1c61e40b9b633d16e367ec0588f8da34e1",
       "headings": [
         {
@@ -16587,6 +16829,8 @@
       "title": "EV charging enclosures: why fastener specifications must follow the joint | ZUFEK",
       "description": "Review EV charging enclosure screws through joint function, gasket stack, security access, coating and an agreed inspection plan.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "59ea7642cba89c8f24435584e3e6fea327231dcbed9aeb1fd80d243cae8f317d",
       "headings": [
         {
@@ -16709,6 +16953,8 @@
       "title": "Factory automation: specifying locating and pivot fasteners for repeatable assemblies | ZUFEK",
       "description": "How automation teams can specify shoulder screws for locating, pivoting and adjustment, with controlled interfaces and repeat-order evidence.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "3b6adca82c4c52af6e657a9019366f84413dfcba9f5dbf5bc75dc976553f1474",
       "headings": [
         {
@@ -16835,6 +17081,8 @@
       "title": "Battery energy storage equipment: defining fastener interfaces beyond the material grade | ZUFEK",
       "description": "Specify battery storage fasteners by mechanical or electrical function, material condition, coating, cleanliness and traceable acceptance.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "b44b26b48003f8105eea71634ae94f524be1d3e924d0d88bb7738349c14c4f52",
       "headings": [
         {
@@ -16961,6 +17209,8 @@
       "title": "Data-centre equipment: fastener decisions for cooling, service access and controlled assembly | ZUFEK",
       "description": "Review data-centre equipment fasteners for service access, captive retention, controlled passages, cleanliness and final-condition inspection.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "4550aad65aee841c0c8df3505e15094a076676c8ccae637d15cec0bd13cb11e8",
       "headings": [
         {
@@ -17087,6 +17337,8 @@
       "title": "Repairability and product information: what custom fastener buyers should define now | ZUFEK",
       "description": "Connect repair access, replacement-part control and evidence-backed product information without assuming universal passport obligations for screws.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "0aa5b893401103169680fc1afde4fe8ec85739b8da11e22de3f64b4fa5d81235",
       "headings": [
         {
@@ -17223,6 +17475,8 @@
       "title": "Material supply risk: qualifying fastener alternatives without losing the approved interface | ZUFEK",
       "description": "Qualify alternative fastener materials through final properties, manufacturability, treatment, fit, documentation and controlled release.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "23314f53069fe861db69d300ec525be7f6ff66a3ac9658277469c98eaa867c4c",
       "headings": [
         {
@@ -17353,6 +17607,8 @@
       "title": "Custom fastener drawing review: a practical release checklist | ZUFEK",
       "description": "A step-by-step drawing review for custom screw RFQs: controlled definition, mating interfaces, critical features, final condition and release evidence.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "a232ddf235ef14243e11e4dda7dccf037a45ed696fbd42f71fbe879f42a611bf",
       "headings": [
         {
@@ -17462,6 +17718,8 @@
       "title": "Choosing a manufacturing route for a custom screw | ZUFEK",
       "description": "Compare cold heading, CNC turning, hybrid and hot-forged routes using geometry, quantity, tooling, secondary work and final acceptance.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "b2947e1fb50611a4d64c3d662e80a181a1e2bfc40fcfb35c55c5fb58fd29331d",
       "headings": [
         {
@@ -17572,6 +17830,8 @@
       "title": "Specifying a fastener surface treatment without leaving the interface undefined | ZUFEK",
       "description": "Define coating purpose, sensitive surfaces, final fit, treatment risks, test criteria, installation requirements and traceable records.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "ced5a6b170703bed150367c29cfe560dfbb7650168a36c1abde586595a99014a",
       "headings": [
         {
@@ -17687,6 +17947,8 @@
       "title": "Building a custom fastener inspection and acceptance plan | ZUFEK",
       "description": "Build a characteristic-by-characteristic acceptance plan with suitable methods, inspection frequency, records and deviation handling.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "0d52de73becf03875d81d049d199cafcface4b08f58dd5e636895e3874e1af02",
       "headings": [
         {
@@ -17800,6 +18062,8 @@
       "title": "From prototype screw to repeat production: a stage-gate handover guide | ZUFEK",
       "description": "Use stage gates to move from geometry samples to approved repeat production, preserving drawing control, route decisions and lot evidence.",
       "indexable": true,
+      "publishedAt": "2026-10-30",
+      "modifiedAt": "2026-10-30",
       "englishBodyHash": "910141fdae15a31308286396b7eb597d92ad06fbb54935e6b8ec7d027be5fb3f",
       "headings": [
         {
@@ -17913,6 +18177,8 @@
       "title": "Custom fastener FAQ | ZUFEK",
       "description": "Answers to common purchasing and engineering questions before requesting drawing-defined metal screws. Product-specific decisions still follow the approved drawing, quantity and agreed acceptance requirements.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "8ca7773840f0e8e1dd335498f8bf84d87edba69b1eeed74a31243d920646d7d8",
       "headings": [
         {
@@ -17995,6 +18261,8 @@
       "title": "Engineering Guides | ZUFEK",
       "description": "Drawing preparation, material selection and drive references for custom fastener RFQs.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "8a4e64b7460bc9059806b53026a60671f18f699eff48422d788939f7a5afd0b4",
       "headings": [
         {
@@ -18095,6 +18363,8 @@
       "title": "Industry Insights | ZUFEK",
       "description": "Industry developments and the questions they raise for custom fasteners.",
       "indexable": true,
+      "publishedAt": null,
+      "modifiedAt": null,
       "englishBodyHash": "d33c0d6883cfd6ed8ddcc1de4f2c41538f5274b9774a45647fe7c82de2a8018d",
       "headings": [
         {
