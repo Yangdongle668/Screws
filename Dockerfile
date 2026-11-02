@@ -18,6 +18,7 @@ COPY --from=build --chown=node:node /app/docker ./docker
 COPY --from=build --chown=node:node /app/lib/article-path.mjs ./lib/article-path.mjs
 COPY --from=build --chown=node:node /app/lib/translation-contract.mjs ./lib/translation-contract.mjs
 COPY --from=build --chown=node:node /app/lib/article-audit.mjs ./lib/article-audit.mjs
+COPY --from=build --chown=node:node /app/lib/article-publication-state.mjs ./lib/article-publication-state.mjs
 COPY --from=build --chown=node:node /app/lib/safe-markdown.mjs ./lib/safe-markdown.mjs
 COPY --from=build --chown=node:node /app/public ./public
 COPY --from=build --chown=node:node /app/drizzle ./drizzle

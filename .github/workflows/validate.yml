@@ -49,6 +49,7 @@ jobs:
           node docker/verify-ai-citations.mjs
           node docker/verify-ai-text-contract.mjs
           node docker/verify-ai-json-recovery.mjs
+          node docker/verify-publication-reconcile.mjs
           node docker/verify-ai-staged.mjs
           node docker/verify-ai.mjs
           node docker/verify-insights.mjs
