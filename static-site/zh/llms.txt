@@ -160,10 +160,10 @@ HTML pages are the primary source. This directory lists current indexable public
 - [工业自动化非标螺丝：转动、定位与调节](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/industrial-automation/): 比较自动化机构中转动、定位和调节所需的螺丝接口，从配合件几何找到对应产品、加工路线和验收记录。
 - [电子与光学组件非标螺丝：空间、调节与接触](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/electronics-optics/): 为电子外壳和光学调节机构明确小型螺丝头、细牙及偏心接口，分别检查操作空间、接触状态和清洁要求。
 - [充电与储能设备非标螺丝：外壳、孔道与连接](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/energy-equipment/): 区分充电及储能设备的维护面板螺丝、线缆孔道与导电连接，分别明确接触材料、表面状态和装配验收。
-- [模具、工装和测试夹具定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/molds-fixtures/): 台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
-- [安全和访问设备定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/security-equipment/): 特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
+- [模具与测试治具非标螺丝：定位、止挡与夹紧](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/molds-fixtures/): 为模具、工装及测试治具明确定位台阶、可调止挡和槽内夹紧要求，检查接触磨损、替换件与工装设定记录。
+- [安防与门禁设备防拆螺丝：槽型、保持与维护](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/security-equipment/): 评审安防外壳的防拆槽型、防脱维护面板和沉台承压面，将配套工具、操作空间及成品装配一起确认。
 - [流体设备中空螺丝：固定、通流与密封](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/fluid-control/): 将流体设备中的固定、通流与密封功能分别评审，明确孔道、介质、密封接口、清洁及约定功能试验。
-- [通用机械和设备定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/general-machinery/): 为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
+- [机械装配非标螺柱与紧固件：接口、安装及验收](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/general-machinery/): 比较两端异牙螺柱、槽内捕获头部与活动连接件，分别明确配合几何、安装顺序和版本记录。
 
 ## 应用设计示例
 

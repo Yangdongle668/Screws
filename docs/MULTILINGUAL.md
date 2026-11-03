@@ -28,7 +28,7 @@ node scripts/verify-language-preference.mjs
 
 六篇核心技术旧文的英文增量在 `scripts/core-article-review.mjs`，五种译文由 `scripts/core-article-localization.mjs` 维护，生成 `translations/core-article-review.json`。执行常规审校命令后完整生成；关键词、简介、算例和评审记录一起同步。保留原发布日期，仅更新实际修订日期。已在数据库发布的旧版使用既有校订包：匹配已核对正文且没有未发布修改时，保存六语言回滚快照后统一更新；有差异则在文章管理提示人工比对，不覆盖人工稿。
 
-四个行业页（自动化、电子光学、能源设备、流体控制）的用途／接口／验收比较由 `scripts/industry-interface-content.mjs` 维护，五种译文在 `scripts/industry-interface-localization.mjs`。运行 `node scripts/industry-interface-localization.mjs` 后完整生成，或使用常规审校命令；映射写入 `translations/industry-interface-review.json`。行业决策表替换原有通用追加段落，位于相关产品列表之前；保留现有行业总览图片及页面网址。产品、工艺和后续阅读按各行功能关联，前台表格在手机上复用材料选择表的分项展示样式。
+七个行业页（自动化、电子光学、能源设备、流体控制、模具治具、安防设备、通用机械）的用途／接口／验收比较由 `scripts/industry-interface-content.mjs` 维护，五种译文在 `scripts/industry-interface-localization.mjs`。运行 `node scripts/industry-interface-localization.mjs` 后完整生成，或使用常规审校命令；映射写入 `translations/industry-interface-review.json`。行业决策表替换原有通用追加段落，位于相关产品列表之前；保留现有行业总览图片及页面网址。产品、工艺和后续阅读按各行功能关联，前台表格在手机上复用材料选择表的分项展示样式。汽车行业继续使用 `buyer-content.mjs` 中已有的接口矩阵，八个详情页均按各自装配用途组织内容。
 
 ## 语言入口与默认选择
 

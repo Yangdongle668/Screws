@@ -11592,7 +11592,7 @@ GUIDA INGEGNERIA
 
 Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
-### Stampi, attrezzature e dispositivi di prova Elementi di fissaggio personalizzati
+### Viti su misura per stampi, attrezzature e collaudo
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/molds-fixtures/
 
 PASSI, ARRESTI E REGOLAZIONE
@@ -11615,6 +11615,38 @@ Specificare le condizioni del materiale, l'estremità del contatto e i requisiti
 
 Includere l'intervallo di regolazione, l'accesso alla chiave ed eventuali requisiti di assemblaggio ripetuto.
 
+#### Distinguere posizionamento, arresto e serraggio
+
+Un’attrezzatura richiede un riferimento del pezzo definito e spazio per caricarlo e rimuoverlo. Indicare quale superficie della vite stabilisce il riferimento, quale contatto può usurarsi e quale elemento serra soltanto.
+
+Distinguere posizionamento, arresto e serraggio Funzione nell’assieme Specificare insieme ai pezzi accoppiati Accettazione e verifica successiva
+
+Posizionare un elemento rimovibile dell’attrezzatura Specificare insieme ai pezzi accoppiati Identificare gradino o spallamento funzionale, foro accoppiato e appoggio. Quotare i gradini dai riferimenti concordati anziché sommare lunghezze indipendenti.
+
+Viti a più gradini e spallamenti ↗ Accettazione e verifica successiva Controllare superfici finite di posizionamento e accoppiamento. Provare rimozione e rimontaggio rispetto alla posizione di riferimento.
+
+Lavorazioni secondarie e di precisione ↗
+
+Regolare un arresto del pezzo Specificare insieme ai pezzi accoppiati Definire punta o pattino, corsa, bloccaggio e segni ammessi sul pezzo. Identificare gli elementi di contatto sostituibili.
+
+Grani e viti senza testa su disegno ↗ Accettazione e verifica successiva Registrare posizione e contatto prima e dopo la sequenza concordata. Valutare ripetibilità della posizione separatamente dall’usura visibile.
+
+Trattamento termico specifico per il materiale ↗
+
+Serrare attraverso una cava della macchina o attrezzatura Specificare insieme ai pezzi accoppiati Indicare sezione reale della cava, sede testa, percorso d’inserimento e appoggio. Definire impegno del filetto e pacco serrato.
+
+Bulloni per cave a T su disegno ↗ Accettazione e verifica successiva Verificare inserimento, appoggio testa e antirotazione nella cava prevista. Accertare l’appoggio sulla faccia specificata senza interferenze altrove.
+
+Lavorazioni secondarie e di precisione ↗
+
+##### Esempio di modifica: sostituire un pattino usurato
+
+Confrontare spessore, forma e stato del materiale del pattino sostitutivo con la configurazione approvata. Il nuovo pattino può spostare il riferimento del pezzo anche senza modificare la vite. Ripristinare il riferimento, controllare limiti e registrare revisioni di pattino e vite. Separare misure di messa a punto e controlli successivi del pezzo: una verifica positiva dell’attrezzatura non è accettazione del prodotto.
+
+Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.
+
+Confrontare punte dei grani e segni di contatto ↗
+
 #### Strutture di fissaggio rilevanti
 
 Viti multi-step e multi-spalla ↗ Viti di fermo e grani personalizzati ↗ Viti zigrinate e di regolazione ↗ Bulloni per cave a T su disegno ↗
@@ -11632,22 +11664,6 @@ Gli esempi descrivono i requisiti dell'applicazione. L'idoneità dei materiali, 
 #### Preparare una specifica di progetto più chiara.
 
 Cono, piatto, cane o coppa: scegli la punta con vite di fissaggio ↗ Montaggio bullone con scanalatura a T: cosa misurare prima di ordinare ↗ Elenco di controllo completo della richiesta di offerta ↗
-
-#### Tradurre l'applicazione in una specifica di fissaggio
-
-Per stampi, attrezzature e dispositivi di prova, il primo compito è collegare la geometria dell'elemento di fissaggio con l'interfaccia dell'attrezzatura. Catene di dimensioni funzionali: mostrano le superfici che posizionano ciascun componente e le distanze assiali che controllano l'attrezzatura. Requisiti di contatto e usura: specificare le condizioni del materiale, l'estremità di contatto e i requisiti della superficie per la funzione effettiva. Impostazione e manutenzione: includere l'intervallo di regolazione, l'accesso alla chiave ed eventuali requisiti di assemblaggio ripetuto. Spiegare l'ambiente e la sequenza del servizio insieme al disegno tecnico in modo che la revisione riguardi il componente installato.
-
-Per un arresto dell'attrezzatura, includere la superficie di accoppiamento, la forma della punta e il metodo di bloccaggio. Distinguere una dimensione utilizzata per la distanza da una superficie che stabilisce la posizione effettiva del pezzo.
-
-#### Seleziona un percorso attorno alle caratteristiche funzionali
-
-Le famiglie di prodotti rilevanti includono viti a gradino multiplo e a spallamento multiplo, viti di fissaggio e grani personalizzati, viti a testa zigrinata e di regolazione, bulloni con scanalatura a T personalizzati. Questi sono punti di partenza per una revisione del disegno tecnico, non parti intercambiabili. Confronta l'acciaio al carbonio e legato, l'acciaio inossidabile SUS304 e SUS316 con gli attuali requisiti meccanici e ambientali.
-
-Discuti la tornitura a fantina mobile e CNC, le operazioni secondarie e di precisione, il trattamento termico specifico del materiale come parte del percorso completo. Identificare la quantità del campione, le caratteristiche critiche, la finitura e le registrazioni richieste prima dell'approvazione. Il nome di un settore da solo non implica una certificazione di progetto o un ambito di prova generale.
-
-#### Pianifica l'approvazione dei campioni e ripeti gli ordini
-
-Il campionamento tipico, inclusa l'attrezzatura, richiede circa 10–15 giorni, soggetto a revisione e conferma tecnica. Confermare la base del programma, l'accettazione del campione e qualsiasi prova delle parti accoppiate nel preventivo. Rilascia la produzione ripetuta rispetto alla revisione approvata e registra le modifiche al materiale, al trattamento o alla geometria anziché fare affidamento su una fotografia precedente.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -11667,7 +11683,7 @@ GUIDA INGEGNERIA
 
 Diverse spalle possono posizionare diversi componenti. Uno schema dimensionale chiaro spiega quali distanze assiali controllano l'assemblaggio e quali sono conseguenze di altre dimensioni.
 
-### Attrezzature di sicurezza e accesso Elementi di fissaggio personalizzati
+### Viti antimanomissione per apparecchiature di sicurezza e accesso
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/security-equipment/
 
 INTERFACCIA DI GUIDA E ACCESSO AL SERVIZIO
@@ -11678,9 +11694,9 @@ Elementi di fissaggio con guida speciale e testa personalizzata per pannelli di 
 
 Discuti la tua candidatura ↗ Panoramica del settore
 
-#### Profili di guida definiti
+#### Profili dell’impronta definiti
 
-Fornire l'esatta rientranza e i requisiti dello strumento corrispondente, compresi i dettagli del perno centrale, ove utilizzato.
+Specificare la geometria esatta dell’impronta e l’utensile compatibile, compreso l’eventuale perno centrale.
 
 #### Spazio di installazione reale
 
@@ -11689,6 +11705,38 @@ Mostra la profondità della nicchia, le pareti circostanti e l'involucro dell'ut
 #### Superficie e aspetto
 
 Concordare le condizioni visibili della testa, la finitura e i requisiti di corrosione per l'ambiente di installazione.
+
+#### Progettare accesso limitato e manutenzione autorizzata
+
+Un’impronta speciale può scoraggiare rimozioni occasionali consentendo la manutenzione prevista. Specificare utensile e accesso montato, poi decidere se la vite allentata debba restare sul pannello.
+
+Progettare accesso limitato e manutenzione autorizzata Funzione nell’assieme Specificare insieme ai pezzi accoppiati Accettazione e verifica successiva
+
+Limitare l’interfaccia di azionamento Specificare insieme ai pezzi accoppiati Identificare profilo, impegno utile ed eventuale perno centrale. Specificare inserto e portainserto con la geometria finita della testa.
+
+Viti di sicurezza antimanomissione ↗ Accettazione e verifica successiva Confrontare impronta finita e utensile identificato prima fuori dall’involucro, poi in posizione montata. Distinguere accoppiamento e accessibilità.
+
+Lavorazioni secondarie e di precisione ↗
+
+Trattenere la viteria durante la manutenzione del pannello Specificare insieme ai pezzi accoppiati Indicare spessore, ritegno, corsa libera e filetto accoppiato. Identificare apertura e cavi o componenti adiacenti.
+
+Viti imperdibili ↗ Accettazione e verifica successiva Controllare ritenzione dopo disimpegno, spazio d’apertura e riavvitamento con l’utensile di servizio. Registrare configurazione approvata di pannello e ritegno.
+
+Pulizia, frenatura e preassemblaggio ↗
+
+Alloggiare una testa in un incasso protettivo Specificare insieme ai pezzi accoppiati Indicare profondità, spazio laterale, appoggio ed eventuali rivestimenti o guarnizioni nel pacco. Definire segni visibili ammessi.
+
+Viti flangiate su disegno ↗ Accettazione e verifica successiva Confermare appoggio e accesso sui pezzi finiti. Verificare le prestazioni richieste dell’involucro completo separatamente dalle quote della vite.
+
+Pianificare prove funzionali e documenti ↗
+
+##### Esempio di modifica: cambiare inserto o portainserto di servizio
+
+Per confrontare un ricambio, conservare disegno vite, riferimento impronta e identificativo utensile originale. Verificare impegno utile e ingombro del portainserto nell’involucro reale prima dell’approvazione. Registrare revisione dell’utensile con vite e pannello, compresa la specifica dei ricambi. La geometria speciale non equivale a un livello di sicurezza certificato o a un grado di protezione dell’involucro.
+
+Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.
+
+Valutare insieme impronta e accesso dell’utensile montato ↗
 
 #### Strutture di fissaggio rilevanti
 
@@ -11707,22 +11755,6 @@ Gli esempi descrivono i requisiti dell'applicazione. L'idoneità dei materiali, 
 #### Preparare una specifica di progetto più chiara.
 
 Come specificare un azionamento a vite antimanomissione ↗ Cinque domande prima di specificare una vite imperdibile ↗ Elenco di controllo completo della richiesta di offerta ↗
-
-#### Tradurre l'applicazione in una specifica di fissaggio
-
-Per le apparecchiature di sicurezza e accesso, il primo compito è collegare la geometria del dispositivo di fissaggio con l'interfaccia dell'apparecchiatura. Profili di azionamento definiti: Fornire l'esatta rientranza e i requisiti dell'utensile corrispondente, compresi i dettagli del perno centrale, ove utilizzato. Spazio di installazione reale: mostrare la profondità della nicchia, le pareti circostanti e l'involucro dell'utensile di servizio nello stato assemblato. Superficie e aspetto: concordare le condizioni visibili della testa, la finitura e i requisiti di corrosione per l'ambiente di installazione. Spiegare l'ambiente e la sequenza del servizio insieme al disegno tecnico in modo che la revisione riguardi il componente installato.
-
-Per un alloggiamento protetto, inviare sia il disegno tecnico della vite che l'incavo dell'involucro. Un'unità a prova di manomissione scoraggia l'accesso casuale; la progettazione complessiva del controllo degli accessi rimane un requisito di assemblaggio.
-
-#### Seleziona un percorso attorno alle caratteristiche funzionali
-
-Le famiglie di prodotti rilevanti includono viti di sicurezza e antimanomissione, viti a testa speciale, viti imperdibili, viti flangiate personalizzate. Questi sono punti di partenza per una revisione del disegno tecnico, non parti intercambiabili. Confronta SUS304 e SUS316 Acciaio inossidabile, acciaio al carbonio e legato con gli attuali requisiti meccanici e ambientali.
-
-Discuti di stampaggio a freddo multistazione, operazioni secondarie e di precisione, rivestimenti e trattamenti superficiali come parte del percorso completo. Identificare la quantità del campione, le caratteristiche critiche, la finitura e le registrazioni richieste prima dell'approvazione. Il nome di un settore da solo non implica una certificazione di progetto o un ambito di prova generale.
-
-#### Pianifica l'approvazione dei campioni e ripeti gli ordini
-
-Il campionamento tipico, inclusa l'attrezzatura, richiede circa 10–15 giorni, soggetto a revisione e conferma tecnica. Confermare la base del programma, l'accettazione del campione e qualsiasi prova delle parti accoppiate nel preventivo. Rilascia la produzione ripetuta rispetto alla revisione approvata e registra le modifiche al materiale, al trattamento o alla geometria anziché fare affidamento su una fotografia precedente.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -11833,7 +11865,7 @@ GUIDA INGEGNERIA
 
 La pulizia diventa un requisito tecnico quando la contaminazione può compromettere l'assemblaggio. Definire cosa deve essere rimosso, come viene misurato e come viene protetta la condizione di pulizia.
 
-### Macchinari e attrezzature generali Elementi di fissaggio personalizzati
+### Prigionieri e fissaggi su misura per macchinari
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/general-machinery/
 
 MONTAGGIO, COLLEGAMENTI E GIUNTI PERSONALIZZATI
@@ -11856,6 +11888,38 @@ Definire la sequenza di installazione, le condizioni dei materiali e la verifica
 
 Mantieni allineate le revisioni dei disegni tecnici, le decisioni sui campioni, l'ambito dell'ispezione e l'identificazione della spedizione.
 
+#### Scegliere il collegamento secondo montaggio e trasferimento del carico
+
+Un prigioniero fra pezzi filettati, una testa vincolata in cava e un elemento articolato con perno richiedono disegni diversi. Partire da interfacce e sequenza di montaggio prima del ciclo produttivo.
+
+Scegliere il collegamento secondo montaggio e trasferimento del carico Funzione nell’assieme Specificare insieme ai pezzi accoppiati Accettazione e verifica successiva
+
+Collegare interfacce filettate diverse Specificare insieme ai pezzi accoppiati Identificare estremità A e B con sistema di filettatura, passo, lunghezza utile e impegno richiesto. Indicare spallamenti o accesso utensile intermedi.
+
+Prigionieri a doppia estremità su disegno ↗ Accettazione e verifica successiva Controllare ciascuna estremità con la propria specifica dopo la finitura ordinata. Conservare l’identificazione nei documenti di controllo e montaggio.
+
+Rullatura, taglio e maschiatura dei filetti ↗
+
+Vincolare una testa in una cava di montaggio Specificare insieme ai pezzi accoppiati Definire geometria reale di cava e sede, orientamento testa, appoggio e inserimento. Includere pacco serrato completo e accesso utensile.
+
+Bulloni per cave a T su disegno ↗ Accettazione e verifica successiva Provare inserimento e serraggio nella cava prevista. Confermare appoggio e antirotazione senza presumere che tutte le cave dei profilati abbiano la stessa sezione.
+
+Stampaggio a freddo multistazione ↗
+
+Collegare un cinematismo mobile Specificare insieme ai pezzi accoppiati Indicare occhio o forcella, perno accoppiato, spazio di articolazione e direzione del carico. Definire impegno e ritegno del giunto.
+
+Bulloni a occhio e articolati su disegno ↗ Accettazione e verifica successiva Controllare interfaccia del perno e ingombro di movimento, poi concordare le prove richieste. Un occhio di articolazione non è automaticamente un attacco di sollevamento approvato.
+
+Pianificare prove funzionali e documenti ↗
+
+##### Esempio di modifica: aggiornare un prigioniero con filetti diversi
+
+La modifica di un’estremità può influire su identificazione e montaggio anche se l’altra resta uguale. Confrontare entrambi i pezzi accoppiati, spallamento, accesso e finitura con il disegno aggiornato. Elencare calibri e controlli da modificare per estremità, mantenendo l’approvazione precedente associata alla revisione originale. Concordare i nuovi campioni prima dei riordini.
+
+Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.
+
+Identificare e controllare entrambe le estremità di un prigioniero ↗
+
 #### Strutture di fissaggio rilevanti
 
 Prigionieri a doppia estremità su disegno ↗ Bulloni a testa quadra su disegno ↗ Bulloni per cave a T su disegno ↗ Bulloni a occhio e articolati su disegno ↗
@@ -11873,22 +11937,6 @@ Gli esempi descrivono i requisiti dell'applicazione. L'idoneità dei materiali, 
 #### Preparare una specifica di progetto più chiara.
 
 Prigionieri a doppia estremità: prevengono errori di assemblaggio di filetti misti ↗ controllo della revisione del disegno tecnico per ordini ripetuti di elementi di fissaggio personalizzati ↗ Elenco di controllo completo della richiesta di offerta ↗
-
-#### Tradurre l'applicazione in una specifica di fissaggio
-
-Per macchinari e attrezzature generali, il primo compito è collegare la geometria dell'elemento di fissaggio con l'interfaccia dell'attrezzatura. Dettagli della connessione di accoppiamento: forniscono entrambe le interfacce filettate, le fessure di montaggio o i perni di collegamento che determinano la geometria richiesta. Requisiti di montaggio e carico: definire la sequenza di installazione, le condizioni dei materiali e la verifica richiesta per la connessione completa. Coerenza degli ordini ripetuti: mantieni allineate le revisioni dei disegni tecnici, le decisioni sui campioni, l'ambito dell'ispezione e l'identificazione della spedizione. Spiegare l'ambiente e la sequenza del servizio insieme al disegno tecnico in modo che la revisione riguardi il componente installato.
-
-Per una connessione a filettatura mista, identificare l'estremità A e l'estremità B sul disegno tecnico e sul piano di ispezione. Se l'applicazione prevede il sollevamento, fornire separatamente i requisiti di progettazione e verifica approvati.
-
-#### Seleziona un percorso attorno alle caratteristiche funzionali
-
-Le famiglie di prodotti rilevanti includono prigionieri a doppia estremità personalizzati, bulloni a testa quadrata personalizzati, bulloni con scanalatura a T personalizzati, bulloni ad occhiello e articolati personalizzati. Questi sono punti di partenza per una revisione del disegno tecnico, non parti intercambiabili. Confronta acciaio al carbonio e legato, acciaio al boro 10B21, acciaio inossidabile SUS304 e SUS316 con gli attuali requisiti meccanici e ambientali.
-
-Discuti di stampaggio e forgiatura a caldo, rullatura di filetti, taglio e maschiatura, visione CCD e ispezione dimensionale come parte del percorso completo. Identificare la quantità del campione, le caratteristiche critiche, la finitura e le registrazioni richieste prima dell'approvazione. Il nome di un settore da solo non implica una certificazione di progetto o un ambito di prova generale.
-
-#### Pianifica l'approvazione dei campioni e ripeti gli ordini
-
-Il campionamento tipico, inclusa l'attrezzatura, richiede circa 10–15 giorni, soggetto a revisione e conferma tecnica. Confermare la base del programma, l'accettazione del campione e qualsiasi prova delle parti accoppiate nel preventivo. Rilascia la produzione ripetuta rispetto alla revisione approvata e registra le modifiche al materiale, al trattamento o alla geometria anziché fare affidamento su una fotografia precedente.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 

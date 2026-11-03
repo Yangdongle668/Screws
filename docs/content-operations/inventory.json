@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "scope": "Repository snapshot of English public pages and corresponding translation presence. No production or technical approval is implied.",
   "sourceHashes": {
-    "lib/generated-pages.json": "5c33a6f6f88bf47af35221c3a443809c8b164a7e98bb5a0d7dbad7649b04253b",
+    "lib/generated-pages.json": "ac78bc1a35beb8ff575fc6d2e8659160877cbd4030efcb62480336b435bb2e1a",
     "scripts/content/manifest.json": "e707f728ab1d1f498738bc3080103495a487d976792db0c21c489016610ef6ab"
   },
   "counts": {
@@ -887,7 +887,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "42509d697e30cc4ea873bbbd640fa49f6d069ff5ce39da101ae73b7b6a8d7cf3",
+          "repositoryHash": "0ccdd5cf392f867d9784f98bd3a6280ff4e65524f77856fe7e4f093a27f61a35",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -1028,7 +1028,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "db476c6440014dcd1aff9bad6042af7af04b76d1e39904c0e0c3587baa3994a1",
+          "repositoryHash": "3c17a826d1413d2c7519ee83841249b10b40f91d24f643c9bde112d1580c1906",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -2285,7 +2285,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "99f27d331a72eece6c148d885c95709e7c51e64c47d43822ab05aa862bc09cb9",
+          "repositoryHash": "5510839d10c6955540d6027b0bc3cc99883dba15ec9e43fcacd41947482f6b66",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -8628,7 +8628,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "a054cc658136ebbbd48beed2e6e55b36b4d5c0884ed9038cc132e1d0d405a8cf",
+          "repositoryHash": "2eb9ca1582c84d57f1158639c0eff804b7e0f22a4702e99d9d3735499a380927",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -8972,7 +8972,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "1880217230ad2bd44f2be237a1e0502039531d0b070426d86654feaa92a4d60d",
+          "repositoryHash": "54cfe9f2e8b007c17d56dbd9cfbac816562fb77abbb5ac1b055f1e2f014228c4",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -13091,7 +13091,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "d0d024b66492ced57b2776d43e5b1f24abb1d990f529311bf1d52c6d7f46017b",
+          "repositoryHash": "56a98bba0745b84a2990ddf6566e10e49ca1137b274655e40df7e7cffc081895",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -13961,7 +13961,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "9c59ce04b8f658b88c825671d64ae223f2a79da624579b6b00472ad3c915307f",
+          "repositoryHash": "b781768faab4dc639747736989a7783a8ec2252392f45a7f1ab4d36687a12e22",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
@@ -14510,12 +14510,12 @@
       "type": "industry",
       "status": "present_in_repository",
       "productionPublication": "not_verified",
-      "title": "Molds, Tooling & Test Fixtures Custom Fasteners | ZUFEK",
-      "description": "Custom shoulder screws, stops and threaded locating components for mold-related mechanisms, jigs and test fixtures.",
+      "title": "Custom Screws for Molds, Tooling & Test Fixtures | ZUFEK",
+      "description": "Specify locating steps, adjustable stops and slot-mounted clamps for tooling and test fixtures. Review contact wear, replacement parts and setup records.",
       "indexable": true,
       "publishedAt": null,
       "modifiedAt": null,
-      "englishBodyHash": "552331d8f228dd64fae0daeaa8ecd970e459dfb2591f794b5f3b53d1635021f6",
+      "englishBodyHash": "0dc97761345c24fd3386a2d18320905a94bc1b1c89d5c4e3b1d0160fc6627928",
       "headings": [
         {
           "level": 1,
@@ -14535,6 +14535,14 @@
         },
         {
           "level": 2,
+          "text": "Keep locating, stopping and clamping requirements distinct"
+        },
+        {
+          "level": 3,
+          "text": "Change example: replace a worn contact pad"
+        },
+        {
+          "level": 2,
           "text": "Relevant fastener structures"
         },
         {
@@ -14548,18 +14556,6 @@
         {
           "level": 2,
           "text": "Prepare a clearer project specification."
-        },
-        {
-          "level": 2,
-          "text": "Translate the application into a fastener specification"
-        },
-        {
-          "level": 2,
-          "text": "Select a route around the functional features"
-        },
-        {
-          "level": 2,
-          "text": "Plan sample approval and repeat orders"
         },
         {
           "level": 2,
@@ -14583,15 +14579,15 @@
         "/industries/",
         "/request-a-quote/",
         "/products/multi-step-screws/",
+        "/capabilities/secondary-machining/",
         "/products/set-screws/",
-        "/products/knurled-thumb-screws/",
+        "/capabilities/heat-treatment/",
         "/products/t-slot-bolts/",
+        "/blog/set-screw-tip-selection/",
+        "/products/knurled-thumb-screws/",
         "/materials/carbon-alloy-steel/",
         "/materials/stainless-steel-304-316/",
         "/capabilities/cnc-turning/",
-        "/capabilities/secondary-machining/",
-        "/capabilities/heat-treatment/",
-        "/blog/set-screw-tip-selection/",
         "/blog/t-slot-bolt-head-fit/",
         "/guides/rfq-checklist/",
         "/blog/knurled-thumb-screw-grip-design/",
@@ -14603,35 +14599,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Industries / Molds, Tooling & Test Fixtures STEPS, STOPS & ADJUSTMENT Molds, Tooling & Test Fixtures Custom shoulder screws, stops and threaded locating components for mold-related mechanisms, jigs and test fixtures. Discuss your application ↗ Industry overview Functional dimension chains Show the surfaces that locate each component and the axial distances that control the fixture. Contact and wear requirements Specify material condition, contact end and surface requirements for the actual function. Setup and maintenance Include adjustment range, wrench access and any repeated assembly requirements. Relevant fastener structures Multi-Step & Multi-Shoulder Screws ↗ Custom Set Screws & Grub Screws ↗ Knurled Thumb & Adjustment Screws ↗ Custom T-Slot Bolts ↗ Material options to review Carbon & Alloy Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Manufacturing and acceptance Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ Material-Specific Heat Treatment ↗ For a fixture stop, include the mating surface, tip form and locking method. Distinguish a dimension used for clearance from a surface that establishes the actual workpiece position. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Cone, flat, dog or cup: choosing a set-screw tip ↗ T-slot bolt fit: what to measure before ordering ↗ Complete RFQ checklist ↗ Translate the application into a fastener specification For molds, tooling & test fixtures, the first task is to connect the fastener geometry with the equipment interface. Functional dimension chains: Show the surfaces that locate each component and the axial distances that control the fixture. Contact and wear requirements: Specify material condition, contact end and surface requirements for the actual function. Setup and maintenance: Include adjustment range, wrench access and any repeated assembly requirements. Explain the environment and service sequence alongside the drawing so the review addresses the installed component. For a fixture stop, include the mating surface, tip form and locking method. Distinguish a dimension used for clearance from a surface that establishes the actual workpiece position. Select a route around the functional features The relevant product families include Multi-Step & Multi-Shoulder Screws, Custom Set Screws & Grub Screws, Knurled Thumb & Adjustment Screws, Custom T-Slot Bolts. These are starting points for a drawing review, not interchangeable parts. Compare Carbon & Alloy Steel, SUS304 & SUS316 Stainless Steel against the actual mechanical and environmental requirements. Discuss Swiss-Type & CNC Turning, Secondary & Precision Operations, Material-Specific Heat Treatment as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope. Plan sample approval and repeat orders Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Knurled thumb screws: specifying grip and adjustment ↗ A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works. ENGINEERING GUIDE Multi-step screws: controlling the axial dimension chain ↗ Several shoulders can locate several components. A clear dimension scheme explains which axial distances control the assembly and which are consequences of other dimensions. START YOUR NEXT PROJECT Let’s review your molds, tooling & test fixtures requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Industries / Molds, Tooling & Test Fixtures STEPS, STOPS & ADJUSTMENT Molds, Tooling & Test Fixtures Custom shoulder screws, stops and threaded locating components for mold-related mechanisms, jigs and test fixtures. Discuss your application ↗ Industry overview Functional dimension chains Show the surfaces that locate each component and the axial distances that control the fixture. Contact and wear requirements Specify material condition, contact end and surface requirements for the actual function. Setup and maintenance Include adjustment range, wrench access and any repeated assembly requirements. Keep locating, stopping and clamping requirements distinct A fixture needs a defined workpiece reference as well as enough clearance to load and remove the part. Show which screw surface sets that reference, which contact can wear and which feature only clamps. Keep locating, stopping and clamping requirements distinct Assembly function Specify with the mating parts Acceptance and next review Locate a removable fixture element Specify with the mating parts Identify the working step or shoulder, mating bore and seating face. Dimension functional steps from the agreed datums, rather than accumulating unrelated lengths. Multi-Step & Multi-Shoulder Screws ↗ Acceptance and next review Check the finished locating surfaces and the mating fit. Trial removal and refitting against the specified reference position. Secondary & Precision Operations ↗ Set an adjustable workpiece stop Specify with the mating parts Define the contact point or pad, adjustment travel, locking method and permitted marking on the workpiece. Identify any replaceable contact element. Custom Set Screws & Grub Screws ↗ Acceptance and next review Record the stop position and contact condition before and after the agreed adjustment sequence. Compare position repeatability separately from visible wear. Material-Specific Heat Treatment ↗ Clamp through a machine or fixture slot Specify with the mating parts Show the actual slot section, head pocket, insertion path and bearing area. Define engaged thread and the stack to be clamped. Custom T-Slot Bolts ↗ Acceptance and next review Check insertion, head seating and anti-rotation in the intended slot. Confirm that the head bears on the specified face without bottoming elsewhere. Secondary & Precision Operations ↗ Change example: replace a worn contact pad Compare the replacement pad thickness, contact shape and material condition with the approved setup. A new pad can shift the workpiece reference even when the screw setting is unchanged. Re-establish the reference position, check the adjustment limits and record the pad and screw revisions. Separate setup measurements from any subsequent workpiece inspection so a successful fixture check is not mistaken for product acceptance. Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly. Compare set-screw points and contact marking ↗ Relevant fastener structures Multi-Step & Multi-Shoulder Screws ↗ Custom Set Screws & Grub Screws ↗ Knurled Thumb & Adjustment Screws ↗ Custom T-Slot Bolts ↗ Material options to review Carbon & Alloy Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Manufacturing and acceptance Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ Material-Specific Heat Treatment ↗ For a fixture stop, include the mating surface, tip form and locking method. Distinguish a dimension used for clearance from a surface that establishes the actual workpiece position. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Cone, flat, dog or cup: choosing a set-screw tip ↗ T-slot bolt fit: what to measure before ordering ↗ Complete RFQ checklist ↗ CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Knurled thumb screws: specifying grip and adjustment ↗ A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works. ENGINEERING GUIDE Multi-step screws: controlling the axial dimension chain ↗ Several shoulders can locate several components. A clear dimension scheme explains which axial distances control the assembly and which are consequences of other dimensions. START YOUR NEXT PROJECT Let’s review your molds, tooling & test fixtures requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "e9735ad0e8b7eddfeb2e36a511ffd64118431fdbc8183dfb39031aa98853d2a9",
+          "repositoryHash": "6fa030b015c09f904e9497e3a91372cb5f568d9eb02540eb7c7eb2f30be80d34",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "82898396b290cd24c8e3059ad1f8236e5b228cd870d85d0bb26f50bf1e4c8d77",
+          "repositoryHash": "4fae7981547ad5499b416458f1cc4bb6365c719c92369cb531480a98b84ba3f6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "19220c5c395f12ef57292d17f858c28b4b17700b8f301e201f4a5aba6ab8f29b",
+          "repositoryHash": "e0c133341a04556fb6dbd08e8d45d53d0a1545564ba8df96489b2d95075e40da",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "d54c5f2c463fbdd6b5c8e3befab22cc6d655383c052de84afec7f833e5e47dac",
+          "repositoryHash": "67a7a67d0ba8e5876a66f2011907a2ad2e23bab839a13ba0681cef5e0cb5df1a",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "e9415c1076864d98a8df44afc0cf8fab4a72a8564abb1abc9eb6938845e763d1",
+          "repositoryHash": "d655b3cdbf6d78e34dea8cf1272f7bdf7b37b4a438be46e3bcecead249133b23",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -14643,12 +14639,12 @@
       "type": "industry",
       "status": "present_in_repository",
       "productionPublication": "not_verified",
-      "title": "Security & Access Equipment Custom Fasteners | ZUFEK",
-      "description": "Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment.",
+      "title": "Tamper-Resistant Screws for Security & Access Equipment | ZUFEK",
+      "description": "Review restricted drives, captive service panels and recessed bearing faces for security housings. Match the tool, access path and finished assembly.",
       "indexable": true,
       "publishedAt": null,
       "modifiedAt": null,
-      "englishBodyHash": "5b206735947a8243ea8319b153e7ebbf3aef69c10b16cdb7abafabdafca2fd12",
+      "englishBodyHash": "e6d62d1e2be8659423c2245d31aa3198bf9b3b33a3e2f05eb6474f7cb488ffa1",
       "headings": [
         {
           "level": 1,
@@ -14668,6 +14664,14 @@
         },
         {
           "level": 2,
+          "text": "Design for restricted access and authorized maintenance"
+        },
+        {
+          "level": 3,
+          "text": "Change example: use a different service bit or holder"
+        },
+        {
+          "level": 2,
           "text": "Relevant fastener structures"
         },
         {
@@ -14681,18 +14685,6 @@
         {
           "level": 2,
           "text": "Prepare a clearer project specification."
-        },
-        {
-          "level": 2,
-          "text": "Translate the application into a fastener specification"
-        },
-        {
-          "level": 2,
-          "text": "Select a route around the functional features"
-        },
-        {
-          "level": 2,
-          "text": "Plan sample approval and repeat orders"
         },
         {
           "level": 2,
@@ -14716,15 +14708,17 @@
         "/industries/",
         "/request-a-quote/",
         "/products/security-screws/",
-        "/products/special-head-screws/",
+        "/capabilities/secondary-machining/",
         "/products/captive-screws/",
+        "/capabilities/post-processing/",
         "/products/flange-screws/",
+        "/quality/",
+        "/blog/specifying-security-screw-drive/",
+        "/products/special-head-screws/",
         "/materials/stainless-steel-304-316/",
         "/materials/carbon-alloy-steel/",
         "/capabilities/cold-heading/",
-        "/capabilities/secondary-machining/",
         "/capabilities/surface-treatment/",
-        "/blog/specifying-security-screw-drive/",
         "/blog/captive-screw-design-questions/",
         "/guides/rfq-checklist/",
         "/blog/custom-flange-bearing-face/",
@@ -14736,35 +14730,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Industries / Security & Access Equipment DRIVE INTERFACE & SERVICE ACCESS Security & Access Equipment Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment. Discuss your application ↗ Industry overview Defined drive profiles Supply the exact recess and matching tool requirement, including center-pin details where used. Real installation clearance Show recess depth, surrounding walls and the service tool envelope in the assembled condition. Surface and appearance Agree visible head condition, finish and corrosion requirements for the installation environment. Relevant fastener structures Security & Tamper-Resistant Screws ↗ Special Head Screws ↗ Captive Screws ↗ Custom Flange Screws ↗ Material options to review SUS304 & SUS316 Stainless Steel ↗ Carbon & Alloy Steel ↗ Manufacturing and acceptance Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗ Coatings & Surface Treatments ↗ For a protected housing, send both the screw drawing and enclosure recess. A tamper-resistant drive discourages casual access; the overall access-control design remains an assembly requirement. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. How to specify a tamper-resistant screw drive ↗ Five questions before specifying a captive screw ↗ Complete RFQ checklist ↗ Translate the application into a fastener specification For security & access equipment, the first task is to connect the fastener geometry with the equipment interface. Defined drive profiles: Supply the exact recess and matching tool requirement, including center-pin details where used. Real installation clearance: Show recess depth, surrounding walls and the service tool envelope in the assembled condition. Surface and appearance: Agree visible head condition, finish and corrosion requirements for the installation environment. Explain the environment and service sequence alongside the drawing so the review addresses the installed component. For a protected housing, send both the screw drawing and enclosure recess. A tamper-resistant drive discourages casual access; the overall access-control design remains an assembly requirement. Select a route around the functional features The relevant product families include Security & Tamper-Resistant Screws, Special Head Screws, Captive Screws, Custom Flange Screws. These are starting points for a drawing review, not interchangeable parts. Compare SUS304 & SUS316 Stainless Steel, Carbon & Alloy Steel against the actual mechanical and environmental requirements. Discuss Multi-Station Cold Heading, Secondary & Precision Operations, Coatings & Surface Treatments as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope. Plan sample approval and repeat orders Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Designing the bearing face of a custom flange screw ↗ Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer. ENGINEERING GUIDE What to specify for a zinc-flake coated custom screw ↗ A coating-family name does not define the complete supplied surface. Custom fastener RFQs should connect the coating system with fit, friction and acceptance requirements. START YOUR NEXT PROJECT Let’s review your security & access equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Industries / Security & Access Equipment DRIVE INTERFACE & SERVICE ACCESS Security & Access Equipment Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment. Discuss your application ↗ Industry overview Defined drive profiles Supply the exact recess and matching tool requirement, including center-pin details where used. Real installation clearance Show recess depth, surrounding walls and the service tool envelope in the assembled condition. Surface and appearance Agree visible head condition, finish and corrosion requirements for the installation environment. Design for restricted access and authorized maintenance A special drive can discourage casual removal while still allowing planned servicing. Specify the matching tool and installed access, then decide whether the released screw must stay attached to the panel. Design for restricted access and authorized maintenance Assembly function Specify with the mating parts Acceptance and next review Restrict the drive interface Specify with the mating parts Identify the recess profile, usable engagement and any centre pin. Specify the intended bit and holder alongside the finished head geometry. Security & Tamper-Resistant Screws ↗ Acceptance and next review Compare the finished recess with the identified tool, first outside the housing and then in the installed position. Distinguish tool fit from restricted access. Secondary & Precision Operations ↗ Retain hardware during panel service Specify with the mating parts Show panel thickness, retaining feature, released travel and mating thread. Identify the panel-opening path and adjacent cables or components. Captive Screws ↗ Acceptance and next review Check retention after disengagement, opening clearance and re-engagement with the service tool. Record the approved panel and retainer configuration. Cleaning, Locking & Assembly ↗ Seat a head inside a protective recess Specify with the mating parts Provide recess depth, sidewall clearance, bearing face and any coating or gasket in the stack. State the permitted visible contact marks. Custom Flange Screws ↗ Acceptance and next review Confirm seating and tool access on finished mating parts. Verify any specified enclosure performance on the complete assembly, separately from screw dimensions. Plan functional tests and records ↗ Change example: use a different service bit or holder Keep the screw drawing, recess reference and original tool identity available when comparing a replacement. Check usable engagement and the holder envelope inside the actual housing before approving the change. Record the service-tool revision with the screw and panel configuration, including how replacements are specified. Restricted-drive geometry is not an independently certified security level or an enclosure-protection rating. Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly. Review the drive and installed-tool access together ↗ Relevant fastener structures Security & Tamper-Resistant Screws ↗ Special Head Screws ↗ Captive Screws ↗ Custom Flange Screws ↗ Material options to review SUS304 & SUS316 Stainless Steel ↗ Carbon & Alloy Steel ↗ Manufacturing and acceptance Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗ Coatings & Surface Treatments ↗ For a protected housing, send both the screw drawing and enclosure recess. A tamper-resistant drive discourages casual access; the overall access-control design remains an assembly requirement. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. How to specify a tamper-resistant screw drive ↗ Five questions before specifying a captive screw ↗ Complete RFQ checklist ↗ CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Designing the bearing face of a custom flange screw ↗ Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer. ENGINEERING GUIDE What to specify for a zinc-flake coated custom screw ↗ A coating-family name does not define the complete supplied surface. Custom fastener RFQs should connect the coating system with fit, friction and acceptance requirements. START YOUR NEXT PROJECT Let’s review your security & access equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "b23b1c4c25d1e7b8b088943f75e75b6648b6b265ad400c65a0a9cf621442b0ed",
+          "repositoryHash": "019fad705eabcb4c62334a9b54524d137138729b022b7adaed735aa85e0f9846",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "009545b3f711c9a1cb564a96ef0b9f4f326544cdff2cf98d70734064c52c9e9c",
+          "repositoryHash": "5496b2a67d3ac3d299f45337b97ae06cf1581b431c0dbe114ea254ab34f5dfe3",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "f566eaad4b6d3c0f7727dc67c66a917551d247450a87dfddc427b46e45d51b75",
+          "repositoryHash": "e99d595a7031c4ea2795940a211d3b83feddf49c3130ff552edf9fe475a369a5",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "377ab9b1a203cf769076dc97d607bac262d75694cf5fa319e38faa414af521cf",
+          "repositoryHash": "45be359cd3767b4be4ee4e3b037f446999e8a7ae7103c1e556035b6426efc34c",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "e3cf998997db48ed44103865fd8f3093ef94c30d3eee13f9d7f6df7f5b6f8790",
+          "repositoryHash": "71c6eb8a0493070393e3119b149087c2a2ea940107d42ca8782a7b8758ac84d6",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -14910,12 +14904,12 @@
       "type": "industry",
       "status": "present_in_repository",
       "productionPublication": "not_verified",
-      "title": "General Machinery & Equipment Custom Fasteners | ZUFEK",
-      "description": "Special heads, studs and connection geometries for machine frames, brackets, custom linkages and equipment assemblies.",
+      "title": "Custom Studs & Fasteners for Machinery Assemblies | ZUFEK",
+      "description": "Compare mixed-thread studs, captured slot heads and linkage fasteners for machinery. Define mating geometry, installation sequence and revision records.",
       "indexable": true,
       "publishedAt": null,
       "modifiedAt": null,
-      "englishBodyHash": "d1e276302ede44968e540afa708ce244cf9d43ad7e68850d331b1ea5ab74919f",
+      "englishBodyHash": "c2b471dd023ea432fbb60425afc0398398fe289296cdf48a7e85c8090fe2141a",
       "headings": [
         {
           "level": 1,
@@ -14935,6 +14929,14 @@
         },
         {
           "level": 2,
+          "text": "Choose the connection around installation and load transfer"
+        },
+        {
+          "level": 3,
+          "text": "Change example: revise a mixed-thread stud"
+        },
+        {
+          "level": 2,
           "text": "Relevant fastener structures"
         },
         {
@@ -14948,18 +14950,6 @@
         {
           "level": 2,
           "text": "Prepare a clearer project specification."
-        },
-        {
-          "level": 2,
-          "text": "Translate the application into a fastener specification"
-        },
-        {
-          "level": 2,
-          "text": "Select a route around the functional features"
-        },
-        {
-          "level": 2,
-          "text": "Plan sample approval and repeat orders"
         },
         {
           "level": 2,
@@ -14983,16 +14973,18 @@
         "/industries/",
         "/request-a-quote/",
         "/products/double-ended-studs/",
-        "/products/square-head-bolts/",
+        "/capabilities/threading/",
         "/products/t-slot-bolts/",
+        "/capabilities/cold-heading/",
         "/products/eye-bolts/",
+        "/quality/",
+        "/blog/double-ended-stud-thread-identification/",
+        "/products/square-head-bolts/",
         "/materials/carbon-alloy-steel/",
         "/materials/10b21-boron-steel/",
         "/materials/stainless-steel-304-316/",
         "/capabilities/hot-forging/",
-        "/capabilities/threading/",
         "/capabilities/inspection/",
-        "/blog/double-ended-stud-thread-identification/",
         "/blog/drawing-revision-custom-fastener-orders/",
         "/guides/rfq-checklist/",
         "/blog/eye-bolt-linkage-vs-lifting/",
@@ -15004,35 +14996,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Industries / General Machinery & Equipment MOUNTING, LINKAGES & CUSTOM JOINTS General Machinery & Equipment Special heads, studs and connection geometries for machine frames, brackets, custom linkages and equipment assemblies. Discuss your application ↗ Industry overview Mating connection details Provide both thread interfaces, mounting slots or linkage pins that determine the required geometry. Assembly and load requirements Define installation sequence, material condition and required verification for the complete connection. Repeat-order consistency Keep drawing revisions, sample decisions, inspection scope and shipment identification aligned. Relevant fastener structures Custom Double-Ended Studs ↗ Custom Square Head Bolts ↗ Custom T-Slot Bolts ↗ Custom Eye & Articulating Bolts ↗ Material options to review Carbon & Alloy Steel ↗ 10B21 Boron Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Manufacturing and acceptance Hot Heading & Forging ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗ For a mixed-thread connection, identify end A and end B on the drawing and inspection plan. If the application involves lifting, provide the approved design and verification requirements separately. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Double-ended studs: preventing mixed-thread assembly errors ↗ Drawing revision control for repeat custom fastener orders ↗ Complete RFQ checklist ↗ Translate the application into a fastener specification For general machinery & equipment, the first task is to connect the fastener geometry with the equipment interface. Mating connection details: Provide both thread interfaces, mounting slots or linkage pins that determine the required geometry. Assembly and load requirements: Define installation sequence, material condition and required verification for the complete connection. Repeat-order consistency: Keep drawing revisions, sample decisions, inspection scope and shipment identification aligned. Explain the environment and service sequence alongside the drawing so the review addresses the installed component. For a mixed-thread connection, identify end A and end B on the drawing and inspection plan. If the application involves lifting, provide the approved design and verification requirements separately. Select a route around the functional features The relevant product families include Custom Double-Ended Studs, Custom Square Head Bolts, Custom T-Slot Bolts, Custom Eye & Articulating Bolts. These are starting points for a drawing review, not interchangeable parts. Compare Carbon & Alloy Steel, 10B21 Boron Steel, SUS304 & SUS316 Stainless Steel against the actual mechanical and environmental requirements. Discuss Hot Heading & Forging, Thread Rolling, Cutting & Tapping, CCD Vision & Dimensional Inspection as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope. Plan sample approval and repeat orders Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Eye bolts for linkages and lifting: different specification needs ↗ An eye-shaped end can belong to a linkage, a tensioning device or a lifting component. Similar appearance does not establish the same design requirements or approved use. ENGINEERING GUIDE T-slot bolt fit: what to measure before ordering ↗ A T-head must enter, turn or slide inside the intended slot while retaining the required contact. The slot cross-section is therefore an essential part of the fastener RFQ. START YOUR NEXT PROJECT Let’s review your general machinery & equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Industries / General Machinery & Equipment MOUNTING, LINKAGES & CUSTOM JOINTS General Machinery & Equipment Special heads, studs and connection geometries for machine frames, brackets, custom linkages and equipment assemblies. Discuss your application ↗ Industry overview Mating connection details Provide both thread interfaces, mounting slots or linkage pins that determine the required geometry. Assembly and load requirements Define installation sequence, material condition and required verification for the complete connection. Repeat-order consistency Keep drawing revisions, sample decisions, inspection scope and shipment identification aligned. Choose the connection around installation and load transfer A stud connecting two threaded parts, a captured slot head and a pin-linked component impose different drawing requirements. Start with the mating interfaces and assembly sequence before choosing a manufacturing route. Choose the connection around installation and load transfer Assembly function Specify with the mating parts Acceptance and next review Connect different threaded interfaces Specify with the mating parts Label stud ends A and B with their thread systems, pitches, usable lengths and engagement requirements. Show any shoulder or tool-access feature between them. Custom Double-Ended Studs ↗ Acceptance and next review Gauge each end against its own specification after the ordered finish. Keep end identification in the inspection and assembly records. Thread Rolling, Cutting & Tapping ↗ Capture a head in a mounting slot Specify with the mating parts Define the actual slot and pocket geometry, head orientation, bearing surface and insertion route. Include the complete clamped stack and tool access. Custom T-Slot Bolts ↗ Acceptance and next review Trial insertion and tightening in the intended slot. Confirm seating and required anti-rotation without assuming all profile slots share the same section. Multi-Station Cold Heading ↗ Join a moving linkage Specify with the mating parts Show the eye or fork, mating pin, articulation space and load direction. Define the thread engagement and how the joint is retained. Custom Eye & Articulating Bolts ↗ Acceptance and next review Check the pin interface and movement envelope, then agree any specified joint test. A linkage eye is not automatically an approved lifting attachment. Plan functional tests and records ↗ Change example: revise a mixed-thread stud A change at one end can affect how the part is identified and installed even if the other end remains the same. Compare both mating components, shoulder position, tool access and final finish against the revised drawing. List which end-specific gauges and assembly checks must change, and keep the original approval linked to its original revision. Agree the revised sample scope before ordering repeat quantities. Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly. Identify and inspect both ends of a custom stud ↗ Relevant fastener structures Custom Double-Ended Studs ↗ Custom Square Head Bolts ↗ Custom T-Slot Bolts ↗ Custom Eye & Articulating Bolts ↗ Material options to review Carbon & Alloy Steel ↗ 10B21 Boron Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Manufacturing and acceptance Hot Heading & Forging ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗ For a mixed-thread connection, identify end A and end B on the drawing and inspection plan. If the application involves lifting, provide the approved design and verification requirements separately. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Double-ended studs: preventing mixed-thread assembly errors ↗ Drawing revision control for repeat custom fastener orders ↗ Complete RFQ checklist ↗ CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Eye bolts for linkages and lifting: different specification needs ↗ An eye-shaped end can belong to a linkage, a tensioning device or a lifting component. Similar appearance does not establish the same design requirements or approved use. ENGINEERING GUIDE T-slot bolt fit: what to measure before ordering ↗ A T-head must enter, turn or slide inside the intended slot while retaining the required contact. The slot cross-section is therefore an essential part of the fastener RFQ. START YOUR NEXT PROJECT Let’s review your general machinery & equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "91a910dc1767a98fcc4d2ccc142d57c5cb8355607b028ea4b2156654fc3f6351",
+          "repositoryHash": "00656a11cd9e1611b744a9d1f4bd969236a901dea4823deabefe120c193689bc",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "728da68ab7af64ef37c439620c7f64965182d2a9f4506063d4fba97b8fd0c36b",
+          "repositoryHash": "f4a7225e2d94dd1744a04bb8be7576fa9fec275ebbf681a7923c06bd3547682f",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "0c2230864f6561c44f8f38baa8fcce21ef78754eb8b6dfbe43c8994a2f051174",
+          "repositoryHash": "e54cbe76817dc73880d770cc8ca9edecf5200d802b35003525d80ef628fbdd5f",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "117262e3f1c8a7e4b4f934f7dbed430f97eabf5e6bea6163f4c212e7332725d7",
+          "repositoryHash": "2469d2e62af431c452c3362505685f5934f89715cf24f8e77ef9ea77c370af55",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "f7ddb37d43a24da2c65b1d7fb69a4e505dc60ce5728d1222b49eb965829866e3",
+          "repositoryHash": "9c5bdf7e318e48255b0d21dacd1dff99b4d0c882cd3d594e94949bd9bf628d42",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -15477,7 +15469,7 @@
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "31717d366774de21ff9662d7c66aa7f56f1d40c870641ec3730ee44e3a956ee7",
+          "repositoryHash": "b6840fbcaea7e72f499ead4237ca9ea5f938214e1ebef1245109caff9d18880e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },

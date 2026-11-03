@@ -482,6 +482,377 @@
     "fr": "Définir géométrie du perçage et réception des arêtes internes",
     "zh": "明确孔道几何与内部边缘验收"
   },
+  "Custom Screws for Molds, Tooling & Test Fixtures": {
+    "de": "Sonderschrauben für Formen, Werkzeuge und Prüfvorrichtungen",
+    "es": "Tornillos a medida para moldes, utillajes y pruebas",
+    "it": "Viti su misura per stampi, attrezzature e collaudo",
+    "fr": "Vis sur mesure pour moules, outillages et bancs d’essai",
+    "zh": "模具与测试治具非标螺丝：定位、止挡与夹紧"
+  },
+  "Specify locating steps, adjustable stops and slot-mounted clamps for tooling and test fixtures. Review contact wear, replacement parts and setup records.": {
+    "de": "Positionierstufen, verstellbare Anschläge und Nutspannungen spezifizieren. Kontaktverschleiß, Ersatzteile und Einrichtnachweise für Werkzeuge und Prüfvorrichtungen prüfen.",
+    "es": "Defina escalones de posición, topes regulables y fijaciones en ranura. Revise desgaste, repuestos y registros de puesta a punto del utillaje.",
+    "it": "Specificare gradini di posizionamento, arresti regolabili e serraggi in cava. Valutare usura, ricambi e documenti di messa a punto.",
+    "fr": "Spécifiez épaulements de positionnement, butées réglables et bridages en rainure. Examinez usure de contact, pièces de rechange et réglages.",
+    "zh": "为模具、工装及测试治具明确定位台阶、可调止挡和槽内夹紧要求，检查接触磨损、替换件与工装设定记录。"
+  },
+  "Keep locating, stopping and clamping requirements distinct": {
+    "de": "Positionieren, Anschlagen und Spannen getrennt festlegen",
+    "es": "Distinguir posicionamiento, tope y apriete",
+    "it": "Distinguere posizionamento, arresto e serraggio",
+    "fr": "Distinguer positionnement, butée et bridage",
+    "zh": "把定位、止挡与夹紧要求分开"
+  },
+  "A fixture needs a defined workpiece reference as well as enough clearance to load and remove the part. Show which screw surface sets that reference, which contact can wear and which feature only clamps.": {
+    "de": "Eine Vorrichtung braucht einen definierten Werkstückbezug und ausreichend Freiraum zum Be- und Entladen. Zeigen Sie, welche Schraubenfläche den Bezug bestimmt, welcher Kontakt verschleißen kann und welches Merkmal nur spannt.",
+    "es": "Un útil necesita una referencia de pieza definida y espacio para cargar y retirar la pieza. Indique qué superficie del tornillo fija la referencia, qué contacto puede desgastarse y qué elemento solo aprieta.",
+    "it": "Un’attrezzatura richiede un riferimento del pezzo definito e spazio per caricarlo e rimuoverlo. Indicare quale superficie della vite stabilisce il riferimento, quale contatto può usurarsi e quale elemento serra soltanto.",
+    "fr": "Un montage exige une référence pièce définie et du dégagement pour charger et retirer la pièce. Montrez quelle surface de vis fixe la référence, quel contact peut s’user et quel élément assure seulement le bridage.",
+    "zh": "治具既要有明确的工件定位基准，也要留出装入和取出的空间。图纸应说明哪个螺丝表面决定基准、哪个接触部位可能磨损，以及哪个结构只负责夹紧。"
+  },
+  "Locate a removable fixture element": {
+    "de": "Abnehmbares Vorrichtungselement positionieren",
+    "es": "Posicionar un elemento desmontable del útil",
+    "it": "Posizionare un elemento rimovibile dell’attrezzatura",
+    "fr": "Positionner un élément démontable du montage",
+    "zh": "定位可拆卸治具组件"
+  },
+  "Identify the working step or shoulder, mating bore and seating face. Dimension functional steps from the agreed datums, rather than accumulating unrelated lengths.": {
+    "de": "Funktionale Stufe oder Schulter, Gegenbohrung und Anlagefläche benennen. Funktionsstufen von den vereinbarten Bezügen bemaßen, statt unabhängige Längen aufzusummieren.",
+    "es": "Identifique escalón u hombro funcional, orificio acoplado y asiento. Acote desde las referencias acordadas en lugar de acumular longitudes independientes.",
+    "it": "Identificare gradino o spallamento funzionale, foro accoppiato e appoggio. Quotare i gradini dai riferimenti concordati anziché sommare lunghezze indipendenti.",
+    "fr": "Identifiez gradin ou épaulement fonctionnel, alésage et face d’appui. Cotez depuis les références convenues plutôt que de cumuler des longueurs indépendantes.",
+    "zh": "明确起作用的台阶或肩轴、配合孔和落座面。功能台阶应从约定基准标注，避免把互不相关的长度逐段累加。"
+  },
+  "Check the finished locating surfaces and the mating fit. Trial removal and refitting against the specified reference position.": {
+    "de": "Fertige Positionierflächen und Gegenpassung prüfen. Aus- und Wiedereinbau anhand der festgelegten Bezugsposition erproben.",
+    "es": "Compruebe superficies de posición terminadas y ajuste acoplado. Pruebe desmontaje y remontaje respecto a la posición de referencia especificada.",
+    "it": "Controllare superfici finite di posizionamento e accoppiamento. Provare rimozione e rimontaggio rispetto alla posizione di riferimento.",
+    "fr": "Contrôlez les surfaces de positionnement finies et l’ajustement. Essayez dépose et repose par rapport à la position de référence.",
+    "zh": "检查成品定位面与配合状态，并按规定基准位置试验拆卸和重新安装。"
+  },
+  "Set an adjustable workpiece stop": {
+    "de": "Verstellbaren Werkstückanschlag einstellen",
+    "es": "Ajustar un tope regulable de pieza",
+    "it": "Regolare un arresto del pezzo",
+    "fr": "Régler une butée de pièce",
+    "zh": "设定可调工件止挡"
+  },
+  "Define the contact point or pad, adjustment travel, locking method and permitted marking on the workpiece. Identify any replaceable contact element.": {
+    "de": "Kontaktspitze oder Auflage, Verstellweg, Sicherung und zulässige Werkstückspuren definieren. Austauschbare Kontaktelemente benennen.",
+    "es": "Defina punta o apoyo, recorrido, bloqueo y marcas permitidas en la pieza. Identifique elementos de contacto sustituibles.",
+    "it": "Definire punta o pattino, corsa, bloccaggio e segni ammessi sul pezzo. Identificare gli elementi di contatto sostituibili.",
+    "fr": "Définissez pointe ou patin, course, blocage et marques admises sur la pièce. Repérez les éléments de contact remplaçables.",
+    "zh": "规定接触端或垫块、调节行程、锁定方式及工件允许的压痕，并注明可替换的接触件。"
+  },
+  "Record the stop position and contact condition before and after the agreed adjustment sequence. Compare position repeatability separately from visible wear.": {
+    "de": "Anschlagposition und Kontaktzustand vor und nach dem vereinbarten Verstellablauf dokumentieren. Positionswiederholbarkeit getrennt vom sichtbaren Verschleiß bewerten.",
+    "es": "Registre posición del tope y contacto antes y después de la secuencia acordada. Compare repetibilidad de posición por separado del desgaste visible.",
+    "it": "Registrare posizione e contatto prima e dopo la sequenza concordata. Valutare ripetibilità della posizione separatamente dall’usura visibile.",
+    "fr": "Consignez position et contact avant et après la séquence convenue. Comparez répétabilité de position et usure visible séparément.",
+    "zh": "记录约定调节过程前后的止挡位置和接触状态，将位置重复性与可见磨损分开判断。"
+  },
+  "Clamp through a machine or fixture slot": {
+    "de": "Durch Maschinen- oder Vorrichtungsnut spannen",
+    "es": "Apretar mediante una ranura de máquina o útil",
+    "it": "Serrare attraverso una cava della macchina o attrezzatura",
+    "fr": "Brider dans une rainure de machine ou de montage",
+    "zh": "通过机台或治具槽夹紧"
+  },
+  "Show the actual slot section, head pocket, insertion path and bearing area. Define engaged thread and the stack to be clamped.": {
+    "de": "Tatsächlichen Nutquerschnitt, Kopftasche, Einführweg und Auflagebereich zeigen. Gewindeeingriff und Klemmstapel festlegen.",
+    "es": "Muestre sección real de ranura, alojamiento de cabeza, inserción y apoyo. Defina rosca acoplada y cadena a apretar.",
+    "it": "Indicare sezione reale della cava, sede testa, percorso d’inserimento e appoggio. Definire impegno del filetto e pacco serrato.",
+    "fr": "Montrez section réelle de rainure, logement de tête, trajet d’insertion et appui. Définissez engagement et empilage serré.",
+    "zh": "提供真实槽截面、头部容纳空间、装入路径和承压范围，规定有效旋合及被夹紧的叠层。"
+  },
+  "Check insertion, head seating and anti-rotation in the intended slot. Confirm that the head bears on the specified face without bottoming elsewhere.": {
+    "de": "Einführen, Kopfanlage und Verdrehsicherung in der vorgesehenen Nut prüfen. Der Kopf muss an der festgelegten Fläche anliegen, ohne anderswo vorzeitig aufzusetzen.",
+    "es": "Compruebe inserción, asiento y antigiro en la ranura prevista. Confirme apoyo en la cara indicada sin tocar fondo en otra zona.",
+    "it": "Verificare inserimento, appoggio testa e antirotazione nella cava prevista. Accertare l’appoggio sulla faccia specificata senza interferenze altrove.",
+    "fr": "Vérifiez insertion, appui de tête et antirotation dans la rainure prévue. Confirmez l’appui sur la face spécifiée sans talonnage ailleurs.",
+    "zh": "在实际槽内检查能否装入、头部落座和防转，确认头部压在规定承压面上，而非先在其他位置顶住。"
+  },
+  "Change example: replace a worn contact pad": {
+    "de": "Änderungsbeispiel: verschlissene Kontaktauflage ersetzen",
+    "es": "Ejemplo de cambio: sustituir un apoyo desgastado",
+    "it": "Esempio di modifica: sostituire un pattino usurato",
+    "fr": "Exemple de modification : remplacer un patin usé",
+    "zh": "变更示例：更换磨损的接触垫块"
+  },
+  "Compare the replacement pad thickness, contact shape and material condition with the approved setup. A new pad can shift the workpiece reference even when the screw setting is unchanged. Re-establish the reference position, check the adjustment limits and record the pad and screw revisions. Separate setup measurements from any subsequent workpiece inspection so a successful fixture check is not mistaken for product acceptance.": {
+    "de": "Dicke, Kontaktform und Werkstoffzustand der Ersatzauflage mit der freigegebenen Einrichtung vergleichen. Eine neue Auflage kann den Werkstückbezug verschieben, obwohl die Schraubeneinstellung unverändert bleibt. Bezug neu einstellen, Verstellgrenzen prüfen und Auflagen- sowie Schraubenstand dokumentieren. Einrichtmessungen von späteren Werkstückprüfungen trennen, damit die erfolgreiche Vorrichtungsprüfung nicht als Produktabnahme gilt.",
+    "es": "Compare espesor, forma y estado del material del apoyo nuevo con la puesta a punto aprobada. Puede cambiar la referencia de la pieza aunque el tornillo conserve su ajuste. Restablezca la referencia, revise límites de ajuste y registre revisiones de apoyo y tornillo. Separe medidas de puesta a punto de la inspección posterior de piezas para no confundir aceptación del útil y del producto.",
+    "it": "Confrontare spessore, forma e stato del materiale del pattino sostitutivo con la configurazione approvata. Il nuovo pattino può spostare il riferimento del pezzo anche senza modificare la vite. Ripristinare il riferimento, controllare limiti e registrare revisioni di pattino e vite. Separare misure di messa a punto e controlli successivi del pezzo: una verifica positiva dell’attrezzatura non è accettazione del prodotto.",
+    "fr": "Comparez épaisseur, forme et état matière du patin neuf au réglage approuvé. Le patin peut déplacer la référence pièce sans changement de vis. Rétablissez la référence, vérifiez les limites de réglage et consignez indices du patin et de la vis. Séparez mesures de réglage et contrôles ultérieurs des pièces afin de distinguer validation du montage et réception du produit.",
+    "zh": "将替换垫块的厚度、接触形状和材料状态与已批准的工装设定比较。即便螺丝位置没动，新垫块也可能改变工件基准。应重新建立基准位置、检查调节极限，并记录垫块与螺丝版本。工装设定测量与后续工件检查分别记录，不能把治具检查通过直接当作产品验收。"
+  },
+  "Compare set-screw points and contact marking": {
+    "de": "Gewindestiftspitzen und Kontaktspuren vergleichen",
+    "es": "Comparar puntas de prisionero y marcas de contacto",
+    "it": "Confrontare punte dei grani e segni di contatto",
+    "fr": "Comparer pointes de vis de pression et marques de contact",
+    "zh": "比较紧定螺丝端型与接触压痕"
+  },
+  "Tamper-Resistant Screws for Security & Access Equipment": {
+    "de": "Sicherheitsschrauben für Schutz- und Zugangsgehäuse",
+    "es": "Tornillos antimanipulación para equipos de seguridad y acceso",
+    "it": "Viti antimanomissione per apparecchiature di sicurezza e accesso",
+    "fr": "Vis inviolables pour équipements de sécurité et d’accès",
+    "zh": "安防与门禁设备防拆螺丝：槽型、保持与维护"
+  },
+  "Review restricted drives, captive service panels and recessed bearing faces for security housings. Match the tool, access path and finished assembly.": {
+    "de": "Spezialantriebe, unverlierbare Wartungsplatten und versenkte Auflagen prüfen. Werkzeug, Zugangsweg und fertige Baugruppe aufeinander abstimmen.",
+    "es": "Revise huellas especiales, paneles de servicio imperdibles y apoyos rebajados. Coordine herramienta, acceso y conjunto terminado.",
+    "it": "Valutare impronte speciali, pannelli di servizio con viti imperdibili e appoggi incassati. Coordinare utensile, accesso e assieme finito.",
+    "fr": "Examinez empreintes spéciales, panneaux de service à vis imperdables et appuis encastrés. Coordonnez outil, accès et assemblage fini.",
+    "zh": "评审安防外壳的防拆槽型、防脱维护面板和沉台承压面，将配套工具、操作空间及成品装配一起确认。"
+  },
+  "Design for restricted access and authorized maintenance": {
+    "de": "Erschwerten Zugang und autorisierte Wartung gemeinsam auslegen",
+    "es": "Diseñar para acceso restringido y mantenimiento autorizado",
+    "it": "Progettare accesso limitato e manutenzione autorizzata",
+    "fr": "Prévoir accès restreint et maintenance autorisée",
+    "zh": "兼顾限制拆卸与授权维护"
+  },
+  "A special drive can discourage casual removal while still allowing planned servicing. Specify the matching tool and installed access, then decide whether the released screw must stay attached to the panel.": {
+    "de": "Ein Spezialantrieb kann beiläufiges Entfernen erschweren und geplante Wartung erlauben. Passendes Werkzeug und Zugang im Einbau festlegen, dann entscheiden, ob die gelöste Schraube an der Platte verbleiben muss.",
+    "es": "Una huella especial puede disuadir la retirada casual y permitir el servicio previsto. Defina herramienta y acceso instalados y decida si el tornillo liberado debe quedar unido al panel.",
+    "it": "Un’impronta speciale può scoraggiare rimozioni occasionali consentendo la manutenzione prevista. Specificare utensile e accesso montato, poi decidere se la vite allentata debba restare sul pannello.",
+    "fr": "Une empreinte spéciale peut décourager un démontage occasionnel tout en permettant l’entretien prévu. Définissez outil et accès en place, puis décidez si la vis desserrée doit rester sur le panneau.",
+    "zh": "特殊槽型可以增加随意拆卸的难度，同时保留计划内维护的可能。先明确配套工具和装机后的操作空间，再决定松开后的螺丝是否必须留在面板上。"
+  },
+  "Restrict the drive interface": {
+    "de": "Antriebsschnittstelle einschränken",
+    "es": "Restringir la interfaz de accionamiento",
+    "it": "Limitare l’interfaccia di azionamento",
+    "fr": "Restreindre l’interface d’entraînement",
+    "zh": "规定受限的驱动接口"
+  },
+  "Identify the recess profile, usable engagement and any centre pin. Specify the intended bit and holder alongside the finished head geometry.": {
+    "de": "Vertiefungsprofil, nutzbaren Eingriff und gegebenenfalls Mittelstift benennen. Bit und Halter zusammen mit der fertigen Kopfgeometrie spezifizieren.",
+    "es": "Identifique perfil, acoplamiento útil y tetón central si existe. Especifique punta y portapuntas con la geometría final de cabeza.",
+    "it": "Identificare profilo, impegno utile ed eventuale perno centrale. Specificare inserto e portainserto con la geometria finita della testa.",
+    "fr": "Identifiez profil, engagement utile et éventuel téton central. Spécifiez embout et porte-embout avec la géométrie finie de tête.",
+    "zh": "明确槽型轮廓、有效啮合及适用的中柱要求，将批头、夹持器和成品头部几何一起规定。"
+  },
+  "Compare the finished recess with the identified tool, first outside the housing and then in the installed position. Distinguish tool fit from restricted access.": {
+    "de": "Fertige Vertiefung mit dem benannten Werkzeug zunächst außerhalb des Gehäuses, dann im Einbau vergleichen. Werkzeugpassung und Zugangshindernis unterscheiden.",
+    "es": "Compare la huella terminada con la herramienta identificada fuera de la carcasa y luego instalada. Distinga ajuste de herramienta y restricción de acceso.",
+    "it": "Confrontare impronta finita e utensile identificato prima fuori dall’involucro, poi in posizione montata. Distinguere accoppiamento e accessibilità.",
+    "fr": "Comparez empreinte finie et outil identifié hors du boîtier, puis en place. Distinguez ajustement de l’outil et restriction d’accès.",
+    "zh": "先在外壳外比较成品槽型与指定工具，再装机检查，区分批头不匹配与操作空间受阻。"
+  },
+  "Retain hardware during panel service": {
+    "de": "Befestiger bei der Plattenwartung zurückhalten",
+    "es": "Retener los elementos al mantener el panel",
+    "it": "Trattenere la viteria durante la manutenzione del pannello",
+    "fr": "Retenir les fixations pendant l’entretien du panneau",
+    "zh": "维护面板时保留螺丝"
+  },
+  "Show panel thickness, retaining feature, released travel and mating thread. Identify the panel-opening path and adjacent cables or components.": {
+    "de": "Plattendicke, Haltemerkmal, gelösten Hub und Gegengewinde zeigen. Öffnungsweg und benachbarte Kabel oder Bauteile benennen.",
+    "es": "Muestre espesor, retención, recorrido liberado y rosca acoplada. Identifique apertura y cables o componentes próximos.",
+    "it": "Indicare spessore, ritegno, corsa libera e filetto accoppiato. Identificare apertura e cavi o componenti adiacenti.",
+    "fr": "Montrez épaisseur, retenue, course desserrée et taraudage en regard. Repérez trajet d’ouverture et câbles ou composants voisins.",
+    "zh": "标出板厚、防脱结构、松开行程和配合螺纹，注明面板打开路径及邻近线缆或组件。"
+  },
+  "Check retention after disengagement, opening clearance and re-engagement with the service tool. Record the approved panel and retainer configuration.": {
+    "de": "Rückhaltung nach Gewindelösung, Öffnungsfreigang und Wiedereingriff mit Wartungswerkzeug prüfen. Freigegebene Platten- und Haltekonfiguration dokumentieren.",
+    "es": "Compruebe retención tras soltar la rosca, espacio de apertura y reacoplamiento con la herramienta de servicio. Registre panel y retenedor aprobados.",
+    "it": "Controllare ritenzione dopo disimpegno, spazio d’apertura e riavvitamento con l’utensile di servizio. Registrare configurazione approvata di pannello e ritegno.",
+    "fr": "Vérifiez retenue après désengagement, dégagement d’ouverture et réengagement avec l’outil de service. Consignez panneau et retenue approuvés.",
+    "zh": "检查脱开螺纹后的保持、打开净空及使用维修工具重新旋合，并记录批准的面板与保持件组合。"
+  },
+  "Seat a head inside a protective recess": {
+    "de": "Kopf in einer Schutzvertiefung auflegen",
+    "es": "Asentar una cabeza en un rebaje protector",
+    "it": "Alloggiare una testa in un incasso protettivo",
+    "fr": "Asseoir une tête dans un logement protecteur",
+    "zh": "让头部在防护沉台内落座"
+  },
+  "Provide recess depth, sidewall clearance, bearing face and any coating or gasket in the stack. State the permitted visible contact marks.": {
+    "de": "Vertiefungstiefe, Seitenfreigang, Auflagefläche und Beschichtung oder Dichtung im Stapel angeben. Zulässige sichtbare Kontaktspuren festlegen.",
+    "es": "Indique profundidad, holgura lateral, apoyo y recubrimiento o junta en la cadena. Defina marcas visibles admisibles.",
+    "it": "Indicare profondità, spazio laterale, appoggio ed eventuali rivestimenti o guarnizioni nel pacco. Definire segni visibili ammessi.",
+    "fr": "Indiquez profondeur, jeu latéral, appui et éventuel revêtement ou joint dans l’empilage. Définissez les marques visibles admises.",
+    "zh": "提供沉台深度、侧壁净空、承压面，以及叠层中的涂层或密封件，规定允许的可见接触痕迹。"
+  },
+  "Confirm seating and tool access on finished mating parts. Verify any specified enclosure performance on the complete assembly, separately from screw dimensions.": {
+    "de": "Anlage und Werkzeugzugang an fertigen Gegenstücken bestätigen. Geforderte Gehäuseleistung an der kompletten Baugruppe getrennt von Schraubenmaßen prüfen.",
+    "es": "Confirme asiento y acceso en piezas terminadas. Verifique el rendimiento de cerramiento exigido en el conjunto completo, aparte de las dimensiones del tornillo.",
+    "it": "Confermare appoggio e accesso sui pezzi finiti. Verificare le prestazioni richieste dell’involucro completo separatamente dalle quote della vite.",
+    "fr": "Confirmez appui et accès sur pièces finies. Vérifiez les performances de boîtier prescrites sur l’assemblage complet, séparément des dimensions de vis.",
+    "zh": "在成品配合件上确认落座和工具空间。规定的外壳性能应在完整装配上验证，与螺丝尺寸检查分开。"
+  },
+  "Change example: use a different service bit or holder": {
+    "de": "Änderungsbeispiel: anderen Wartungsbit oder Halter einsetzen",
+    "es": "Ejemplo de cambio: usar otra punta o portapuntas de servicio",
+    "it": "Esempio di modifica: cambiare inserto o portainserto di servizio",
+    "fr": "Exemple de modification : changer l’embout ou son porte-embout",
+    "zh": "变更示例：更换维修批头或夹持器"
+  },
+  "Keep the screw drawing, recess reference and original tool identity available when comparing a replacement. Check usable engagement and the holder envelope inside the actual housing before approving the change. Record the service-tool revision with the screw and panel configuration, including how replacements are specified. Restricted-drive geometry is not an independently certified security level or an enclosure-protection rating.": {
+    "de": "Beim Ersatzvergleich Schraubenzeichnung, Vertiefungsreferenz und ursprüngliche Werkzeugkennung bereithalten. Vor Freigabe nutzbaren Eingriff und Halterhüllraum im tatsächlichen Gehäuse prüfen. Den Werkzeugstand mit Schrauben- und Plattenkonfiguration dokumentieren, einschließlich Ersatzspezifikation. Die Spezialantriebsgeometrie ist weder unabhängig zertifizierte Sicherheitsstufe noch Gehäuseschutzart.",
+    "es": "Conserve plano, referencia de huella e identidad de herramienta original al comparar un repuesto. Compruebe acoplamiento útil y envolvente del portapuntas en la carcasa real antes de aprobarlo. Registre revisión de herramienta con tornillo y panel, incluida la especificación de repuestos. La huella restringida no constituye un nivel de seguridad certificado ni un grado de protección del cerramiento.",
+    "it": "Per confrontare un ricambio, conservare disegno vite, riferimento impronta e identificativo utensile originale. Verificare impegno utile e ingombro del portainserto nell’involucro reale prima dell’approvazione. Registrare revisione dell’utensile con vite e pannello, compresa la specifica dei ricambi. La geometria speciale non equivale a un livello di sicurezza certificato o a un grado di protezione dell’involucro.",
+    "fr": "Conservez plan de vis, référence d’empreinte et identification de l’outil initial pour comparer un remplacement. Vérifiez engagement utile et encombrement du porte-embout dans le boîtier réel avant approbation. Consignez indice d’outil, configuration de vis et panneau, et spécification des rechanges. L’empreinte spéciale ne constitue ni un niveau de sécurité certifié ni un indice de protection du boîtier.",
+    "zh": "比较替换工具时，保留螺丝图纸、槽型依据和原工具标识。批准前在实际外壳内检查有效啮合与夹持器外形空间，将维修工具版本与螺丝、面板组合一起记录，并明确替换工具的规格。特殊驱动几何本身不等于独立认证的安全等级，也不等于外壳防护等级。"
+  },
+  "Review the drive and installed-tool access together": {
+    "de": "Antrieb und Werkzeugzugang im Einbau gemeinsam prüfen",
+    "es": "Revisar juntos la huella y el acceso de la herramienta instalada",
+    "it": "Valutare insieme impronta e accesso dell’utensile montato",
+    "fr": "Examiner ensemble empreinte et accès de l’outil en place",
+    "zh": "将槽型与装机工具空间一起评审"
+  },
+  "Custom Studs & Fasteners for Machinery Assemblies": {
+    "de": "Sonderstehbolzen und Befestiger für Maschinenbaugruppen",
+    "es": "Espárragos y fijaciones a medida para maquinaria",
+    "it": "Prigionieri e fissaggi su misura per macchinari",
+    "fr": "Goujons et fixations sur mesure pour machines",
+    "zh": "机械装配非标螺柱与紧固件：接口、安装及验收"
+  },
+  "Compare mixed-thread studs, captured slot heads and linkage fasteners for machinery. Define mating geometry, installation sequence and revision records.": {
+    "de": "Stehbolzen mit unterschiedlichen Gewinden, Nutenköpfe und Gelenkbefestiger vergleichen. Gegenstückgeometrie, Einbaufolge und Versionsnachweise festlegen.",
+    "es": "Compare espárragos de roscas distintas, cabezas cautivas en ranura y uniones articuladas. Defina geometría acoplada, montaje y registros de revisión.",
+    "it": "Confrontare prigionieri con filetti diversi, teste vincolate in cava e collegamenti articolati. Definire geometria, montaggio e revisioni.",
+    "fr": "Comparez goujons à filetages différents, têtes retenues en rainure et fixations d’articulation. Définissez géométrie, montage et suivi des indices.",
+    "zh": "比较两端异牙螺柱、槽内捕获头部与活动连接件，分别明确配合几何、安装顺序和版本记录。"
+  },
+  "Choose the connection around installation and load transfer": {
+    "de": "Verbindung nach Einbau und Lastübertragung auswählen",
+    "es": "Elegir la unión según montaje y transmisión de carga",
+    "it": "Scegliere il collegamento secondo montaggio e trasferimento del carico",
+    "fr": "Choisir la liaison selon montage et transfert de charge",
+    "zh": "按安装方式与载荷传递选择连接结构"
+  },
+  "A stud connecting two threaded parts, a captured slot head and a pin-linked component impose different drawing requirements. Start with the mating interfaces and assembly sequence before choosing a manufacturing route.": {
+    "de": "Ein Stehbolzen zwischen unterschiedlichen Gewinden, ein gefangener Nutenkopf und ein Bolzengelenk brauchen unterschiedliche Zeichnungsangaben. Vor der Fertigungsroute die Gegenstückschnittstellen und Montagefolge klären.",
+    "es": "Un espárrago entre piezas roscadas, una cabeza capturada en ranura y un componente articulado por pasador necesitan planos distintos. Empiece por interfaces y montaje antes de elegir proceso.",
+    "it": "Un prigioniero fra pezzi filettati, una testa vincolata in cava e un elemento articolato con perno richiedono disegni diversi. Partire da interfacce e sequenza di montaggio prima del ciclo produttivo.",
+    "fr": "Un goujon entre deux pièces filetées, une tête retenue en rainure et un composant articulé par axe demandent des indications différentes. Partez des interfaces et du montage avant de choisir le procédé.",
+    "zh": "连接两个螺纹件的螺柱、卡在槽内的头部，以及通过销轴活动的组件，对图纸的要求不同。选择工艺路线前，先明确配合接口和装配顺序。"
+  },
+  "Connect different threaded interfaces": {
+    "de": "Unterschiedliche Gewindeschnittstellen verbinden",
+    "es": "Conectar interfaces de rosca distintas",
+    "it": "Collegare interfacce filettate diverse",
+    "fr": "Relier des interfaces filetées différentes",
+    "zh": "连接不同的螺纹接口"
+  },
+  "Label stud ends A and B with their thread systems, pitches, usable lengths and engagement requirements. Show any shoulder or tool-access feature between them.": {
+    "de": "Stehbolzenenden A und B mit Gewindesystem, Steigung, nutzbarer Länge und Eingriffsanforderung kennzeichnen. Schultern und Werkzeugzugang dazwischen zeigen.",
+    "es": "Identifique extremos A y B con sistema de rosca, paso, longitud útil y acoplamiento requerido. Muestre hombros o acceso de herramienta entre ellos.",
+    "it": "Identificare estremità A e B con sistema di filettatura, passo, lunghezza utile e impegno richiesto. Indicare spallamenti o accesso utensile intermedi.",
+    "fr": "Repérez extrémités A et B avec système de filetage, pas, longueur utile et engagement requis. Montrez épaulements ou accès d’outil intermédiaires.",
+    "zh": "将螺柱两端标为 A 和 B，分别注明牙制、螺距、有效长度和旋合要求，并标出中间的台阶或工具操作结构。"
+  },
+  "Gauge each end against its own specification after the ordered finish. Keep end identification in the inspection and assembly records.": {
+    "de": "Jedes Ende nach bestellter Oberflächenbehandlung gegen seine eigene Vorgabe lehren. Endkennzeichnung in Prüf- und Montagenachweisen beibehalten.",
+    "es": "Verifique cada extremo según su especificación tras el acabado pedido. Mantenga la identificación de extremos en inspección y montaje.",
+    "it": "Controllare ciascuna estremità con la propria specifica dopo la finitura ordinata. Conservare l’identificazione nei documenti di controllo e montaggio.",
+    "fr": "Contrôlez chaque extrémité selon sa spécification après la finition commandée. Gardez son identification dans les contrôles et le montage.",
+    "zh": "按订购的最终表面状态，用各端自己的规格检查螺纹，并在检验与装配记录中保留端部标识。"
+  },
+  "Capture a head in a mounting slot": {
+    "de": "Kopf in einer Befestigungsnut fangen",
+    "es": "Capturar una cabeza en una ranura de montaje",
+    "it": "Vincolare una testa in una cava di montaggio",
+    "fr": "Retenir une tête dans une rainure de montage",
+    "zh": "将头部约束在安装槽内"
+  },
+  "Define the actual slot and pocket geometry, head orientation, bearing surface and insertion route. Include the complete clamped stack and tool access.": {
+    "de": "Tatsächliche Nut- und Taschengeometrie, Kopfausrichtung, Auflage und Einführweg definieren. Klemmstapel und Werkzeugzugang vollständig einbeziehen.",
+    "es": "Defina ranura y alojamiento reales, orientación de cabeza, apoyo e inserción. Incluya cadena completa de apriete y acceso de herramienta.",
+    "it": "Definire geometria reale di cava e sede, orientamento testa, appoggio e inserimento. Includere pacco serrato completo e accesso utensile.",
+    "fr": "Définissez géométrie réelle de rainure et logement, orientation de tête, appui et insertion. Incluez empilage serré et accès d’outil.",
+    "zh": "定义真实槽与头部容纳空间、头部方向、承压面和装入路线，提供完整夹紧叠层及工具空间。"
+  },
+  "Trial insertion and tightening in the intended slot. Confirm seating and required anti-rotation without assuming all profile slots share the same section.": {
+    "de": "Einführen und Anziehen in der vorgesehenen Nut erproben. Anlage und erforderliche Verdrehsicherung prüfen, ohne gleiche Querschnitte aller Profilnuten vorauszusetzen.",
+    "es": "Pruebe inserción y apriete en la ranura prevista. Confirme asiento y antigiro sin suponer que todas las ranuras de perfil tienen la misma sección.",
+    "it": "Provare inserimento e serraggio nella cava prevista. Confermare appoggio e antirotazione senza presumere che tutte le cave dei profilati abbiano la stessa sezione.",
+    "fr": "Essayez insertion et serrage dans la rainure prévue. Confirmez appui et antirotation sans supposer une section identique pour toutes les rainures de profilés.",
+    "zh": "在预定槽内试装和锁紧，确认落座与所需防转功能，不能默认所有型材槽截面都相同。"
+  },
+  "Join a moving linkage": {
+    "de": "Bewegliches Gestänge verbinden",
+    "es": "Unir un mecanismo articulado",
+    "it": "Collegare un cinematismo mobile",
+    "fr": "Assembler une liaison mobile",
+    "zh": "连接活动连杆"
+  },
+  "Show the eye or fork, mating pin, articulation space and load direction. Define the thread engagement and how the joint is retained.": {
+    "de": "Auge oder Gabel, Gegenbolzen, Bewegungsfreiraum und Lastrichtung zeigen. Gewindeeingriff und Sicherung des Gelenks definieren.",
+    "es": "Muestre ojo u horquilla, pasador, espacio de articulación y dirección de carga. Defina acoplamiento de rosca y retención de la unión.",
+    "it": "Indicare occhio o forcella, perno accoppiato, spazio di articolazione e direzione del carico. Definire impegno e ritegno del giunto.",
+    "fr": "Montrez œil ou fourche, axe en regard, débattement et direction de charge. Définissez engagement du filetage et retenue de la liaison.",
+    "zh": "标出环孔或叉头、配合销轴、活动空间及载荷方向，规定旋合长度与连接保持方式。"
+  },
+  "Check the pin interface and movement envelope, then agree any specified joint test. A linkage eye is not automatically an approved lifting attachment.": {
+    "de": "Bolzenschnittstelle und Bewegungsraum prüfen, dann geforderte Gelenkprüfungen vereinbaren. Ein Gelenkauge ist nicht automatisch ein freigegebenes Anschlagmittel.",
+    "es": "Compruebe interfaz del pasador y movimiento y acuerde los ensayos de unión exigidos. Un ojo de articulación no es automáticamente un accesorio de elevación aprobado.",
+    "it": "Controllare interfaccia del perno e ingombro di movimento, poi concordare le prove richieste. Un occhio di articolazione non è automaticamente un attacco di sollevamento approvato.",
+    "fr": "Contrôlez interface d’axe et débattement, puis convenez des essais prescrits. Un œil d’articulation n’est pas automatiquement un point de levage approuvé.",
+    "zh": "检查销轴配合与运动范围，再约定所需连接试验。活动连接用环孔不能自动当作已批准的吊装点。"
+  },
+  "Change example: revise a mixed-thread stud": {
+    "de": "Änderungsbeispiel: Stehbolzen mit unterschiedlichen Gewinden ändern",
+    "es": "Ejemplo de cambio: revisar un espárrago de roscas distintas",
+    "it": "Esempio di modifica: aggiornare un prigioniero con filetti diversi",
+    "fr": "Exemple de modification : réviser un goujon à filetages différents",
+    "zh": "变更示例：修改两端异牙螺柱"
+  },
+  "A change at one end can affect how the part is identified and installed even if the other end remains the same. Compare both mating components, shoulder position, tool access and final finish against the revised drawing. List which end-specific gauges and assembly checks must change, and keep the original approval linked to its original revision. Agree the revised sample scope before ordering repeat quantities.": {
+    "de": "Die Änderung eines Endes kann Kennzeichnung und Einbau beeinflussen, auch wenn das andere Ende gleich bleibt. Beide Gegenstücke, Schulterlage, Werkzeugzugang und Endoberfläche mit der geänderten Zeichnung vergleichen. Auflisten, welche endbezogenen Lehren und Montageprüfungen sich ändern; die bisherige Freigabe bleibt ihrem ursprünglichen Stand zugeordnet. Vor Wiederholbestellungen den neuen Musterumfang vereinbaren.",
+    "es": "Cambiar un extremo puede afectar identificación y montaje aunque el otro siga igual. Compare ambas piezas acopladas, posición del hombro, acceso y acabado final con el plano revisado. Liste qué calibres y controles por extremo deben cambiar y vincule la aprobación anterior a su revisión original. Acuerde el alcance de muestras antes de repetir cantidades.",
+    "it": "La modifica di un’estremità può influire su identificazione e montaggio anche se l’altra resta uguale. Confrontare entrambi i pezzi accoppiati, spallamento, accesso e finitura con il disegno aggiornato. Elencare calibri e controlli da modificare per estremità, mantenendo l’approvazione precedente associata alla revisione originale. Concordare i nuovi campioni prima dei riordini.",
+    "fr": "Modifier une extrémité peut affecter identification et montage même si l’autre reste identique. Comparez les deux pièces en regard, position d’épaulement, accès et finition au plan révisé. Listez calibres et contrôles à modifier par extrémité, en conservant l’ancienne approbation liée à son indice initial. Convenez des nouveaux échantillons avant les commandes répétées.",
+    "zh": "即使另一端保持不变，修改一端也可能影响零件识别和安装。按新图纸比较两侧配合件、台阶位置、工具空间及最终表面状态，列出哪些端部专用量规和装配检查需要调整。旧批准记录继续对应原版本，重复订购前先约定新版样品的检查范围。"
+  },
+  "Identify and inspect both ends of a custom stud": {
+    "de": "Beide Enden eines Sonderstehbolzens identifizieren und prüfen",
+    "es": "Identificar e inspeccionar ambos extremos de un espárrago a medida",
+    "it": "Identificare e controllare entrambe le estremità di un prigioniero",
+    "fr": "Identifier et contrôler les deux extrémités d’un goujon sur mesure",
+    "zh": "明确非标螺柱两端的标识与检查"
+  },
+  "Defined drive profiles": {
+    "de": "Definierte Antriebsprofile",
+    "es": "Perfiles de accionamiento definidos",
+    "it": "Profili dell’impronta definiti",
+    "fr": "Profils d’empreinte définis",
+    "zh": "明确槽型轮廓"
+  },
+  "Supply the exact recess and matching tool requirement, including center-pin details where used.": {
+    "de": "Geben Sie die genaue Antriebsvertiefung und das passende Werkzeug an, gegebenenfalls einschließlich der Mittelstiftgeometrie.",
+    "es": "Defina el perfil exacto de la huella y la herramienta compatible, incluidos los detalles del tetón central cuando corresponda.",
+    "it": "Specificare la geometria esatta dell’impronta e l’utensile compatibile, compreso l’eventuale perno centrale.",
+    "fr": "Précisez le profil exact de l’empreinte et l’outil compatible, y compris la géométrie du téton central le cas échéant.",
+    "zh": "提供准确的驱动槽型与配套工具要求，采用带柱结构时注明中柱几何。"
+  },
+  "Security & Access Equipment": {
+    "de": "Sicherheits- und Zugangsausrüstung",
+    "es": "Equipos de seguridad y acceso",
+    "it": "Attrezzature di sicurezza e accesso",
+    "fr": "Équipement de sécurité et d'accès",
+    "zh": "安防与门禁设备"
+  },
+  "Security & Access Equipment ↗": {
+    "de": "Sicherheits- und Zugangsausrüstung ↗",
+    "es": "Equipos de seguridad y acceso ↗",
+    "it": "Attrezzature di sicurezza e accesso ↗",
+    "fr": "Équipement de sécurité et d'accès ↗",
+    "zh": "安防与门禁设备 ↗"
+  },
+  "Security & Access Equipment — industry overview": {
+    "de": "Sicherheits- und Zugangsausrüstung – Branchenüberblick",
+    "es": "Equipos de seguridad y acceso — vista general del sector",
+    "it": "Attrezzature di sicurezza e accesso — panoramica del settore",
+    "fr": "Équipement de sécurité et d'accès — vue d’ensemble du secteur",
+    "zh": "安防与门禁设备行业总览"
+  },
   "Custom Fasteners for Industrial Automation | ZUFEK": {
     "de": "Sonderbefestiger für die Industrieautomation | ZUFEK",
     "es": "Fijaciones a medida para automatización industrial | ZUFEK",
@@ -509,5 +880,26 @@
     "it": "Viti cave e fissaggi per apparecchiature fluidiche | ZUFEK",
     "fr": "Vis creuses et fixations pour équipements de fluides | ZUFEK",
     "zh": "流体设备中空螺丝：固定、通流与密封 | ZUFEK"
+  },
+  "Custom Screws for Molds, Tooling & Test Fixtures | ZUFEK": {
+    "de": "Sonderschrauben für Formen, Werkzeuge und Prüfvorrichtungen | ZUFEK",
+    "es": "Tornillos a medida para moldes, utillajes y pruebas | ZUFEK",
+    "it": "Viti su misura per stampi, attrezzature e collaudo | ZUFEK",
+    "fr": "Vis sur mesure pour moules, outillages et bancs d’essai | ZUFEK",
+    "zh": "模具与测试治具非标螺丝：定位、止挡与夹紧 | ZUFEK"
+  },
+  "Tamper-Resistant Screws for Security & Access Equipment | ZUFEK": {
+    "de": "Sicherheitsschrauben für Schutz- und Zugangsgehäuse | ZUFEK",
+    "es": "Tornillos antimanipulación para equipos de seguridad y acceso | ZUFEK",
+    "it": "Viti antimanomissione per apparecchiature di sicurezza e accesso | ZUFEK",
+    "fr": "Vis inviolables pour équipements de sécurité et d’accès | ZUFEK",
+    "zh": "安防与门禁设备防拆螺丝：槽型、保持与维护 | ZUFEK"
+  },
+  "Custom Studs & Fasteners for Machinery Assemblies | ZUFEK": {
+    "de": "Sonderstehbolzen und Befestiger für Maschinenbaugruppen | ZUFEK",
+    "es": "Espárragos y fijaciones a medida para maquinaria | ZUFEK",
+    "it": "Prigionieri e fissaggi su misura per macchinari | ZUFEK",
+    "fr": "Goujons et fixations sur mesure pour machines | ZUFEK",
+    "zh": "机械装配非标螺柱与紧固件：接口、安装及验收 | ZUFEK"
   }
 }

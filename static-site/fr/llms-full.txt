@@ -11592,7 +11592,7 @@ GUIDE D'INGÉNIERIE
 
 Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
-### Moules, outillage et montages d'essai
+### Vis sur mesure pour moules, outillages et bancs d’essai
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/molds-fixtures/
 
 ÉTAPES, ARRÊTS ET RÉGLAGES
@@ -11615,6 +11615,38 @@ Spécifiez l’état du matériau, l’extrémité du contact et les exigences d
 
 Incluez la plage de réglage, l’accès à la clé et toutes les exigences d’assemblage répétées.
 
+#### Distinguer positionnement, butée et bridage
+
+Un montage exige une référence pièce définie et du dégagement pour charger et retirer la pièce. Montrez quelle surface de vis fixe la référence, quel contact peut s’user et quel élément assure seulement le bridage.
+
+Distinguer positionnement, butée et bridage Fonction dans l’assemblage À spécifier avec les pièces en regard Réception et examen suivant
+
+Positionner un élément démontable du montage À spécifier avec les pièces en regard Identifiez gradin ou épaulement fonctionnel, alésage et face d’appui. Cotez depuis les références convenues plutôt que de cumuler des longueurs indépendantes.
+
+Vis à plusieurs étages et épaulements ↗ Réception et examen suivant Contrôlez les surfaces de positionnement finies et l’ajustement. Essayez dépose et repose par rapport à la position de référence.
+
+Opérations secondaires et de précision ↗
+
+Régler une butée de pièce À spécifier avec les pièces en regard Définissez pointe ou patin, course, blocage et marques admises sur la pièce. Repérez les éléments de contact remplaçables.
+
+Vis sans tête et vis de pression sur mesure ↗ Réception et examen suivant Consignez position et contact avant et après la séquence convenue. Comparez répétabilité de position et usure visible séparément.
+
+Traitement thermique adapté au matériau ↗
+
+Brider dans une rainure de machine ou de montage À spécifier avec les pièces en regard Montrez section réelle de rainure, logement de tête, trajet d’insertion et appui. Définissez engagement et empilage serré.
+
+Boulons pour rainures en T sur mesure ↗ Réception et examen suivant Vérifiez insertion, appui de tête et antirotation dans la rainure prévue. Confirmez l’appui sur la face spécifiée sans talonnage ailleurs.
+
+Opérations secondaires et de précision ↗
+
+##### Exemple de modification : remplacer un patin usé
+
+Comparez épaisseur, forme et état matière du patin neuf au réglage approuvé. Le patin peut déplacer la référence pièce sans changement de vis. Rétablissez la référence, vérifiez les limites de réglage et consignez indices du patin et de la vis. Séparez mesures de réglage et contrôles ultérieurs des pièces afin de distinguer validation du montage et réception du produit.
+
+Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.
+
+Comparer pointes de vis de pression et marques de contact ↗
+
 #### Structures de fixation pertinentes
 
 Vis multi-étapes et multi-épaulements ↗ Vis sans tête et vis de pression sur mesure ↗ Vis moletées et vis de réglage manuel ↗ Boulons pour rainures en T sur mesure ↗
@@ -11632,22 +11664,6 @@ Des exemples décrivent les exigences de l'application. L'adéquation des matér
 #### Préparez une spécification de projet plus claire.
 
 Cône, plat, chien ou cupule : choisir un embout à vis ↗ Ajustement des boulons à rainure en T : que mesurer avant de commander ↗ Liste de contrôle complète de la demande de prix ↗
-
-#### Traduire l'application en une spécification de fixation
-
-Pour les moules, les outils et les montages de test, la première tâche consiste à connecter la géométrie des fixations à l'interface de l'équipement. Chaînes de cotes fonctionnelles : affichez les surfaces qui localisent chaque composant et les distances axiales qui contrôlent le luminaire. Exigences de contact et d'usure : Spécifiez l'état du matériau, l'extrémité de contact et les exigences de surface pour la fonction réelle. Installation et maintenance : incluez la plage de réglage, l'accès à la clé et toutes les exigences d'assemblage répétées. Expliquez l'environnement et la séquence d'entretien parallèlement au dessin technique afin que l'examen porte sur le composant installé.
-
-Pour une butée de luminaire, incluez la surface de contact, la forme de la pointe et la méthode de verrouillage. Distinguer une dimension utilisée pour le dégagement d'une surface qui établit la position réelle de la pièce.
-
-#### Sélectionner un parcours autour des fonctionnalités fonctionnelles
-
-Les familles de produits concernées comprennent les vis multi-étapes et multi-épaules, les vis de réglage et les vis sans tête personnalisées, les vis moletées et de réglage, les boulons à rainure en T personnalisés. Ce sont des points de départ pour une révision des dessins techniques, et non des pièces interchangeables. Comparez l'acier au carbone et allié, l'acier inoxydable SUS304 et SUS316 aux exigences mécaniques et environnementales réelles.
-
-Discutez du tournage de type suisse et CNC, des opérations secondaires et de précision, du traitement thermique spécifique aux matériaux dans le cadre du parcours complet. Identifiez la quantité d’échantillon, les caractéristiques critiques, la finition et les enregistrements requis avant l’approbation. Un nom de secteur à lui seul n’implique pas une certification de projet ou une portée de test globale.
-
-#### Planifier l'approbation des échantillons et répéter les commandes
-
-L'échantillonnage typique, y compris l'outillage, prend environ 10–15 jours, sous réserve d'un examen technique et d'une confirmation. Confirmez la base du calendrier, l'acceptation de l'échantillon et tout essai de pièce d'accouplement dans le devis. Libérez la production répétée par rapport à la révision approuvée et enregistrez les modifications apportées au matériau, au traitement ou à la géométrie plutôt que de vous fier à une photographie précédente.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -11667,7 +11683,7 @@ GUIDE D'INGÉNIERIE
 
 Plusieurs épaulements permettent de localiser plusieurs composants. Un schéma dimensionnel clair explique quelles distances axiales contrôlent l'assemblage et lesquelles sont les conséquences d'autres dimensions.
 
-### Attaches personnalisées pour équipements de sécurité et d'accès
+### Vis inviolables pour équipements de sécurité et d’accès
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/security-equipment/
 
 INTERFACE DU DISQUE ET ACCÈS AU SERVICE
@@ -11678,9 +11694,9 @@ Fixations à entraînement spécial et à tête personnalisée pour panneaux d'a
 
 Discutez de votre candidature ↗ Vue d’ensemble du secteur
 
-#### Profils de conduite définis
+#### Profils d’empreinte définis
 
-Fournissez les exigences exactes en matière d'évidement et d'outil correspondant, y compris les détails de la broche centrale, le cas échéant.
+Précisez le profil exact de l’empreinte et l’outil compatible, y compris la géométrie du téton central le cas échéant.
 
 #### Dégagement d'installation réel
 
@@ -11689,6 +11705,38 @@ Montrez la profondeur de l'encastrement, les murs environnants et l'enveloppe de
 #### Surface et apparence
 
 Convenir des exigences relatives à l’état de la tête visible, à la finition et à la corrosion pour l’environnement d’installation.
+
+#### Prévoir accès restreint et maintenance autorisée
+
+Une empreinte spéciale peut décourager un démontage occasionnel tout en permettant l’entretien prévu. Définissez outil et accès en place, puis décidez si la vis desserrée doit rester sur le panneau.
+
+Prévoir accès restreint et maintenance autorisée Fonction dans l’assemblage À spécifier avec les pièces en regard Réception et examen suivant
+
+Restreindre l’interface d’entraînement À spécifier avec les pièces en regard Identifiez profil, engagement utile et éventuel téton central. Spécifiez embout et porte-embout avec la géométrie finie de tête.
+
+Vis de sécurité et anti-effraction ↗ Réception et examen suivant Comparez empreinte finie et outil identifié hors du boîtier, puis en place. Distinguez ajustement de l’outil et restriction d’accès.
+
+Opérations secondaires et de précision ↗
+
+Retenir les fixations pendant l’entretien du panneau À spécifier avec les pièces en regard Montrez épaisseur, retenue, course desserrée et taraudage en regard. Repérez trajet d’ouverture et câbles ou composants voisins.
+
+Vis imperdables ↗ Réception et examen suivant Vérifiez retenue après désengagement, dégagement d’ouverture et réengagement avec l’outil de service. Consignez panneau et retenue approuvés.
+
+Nettoyage, freinage et préassemblage ↗
+
+Asseoir une tête dans un logement protecteur À spécifier avec les pièces en regard Indiquez profondeur, jeu latéral, appui et éventuel revêtement ou joint dans l’empilage. Définissez les marques visibles admises.
+
+Vis à embase sur mesure ↗ Réception et examen suivant Confirmez appui et accès sur pièces finies. Vérifiez les performances de boîtier prescrites sur l’assemblage complet, séparément des dimensions de vis.
+
+Prévoir les essais fonctionnels et leurs documents ↗
+
+##### Exemple de modification : changer l’embout ou son porte-embout
+
+Conservez plan de vis, référence d’empreinte et identification de l’outil initial pour comparer un remplacement. Vérifiez engagement utile et encombrement du porte-embout dans le boîtier réel avant approbation. Consignez indice d’outil, configuration de vis et panneau, et spécification des rechanges. L’empreinte spéciale ne constitue ni un niveau de sécurité certifié ni un indice de protection du boîtier.
+
+Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.
+
+Examiner ensemble empreinte et accès de l’outil en place ↗
 
 #### Structures de fixation pertinentes
 
@@ -11707,22 +11755,6 @@ Des exemples décrivent les exigences de l'application. L'adéquation des matér
 #### Préparez une spécification de projet plus claire.
 
 Comment spécifier un entraînement à vis inviolable ↗ Cinq questions avant de spécifier une vis imperdable ↗ Liste de contrôle complète de la demande de prix ↗
-
-#### Traduire l'application en une spécification de fixation
-
-Pour les équipements de sécurité et d'accès, la première tâche consiste à connecter la géométrie des fixations à l'interface de l'équipement. Profils d'entraînement définis : fournissez les exigences exactes en matière d'évidement et d'outil correspondant, y compris les détails de la broche centrale, le cas échéant. Dégagement d'installation réel : indique la profondeur de la niche, les murs environnants et l'enveloppe de l'outil de service à l'état assemblé. Surface et apparence : Convenir des exigences relatives à l'état de la tête visible, à la finition et à la corrosion pour l'environnement d'installation. Expliquez l'environnement et la séquence d'entretien parallèlement au dessin technique afin que l'examen porte sur le composant installé.
-
-Pour un boîtier protégé, envoyez à la fois le dessin technique de la vis et l'évidement du boîtier. Un lecteur inviolable décourage tout accès occasionnel ; la conception globale du contrôle d'accès reste une exigence d'assemblage.
-
-#### Sélectionner un parcours autour des fonctionnalités fonctionnelles
-
-Les familles de produits concernées comprennent les vis de sécurité et inviolables, les vis à tête spéciale, les vis imperdables et les vis à bride personnalisée. Ce sont des points de départ pour une révision des dessins techniques, et non des pièces interchangeables. Comparez l'acier inoxydable, l'acier au carbone et l'acier allié SUS304 et SUS316 aux exigences mécaniques et environnementales réelles.
-
-Discutez de la frappe à froid multi-stations, des opérations secondaires et de précision, des revêtements et des traitements de surface dans le cadre de l'itinéraire complet. Identifiez la quantité d’échantillon, les caractéristiques critiques, la finition et les enregistrements requis avant l’approbation. Un nom de secteur à lui seul n’implique pas une certification de projet ou une portée de test globale.
-
-#### Planifier l'approbation des échantillons et répéter les commandes
-
-L'échantillonnage typique, y compris l'outillage, prend environ 10–15 jours, sous réserve d'un examen technique et d'une confirmation. Confirmez la base du calendrier, l'acceptation de l'échantillon et tout essai de pièce d'accouplement dans le devis. Libérez la production répétée par rapport à la révision approuvée et enregistrez les modifications apportées au matériau, au traitement ou à la géométrie plutôt que de vous fier à une photographie précédente.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -11833,7 +11865,7 @@ GUIDE D'INGÉNIERIE
 
 La propreté devient une exigence technique lorsqu'une contamination peut affecter l'assemblage. Définissez ce qui doit être retiré, comment cela est mesuré et comment l'état de propreté est protégé.
 
-### Fixations personnalisées pour machines et équipements généraux
+### Goujons et fixations sur mesure pour machines
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/general-machinery/
 
 MONTAGE, LIENS ET JOINTS PERSONNALISÉS
@@ -11856,6 +11888,38 @@ Définir la séquence d'installation, l'état des matériaux et la vérification
 
 Gardez les révisions des dessins techniques, les décisions relatives aux échantillons, la portée de l'inspection et l'identification de l'expédition alignées.
 
+#### Choisir la liaison selon montage et transfert de charge
+
+Un goujon entre deux pièces filetées, une tête retenue en rainure et un composant articulé par axe demandent des indications différentes. Partez des interfaces et du montage avant de choisir le procédé.
+
+Choisir la liaison selon montage et transfert de charge Fonction dans l’assemblage À spécifier avec les pièces en regard Réception et examen suivant
+
+Relier des interfaces filetées différentes À spécifier avec les pièces en regard Repérez extrémités A et B avec système de filetage, pas, longueur utile et engagement requis. Montrez épaulements ou accès d’outil intermédiaires.
+
+Goujons à double extrémité sur mesure ↗ Réception et examen suivant Contrôlez chaque extrémité selon sa spécification après la finition commandée. Gardez son identification dans les contrôles et le montage.
+
+Roulage, usinage des filets et taraudage ↗
+
+Retenir une tête dans une rainure de montage À spécifier avec les pièces en regard Définissez géométrie réelle de rainure et logement, orientation de tête, appui et insertion. Incluez empilage serré et accès d’outil.
+
+Boulons pour rainures en T sur mesure ↗ Réception et examen suivant Essayez insertion et serrage dans la rainure prévue. Confirmez appui et antirotation sans supposer une section identique pour toutes les rainures de profilés.
+
+Frappe à froid multiposte ↗
+
+Assembler une liaison mobile À spécifier avec les pièces en regard Montrez œil ou fourche, axe en regard, débattement et direction de charge. Définissez engagement du filetage et retenue de la liaison.
+
+Boulons à œil et articulés sur mesure ↗ Réception et examen suivant Contrôlez interface d’axe et débattement, puis convenez des essais prescrits. Un œil d’articulation n’est pas automatiquement un point de levage approuvé.
+
+Prévoir les essais fonctionnels et leurs documents ↗
+
+##### Exemple de modification : réviser un goujon à filetages différents
+
+Modifier une extrémité peut affecter identification et montage même si l’autre reste identique. Comparez les deux pièces en regard, position d’épaulement, accès et finition au plan révisé. Listez calibres et contrôles à modifier par extrémité, en conservant l’ancienne approbation liée à son indice initial. Convenez des nouveaux échantillons avant les commandes répétées.
+
+Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.
+
+Identifier et contrôler les deux extrémités d’un goujon sur mesure ↗
+
 #### Structures de fixation pertinentes
 
 Goujons à double extrémité sur mesure ↗ Boulons à tête carrée sur mesure ↗ Boulons pour rainures en T sur mesure ↗ Boulons à œil et articulés sur mesure ↗
@@ -11873,22 +11937,6 @@ Des exemples décrivent les exigences de l'application. L'adéquation des matér
 #### Préparez une spécification de projet plus claire.
 
 Goujons à double extrémité : éviter les erreurs d'assemblage avec filetage mixte ↗ contrôle de révision des dessins techniques pour les commandes répétées de fixations personnalisées ↗ Liste de contrôle complète de la demande de prix ↗
-
-#### Traduire l'application en une spécification de fixation
-
-Pour les machines et équipements généraux, la première tâche consiste à connecter la géométrie des fixations à l’interface de l’équipement. Détails de connexion d'accouplement : fournissez à la fois des interfaces filetées, des fentes de montage ou des broches de liaison qui déterminent la géométrie requise. Exigences d'assemblage et de charge : définissez la séquence d'installation, l'état des matériaux et la vérification requise pour la connexion complète. Cohérence des commandes répétées : alignez les révisions des dessins techniques, les décisions relatives aux échantillons, la portée de l'inspection et l'identification de l'expédition. Expliquez l'environnement et la séquence d'entretien parallèlement au dessin technique afin que l'examen porte sur le composant installé.
-
-Pour une connexion à filetage mixte, identifiez l'extrémité A et l'extrémité B sur le dessin technique et le plan d'inspection. Si la demande implique un levage, fournissez séparément les exigences de conception et de vérification approuvées.
-
-#### Sélectionner un parcours autour des fonctionnalités fonctionnelles
-
-Les familles de produits concernées comprennent les goujons personnalisés à double extrémité, les boulons à tête carrée personnalisés, les boulons à rainure en T personnalisés, les boulons à œil et articulés personnalisés. Ce sont des points de départ pour une révision des dessins techniques, et non des pièces interchangeables. Comparez l'acier au carbone et allié, l'acier au bore 10B21, l'acier inoxydable SUS304 et SUS316 aux exigences mécaniques et environnementales réelles.
-
-Discutez du frappe à chaud et du forgeage, du laminage de filetage, de la coupe et du taraudage, de la vision CCD et de l'inspection dimensionnelle dans le cadre de l'itinéraire complet. Identifiez la quantité d’échantillon, les caractéristiques critiques, la finition et les enregistrements requis avant l’approbation. Un nom de secteur à lui seul n’implique pas une certification de projet ou une portée de test globale.
-
-#### Planifier l'approbation des échantillons et répéter les commandes
-
-L'échantillonnage typique, y compris l'outillage, prend environ 10–15 jours, sous réserve d'un examen technique et d'une confirmation. Confirmez la base du calendrier, l'acceptation de l'échantillon et tout essai de pièce d'accouplement dans le devis. Libérez la production répétée par rapport à la révision approuvée et enregistrez les modifications apportées au matériau, au traitement ou à la géométrie plutôt que de vous fier à une photographie précédente.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 

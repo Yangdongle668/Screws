@@ -11592,7 +11592,7 @@ ENGINEERING GUIDE
 
 Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
-### Molds, Tooling & Test Fixtures Custom Fasteners
+### Custom Screws for Molds, Tooling & Test Fixtures
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/molds-fixtures/
 
 STEPS, STOPS & ADJUSTMENT
@@ -11615,6 +11615,38 @@ Specify material condition, contact end and surface requirements for the actual 
 
 Include adjustment range, wrench access and any repeated assembly requirements.
 
+#### Keep locating, stopping and clamping requirements distinct
+
+A fixture needs a defined workpiece reference as well as enough clearance to load and remove the part. Show which screw surface sets that reference, which contact can wear and which feature only clamps.
+
+Keep locating, stopping and clamping requirements distinct Assembly function Specify with the mating parts Acceptance and next review
+
+Locate a removable fixture element Specify with the mating parts Identify the working step or shoulder, mating bore and seating face. Dimension functional steps from the agreed datums, rather than accumulating unrelated lengths.
+
+Multi-Step & Multi-Shoulder Screws ↗ Acceptance and next review Check the finished locating surfaces and the mating fit. Trial removal and refitting against the specified reference position.
+
+Secondary & Precision Operations ↗
+
+Set an adjustable workpiece stop Specify with the mating parts Define the contact point or pad, adjustment travel, locking method and permitted marking on the workpiece. Identify any replaceable contact element.
+
+Custom Set Screws & Grub Screws ↗ Acceptance and next review Record the stop position and contact condition before and after the agreed adjustment sequence. Compare position repeatability separately from visible wear.
+
+Material-Specific Heat Treatment ↗
+
+Clamp through a machine or fixture slot Specify with the mating parts Show the actual slot section, head pocket, insertion path and bearing area. Define engaged thread and the stack to be clamped.
+
+Custom T-Slot Bolts ↗ Acceptance and next review Check insertion, head seating and anti-rotation in the intended slot. Confirm that the head bears on the specified face without bottoming elsewhere.
+
+Secondary & Precision Operations ↗
+
+##### Change example: replace a worn contact pad
+
+Compare the replacement pad thickness, contact shape and material condition with the approved setup. A new pad can shift the workpiece reference even when the screw setting is unchanged. Re-establish the reference position, check the adjustment limits and record the pad and screw revisions. Separate setup measurements from any subsequent workpiece inspection so a successful fixture check is not mistaken for product acceptance.
+
+Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly.
+
+Compare set-screw points and contact marking ↗
+
 #### Relevant fastener structures
 
 Multi-Step & Multi-Shoulder Screws ↗ Custom Set Screws & Grub Screws ↗ Knurled Thumb & Adjustment Screws ↗ Custom T-Slot Bolts ↗
@@ -11632,22 +11664,6 @@ Examples describe application requirements. Material suitability, production sco
 #### Prepare a clearer project specification.
 
 Cone, flat, dog or cup: choosing a set-screw tip ↗ T-slot bolt fit: what to measure before ordering ↗ Complete RFQ checklist ↗
-
-#### Translate the application into a fastener specification
-
-For molds, tooling & test fixtures, the first task is to connect the fastener geometry with the equipment interface. Functional dimension chains: Show the surfaces that locate each component and the axial distances that control the fixture. Contact and wear requirements: Specify material condition, contact end and surface requirements for the actual function. Setup and maintenance: Include adjustment range, wrench access and any repeated assembly requirements. Explain the environment and service sequence alongside the drawing so the review addresses the installed component.
-
-For a fixture stop, include the mating surface, tip form and locking method. Distinguish a dimension used for clearance from a surface that establishes the actual workpiece position.
-
-#### Select a route around the functional features
-
-The relevant product families include Multi-Step & Multi-Shoulder Screws, Custom Set Screws & Grub Screws, Knurled Thumb & Adjustment Screws, Custom T-Slot Bolts. These are starting points for a drawing review, not interchangeable parts. Compare Carbon & Alloy Steel, SUS304 & SUS316 Stainless Steel against the actual mechanical and environmental requirements.
-
-Discuss Swiss-Type & CNC Turning, Secondary & Precision Operations, Material-Specific Heat Treatment as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope.
-
-#### Plan sample approval and repeat orders
-
-Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -11667,7 +11683,7 @@ ENGINEERING GUIDE
 
 Several shoulders can locate several components. A clear dimension scheme explains which axial distances control the assembly and which are consequences of other dimensions.
 
-### Security & Access Equipment Custom Fasteners
+### Tamper-Resistant Screws for Security & Access Equipment
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/security-equipment/
 
 DRIVE INTERFACE & SERVICE ACCESS
@@ -11690,6 +11706,38 @@ Show recess depth, surrounding walls and the service tool envelope in the assemb
 
 Agree visible head condition, finish and corrosion requirements for the installation environment.
 
+#### Design for restricted access and authorized maintenance
+
+A special drive can discourage casual removal while still allowing planned servicing. Specify the matching tool and installed access, then decide whether the released screw must stay attached to the panel.
+
+Design for restricted access and authorized maintenance Assembly function Specify with the mating parts Acceptance and next review
+
+Restrict the drive interface Specify with the mating parts Identify the recess profile, usable engagement and any centre pin. Specify the intended bit and holder alongside the finished head geometry.
+
+Security & Tamper-Resistant Screws ↗ Acceptance and next review Compare the finished recess with the identified tool, first outside the housing and then in the installed position. Distinguish tool fit from restricted access.
+
+Secondary & Precision Operations ↗
+
+Retain hardware during panel service Specify with the mating parts Show panel thickness, retaining feature, released travel and mating thread. Identify the panel-opening path and adjacent cables or components.
+
+Captive Screws ↗ Acceptance and next review Check retention after disengagement, opening clearance and re-engagement with the service tool. Record the approved panel and retainer configuration.
+
+Cleaning, Locking & Assembly ↗
+
+Seat a head inside a protective recess Specify with the mating parts Provide recess depth, sidewall clearance, bearing face and any coating or gasket in the stack. State the permitted visible contact marks.
+
+Custom Flange Screws ↗ Acceptance and next review Confirm seating and tool access on finished mating parts. Verify any specified enclosure performance on the complete assembly, separately from screw dimensions.
+
+Plan functional tests and records ↗
+
+##### Change example: use a different service bit or holder
+
+Keep the screw drawing, recess reference and original tool identity available when comparing a replacement. Check usable engagement and the holder envelope inside the actual housing before approving the change. Record the service-tool revision with the screw and panel configuration, including how replacements are specified. Restricted-drive geometry is not an independently certified security level or an enclosure-protection rating.
+
+Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly.
+
+Review the drive and installed-tool access together ↗
+
 #### Relevant fastener structures
 
 Security & Tamper-Resistant Screws ↗ Special Head Screws ↗ Captive Screws ↗ Custom Flange Screws ↗
@@ -11707,22 +11755,6 @@ Examples describe application requirements. Material suitability, production sco
 #### Prepare a clearer project specification.
 
 How to specify a tamper-resistant screw drive ↗ Five questions before specifying a captive screw ↗ Complete RFQ checklist ↗
-
-#### Translate the application into a fastener specification
-
-For security & access equipment, the first task is to connect the fastener geometry with the equipment interface. Defined drive profiles: Supply the exact recess and matching tool requirement, including center-pin details where used. Real installation clearance: Show recess depth, surrounding walls and the service tool envelope in the assembled condition. Surface and appearance: Agree visible head condition, finish and corrosion requirements for the installation environment. Explain the environment and service sequence alongside the drawing so the review addresses the installed component.
-
-For a protected housing, send both the screw drawing and enclosure recess. A tamper-resistant drive discourages casual access; the overall access-control design remains an assembly requirement.
-
-#### Select a route around the functional features
-
-The relevant product families include Security & Tamper-Resistant Screws, Special Head Screws, Captive Screws, Custom Flange Screws. These are starting points for a drawing review, not interchangeable parts. Compare SUS304 & SUS316 Stainless Steel, Carbon & Alloy Steel against the actual mechanical and environmental requirements.
-
-Discuss Multi-Station Cold Heading, Secondary & Precision Operations, Coatings & Surface Treatments as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope.
-
-#### Plan sample approval and repeat orders
-
-Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -11833,7 +11865,7 @@ ENGINEERING GUIDE
 
 Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected.
 
-### General Machinery & Equipment Custom Fasteners
+### Custom Studs & Fasteners for Machinery Assemblies
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/general-machinery/
 
 MOUNTING, LINKAGES & CUSTOM JOINTS
@@ -11856,6 +11888,38 @@ Define installation sequence, material condition and required verification for t
 
 Keep drawing revisions, sample decisions, inspection scope and shipment identification aligned.
 
+#### Choose the connection around installation and load transfer
+
+A stud connecting two threaded parts, a captured slot head and a pin-linked component impose different drawing requirements. Start with the mating interfaces and assembly sequence before choosing a manufacturing route.
+
+Choose the connection around installation and load transfer Assembly function Specify with the mating parts Acceptance and next review
+
+Connect different threaded interfaces Specify with the mating parts Label stud ends A and B with their thread systems, pitches, usable lengths and engagement requirements. Show any shoulder or tool-access feature between them.
+
+Custom Double-Ended Studs ↗ Acceptance and next review Gauge each end against its own specification after the ordered finish. Keep end identification in the inspection and assembly records.
+
+Thread Rolling, Cutting & Tapping ↗
+
+Capture a head in a mounting slot Specify with the mating parts Define the actual slot and pocket geometry, head orientation, bearing surface and insertion route. Include the complete clamped stack and tool access.
+
+Custom T-Slot Bolts ↗ Acceptance and next review Trial insertion and tightening in the intended slot. Confirm seating and required anti-rotation without assuming all profile slots share the same section.
+
+Multi-Station Cold Heading ↗
+
+Join a moving linkage Specify with the mating parts Show the eye or fork, mating pin, articulation space and load direction. Define the thread engagement and how the joint is retained.
+
+Custom Eye & Articulating Bolts ↗ Acceptance and next review Check the pin interface and movement envelope, then agree any specified joint test. A linkage eye is not automatically an approved lifting attachment.
+
+Plan functional tests and records ↗
+
+##### Change example: revise a mixed-thread stud
+
+A change at one end can affect how the part is identified and installed even if the other end remains the same. Compare both mating components, shoulder position, tool access and final finish against the revised drawing. List which end-specific gauges and assembly checks must change, and keep the original approval linked to its original revision. Agree the revised sample scope before ordering repeat quantities.
+
+Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly.
+
+Identify and inspect both ends of a custom stud ↗
+
 #### Relevant fastener structures
 
 Custom Double-Ended Studs ↗ Custom Square Head Bolts ↗ Custom T-Slot Bolts ↗ Custom Eye & Articulating Bolts ↗
@@ -11873,22 +11937,6 @@ Examples describe application requirements. Material suitability, production sco
 #### Prepare a clearer project specification.
 
 Double-ended studs: preventing mixed-thread assembly errors ↗ Drawing revision control for repeat custom fastener orders ↗ Complete RFQ checklist ↗
-
-#### Translate the application into a fastener specification
-
-For general machinery & equipment, the first task is to connect the fastener geometry with the equipment interface. Mating connection details: Provide both thread interfaces, mounting slots or linkage pins that determine the required geometry. Assembly and load requirements: Define installation sequence, material condition and required verification for the complete connection. Repeat-order consistency: Keep drawing revisions, sample decisions, inspection scope and shipment identification aligned. Explain the environment and service sequence alongside the drawing so the review addresses the installed component.
-
-For a mixed-thread connection, identify end A and end B on the drawing and inspection plan. If the application involves lifting, provide the approved design and verification requirements separately.
-
-#### Select a route around the functional features
-
-The relevant product families include Custom Double-Ended Studs, Custom Square Head Bolts, Custom T-Slot Bolts, Custom Eye & Articulating Bolts. These are starting points for a drawing review, not interchangeable parts. Compare Carbon & Alloy Steel, 10B21 Boron Steel, SUS304 & SUS316 Stainless Steel against the actual mechanical and environmental requirements.
-
-Discuss Hot Heading & Forging, Thread Rolling, Cutting & Tapping, CCD Vision & Dimensional Inspection as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope.
-
-#### Plan sample approval and repeat orders
-
-Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph.
 
 CONNECTED SPECIFICATION TOPICS
 

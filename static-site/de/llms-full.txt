@@ -11592,7 +11592,7 @@ ENGINEERING-LEITFADEN
 
 Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
-### Formen, Werkzeuge und Testvorrichtungen. Kundenspezifische Verbindungselemente
+### Sonderschrauben für Formen, Werkzeuge und Prüfvorrichtungen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/molds-fixtures/
 
 SCHRITTE, STOPP UND EINSTELLUNG
@@ -11615,6 +11615,38 @@ Geben Sie Materialbeschaffenheit, Kontaktende und Oberflächenanforderungen für
 
 Berücksichtigen Sie den Einstellbereich, den Zugang zum Schraubenschlüssel und alle wiederholten Montageanforderungen.
 
+#### Positionieren, Anschlagen und Spannen getrennt festlegen
+
+Eine Vorrichtung braucht einen definierten Werkstückbezug und ausreichend Freiraum zum Be- und Entladen. Zeigen Sie, welche Schraubenfläche den Bezug bestimmt, welcher Kontakt verschleißen kann und welches Merkmal nur spannt.
+
+Positionieren, Anschlagen und Spannen getrennt festlegen Baugruppenfunktion Mit den Gegenstücken spezifizieren Abnahme und weitere Prüfung
+
+Abnehmbares Vorrichtungselement positionieren Mit den Gegenstücken spezifizieren Funktionale Stufe oder Schulter, Gegenbohrung und Anlagefläche benennen. Funktionsstufen von den vereinbarten Bezügen bemaßen, statt unabhängige Längen aufzusummieren.
+
+Mehrstufen- und Mehrschulterschrauben ↗ Abnahme und weitere Prüfung Fertige Positionierflächen und Gegenpassung prüfen. Aus- und Wiedereinbau anhand der festgelegten Bezugsposition erproben.
+
+Sekundär- und Präzisionsbearbeitung ↗
+
+Verstellbaren Werkstückanschlag einstellen Mit den Gegenstücken spezifizieren Kontaktspitze oder Auflage, Verstellweg, Sicherung und zulässige Werkstückspuren definieren. Austauschbare Kontaktelemente benennen.
+
+Kundenspezifische Gewindestifte und Madenschrauben ↗ Abnahme und weitere Prüfung Anschlagposition und Kontaktzustand vor und nach dem vereinbarten Verstellablauf dokumentieren. Positionswiederholbarkeit getrennt vom sichtbaren Verschleiß bewerten.
+
+Werkstoffspezifische Wärmebehandlung ↗
+
+Durch Maschinen- oder Vorrichtungsnut spannen Mit den Gegenstücken spezifizieren Tatsächlichen Nutquerschnitt, Kopftasche, Einführweg und Auflagebereich zeigen. Gewindeeingriff und Klemmstapel festlegen.
+
+T-Nutenschrauben nach Zeichnung ↗ Abnahme und weitere Prüfung Einführen, Kopfanlage und Verdrehsicherung in der vorgesehenen Nut prüfen. Der Kopf muss an der festgelegten Fläche anliegen, ohne anderswo vorzeitig aufzusetzen.
+
+Sekundär- und Präzisionsbearbeitung ↗
+
+##### Änderungsbeispiel: verschlissene Kontaktauflage ersetzen
+
+Dicke, Kontaktform und Werkstoffzustand der Ersatzauflage mit der freigegebenen Einrichtung vergleichen. Eine neue Auflage kann den Werkstückbezug verschieben, obwohl die Schraubeneinstellung unverändert bleibt. Bezug neu einstellen, Verstellgrenzen prüfen und Auflagen- sowie Schraubenstand dokumentieren. Einrichtmessungen von späteren Werkstückprüfungen trennen, damit die erfolgreiche Vorrichtungsprüfung nicht als Produktabnahme gilt.
+
+Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.
+
+Gewindestiftspitzen und Kontaktspuren vergleichen ↗
+
 #### Relevante Befestigungsstrukturen
 
 Multi-Step- und Multi-Shoulder-Schrauben ↗ Kundenspezifische Gewindestifte und Madenschrauben ↗ Rändel- und Einstellschrauben ↗ T-Nutenschrauben nach Zeichnung ↗
@@ -11632,22 +11664,6 @@ Beispiele beschreiben Anwendungsanforderungen. Materialeignung, Produktionsumfan
 #### Bereiten Sie eine klarere Projektspezifikation vor.
 
 Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Stellschraube ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ Vervollständigen Sie die RFQ-Checkliste ↗
-
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
-
-Bei Formen, Werkzeugen und Prüfvorrichtungen besteht die erste Aufgabe darin, die Verbindungsgeometrie mit der Geräteschnittstelle zu verbinden. Funktionale Bemaßungsketten: Zeigen die Flächen an, auf denen die einzelnen Komponenten positioniert sind, und die axialen Abstände, die die Vorrichtung steuern. Kontakt- und Verschleißanforderungen: Geben Sie Materialbeschaffenheit, Kontaktende und Oberflächenanforderungen für die tatsächliche Funktion an. Einrichtung und Wartung: Berücksichtigen Sie den Einstellbereich, den Zugang zum Schraubenschlüssel und alle wiederholten Montageanforderungen. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
-
-Geben Sie für einen Vorrichtungsanschlag die Passfläche, die Spitzenform und die Verriegelungsmethode an. Unterscheiden Sie ein Maß, das für den Abstand von einer Oberfläche verwendet wird und die tatsächliche Werkstückposition festlegt.
-
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
-
-Zu den relevanten Produktfamilien gehören mehrstufige und mehrschultrige Schrauben, kundenspezifische Stellschrauben und Madenschrauben, gerändelte Rändel- und Einstellschrauben sowie kundenspezifische T-Nut-Schrauben. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie Kohlenstoff- und legierten Stahl, SUS304 und SUS316 Edelstahl mit den tatsächlichen mechanischen und Umweltanforderungen.
-
-Besprechen Sie Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsoperationen sowie materialspezifische Wärmebehandlung als Teil des gesamten Kurses. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
-
-#### Planen Sie Musterfreigaben und Nachbestellungen
-
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -11667,7 +11683,7 @@ ENGINEERING-LEITFADEN
 
 Mehrere Schultern können mehrere Komponenten aufnehmen. Ein übersichtliches Bemaßungsschema erklärt, welche Achsabstände die Montage steuern und welche sich aus anderen Bemaßungen ergeben.
 
-### Kundenspezifische Verbindungselemente für Sicherheits- und Zugangsgeräte
+### Sicherheitsschrauben für Schutz- und Zugangsgehäuse
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/security-equipment/
 
 ANTRIEBSSCHNITTSTELLE UND SERVICEZUGANG
@@ -11680,7 +11696,7 @@ Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
 #### Definierte Antriebsprofile
 
-Stellen Sie die exakte Aussparung und die passenden Werkzeuganforderungen bereit, einschließlich der Angaben zum Zentrierstift, sofern verwendet.
+Geben Sie die genaue Antriebsvertiefung und das passende Werkzeug an, gegebenenfalls einschließlich der Mittelstiftgeometrie.
 
 #### Echter Einbauspielraum
 
@@ -11689,6 +11705,38 @@ Nischentiefe, umgebende Wände und Service-Tool-Umschlag im zusammengebauten Zus
 #### Oberfläche und Aussehen
 
 Vereinbaren Sie Anforderungen an den Zustand des sichtbaren Kopfes, die Oberflächenbeschaffenheit und die Korrosion für die Installationsumgebung.
+
+#### Erschwerten Zugang und autorisierte Wartung gemeinsam auslegen
+
+Ein Spezialantrieb kann beiläufiges Entfernen erschweren und geplante Wartung erlauben. Passendes Werkzeug und Zugang im Einbau festlegen, dann entscheiden, ob die gelöste Schraube an der Platte verbleiben muss.
+
+Erschwerten Zugang und autorisierte Wartung gemeinsam auslegen Baugruppenfunktion Mit den Gegenstücken spezifizieren Abnahme und weitere Prüfung
+
+Antriebsschnittstelle einschränken Mit den Gegenstücken spezifizieren Vertiefungsprofil, nutzbaren Eingriff und gegebenenfalls Mittelstift benennen. Bit und Halter zusammen mit der fertigen Kopfgeometrie spezifizieren.
+
+Sicherheits- und manipulationshemmende Schrauben ↗ Abnahme und weitere Prüfung Fertige Vertiefung mit dem benannten Werkzeug zunächst außerhalb des Gehäuses, dann im Einbau vergleichen. Werkzeugpassung und Zugangshindernis unterscheiden.
+
+Sekundär- und Präzisionsbearbeitung ↗
+
+Befestiger bei der Plattenwartung zurückhalten Mit den Gegenstücken spezifizieren Plattendicke, Haltemerkmal, gelösten Hub und Gegengewinde zeigen. Öffnungsweg und benachbarte Kabel oder Bauteile benennen.
+
+Unverlierbare Schrauben ↗ Abnahme und weitere Prüfung Rückhaltung nach Gewindelösung, Öffnungsfreigang und Wiedereingriff mit Wartungswerkzeug prüfen. Freigegebene Platten- und Haltekonfiguration dokumentieren.
+
+Reinigung, Schraubensicherung und Vormontage ↗
+
+Kopf in einer Schutzvertiefung auflegen Mit den Gegenstücken spezifizieren Vertiefungstiefe, Seitenfreigang, Auflagefläche und Beschichtung oder Dichtung im Stapel angeben. Zulässige sichtbare Kontaktspuren festlegen.
+
+Flanschschrauben nach Zeichnung ↗ Abnahme und weitere Prüfung Anlage und Werkzeugzugang an fertigen Gegenstücken bestätigen. Geforderte Gehäuseleistung an der kompletten Baugruppe getrennt von Schraubenmaßen prüfen.
+
+Funktionsprüfungen und Nachweise planen ↗
+
+##### Änderungsbeispiel: anderen Wartungsbit oder Halter einsetzen
+
+Beim Ersatzvergleich Schraubenzeichnung, Vertiefungsreferenz und ursprüngliche Werkzeugkennung bereithalten. Vor Freigabe nutzbaren Eingriff und Halterhüllraum im tatsächlichen Gehäuse prüfen. Den Werkzeugstand mit Schrauben- und Plattenkonfiguration dokumentieren, einschließlich Ersatzspezifikation. Die Spezialantriebsgeometrie ist weder unabhängig zertifizierte Sicherheitsstufe noch Gehäuseschutzart.
+
+Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.
+
+Antrieb und Werkzeugzugang im Einbau gemeinsam prüfen ↗
 
 #### Relevante Befestigungsstrukturen
 
@@ -11707,22 +11755,6 @@ Beispiele beschreiben Anwendungsanforderungen. Materialeignung, Produktionsumfan
 #### Bereiten Sie eine klarere Projektspezifikation vor.
 
 So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Fünf Fragen vor der Spezifikation einer unverlierbaren Schraube ↗ Vervollständigen Sie die RFQ-Checkliste ↗
-
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
-
-Bei Sicherheits- und Zugangsgeräten besteht die erste Aufgabe darin, die Befestigungsgeometrie mit der Geräteschnittstelle zu verbinden. Definierte Antriebsprofile: Stellen Sie die exakte Aussparung und die passenden Werkzeuganforderungen bereit, einschließlich Details zum Zentrierstift, sofern verwendet. Realer Einbaufreiraum: Nischentiefe, umgebende Wände und Service-Tool-Umschlag im montierten Zustand anzeigen. Oberfläche und Aussehen: Vereinbaren Sie die Anforderungen an den Zustand des sichtbaren Kopfes, die Oberflächenbeschaffenheit und die Korrosion für die Installationsumgebung. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
-
-Für ein geschütztes Gehäuse senden Sie sowohl die Schraubenkonstruktionszeichnung als auch die Gehäuseaussparung mit. Ein manipulationssicheres Laufwerk verhindert zufälligen Zugriff; Das gesamte Design der Zugangskontrolle bleibt eine Montageanforderung.
-
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
-
-Zu den relevanten Produktfamilien gehören Sicherheits- und manipulationssichere Schrauben, Spezialkopfschrauben, unverlierbare Schrauben und kundenspezifische Flanschschrauben. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie SUS304 und SUS316 Edelstahl, Kohlenstoffstahl und legierten Stahl mit den tatsächlichen mechanischen und Umweltanforderungen.
-
-Besprechen Sie Kaltstauchen mit mehreren Stationen, Sekundär- und Präzisionsoperationen, Beschichtungen und Oberflächenbehandlungen als Teil der gesamten Route. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
-
-#### Planen Sie Musterfreigaben und Nachbestellungen
-
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -11833,7 +11865,7 @@ ENGINEERING-LEITFADEN
 
 Sauberkeit wird zu einer technischen Anforderung, wenn Verunreinigungen die Baugruppe beeinträchtigen können. Definieren Sie, was entfernt werden muss, wie es gemessen wird und wie der saubere Zustand geschützt wird.
 
-### Kundenspezifische Verbindungselemente für allgemeine Maschinen und Geräte
+### Sonderstehbolzen und Befestiger für Maschinenbaugruppen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/general-machinery/
 
 MONTAGE, VERBINDUNGEN UND BENUTZERDEFINIERTE VERBINDUNGEN
@@ -11856,6 +11888,38 @@ Legen Sie die Installationsreihenfolge, den Materialzustand und die erforderlich
 
 Halten Sie Überarbeitungen von Konstruktionszeichnungen, Musterentscheidungen, Prüfumfang und Sendungsidentifikation aufeinander abgestimmt.
 
+#### Verbindung nach Einbau und Lastübertragung auswählen
+
+Ein Stehbolzen zwischen unterschiedlichen Gewinden, ein gefangener Nutenkopf und ein Bolzengelenk brauchen unterschiedliche Zeichnungsangaben. Vor der Fertigungsroute die Gegenstückschnittstellen und Montagefolge klären.
+
+Verbindung nach Einbau und Lastübertragung auswählen Baugruppenfunktion Mit den Gegenstücken spezifizieren Abnahme und weitere Prüfung
+
+Unterschiedliche Gewindeschnittstellen verbinden Mit den Gegenstücken spezifizieren Stehbolzenenden A und B mit Gewindesystem, Steigung, nutzbarer Länge und Eingriffsanforderung kennzeichnen. Schultern und Werkzeugzugang dazwischen zeigen.
+
+Stiftschrauben mit zwei Gewindeenden nach Zeichnung ↗ Abnahme und weitere Prüfung Jedes Ende nach bestellter Oberflächenbehandlung gegen seine eigene Vorgabe lehren. Endkennzeichnung in Prüf- und Montagenachweisen beibehalten.
+
+Gewindewalzen, Gewindedrehen und Gewindebohren ↗
+
+Kopf in einer Befestigungsnut fangen Mit den Gegenstücken spezifizieren Tatsächliche Nut- und Taschengeometrie, Kopfausrichtung, Auflage und Einführweg definieren. Klemmstapel und Werkzeugzugang vollständig einbeziehen.
+
+T-Nutenschrauben nach Zeichnung ↗ Abnahme und weitere Prüfung Einführen und Anziehen in der vorgesehenen Nut erproben. Anlage und erforderliche Verdrehsicherung prüfen, ohne gleiche Querschnitte aller Profilnuten vorauszusetzen.
+
+Mehrstufen-Kaltstauchen ↗
+
+Bewegliches Gestänge verbinden Mit den Gegenstücken spezifizieren Auge oder Gabel, Gegenbolzen, Bewegungsfreiraum und Lastrichtung zeigen. Gewindeeingriff und Sicherung des Gelenks definieren.
+
+Augen- und Gelenkschrauben nach Zeichnung ↗ Abnahme und weitere Prüfung Bolzenschnittstelle und Bewegungsraum prüfen, dann geforderte Gelenkprüfungen vereinbaren. Ein Gelenkauge ist nicht automatisch ein freigegebenes Anschlagmittel.
+
+Funktionsprüfungen und Nachweise planen ↗
+
+##### Änderungsbeispiel: Stehbolzen mit unterschiedlichen Gewinden ändern
+
+Die Änderung eines Endes kann Kennzeichnung und Einbau beeinflussen, auch wenn das andere Ende gleich bleibt. Beide Gegenstücke, Schulterlage, Werkzeugzugang und Endoberfläche mit der geänderten Zeichnung vergleichen. Auflisten, welche endbezogenen Lehren und Montageprüfungen sich ändern; die bisherige Freigabe bleibt ihrem ursprünglichen Stand zugeordnet. Vor Wiederholbestellungen den neuen Musterumfang vereinbaren.
+
+Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.
+
+Beide Enden eines Sonderstehbolzens identifizieren und prüfen ↗
+
 #### Relevante Befestigungsstrukturen
 
 Kundenspezifische doppelseitige Bolzen ↗ Vierkantschrauben nach Zeichnung ↗ T-Nutenschrauben nach Zeichnung ↗ Augen- und Gelenkschrauben nach Zeichnung ↗
@@ -11873,22 +11937,6 @@ Beispiele beschreiben Anwendungsanforderungen. Materialeignung, Produktionsumfan
 #### Bereiten Sie eine klarere Projektspezifikation vor.
 
 Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Revisionskontrolle von Konstruktionszeichnungen für wiederkehrende kundenspezifische Verbindungsbestellungen ↗ Vervollständigen Sie die RFQ-Checkliste ↗
-
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
-
-Bei allgemeinen Maschinen und Geräten besteht die erste Aufgabe darin, die Verbindungsgeometrie mit der Geräteschnittstelle zu verbinden. Details der passenden Verbindung: Stellen Sie beide Gewindeschnittstellen, Montageschlitze oder Verbindungsstifte bereit, die die erforderliche Geometrie bestimmen. Montage- und Belastungsanforderungen: Legen Sie die Montagereihenfolge, den Materialzustand und die erforderlichen Nachweise für die vollständige Verbindung fest. Konsistenz bei Wiederholungsaufträgen: Halten Sie Überarbeitungen von Konstruktionszeichnungen, Musterentscheidungen, Prüfumfang und Sendungsidentifikation aufeinander abgestimmt. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
-
-Identifizieren Sie bei einer Verbindung mit gemischten Gewinden Ende A und Ende B in der technischen Zeichnung und im Prüfplan. Wenn es sich bei der Anwendung um Hebevorgänge handelt, geben Sie die genehmigten Konstruktions- und Verifizierungsanforderungen separat an.
-
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
-
-Zu den relevanten Produktfamilien gehören kundenspezifische Doppelbolzen, kundenspezifische Vierkantschrauben, kundenspezifische T-Nut-Schrauben, kundenspezifische Augen- und Gelenkschrauben. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie Kohlenstoff- und legierten Stahl, 10B21-Borstahl, SUS304 und SUS316 Edelstahl mit den tatsächlichen mechanischen und Umweltanforderungen.
-
-Besprechen Sie Warmstauchen und -schmieden, Gewindewalzen, Schneiden und Gewindeschneiden, CCD-Bildverarbeitung und Maßprüfung als Teil der gesamten Route. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
-
-#### Planen Sie Musterfreigaben und Nachbestellungen
-
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 

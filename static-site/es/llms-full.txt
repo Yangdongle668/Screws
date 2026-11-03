@@ -11592,7 +11592,7 @@ GUÍA DE INGENIERÍA
 
 Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
-### Moldes, herramientas y accesorios de prueba Sujetadores personalizados
+### Tornillos a medida para moldes, utillajes y pruebas
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/molds-fixtures/
 
 PASOS, PARADAS Y AJUSTE
@@ -11615,6 +11615,38 @@ Especifique la condición del material, el extremo del contacto y los requisitos
 
 Incluya el rango de ajuste, el acceso a la llave y cualquier requisito de ensamblaje repetido.
 
+#### Distinguir posicionamiento, tope y apriete
+
+Un útil necesita una referencia de pieza definida y espacio para cargar y retirar la pieza. Indique qué superficie del tornillo fija la referencia, qué contacto puede desgastarse y qué elemento solo aprieta.
+
+Distinguir posicionamiento, tope y apriete Función en el conjunto Definir junto con las piezas acopladas Aceptación y siguiente revisión
+
+Posicionar un elemento desmontable del útil Definir junto con las piezas acopladas Identifique escalón u hombro funcional, orificio acoplado y asiento. Acote desde las referencias acordadas en lugar de acumular longitudes independientes.
+
+Tornillos de múltiples escalones y hombros ↗ Aceptación y siguiente revisión Compruebe superficies de posición terminadas y ajuste acoplado. Pruebe desmontaje y remontaje respecto a la posición de referencia especificada.
+
+Operaciones secundarias y de precisión ↗
+
+Ajustar un tope regulable de pieza Definir junto con las piezas acopladas Defina punta o apoyo, recorrido, bloqueo y marcas permitidas en la pieza. Identifique elementos de contacto sustituibles.
+
+Tornillos prisioneros y de fijación a medida ↗ Aceptación y siguiente revisión Registre posición del tope y contacto antes y después de la secuencia acordada. Compare repetibilidad de posición por separado del desgaste visible.
+
+Tratamiento térmico según el material ↗
+
+Apretar mediante una ranura de máquina o útil Definir junto con las piezas acopladas Muestre sección real de ranura, alojamiento de cabeza, inserción y apoyo. Defina rosca acoplada y cadena a apretar.
+
+Pernos para ranura en T a medida ↗ Aceptación y siguiente revisión Compruebe inserción, asiento y antigiro en la ranura prevista. Confirme apoyo en la cara indicada sin tocar fondo en otra zona.
+
+Operaciones secundarias y de precisión ↗
+
+##### Ejemplo de cambio: sustituir un apoyo desgastado
+
+Compare espesor, forma y estado del material del apoyo nuevo con la puesta a punto aprobada. Puede cambiar la referencia de la pieza aunque el tornillo conserve su ajuste. Restablezca la referencia, revise límites de ajuste y registre revisiones de apoyo y tornillo. Separe medidas de puesta a punto de la inspección posterior de piezas para no confundir aceptación del útil y del producto.
+
+Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.
+
+Comparar puntas de prisionero y marcas de contacto ↗
+
 #### Estructuras de sujetadores relevantes
 
 Tornillos de varios pasos y de múltiples hombros ↗ Tornillos prisioneros y de fijación a medida ↗ Tornillos moleteados de apriete manual y ajuste ↗ Pernos para ranura en T a medida ↗
@@ -11632,22 +11664,6 @@ Los ejemplos describen los requisitos de la aplicación. La idoneidad del materi
 #### Prepare una especificación del proyecto más clara.
 
 Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗ Ajuste del perno con ranura en T: qué medir antes de realizar el pedido ↗ Lista de verificación completa de RFQ ↗
-
-#### Traducir la aplicación a una especificación de sujetadores.
-
-Para moldes, herramientas y accesorios de prueba, la primera tarea es conectar la geometría del sujetador con la interfaz del equipo. Cadenas de dimensiones funcionales: Muestra las superficies que ubican cada componente y las distancias axiales que controlan el accesorio. Requisitos de contacto y desgaste: especifique la condición del material, el extremo de contacto y los requisitos de superficie para la función real. Configuración y mantenimiento: incluya el rango de ajuste, el acceso a la llave y cualquier requisito de ensamblaje repetido. Explique el entorno y la secuencia de servicio junto con el dibujo de ingeniería para que la revisión aborde el componente instalado.
-
-Para un tope de fijación, incluya la superficie de contacto, la forma de la punta y el método de bloqueo. Distinguir una dimensión utilizada para el espacio libre de una superficie que establece la posición real de la pieza de trabajo.
-
-#### Seleccione una ruta por las características funcionales.
-
-Las familias de productos relevantes incluyen tornillos de varios pasos y de múltiples hombros, tornillos de fijación y tornillos prisioneros personalizados, tornillos de ajuste y pulgar moleteados, pernos con ranura en T personalizados. Estos son puntos de partida para una revisión de planos de ingeniería, no piezas intercambiables. Compare el acero al carbono y aleado, el acero inoxidable SUS304 y SUS316 con los requisitos mecánicos y ambientales reales.
-
-Analice el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión y el tratamiento térmico de materiales específicos como parte de la ruta completa. Identifique la cantidad de muestra, las características críticas, el acabado y los registros requeridos antes de la aprobación. El nombre de un sector por sí solo no implica una certificación de proyecto ni un alcance de prueba general.
-
-#### Planificar la aprobación de muestras y repetir pedidos
-
-El muestreo típico, incluidas las herramientas, demora aproximadamente 10–15 días, sujeto a revisión y confirmación técnicas. Confirme la base del cronograma, la aceptación de la muestra y cualquier prueba de piezas acopladas en la cotización. Libere la producción repetida con respecto a la revisión aprobada y registre los cambios en el material, el tratamiento o la geometría en lugar de depender de una fotografía anterior.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -11667,7 +11683,7 @@ GUÍA DE INGENIERÍA
 
 Varios hombros pueden ubicar varios componentes. Un esquema de dimensiones claro explica qué distancias axiales controlan el montaje y cuáles son consecuencias de otras dimensiones.
 
-### Equipos de seguridad y acceso Sujetadores personalizados
+### Tornillos antimanipulación para equipos de seguridad y acceso
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/security-equipment/
 
 INTERFAZ DE CONDUCCIÓN Y ACCESO AL SERVICIO
@@ -11678,9 +11694,9 @@ Sujetadores de accionamiento especial y cabeza personalizada para paneles de acc
 
 Discute tu solicitud ↗ Vista general del sector
 
-#### Perfiles de conducción definidos
+#### Perfiles de accionamiento definidos
 
-Proporcione el hueco exacto y los requisitos de herramientas correspondientes, incluidos los detalles del pasador central cuando se utilicen.
+Defina el perfil exacto de la huella y la herramienta compatible, incluidos los detalles del tetón central cuando corresponda.
 
 #### Espacio libre de instalación real
 
@@ -11689,6 +11705,38 @@ Muestre la profundidad del hueco, las paredes circundantes y la envoltura de la 
 #### Superficie y apariencia
 
 Acuerde los requisitos de condición de cabeza visible, acabado y corrosión para el entorno de instalación.
+
+#### Diseñar para acceso restringido y mantenimiento autorizado
+
+Una huella especial puede disuadir la retirada casual y permitir el servicio previsto. Defina herramienta y acceso instalados y decida si el tornillo liberado debe quedar unido al panel.
+
+Diseñar para acceso restringido y mantenimiento autorizado Función en el conjunto Definir junto con las piezas acopladas Aceptación y siguiente revisión
+
+Restringir la interfaz de accionamiento Definir junto con las piezas acopladas Identifique perfil, acoplamiento útil y tetón central si existe. Especifique punta y portapuntas con la geometría final de cabeza.
+
+Tornillos de seguridad y antimanipulación ↗ Aceptación y siguiente revisión Compare la huella terminada con la herramienta identificada fuera de la carcasa y luego instalada. Distinga ajuste de herramienta y restricción de acceso.
+
+Operaciones secundarias y de precisión ↗
+
+Retener los elementos al mantener el panel Definir junto con las piezas acopladas Muestre espesor, retención, recorrido liberado y rosca acoplada. Identifique apertura y cables o componentes próximos.
+
+Tornillos cautivos ↗ Aceptación y siguiente revisión Compruebe retención tras soltar la rosca, espacio de apertura y reacoplamiento con la herramienta de servicio. Registre panel y retenedor aprobados.
+
+Limpieza, bloqueo y premontaje ↗
+
+Asentar una cabeza en un rebaje protector Definir junto con las piezas acopladas Indique profundidad, holgura lateral, apoyo y recubrimiento o junta en la cadena. Defina marcas visibles admisibles.
+
+Tornillos con brida a medida ↗ Aceptación y siguiente revisión Confirme asiento y acceso en piezas terminadas. Verifique el rendimiento de cerramiento exigido en el conjunto completo, aparte de las dimensiones del tornillo.
+
+Planificar pruebas funcionales y registros ↗
+
+##### Ejemplo de cambio: usar otra punta o portapuntas de servicio
+
+Conserve plano, referencia de huella e identidad de herramienta original al comparar un repuesto. Compruebe acoplamiento útil y envolvente del portapuntas en la carcasa real antes de aprobarlo. Registre revisión de herramienta con tornillo y panel, incluida la especificación de repuestos. La huella restringida no constituye un nivel de seguridad certificado ni un grado de protección del cerramiento.
+
+Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.
+
+Revisar juntos la huella y el acceso de la herramienta instalada ↗
 
 #### Estructuras de sujetadores relevantes
 
@@ -11707,22 +11755,6 @@ Los ejemplos describen los requisitos de la aplicación. La idoneidad del materi
 #### Prepare una especificación del proyecto más clara.
 
 Cómo especificar un tornillo a prueba de manipulaciones ↗ Cinco preguntas antes de especificar un tornillo cautivo ↗ Lista de verificación completa de RFQ ↗
-
-#### Traducir la aplicación a una especificación de sujetadores.
-
-Para equipos de seguridad y acceso, la primera tarea es conectar la geometría del sujetador con la interfaz del equipo. Perfiles de accionamiento definidos: proporcione el hueco exacto y los requisitos de herramientas correspondientes, incluidos los detalles del pasador central cuando se utilicen. Espacio libre de instalación real: muestra la profundidad del hueco, las paredes circundantes y la envoltura de la herramienta de servicio en estado ensamblado. Superficie y apariencia: Acuerde los requisitos de condición de cabeza visible, acabado y corrosión para el entorno de instalación. Explique el entorno y la secuencia de servicio junto con el dibujo de ingeniería para que la revisión aborde el componente instalado.
-
-Para una carcasa protegida, envíe tanto el plano técnico de los tornillos como el hueco de la carcasa. Una unidad a prueba de manipulaciones desalienta el acceso casual; el diseño general del control de acceso sigue siendo un requisito de montaje.
-
-#### Seleccione una ruta por las características funcionales.
-
-Las familias de productos relevantes incluyen tornillos de seguridad y resistentes a manipulaciones, tornillos de cabeza especial, tornillos cautivos y tornillos con brida personalizados. Estos son puntos de partida para una revisión de planos de ingeniería, no piezas intercambiables. Compare SUS304 y SUS316 acero inoxidable, acero al carbono y acero aleado con los requisitos mecánicos y ambientales reales.
-
-Analice el rumbo en frío de estaciones múltiples, las operaciones secundarias y de precisión, los revestimientos y los tratamientos de superficie como parte de la ruta completa. Identifique la cantidad de muestra, las características críticas, el acabado y los registros requeridos antes de la aprobación. El nombre de un sector por sí solo no implica una certificación de proyecto ni un alcance de prueba general.
-
-#### Planificar la aprobación de muestras y repetir pedidos
-
-El muestreo típico, incluidas las herramientas, demora aproximadamente 10–15 días, sujeto a revisión y confirmación técnicas. Confirme la base del cronograma, la aceptación de la muestra y cualquier prueba de piezas acopladas en la cotización. Libere la producción repetida con respecto a la revisión aprobada y registre los cambios en el material, el tratamiento o la geometría en lugar de depender de una fotografía anterior.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -11833,7 +11865,7 @@ GUÍA DE INGENIERÍA
 
 La limpieza se convierte en un requisito técnico cuando la contaminación puede afectar al conjunto. Defina qué es necesario eliminar, cómo se mide y cómo se protege la condición de limpieza.
 
-### Maquinaria y equipo general Sujetadores personalizados
+### Espárragos y fijaciones a medida para maquinaria
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/general-machinery/
 
 MONTAJE, VÍNCULOS Y JUNTAS PERSONALIZADAS
@@ -11856,6 +11888,38 @@ Defina la secuencia de instalación, la condición del material y la verificaci�
 
 Mantenga alineadas las revisiones de los planos de ingeniería, las decisiones de muestras, el alcance de la inspección y la identificación del envío.
 
+#### Elegir la unión según montaje y transmisión de carga
+
+Un espárrago entre piezas roscadas, una cabeza capturada en ranura y un componente articulado por pasador necesitan planos distintos. Empiece por interfaces y montaje antes de elegir proceso.
+
+Elegir la unión según montaje y transmisión de carga Función en el conjunto Definir junto con las piezas acopladas Aceptación y siguiente revisión
+
+Conectar interfaces de rosca distintas Definir junto con las piezas acopladas Identifique extremos A y B con sistema de rosca, paso, longitud útil y acoplamiento requerido. Muestre hombros o acceso de herramienta entre ellos.
+
+Espárragos de doble extremo a medida ↗ Aceptación y siguiente revisión Verifique cada extremo según su especificación tras el acabado pedido. Mantenga la identificación de extremos en inspección y montaje.
+
+Laminado, corte y roscado interior ↗
+
+Capturar una cabeza en una ranura de montaje Definir junto con las piezas acopladas Defina ranura y alojamiento reales, orientación de cabeza, apoyo e inserción. Incluya cadena completa de apriete y acceso de herramienta.
+
+Pernos para ranura en T a medida ↗ Aceptación y siguiente revisión Pruebe inserción y apriete en la ranura prevista. Confirme asiento y antigiro sin suponer que todas las ranuras de perfil tienen la misma sección.
+
+Estampación en frío multiestación ↗
+
+Unir un mecanismo articulado Definir junto con las piezas acopladas Muestre ojo u horquilla, pasador, espacio de articulación y dirección de carga. Defina acoplamiento de rosca y retención de la unión.
+
+Pernos de ojo y articulados a medida ↗ Aceptación y siguiente revisión Compruebe interfaz del pasador y movimiento y acuerde los ensayos de unión exigidos. Un ojo de articulación no es automáticamente un accesorio de elevación aprobado.
+
+Planificar pruebas funcionales y registros ↗
+
+##### Ejemplo de cambio: revisar un espárrago de roscas distintas
+
+Cambiar un extremo puede afectar identificación y montaje aunque el otro siga igual. Compare ambas piezas acopladas, posición del hombro, acceso y acabado final con el plano revisado. Liste qué calibres y controles por extremo deben cambiar y vincule la aprobación anterior a su revisión original. Acuerde el alcance de muestras antes de repetir cantidades.
+
+Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.
+
+Identificar e inspeccionar ambos extremos de un espárrago a medida ↗
+
 #### Estructuras de sujetadores relevantes
 
 Espárragos de doble extremo a medida ↗ Pernos de cabeza cuadrada a medida ↗ Pernos para ranura en T a medida ↗ Pernos de ojo y articulados a medida ↗
@@ -11873,22 +11937,6 @@ Los ejemplos describen los requisitos de la aplicación. La idoneidad del materi
 #### Prepare una especificación del proyecto más clara.
 
 Espárragos de doble extremo: prevención de errores de montaje con roscas mixtas ↗ Control de revisión de planos de ingeniería para pedidos repetidos de sujetadores personalizados ↗ Lista de verificación completa de RFQ ↗
-
-#### Traducir la aplicación a una especificación de sujetadores.
-
-Para maquinaria y equipos en general, la primera tarea es conectar la geometría del sujetador con la interfaz del equipo. Detalles de la conexión de acoplamiento: proporcione interfaces de rosca, ranuras de montaje o pasadores de conexión que determinen la geometría requerida. Requisitos de montaje y carga: Definir secuencia de instalación, condición del material y verificación requerida para la conexión completa. Coherencia en los pedidos repetidos: mantenga alineadas las revisiones de los planos de ingeniería, las decisiones sobre las muestras, el alcance de la inspección y la identificación del envío. Explique el entorno y la secuencia de servicio junto con el dibujo de ingeniería para que la revisión aborde el componente instalado.
-
-Para una conexión de rosca mixta, identifique el extremo A y el extremo B en el dibujo de ingeniería y el plan de inspección. Si la aplicación implica elevación, proporcione los requisitos de verificación y diseño aprobados por separado.
-
-#### Seleccione una ruta por las características funcionales.
-
-Las familias de productos relevantes incluyen pernos de doble extremo personalizados, pernos de cabeza cuadrada personalizados, pernos con ranura en T personalizados, pernos de ojo y articulación personalizados. Estos son puntos de partida para una revisión de planos de ingeniería, no piezas intercambiables. Compare el acero al carbono y aleado, el acero al boro 10B21, el acero inoxidable SUS304 y SUS316 con los requisitos mecánicos y ambientales reales.
-
-Analice el mecanizado y forjado en caliente, el laminado de roscas, el corte y roscado, la visión CCD y la inspección dimensional como parte de la ruta completa. Identifique la cantidad de muestra, las características críticas, el acabado y los registros requeridos antes de la aprobación. El nombre de un sector por sí solo no implica una certificación de proyecto ni un alcance de prueba general.
-
-#### Planificar la aprobación de muestras y repetir pedidos
-
-El muestreo típico, incluidas las herramientas, demora aproximadamente 10–15 días, sujeto a revisión y confirmación técnicas. Confirme la base del cronograma, la aceptación de la muestra y cualquier prueba de piezas acopladas en la cotización. Libere la producción repetida con respecto a la revisión aprobada y registre los cambios en el material, el tratamiento o la geometría en lugar de depender de una fotografía anterior.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
