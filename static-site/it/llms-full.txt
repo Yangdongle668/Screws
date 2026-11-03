@@ -186,17 +186,17 @@ Visita il blog tecnico ↗ APPALTI 3 LETTURA MIN
 
 Un preventivo utile richiede specifiche chiare. Il disegno è il punto di partenza migliore, ma campioni, schizzi o descrizioni del montaggio aiutano a chiarire i punti aperti.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Una guida pratica ai disegni delle viti con spallamento ↗
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Cinque domande prima di specificare una vite imperdibile ↗
 
-Una vite imperdibile fa parte di un sistema di ritenuta. Verificare pannello, elemento di ritenuta e filetto accoppiato prima di completare il disegno.
+Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -348,17 +348,17 @@ Tutti gli articoli ↗ APPALTI 3 LETTURA MIN
 
 Un preventivo utile richiede specifiche chiare. Il disegno è il punto di partenza migliore, ma campioni, schizzi o descrizioni del montaggio aiutano a chiarire i punti aperti.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Una guida pratica ai disegni delle viti con spallamento ↗
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Cinque domande prima di specificare una vite imperdibile ↗
 
-Una vite imperdibile fa parte di un sistema di ritenuta. Verificare pannello, elemento di ritenuta e filetto accoppiato prima di completare il disegno.
+Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.
 
 Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 
@@ -402,23 +402,23 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Come specificare un azionamento a vite antimanomissione ↗
 
-Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.
+Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗
 
-Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
+Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
@@ -430,7 +430,7 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
+Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
@@ -625,17 +625,17 @@ TUTTI GLI ARTICOLI APPALTI DESIGN E DIMENSIONI MATERIALI E FINITURE QUALITÀ PRO
 
 Un preventivo utile richiede specifiche chiare. Il disegno è il punto di partenza migliore, ma campioni, schizzi o descrizioni del montaggio aiutano a chiarire i punti aperti.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Una guida pratica ai disegni delle viti con spallamento ↗
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Cinque domande prima di specificare una vite imperdibile ↗
 
-Una vite imperdibile fa parte di un sistema di ritenuta. Verificare pannello, elemento di ritenuta e filetto accoppiato prima di completare il disegno.
+Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.
 
 Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 
@@ -679,23 +679,23 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Come specificare un azionamento a vite antimanomissione ↗
 
-Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.
+Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗
 
-Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
+Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
@@ -707,7 +707,7 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
+Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
@@ -1034,17 +1034,17 @@ Cerca tutti gli articoli 42 ↗ APPALTI 3 LETTURA MIN
 
 Un preventivo utile richiede specifiche chiare. Il disegno è il punto di partenza migliore, ma campioni, schizzi o descrizioni del montaggio aiutano a chiarire i punti aperti.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Una guida pratica ai disegni delle viti con spallamento ↗
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Cinque domande prima di specificare una vite imperdibile ↗
 
-Una vite imperdibile fa parte di un sistema di ritenuta. Verificare pannello, elemento di ritenuta e filetto accoppiato prima di completare il disegno.
+Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.
 
 Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 
@@ -1701,7 +1701,7 @@ DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Cinque domande prima di specificare una vite imperdibile ↗
 
-Una vite imperdibile fa parte di un sistema di ritenuta. Verificare pannello, elemento di ritenuta e filetto accoppiato prima di completare il disegno.
+Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -4400,17 +4400,23 @@ Di Theo Wan Leggi la guida tecnica →
 
 ### Una guida pratica ai disegni delle viti con spallamento
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/shoulder-screw-drawing-guide/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN E DIMENSIONI / 2 LETTURA MIN
+DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 ### Una guida pratica ai disegni delle viti con spallamento
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Viti a spallamento e a gradini
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Viti a spallamento e a gradini
 
-IN QUESTA GUIDA Definisci la spalla Mostra come finisce il thread Esaminare l'accesso della testa e i posti a sedere Comunicare le tolleranze funzionali Disegna la pila di assemblaggio, non solo la vite Scegli i riferimenti che corrispondono alla funzione di localizzazione Approvare la superficie finale fornita PRODOTTO CORRELATO Viti per spalla e gradino ↗
+IN QUESTA GUIDA Definisci la spalla Mostra come finisce il thread Esaminare l'accesso della testa e i posti a sedere Comunicare le tolleranze funzionali Disegna la pila di assemblaggio, non solo la vite Scegli i riferimenti che corrispondono alla funzione di localizzazione Approvare la superficie finale fornita Esempio: calcolare separatamente il gioco diametrale PRODOTTO CORRELATO Viti per spalla e gradino ↗
+
+#### Trasformare i limiti dei diametri in una verifica documentata
+
+Solo esempio di verifica. Dati e criteri appartengono al disegno reale; non si dichiara un risultato di prova cliente o una prestazione universale.
+
+Gioco diametrale minimo 8.010 − 8.005 = 0.005 mm, con foro minimo e gambo massimo. Gioco diametrale massimo 8.030 − 7.995 = 0.035 mm, con foro massimo e gambo minimo. Interfacce dello spallamento ed esempio separato di gioco assiale ↗
 
 #### Definisci la spalla
 
@@ -4441,6 +4447,10 @@ Identificare l'asse e la faccia che posizionano la parte in servizio. Decidere s
 #### Approvare la superficie finale fornita
 
 Il trattamento e il rivestimento possono modificare la condizione utilizzata per accettare la spalla. Indicare i limiti finali e la copertura del rivestimento sulla superficie funzionale. Il registro dell'ispezione dovrebbe distinguere la misurazione della spalla dalla misurazione della filettatura. Una filettatura corretta non stabilisce che il perno si adatti, e una sagoma esterna corretta non stabilisce rugosità superficiale.
+
+#### Esempio: calcolare separatamente il gioco diametrale
+
+Si assumano un diametro finito dello spallamento di 8.000 ± 0.005 mm e un foro accoppiato di 8.020 ± 0.010 mm. Confrontare il foro minimo con il gambo massimo, poi il foro massimo con il gambo minimo. L’intervallo 0.005–0.035 mm è gioco diametrale, non radiale né assiale. Questi dati illustrativi non definiscono un accoppiamento normalizzato o limiti operativi approvati. Il progettista deve ancora stabilire intervallo funzionale, temperatura di riferimento, relazioni geometriche e superficie finale.
 
 Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione della richiesta di offerta , quindi invia il tuo disegno tecnico per la revisione . Per i requisiti di accettazione cfr pianificazione della qualità .
 
@@ -4496,17 +4506,23 @@ Componenti filettati personalizzati per staffe, moduli di equipaggiamento e altr
 
 ### Cinque domande prima di specificare una vite imperdibile
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/captive-screw-design-questions/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 ### Cinque domande prima di specificare una vite imperdibile
 
-Una vite imperdibile fa parte di un sistema di ritenuta. Verificare pannello, elemento di ritenuta e filetto accoppiato prima di completare il disegno.
+Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Viti imperdibili
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Viti imperdibili
 
-IN QUESTA GUIDA Cosa trattiene la vite? Quanto movimento è necessario? Cosa succede durante il servizio? Come verrà verificato l'assemblaggio? Cosa dovrebbe accompagnare la richiesta di offerta? PRODOTTO CORRELATO Viti imperdibili ↗
+IN QUESTA GUIDA Cosa trattiene la vite? Quanto movimento è necessario? Cosa succede durante il servizio? Come verrà verificato l'assemblaggio? Cosa dovrebbe accompagnare la richiesta di offerta? Esempio: aprire un pannello di servizio senza perdere la vite PRODOTTO CORRELATO Viti imperdibili ↗
+
+#### Registrare entrambe le posizioni di servizio nell’approvazione
+
+Solo esempio di verifica. Dati e criteri appartengono al disegno reale; non si dichiara un risultato di prova cliente o una prestazione universale.
+
+Schema dell’assieme da fornire Spessore e foro del pannello, ritegno, posizioni aperta e serrata, impegno del filetto e ostacoli vicini. Verifica dei campioni da concordare Identificare revisioni di pannello, ritegno e vite; registrare ritenzione, spazio di rilascio e rimontaggio con criteri distinti. Schema dell’interfaccia della vite imperdibile aperta e serrata ↗
 
 #### Cosa trattiene la vite?
 
@@ -4530,6 +4546,10 @@ Definisci i criteri di conservazione e accettazione funzionale con il tuo team d
 
 Includere il disegno tecnico della vite, l'assemblaggio di accoppiamento, la quantità ed eventuali foto di esempio. I dettagli sulla conservazione non risolti possono essere esaminati prima che venga emesso un preventivo finale.
 
+#### Esempio: aprire un pannello di servizio senza perdere la vite
+
+Per un esercizio di progettazione di un pannello, partire dalla sequenza di montaggio. Mostrare installazione di vite e ritegno, elemento che impedisce la fuoriuscita e posizione serrata. Verificare che la corsa libera disimpegni la filettatura e consenta l’apertura. Poi controllare che gli elementi trattenuti non ostacolino l’appoggio o riducano l’impegno richiesto. Registrare ritegno e apertura/rimontaggio come controlli separati con revisioni identificate di pannello e fermo.
+
 Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione della richiesta di offerta , quindi invia il tuo disegno tecnico per la revisione . Per i requisiti di accettazione cfr pianificazione della qualità .
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
@@ -4538,11 +4558,11 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 #### Continua a esplorare
 
-DESIGN E DIMENSIONI 2 LETTURA MIN
+DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Una guida pratica ai disegni delle viti con spallamento ↗
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
@@ -4550,11 +4570,11 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Come specificare un azionamento a vite antimanomissione ↗
 
-Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.
+Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -4820,11 +4840,11 @@ QUALITÀ 3 LETTURA MIN
 
 L'ispezione dimensionale basata su telecamera può valutare le caratteristiche visibili di una vite, ma il programma di immagine, configurazione e ispezione deve soddisfare i requisiti. È una parte di un piano di accettazione completo.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Una guida pratica ai disegni delle viti con spallamento ↗
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
 Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 
@@ -5176,11 +5196,11 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 #### Continua a esplorare
 
-DESIGN E DIMENSIONI 2 LETTURA MIN
+DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Una guida pratica ai disegni delle viti con spallamento ↗
 
-Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.
+Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
 Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 
@@ -5230,17 +5250,23 @@ Componenti filettati personalizzati per staffe, moduli di equipaggiamento e altr
 
 ### Come specificare un azionamento a vite antimanomissione
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/specifying-security-screw-drive/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN E DIMENSIONI / 2 LETTURA MIN
+DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 ### Come specificare un azionamento a vite antimanomissione
 
-Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.
+Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Stampaggio a freddo multistazione
 
-IN QUESTA GUIDA Identificare l'interfaccia esatta Definire l'accesso alla testa e all'utensile Esaminare le caratteristiche di perni e rientranze Separare la resistenza di accesso dalle prestazioni del giunto PRODOTTO CORRELATO Viti di sicurezza antimanomissione ↗
+IN QUESTA GUIDA Identificare l'interfaccia esatta Definire l'accesso alla testa e all'utensile Esaminare le caratteristiche di perni e rientranze Separare la resistenza di accesso dalle prestazioni del giunto Esempio: distinguere adattamento dell’utensile e accessibilità PRODOTTO CORRELATO Viti di sicurezza antimanomissione ↗
+
+#### Identificare l’interfaccia da correggere
+
+Solo esempio di verifica. Dati e criteri appartengono al disegno reale; non si dichiara un risultato di prova cliente o una prestazione universale.
+
+Registro di utensile e pezzo libero Riferimento dell’impronta, identificativo dell’inserto, spazio del perno e impegno utile sul campione finito. Registro dell’accesso nel montaggio Revisione dell’involucro, portautensile e ingombro d’approccio, impedimento d’accesso e modifica proposta del disegno. Schema di impronta di sicurezza e accesso dell’utensile montato ↗
 
 #### Identificare l'interfaccia esatta
 
@@ -5259,6 +5285,10 @@ Per un'unità con perno centrale, includere la geometria del perno, la profondit
 #### Separare la resistenza di accesso dalle prestazioni del giunto
 
 Una guida speciale può scoraggiare la rimozione casuale, ma non rende impossibile l'apertura di un giunto. Il materiale, l'impegno della filettatura nella parte di accoppiamento e il metodo di serraggio determinano ancora la connessione meccanica. Definire in modo indipendente l'accesso per la manutenzione, i requisiti di coppia di installazione e la disposizione di controllo dell'utensile prevista.
+
+#### Esempio: distinguere adattamento dell’utensile e accessibilità
+
+Considerare una vite con perno centrale in un coperchio incassato. Confrontare prima l’impronta finita con l’inserto di servizio identificato fuori dall’involucro. Verificare poi lo stesso inserto montato, con portainserto e spazio d’approccio. Se funziona fuori ma è impedito dentro, valutare l’accesso prima di cambiare il profilo. Se non si inserisce in nessuna posizione, verificare insieme impronta, perno, inserto e finitura. Registrare l’interfaccia modificata e ripetere il controllo interessato con lo stesso riferimento utensile.
 
 #### Esempio di specifica
 
@@ -5328,17 +5358,23 @@ Componenti filettati personalizzati per staffe, moduli di equipaggiamento e altr
 
 ### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/hollow-screw-bore-specification/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN E DIMENSIONI / 2 LETTURA MIN
+DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 ### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere
 
-Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
+Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Tornitura a fantina mobile e CNC
 
-IN QUESTA GUIDA Descrivi l'intero passaggio Rivedere lo spessore della parete con la filettatura Requisiti di bordo e pulizia dello stato Definire i test funzionali separatamente PRODOTTO CORRELATO Viti cave e con foro passante ↗
+IN QUESTA GUIDA Descrivi l'intero passaggio Rivedere lo spessore della parete con la filettatura Requisiti di bordo e pulizia dello stato Definire i test funzionali separatamente Esempio: includere il disassamento nel calcolo della parete PRODOTTO CORRELATO Viti cave e con foro passante ↗
+
+#### Registrare la sezione limite e l’accesso al controllo
+
+Solo esempio di verifica. Dati e criteri appartengono al disegno reale; non si dichiara un risultato di prova cliente o una prestazione universale.
+
+Risultato della sezione 1.30 mm è la parete residua calcolata per i dati didattici indicati, non una raccomandazione di parete sicura né una pressione nominale. Valutazione separata dei bordi interni Identificare il foro intersecante, il requisito sulle bave, la fase di sbavatura e un controllo adatto prima che il montaggio limiti l’accesso. Esame della sezione e del passaggio della vite cava ↗
 
 #### Descrivi l'intero passaggio
 
@@ -5357,6 +5393,10 @@ La perforazione può lasciare bave alle uscite e alle intersezioni dei fori. Spe
 #### Definire i test funzionali separatamente
 
 Un foro continuo non dimostra di per sé la capacità di pressione, la tenuta alle perdite o il flusso senza restrizioni in un assieme. Indicare qualsiasi mezzo di prova, disposizione dei dispositivi e metodo di accettazione richiesti dalla domanda. Queste condizioni dovrebbero essere concordate prima del campionamento in modo che la produzione e l'ispezione possano essere quotate insieme.
+
+#### Esempio: includere il disassamento nel calcolo della parete
+
+Per una sezione circolare illustrativa, assumere un diametro limite inferiore dell’inviluppo al fondo del filetto di 6.00 mm, un diametro limite superiore del foro di 3.00 mm e un disassamento radiale massimo del centro del foro di 0.20 mm. La parete residua minima in quella sezione è (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Il disassamento è qui una distanza radiale, non un’indicazione diametrale di tolleranza di posizione. Il calcolo non comprende intersezioni con fori trasversali, altre sezioni locali o capacità di carico. Ricavare i dati effettivi dalla geometria controllata e dai relativi limiti di tolleranza.
 
 #### Esempio di specifica
 
@@ -5432,17 +5472,23 @@ elementi di fissaggio definiti dal disegno tecnico per alloggiamenti compatti, m
 
 ### Progettazione della superficie portante di una vite flangiata personalizzata
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/custom-flange-bearing-face/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 ### Progettazione della superficie portante di una vite flangiata personalizzata
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Stampaggio a freddo multistazione
 
-IN QUESTA GUIDA Inizia con la superficie di accoppiamento Dimensionare la flangia come elemento funzionale Scegli deliberatamente la condizione del viso Includere le condizioni di finitura e serraggio PRODOTTO CORRELATO Viti flangiate su disegno ↗
+IN QUESTA GUIDA Inizia con la superficie di accoppiamento Dimensionare la flangia come elemento funzionale Scegli deliberatamente la condizione del viso Includere le condizioni di finitura e serraggio Esempio: confrontare flangia integrata e assieme con rondella PRODOTTO CORRELATO Viti flangiate su disegno ↗
+
+#### Separare dati invariati e modifica proposta
+
+Solo esempio di verifica. Dati e criteri appartengono al disegno reale; non si dichiara un risultato di prova cliente o una prestazione universale.
+
+Mantenere la base del confronto Revisioni di staffa e asola, materiale accoppiato, rivestimento, montaggio e criteri di accettazione concordati. Confrontare le due disposizioni Impronta sostenuta, spazio del raccordo, contributo della rondella alla lunghezza serrata, impegno e segni dopo la sequenza di servizio concordata. Schema di flangia liscia, dentata e rondella separata ↗
 
 #### Inizia con la superficie di accoppiamento
 
@@ -5461,6 +5507,10 @@ Le facce dei cuscinetti lisce, ruvide e seghettate non sono intercambiabili. Una
 #### Includere le condizioni di finitura e serraggio
 
 Lo spessore del rivestimento e l'attrito possono influenzare il giunto assemblato. Trattare la superficie della flangia e le filettature come superfici specifiche, non semplicemente come parti di un requisito di colore complessivo. Qualsiasi confronto con un assieme di rondelle dovrebbe considerare il giunto completo piuttosto che il numero di componenti manipolati.
+
+#### Esempio: confrontare flangia integrata e assieme con rondella
+
+Per una staffa rivestita con asola, confrontare la disposizione esistente testa-rondella con la flangia integrata proposta sulla stessa revisione del disegno. Identificare la superficie di sostegno attorno all’asola e le zone da lasciare libere. Valutare sporgenza di flangia o rondella, raccordo sottotesta e segni ammissibili sul rivestimento. Considerare lo spessore della rondella nel confronto di lunghezza serrata e impegno utile. Esplicitare montaggio e criteri di accettazione: meno componenti separati non dimostrano equivalenza d’appoggio o di forza di serraggio residua.
 
 #### Esempio di specifica
 
@@ -5596,17 +5646,17 @@ DESIGN E DIMENSIONI 2 LETTURA MIN
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗
 
-Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
+Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
 Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
+Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -5640,17 +5690,17 @@ Elementi di fissaggio a spalla, gradino e regolazione per meccanismi guidati, st
 
 ### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/blog/set-screw-tip-selection/
-Last modified: 2026-11-02
+Last modified: 2026-11-03
 
 DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 ### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio
 
-Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
+Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 · Aggiornato 2026-11-02 Tornitura a fantina mobile e CNC
+Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Tornitura a fantina mobile e CNC
 
-IN QUESTA GUIDA Scegli prima il meccanismo di contatto Lavora attraverso un esempio di arresto regolabile Posizione separata dal bloccaggio per attrito Rilascia un punto e un piano di verifica PRODOTTO CORRELATO Viti di fermo e grani personalizzati ↗
+IN QUESTA GUIDA Scegli prima il meccanismo di contatto Lavora attraverso un esempio di arresto regolabile Posizione separata dal bloccaggio per attrito Rilascia un punto e un piano di verifica Preparare un verbale di accettazione delle regolazioni ripetute PRODOTTO CORRELATO Viti di fermo e grani personalizzati ↗
 
 #### Confronto tra quattro modalità di contatto
 
@@ -5670,6 +5720,12 @@ Confronta prima il meccanismo di contatto; confermare la capacità e l'installaz
 
 Scarica il foglio di lavoro per la selezione dei punti (inglese)
 
+#### Rendere ripetibile la prova di regolazione
+
+Solo esempio di verifica. Dati e criteri appartengono al disegno reale; non si dichiara un risultato di prova cliente o una prestazione universale.
+
+Prima della prova Disegni di punta e pattino, segni ammessi, corsa e criterio concordato per il mantenimento della regolazione. Dopo la sequenza di servizio Posizioni iniziale e di ritorno, stato del contatto ed esito per criterio; identificare revisioni di punta, pattino e disegno. Forme di contatto del grano nell’assieme ↗
+
 #### Scegli prima il meccanismo di contatto
 
 La forma dell’estremità descrive la geometria, non la capacità di tenuta del collegamento montato. Selezionare prima la modalità di contatto usando la tabella, poi indicare materiale e durezza del componente accoppiato, piano, sede o foro predisposti e sequenza di regolazione e smontaggio. Un’estremità piana può essere valutata quando non si desidera uno spigolo penetrante, ma non garantisce assenza di impronte. Cono e coppa possono incidere la superficie; il codolo cilindrico richiede un foro o una cava definiti.
@@ -5687,6 +5743,10 @@ Quando il codolo cilindrico entra in un foro, indicarne sporgenza e profondità 
 #### Rilascia un punto e un piano di verifica
 
 Definire nel disegno controllato filettatura, accesso dell’utensile, lunghezza totale, dimensioni dell’estremità, stato finale del materiale e trattamento superficiale. Concordare le condizioni di montaggio e una prova funzionale con un componente accoppiato rappresentativo. Registrare le impronte ammesse e il comportamento dopo la sequenza di regolazione o manutenzione richiesta. Non vengono indicati valori universali di coppia o forza di tenuta, che dipendono dal collegamento reale.
+
+#### Preparare un verbale di accettazione delle regolazioni ripetute
+
+Per l’esercizio dell’arresto di attrezzatura, definire prima della prova posizione iniziale, segno ammesso e sequenza di regolazione/servizio. Controllare il contatto alle estremità della corsa e dopo il ritorno iniziale. Distinguere valutazione visiva, misura dimensionale e osservazione funzionale. Se cambiano pattino o geometria della punta, confrontare con gli stessi criteri senza riutilizzare il risultato precedente. Si ottiene un verbale di accettazione, non una coppia universale o una forza di tenuta generale.
 
 #### Esempio di specifica
 
@@ -5826,11 +5886,11 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Come specificare un azionamento a vite antimanomissione ↗
 
-Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.
+Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -6010,11 +6070,11 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 Una vite regolata manualmente deve essere accessibile, comoda da impugnare e compatibile con la regolazione richiesta. La struttura della testa da sola non definisce il funzionamento del meccanismo.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Come specificare un azionamento a vite antimanomissione ↗
 
-Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.
+Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -6266,7 +6326,7 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Cono, piatto, a cane o a tazza: la scelta della punta con vite di fissaggio ↗
 
-Scegliere un punto di fissaggio in base al contatto con il componente di accoppiamento: contatto a faccia larga, penetrazione, estensione di posizionamento o bordo mordente. Iniziare con il danno superficiale consentito, la frequenza di regolazione e la ritenzione richiesta, quindi definire insieme il punto e la sua caratteristica di accoppiamento.
+Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -6722,11 +6782,11 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
-Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
+Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Come specificare un azionamento a vite antimanomissione ↗
 
-Il nome di un'unità di sicurezza è un punto di partenza, non una specifica di interfaccia completa. La rientranza, lo strumento di corrispondenza e l'accesso disponibile per il montaggio devono funzionare insieme.
+Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -7174,7 +7234,7 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 Di Theo Wan Leggi la guida tecnica → APPALTI 2 LETTURA MIN
 
@@ -7268,11 +7328,11 @@ TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione
 
 #### Continua a esplorare
 
-DESIGN E DIMENSIONI 2 LETTURA MIN
+DESIGN E DIMENSIONI 3 LETTURA MIN
 
 ##### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗
 
-Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
+Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
 Di Theo Wan Leggi la guida tecnica → QUALITÀ 2 LETTURA MIN
 
@@ -7468,7 +7528,7 @@ Di Theo Wan Leggi la guida tecnica → DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 Di Theo Wan Leggi la guida tecnica →
 
@@ -7962,7 +8022,7 @@ DESIGN E DIMENSIONI 2 LETTURA MIN
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 Di Theo Wan Leggi la guida tecnica → MATERIALI E FINITURE 2 LETTURA MIN
 
@@ -11245,7 +11305,7 @@ GUIDA INGEGNERIA
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 GUIDA INGEGNERIA
 
@@ -11407,7 +11467,7 @@ GUIDA INGEGNERIA
 
 ##### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗
 
-Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
+Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
 ### Apparecchiature per l'energia, la ricarica e lo stoccaggio Elementi di fissaggio personalizzati
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/energy-equipment/
@@ -11476,13 +11536,13 @@ GUIDA INGEGNERIA
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 GUIDA INGEGNERIA
 
 ##### Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗
 
-Un foro assiale modifica sia la produzione che l'ispezione. Un'utile specificazione della vite cava spiega il passaggio, la parete circostante e le condizioni all'interno del foro.
+Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
 ### Stampi, attrezzature e dispositivi di prova Elementi di fissaggio personalizzati
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/molds-fixtures/
@@ -11626,7 +11686,7 @@ GUIDA INGEGNERIA
 
 ##### Progettazione della superficie portante di una vite flangiata personalizzata ↗
 
-Una flangia è più di un cerchio più grande sotto la testa. La superficie di appoggio, la rigidità e il gioco devono corrispondere al componente da bloccare.
+Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
 GUIDA INGEGNERIA
 

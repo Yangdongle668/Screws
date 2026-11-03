@@ -186,17 +186,17 @@ Besuchen Sie den technischen Blog ↗ BESCHAFFUNG 3 MIN. LESEN
 
 Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
+Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -348,17 +348,17 @@ Alle Artikel ↗ BESCHAFFUNG 3 MIN. LESEN
 
 Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
+Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -402,23 +402,23 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗
 
-Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.
+Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
 
-Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
+Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Entwerfen der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
@@ -430,7 +430,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN.
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
+Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
@@ -625,17 +625,17 @@ ALLE ARTIKEL BESCHAFFUNG DESIGN & ABMESSUNGEN MATERIALIEN & AUSFÜHRUNGEN QUALIT
 
 Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
+Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -679,23 +679,23 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗
 
-Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.
+Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
 
-Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
+Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Entwerfen der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
@@ -707,7 +707,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN.
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
+Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
@@ -1034,17 +1034,17 @@ Alle 42 Artikel ↗ durchsuchen BESCHAFFUNG 3 MIN. LESEN
 
 Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
+Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -1701,7 +1701,7 @@ DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
+Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -4400,17 +4400,23 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 ### Ein praktischer Leitfaden für Schulterschraubenzeichnungen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/shoulder-screw-drawing-guide/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
+DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 ### Ein praktischer Leitfaden für Schulterschraubenzeichnungen
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Schulter- und Passschrauben
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Schulter- und Passschrauben
 
-IN DIESEM HANDBUCH Definieren Sie die Schulter Zeigen Sie, wie der Gewinde endet Überprüfen Sie den Zugang zum Kopf und die Sitzgelegenheiten Funktionstoleranzen kommunizieren Zeichnen Sie den Baugruppenstapel, nicht nur die Schraube Wählen Sie Bezugspunkte, die zur Ortungsfunktion passen Genehmigen Sie die endgültig gelieferte Oberfläche VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
+IN DIESEM HANDBUCH Definieren Sie die Schulter Zeigen Sie, wie der Gewinde endet Überprüfen Sie den Zugang zum Kopf und die Sitzgelegenheiten Funktionstoleranzen kommunizieren Zeichnen Sie den Baugruppenstapel, nicht nur die Schraube Wählen Sie Bezugspunkte, die zur Ortungsfunktion passen Genehmigen Sie die endgültig gelieferte Oberfläche Rechenbeispiel: Durchmesserspiel getrennt bestimmen VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
+
+#### Aus Durchmessergrenzen einen Prüfnachweis ableiten
+
+Nur ein durchgerechnetes Prüfbeispiel. Eingaben und Abnahmekriterien stammen aus der tatsächlichen Zeichnung; kein Kundenprüfergebnis und keine allgemeingültige Leistungszusage.
+
+Kleinstes Durchmesserspiel 8.010 − 8.005 = 0.005 mm aus kleinster Bohrung und größter Schulter. Größtes Durchmesserspiel 8.030 − 7.995 = 0.035 mm aus größter Bohrung und kleinster Schulter. Schulterschnittstellen und separates Axialspiel-Beispiel ↗
 
 #### Definieren Sie die Schulter
 
@@ -4441,6 +4447,10 @@ Identifizieren Sie die Achse und die Fläche, an denen sich das Teil im Einsatz 
 #### Genehmigen Sie die endgültig gelieferte Oberfläche
 
 Durch Behandlung und Beschichtung kann sich der Zustand der Schulter verändern. Endgültige Grenzwerte und Beschichtungsauftrag auf der Funktionsfläche angeben. Im Inspektionsprotokoll sollte zwischen Schultermessung und Gewindemessung unterschieden werden. Ein korrektes Gewinde stellt nicht sicher, dass der Drehzapfen passt, und eine korrekte äußere Silhouette stellt keine Oberflächenrauheit dar.
+
+#### Rechenbeispiel: Durchmesserspiel getrennt bestimmen
+
+Angenommen werden ein fertiger Schulterdurchmesser von 8.000 ± 0.005 mm und eine Gegenbohrung von 8.020 ± 0.010 mm. Vergleichen Sie die kleinste Bohrung mit der größten Schulter und anschließend die größte Bohrung mit der kleinsten Schulter. Der Bereich 0.005–0.035 mm ist Durchmesserspiel, weder Radialspiel noch Axialspalt. Diese Beispielwerte legen keine Normpassung oder freigegebenen Betriebsgrenzen fest. Konstruktion und Anwendung bestimmen weiterhin Funktionsbereich, Temperaturbasis, Bezugsbeziehungen und Endoberfläche.
 
 Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-Vorbereitung , dann Senden Sie Ihre Konstruktionszeichnung zur Überprüfung . Zu den Akzeptanzvoraussetzungen siehe Qualitätsplanung .
 
@@ -4496,17 +4506,23 @@ Kundenspezifische Gewindekomponenten für Halterungen, Gerätemodule und andere 
 
 ### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/captive-screw-design-questions/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 ### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube
 
-Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
+Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Unverlierbare Schrauben
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Unverlierbare Schrauben
 
-IN DIESEM HANDBUCH Was hält die Schraube? Wie viel Bewegung ist nötig? Was passiert während des Gottesdienstes? Wie wird die Montage überprüft? Was sollte der Ausschreibung beiliegen? VERWANDTES PRODUKT Unverlierbare Schrauben ↗
+IN DIESEM HANDBUCH Was hält die Schraube? Wie viel Bewegung ist nötig? Was passiert während des Gottesdienstes? Wie wird die Montage überprüft? Was sollte der Ausschreibung beiliegen? Prüfbeispiel: Wartungsplatte öffnen, ohne die Schraube zu verlieren VERWANDTES PRODUKT Unverlierbare Schrauben ↗
+
+#### Beide Wartungsstellungen im Freigabenachweis festhalten
+
+Nur ein durchgerechnetes Prüfbeispiel. Eingaben und Abnahmekriterien stammen aus der tatsächlichen Zeichnung; kein Kundenprüfergebnis und keine allgemeingültige Leistungszusage.
+
+Bereitzustellende Baugruppenskizze Plattendicke und Bohrung, Halteelement, offene und angezogene Lage, Gewindeeingriff und benachbarte Hindernisse. Zu vereinbarende Musterprüfung Stand von Platte, Halteelement und Schraube benennen; Halten, Freigang und Wiedermontage nach getrennten Kriterien dokumentieren. Schnittstellenskizze der gelösten und angezogenen unverlierbaren Schraube ↗
 
 #### Was hält die Schraube?
 
@@ -4530,6 +4546,10 @@ Definieren Sie mit Ihrem Engineering-Team Aufbewahrungs- und funktionale Akzepta
 
 Fügen Sie die Schraubenkonstruktionszeichnung, die passende Baugruppe, die Menge und etwaige Beispielfotos bei. Ungeklärte Aufbewahrungsdetails können überprüft werden, bevor ein endgültiges Angebot erstellt wird.
 
+#### Prüfbeispiel: Wartungsplatte öffnen, ohne die Schraube zu verlieren
+
+Beginnen Sie bei einer Wartungsplatten-Studie mit der Montagereihenfolge. Zeigen Sie Einbau von Schraube und Halteelement, die Sicherung gegen Herausfallen und die angezogene Lage. Prüfen Sie, ob der verfügbare Lösehub das Gegengewinde freigibt und die Platte öffnen lässt. Danach prüfen, ob die gehaltenen Teile die Anlage behindern oder den erforderlichen Eingriff verkürzen. Haltefunktion und Öffnen/Wiedermontieren als getrennte Prüfungen mit eindeutigem Platten- und Halteelementstand dokumentieren.
+
 Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-Vorbereitung , dann Senden Sie Ihre Konstruktionszeichnung zur Überprüfung . Zu den Akzeptanzvoraussetzungen siehe Qualitätsplanung .
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
@@ -4538,11 +4558,11 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 #### Erkunden Sie weiter
 
-DESIGN & ABMESSUNGEN 2 MIN. LESEN
+DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
@@ -4550,11 +4570,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗
 
-Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.
+Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -4820,11 +4840,11 @@ QUALITÄT 3 MIN. LESEN
 
 Mit der kamerabasierten Maßprüfung können sichtbare Merkmale einer Schraube beurteilt werden, allerdings müssen Bild, Einrichtung und Prüfprogramm zur Anforderung passen. Es ist Teil eines vollständigen Akzeptanzplans.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -5176,11 +5196,11 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 #### Erkunden Sie weiter
 
-DESIGN & ABMESSUNGEN 2 MIN. LESEN
+DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
+Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -5230,17 +5250,23 @@ Kundenspezifische Gewindekomponenten für Halterungen, Gerätemodule und andere 
 
 ### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/specifying-security-screw-drive/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
+DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 ### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb
 
-Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.
+Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Mehrstufen-Kaltstauchen
 
-IN DIESEM HANDBUCH Identifizieren Sie die genaue Schnittstelle Definieren Sie den Kopf- und Werkzeugzugriff Überprüfen Sie die Stift- und Aussparungsfunktionen Trennen Sie den Zugriffswiderstand von der gemeinsamen Leistung VERWANDTES PRODUKT Sicherheits- und manipulationshemmende Schrauben ↗
+IN DIESEM HANDBUCH Identifizieren Sie die genaue Schnittstelle Definieren Sie den Kopf- und Werkzeugzugriff Überprüfen Sie die Stift- und Aussparungsfunktionen Trennen Sie den Zugriffswiderstand von der gemeinsamen Leistung Prüfbeispiel: Werkzeugpassung von Zugangsproblemen unterscheiden VERWANDTES PRODUKT Sicherheits- und manipulationshemmende Schrauben ↗
+
+#### Zu korrigierende Schnittstelle bestimmen
+
+Nur ein durchgerechnetes Prüfbeispiel. Eingaben und Abnahmekriterien stammen aus der tatsächlichen Zeichnung; kein Kundenprüfergebnis und keine allgemeingültige Leistungszusage.
+
+Werkzeug- und Lose-Teile-Nachweis Antriebsreferenz, Bitkennung, Stiftfreiraum und nutzbarer Eingriff am fertigen Muster. Nachweis des Einbauzugangs Gehäusestand, Werkzeughalter und Ansatzraum, Zugangshindernis und vorgeschlagene Zeichnungsänderung. Skizze zu Sicherheitsantrieb und Werkzeugzugang im Einbau ↗
 
 #### Identifizieren Sie die genaue Schnittstelle
 
@@ -5259,6 +5285,10 @@ Berücksichtigen Sie bei einem Mittelstiftantrieb die Stiftgeometrie, die Tiefe 
 #### Trennen Sie den Zugriffswiderstand von der gemeinsamen Leistung
 
 Ein spezieller Antrieb kann ein versehentliches Entfernen verhindern, macht das Öffnen einer Verbindung jedoch nicht unmöglich. Material, Gewindeeingriff im Gegenstück und die Anzugsart bestimmen weiterhin die mechanische Verbindung. Definieren Sie den Wartungszugang, die Anforderungen an das Installationsdrehmoment und die vorgesehene Werkzeugsteuerungsanordnung unabhängig voneinander.
+
+#### Prüfbeispiel: Werkzeugpassung von Zugangsproblemen unterscheiden
+
+Betrachten Sie eine Schraube mit Mittelstift in einem versenkten Deckel. Vergleichen Sie zuerst die fertige Vertiefung außerhalb des Gehäuses mit dem benannten Wartungsbit. Prüfen Sie anschließend denselben Bit in Einbaulage, einschließlich Halter und Ansatzraum. Passt er außen, wird innen aber behindert, ist zunächst der Zugangsraum statt des Antriebsprofils zu prüfen. Sitzt er in keiner Lage, Vertiefung, Stift, Bit und Endoberfläche gemeinsam prüfen. Geänderte Schnittstelle dokumentieren und die betroffene Prüfung mit derselben kontrollierten Werkzeugreferenz wiederholen.
 
 #### Spezifikationsbeispiel
 
@@ -5328,17 +5358,23 @@ Kundenspezifische Gewindekomponenten für Halterungen, Gerätemodule und andere 
 
 ### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/hollow-screw-bore-specification/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
+DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 ### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte
 
-Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
+Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Langdrehen und CNC-Drehen
 
-IN DIESEM HANDBUCH Beschreiben Sie die gesamte Passage Überprüfen Sie die Wandstärke mit dem Gewinde Staatliche Rand- und Sauberkeitsanforderungen Definieren Sie Funktionstests separat VERWANDTES PRODUKT Hohlschrauben und Schrauben mit Durchgangsbohrung ↗
+IN DIESEM HANDBUCH Beschreiben Sie die gesamte Passage Überprüfen Sie die Wandstärke mit dem Gewinde Staatliche Rand- und Sauberkeitsanforderungen Definieren Sie Funktionstests separat Rechenbeispiel: Bohrungsversatz bei der Restwand berücksichtigen VERWANDTES PRODUKT Hohlschrauben und Schrauben mit Durchgangsbohrung ↗
+
+#### Grenzquerschnitt und Prüfzugang dokumentieren
+
+Nur ein durchgerechnetes Prüfbeispiel. Eingaben und Abnahmekriterien stammen aus der tatsächlichen Zeichnung; kein Kundenprüfergebnis und keine allgemeingültige Leistungszusage.
+
+Querschnittsergebnis 1.30 mm ist die berechnete Restwand für die genannten Lehrwerte, keine Empfehlung einer sicheren Wanddicke oder Druckfreigabe. Innenkanten gesondert bewerten Sich kreuzende Bohrung, Gratforderung, Entgratungsstufe und geeignete Prüfung vor zugangsbeschränkender Montage benennen. Querschnitt und Kanalführung der Hohlschraube prüfen ↗
 
 #### Beschreiben Sie die gesamte Passage
 
@@ -5357,6 +5393,10 @@ Beim Bohren können an Lochausgängen und -kreuzungen Grate entstehen. Geben Sie
 #### Definieren Sie Funktionstests separat
 
 Eine durchgehende Bohrung allein beweist nicht die Druckfestigkeit, Dichtheit oder den uneingeschränkten Durchfluss in einer Baugruppe. Geben Sie alle Testmedien, Vorrichtungsanordnungen und Akzeptanzmethoden an, die für die Anwendung erforderlich sind. Diese Bedingungen sollten vor der Probenahme vereinbart werden, damit Herstellung und Inspektion zusammen angeboten werden können.
+
+#### Rechenbeispiel: Bohrungsversatz bei der Restwand berücksichtigen
+
+Für einen beispielhaften Kreisquerschnitt seien der untere Grenzdurchmesser der Gewindekernhüllfläche 6.00 mm, der obere Bohrungsgrenzdurchmesser 3.00 mm und der maximale radiale Mittenversatz der Bohrung 0.20 mm. Die kleinste Restwand in diesem Querschnitt beträgt (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Der Versatz ist hier ein radialer Abstand, keine diametrische Positionstoleranzangabe. Die Rechnung erfasst weder Querbohrungsverschneidungen noch andere lokale Querschnitte oder die Tragfähigkeit. Die tatsächlichen Eingaben sind aus der festgelegten Geometrie und ihren Grenzmaßen abzuleiten.
 
 #### Spezifikationsbeispiel
 
@@ -5432,17 +5472,23 @@ Konstruktionszeichnungsdefinierte Verbindungselemente für kompakte Gehäuse, op
 
 ### Entwerfen der Auflagefläche einer kundenspezifischen Flanschschraube
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/custom-flange-bearing-face/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 ### Entwerfen der Auflagefläche einer kundenspezifischen Flanschschraube
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Mehrstufen-Kaltstauchen
 
-IN DIESEM HANDBUCH Beginnen Sie mit der Passfläche Bemaßen Sie den Flansch als Funktionsmerkmal Wählen Sie den Gesichtszustand bewusst aus Berücksichtigen Sie die Endbearbeitungs- und Anziehbedingungen VERWANDTES PRODUKT Flanschschrauben nach Zeichnung ↗
+IN DIESEM HANDBUCH Beginnen Sie mit der Passfläche Bemaßen Sie den Flansch als Funktionsmerkmal Wählen Sie den Gesichtszustand bewusst aus Berücksichtigen Sie die Endbearbeitungs- und Anziehbedingungen Prüfbeispiel: einteiligen Flansch mit Kopf-Scheiben-Anordnung vergleichen VERWANDTES PRODUKT Flanschschrauben nach Zeichnung ↗
+
+#### Unveränderte Randbedingungen und Änderung trennen
+
+Nur ein durchgerechnetes Prüfbeispiel. Eingaben und Abnahmekriterien stammen aus der tatsächlichen Zeichnung; kein Kundenprüfergebnis und keine allgemeingültige Leistungszusage.
+
+Vergleichsbasis beibehalten Halter- und Langlochstand, Gegenwerkstoff, Beschichtung, Montageverfahren und vereinbarte Abnahmekriterien. Beide Anordnungen vergleichen Gestützte Kontaktfläche, Übergangsfreigang, Scheibenanteil an der Klemmlänge, Gewindeeingriff und Spuren nach dem vereinbarten Betriebsablauf. Skizze: glatter Flansch, Sperrverzahnung und separate Scheibe ↗
 
 #### Beginnen Sie mit der Passfläche
 
@@ -5461,6 +5507,10 @@ Glatte, strukturierte und gezahnte Lagerflächen sind nicht austauschbar. Eine V
 #### Berücksichtigen Sie die Endbearbeitungs- und Anziehbedingungen
 
 Schichtdicke und Reibung können Einfluss auf die montierte Verbindung haben. Behandeln Sie die Flanschfläche und die Gewinde als spezifizierte Oberflächen und nicht nur als Teile einer allgemeinen Farbanforderung. Bei jedem Vergleich mit einer Unterlegscheibenbaugruppe sollte die komplette Verbindung und nicht die Anzahl der bearbeiteten Komponenten berücksichtigt werden.
+
+#### Prüfbeispiel: einteiligen Flansch mit Kopf-Scheiben-Anordnung vergleichen
+
+Vergleichen Sie an einem beschichteten Langlochhalter die bisherige Kopf-Scheiben-Anordnung mit dem vorgeschlagenen einteiligen Flansch anhand desselben Halterstands. Kennzeichnen Sie die Stützfläche um das Langloch und die freizuhaltenden Bereiche. Prüfen Sie Überstand von Flansch oder Scheibe, Übergang unter dem Kopf und zulässige Beschichtungsspuren. Berücksichtigen Sie die Scheibendicke bei Klemmlänge und nutzbarem Gewindeeingriff. Montageverfahren und Abnahmekriterien bleiben ausdrücklich festzulegen; weniger lose Teile belegen weder gleichwertiges Auflageverhalten noch gleichwertige verbleibende Klemmkraft.
 
 #### Spezifikationsbeispiel
 
@@ -5596,17 +5646,17 @@ DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
 
-Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
+Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
+Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -5640,17 +5690,17 @@ Schulter-, Tritt- und Verstellbefestigungen für Führungsmechanismen, Positioni
 
 ### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/set-screw-tip-selection/
-Last modified: 2026-11-02
+Last modified: 2026-11-03
 
 DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 ### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift
 
-Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
+Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 · Aktualisiert 2026-11-02 Langdrehen und CNC-Drehen
+Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Langdrehen und CNC-Drehen
 
-IN DIESEM HANDBUCH Wählen Sie zunächst den Kontaktmechanismus Arbeiten Sie ein Beispiel für einen verstellbaren Anschlag durch Getrennt von der reibschlüssigen Klemmung Geben Sie einen Punkt und einen Verifizierungsplan frei VERWANDTES PRODUKT Kundenspezifische Gewindestifte und Madenschrauben ↗
+IN DIESEM HANDBUCH Wählen Sie zunächst den Kontaktmechanismus Arbeiten Sie ein Beispiel für einen verstellbaren Anschlag durch Getrennt von der reibschlüssigen Klemmung Geben Sie einen Punkt und einen Verifizierungsplan frei Abnahmeprotokoll für wiederholtes Verstellen erstellen VERWANDTES PRODUKT Kundenspezifische Gewindestifte und Madenschrauben ↗
 
 #### Vier Kontaktarten im Vergleich
 
@@ -5670,6 +5720,12 @@ Vergleichen Sie zunächst den Kontaktmechanismus; Bestätigen Sie die Kapazität
 
 Laden Sie das Arbeitsblatt zur Punktauswahl herunter (Englisch)
 
+#### Verstellversuch reproduzierbar dokumentieren
+
+Nur ein durchgerechnetes Prüfbeispiel. Eingaben und Abnahmekriterien stammen aus der tatsächlichen Zeichnung; kein Kundenprüfergebnis und keine allgemeingültige Leistungszusage.
+
+Vor dem Versuch Spitzen- und Auflagezeichnungen, zulässige Spuren, Verstellweg und vereinbartes Kriterium für das Halten der Einstellung. Nach dem Betriebsablauf Ausgangs- und Rückkehrposition, Kontaktzustand und Ergebnis je Kriterium; Spitzen-, Auflage- und Zeichnungsstand benennen. Kontaktformen des Gewindestifts in der Baugruppe ↗
+
 #### Wählen Sie zunächst den Kontaktmechanismus
 
 Die Spitzenform beschreibt die Geometrie, nicht das Haltevermögen der fertigen Verbindung. Wählen Sie zunächst anhand der Tabelle die Kontaktart. Geben Sie Werkstoff und Härte des Gegenstücks, die vorbereitete Fläche, Vertiefung oder Bohrung sowie die Einstell- und Lösefolge an. Eine flache Spitze ist bei unerwünschter scharfer Eindringkante zu prüfen, garantiert aber keine abdruckfreie Welle. Kegelspitze und Ringschneide können eindrücken; ein Zapfen benötigt eine definierte Bohrung oder Nut.
@@ -5687,6 +5743,10 @@ Greift ein zylindrischer Zapfen in eine Bohrung, sind Zapfenüberstand und nutzb
 #### Geben Sie einen Punkt und einen Verifizierungsplan frei
 
 Legen Sie Gewinde, Werkzeugzugang, Gesamtlänge, Spitzenmaße, endgültigen Werkstoffzustand und Oberflächenbehandlung in der freigegebenen Zeichnung fest. Stimmen Sie Montagevorgaben und einen Funktionsversuch mit einem repräsentativen Gegenstück ab. Dokumentieren Sie zulässige Abdrücke und das Verhalten nach der geforderten Einstell- oder Wartungsfolge. Allgemeine Drehmoment- oder Haltekraftwerte werden hier nicht angegeben; diese hängen von der tatsächlichen Verbindung ab.
+
+#### Abnahmeprotokoll für wiederholtes Verstellen erstellen
+
+Legen Sie für die Anschlagvorrichtung Ausgangsstellung, zulässige Kontaktspur und Verstell-/Betriebsablauf vor dem Versuch fest. Prüfen Sie den Kontakt an beiden Verstellgrenzen und nach Rückkehr zur Ausgangsstellung. Kennzeichnen Sie jedes Ergebnis als Sichtbewertung, Maßmessung oder Funktionsbeobachtung. Ändert sich Auflage oder Spitzengeometrie, bewerten Sie nach denselben Kriterien, statt das alte Ergebnis zu übernehmen. So entsteht ein Abnahmeprotokoll, kein universelles Anziehdrehmoment oder eine allgemeine Haltekraft.
 
 #### Spezifikationsbeispiel
 
@@ -5826,11 +5886,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗
 
-Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.
+Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -6010,11 +6070,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine handverstellte Schraube muss zugänglich, bequem zu greifen und mit der erforderlichen Einstellung kompatibel sein. Die Kopfbeschaffenheit allein bestimmt nicht, wie der Mechanismus funktioniert.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗
 
-Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.
+Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -6266,7 +6326,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN.
 
 ##### Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Gewindestift ↗
 
-Wählen Sie einen Stellschraubenpunkt anhand seines Kontakts mit der Gegenkomponente aus: Breitflächenkontakt, Durchdringung, Positionierungsverlängerung oder Greifrand. Beginnen Sie mit der zulässigen Oberflächenbeschädigung, der Anpassungshäufigkeit und der erforderlichen Retention und definieren Sie dann gemeinsam den Punkt und sein Passmerkmal.
+Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -6722,11 +6782,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
-Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
+Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗
 
-Der Name eines Sicherheitslaufwerks ist ein Ausgangspunkt und keine vollständige Schnittstellenspezifikation. Aussparung, passendes Werkzeug und vorhandener Montagezugang müssen zusammenarbeiten.
+Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -7174,7 +7234,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 ##### Entwerfen der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → BESCHAFFUNG 2 MIN. LESEN
 
@@ -7268,11 +7328,11 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 #### Erkunden Sie weiter
 
-DESIGN & ABMESSUNGEN 2 MIN. LESEN
+DESIGN & ABMESSUNGEN 3 MIN. LESEN
 
 ##### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
 
-Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
+Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → QUALITÄT 2 MIN. LESEN
 
@@ -7468,7 +7528,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 ##### Entwerfen der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -7962,7 +8022,7 @@ DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Entwerfen der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -11245,7 +11305,7 @@ ENGINEERING-LEITFADEN
 
 ##### Gestaltung der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 ENGINEERING-LEITFADEN
 
@@ -11407,7 +11467,7 @@ ENGINEERING-LEITFADEN
 
 ##### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
 
-Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
+Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
 ### Kundenspezifische Verbindungselemente für Energie-, Lade- und Speichergeräte
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/energy-equipment/
@@ -11476,13 +11536,13 @@ ENGINEERING-LEITFADEN
 
 ##### Gestaltung der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 ENGINEERING-LEITFADEN
 
 ##### Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
 
-Ein axiales Loch verändert sowohl die Herstellung als auch die Prüfung. Eine nützliche Hohlschraubenspezifikation erklärt den Durchgang, die umgebende Wand und die Bedingungen im Inneren der Bohrung.
+Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
 ### Formen, Werkzeuge und Testvorrichtungen. Kundenspezifische Verbindungselemente
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/molds-fixtures/
@@ -11626,7 +11686,7 @@ ENGINEERING-LEITFADEN
 
 ##### Gestaltung der Auflagefläche einer kundenspezifischen Flanschschraube ↗
 
-Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläche, Steifigkeit und Spiel müssen zum einzuspannenden Bauteil passen.
+Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
 ENGINEERING-LEITFADEN
 

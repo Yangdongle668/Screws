@@ -1,4 +1,5 @@
 import {applyQualityRevisions,qualityAids,referenceGallery,writeQualityAssets} from './quality-content.mjs';
+import {applyCoreArticleReviews} from './core-article-review.mjs';
 import {buyerCopy,buyerMetadata,buyerJump,writeBuyerAssets} from './buyer-content.mjs';
 import {practicalSection,practicalImageCaption,practicalCopy} from './practical-content.mjs';
 import {deepContent,registerDeepContent} from './deep-content.mjs';
@@ -55,7 +56,8 @@ const articles=[
 articles.push(...technicalArticles,...expandedArticles,...processArticles);
 deepenArticles(articles);
 applyQualityRevisions(articles);
-writeQualityAssets();
+applyCoreArticleReviews(articles);
+writeQualityAssets(articles);
 writeBuyerAssets();
 const articleQualityAids=qualityAids();
 for(const a of articles){const words=(a.intro+' '+a.sections.flat().join(' ')+' '+(a.checklist??[]).join(' ')+' '+(a.example??'')).split(/\s+/).length;a.time=Math.max(2,Math.ceil(words/180))+' MIN READ';}
@@ -87,7 +89,7 @@ function add(url,title,description,body,{schema=null,noindex=false}={}){
   body=practicalImageCaption(url,body);
   if(url==='/')body=body.replace('<div class="hero-notes">','<p class="home-company-link"><a href="/about/#sample-planning">'+practicalCopy.homeLink+'<span aria-hidden="true"> ↗</span></a></p><div class="hero-notes">');
  const topicBlock=buildTopicLinks(url,body,articles);if(topicBlock)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',topicBlock+'<section class="cta-band">'):body+topicBlock;
- if(schema?.['@type']==='BlogPosting'){const a=articles.find(a=>url==='/blog/'+a.slug+'/');if(a){schema.about={'@id':origin+'/products/'+a.product+'/#manufacturing-service'};if(a.sources?.length)schema.citation=a.sources.map(([name,url])=>({'@type':'CreativeWork',name,url}));}schema.publisher={...schema.publisher,'@id':origin+'/#organization'};}
+  if(schema?.['@type']==='BlogPosting'){const a=articles.find(a=>url==='/blog/'+a.slug+'/');if(a){const product={'@id':origin+'/products/'+a.product+'/#manufacturing-service'};schema.about=a.keywords?.length?[product,...a.keywords.map(name=>({'@type':'Thing',name}))]:product;if(a.sources?.length)schema.citation=a.sources.map(([name,url])=>({'@type':'CreativeWork',name,url}));}schema.publisher={...schema.publisher,'@id':origin+'/#organization'};}
  const active=url.split('/')[1];
  const jump=buyerJump(url);if(jump)body=body.replace(/<\/(?:header|section)>/,closing=>closing+jump);
  const links=[['Products','/products/'],['Industries','/industries/'],['Processes','/capabilities/'],['Materials','/materials/'],['Quality','/quality/'],['Resources','/resources/'],['About us','/about/']];

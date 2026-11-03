@@ -79,8 +79,8 @@ HTML pages are the primary source. This directory lists current indexable public
 ## 技术文章
 
 - [定制螺丝询价中应包含哪些内容](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-quotation-checklist/): 报价是否有参考价值，取决于要求是否说清楚。优先提供图纸；只有样品、草图或装配说明时，也可以先据此梳理还需要确认的参数。
-- [台阶螺丝图纸设计与询价指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-screw-drawing-guide/): 台阶、螺纹和头部需要作为整体设计。图纸不仅要标尺寸，还应说明哪些表面用于定位、转动配合或夹紧。
-- [选用松不脱螺丝前需要确认的五个问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/captive-screw-design-questions/): 松不脱螺丝需要与防脱结构配合使用。确定螺丝图纸前，应同时核对面板、防脱部位和配合螺纹。
+- [台阶螺丝图纸设计与询价指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-screw-drawing-guide/): 肩轴螺丝图纸应分别明确孔轴配合、轴向尺寸链、螺纹与最终表面要求，样品批准前按尺寸上下限核对间隙。
+- [选用松不脱螺丝前需要确认的五个问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/captive-screw-design-questions/): 防脱螺丝要连同面板、保持件和配合螺纹一起定义，分别核对安装过程、松开行程及锁紧后的有效旋合。
 - [选择定制金属螺钉的材料](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/material-selection-custom-screws/): 材料选择从使用环境和机械要求开始。最佳规格平衡了功能、可制造性、可用性和验证。
 - [哪些因素影响非标螺丝的价格？](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-price-factors/): 定制螺丝报价反映了完整的规格和订单条件。了解成本驱动因素可以使设计评审更加高效。
 - [非标螺丝检测计划怎么制定](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-inspection-plan/): 检验计划应按特性逐项编制。每项要求都要说明验收条件、适用方法、检验工序、抽检或全检范围，以及保留什么记录。下面以台阶螺丝为例，展示如何把图纸要求转成检验记录。
@@ -88,11 +88,11 @@ HTML pages are the primary source. This directory lists current indexable public
 - [高强度螺丝的涂层选择与氢脆风险评估](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/high-strength-screw-coatings-hydrogen-risk/): 高强度钢紧固件需要做出涂层决策，同时考虑整个加工过程中的腐蚀和氢暴露。
 - [304、316 和 17-4PH：不同的热处理问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/stainless-screw-heat-treatment-grades/): 不锈钢包含不同材料体系，热处理要求不能一概而论。应写明具体牌号和最终状态，再确定适用的处理方式。
 - [台阶配合、螺纹公差等级与磨削工艺选择](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-fit-thread-class-grinding/): 轴配合和螺纹公差等级控制不同的接口。在决定如何完成表面之前，先清楚地写下所需的功能。
-- [防拆螺丝槽型的选型与标注](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/specifying-security-screw-drive/): 安全驱动器名称是一个起点，而不是完整的接口规范。凹槽、匹配工具和可用的装配通道必须一起工作。
-- [空心螺钉孔：询价应包含的详细信息](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/hollow-screw-bore-specification/): 轴向孔改变了制造和检查。有用的空心螺钉规范解释了通道、周围的壁以及孔内的条件。
-- [设计定制法兰螺钉的支撑面](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-flange-bearing-face/): 法兰不仅仅是头部下方的一个较大的圆圈。其支承面、刚度和间隙必须与被夹紧的部件相匹配。
+- [防拆螺丝槽型的选型与标注](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/specifying-security-screw-drive/): 槽型、配套工具、表面状态和装机后的操作空间应一起明确。散件状态下能配合的批头，装进外壳后不一定能充分啮合。
+- [空心螺钉孔：询价应包含的详细信息](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/hollow-screw-bore-specification/): 应明确整个孔道、最小剩余壁厚、内部边缘及验收方法。评审截面时，要同时考虑螺纹牙底几何和内孔偏心。
+- [设计定制法兰螺钉的支撑面](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-flange-bearing-face/): 法兰承压面应与零件实际可支撑的表面匹配。用一体法兰替代独立垫圈前，应比较接触范围、表面状态及夹持长度。
 - [滚花翼形螺钉：指定握持和调节](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/knurled-thumb-screw-grip-design/): 手动调节螺钉必须易于操作、握持舒适并且与所需的调节兼容。头部纹理本身并不能定义该机制的工作原理。
-- [圆锥形、扁平形、爪形或杯形：选择紧定螺钉尖端](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/set-screw-tip-selection/): 选择顶丝端型，先看它怎样与配合件接触：平面压紧、尖端嵌入、圆柱端定位，还是凹端边缘咬合。再结合允许的表面压痕、调节频率及固定要求，同时确定端部和配合结构。
+- [圆锥形、扁平形、爪形或杯形：选择紧定螺钉尖端](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/set-screw-tip-selection/): 紧定螺丝端型应根据与配合件的接触方式选择。先明确允许压痕、调节和保持要求，再验证整个连接。
 - [T 型槽螺栓配合：订购前需要测量什么](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/t-slot-bolt-head-fit/): T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需的接触。因此，槽横截面是紧固件询价的重要组成部分。
 - [用于连杆和起重的吊环螺栓：不同规格的需求](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/eye-bolt-linkage-vs-lifting/): 眼形端部可以属于联动装置、张紧装置或提升部件。相似的外观并不代表相同的设计要求或批准的用途。
 - [如何确定定制 U 型螺栓的尺寸](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/u-bolt-bend-and-leg-dimensions/): 内部宽度、弯曲形状和腿部对齐决定了 U 形螺栓是否适合支撑的组件。清晰的工程图将这些特征与螺纹连接分开。

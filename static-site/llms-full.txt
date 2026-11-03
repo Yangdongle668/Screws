@@ -186,17 +186,17 @@ Visit the technical blog ↗ PROCUREMENT 3 MIN READ
 
 A useful quotation starts with a clear specification. A drawing is the best starting point, but a sample, sketch or assembly description can also help define the next questions.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### A practical guide to shoulder screw drawings ↗
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Five questions before specifying a captive screw ↗
 
-A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.
+Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.
 
 By Theo Wan Read technical guide →
 
@@ -348,17 +348,17 @@ All articles ↗ PROCUREMENT 3 MIN READ
 
 A useful quotation starts with a clear specification. A drawing is the best starting point, but a sample, sketch or assembly description can also help define the next questions.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### A practical guide to shoulder screw drawings ↗
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Five questions before specifying a captive screw ↗
 
-A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.
+Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.
 
 By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 
@@ -402,23 +402,23 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### How to specify a tamper-resistant screw drive ↗
 
-A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.
+Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Hollow screw bores: the details an RFQ should include ↗
 
-An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
+Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -430,7 +430,7 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
+Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -625,17 +625,17 @@ ALL ARTICLES PROCUREMENT DESIGN & DIMENSIONS MATERIALS & FINISHES QUALITY MANUFA
 
 A useful quotation starts with a clear specification. A drawing is the best starting point, but a sample, sketch or assembly description can also help define the next questions.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### A practical guide to shoulder screw drawings ↗
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Five questions before specifying a captive screw ↗
 
-A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.
+Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.
 
 By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 
@@ -679,23 +679,23 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### How to specify a tamper-resistant screw drive ↗
 
-A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.
+Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Hollow screw bores: the details an RFQ should include ↗
 
-An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
+Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -707,7 +707,7 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
+Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -1034,17 +1034,17 @@ Search all 42 articles ↗ PROCUREMENT 3 MIN READ
 
 A useful quotation starts with a clear specification. A drawing is the best starting point, but a sample, sketch or assembly description can also help define the next questions.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### A practical guide to shoulder screw drawings ↗
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Five questions before specifying a captive screw ↗
 
-A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.
+Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.
 
 By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 
@@ -1701,7 +1701,7 @@ DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Five questions before specifying a captive screw ↗
 
-A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.
+Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.
 
 By Theo Wan Read technical guide →
 
@@ -4400,17 +4400,23 @@ By Theo Wan Read technical guide →
 
 ### A practical guide to shoulder screw drawings
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/shoulder-screw-drawing-guide/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN & DIMENSIONS / 2 MIN READ
+DESIGN & DIMENSIONS / 3 MIN READ
 
 ### A practical guide to shoulder screw drawings
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Shoulder & Step Screws
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Shoulder & Step Screws
 
-IN THIS GUIDE Define the shoulder Show how the thread ends Review head access and seating Communicate functional tolerances Draw the assembly stack, not only the screw Choose datums that match the locating function Approve the final supplied surface RELATED PRODUCT Shoulder & Step Screws ↗
+IN THIS GUIDE Define the shoulder Show how the thread ends Review head access and seating Communicate functional tolerances Draw the assembly stack, not only the screw Choose datums that match the locating function Approve the final supplied surface Worked review: calculate diametral clearance separately RELATED PRODUCT Shoulder & Step Screws ↗
+
+#### Turn the diameter limits into a review record
+
+Worked review only. Inputs and acceptance criteria belong to the actual drawing; no customer test result or universal performance rating is claimed.
+
+Minimum diametral clearance 8.010 − 8.005 = 0.005 mm, using the smallest bore and largest shoulder. Maximum diametral clearance 8.030 − 7.995 = 0.035 mm, using the largest bore and smallest shoulder. Shoulder interfaces and the separate axial-clearance example ↗
 
 #### Define the shoulder
 
@@ -4441,6 +4447,10 @@ Identify the axis and face that locate the part in service. Decide whether shoul
 #### Approve the final supplied surface
 
 Treatment and coating may change the condition used to accept the shoulder. State final limits and coating coverage on the functional surface. The inspection record should distinguish shoulder measurement from thread gauging. A correct thread does not establish that the pivot fits, and a correct external silhouette does not establish surface texture.
+
+#### Worked review: calculate diametral clearance separately
+
+Assume a finished shoulder diameter of 8.000 ± 0.005 mm and a mating bore of 8.020 ± 0.010 mm. Compare the smallest bore with the largest shoulder, then the largest bore with the smallest shoulder. The resulting 0.005–0.035 mm range is diametral clearance, not radial clearance or an axial gap. These illustrative inputs do not define a standard fit or an approved operating range. The designer still specifies the functional range, temperature basis, datum relationships and final surface condition.
 
 Ready to discuss your part? Use the RFQ preparation checklist , then submit your drawing for review . For acceptance requirements, see quality planning .
 
@@ -4496,17 +4506,23 @@ Custom threaded components for brackets, equipment modules and other drawing-def
 
 ### Five questions before specifying a captive screw
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/captive-screw-design-questions/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 2 MIN READ
 
 ### Five questions before specifying a captive screw
 
-A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.
+Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Captive Screws
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Captive Screws
 
-IN THIS GUIDE What retains the screw? How much movement is needed? What happens during service? How will the assembly be verified? What should accompany the RFQ? RELATED PRODUCT Captive Screws ↗
+IN THIS GUIDE What retains the screw? How much movement is needed? What happens during service? How will the assembly be verified? What should accompany the RFQ? Worked review: release a service panel without losing the screw RELATED PRODUCT Captive Screws ↗
+
+#### Keep the two service positions in the approval record
+
+Worked review only. Inputs and acceptance criteria belong to the actual drawing; no customer test result or universal performance rating is claimed.
+
+Assembly sketch to supply Panel thickness and hole, retaining part, open and tightened positions, thread engagement and nearby obstructions. Sample review to agree Identify the panel, retainer and screw revisions; record retention, release clearance and reassembly against their separate criteria. Open and tightened captive-screw interface sketch ↗
 
 #### What retains the screw?
 
@@ -4530,6 +4546,10 @@ Define retention and functional acceptance criteria with your engineering team. 
 
 Include the screw drawing, mating assembly, quantity and any sample photos. Unresolved retention details can be reviewed before a final quotation is issued.
 
+#### Worked review: release a service panel without losing the screw
+
+For a service-panel design exercise, begin with the intended installation sequence. Show how the screw and retaining part are assembled, which feature prevents escape after release, and where the screw sits once tightened. Check that the available released travel clears the mating thread and permits the panel to open. Then check that the retained hardware does not obstruct seating or reduce the required engagement. Record retention and opening/reassembly as separate checks against the identified panel and retainer revisions.
+
 Ready to discuss your part? Use the RFQ preparation checklist , then submit your drawing for review . For acceptance requirements, see quality planning .
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
@@ -4538,11 +4558,11 @@ TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing g
 
 #### Continue exploring
 
-DESIGN & DIMENSIONS 2 MIN READ
+DESIGN & DIMENSIONS 3 MIN READ
 
 ##### A practical guide to shoulder screw drawings ↗
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
@@ -4550,11 +4570,11 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### How to specify a tamper-resistant screw drive ↗
 
-A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.
+Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
 By Theo Wan Read technical guide →
 
@@ -4820,11 +4840,11 @@ QUALITY 3 MIN READ
 
 Camera-based dimensional inspection can evaluate visible features of a screw, but the image, setup and inspection program must match the requirement. It is one part of a complete acceptance plan.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### A practical guide to shoulder screw drawings ↗
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
 By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 
@@ -5176,11 +5196,11 @@ TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing g
 
 #### Continue exploring
 
-DESIGN & DIMENSIONS 2 MIN READ
+DESIGN & DIMENSIONS 3 MIN READ
 
 ##### A practical guide to shoulder screw drawings ↗
 
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
+A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
 By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 
@@ -5230,17 +5250,23 @@ Custom threaded components for brackets, equipment modules and other drawing-def
 
 ### How to specify a tamper-resistant screw drive
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/specifying-security-screw-drive/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN & DIMENSIONS / 2 MIN READ
+DESIGN & DIMENSIONS / 3 MIN READ
 
 ### How to specify a tamper-resistant screw drive
 
-A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.
+Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Multi-Station Cold Heading
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Multi-Station Cold Heading
 
-IN THIS GUIDE Identify the exact interface Define the head and tool access Review pin and recess features Separate access resistance from joint performance RELATED PRODUCT Security & Tamper-Resistant Screws ↗
+IN THIS GUIDE Identify the exact interface Define the head and tool access Review pin and recess features Separate access resistance from joint performance Worked review: distinguish a tool-fit issue from an access issue RELATED PRODUCT Security & Tamper-Resistant Screws ↗
+
+#### Identify the interface that needs correction
+
+Worked review only. Inputs and acceptance criteria belong to the actual drawing; no customer test result or universal performance rating is claimed.
+
+Tool and loose-part record Drive reference, bit identity, pin clearance and usable engagement on the finished sample. Installed-access record Housing revision, tool holder and approach envelope, access restriction and the proposed drawing change. Security-drive and installed-tool access sketch ↗
 
 #### Identify the exact interface
 
@@ -5259,6 +5285,10 @@ For a center-pin drive, include the pin geometry, recess depth and relevant edge
 #### Separate access resistance from joint performance
 
 A special drive can discourage casual removal, but it does not make a joint impossible to open. Material, thread engagement and the tightening method still determine the mechanical connection. Define service access, installation torque requirements and the intended tool-control arrangement independently.
+
+#### Worked review: distinguish a tool-fit issue from an access issue
+
+Consider a pin-in screw in a recessed cover. First compare the finished recess with the identified service bit outside the housing. Next review the same bit in the installed position, including its holder and approach space. If engagement is satisfactory outside but restricted inside, review the access envelope before changing the drive profile. If the bit cannot seat in either position, review the recess, pin, bit and final finish together. Record which interface changed and repeat the affected check with the same controlled tool reference.
 
 #### Specification example
 
@@ -5328,17 +5358,23 @@ Custom threaded components for brackets, equipment modules and other drawing-def
 
 ### Hollow screw bores: the details an RFQ should include
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/hollow-screw-bore-specification/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DESIGN & DIMENSIONS / 2 MIN READ
+DESIGN & DIMENSIONS / 3 MIN READ
 
 ### Hollow screw bores: the details an RFQ should include
 
-An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
+Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Swiss-Type & CNC Turning
 
-IN THIS GUIDE Describe the entire passage Review wall thickness with the thread State edge and cleanliness requirements Define functional tests separately RELATED PRODUCT Hollow & Through-Hole Screws ↗
+IN THIS GUIDE Describe the entire passage Review wall thickness with the thread State edge and cleanliness requirements Define functional tests separately Worked review: include bore offset in the wall calculation RELATED PRODUCT Hollow & Through-Hole Screws ↗
+
+#### Record the limiting section and the inspection access
+
+Worked review only. Inputs and acceptance criteria belong to the actual drawing; no customer test result or universal performance rating is claimed.
+
+Section result 1.30 mm is the calculated remaining wall for the stated teaching inputs, not a safe-wall recommendation or pressure rating. Separate internal-edge decision Identify the intersecting hole and burr requirement, the deburring stage and a suitable check before later assembly limits access. Hollow-screw section and passage review ↗
 
 #### Describe the entire passage
 
@@ -5357,6 +5393,10 @@ Drilling can leave burrs at hole exits and intersections. Specify which edges mu
 #### Define functional tests separately
 
 A continuous bore does not itself prove pressure capability, leak tightness or unrestricted flow in an assembly. State any test medium, fixture arrangement and acceptance method that the application requires. These conditions should be agreed before sampling so manufacturing and inspection can be quoted together.
+
+#### Worked review: include bore offset in the wall calculation
+
+For an illustrative circular section, take a lower-limit thread-root envelope diameter of 6.00 mm, an upper-limit bore diameter of 3.00 mm and a maximum radial bore-centre offset of 0.20 mm. The minimum remaining wall in that section is (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. The offset is a radial distance here, not a diametral position-tolerance callout. This calculation does not cover cross-hole intersections, other local sections or load capacity. Derive the actual inputs from the controlled geometry and its tolerance limits.
 
 #### Specification example
 
@@ -5432,17 +5472,23 @@ Drawing-defined fasteners for compact housings, optical adjustment mechanisms an
 
 ### Designing the bearing face of a custom flange screw
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-flange-bearing-face/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 2 MIN READ
 
 ### Designing the bearing face of a custom flange screw
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Multi-Station Cold Heading
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Multi-Station Cold Heading
 
-IN THIS GUIDE Start with the mating surface Dimension the flange as a functional feature Choose the face condition deliberately Include the finish and tightening conditions RELATED PRODUCT Custom Flange Screws ↗
+IN THIS GUIDE Start with the mating surface Dimension the flange as a functional feature Choose the face condition deliberately Include the finish and tightening conditions Worked review: compare an integral flange with a washer assembly RELATED PRODUCT Custom Flange Screws ↗
+
+#### Separate unchanged inputs from the proposed change
+
+Worked review only. Inputs and acceptance criteria belong to the actual drawing; no customer test result or universal performance rating is claimed.
+
+Keep the comparison basis Bracket and slot revision, mating material, coating, assembly method and agreed acceptance criteria. Compare the two arrangements Supported footprint, transition clearance, washer contribution to grip length, engagement and marking after the agreed service sequence. Smooth flange, serrated flange and separate-washer sketch ↗
 
 #### Start with the mating surface
 
@@ -5461,6 +5507,10 @@ Plain, textured and serrated bearing faces are not interchangeable. A serration 
 #### Include the finish and tightening conditions
 
 Coating thickness and friction can influence the assembled joint. Treat the flange face and threads as specified surfaces, not simply parts of an overall color requirement. Any comparison with a washer assembly should consider the complete joint rather than the number of handled components.
+
+#### Worked review: compare an integral flange with a washer assembly
+
+For a coated slotted bracket, compare the existing head-and-washer arrangement with the proposed integral flange on the same bracket drawing. Identify the supporting surface left around the slot and the areas that must remain clear. Review flange or washer overhang, the under-head transition and permissible coating marks. Account for the washer thickness when comparing grip length and usable engagement. Keep the assembly method and acceptance criteria explicit; fewer loose components do not establish equivalent bearing behavior or retained clamp load.
 
 #### Specification example
 
@@ -5596,17 +5646,17 @@ DESIGN & DIMENSIONS 2 MIN READ
 
 A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Hollow screw bores: the details an RFQ should include ↗
 
-An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
+Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
+Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.
 
 By Theo Wan Read technical guide →
 
@@ -5640,17 +5690,17 @@ Shoulder, step and adjustment fasteners for guided mechanisms, positioning stati
 
 ### Cone, flat, dog or cup: choosing a set-screw tip
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/set-screw-tip-selection/
-Last modified: 2026-11-02
+Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 3 MIN READ
 
 ### Cone, flat, dog or cup: choosing a set-screw tip
 
-Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
+Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-02 Swiss-Type & CNC Turning
+By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Swiss-Type & CNC Turning
 
-IN THIS GUIDE Choose the contact mechanism first Work through an adjustable-stop example Separate location from frictional clamping Release a point and a verification plan RELATED PRODUCT Custom Set Screws & Grub Screws ↗
+IN THIS GUIDE Choose the contact mechanism first Work through an adjustable-stop example Separate location from frictional clamping Release a point and a verification plan Write a repeat-adjustment acceptance record RELATED PRODUCT Custom Set Screws & Grub Screws ↗
 
 #### Compare the four contact mechanisms
 
@@ -5670,6 +5720,12 @@ Compare the contact mechanism first; confirm capacity and installation on the ac
 
 Download the point-selection worksheet (English)
 
+#### Make the adjustment trial repeatable
+
+Worked review only. Inputs and acceptance criteria belong to the actual drawing; no customer test result or universal performance rating is claimed.
+
+Before the trial Point and pad drawings, permitted marking, adjustment travel and the agreed retained-setting criterion. After the service sequence Starting and returned positions, contact condition and outcome against each criterion; identify the point, pad and drawing revisions. Set-screw contact forms in the mating assembly ↗
+
 #### Choose the contact mechanism first
 
 A point name describes geometry, not the holding capacity of the completed joint. Use the comparison below to shortlist a contact mechanism. Then provide the mating material and hardness, the prepared flat, recess or hole, and the intended adjustment and release procedure. A flat point is worth reviewing when a sharp biting edge is undesirable; it does not guarantee a mark-free shaft. A cone or cup can indent the mating surface. A dog point needs a defined mating hole or slot.
@@ -5687,6 +5743,10 @@ If a cylindrical dog enters a hole, show its projection and the available hole d
 #### Release a point and a verification plan
 
 Show the thread, drive access, overall length, point dimensions, final material condition and surface treatment on the controlled drawing. Agree installation requirements and a functional trial on a representative mating component. Record permitted marking and the behavior after the required adjustment or service sequence. No general torque or holding-force value is supplied here: those depend on the actual joint.
+
+#### Write a repeat-adjustment acceptance record
+
+For the fixture-stop exercise, define the starting setting, allowed contact mark and adjustment/service sequence before the trial. Check contact at both ends of travel and after returning to the starting setting. Record whether each result is a visual assessment, a dimensional reading or a functional observation. If the pad or point geometry changes, compare against the same criteria rather than reusing the old result. This creates an acceptance record; it does not establish a universal tightening torque or holding force.
 
 #### Specification example
 
@@ -5826,11 +5886,11 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### How to specify a tamper-resistant screw drive ↗
 
-A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.
+Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
 By Theo Wan Read technical guide →
 
@@ -6010,11 +6070,11 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### How to specify a tamper-resistant screw drive ↗
 
-A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.
+Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
 By Theo Wan Read technical guide →
 
@@ -6266,7 +6326,7 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Cone, flat, dog or cup: choosing a set-screw tip ↗
 
-Choose a set-screw point by its contact with the mating component: broad-face contact, penetration, a locating extension or a biting rim. Start with allowable surface damage, adjustment frequency and the required retention, then define the point and its mating feature together.
+Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.
 
 By Theo Wan Read technical guide →
 
@@ -6722,11 +6782,11 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.
 
-By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
+By Theo Wan Read technical guide → DESIGN & DIMENSIONS 3 MIN READ
 
 ##### How to specify a tamper-resistant screw drive ↗
 
-A security-drive name is a starting point, not a complete interface specification. The recess, matching tool and available assembly access must work together.
+Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
 By Theo Wan Read technical guide →
 
@@ -7174,7 +7234,7 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 By Theo Wan Read technical guide → PROCUREMENT 2 MIN READ
 
@@ -7268,11 +7328,11 @@ TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing g
 
 #### Continue exploring
 
-DESIGN & DIMENSIONS 2 MIN READ
+DESIGN & DIMENSIONS 3 MIN READ
 
 ##### Hollow screw bores: the details an RFQ should include ↗
 
-An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
+Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 By Theo Wan Read technical guide → QUALITY 2 MIN READ
 
@@ -7468,7 +7528,7 @@ By Theo Wan Read technical guide → DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 By Theo Wan Read technical guide →
 
@@ -7962,7 +8022,7 @@ DESIGN & DIMENSIONS 2 MIN READ
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 By Theo Wan Read technical guide → MATERIALS & FINISHES 2 MIN READ
 
@@ -11245,7 +11305,7 @@ ENGINEERING GUIDE
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 ENGINEERING GUIDE
 
@@ -11407,7 +11467,7 @@ ENGINEERING GUIDE
 
 ##### Hollow screw bores: the details an RFQ should include ↗
 
-An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
+Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 ### Energy, Charging & Storage Equipment Custom Fasteners
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/energy-equipment/
@@ -11476,13 +11536,13 @@ ENGINEERING GUIDE
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 ENGINEERING GUIDE
 
 ##### Hollow screw bores: the details an RFQ should include ↗
 
-An axial hole changes both manufacturing and inspection. A useful hollow-screw specification explains the passage, the surrounding wall and the conditions inside the bore.
+Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 ### Molds, Tooling & Test Fixtures Custom Fasteners
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/molds-fixtures/
@@ -11626,7 +11686,7 @@ ENGINEERING GUIDE
 
 ##### Designing the bearing face of a custom flange screw ↗
 
-A flange is more than a larger circle under the head. Its bearing face, stiffness and clearance must match the component being clamped.
+Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
 ENGINEERING GUIDE
 

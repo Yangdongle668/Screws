@@ -26,6 +26,8 @@ node scripts/verify-language-preference.mjs
 
 材料用途选择表与七类材料要求示例的英文源为 `scripts/material-request-content.mjs`，译文在 `scripts/material-request-localization.mjs` 维护。运行 `node scripts/material-request-localization.mjs` 写入五份字典及 `translations/material-request-review.json`；常规审校脚本会在旧映射后应用这些译文。示例区分牌号／状态、成品要求、表面与配合、验收及替代料，不改动已有带条件的强度参考表；英文确认后再同步更新各语言。
 
+六篇核心技术旧文的英文增量在 `scripts/core-article-review.mjs`，五种译文由 `scripts/core-article-localization.mjs` 维护，生成 `translations/core-article-review.json`。执行常规审校命令后完整生成；关键词、简介、算例和评审记录一起同步。保留原发布日期，仅更新实际修订日期。已在数据库发布的旧版使用既有校订包：匹配已核对正文且没有未发布修改时，保存六语言回滚快照后统一更新；有差异则在文章管理提示人工比对，不覆盖人工稿。
+
 ## 语言入口与默认选择
 
 顶部邮箱旁提供国旗、语言原名和当前项勾选。首次进入英文地址时，优先采用已保存的手动选择，否则按照浏览器语言列表匹配六种支持语言；未匹配保持英文。手动切换保存本机偏好，并保留对应页面、查询参数及锚点。明确访问带语言前缀的链接时保留该语言；站内浏览不反复跳转。搜索爬虫不做客户端自动跳转，全部语言保留可访问网址与 `hreflang`。

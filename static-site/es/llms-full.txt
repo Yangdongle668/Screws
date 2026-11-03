@@ -186,17 +186,17 @@ Visita el blog técnico ↗ ADQUISICIÓN 3 LECTURA MÍNIMA
 
 Un presupuesto útil requiere especificaciones claras. El plano es el mejor punto de partida, aunque una muestra, croquis o descripción del montaje también ayudan a aclarar lo pendiente.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Una guía práctica para los dibujos de tornillos de hombro. ↗
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Cinco preguntas antes de especificar un tornillo cautivo ↗
 
-Un tornillo cautivo forma parte de un sistema de retención. Revise panel, elemento de retención y rosca complementaria antes de cerrar el plano.
+Especifique el tornillo imperdible con panel, retenedor y rosca receptora. Revise por separado montaje, recorrido liberado y acoplamiento apretado.
 
 Por Theo Wan Leer guía técnica →
 
@@ -348,17 +348,17 @@ Todos los artículos ↗ ADQUISICIÓN 3 LECTURA MÍNIMA
 
 Un presupuesto útil requiere especificaciones claras. El plano es el mejor punto de partida, aunque una muestra, croquis o descripción del montaje también ayudan a aclarar lo pendiente.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Una guía práctica para los dibujos de tornillos de hombro. ↗
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Cinco preguntas antes de especificar un tornillo cautivo ↗
 
-Un tornillo cautivo forma parte de un sistema de retención. Revise panel, elemento de retención y rosca complementaria antes de cerrar el plano.
+Especifique el tornillo imperdible con panel, retenedor y rosca receptora. Revise por separado montaje, recorrido liberado y acoplamiento apretado.
 
 Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 
@@ -402,23 +402,23 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cómo especificar un tornillo a prueba de manipulaciones ↗
 
-El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.
+Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗
 
-Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
+Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Diseño de la cara de apoyo de un tornillo de brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
@@ -430,7 +430,7 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
+Elija la punta del prisionero por su contacto con la pieza. Defina marcas, ajuste y retención admisibles y verifique la unión completa.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
@@ -625,17 +625,17 @@ TODOS LOS ARTÍCULOS ADQUISICIÓN DISEÑO Y DIMENSIONES MATERIALES Y ACABADOS CA
 
 Un presupuesto útil requiere especificaciones claras. El plano es el mejor punto de partida, aunque una muestra, croquis o descripción del montaje también ayudan a aclarar lo pendiente.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Una guía práctica para los dibujos de tornillos de hombro. ↗
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Cinco preguntas antes de especificar un tornillo cautivo ↗
 
-Un tornillo cautivo forma parte de un sistema de retención. Revise panel, elemento de retención y rosca complementaria antes de cerrar el plano.
+Especifique el tornillo imperdible con panel, retenedor y rosca receptora. Revise por separado montaje, recorrido liberado y acoplamiento apretado.
 
 Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 
@@ -679,23 +679,23 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cómo especificar un tornillo a prueba de manipulaciones ↗
 
-El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.
+Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗
 
-Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
+Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Diseño de la cara de apoyo de un tornillo de brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
@@ -707,7 +707,7 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
+Elija la punta del prisionero por su contacto con la pieza. Defina marcas, ajuste y retención admisibles y verifique la unión completa.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
@@ -1034,17 +1034,17 @@ Buscar todos los artículos 42 ↗ ADQUISICIÓN 3 LECTURA MÍNIMA
 
 Un presupuesto útil requiere especificaciones claras. El plano es el mejor punto de partida, aunque una muestra, croquis o descripción del montaje también ayudan a aclarar lo pendiente.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Una guía práctica para los dibujos de tornillos de hombro. ↗
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Cinco preguntas antes de especificar un tornillo cautivo ↗
 
-Un tornillo cautivo forma parte de un sistema de retención. Revise panel, elemento de retención y rosca complementaria antes de cerrar el plano.
+Especifique el tornillo imperdible con panel, retenedor y rosca receptora. Revise por separado montaje, recorrido liberado y acoplamiento apretado.
 
 Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 
@@ -1701,7 +1701,7 @@ DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Cinco preguntas antes de especificar un tornillo cautivo ↗
 
-Un tornillo cautivo forma parte de un sistema de retención. Revise panel, elemento de retención y rosca complementaria antes de cerrar el plano.
+Especifique el tornillo imperdible con panel, retenedor y rosca receptora. Revise por separado montaje, recorrido liberado y acoplamiento apretado.
 
 Por Theo Wan Leer guía técnica →
 
@@ -4400,17 +4400,23 @@ Por Theo Wan Leer guía técnica →
 
 ### Una guía práctica para los dibujos de tornillos de hombro.
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/shoulder-screw-drawing-guide/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
+DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
 
 ### Una guía práctica para los dibujos de tornillos de hombro.
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 Tornillos de hombro y escalonados
+Por Theo Wan • ZUFEK Editorial técnica • Publicado el 29 de octubre de 2026 · Actualizado 2026-11-03 Tornillos de hombro y escalonados
 
-EN ESTA GUÍA Definir el hombro Muestra cómo termina el rosca. Revisar el acceso a la cabeza y los asientos Comunicar tolerancias funcionales. Dibuje la pila de ensamblaje, no solo el tornillo. Elija datos que coincidan con la función de localización Aprobar la superficie final suministrada PRODUCTO RELACIONADO Tornillos de hombro y escalón ↗
+EN ESTA GUÍA Definir el hombro Muestra cómo termina el rosca. Revisar el acceso a la cabeza y los asientos Comunicar tolerancias funcionales. Dibuje la pila de ensamblaje, no solo el tornillo. Elija datos que coincidan con la función de localización Aprobar la superficie final suministrada Ejemplo: calcular por separado la holgura diametral PRODUCTO RELACIONADO Tornillos de hombro y escalón ↗
+
+#### Convertir los límites de diámetro en un registro de revisión
+
+Ejemplo de revisión únicamente. Los datos y criterios corresponden al plano real; no se afirma un resultado de cliente ni una capacidad universal.
+
+Holgura diametral mínima 8.010 − 8.005 = 0.005 mm, con el taladro menor y el hombro mayor. Holgura diametral máxima 8.030 − 7.995 = 0.035 mm, con el taladro mayor y el hombro menor. Interfaces del hombro y ejemplo independiente de holgura axial ↗
 
 #### Definir el hombro
 
@@ -4441,6 +4447,10 @@ Identificar el eje y cara que ubican la pieza en servicio. Decida si la forma de
 #### Aprobar la superficie final suministrada
 
 El tratamiento y el recubrimiento pueden cambiar la condición utilizada para aceptar el hombro. Indique los límites finales y la cobertura del recubrimiento en la superficie funcional. El registro de inspección debe distinguir la medición del hombro de la medición del rosca. Una rosca correcta no establece que el pivote encaje y una silueta externa correcta no establece la rugosidad de la superficie.
+
+#### Ejemplo: calcular por separado la holgura diametral
+
+Suponga un hombro terminado de 8.000 ± 0.005 mm y un taladro de 8.020 ± 0.010 mm. Compare el taladro menor con el hombro mayor y después el taladro mayor con el hombro menor. El intervalo 0.005–0.035 mm es holgura diametral, no radial ni axial. Estos datos ilustrativos no definen un ajuste normalizado ni un intervalo de funcionamiento aprobado. El diseñador sigue definiendo rango funcional, temperatura de referencia, relaciones geométricas y estado superficial final.
 
 ¿Listo para discutir tu parte? Utilice el Lista de verificación de preparación de RFQ , entonces envíe su dibujo de ingeniería para su revisión . Para conocer los requisitos de aceptación, consulte planificación de calidad .
 
@@ -4496,17 +4506,23 @@ Componentes roscados personalizados para soportes, módulos de equipos y otros c
 
 ### Cinco preguntas antes de especificar un tornillo cautivo
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/captive-screw-design-questions/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
 
 ### Cinco preguntas antes de especificar un tornillo cautivo
 
-Un tornillo cautivo forma parte de un sistema de retención. Revise panel, elemento de retención y rosca complementaria antes de cerrar el plano.
+Especifique el tornillo imperdible con panel, retenedor y rosca receptora. Revise por separado montaje, recorrido liberado y acoplamiento apretado.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 Tornillos cautivos
+Por Theo Wan • ZUFEK Editorial técnica • Publicado el 29 de octubre de 2026 · Actualizado 2026-11-03 Tornillos cautivos
 
-EN ESTA GUÍA ¿Qué retiene el tornillo? ¿Cuánto movimiento se necesita? ¿Qué sucede durante el servicio? ¿Cómo se verificará el montaje? ¿Qué debe acompañar a la solicitud de cotización? PRODUCTO RELACIONADO Tornillos cautivos ↗
+EN ESTA GUÍA ¿Qué retiene el tornillo? ¿Cuánto movimiento se necesita? ¿Qué sucede durante el servicio? ¿Cómo se verificará el montaje? ¿Qué debe acompañar a la solicitud de cotización? Ejemplo: liberar un panel de servicio sin perder el tornillo PRODUCTO RELACIONADO Tornillos cautivos ↗
+
+#### Conservar ambas posiciones de servicio en el registro de aprobación
+
+Ejemplo de revisión únicamente. Los datos y criterios corresponden al plano real; no se afirma un resultado de cliente ni una capacidad universal.
+
+Croquis del conjunto que aportar Espesor y orificio del panel, retenedor, posiciones abierta y apretada, acoplamiento de rosca y obstáculos próximos. Revisión de muestras que acordar Identifique revisiones de panel, retenedor y tornillo; registre retención, espacio de liberación y remontaje con sus criterios separados. Esquema de la interfaz imperdible abierta y apretada ↗
 
 #### ¿Qué retiene el tornillo?
 
@@ -4530,6 +4546,10 @@ Defina criterios de retención y aceptación funcional con su equipo de ingenier
 
 Incluya el dibujo de ingeniería del tornillo, el conjunto de acoplamiento, la cantidad y cualquier fotografía de muestra. Los detalles de retención no resueltos se pueden revisar antes de emitir una cotización final.
 
+#### Ejemplo: liberar un panel de servicio sin perder el tornillo
+
+En un ejercicio de diseño de panel de servicio, empiece por la secuencia de instalación. Muestre cómo se montan tornillo y retenedor, qué evita la salida tras aflojar y la posición apretada. Compruebe que el recorrido liberado despeja la rosca receptora y permite abrir el panel. Después verifique que los elementos retenidos no impiden el asiento ni reducen el acoplamiento requerido. Registre retención y apertura/remontaje como comprobaciones separadas, identificando las revisiones del panel y del retenedor.
+
 ¿Listo para discutir tu parte? Utilice el Lista de verificación de preparación de RFQ , entonces envíe su dibujo de ingeniería para su revisión . Para conocer los requisitos de aceptación, consulte planificación de calidad .
 
 Sólo orientación general. Las propiedades del material, las tolerancias, los estándares y la viabilidad de fabricación deben verificarse para las especificaciones reales. Este artículo no establece una garantía de rendimiento del producto.
@@ -4538,11 +4558,11 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 #### Continuar explorando
 
-DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Una guía práctica para los dibujos de tornillos de hombro. ↗
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
@@ -4550,11 +4570,11 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cómo especificar un tornillo a prueba de manipulaciones ↗
 
-El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.
+Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.
 
 Por Theo Wan Leer guía técnica →
 
@@ -4820,11 +4840,11 @@ CALIDAD 3 LECTURA MÍNIMA
 
 La inspección dimensional basada en cámara puede evaluar las características visibles de un tornillo, pero la imagen, la configuración y el programa de inspección deben cumplir con los requisitos. Es una parte de un plan de aceptación completo.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Una guía práctica para los dibujos de tornillos de hombro. ↗
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
 Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 
@@ -5176,11 +5196,11 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 #### Continuar explorando
 
-DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Una guía práctica para los dibujos de tornillos de hombro. ↗
 
-Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.
+El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.
 
 Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 
@@ -5230,17 +5250,23 @@ Componentes roscados personalizados para soportes, módulos de equipos y otros c
 
 ### Cómo especificar un tornillo a prueba de manipulaciones
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/specifying-security-screw-drive/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
+DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
 
 ### Cómo especificar un tornillo a prueba de manipulaciones
 
-El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.
+Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 Estampación en frío multiestación
+Por Theo Wan • ZUFEK Editorial técnica • Publicado el 29 de octubre de 2026 · Actualizado 2026-11-03 Estampación en frío multiestación
 
-EN ESTA GUÍA Identificar la interfaz exacta Definir el acceso al cabezal y a la herramienta. Revisar las características de pasadores y huecos Separar la resistencia al acceso del rendimiento conjunto PRODUCTO RELACIONADO Tornillos de seguridad y antimanipulación ↗
+EN ESTA GUÍA Identificar la interfaz exacta Definir el acceso al cabezal y a la herramienta. Revisar las características de pasadores y huecos Separar la resistencia al acceso del rendimiento conjunto Ejemplo: distinguir ajuste de la herramienta y problema de acceso PRODUCTO RELACIONADO Tornillos de seguridad y antimanipulación ↗
+
+#### Identificar la interfaz que necesita corrección
+
+Ejemplo de revisión únicamente. Los datos y criterios corresponden al plano real; no se afirma un resultado de cliente ni una capacidad universal.
+
+Registro de herramienta y pieza suelta Referencia de la huella, identificación de punta, holgura del tetón y acoplamiento útil en la muestra terminada. Registro del acceso instalado Revisión de carcasa, portaherramientas y envolvente de aproximación, restricción de acceso y cambio de plano propuesto. Esquema de huella de seguridad y acceso de la herramienta instalada ↗
 
 #### Identificar la interfaz exacta
 
@@ -5259,6 +5285,10 @@ Para una unidad de pasador central, incluya la geometría del pasador, la profun
 #### Separar la resistencia al acceso del rendimiento conjunto
 
 Un dispositivo especial puede desalentar la extracción casual, pero no hace que sea imposible abrir una junta. El material, el enganche de la rosca en la pieza contraria y el método de apriete siguen determinando la conexión mecánica. Defina el acceso de servicio, los requisitos de torque de instalación y la disposición de control de herramientas prevista de forma independiente.
+
+#### Ejemplo: distinguir ajuste de la herramienta y problema de acceso
+
+Considere un tornillo con tetón en una tapa rebajada. Compare primero la huella terminada con la punta de servicio identificada fuera de la carcasa. Después revise la misma punta instalada, incluido portapuntas y aproximación. Si acopla fuera pero queda restringida dentro, revise el acceso antes de cambiar el perfil. Si no asienta en ninguna posición, revise huella, tetón, punta y acabado conjuntamente. Registre qué interfaz cambió y repita la comprobación afectada con la misma herramienta controlada.
 
 #### Ejemplo de especificación
 
@@ -5328,17 +5358,23 @@ Componentes roscados personalizados para soportes, módulos de equipos y otros c
 
 ### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/hollow-screw-bore-specification/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
+DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
 
 ### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización
 
-Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
+Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 Torneado de cabezal móvil y CNC
+Por Theo Wan • ZUFEK Editorial técnica • Publicado el 29 de octubre de 2026 · Actualizado 2026-11-03 Torneado de cabezal móvil y CNC
 
-EN ESTA GUÍA Describe todo el pasaje. Revisar el espesor de la pared con el rosca. Requisitos de limpieza y borde estatal. Definir pruebas funcionales por separado PRODUCTO RELACIONADO Tornillos huecos y con taladro pasante ↗
+EN ESTA GUÍA Describe todo el pasaje. Revisar el espesor de la pared con el rosca. Requisitos de limpieza y borde estatal. Definir pruebas funcionales por separado Ejemplo: incluir el descentramiento en el cálculo de pared PRODUCTO RELACIONADO Tornillos huecos y con taladro pasante ↗
+
+#### Registrar la sección límite y el acceso para inspección
+
+Ejemplo de revisión únicamente. Los datos y criterios corresponden al plano real; no se afirma un resultado de cliente ni una capacidad universal.
+
+Resultado de la sección 1.30 mm es la pared calculada con los datos didácticos indicados, no una recomendación de pared segura ni una presión nominal. Decisión separada sobre bordes internos Identifique el taladro intersectante, el requisito de rebabas, la fase de desbarbado y una revisión adecuada antes de que el montaje limite el acceso. Revisión de sección y conducto del tornillo hueco ↗
 
 #### Describe todo el pasaje.
 
@@ -5357,6 +5393,10 @@ La perforación puede dejar rebabas en las salidas e intersecciones de los orifi
 #### Definir pruebas funcionales por separado
 
 Un orificio continuo no demuestra por sí solo capacidad de presión, estanqueidad o flujo sin restricciones en un conjunto. Indique cualquier medio de prueba, disposición de accesorios y método de aceptación que requiera la aplicación. Estas condiciones deben acordarse antes del muestreo para que la fabricación y la inspección puedan cotizarse juntas.
+
+#### Ejemplo: incluir el descentramiento en el cálculo de pared
+
+Para una sección circular ilustrativa, tome un diámetro límite inferior de la envolvente de raíz de rosca de 6.00 mm, un diámetro límite superior del taladro de 3.00 mm y un desplazamiento radial máximo de su centro de 0.20 mm. La pared mínima de esa sección es (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Aquí el desplazamiento es radial, no una indicación diametral de tolerancia de posición. El cálculo no cubre cruces de taladros, otras secciones locales ni capacidad de carga. Obtenga los valores reales de la geometría controlada y sus límites de tolerancia.
 
 #### Ejemplo de especificación
 
@@ -5432,17 +5472,23 @@ sujetadores definidos por planos de ingeniería para carcasas compactas, mecanis
 
 ### Diseño de la cara de apoyo de un tornillo de brida personalizado
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-flange-bearing-face/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
 
 ### Diseño de la cara de apoyo de un tornillo de brida personalizado
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 Estampación en frío multiestación
+Por Theo Wan • ZUFEK Editorial técnica • Publicado el 29 de octubre de 2026 · Actualizado 2026-11-03 Estampación en frío multiestación
 
-EN ESTA GUÍA Comience con la superficie de contacto Dimensionar la brida como característica funcional Elija la condición de la cara deliberadamente Incluir las condiciones de acabado y apriete. PRODUCTO RELACIONADO Tornillos con brida a medida ↗
+EN ESTA GUÍA Comience con la superficie de contacto Dimensionar la brida como característica funcional Elija la condición de la cara deliberadamente Incluir las condiciones de acabado y apriete. Ejemplo: comparar una brida integral con un conjunto con arandela PRODUCTO RELACIONADO Tornillos con brida a medida ↗
+
+#### Separar la base constante del cambio propuesto
+
+Ejemplo de revisión únicamente. Los datos y criterios corresponden al plano real; no se afirma un resultado de cliente ni una capacidad universal.
+
+Mantener la base de comparación Revisión de soporte y ranura, material de apoyo, recubrimiento, montaje y criterios de aceptación acordados. Comparar ambas disposiciones Huella apoyada, holgura de transición, contribución de arandela al agarre, acoplamiento y marcas tras la secuencia de servicio acordada. Esquema de brida lisa, dentada y arandela separada ↗
 
 #### Comience con la superficie de contacto
 
@@ -5461,6 +5507,10 @@ Las caras de los rodamientos lisas, texturizadas y dentadas no son intercambiabl
 #### Incluir las condiciones de acabado y apriete.
 
 El espesor del revestimiento y la fricción pueden influir en la unión ensamblada. Trate la cara de la brida y las roscas como superficies especificadas, no simplemente como partes de un requisito de color general. Cualquier comparación con un conjunto de arandela debe considerar la unión completa en lugar del número de componentes manipulados.
+
+#### Ejemplo: comparar una brida integral con un conjunto con arandela
+
+En un soporte recubierto con ranura, compare la disposición existente de cabeza y arandela con la brida integral propuesta sobre la misma revisión del plano. Identifique el apoyo que queda alrededor de la ranura y las zonas que deben quedar libres. Revise voladizo de brida o arandela, transición bajo cabeza y marcas admisibles en el recubrimiento. Incluya el espesor de arandela al comparar longitud de agarre y acoplamiento útil. Explicite montaje y criterios de aceptación; reducir piezas sueltas no demuestra un apoyo equivalente ni la misma fuerza de apriete retenida.
 
 #### Ejemplo de especificación
 
@@ -5596,17 +5646,17 @@ DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗
 
-Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
+Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
+Elija la punta del prisionero por su contacto con la pieza. Defina marcas, ajuste y retención admisibles y verifique la unión completa.
 
 Por Theo Wan Leer guía técnica →
 
@@ -5640,17 +5690,17 @@ Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de p
 
 ### Cono, plano, perro o copa: elegir una punta de tornillo prisionero
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/set-screw-tip-selection/
-Last modified: 2026-11-02
+Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
 
 ### Cono, plano, perro o copa: elegir una punta de tornillo prisionero
 
-Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
+Elija la punta del prisionero por su contacto con la pieza. Defina marcas, ajuste y retención admisibles y verifique la unión completa.
 
-Por Theo Wan • ZUFEK Editorial técnica • Publicado en octubre 29, 2026 · Actualizado 2026-11-02 Torneado de cabezal móvil y CNC
+Por Theo Wan • ZUFEK Editorial técnica • Publicado el 29 de octubre de 2026 · Actualizado 2026-11-03 Torneado de cabezal móvil y CNC
 
-EN ESTA GUÍA Elija primero el mecanismo de contacto Trabaje con un ejemplo de tope ajustable Ubicación separada de la sujeción por fricción Liberar un punto y un plan de verificación PRODUCTO RELACIONADO Tornillos prisioneros y de fijación a medida ↗
+EN ESTA GUÍA Elija primero el mecanismo de contacto Trabaje con un ejemplo de tope ajustable Ubicación separada de la sujeción por fricción Liberar un punto y un plan de verificación Redactar un registro de aceptación del ajuste repetido PRODUCTO RELACIONADO Tornillos prisioneros y de fijación a medida ↗
 
 #### Comparar los cuatro tipos de contacto
 
@@ -5670,6 +5720,12 @@ Compare primero el mecanismo de contacto; Confirme la capacidad y la instalació
 
 Descargue la hoja de trabajo de selección de puntos (inglés)
 
+#### Hacer repetible la prueba de ajuste
+
+Ejemplo de revisión únicamente. Los datos y criterios corresponden al plano real; no se afirma un resultado de cliente ni una capacidad universal.
+
+Antes del ensayo Planos de punta y apoyo, marcas admisibles, recorrido y criterio acordado para conservar el ajuste. Tras la secuencia de servicio Posiciones inicial y de retorno, estado del contacto y resultado por criterio; identifique revisiones de punta, apoyo y plano. Formas de contacto del prisionero en el montaje ↗
+
 #### Elija primero el mecanismo de contacto
 
 La forma de la punta describe la geometría, no la capacidad de retención de la unión montada. Seleccione primero el tipo de contacto con la tabla. Indique después material y dureza de la pieza complementaria, el plano, alojamiento o taladro preparado y la secuencia de ajuste y desmontaje. Una punta plana puede ser adecuada si no se desea una arista que penetre, pero no garantiza ausencia de marcas. Las puntas cónica y de copa pueden producir huellas; la cilíndrica necesita un taladro o una ranura definidos.
@@ -5687,6 +5743,10 @@ Si la prolongación cilíndrica entra en un taladro, indique cuánto sobresale y
 #### Liberar un punto y un plan de verificación
 
 El plano controlado debe definir rosca, acceso de herramienta, longitud total, dimensiones de la punta, estado final del material y acabado. Acuerde las condiciones de montaje y una prueba funcional con una pieza complementaria representativa. Registre las marcas permitidas y el comportamiento tras los ajustes o intervenciones exigidos. No se ofrecen pares de apriete ni fuerzas de retención universales: dependen de la unión real.
+
+#### Redactar un registro de aceptación del ajuste repetido
+
+Para el ejercicio de tope de utillaje, defina posición inicial, marca admisible y secuencia de ajuste/servicio antes del ensayo. Revise el contacto en ambos extremos del recorrido y tras volver al inicio. Distinga valoración visual, lectura dimensional y observación funcional. Si cambia el apoyo o la punta, compare con los mismos criterios sin reutilizar el resultado anterior. Esto crea un registro de aceptación, no un par universal ni una fuerza de retención general.
 
 #### Ejemplo de especificación
 
@@ -5826,11 +5886,11 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cómo especificar un tornillo a prueba de manipulaciones ↗
 
-El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.
+Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.
 
 Por Theo Wan Leer guía técnica →
 
@@ -6010,11 +6070,11 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un tornillo ajustado manualmente debe ser accesible, cómodo de agarrar y compatible con el ajuste requerido. La textura de la cabeza por sí sola no define cómo funciona el mecanismo.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cómo especificar un tornillo a prueba de manipulaciones ↗
 
-El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.
+Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.
 
 Por Theo Wan Leer guía técnica →
 
@@ -6266,7 +6326,7 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
 
-Elija una punta de tornillo de fijación por su contacto con el componente acoplado: contacto de cara ancha, penetración, una extensión de localización o un borde de mordida. Comience con el daño superficial permitido, la frecuencia de ajuste y la retención requerida, luego defina juntos el punto y su característica de acoplamiento.
+Elija la punta del prisionero por su contacto con la pieza. Defina marcas, ajuste y retención admisibles y verifique la unión completa.
 
 Por Theo Wan Leer guía técnica →
 
@@ -6722,11 +6782,11 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 Un ajuste de eje y una clase de tolerancia de rosca controlan diferentes interfaces. Escriba claramente la función requerida antes de decidir cómo se deben terminar las superficies.
 
-Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Cómo especificar un tornillo a prueba de manipulaciones ↗
 
-El nombre de una unidad de seguridad es un punto de partida, no una especificación de interfaz completa. El hueco, la herramienta correspondiente y el acceso de montaje disponible deben trabajar juntos.
+Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.
 
 Por Theo Wan Leer guía técnica →
 
@@ -7174,7 +7234,7 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Diseño de la cara de apoyo de un tornillo de brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 Por Theo Wan Leer guía técnica → ADQUISICIÓN 2 LECTURA MÍNIMA
 
@@ -7268,11 +7328,11 @@ TW Theo Wan Editorial Técnica ZUFEK · guías de dibujo, fabricación y compras
 
 #### Continuar explorando
 
-DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
+DISEÑO Y DIMENSIONES 3 LECTURA MÍNIMA
 
 ##### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗
 
-Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
+Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 Por Theo Wan Leer guía técnica → CALIDAD 2 LECTURA MÍNIMA
 
@@ -7468,7 +7528,7 @@ Por Theo Wan Leer guía técnica → DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Diseño de la cara de apoyo de un tornillo de brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 Por Theo Wan Leer guía técnica →
 
@@ -7962,7 +8022,7 @@ DISEÑO Y DIMENSIONES 2 LECTURA MÍNIMA
 
 ##### Diseño de la cara de apoyo de un tornillo de brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 Por Theo Wan Leer guía técnica → MATERIALES Y ACABADOS 2 LECTURA MÍNIMA
 
@@ -11245,7 +11305,7 @@ GUÍA DE INGENIERÍA
 
 ##### Diseño de la cara de apoyo de un tornillo con brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 GUÍA DE INGENIERÍA
 
@@ -11407,7 +11467,7 @@ GUÍA DE INGENIERÍA
 
 ##### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗
 
-Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
+Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 ### Equipos de energía, carga y almacenamiento Sujetadores personalizados
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/energy-equipment/
@@ -11476,13 +11536,13 @@ GUÍA DE INGENIERÍA
 
 ##### Diseño de la cara de apoyo de un tornillo con brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 GUÍA DE INGENIERÍA
 
 ##### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗
 
-Un agujero axial cambia tanto la fabricación como la inspección. Una útil especificación de tornillo hueco explica el paso, la pared circundante y las condiciones dentro del orificio.
+Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 ### Moldes, herramientas y accesorios de prueba Sujetadores personalizados
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/molds-fixtures/
@@ -11626,7 +11686,7 @@ GUÍA DE INGENIERÍA
 
 ##### Diseño de la cara de apoyo de un tornillo con brida personalizado ↗
 
-Una brida es más que un círculo más grande debajo de la cabeza. Su cara de apoyo, rigidez y holgura deben coincidir con el componente que se sujeta.
+Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.
 
 GUÍA DE INGENIERÍA
 

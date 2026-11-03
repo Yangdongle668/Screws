@@ -186,17 +186,17 @@ Visitez le blog technique ↗ ACHATS 3 LECTURE MIN
 
 Un devis exploitable repose sur des exigences claires. Le plan est le meilleur point de départ ; un échantillon, un croquis ou une description du montage permettent aussi de préciser les points ouverts.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Un guide pratique des dessins de vis à épaulement ↗
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Cinq questions avant de spécifier une vis imperdable ↗
 
-Une vis imperdable fait partie d’un système de retenue. Examiner panneau, dispositif de retenue et filetage associé avant de finaliser le plan.
+Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.
 
 Par Theo Wan Lire le guide technique →
 
@@ -348,17 +348,17 @@ Tous les articles ↗ ACHATS 3 LECTURE MIN
 
 Un devis exploitable repose sur des exigences claires. Le plan est le meilleur point de départ ; un échantillon, un croquis ou une description du montage permettent aussi de préciser les points ouverts.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Un guide pratique des dessins de vis à épaulement ↗
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Cinq questions avant de spécifier une vis imperdable ↗
 
-Une vis imperdable fait partie d’un système de retenue. Examiner panneau, dispositif de retenue et filetage associé avant de finaliser le plan.
+Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.
 
 Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 
@@ -402,23 +402,23 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Comment spécifier un entraînement à vis inviolable ↗
 
-Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.
+Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗
 
-Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
+Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
@@ -430,7 +430,7 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
+Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
@@ -625,17 +625,17 @@ TOUS LES ARTICLES ACHATS CONCEPTION ET DIMENSIONS MATÉRIAUX ET FINITIONS QUALIT
 
 Un devis exploitable repose sur des exigences claires. Le plan est le meilleur point de départ ; un échantillon, un croquis ou une description du montage permettent aussi de préciser les points ouverts.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Un guide pratique des dessins de vis à épaulement ↗
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Cinq questions avant de spécifier une vis imperdable ↗
 
-Une vis imperdable fait partie d’un système de retenue. Examiner panneau, dispositif de retenue et filetage associé avant de finaliser le plan.
+Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.
 
 Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 
@@ -679,23 +679,23 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Comment spécifier un entraînement à vis inviolable ↗
 
-Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.
+Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗
 
-Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
+Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
@@ -707,7 +707,7 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
+Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
@@ -1034,17 +1034,17 @@ Rechercher tous les articles 42 ↗ ACHATS 3 LECTURE MIN
 
 Un devis exploitable repose sur des exigences claires. Le plan est le meilleur point de départ ; un échantillon, un croquis ou une description du montage permettent aussi de préciser les points ouverts.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Un guide pratique des dessins de vis à épaulement ↗
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Cinq questions avant de spécifier une vis imperdable ↗
 
-Une vis imperdable fait partie d’un système de retenue. Examiner panneau, dispositif de retenue et filetage associé avant de finaliser le plan.
+Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.
 
 Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 
@@ -1701,7 +1701,7 @@ CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Cinq questions avant de spécifier une vis imperdable ↗
 
-Une vis imperdable fait partie d’un système de retenue. Examiner panneau, dispositif de retenue et filetage associé avant de finaliser le plan.
+Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.
 
 Par Theo Wan Lire le guide technique →
 
@@ -4400,17 +4400,23 @@ Par Theo Wan Lire le guide technique →
 
 ### Un guide pratique des dessins de vis à épaulement
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/shoulder-screw-drawing-guide/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
+CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 ### Un guide pratique des dessins de vis à épaulement
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Vis à épaulement et vis étagées
+Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Vis à épaulement et vis étagées
 
-DANS CE GUIDE Définir l'épaule Montrer comment se termine le fil de discussion Examiner l'accès à la tête et les sièges Communiquer les tolérances fonctionnelles Dessinez la pile d'assemblage, pas seulement la vis Choisissez des références qui correspondent à la fonction de localisation Approuver la surface finale fournie PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
+DANS CE GUIDE Définir l'épaule Montrer comment se termine le fil de discussion Examiner l'accès à la tête et les sièges Communiquer les tolérances fonctionnelles Dessinez la pile d'assemblage, pas seulement la vis Choisissez des références qui correspondent à la fonction de localisation Approuver la surface finale fournie Exemple : calculer séparément le jeu diamétral PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
+
+#### Transformer les limites des diamètres en fiche de revue
+
+Exemple de revue uniquement. Les données et critères relèvent du plan réel ; aucun résultat client ni niveau de performance universel n’est affirmé.
+
+Jeu diamétral minimal 8.010 − 8.005 = 0.005 mm, avec alésage minimal et épaulement maximal. Jeu diamétral maximal 8.030 − 7.995 = 0.035 mm, avec alésage maximal et épaulement minimal. Interfaces de l’épaulement et exemple distinct de jeu axial ↗
 
 #### Définir l'épaule
 
@@ -4441,6 +4447,10 @@ Identifiez l'axe et la face qui localisent la pièce en service. Décidez si la 
 #### Approuver la surface finale fournie
 
 Le traitement et le revêtement peuvent modifier les conditions utilisées pour accepter l'épaule. Indiquer les limites finales et la couverture du revêtement sur la surface fonctionnelle. Le dossier d’inspection doit distinguer la mesure de l’épaulement du jaugeage du fil. Un filetage correct ne garantit pas l'ajustement du pivot, et une silhouette externe correcte ne garantit pas la rugosité de la surface.
+
+#### Exemple : calculer séparément le jeu diamétral
+
+Supposons un diamètre fini d’épaulement de 8.000 ± 0.005 mm et un alésage de 8.020 ± 0.010 mm. Comparez l’alésage minimal avec l’épaulement maximal, puis l’alésage maximal avec l’épaulement minimal. La plage 0.005–0.035 mm est un jeu diamétral, ni radial ni axial. Ces valeurs d’exemple ne définissent pas un ajustement normalisé ni une plage de fonctionnement approuvée. Le concepteur doit préciser plage fonctionnelle, température de référence, relations géométriques et surface finale.
 
 Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la préparation de la demande de prix , alors soumettre votre dessin technique pour examen . Pour les conditions d'acceptation, voir planification de la qualité .
 
@@ -4496,17 +4506,23 @@ Composants filetés personnalisés pour supports, modules d'équipement et autre
 
 ### Cinq questions avant de spécifier une vis imperdable
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/captive-screw-design-questions/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 ### Cinq questions avant de spécifier une vis imperdable
 
-Une vis imperdable fait partie d’un système de retenue. Examiner panneau, dispositif de retenue et filetage associé avant de finaliser le plan.
+Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Vis imperdables
+Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Vis imperdables
 
-DANS CE GUIDE Qu'est-ce qui retient la vis ? Quelle quantité de mouvement est nécessaire ? Que se passe-t-il pendant le service ? Comment l’assemblage sera-t-il vérifié ? Que doit accompagner la demande de prix ? PRODUIT CONNEXE Vis captives ↗
+DANS CE GUIDE Qu'est-ce qui retient la vis ? Quelle quantité de mouvement est nécessaire ? Que se passe-t-il pendant le service ? Comment l’assemblage sera-t-il vérifié ? Que doit accompagner la demande de prix ? Exemple : ouvrir un panneau de service sans perdre la vis PRODUIT CONNEXE Vis captives ↗
+
+#### Consigner les deux positions de service dans l’approbation
+
+Exemple de revue uniquement. Les données et critères relèvent du plan réel ; aucun résultat client ni niveau de performance universel n’est affirmé.
+
+Schéma d’ensemble à fournir Épaisseur et trou du panneau, retenue, positions ouverte et serrée, engagement du filetage et obstacles voisins. Revue des échantillons à convenir Identifiez les indices du panneau, de la retenue et de la vis ; consignez retenue, dégagement et remontage selon des critères distincts. Schéma de la vis imperdable ouverte et serrée ↗
 
 #### Qu'est-ce qui retient la vis ?
 
@@ -4530,6 +4546,10 @@ Définissez les critères de rétention et d’acceptation fonctionnelle avec vo
 
 Incluez le dessin technique de la vis, l'assemblage d'accouplement, la quantité et tous les exemples de photos. Les détails de conservation non résolus peuvent être examinés avant qu'un devis final ne soit émis.
 
+#### Exemple : ouvrir un panneau de service sans perdre la vis
+
+Pour un exercice de conception de panneau, commencez par la séquence de montage. Montrez la pose de la vis et de sa retenue, l’élément empêchant sa sortie et sa position serrée. Vérifiez que la course desserrée dégage le taraudage et permet l’ouverture. Contrôlez ensuite que les éléments retenus ne gênent pas l’appui et ne réduisent pas l’engagement requis. Consignez retenue et ouverture/remontage séparément avec les indices identifiés du panneau et de la retenue.
+
 Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la préparation de la demande de prix , alors soumettre votre dessin technique pour examen . Pour les conditions d'acceptation, voir planification de la qualité .
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
@@ -4538,11 +4558,11 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 #### Continuer à explorer
 
-CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Un guide pratique des dessins de vis à épaulement ↗
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
@@ -4550,11 +4570,11 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Comment spécifier un entraînement à vis inviolable ↗
 
-Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.
+Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
 Par Theo Wan Lire le guide technique →
 
@@ -4820,11 +4840,11 @@ QUALITÉ 3 LECTURE MIN
 
 L'inspection dimensionnelle par caméra peut évaluer les caractéristiques visibles d'une vis, mais l'image, la configuration et le programme d'inspection doivent correspondre aux exigences. Il s’agit d’une partie d’un plan d’acceptation complet.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Un guide pratique des dessins de vis à épaulement ↗
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
 Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 
@@ -5176,11 +5196,11 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 #### Continuer à explorer
 
-CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Un guide pratique des dessins de vis à épaulement ↗
 
-Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage.
+Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
 Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 
@@ -5230,17 +5250,23 @@ Composants filetés personnalisés pour supports, modules d'équipement et autre
 
 ### Comment spécifier un entraînement à vis inviolable
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/specifying-security-screw-drive/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
+CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 ### Comment spécifier un entraînement à vis inviolable
 
-Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.
+Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Frappe à froid multiposte
+Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Frappe à froid multiposte
 
-DANS CE GUIDE Identifiez l’interface exacte Définir l'accès à la tête et à l'outil Examiner les caractéristiques des broches et des évidements Séparer la résistance d’accès de la performance des joints PRODUIT CONNEXE Vis de sécurité et anti-effraction ↗
+DANS CE GUIDE Identifiez l’interface exacte Définir l'accès à la tête et à l'outil Examiner les caractéristiques des broches et des évidements Séparer la résistance d’accès de la performance des joints Exemple : distinguer ajustement de l’outil et accès PRODUIT CONNEXE Vis de sécurité et anti-effraction ↗
+
+#### Identifier l’interface à corriger
+
+Exemple de revue uniquement. Les données et critères relèvent du plan réel ; aucun résultat client ni niveau de performance universel n’est affirmé.
+
+Fiche outil et pièce libre Référence de l’empreinte, identification de l’embout, dégagement du téton et engagement utile sur l’échantillon fini. Fiche d’accès une fois monté Indice du boîtier, porte-outil et enveloppe d’approche, restriction d’accès et modification proposée du plan. Schéma d’empreinte de sécurité et d’accès de l’outil monté ↗
 
 #### Identifiez l’interface exacte
 
@@ -5259,6 +5285,10 @@ Pour un entraînement à broche centrale, incluez la géométrie de la broche, l
 #### Séparer la résistance d’accès de la performance des joints
 
 Un entraînement spécial peut décourager un retrait accidentel, mais il ne rend pas l'ouverture d'un joint impossible. Le matériau, l'engagement du filetage dans la pièce d'accouplement et la méthode de serrage déterminent toujours la connexion mécanique. Définissez indépendamment l’accès à l’entretien, les exigences de couple d’installation et la disposition prévue pour le contrôle des outils.
+
+#### Exemple : distinguer ajustement de l’outil et accès
+
+Considérez une vis avec téton dans un couvercle encastré. Comparez d’abord l’empreinte finie avec l’embout de service identifié hors du boîtier. Examinez ensuite le même embout en place, avec porte-embout et espace d’approche. S’il engage hors boîtier mais reste gêné en place, examinez l’accès avant de modifier le profil. S’il ne porte dans aucune position, vérifiez ensemble empreinte, téton, embout et finition. Consignez l’interface modifiée et répétez le contrôle concerné avec le même outil de référence.
 
 #### Exemple de spécification
 
@@ -5328,17 +5358,23 @@ Composants filetés personnalisés pour supports, modules d'équipement et autre
 
 ### Alésages de vis creuses : les détails qu'une demande de prix doit inclure
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/hollow-screw-bore-specification/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
-CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
+CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 ### Alésages de vis creuses : les détails qu'une demande de prix doit inclure
 
-Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
+Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Décolletage à poupée mobile et tournage CNC
 
-DANS CE GUIDE Décrivez tout le passage Vérifier l'épaisseur de la paroi avec le fil Exigences de bord et de propreté de l’État Définir les tests fonctionnels séparément PRODUIT CONNEXE Vis creuses et vis à perçage traversant ↗
+DANS CE GUIDE Décrivez tout le passage Vérifier l'épaisseur de la paroi avec le fil Exigences de bord et de propreté de l’État Définir les tests fonctionnels séparément Exemple : inclure le décalage du perçage dans le calcul de paroi PRODUIT CONNEXE Vis creuses et vis à perçage traversant ↗
+
+#### Consigner la section limitante et l’accès au contrôle
+
+Exemple de revue uniquement. Les données et critères relèvent du plan réel ; aucun résultat client ni niveau de performance universel n’est affirmé.
+
+Résultat en coupe 1.30 mm est la paroi calculée avec les données pédagogiques indiquées, pas une épaisseur de sécurité recommandée ni une pression admissible. Décision distincte sur les arêtes internes Identifiez le trou sécant, l’exigence de bavure, l’étape d’ébavurage et un contrôle adapté avant que le montage ne limite l’accès. Examen en coupe et du passage d’une vis creuse ↗
 
 #### Décrivez tout le passage
 
@@ -5357,6 +5393,10 @@ Le perçage peut laisser des bavures aux sorties et aux intersections des trous.
 #### Définir les tests fonctionnels séparément
 
 Un alésage continu ne prouve pas en soi la capacité de pression, l'étanchéité ou le débit sans restriction dans un assemblage. Indiquez tout support d'essai, disposition des accessoires et méthode d'acceptation requis par l'application. Ces conditions doivent être convenues avant l'échantillonnage afin que la fabrication et l'inspection puissent être proposées ensemble.
+
+#### Exemple : inclure le décalage du perçage dans le calcul de paroi
+
+Pour une section circulaire illustrative, prenez un diamètre limite inférieur de l’enveloppe de fond de filet de 6.00 mm, un diamètre limite supérieur du perçage de 3.00 mm et un décalage radial maximal de son centre de 0.20 mm. La paroi résiduelle minimale dans cette section vaut (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Le décalage désigne ici une distance radiale, pas une tolérance de position diamétrale. Ce calcul ne couvre ni les intersections de trous, ni les autres sections locales, ni la capacité de charge. Déduisez les données réelles de la géométrie maîtrisée et de ses limites de tolérance.
 
 #### Exemple de spécification
 
@@ -5432,17 +5472,23 @@ fixations définies par des dessins techniques pour boîtiers compacts, mécanis
 
 ### Conception de la face d'appui d'une vis à bride personnalisée
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-flange-bearing-face/
-Last modified: 2026-10-29
+Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 ### Conception de la face d'appui d'une vis à bride personnalisée
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Frappe à froid multiposte
+Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Frappe à froid multiposte
 
-DANS CE GUIDE Commencez par la surface de contact Dimensionner la bride en tant que caractéristique fonctionnelle Choisissez délibérément l'état du visage Inclure la finition et les conditions de serrage PRODUIT CONNEXE Vis à embase sur mesure ↗
+DANS CE GUIDE Commencez par la surface de contact Dimensionner la bride en tant que caractéristique fonctionnelle Choisissez délibérément l'état du visage Inclure la finition et les conditions de serrage Exemple : comparer collerette intégrée et montage avec rondelle PRODUIT CONNEXE Vis à embase sur mesure ↗
+
+#### Séparer les données inchangées de la modification
+
+Exemple de revue uniquement. Les données et critères relèvent du plan réel ; aucun résultat client ni niveau de performance universel n’est affirmé.
+
+Conserver la base de comparaison Indices de la patte et du trou oblong, matériau en contact, revêtement, montage et critères de réception convenus. Comparer les deux montages Empreinte soutenue, dégagement du raccord, contribution de la rondelle à la longueur serrée, engagement et marques après la séquence de service convenue. Schéma de collerette lisse, dentée et de rondelle séparée ↗
 
 #### Commencez par la surface de contact
 
@@ -5461,6 +5507,10 @@ Les faces de roulement lisses, texturées et dentelées ne sont pas interchangea
 #### Inclure la finition et les conditions de serrage
 
 L’épaisseur du revêtement et le frottement peuvent influencer le joint assemblé. Traitez la face de la bride et les filetages comme des surfaces spécifiées, et non comme de simples éléments d'une exigence globale de couleur. Toute comparaison avec un ensemble de rondelles doit prendre en compte le joint complet plutôt que le nombre de composants manipulés.
+
+#### Exemple : comparer collerette intégrée et montage avec rondelle
+
+Sur une patte revêtue à trou oblong, comparez le montage tête-rondelle existant à la collerette intégrée proposée à partir du même indice de plan. Repérez le support restant autour du trou et les zones à dégager. Examinez le débord de la collerette ou rondelle, le raccord sous tête et les marques admissibles sur le revêtement. Tenez compte de l’épaisseur de rondelle pour comparer longueur serrée et engagement utile. Explicitez montage et critères de réception : moins de pièces séparées ne prouve ni un appui équivalent ni une force de serrage résiduelle équivalente.
 
 #### Exemple de spécification
 
@@ -5596,17 +5646,17 @@ CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗
 
-Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
+Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
+Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.
 
 Par Theo Wan Lire le guide technique →
 
@@ -5640,17 +5690,17 @@ Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, post
 
 ### Cône, plat, chien ou coupelle : choisir un embout à vis
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/set-screw-tip-selection/
-Last modified: 2026-11-02
+Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 ### Cône, plat, chien ou coupelle : choisir un embout à vis
 
-Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
+Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 · Mise à jour 2026-11-02 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Décolletage à poupée mobile et tournage CNC
 
-DANS CE GUIDE Choisissez d'abord le mécanisme de contact Travailler sur un exemple de butée réglable Emplacement séparé du serrage par friction Libérer un point et un plan de vérification PRODUIT CONNEXE Vis sans tête et vis de pression sur mesure ↗
+DANS CE GUIDE Choisissez d'abord le mécanisme de contact Travailler sur un exemple de butée réglable Emplacement séparé du serrage par friction Libérer un point et un plan de vérification Rédiger une fiche de réception du réglage répété PRODUIT CONNEXE Vis sans tête et vis de pression sur mesure ↗
 
 #### Comparer les quatre modes de contact
 
@@ -5670,6 +5720,12 @@ Comparez d'abord le mécanisme de contact ; confirmer la capacité et l'installa
 
 Téléchargez la feuille de travail de sélection de points (anglais)
 
+#### Rendre l’essai de réglage reproductible
+
+Exemple de revue uniquement. Les données et critères relèvent du plan réel ; aucun résultat client ni niveau de performance universel n’est affirmé.
+
+Avant l’essai Plans de pointe et de patin, marques admises, course et critère convenu de maintien du réglage. Après la séquence de service Positions initiale et de retour, état du contact et résultat par critère ; identifiez les indices de pointe, de patin et de plan. Formes de contact de la vis de pression dans l’assemblage ↗
+
 #### Choisissez d'abord le mécanisme de contact
 
 La forme du bout décrit sa géométrie, pas la capacité de maintien de l’assemblage. Sélectionnez d’abord le mode de contact à l’aide du tableau. Précisez ensuite le matériau et la dureté de la pièce en regard, le méplat, le logement ou le trou préparé, ainsi que la séquence de réglage et de démontage. Le bout plat peut convenir lorsqu’une arête pénétrante est indésirable, sans garantir l’absence de marques. Les bouts conique et cuvette peuvent marquer la surface ; le téton nécessite un trou ou une rainure définis.
@@ -5687,6 +5743,10 @@ Lorsqu’un téton cylindrique entre dans un trou, indiquez sa saillie et la pro
 #### Libérer un point et un plan de vérification
 
 Le plan maîtrisé doit définir le filetage, l’accès de l’outil, la longueur totale, les dimensions du bout, l’état final du matériau et le traitement de surface. Convenez des conditions de montage et d’un essai fonctionnel avec une pièce en regard représentative. Consignez les marques admises et le comportement après la séquence de réglage ou de maintenance demandée. Aucun couple ni effort de maintien universel n’est donné ici : ils dépendent de l’assemblage réel.
+
+#### Rédiger une fiche de réception du réglage répété
+
+Pour l’exercice de butée de montage, définissez avant l’essai la position initiale, la marque de contact admise et la séquence de réglage/service. Contrôlez le contact aux extrémités de course et après retour au départ. Distinguez appréciation visuelle, mesure dimensionnelle et observation fonctionnelle. Si le patin ou la pointe change, appliquez les mêmes critères sans reprendre l’ancien résultat. Cette démarche constitue une fiche de réception, pas un couple universel ni une force de maintien générale.
 
 #### Exemple de spécification
 
@@ -5826,11 +5886,11 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Comment spécifier un entraînement à vis inviolable ↗
 
-Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.
+Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
 Par Theo Wan Lire le guide technique →
 
@@ -6010,11 +6070,11 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Une vis réglée manuellement doit être accessible, confortable à saisir et compatible avec le réglage requis. La texture de la tête à elle seule ne définit pas le fonctionnement du mécanisme.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Comment spécifier un entraînement à vis inviolable ↗
 
-Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.
+Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
 Par Theo Wan Lire le guide technique →
 
@@ -6266,7 +6326,7 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Cône, plat, chien ou coupelle : choisir un embout à vis ↗
 
-Choisissez la pointe d'une vis de réglage en fonction de son contact avec le composant d'accouplement : contact à face large, pénétration, extension de localisation ou rebord mordant. Commencez par les dommages de surface admissibles, la fréquence de réglage et la rétention requise, puis définissez ensemble le point et sa fonction d'accouplement.
+Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.
 
 Par Theo Wan Lire le guide technique →
 
@@ -6722,11 +6782,11 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
-Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Comment spécifier un entraînement à vis inviolable ↗
 
-Un nom de lecteur de sécurité est un point de départ et non une spécification d'interface complète. L'évidement, l'outil correspondant et l'accès d'assemblage disponible doivent fonctionner ensemble.
+Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
 Par Theo Wan Lire le guide technique →
 
@@ -7174,7 +7234,7 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 Par Theo Wan Lire le guide technique → ACHATS 2 LECTURE MIN
 
@@ -7268,11 +7328,11 @@ TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabric
 
 #### Continuer à explorer
 
-CONCEPTION ET DIMENSIONS 2 LECTURE MIN
+CONCEPTION ET DIMENSIONS 3 LECTURE MIN
 
 ##### Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗
 
-Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
+Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 Par Theo Wan Lire le guide technique → QUALITÉ 2 LECTURE MIN
 
@@ -7468,7 +7528,7 @@ Par Theo Wan Lire le guide technique → CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 Par Theo Wan Lire le guide technique →
 
@@ -7962,7 +8022,7 @@ CONCEPTION ET DIMENSIONS 2 LECTURE MIN
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 Par Theo Wan Lire le guide technique → MATÉRIAUX ET FINITIONS 2 LECTURE MIN
 
@@ -11245,7 +11305,7 @@ GUIDE D'INGÉNIERIE
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 GUIDE D'INGÉNIERIE
 
@@ -11407,7 +11467,7 @@ GUIDE D'INGÉNIERIE
 
 ##### Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗
 
-Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
+Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 ### Attaches personnalisées pour équipements d'énergie, de recharge et de stockage
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/energy-equipment/
@@ -11476,13 +11536,13 @@ GUIDE D'INGÉNIERIE
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 GUIDE D'INGÉNIERIE
 
 ##### Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗
 
-Un trou axial change à la fois la fabrication et l’inspection. Une spécification utile de vis creuse explique le passage, le mur d'enceinte et les conditions à l'intérieur de l'alésage.
+Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 ### Moules, outillage et montages d'essai
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/molds-fixtures/
@@ -11626,7 +11686,7 @@ GUIDE D'INGÉNIERIE
 
 ##### Conception de la face d'appui d'une vis à bride personnalisée ↗
 
-Une bride est plus qu'un cercle plus grand sous la tête. Sa face d'appui, sa rigidité et son jeu doivent correspondre à la pièce à serrer.
+Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
 GUIDE D'INGÉNIERIE
 

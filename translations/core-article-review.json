@@ -1,0 +1,520 @@
+{
+  "Worked review only. Inputs and acceptance criteria belong to the actual drawing; no customer test result or universal performance rating is claimed.": {
+    "de": "Nur ein durchgerechnetes Prüfbeispiel. Eingaben und Abnahmekriterien stammen aus der tatsächlichen Zeichnung; kein Kundenprüfergebnis und keine allgemeingültige Leistungszusage.",
+    "es": "Ejemplo de revisión únicamente. Los datos y criterios corresponden al plano real; no se afirma un resultado de cliente ni una capacidad universal.",
+    "it": "Solo esempio di verifica. Dati e criteri appartengono al disegno reale; non si dichiara un risultato di prova cliente o una prestazione universale.",
+    "fr": "Exemple de revue uniquement. Les données et critères relèvent du plan réel ; aucun résultat client ni niveau de performance universel n’est affirmé.",
+    "zh": "仅为评审示例。实际输入和验收条件应由项目图纸明确，不代表客户实测结果或通用性能保证。"
+  },
+  "A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.": {
+    "de": "Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.",
+    "es": "El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.",
+    "it": "Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.",
+    "fr": "Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.",
+    "zh": "肩轴螺丝图纸应分别明确孔轴配合、轴向尺寸链、螺纹与最终表面要求，样品批准前按尺寸上下限核对间隙。"
+  },
+  "Worked review: calculate diametral clearance separately": {
+    "de": "Rechenbeispiel: Durchmesserspiel getrennt bestimmen",
+    "es": "Ejemplo: calcular por separado la holgura diametral",
+    "it": "Esempio: calcolare separatamente il gioco diametrale",
+    "fr": "Exemple : calculer séparément le jeu diamétral",
+    "zh": "评审算例：单独计算直径方向的配合间隙"
+  },
+  "Assume a finished shoulder diameter of 8.000 ± 0.005 mm and a mating bore of 8.020 ± 0.010 mm. Compare the smallest bore with the largest shoulder, then the largest bore with the smallest shoulder. The resulting 0.005–0.035 mm range is diametral clearance, not radial clearance or an axial gap. These illustrative inputs do not define a standard fit or an approved operating range. The designer still specifies the functional range, temperature basis, datum relationships and final surface condition.": {
+    "de": "Angenommen werden ein fertiger Schulterdurchmesser von 8.000 ± 0.005 mm und eine Gegenbohrung von 8.020 ± 0.010 mm. Vergleichen Sie die kleinste Bohrung mit der größten Schulter und anschließend die größte Bohrung mit der kleinsten Schulter. Der Bereich 0.005–0.035 mm ist Durchmesserspiel, weder Radialspiel noch Axialspalt. Diese Beispielwerte legen keine Normpassung oder freigegebenen Betriebsgrenzen fest. Konstruktion und Anwendung bestimmen weiterhin Funktionsbereich, Temperaturbasis, Bezugsbeziehungen und Endoberfläche.",
+    "es": "Suponga un hombro terminado de 8.000 ± 0.005 mm y un taladro de 8.020 ± 0.010 mm. Compare el taladro menor con el hombro mayor y después el taladro mayor con el hombro menor. El intervalo 0.005–0.035 mm es holgura diametral, no radial ni axial. Estos datos ilustrativos no definen un ajuste normalizado ni un intervalo de funcionamiento aprobado. El diseñador sigue definiendo rango funcional, temperatura de referencia, relaciones geométricas y estado superficial final.",
+    "it": "Si assumano un diametro finito dello spallamento di 8.000 ± 0.005 mm e un foro accoppiato di 8.020 ± 0.010 mm. Confrontare il foro minimo con il gambo massimo, poi il foro massimo con il gambo minimo. L’intervallo 0.005–0.035 mm è gioco diametrale, non radiale né assiale. Questi dati illustrativi non definiscono un accoppiamento normalizzato o limiti operativi approvati. Il progettista deve ancora stabilire intervallo funzionale, temperatura di riferimento, relazioni geometriche e superficie finale.",
+    "fr": "Supposons un diamètre fini d’épaulement de 8.000 ± 0.005 mm et un alésage de 8.020 ± 0.010 mm. Comparez l’alésage minimal avec l’épaulement maximal, puis l’alésage maximal avec l’épaulement minimal. La plage 0.005–0.035 mm est un jeu diamétral, ni radial ni axial. Ces valeurs d’exemple ne définissent pas un ajustement normalisé ni une plage de fonctionnement approuvée. Le concepteur doit préciser plage fonctionnelle, température de référence, relations géométriques et surface finale.",
+    "zh": "假设成品肩轴直径为 8.000 ± 0.005 mm，配合孔为 8.020 ± 0.010 mm。先用最小孔径减去最大轴径，再用最大孔径减去最小轴径，得到 0.005–0.035 mm 的直径差范围。这里算的是直径间隙，不是单边径向间隙，也不是轴向间隙。这组示例尺寸不代表标准配合或已批准的使用范围；功能允许值、温度依据、基准关系和最终表面状态仍需由设计方明确。"
+  },
+  "Turn the diameter limits into a review record": {
+    "de": "Aus Durchmessergrenzen einen Prüfnachweis ableiten",
+    "es": "Convertir los límites de diámetro en un registro de revisión",
+    "it": "Trasformare i limiti dei diametri in una verifica documentata",
+    "fr": "Transformer les limites des diamètres en fiche de revue",
+    "zh": "把孔轴极限尺寸写成可核对的记录"
+  },
+  "Minimum diametral clearance": {
+    "de": "Kleinstes Durchmesserspiel",
+    "es": "Holgura diametral mínima",
+    "it": "Gioco diametrale minimo",
+    "fr": "Jeu diamétral minimal",
+    "zh": "最小直径间隙"
+  },
+  "8.010 − 8.005 = 0.005 mm, using the smallest bore and largest shoulder.": {
+    "de": "8.010 − 8.005 = 0.005 mm aus kleinster Bohrung und größter Schulter.",
+    "es": "8.010 − 8.005 = 0.005 mm, con el taladro menor y el hombro mayor.",
+    "it": "8.010 − 8.005 = 0.005 mm, con foro minimo e gambo massimo.",
+    "fr": "8.010 − 8.005 = 0.005 mm, avec alésage minimal et épaulement maximal.",
+    "zh": "8.010 − 8.005 = 0.005 mm，采用最小孔径与最大轴径。"
+  },
+  "Maximum diametral clearance": {
+    "de": "Größtes Durchmesserspiel",
+    "es": "Holgura diametral máxima",
+    "it": "Gioco diametrale massimo",
+    "fr": "Jeu diamétral maximal",
+    "zh": "最大直径间隙"
+  },
+  "8.030 − 7.995 = 0.035 mm, using the largest bore and smallest shoulder.": {
+    "de": "8.030 − 7.995 = 0.035 mm aus größter Bohrung und kleinster Schulter.",
+    "es": "8.030 − 7.995 = 0.035 mm, con el taladro mayor y el hombro menor.",
+    "it": "8.030 − 7.995 = 0.035 mm, con foro massimo e gambo minimo.",
+    "fr": "8.030 − 7.995 = 0.035 mm, avec alésage maximal et épaulement minimal.",
+    "zh": "8.030 − 7.995 = 0.035 mm，采用最大孔径与最小轴径。"
+  },
+  "Shoulder interfaces and the separate axial-clearance example": {
+    "de": "Schulterschnittstellen und separates Axialspiel-Beispiel",
+    "es": "Interfaces del hombro y ejemplo independiente de holgura axial",
+    "it": "Interfacce dello spallamento ed esempio separato di gioco assiale",
+    "fr": "Interfaces de l’épaulement et exemple distinct de jeu axial",
+    "zh": "查看肩轴接口与独立的轴向间隙算例"
+  },
+  "Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.": {
+    "de": "Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.",
+    "es": "Especifique el tornillo imperdible con panel, retenedor y rosca receptora. Revise por separado montaje, recorrido liberado y acoplamiento apretado.",
+    "it": "Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.",
+    "fr": "Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.",
+    "zh": "防脱螺丝要连同面板、保持件和配合螺纹一起定义，分别核对安装过程、松开行程及锁紧后的有效旋合。"
+  },
+  "Worked review: release a service panel without losing the screw": {
+    "de": "Prüfbeispiel: Wartungsplatte öffnen, ohne die Schraube zu verlieren",
+    "es": "Ejemplo: liberar un panel de servicio sin perder el tornillo",
+    "it": "Esempio: aprire un pannello di servizio senza perdere la vite",
+    "fr": "Exemple : ouvrir un panneau de service sans perdre la vis",
+    "zh": "评审示例：面板打开后，螺丝仍留在组件上"
+  },
+  "For a service-panel design exercise, begin with the intended installation sequence. Show how the screw and retaining part are assembled, which feature prevents escape after release, and where the screw sits once tightened. Check that the available released travel clears the mating thread and permits the panel to open. Then check that the retained hardware does not obstruct seating or reduce the required engagement. Record retention and opening/reassembly as separate checks against the identified panel and retainer revisions.": {
+    "de": "Beginnen Sie bei einer Wartungsplatten-Studie mit der Montagereihenfolge. Zeigen Sie Einbau von Schraube und Halteelement, die Sicherung gegen Herausfallen und die angezogene Lage. Prüfen Sie, ob der verfügbare Lösehub das Gegengewinde freigibt und die Platte öffnen lässt. Danach prüfen, ob die gehaltenen Teile die Anlage behindern oder den erforderlichen Eingriff verkürzen. Haltefunktion und Öffnen/Wiedermontieren als getrennte Prüfungen mit eindeutigem Platten- und Halteelementstand dokumentieren.",
+    "es": "En un ejercicio de diseño de panel de servicio, empiece por la secuencia de instalación. Muestre cómo se montan tornillo y retenedor, qué evita la salida tras aflojar y la posición apretada. Compruebe que el recorrido liberado despeja la rosca receptora y permite abrir el panel. Después verifique que los elementos retenidos no impiden el asiento ni reducen el acoplamiento requerido. Registre retención y apertura/remontaje como comprobaciones separadas, identificando las revisiones del panel y del retenedor.",
+    "it": "Per un esercizio di progettazione di un pannello, partire dalla sequenza di montaggio. Mostrare installazione di vite e ritegno, elemento che impedisce la fuoriuscita e posizione serrata. Verificare che la corsa libera disimpegni la filettatura e consenta l’apertura. Poi controllare che gli elementi trattenuti non ostacolino l’appoggio o riducano l’impegno richiesto. Registrare ritegno e apertura/rimontaggio come controlli separati con revisioni identificate di pannello e fermo.",
+    "fr": "Pour un exercice de conception de panneau, commencez par la séquence de montage. Montrez la pose de la vis et de sa retenue, l’élément empêchant sa sortie et sa position serrée. Vérifiez que la course desserrée dégage le taraudage et permet l’ouverture. Contrôlez ensuite que les éléments retenus ne gênent pas l’appui et ne réduisent pas l’engagement requis. Consignez retenue et ouverture/remontage séparément avec les indices identifiés du panneau et de la retenue.",
+    "zh": "以检修面板设计为例，先画清安装顺序：螺丝与保持件怎样装入、松开后哪个结构防止脱出、锁紧后各部件处于什么位置。检查松开行程是否足以退出配合螺纹并打开面板，再确认保持件不会妨碍贴合或占用必要旋合长度。保持性能与打开／重新装配应作为不同项目记录，并关联面板和保持件的版本。"
+  },
+  "Keep the two service positions in the approval record": {
+    "de": "Beide Wartungsstellungen im Freigabenachweis festhalten",
+    "es": "Conservar ambas posiciones de servicio en el registro de aprobación",
+    "it": "Registrare entrambe le posizioni di servizio nell’approvazione",
+    "fr": "Consigner les deux positions de service dans l’approbation",
+    "zh": "在批准记录中保留打开和锁紧两种状态"
+  },
+  "Assembly sketch to supply": {
+    "de": "Bereitzustellende Baugruppenskizze",
+    "es": "Croquis del conjunto que aportar",
+    "it": "Schema dell’assieme da fornire",
+    "fr": "Schéma d’ensemble à fournir",
+    "zh": "需提供的装配图信息"
+  },
+  "Panel thickness and hole, retaining part, open and tightened positions, thread engagement and nearby obstructions.": {
+    "de": "Plattendicke und Bohrung, Halteelement, offene und angezogene Lage, Gewindeeingriff und benachbarte Hindernisse.",
+    "es": "Espesor y orificio del panel, retenedor, posiciones abierta y apretada, acoplamiento de rosca y obstáculos próximos.",
+    "it": "Spessore e foro del pannello, ritegno, posizioni aperta e serrata, impegno del filetto e ostacoli vicini.",
+    "fr": "Épaisseur et trou du panneau, retenue, positions ouverte et serrée, engagement du filetage et obstacles voisins.",
+    "zh": "板厚与开孔、保持件、打开和锁紧位置、螺纹旋合，以及邻近干涉物。"
+  },
+  "Sample review to agree": {
+    "de": "Zu vereinbarende Musterprüfung",
+    "es": "Revisión de muestras que acordar",
+    "it": "Verifica dei campioni da concordare",
+    "fr": "Revue des échantillons à convenir",
+    "zh": "需约定的样品评审"
+  },
+  "Identify the panel, retainer and screw revisions; record retention, release clearance and reassembly against their separate criteria.": {
+    "de": "Stand von Platte, Halteelement und Schraube benennen; Halten, Freigang und Wiedermontage nach getrennten Kriterien dokumentieren.",
+    "es": "Identifique revisiones de panel, retenedor y tornillo; registre retención, espacio de liberación y remontaje con sus criterios separados.",
+    "it": "Identificare revisioni di pannello, ritegno e vite; registrare ritenzione, spazio di rilascio e rimontaggio con criteri distinti.",
+    "fr": "Identifiez les indices du panneau, de la retenue et de la vis ; consignez retenue, dégagement et remontage selon des critères distincts.",
+    "zh": "注明面板、保持件与螺丝版本，分别记录保持、松开净空及重新装配是否符合各自要求。"
+  },
+  "Open and tightened captive-screw interface sketch": {
+    "de": "Schnittstellenskizze der gelösten und angezogenen unverlierbaren Schraube",
+    "es": "Esquema de la interfaz imperdible abierta y apretada",
+    "it": "Schema dell’interfaccia della vite imperdibile aperta e serrata",
+    "fr": "Schéma de la vis imperdable ouverte et serrée",
+    "zh": "查看防脱螺丝打开与锁紧状态示意"
+  },
+  "Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.": {
+    "de": "Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.",
+    "es": "Defina juntos huella, herramienta, acabado y acceso instalado. Una punta que encaja en el tornillo suelto puede no acoplar dentro de la carcasa.",
+    "it": "Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.",
+    "fr": "Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.",
+    "zh": "槽型、配套工具、表面状态和装机后的操作空间应一起明确。散件状态下能配合的批头，装进外壳后不一定能充分啮合。"
+  },
+  "Worked review: distinguish a tool-fit issue from an access issue": {
+    "de": "Prüfbeispiel: Werkzeugpassung von Zugangsproblemen unterscheiden",
+    "es": "Ejemplo: distinguir ajuste de la herramienta y problema de acceso",
+    "it": "Esempio: distinguere adattamento dell’utensile e accessibilità",
+    "fr": "Exemple : distinguer ajustement de l’outil et accès",
+    "zh": "评审示例：区分批头配合问题与工具空间问题"
+  },
+  "Consider a pin-in screw in a recessed cover. First compare the finished recess with the identified service bit outside the housing. Next review the same bit in the installed position, including its holder and approach space. If engagement is satisfactory outside but restricted inside, review the access envelope before changing the drive profile. If the bit cannot seat in either position, review the recess, pin, bit and final finish together. Record which interface changed and repeat the affected check with the same controlled tool reference.": {
+    "de": "Betrachten Sie eine Schraube mit Mittelstift in einem versenkten Deckel. Vergleichen Sie zuerst die fertige Vertiefung außerhalb des Gehäuses mit dem benannten Wartungsbit. Prüfen Sie anschließend denselben Bit in Einbaulage, einschließlich Halter und Ansatzraum. Passt er außen, wird innen aber behindert, ist zunächst der Zugangsraum statt des Antriebsprofils zu prüfen. Sitzt er in keiner Lage, Vertiefung, Stift, Bit und Endoberfläche gemeinsam prüfen. Geänderte Schnittstelle dokumentieren und die betroffene Prüfung mit derselben kontrollierten Werkzeugreferenz wiederholen.",
+    "es": "Considere un tornillo con tetón en una tapa rebajada. Compare primero la huella terminada con la punta de servicio identificada fuera de la carcasa. Después revise la misma punta instalada, incluido portapuntas y aproximación. Si acopla fuera pero queda restringida dentro, revise el acceso antes de cambiar el perfil. Si no asienta en ninguna posición, revise huella, tetón, punta y acabado conjuntamente. Registre qué interfaz cambió y repita la comprobación afectada con la misma herramienta controlada.",
+    "it": "Considerare una vite con perno centrale in un coperchio incassato. Confrontare prima l’impronta finita con l’inserto di servizio identificato fuori dall’involucro. Verificare poi lo stesso inserto montato, con portainserto e spazio d’approccio. Se funziona fuori ma è impedito dentro, valutare l’accesso prima di cambiare il profilo. Se non si inserisce in nessuna posizione, verificare insieme impronta, perno, inserto e finitura. Registrare l’interfaccia modificata e ripetere il controllo interessato con lo stesso riferimento utensile.",
+    "fr": "Considérez une vis avec téton dans un couvercle encastré. Comparez d’abord l’empreinte finie avec l’embout de service identifié hors du boîtier. Examinez ensuite le même embout en place, avec porte-embout et espace d’approche. S’il engage hors boîtier mais reste gêné en place, examinez l’accès avant de modifier le profil. S’il ne porte dans aucune position, vérifiez ensemble empreinte, téton, embout et finition. Consignez l’interface modifiée et répétez le contrôle concerné avec le même outil de référence.",
+    "zh": "以沉台盖板中的带柱螺丝为例，先在外壳之外，用已明确型号的维修批头检查成品槽型，再把同一批头及其夹持器放到实际安装位置检查进入空间。若散件配合正常、装机后却受阻，应先评估操作空间，而不是直接改槽型。若两种位置都无法就位，再一起检查槽、中柱、批头和最终表面状态。记录变更的是哪个接口，并用同一受控工具重复受影响的检查。"
+  },
+  "Identify the interface that needs correction": {
+    "de": "Zu korrigierende Schnittstelle bestimmen",
+    "es": "Identificar la interfaz que necesita corrección",
+    "it": "Identificare l’interfaccia da correggere",
+    "fr": "Identifier l’interface à corriger",
+    "zh": "先确定需要修改的是哪个接口"
+  },
+  "Tool and loose-part record": {
+    "de": "Werkzeug- und Lose-Teile-Nachweis",
+    "es": "Registro de herramienta y pieza suelta",
+    "it": "Registro di utensile e pezzo libero",
+    "fr": "Fiche outil et pièce libre",
+    "zh": "工具与散件配合记录"
+  },
+  "Drive reference, bit identity, pin clearance and usable engagement on the finished sample.": {
+    "de": "Antriebsreferenz, Bitkennung, Stiftfreiraum und nutzbarer Eingriff am fertigen Muster.",
+    "es": "Referencia de la huella, identificación de punta, holgura del tetón y acoplamiento útil en la muestra terminada.",
+    "it": "Riferimento dell’impronta, identificativo dell’inserto, spazio del perno e impegno utile sul campione finito.",
+    "fr": "Référence de l’empreinte, identification de l’embout, dégagement du téton et engagement utile sur l’échantillon fini.",
+    "zh": "槽型依据、批头标识、中柱避让及成品样件上的有效啮合。"
+  },
+  "Installed-access record": {
+    "de": "Nachweis des Einbauzugangs",
+    "es": "Registro del acceso instalado",
+    "it": "Registro dell’accesso nel montaggio",
+    "fr": "Fiche d’accès une fois monté",
+    "zh": "装机后的工具空间记录"
+  },
+  "Housing revision, tool holder and approach envelope, access restriction and the proposed drawing change.": {
+    "de": "Gehäusestand, Werkzeughalter und Ansatzraum, Zugangshindernis und vorgeschlagene Zeichnungsänderung.",
+    "es": "Revisión de carcasa, portaherramientas y envolvente de aproximación, restricción de acceso y cambio de plano propuesto.",
+    "it": "Revisione dell’involucro, portautensile e ingombro d’approccio, impedimento d’accesso e modifica proposta del disegno.",
+    "fr": "Indice du boîtier, porte-outil et enveloppe d’approche, restriction d’accès et modification proposée du plan.",
+    "zh": "外壳版本、夹持器和进入空间、受阻位置，以及拟修改的图纸内容。"
+  },
+  "Security-drive and installed-tool access sketch": {
+    "de": "Skizze zu Sicherheitsantrieb und Werkzeugzugang im Einbau",
+    "es": "Esquema de huella de seguridad y acceso de la herramienta instalada",
+    "it": "Schema di impronta di sicurezza e accesso dell’utensile montato",
+    "fr": "Schéma d’empreinte de sécurité et d’accès de l’outil monté",
+    "zh": "查看防拆槽型与装机工具空间示意"
+  },
+  "Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.": {
+    "de": "Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.",
+    "es": "Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.",
+    "it": "Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.",
+    "fr": "Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.",
+    "zh": "应明确整个孔道、最小剩余壁厚、内部边缘及验收方法。评审截面时，要同时考虑螺纹牙底几何和内孔偏心。"
+  },
+  "Worked review: include bore offset in the wall calculation": {
+    "de": "Rechenbeispiel: Bohrungsversatz bei der Restwand berücksichtigen",
+    "es": "Ejemplo: incluir el descentramiento en el cálculo de pared",
+    "it": "Esempio: includere il disassamento nel calcolo della parete",
+    "fr": "Exemple : inclure le décalage du perçage dans le calcul de paroi",
+    "zh": "计算示例：剩余壁厚还要扣除内孔偏心"
+  },
+  "For an illustrative circular section, take a lower-limit thread-root envelope diameter of 6.00 mm, an upper-limit bore diameter of 3.00 mm and a maximum radial bore-centre offset of 0.20 mm. The minimum remaining wall in that section is (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. The offset is a radial distance here, not a diametral position-tolerance callout. This calculation does not cover cross-hole intersections, other local sections or load capacity. Derive the actual inputs from the controlled geometry and its tolerance limits.": {
+    "de": "Für einen beispielhaften Kreisquerschnitt seien der untere Grenzdurchmesser der Gewindekernhüllfläche 6.00 mm, der obere Bohrungsgrenzdurchmesser 3.00 mm und der maximale radiale Mittenversatz der Bohrung 0.20 mm. Die kleinste Restwand in diesem Querschnitt beträgt (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Der Versatz ist hier ein radialer Abstand, keine diametrische Positionstoleranzangabe. Die Rechnung erfasst weder Querbohrungsverschneidungen noch andere lokale Querschnitte oder die Tragfähigkeit. Die tatsächlichen Eingaben sind aus der festgelegten Geometrie und ihren Grenzmaßen abzuleiten.",
+    "es": "Para una sección circular ilustrativa, tome un diámetro límite inferior de la envolvente de raíz de rosca de 6.00 mm, un diámetro límite superior del taladro de 3.00 mm y un desplazamiento radial máximo de su centro de 0.20 mm. La pared mínima de esa sección es (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Aquí el desplazamiento es radial, no una indicación diametral de tolerancia de posición. El cálculo no cubre cruces de taladros, otras secciones locales ni capacidad de carga. Obtenga los valores reales de la geometría controlada y sus límites de tolerancia.",
+    "it": "Per una sezione circolare illustrativa, assumere un diametro limite inferiore dell’inviluppo al fondo del filetto di 6.00 mm, un diametro limite superiore del foro di 3.00 mm e un disassamento radiale massimo del centro del foro di 0.20 mm. La parete residua minima in quella sezione è (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Il disassamento è qui una distanza radiale, non un’indicazione diametrale di tolleranza di posizione. Il calcolo non comprende intersezioni con fori trasversali, altre sezioni locali o capacità di carico. Ricavare i dati effettivi dalla geometria controllata e dai relativi limiti di tolleranza.",
+    "fr": "Pour une section circulaire illustrative, prenez un diamètre limite inférieur de l’enveloppe de fond de filet de 6.00 mm, un diamètre limite supérieur du perçage de 3.00 mm et un décalage radial maximal de son centre de 0.20 mm. La paroi résiduelle minimale dans cette section vaut (6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm. Le décalage désigne ici une distance radiale, pas une tolérance de position diamétrale. Ce calcul ne couvre ni les intersections de trous, ni les autres sections locales, ni la capacité de charge. Déduisez les données réelles de la géométrie maîtrisée et de ses limites de tolérance.",
+    "zh": "以圆形截面为教学示例：螺纹牙底包络直径下限为6.00 mm，内孔直径上限为3.00 mm，孔中心最大径向偏移为0.20 mm。该截面的最小剩余壁厚为(6.00 − 3.00) ÷ 2 − 0.20 = 1.30 mm。这里的偏移量是径向距离，并非直径形式的位置度标注。这个计算没有覆盖交叉孔相贯处、其他局部截面或承载能力。实际输入值应从受控图纸的几何和公差极限中取得。"
+  },
+  "Record the limiting section and the inspection access": {
+    "de": "Grenzquerschnitt und Prüfzugang dokumentieren",
+    "es": "Registrar la sección límite y el acceso para inspección",
+    "it": "Registrare la sezione limite e l’accesso al controllo",
+    "fr": "Consigner la section limitante et l’accès au contrôle",
+    "zh": "记录最不利截面与检查空间"
+  },
+  "Section result": {
+    "de": "Querschnittsergebnis",
+    "es": "Resultado de la sección",
+    "it": "Risultato della sezione",
+    "fr": "Résultat en coupe",
+    "zh": "截面计算结果"
+  },
+  "1.30 mm is the calculated remaining wall for the stated teaching inputs, not a safe-wall recommendation or pressure rating.": {
+    "de": "1.30 mm ist die berechnete Restwand für die genannten Lehrwerte, keine Empfehlung einer sicheren Wanddicke oder Druckfreigabe.",
+    "es": "1.30 mm es la pared calculada con los datos didácticos indicados, no una recomendación de pared segura ni una presión nominal.",
+    "it": "1.30 mm è la parete residua calcolata per i dati didattici indicati, non una raccomandazione di parete sicura né una pressione nominale.",
+    "fr": "1.30 mm est la paroi calculée avec les données pédagogiques indiquées, pas une épaisseur de sécurité recommandée ni une pression admissible.",
+    "zh": "1.30 mm只是上述教学输入下的剩余壁厚计算值，不代表安全壁厚建议或额定耐压。"
+  },
+  "Separate internal-edge decision": {
+    "de": "Innenkanten gesondert bewerten",
+    "es": "Decisión separada sobre bordes internos",
+    "it": "Valutazione separata dei bordi interni",
+    "fr": "Décision distincte sur les arêtes internes",
+    "zh": "另行明确内部边缘要求"
+  },
+  "Identify the intersecting hole and burr requirement, the deburring stage and a suitable check before later assembly limits access.": {
+    "de": "Sich kreuzende Bohrung, Gratforderung, Entgratungsstufe und geeignete Prüfung vor zugangsbeschränkender Montage benennen.",
+    "es": "Identifique el taladro intersectante, el requisito de rebabas, la fase de desbarbado y una revisión adecuada antes de que el montaje limite el acceso.",
+    "it": "Identificare il foro intersecante, il requisito sulle bave, la fase di sbavatura e un controllo adatto prima che il montaggio limiti l’accesso.",
+    "fr": "Identifiez le trou sécant, l’exigence de bavure, l’étape d’ébavurage et un contrôle adapté avant que le montage ne limite l’accès.",
+    "zh": "注明相交孔位置、毛刺要求、去毛刺工序，以及后续装配遮挡之前适用的检查方法。"
+  },
+  "Hollow-screw section and passage review": {
+    "de": "Querschnitt und Kanalführung der Hohlschraube prüfen",
+    "es": "Revisión de sección y conducto del tornillo hueco",
+    "it": "Esame della sezione e del passaggio della vite cava",
+    "fr": "Examen en coupe et du passage d’une vis creuse",
+    "zh": "查看中空螺丝截面与孔道评审示意"
+  },
+  "Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.": {
+    "de": "Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.",
+    "es": "Adapte la cara de apoyo de la brida al soporte real. Compare huella de contacto, acabado y longitud de agarre antes de sustituir una arandela.",
+    "it": "Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.",
+    "fr": "Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.",
+    "zh": "法兰承压面应与零件实际可支撑的表面匹配。用一体法兰替代独立垫圈前，应比较接触范围、表面状态及夹持长度。"
+  },
+  "Worked review: compare an integral flange with a washer assembly": {
+    "de": "Prüfbeispiel: einteiligen Flansch mit Kopf-Scheiben-Anordnung vergleichen",
+    "es": "Ejemplo: comparar una brida integral con un conjunto con arandela",
+    "it": "Esempio: confrontare flangia integrata e assieme con rondella",
+    "fr": "Exemple : comparer collerette intégrée et montage avec rondelle",
+    "zh": "评审示例：比较一体法兰与独立垫圈方案"
+  },
+  "For a coated slotted bracket, compare the existing head-and-washer arrangement with the proposed integral flange on the same bracket drawing. Identify the supporting surface left around the slot and the areas that must remain clear. Review flange or washer overhang, the under-head transition and permissible coating marks. Account for the washer thickness when comparing grip length and usable engagement. Keep the assembly method and acceptance criteria explicit; fewer loose components do not establish equivalent bearing behavior or retained clamp load.": {
+    "de": "Vergleichen Sie an einem beschichteten Langlochhalter die bisherige Kopf-Scheiben-Anordnung mit dem vorgeschlagenen einteiligen Flansch anhand desselben Halterstands. Kennzeichnen Sie die Stützfläche um das Langloch und die freizuhaltenden Bereiche. Prüfen Sie Überstand von Flansch oder Scheibe, Übergang unter dem Kopf und zulässige Beschichtungsspuren. Berücksichtigen Sie die Scheibendicke bei Klemmlänge und nutzbarem Gewindeeingriff. Montageverfahren und Abnahmekriterien bleiben ausdrücklich festzulegen; weniger lose Teile belegen weder gleichwertiges Auflageverhalten noch gleichwertige verbleibende Klemmkraft.",
+    "es": "En un soporte recubierto con ranura, compare la disposición existente de cabeza y arandela con la brida integral propuesta sobre la misma revisión del plano. Identifique el apoyo que queda alrededor de la ranura y las zonas que deben quedar libres. Revise voladizo de brida o arandela, transición bajo cabeza y marcas admisibles en el recubrimiento. Incluya el espesor de arandela al comparar longitud de agarre y acoplamiento útil. Explicite montaje y criterios de aceptación; reducir piezas sueltas no demuestra un apoyo equivalente ni la misma fuerza de apriete retenida.",
+    "it": "Per una staffa rivestita con asola, confrontare la disposizione esistente testa-rondella con la flangia integrata proposta sulla stessa revisione del disegno. Identificare la superficie di sostegno attorno all’asola e le zone da lasciare libere. Valutare sporgenza di flangia o rondella, raccordo sottotesta e segni ammissibili sul rivestimento. Considerare lo spessore della rondella nel confronto di lunghezza serrata e impegno utile. Esplicitare montaggio e criteri di accettazione: meno componenti separati non dimostrano equivalenza d’appoggio o di forza di serraggio residua.",
+    "fr": "Sur une patte revêtue à trou oblong, comparez le montage tête-rondelle existant à la collerette intégrée proposée à partir du même indice de plan. Repérez le support restant autour du trou et les zones à dégager. Examinez le débord de la collerette ou rondelle, le raccord sous tête et les marques admissibles sur le revêtement. Tenez compte de l’épaisseur de rondelle pour comparer longueur serrée et engagement utile. Explicitez montage et critères de réception : moins de pièces séparées ne prouve ni un appui équivalent ni une force de serrage résiduelle équivalente.",
+    "zh": "以带涂层的长圆孔支架为例，在同一版支架图纸上比较原有螺丝头加垫圈方案与拟采用的一体法兰。标出孔周剩余的支撑面，以及必须避空的区域。检查法兰或垫圈是否悬空、头下过渡是否干涉，以及涂层允许留下什么压痕。比较夹持长度和有效旋合时，要计入原垫圈厚度。装配方法和验收要求应写清楚；散件数量减少，并不能证明承压行为或残余夹紧力等效。"
+  },
+  "Separate unchanged inputs from the proposed change": {
+    "de": "Unveränderte Randbedingungen und Änderung trennen",
+    "es": "Separar la base constante del cambio propuesto",
+    "it": "Separare dati invariati e modifica proposta",
+    "fr": "Séparer les données inchangées de la modification",
+    "zh": "区分对比基准与拟修改内容"
+  },
+  "Keep the comparison basis": {
+    "de": "Vergleichsbasis beibehalten",
+    "es": "Mantener la base de comparación",
+    "it": "Mantenere la base del confronto",
+    "fr": "Conserver la base de comparaison",
+    "zh": "保持一致的比较基准"
+  },
+  "Bracket and slot revision, mating material, coating, assembly method and agreed acceptance criteria.": {
+    "de": "Halter- und Langlochstand, Gegenwerkstoff, Beschichtung, Montageverfahren und vereinbarte Abnahmekriterien.",
+    "es": "Revisión de soporte y ranura, material de apoyo, recubrimiento, montaje y criterios de aceptación acordados.",
+    "it": "Revisioni di staffa e asola, materiale accoppiato, rivestimento, montaggio e criteri di accettazione concordati.",
+    "fr": "Indices de la patte et du trou oblong, matériau en contact, revêtement, montage et critères de réception convenus.",
+    "zh": "支架与长圆孔版本、配合材料、涂层、装配方法及约定的验收要求。"
+  },
+  "Compare the two arrangements": {
+    "de": "Beide Anordnungen vergleichen",
+    "es": "Comparar ambas disposiciones",
+    "it": "Confrontare le due disposizioni",
+    "fr": "Comparer les deux montages",
+    "zh": "需要比较的两种方案差异"
+  },
+  "Supported footprint, transition clearance, washer contribution to grip length, engagement and marking after the agreed service sequence.": {
+    "de": "Gestützte Kontaktfläche, Übergangsfreigang, Scheibenanteil an der Klemmlänge, Gewindeeingriff und Spuren nach dem vereinbarten Betriebsablauf.",
+    "es": "Huella apoyada, holgura de transición, contribución de arandela al agarre, acoplamiento y marcas tras la secuencia de servicio acordada.",
+    "it": "Impronta sostenuta, spazio del raccordo, contributo della rondella alla lunghezza serrata, impegno e segni dopo la sequenza di servizio concordata.",
+    "fr": "Empreinte soutenue, dégagement du raccord, contribution de la rondelle à la longueur serrée, engagement et marques après la séquence de service convenue.",
+    "zh": "实际受支撑的接触范围、过渡避空、垫圈对夹持长度的影响、旋合长度及约定使用过程后的压痕。"
+  },
+  "Smooth flange, serrated flange and separate-washer sketch": {
+    "de": "Skizze: glatter Flansch, Sperrverzahnung und separate Scheibe",
+    "es": "Esquema de brida lisa, dentada y arandela separada",
+    "it": "Schema di flangia liscia, dentata e rondella separata",
+    "fr": "Schéma de collerette lisse, dentée et de rondelle séparée",
+    "zh": "查看光面法兰、齿面法兰与独立垫圈示意"
+  },
+  "Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.": {
+    "de": "Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.",
+    "es": "Elija la punta del prisionero por su contacto con la pieza. Defina marcas, ajuste y retención admisibles y verifique la unión completa.",
+    "it": "Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.",
+    "fr": "Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.",
+    "zh": "紧定螺丝端型应根据与配合件的接触方式选择。先明确允许压痕、调节和保持要求，再验证整个连接。"
+  },
+  "Write a repeat-adjustment acceptance record": {
+    "de": "Abnahmeprotokoll für wiederholtes Verstellen erstellen",
+    "es": "Redactar un registro de aceptación del ajuste repetido",
+    "it": "Preparare un verbale di accettazione delle regolazioni ripetute",
+    "fr": "Rédiger une fiche de réception du réglage répété",
+    "zh": "建立重复调节的验收记录"
+  },
+  "For the fixture-stop exercise, define the starting setting, allowed contact mark and adjustment/service sequence before the trial. Check contact at both ends of travel and after returning to the starting setting. Record whether each result is a visual assessment, a dimensional reading or a functional observation. If the pad or point geometry changes, compare against the same criteria rather than reusing the old result. This creates an acceptance record; it does not establish a universal tightening torque or holding force.": {
+    "de": "Legen Sie für die Anschlagvorrichtung Ausgangsstellung, zulässige Kontaktspur und Verstell-/Betriebsablauf vor dem Versuch fest. Prüfen Sie den Kontakt an beiden Verstellgrenzen und nach Rückkehr zur Ausgangsstellung. Kennzeichnen Sie jedes Ergebnis als Sichtbewertung, Maßmessung oder Funktionsbeobachtung. Ändert sich Auflage oder Spitzengeometrie, bewerten Sie nach denselben Kriterien, statt das alte Ergebnis zu übernehmen. So entsteht ein Abnahmeprotokoll, kein universelles Anziehdrehmoment oder eine allgemeine Haltekraft.",
+    "es": "Para el ejercicio de tope de utillaje, defina posición inicial, marca admisible y secuencia de ajuste/servicio antes del ensayo. Revise el contacto en ambos extremos del recorrido y tras volver al inicio. Distinga valoración visual, lectura dimensional y observación funcional. Si cambia el apoyo o la punta, compare con los mismos criterios sin reutilizar el resultado anterior. Esto crea un registro de aceptación, no un par universal ni una fuerza de retención general.",
+    "it": "Per l’esercizio dell’arresto di attrezzatura, definire prima della prova posizione iniziale, segno ammesso e sequenza di regolazione/servizio. Controllare il contatto alle estremità della corsa e dopo il ritorno iniziale. Distinguere valutazione visiva, misura dimensionale e osservazione funzionale. Se cambiano pattino o geometria della punta, confrontare con gli stessi criteri senza riutilizzare il risultato precedente. Si ottiene un verbale di accettazione, non una coppia universale o una forza di tenuta generale.",
+    "fr": "Pour l’exercice de butée de montage, définissez avant l’essai la position initiale, la marque de contact admise et la séquence de réglage/service. Contrôlez le contact aux extrémités de course et après retour au départ. Distinguez appréciation visuelle, mesure dimensionnelle et observation fonctionnelle. Si le patin ou la pointe change, appliquez les mêmes critères sans reprendre l’ancien résultat. Cette démarche constitue une fiche de réception, pas un couple universel ni une force de maintien générale.",
+    "zh": "针对工装限位的设计练习，试验前先明确起始位置、允许接触痕迹以及调节和使用顺序。在行程两端和回到起始位置后检查接触状态，并区分每项结果是目视判断、尺寸读数还是功能观察。如果更换垫块或端部几何，应按相同标准重新比较，不能沿用旧结果。这样得到的是验收记录，并非通用锁紧扭矩或保持力。"
+  },
+  "Make the adjustment trial repeatable": {
+    "de": "Verstellversuch reproduzierbar dokumentieren",
+    "es": "Hacer repetible la prueba de ajuste",
+    "it": "Rendere ripetibile la prova di regolazione",
+    "fr": "Rendre l’essai de réglage reproductible",
+    "zh": "让调节试验可以重复核对"
+  },
+  "Before the trial": {
+    "de": "Vor dem Versuch",
+    "es": "Antes del ensayo",
+    "it": "Prima della prova",
+    "fr": "Avant l’essai",
+    "zh": "试验前"
+  },
+  "Point and pad drawings, permitted marking, adjustment travel and the agreed retained-setting criterion.": {
+    "de": "Spitzen- und Auflagezeichnungen, zulässige Spuren, Verstellweg und vereinbartes Kriterium für das Halten der Einstellung.",
+    "es": "Planos de punta y apoyo, marcas admisibles, recorrido y criterio acordado para conservar el ajuste.",
+    "it": "Disegni di punta e pattino, segni ammessi, corsa e criterio concordato per il mantenimento della regolazione.",
+    "fr": "Plans de pointe et de patin, marques admises, course et critère convenu de maintien du réglage.",
+    "zh": "端部与垫块图纸、允许压痕、调节行程，以及约定的位置保持要求。"
+  },
+  "After the service sequence": {
+    "de": "Nach dem Betriebsablauf",
+    "es": "Tras la secuencia de servicio",
+    "it": "Dopo la sequenza di servizio",
+    "fr": "Après la séquence de service",
+    "zh": "完成约定使用过程后"
+  },
+  "Starting and returned positions, contact condition and outcome against each criterion; identify the point, pad and drawing revisions.": {
+    "de": "Ausgangs- und Rückkehrposition, Kontaktzustand und Ergebnis je Kriterium; Spitzen-, Auflage- und Zeichnungsstand benennen.",
+    "es": "Posiciones inicial y de retorno, estado del contacto y resultado por criterio; identifique revisiones de punta, apoyo y plano.",
+    "it": "Posizioni iniziale e di ritorno, stato del contatto ed esito per criterio; identificare revisioni di punta, pattino e disegno.",
+    "fr": "Positions initiale et de retour, état du contact et résultat par critère ; identifiez les indices de pointe, de patin et de plan.",
+    "zh": "记录起始与返回位置、接触状态和各项验收结果，并注明端部、垫块与图纸版本。"
+  },
+  "Set-screw contact forms in the mating assembly": {
+    "de": "Kontaktformen des Gewindestifts in der Baugruppe",
+    "es": "Formas de contacto del prisionero en el montaje",
+    "it": "Forme di contatto del grano nell’assieme",
+    "fr": "Formes de contact de la vis de pression dans l’assemblage",
+    "zh": "查看紧定螺丝在配合组件中的接触形式"
+  },
+  "shoulder screw drawing": {
+    "de": "Zeichnung einer Schulterschraube",
+    "es": "plano de tornillo con hombro",
+    "it": "disegno di vite a spallamento",
+    "fr": "plan de vis à épaulement",
+    "zh": "台阶螺丝图纸"
+  },
+  "diametral clearance": {
+    "de": "Durchmesserspiel",
+    "es": "holgura diametral",
+    "it": "gioco diametrale",
+    "fr": "jeu diamétral",
+    "zh": "直径间隙"
+  },
+  "shoulder-to-bore fit": {
+    "de": "Schulter-Bohrungs-Passung",
+    "es": "ajuste hombro-taladro",
+    "it": "accoppiamento spallamento-foro",
+    "fr": "ajustement épaulement-alésage",
+    "zh": "肩轴与孔配合"
+  },
+  "captive screw design": {
+    "de": "Auslegung unverlierbarer Schrauben",
+    "es": "diseño de tornillos imperdibles",
+    "it": "progettazione di viti imperdibili",
+    "fr": "conception de vis imperdables",
+    "zh": "防脱螺丝设计"
+  },
+  "panel retention": {
+    "de": "Plattenrückhaltung",
+    "es": "retención del panel",
+    "it": "ritenzione del pannello",
+    "fr": "retenue du panneau",
+    "zh": "面板防脱保持"
+  },
+  "captive screw travel": {
+    "de": "Hub der unverlierbaren Schraube",
+    "es": "recorrido del tornillo imperdible",
+    "it": "corsa della vite imperdibile",
+    "fr": "course de la vis imperdable",
+    "zh": "防脱螺丝行程"
+  },
+  "security screw drive specification": {
+    "de": "Spezifikation eines Sicherheitsantriebs",
+    "es": "especificación de huella de seguridad",
+    "it": "specifica dell’impronta di sicurezza",
+    "fr": "spécification de l’empreinte de sécurité",
+    "zh": "防拆螺丝槽型要求"
+  },
+  "pin-in tool engagement": {
+    "de": "Werkzeugeingriff bei Mittelstift",
+    "es": "acoplamiento de herramienta con tetón",
+    "it": "impegno utensile con perno centrale",
+    "fr": "engagement de l’outil avec téton",
+    "zh": "带柱槽型的工具啮合"
+  },
+  "installed tool access": {
+    "de": "Werkzeugzugang im Einbau",
+    "es": "acceso a la herramienta instalada",
+    "it": "accesso dell’utensile nel montaggio",
+    "fr": "accès de l’outil en place",
+    "zh": "装机后的工具空间"
+  },
+  "hollow screw bore specification": {
+    "de": "Bohrungsspezifikation einer Hohlschraube",
+    "es": "especificación del taladro de tornillo hueco",
+    "it": "specifica del foro di vite cava",
+    "fr": "spécification du perçage de vis creuse",
+    "zh": "中空螺丝孔道要求"
+  },
+  "remaining wall thickness": {
+    "de": "Restwanddicke",
+    "es": "espesor de pared restante",
+    "it": "spessore residuo di parete",
+    "fr": "épaisseur de paroi résiduelle",
+    "zh": "剩余壁厚"
+  },
+  "internal burr inspection": {
+    "de": "Prüfung innerer Grate",
+    "es": "inspección de rebabas internas",
+    "it": "controllo delle bave interne",
+    "fr": "contrôle des bavures internes",
+    "zh": "内部毛刺检查"
+  },
+  "flange screw bearing face": {
+    "de": "Auflagefläche einer Flanschschraube",
+    "es": "cara de apoyo del tornillo de brida",
+    "it": "faccia d’appoggio della vite flangiata",
+    "fr": "face d’appui de la vis à collerette",
+    "zh": "法兰螺丝承压面"
+  },
+  "flange versus washer": {
+    "de": "Flansch oder Scheibe",
+    "es": "brida frente a arandela",
+    "it": "flangia o rondella",
+    "fr": "collerette ou rondelle",
+    "zh": "法兰与垫圈比较"
+  },
+  "supported bearing footprint": {
+    "de": "gestützte Kontaktfläche",
+    "es": "huella de apoyo sostenida",
+    "it": "impronta d’appoggio sostenuta",
+    "fr": "empreinte d’appui soutenue",
+    "zh": "有效支撑接触面"
+  },
+  "set screw point selection": {
+    "de": "Auswahl der Gewindestiftspitze",
+    "es": "selección de punta de prisionero",
+    "it": "scelta della punta del grano",
+    "fr": "choix de pointe de vis de pression",
+    "zh": "紧定螺丝端型选择"
+  },
+  "contact marking": {
+    "de": "Kontaktspuren",
+    "es": "marcas de contacto",
+    "it": "segni di contatto",
+    "fr": "marques de contact",
+    "zh": "接触压痕"
+  },
+  "repeat adjustment acceptance": {
+    "de": "Abnahme wiederholter Verstellung",
+    "es": "aceptación del ajuste repetido",
+    "it": "accettazione della regolazione ripetuta",
+    "fr": "réception du réglage répété",
+    "zh": "重复调节验收"
+  },
+  "Published October 29, 2026 · Updated 2026-11-03": {
+    "de": "Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03",
+    "es": "Publicado el 29 de octubre de 2026 · Actualizado 2026-11-03",
+    "it": "Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03",
+    "fr": "Publié le 29 octobre 2026 · Mis à jour 2026-11-03",
+    "zh": "发布于2026年10月29日 · 更新于2026-11-03"
+  }
+}
