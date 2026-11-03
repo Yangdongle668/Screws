@@ -586,5 +586,229 @@
     "it": "Illustrazione di controllo CCD per spiegare il metodo; non è una fotografia di attrezzature ZUFEK.",
     "fr": "Illustration du contrôle CCD pour expliquer la méthode ; il ne s’agit pas d’une photographie d’un équipement ZUFEK.",
     "zh": "CCD 视觉检测示意，用于说明方法，并非 ZUFEK 设备实拍。"
+  },
+  "Check the grip space throughout the adjustment": {
+    "de": "Griffraum über den gesamten Verstellweg prüfen",
+    "es": "Comprobar el espacio de agarre en todo el recorrido",
+    "it": "Verificare lo spazio di presa lungo tutta la regolazione",
+    "fr": "Vérifier l’espace de préhension sur toute la course",
+    "zh": "在整个调节行程内检查握持空间"
+  },
+  "The knurled head, threaded support and contact end perform different jobs. Review the installed mechanism at its travel limits, including any gloves or tool holder specified for operation.": {
+    "de": "Rändelkopf, Gewindeführung und Kontaktende erfüllen unterschiedliche Aufgaben. Den eingebauten Mechanismus an den Verstellgrenzen prüfen, einschließlich vorgeschriebener Handschuhe oder Werkzeughalter.",
+    "es": "Cabeza moleteada, soporte roscado y extremo cumplen funciones distintas. Revise el mecanismo instalado en los límites de recorrido, incluidos guantes o portaherramientas especificados.",
+    "it": "Testa zigrinata, supporto filettato ed estremità svolgono compiti diversi. Verificare il meccanismo montato ai limiti della corsa, considerando guanti o portautensili previsti.",
+    "fr": "Tête moletée, support fileté et extrémité remplissent des fonctions différentes. Examinez le mécanisme monté en fin de course, avec les gants ou porte-outils prescrits.",
+    "zh": "滚花头、螺纹支撑与接触端各自承担不同作用。应在实际装配的行程极限位置检查，并考虑操作要求中的手套或工具夹持器。"
+  },
+  "Grip envelope: include nearby walls and the space needed to turn the head. A larger head helps only if the operator can actually reach it.": {
+    "de": "Griffraum: benachbarte Wände und den zum Drehen nötigen Raum berücksichtigen. Ein größerer Kopf hilft nur, wenn er erreichbar bleibt.",
+    "es": "Agarre: incluya paredes cercanas y espacio para girar la cabeza. Una cabeza mayor solo ayuda si el operario puede alcanzarla.",
+    "it": "Presa: includere pareti vicine e spazio per ruotare la testa. Una testa più grande aiuta soltanto se l’operatore riesce a raggiungerla.",
+    "fr": "Préhension : incluez les parois voisines et l’espace nécessaire pour tourner la tête. Une tête plus grande n’aide que si elle reste accessible.",
+    "zh": "握持空间：包括邻近壁面和转动头部所需的空间。头部加大，只有在操作人员确实能够握到时才有帮助。"
+  },
+  "Travel and engagement: show the support, usable threaded length and both end positions. Agree the means of retaining the setting separately from the knurl.": {
+    "de": "Hub und Eingriff: Führung, nutzbare Gewindelänge und beide Endstellungen zeigen. Das Halten der Einstellung unabhängig von der Rändelung vereinbaren.",
+    "es": "Recorrido y acoplamiento: muestre soporte, rosca útil y ambas posiciones límite. Acuerde la retención del ajuste por separado del moleteado.",
+    "it": "Corsa e impegno: indicare supporto, filetto utile ed entrambe le posizioni limite. Definire il mantenimento della regolazione separatamente dalla zigrinatura.",
+    "fr": "Course et engagement : montrez support, filetage utile et positions extrêmes. Définissez le maintien du réglage séparément du moletage.",
+    "zh": "行程与旋合：标出支撑件、有效螺纹和两端位置。滚花便于握持，但调节位置如何保持应另行明确。"
+  },
+  "Contact end: identify the mating pad or surface and permitted marks. Evaluate the return to a reference position with the actual contact arrangement.": {
+    "de": "Kontaktende: Gegenauflage oder Kontaktfläche und zulässige Spuren benennen. Rückkehr zur Referenzposition am tatsächlichen Kontakt prüfen.",
+    "es": "Extremo: identifique apoyo o superficie y marcas admisibles. Evalúe el retorno a una referencia con el contacto real.",
+    "it": "Estremità: identificare pattino o superficie e segni ammessi. Valutare il ritorno alla posizione di riferimento con il contatto effettivo.",
+    "fr": "Extrémité : identifiez patin ou surface et marques admises. Évaluez le retour à une référence avec le contact réel.",
+    "zh": "接触端：明确配合垫块或接触面及允许压痕，并在实际接触组合下检查能否返回基准位置。"
+  },
+  "For sample approval, identify the mating support and contact part, trial the agreed adjustment sequence and record position and contact condition. Hand operation is not a measured tightening procedure; specify a separate method where controlled torque is required.": {
+    "de": "Für die Musterfreigabe Führung und Kontaktteil benennen, den vereinbarten Verstellablauf erproben und Position sowie Kontaktzustand dokumentieren. Handbetätigung ist kein gemessenes Anziehverfahren; bei gefordertem kontrolliertem Drehmoment eine gesonderte Methode festlegen.",
+    "es": "Para aprobar muestras, identifique soporte y contacto, pruebe la secuencia acordada y registre posición y estado del contacto. El accionamiento manual no mide el apriete; defina otro método si se exige un par controlado.",
+    "it": "Per approvare i campioni, identificare supporto e contatto, provare la sequenza concordata e registrare posizione e stato del contatto. L’azionamento manuale non misura il serraggio: specificare un metodo distinto quando serve coppia controllata.",
+    "fr": "Pour approuver les échantillons, identifiez support et pièce de contact, essayez la séquence convenue et consignez position et contact. La manœuvre manuelle ne mesure pas le serrage ; prévoyez une méthode distincte si un couple contrôlé est requis.",
+    "zh": "样品批准时应注明支撑与接触件，按约定顺序试调，记录位置和接触状态。手拧不是测量扭矩的锁紧方法；有受控扭矩要求时，应另定操作方法。"
+  },
+  "Prepare grip and adjustment requirements": {
+    "de": "Griff- und Verstellanforderungen vorbereiten",
+    "es": "Preparar requisitos de agarre y ajuste",
+    "it": "Preparare requisiti di presa e regolazione",
+    "fr": "Préparer les exigences de préhension et de réglage",
+    "zh": "整理握持与调节要求"
+  },
+  "Specify custom knurled thumb screws around grip clearance, adjustment travel, contact tips and locking. Review the installed mechanism before sample approval.": {
+    "de": "Rändelschrauben nach Griffraum, Verstellweg, Kontaktende und Sicherung spezifizieren. Den eingebauten Mechanismus vor der Musterfreigabe prüfen.",
+    "es": "Especifique tornillos moleteados según agarre, recorrido, contacto y bloqueo. Revise el mecanismo instalado antes de aprobar muestras.",
+    "it": "Specificare viti zigrinate in base a presa, corsa, estremità e bloccaggio. Verificare il meccanismo montato prima di approvare i campioni.",
+    "fr": "Spécifiez les vis moletées selon préhension, course, extrémité et blocage. Examinez le mécanisme monté avant approbation des échantillons.",
+    "zh": "按握持净空、调节行程、接触端和锁定方式定制滚花手拧螺丝，样品批准前检查实际装配中的操作。"
+  },
+  "Review entry, rotation and bearing as separate states": {
+    "de": "Einführen, Drehen und Auflage getrennt prüfen",
+    "es": "Revisar inserción, giro y apoyo por separado",
+    "it": "Verificare separatamente inserimento, rotazione e appoggio",
+    "fr": "Examiner séparément insertion, rotation et appui",
+    "zh": "分别评审装入、转位和承压状态"
+  },
+  "This sketch illustrates a head designed to rotate below a slot opening. An end-fed T-bolt uses a different installation path. Specify the actual entry method rather than assuming every T-head can turn into every slot.": {
+    "de": "Die Skizze zeigt einen Kopf, der unter der Nutöffnung drehen soll. Ein vom Nutende eingeschobener T-Bolzen hat einen anderen Einbauweg. Die tatsächliche Einführart festlegen, statt jeden T-Kopf in jeder Nut als drehbar anzusehen.",
+    "es": "El esquema muestra una cabeza diseñada para girar bajo la abertura. Un perno introducido desde el extremo sigue otro recorrido. Defina la entrada real; no suponga que toda cabeza en T gira en cualquier ranura.",
+    "it": "Lo schema mostra una testa progettata per ruotare sotto l’apertura. Un bullone inserito dall’estremità della cava segue un altro percorso. Specificare l’ingresso reale senza presumere che ogni testa a T ruoti in ogni cava.",
+    "fr": "Le schéma montre une tête conçue pour tourner sous l’ouverture. Un boulon introduit par l’extrémité suit un autre trajet. Définissez l’insertion réelle sans supposer que toute tête en T peut tourner dans toute rainure.",
+    "zh": "图中示意的是可以在槽口下方转位的头部。由槽端滑入的 T 型螺栓采用另一种装入路线。应明确实际装入方式，不能默认每种 T 头都能在任意槽内旋转。"
+  },
+  "Entry: compare the head in its insertion orientation with the opening and internal cavity. Include any closed slot end or obstruction along the installation path.": {
+    "de": "Einführen: Kopf in Einführlage mit Öffnung und Innenraum vergleichen. Geschlossene Nutenden oder Hindernisse im Einbauweg berücksichtigen.",
+    "es": "Inserción: compare la cabeza orientada para entrar con abertura y cavidad. Incluya extremos cerrados u obstáculos en el recorrido.",
+    "it": "Inserimento: confrontare la testa orientata per entrare con apertura e cavità. Includere estremità chiuse o ostacoli lungo il percorso.",
+    "fr": "Insertion : comparez la tête orientée à l’ouverture et à la cavité. Incluez extrémités fermées et obstacles du trajet.",
+    "zh": "装入：按装入方向比较头部与槽口及内部空腔，考虑封闭槽端和沿途障碍。"
+  },
+  "Rotation: check the full swept envelope beneath the rails, including head corners, neck and nearby parts. A head that fits at the final angle may still jam while turning.": {
+    "de": "Drehen: vollständigen Schwenkraum unter den Nutstegen prüfen, einschließlich Ecken, Hals und Nachbarteilen. Ein Kopf kann in Endlage passen und beim Drehen dennoch klemmen.",
+    "es": "Giro: compruebe toda la envolvente bajo los labios, incluidas esquinas, cuello y piezas próximas. Una cabeza puede caber al final y atascarse al girar.",
+    "it": "Rotazione: verificare l’intero ingombro sotto le spalle, con spigoli, collo e pezzi vicini. Una testa può entrare nella posizione finale ma bloccarsi durante la rotazione.",
+    "fr": "Rotation : vérifiez toute l’enveloppe balayée sous les lèvres, avec coins, col et pièces voisines. Une tête peut convenir en position finale mais coincer pendant la rotation.",
+    "zh": "转位：检查槽肩下的完整旋转扫掠范围，包括头部棱角、颈部和邻近件。最终角度能放下，不代表旋转过程不会卡住。"
+  },
+  "Bearing: show which underside faces support the head when tightened. Confirm seating, usable engagement and the intended anti-rotation contact in the actual slot.": {
+    "de": "Auflage: tragende Unterseiten beim Anziehen zeigen. Anlage, nutzbaren Eingriff und vorgesehene Verdrehsicherung in der tatsächlichen Nut bestätigen.",
+    "es": "Apoyo: muestre qué caras inferiores soportan la cabeza al apretar. Confirme asiento, acoplamiento útil y contacto antigiro en la ranura real.",
+    "it": "Appoggio: indicare le facce inferiori che sostengono la testa serrata. Confermare appoggio, impegno utile e antirotazione nella cava reale.",
+    "fr": "Appui : montrez les faces inférieures qui portent la tête serrée. Confirmez appui, engagement utile et antirotation dans la rainure réelle.",
+    "zh": "承压：标明锁紧后由哪些槽肩底面支撑头部，在实际槽内确认落座、有效旋合和预定防转接触。"
+  },
+  "Send the slot section and the open-to-clamped assembly sequence with the bolt drawing. Sample checks should distinguish entry, turning where intended and final seating. Nominal profile size alone does not establish interchangeable head geometry or a clamping-load rating.": {
+    "de": "Nutquerschnitt und Montagefolge von offen bis gespannt mit der Bolzenzeichnung senden. Musterprüfung nach Einführen, vorgesehener Drehung und endgültiger Anlage trennen. Die Profil-Nenngröße belegt weder austauschbare Kopfgeometrie noch eine zulässige Klemmkraft.",
+    "es": "Envíe sección de ranura y secuencia de montaje junto al plano del perno. Distinga inserción, giro previsto y asiento final en las muestras. El tamaño nominal del perfil no demuestra intercambiabilidad de cabezas ni capacidad de apriete.",
+    "it": "Inviare sezione della cava e sequenza da aperto a serrato insieme al disegno. Distinguere inserimento, rotazione prevista e appoggio finale nei controlli. La misura nominale del profilato non dimostra intercambiabilità della testa o capacità di serraggio.",
+    "fr": "Envoyez section de rainure et séquence de montage avec le plan du boulon. Distinguez insertion, rotation prévue et appui final dans les contrôles. La taille nominale du profilé ne prouve ni interchangeabilité de tête ni capacité de bridage.",
+    "zh": "请随螺栓图纸提供槽截面及从装入到夹紧的装配顺序。样品检查分别记录装入、设计要求的转位和最终落座。型材公称规格不能直接证明头部可互换，也不能当作夹紧载荷等级。"
+  },
+  "Measure the slot before fixing the head dimensions": {
+    "de": "Nut vor Festlegung der Kopfmaße vermessen",
+    "es": "Medir la ranura antes de fijar las cotas de cabeza",
+    "it": "Misurare la cava prima di fissare le quote della testa",
+    "fr": "Mesurer la rainure avant de définir la tête",
+    "zh": "确定头部尺寸前先测量槽结构"
+  },
+  "Define a custom T-slot bolt around the actual slot, entry path, rotation envelope and bearing face. Compare installed fit before releasing the head geometry.": {
+    "de": "T-Nutenbolzen nach tatsächlicher Nut, Einführweg, Schwenkraum und Auflage auslegen. Einbaupassung vor Freigabe der Kopfgeometrie vergleichen.",
+    "es": "Defina pernos en T según ranura, entrada, giro y apoyo reales. Revise el ajuste instalado antes de aprobar la cabeza.",
+    "it": "Definire bulloni per cave a T secondo cava, ingresso, rotazione e appoggio reali. Verificare il montaggio prima di approvare la testa.",
+    "fr": "Définissez les boulons en T selon rainure, insertion, rotation et appui réels. Comparez le montage avant de libérer la géométrie de tête.",
+    "zh": "按实际槽结构、装入路径、旋转包络和承压面定制 T 型螺栓，确定头部几何前先核对装配配合。"
+  },
+  "Keep end A, the centre section and end B identifiable": {
+    "de": "Ende A, Mittelteil und Ende B eindeutig zuordnen",
+    "es": "Identificar extremo A, zona central y extremo B",
+    "it": "Identificare estremità A, parte centrale ed estremità B",
+    "fr": "Identifier extrémité A, partie centrale et extrémité B",
+    "zh": "让 A 端、中间段与 B 端清楚可辨"
+  },
+  "The sketch deliberately shows different threaded ends. Specify each end independently, then define the centre section that controls installation, seating or tool access.": {
+    "de": "Die Skizze zeigt bewusst unterschiedliche Gewindeenden. Beide unabhängig spezifizieren, dann den Mittelteil für Einbau, Anlage oder Werkzeugzugang festlegen.",
+    "es": "El esquema muestra extremos distintos de forma deliberada. Especifique cada uno y después la zona central que controla montaje, asiento o acceso.",
+    "it": "Lo schema mostra volutamente estremità filettate diverse. Specificarle separatamente, poi definire la parte centrale per montaggio, appoggio o accesso utensile.",
+    "fr": "Le schéma montre volontairement des extrémités différentes. Spécifiez chacune, puis la partie centrale qui détermine montage, appui ou accès d’outil.",
+    "zh": "图中刻意将两端螺纹画成不同结构。两端要求分别规定，再明确影响安装、落座或工具空间的中间段。"
+  },
+  "End A: state thread system, diameter, pitch, handedness, usable length and intended engagement. Identify which mating component receives this end.": {
+    "de": "Ende A: Gewindesystem, Durchmesser, Steigung, Drehsinn, nutzbare Länge und Eingriff angeben. Zugehöriges Gegenstück benennen.",
+    "es": "Extremo A: indique sistema, diámetro, paso, sentido, longitud útil y acoplamiento. Identifique la pieza que recibe este extremo.",
+    "it": "Estremità A: indicare sistema, diametro, passo, senso, lunghezza utile e impegno. Identificare il pezzo che riceve questa estremità.",
+    "fr": "Extrémité A : indiquez système, diamètre, pas, sens, longueur utile et engagement. Identifiez la pièce qui reçoit cette extrémité.",
+    "zh": "A 端：注明牙制、直径、螺距、旋向、有效牙长和旋合要求，并指出这一端装入哪个配合件。"
+  },
+  "Centre section: dimension shoulders and wrench flats from named references. Review installation order and the tool space remaining after the first end is fitted.": {
+    "de": "Mittelteil: Schultern und Schlüsselflächen von benannten Bezügen bemaßen. Einbaufolge und verbleibenden Werkzeugraum nach Montage des ersten Endes prüfen.",
+    "es": "Zona central: acote hombros y planos de llave desde referencias identificadas. Revise montaje y espacio de herramienta tras instalar el primer extremo.",
+    "it": "Parte centrale: quotare spallamenti e piani chiave dai riferimenti definiti. Verificare ordine di montaggio e spazio utensile dopo la prima estremità.",
+    "fr": "Partie centrale : cotez épaulements et plats de clé depuis les références nommées. Examinez ordre de montage et accès restant après pose de la première extrémité.",
+    "zh": "中间段：按指定基准标注台阶与扳手位，评审安装先后，以及第一端装好后剩余的工具空间。"
+  },
+  "End B: apply its own thread and final-finish acceptance. Define a practical end-identification method that does not damage controlled surfaces.": {
+    "de": "Ende B: eigene Gewinde- und Endoberflächenabnahme anwenden. Eine praktikable Endkennzeichnung festlegen, die kontrollierte Flächen nicht beschädigt.",
+    "es": "Extremo B: aplique su propia aceptación de rosca y acabado. Defina una identificación práctica que no dañe superficies controladas.",
+    "it": "Estremità B: applicare la propria accettazione di filetto e finitura. Definire un’identificazione pratica senza danneggiare le superfici controllate.",
+    "fr": "Extrémité B : appliquez sa propre réception de filetage et finition. Définissez un repérage pratique sans endommager les surfaces contrôlées.",
+    "zh": "B 端：采用这一端独立的螺纹与最终表面验收要求，约定不损伤受控表面的实际识别方式。"
+  },
+  "Keep A/B identification on the drawing, gauge record and package label where orientation matters. Record both mating-part revisions with the approved sample; a change to one end still requires review of installation access and engagement at the other.": {
+    "de": "Wenn die Orientierung zählt, A/B-Kennzeichnung auf Zeichnung, Lehrenprotokoll und Verpackung beibehalten. Beide Gegenstückstände mit dem freigegebenen Muster dokumentieren; auch bei Änderung nur eines Endes Zugang und Eingriff am anderen prüfen.",
+    "es": "Cuando importe la orientación, conserve A/B en plano, registro de calibres y etiqueta. Registre ambas revisiones acopladas con la muestra; cambiar un extremo exige revisar acceso y acoplamiento en el otro.",
+    "it": "Quando l’orientamento conta, mantenere A/B su disegno, controllo calibri ed etichetta. Registrare entrambi i pezzi accoppiati col campione: modificare un’estremità richiede riesaminare accesso e impegno dell’altra.",
+    "fr": "Lorsque l’orientation compte, conservez A/B sur plan, contrôle des calibres et étiquette. Consignez les deux indices des pièces en regard avec l’échantillon ; modifier une extrémité impose de revoir accès et engagement à l’autre.",
+    "zh": "方向有要求时，在图纸、量规检查记录及包装标签上保留 A/B 标识。批准样品关联两侧配合件版本；即使只改一端，也要重新考虑另一端的安装空间和旋合。"
+  },
+  "Coordinate mixed-thread identification and inspection": {
+    "de": "Kennzeichnung und Prüfung unterschiedlicher Gewinde abstimmen",
+    "es": "Coordinar identificación e inspección de roscas distintas",
+    "it": "Coordinare identificazione e controllo dei filetti diversi",
+    "fr": "Coordonner repérage et contrôle des filetages différents",
+    "zh": "协调两端异牙的识别与检查"
+  },
+  "Specify each end of a custom double-ended stud: thread system, handedness, usable engagement and identification. Coordinate wrench access, gauging and packaging.": {
+    "de": "Jedes Ende eines Sonderstehbolzens nach Gewindesystem, Drehsinn, Eingriff und Kennzeichnung spezifizieren. Schlüsselzugang, Lehren und Verpackung abstimmen.",
+    "es": "Especifique cada extremo del espárrago: sistema de rosca, sentido, acoplamiento e identificación. Coordine acceso de llave, calibres y embalaje.",
+    "it": "Specificare ogni estremità del prigioniero: sistema, senso, impegno e identificazione. Coordinare accesso chiave, calibri e imballaggio.",
+    "fr": "Spécifiez chaque extrémité du goujon : système, sens, engagement et repérage. Coordonnez accès de clé, calibres et emballage.",
+    "zh": "为非标双头螺柱分别规定两端牙制、旋向、有效旋合及识别方法，同时协调扳手空间、量规检查和包装。"
+  },
+  "Define the datum axis, eccentric centre and angular reference": {
+    "de": "Bezugsachse, Exzentermitte und Winkelreferenz festlegen",
+    "es": "Definir eje de referencia, centro excéntrico y orientación angular",
+    "it": "Definire asse di riferimento, centro eccentrico e riferimento angolare",
+    "fr": "Définir axe de référence, centre excentrique et repère angulaire",
+    "zh": "明确基准轴、偏心中心与角度基准"
+  },
+  "The left view separates the mounting axis A from the eccentric centre B. The right view illustrates a separate angular reference. These are drawing relationships, not a tolerance value inferred from the outer shape.": {
+    "de": "Links sind Einbauachse A und Exzentermitte B getrennt dargestellt, rechts eine gesonderte Winkelreferenz. Dies sind Zeichnungsbeziehungen, keine aus der Außenform abgeleiteten Toleranzwerte.",
+    "es": "La vista izquierda distingue eje de montaje A y centro excéntrico B. La derecha muestra una referencia angular separada. Son relaciones del plano, no tolerancias deducidas del contorno.",
+    "it": "La vista sinistra distingue asse di montaggio A e centro eccentrico B. A destra è illustrato un riferimento angolare distinto. Sono relazioni di disegno, non tolleranze dedotte dal profilo.",
+    "fr": "La vue gauche distingue axe de montage A et centre excentrique B. À droite figure un repère angulaire distinct. Ce sont des relations de plan, pas des tolérances déduites du contour.",
+    "zh": "左图将安装轴线 A 与偏心中心 B 分开表示，右图单独说明角度基准。这些是图纸中需要定义的关系，不是从外形猜测出的公差值。"
+  },
+  "Datum axis A: define the feature that establishes the installed axis and how it is located during inspection. A threaded surface needs an agreed datum interpretation.": {
+    "de": "Bezugsachse A: Merkmal für die Einbauachse und dessen Aufnahme bei der Prüfung festlegen. Für eine Gewindefläche die Bezugsinterpretation vereinbaren.",
+    "es": "Eje A: defina qué característica establece el eje instalado y cómo se posiciona al medir. Una superficie roscada requiere acordar la interpretación de referencia.",
+    "it": "Asse A: definire la caratteristica che stabilisce l’asse montato e il posizionamento durante il controllo. Concordare l’interpretazione del riferimento su superfici filettate.",
+    "fr": "Axe A : définissez l’élément qui établit l’axe monté et sa mise en position au contrôle. Une surface filetée demande une interprétation convenue de la référence.",
+    "zh": "基准轴 A：明确哪个特征建立装机轴线，以及检测时怎样定位；以螺纹面建立基准时，应约定具体解释和定位方式。"
+  },
+  "Centre B and offset: dimension the eccentric feature relative to A, including its size and any controlled form. Show the mating contact or follower.": {
+    "de": "Mitte B und Versatz: Exzentermerkmal mit Größe und kontrollierter Form relativ zu A bemaßen. Gegenkontakt oder Folger zeigen.",
+    "es": "Centro B y desplazamiento: acote la parte excéntrica respecto a A, con tamaño y forma controlada. Muestre contacto acoplado o seguidor.",
+    "it": "Centro B ed eccentricità: quotare l’elemento eccentrico rispetto ad A, con dimensione e forma controllata. Indicare contatto o elemento seguace.",
+    "fr": "Centre B et décalage : cotez l’élément excentrique par rapport à A, avec taille et forme contrôlée. Montrez contact ou suiveur.",
+    "zh": "中心 B 与偏心量：相对 A 标注偏心特征，包含其尺寸和受控形状，并画出配合接触件或从动件。"
+  },
+  "Angular reference: identify the zero direction, any clocked flat or drive and the permitted adjustment range. Relate the setting to the assembled contact, not only to a loose part.": {
+    "de": "Winkelreferenz: Nullrichtung, winkelgebundene Fläche oder Antrieb und zulässigen Verstellbereich benennen. Einstellung zum montierten Kontakt, nicht nur zum losen Teil, zuordnen.",
+    "es": "Referencia angular: identifique cero, planos o accionamientos orientados y rango permitido. Relacione el ajuste con el contacto montado, no solo con la pieza suelta.",
+    "it": "Riferimento angolare: identificare zero, piani o impronte orientati e campo ammesso. Collegare la regolazione al contatto montato, non soltanto al pezzo libero.",
+    "fr": "Repère angulaire : identifiez zéro, plat ou entraînement orienté et plage admise. Reliez le réglage au contact monté, pas seulement à la pièce libre.",
+    "zh": "角度基准：规定零位方向、有定向要求的平面或驱动槽，以及允许调节范围。设定值应对应装配后的接触状态，而不只是散件角度。"
+  },
+  "Agree the measurement setup for the specified offset and angular relationship, then trial the movement in the mating assembly. An outside-diameter screen alone does not establish eccentricity, orientation or the available adjustment once nearby parts are installed.": {
+    "de": "Messaufbau für festgelegten Versatz und Winkelbeziehung vereinbaren, dann Bewegung im Gegenaufbau erproben. Eine reine Außendurchmesserprüfung belegt weder Exzentrizität noch Orientierung oder den Verstellraum mit montierten Nachbarteilen.",
+    "es": "Acuerde el montaje de medida para desplazamiento y ángulo y pruebe después el movimiento en el conjunto. Medir el diámetro exterior no demuestra excentricidad, orientación ni ajuste disponible con piezas próximas.",
+    "it": "Concordare il piazzamento di misura per eccentricità e angolo, poi provare il movimento nell’assieme. Il solo diametro esterno non verifica eccentricità, orientamento o regolazione disponibile con i pezzi adiacenti montati.",
+    "fr": "Convenez du montage de mesure du décalage et de l’angle, puis essayez le mouvement dans l’assemblage. Le seul diamètre extérieur n’établit ni excentricité, ni orientation, ni réglage disponible avec les pièces voisines.",
+    "zh": "先约定偏心量和角度关系的测量装夹，再在配合装配中试验运动。只筛选外径，不能证明偏心量、方向或装上邻近件后真正可用的调节范围。"
+  },
+  "Specify eccentric datums and inspection positioning": {
+    "de": "Exzenterbezüge und Prüfaufnahme spezifizieren",
+    "es": "Especificar referencias excéntricas y posicionamiento de inspección",
+    "it": "Specificare riferimenti eccentrici e posizionamento di controllo",
+    "fr": "Spécifier références excentriques et mise en position au contrôle",
+    "zh": "规定偏心基准及检测定位"
+  },
+  "Define eccentric screws by the datum axis, offset centre and angular reference. Connect the adjustment envelope to machining setup and final inspection.": {
+    "de": "Exzenterschrauben nach Bezugsachse, versetzter Mitte und Winkelreferenz definieren. Verstellraum mit Fertigungsaufnahme und Endprüfung verknüpfen.",
+    "es": "Defina tornillos excéntricos por eje, centro desplazado y referencia angular. Relacione ajuste, posicionamiento de mecanizado e inspección final.",
+    "it": "Definire viti eccentriche con asse, centro disassato e riferimento angolare. Collegare regolazione, piazzamento produttivo e controllo finale.",
+    "fr": "Définissez les vis excentriques par axe, centre décalé et repère angulaire. Reliez réglage, mise en position d’usinage et contrôle final.",
+    "zh": "通过基准轴、偏心中心与角度基准定义偏心螺丝，将调节包络与加工装夹和最终检查联系起来。"
   }
 }

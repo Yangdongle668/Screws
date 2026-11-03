@@ -2620,6 +2620,22 @@ Explorez un assemblage proposé, les choix de fixations, l'examen de la fabricat
 
 Revoir le concept de réglage et de verrouillage des luminaires ↗
 
+#### Vérifier l’espace de préhension sur toute la course
+
+Tête moletée, support fileté et extrémité remplissent des fonctions différentes. Examinez le mécanisme monté en fin de course, avec les gants ou porte-outils prescrits.
+
+1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Préhension : incluez les parois voisines et l’espace nécessaire pour tourner la tête. Une tête plus grande n’aide que si elle reste accessible.
+
+Course et engagement : montrez support, filetage utile et positions extrêmes. Définissez le maintien du réglage séparément du moletage.
+
+Extrémité : identifiez patin ou surface et marques admises. Évaluez le retour à une référence avec le contact réel.
+
+Pour approuver les échantillons, identifiez support et pièce de contact, essayez la séquence convenue et consignez position et contact. La manœuvre manuelle ne mesure pas le serrage ; prévoyez une méthode distincte si un couple contrôlé est requis.
+
+Préparer les exigences de préhension et de réglage ↗
+
 #### Concevoir la poignée pour l'espace opératoire
 
 Le diamètre de la tête, la hauteur et le motif de moletage doivent être examinés en fonction du jeu disponible pour les doigts. Une tête facile à saisir dans l'espace libre peut s'avérer gênante à côté d'un mur ou d'un réglage voisin. Indiquez si l'utilisation avec des gants, des réglages fréquents ou un entraînement d'outil de secours font partie de l'opération prévue. Il s'agit d'entrées d'application, et non d'indices d'adhérence universels.
@@ -2879,6 +2895,22 @@ Moules, outillage et montages d'essai ↗ Machines et équipements généraux �
 #### Lecture technique utile
 
 Ajustement des boulons à rainure en T : que mesurer avant de commander ↗ Comment spécifier un entraînement à vis inviolable ↗ Boulons à œil pour liaisons et levage : différents besoins en matière de spécifications ↗
+
+#### Examiner séparément insertion, rotation et appui
+
+Le schéma montre une tête conçue pour tourner sous l’ouverture. Un boulon introduit par l’extrémité suit un autre trajet. Définissez l’insertion réelle sans supposer que toute tête en T peut tourner dans toute rainure.
+
+1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Insertion : comparez la tête orientée à l’ouverture et à la cavité. Incluez extrémités fermées et obstacles du trajet.
+
+Rotation : vérifiez toute l’enveloppe balayée sous les lèvres, avec coins, col et pièces voisines. Une tête peut convenir en position finale mais coincer pendant la rotation.
+
+Appui : montrez les faces inférieures qui portent la tête serrée. Confirmez appui, engagement utile et antirotation dans la rainure réelle.
+
+Envoyez section de rainure et séquence de montage avec le plan du boulon. Distinguez insertion, rotation prévue et appui final dans les contrôles. La taille nominale du profilé ne prouve ni interchangeabilité de tête ni capacité de bridage.
+
+Mesurer la rainure avant de définir la tête ↗
 
 #### Entrée et rotation des emplacements
 
@@ -3360,6 +3392,22 @@ Vis à pas fin et extra-fin ↗ Vis moletées et vis de réglage manuel ↗ Vis 
 
 Dessins de vis excentriques : rendre le décalage sans ambiguïté ↗ Vis coniques : définition du siège d'accouplement ↗ Goupilles de positionnement intégrées : coordonnées des références des goupilles et des vis ↗
 
+#### Définir axe de référence, centre excentrique et repère angulaire
+
+La vue gauche distingue axe de montage A et centre excentrique B. À droite figure un repère angulaire distinct. Ce sont des relations de plan, pas des tolérances déduites du contour.
+
+A B 1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Axe A : définissez l’élément qui établit l’axe monté et sa mise en position au contrôle. Une surface filetée demande une interprétation convenue de la référence.
+
+Centre B et décalage : cotez l’élément excentrique par rapport à A, avec taille et forme contrôlée. Montrez contact ou suiveur.
+
+Repère angulaire : identifiez zéro, plat ou entraînement orienté et plage admise. Reliez le réglage au contact monté, pas seulement à la pièce libre.
+
+Convenez du montage de mesure du décalage et de l’angle, puis essayez le mouvement dans l’assemblage. Le seul diamètre extérieur n’établit ni excentricité, ni orientation, ni réglage disponible avec les pièces voisines.
+
+Spécifier références excentriques et mise en position au contrôle ↗
+
 #### Décalage, axe de référence et position angulaire
 
 Définissez le décalage par rapport à un axe de référence nommé et affichez l'orientation des méplats, des entraînements ou des faces de contact. Pour un ajusteur, décrivez le mouvement et les butées requis dans l’assemblage. Mesurer uniquement les diamètres extérieurs ne peut pas établir l'excentricité ou la relation angulaire qui fait fonctionner le mécanisme.
@@ -3440,6 +3488,22 @@ Composants automobiles ↗ Équipements d'énergie, de recharge et de stockage �
 #### Lecture technique utile
 
 Goujons à double extrémité : éviter les erreurs d'assemblage avec filetage mixte ↗ Cône, plat, chien ou cupule : choisir un embout à vis ↗ Vis moletées : spécification de la poignée et du réglage ↗
+
+#### Identifier extrémité A, partie centrale et extrémité B
+
+Le schéma montre volontairement des extrémités différentes. Spécifiez chacune, puis la partie centrale qui détermine montage, appui ou accès d’outil.
+
+A B 1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Extrémité A : indiquez système, diamètre, pas, sens, longueur utile et engagement. Identifiez la pièce qui reçoit cette extrémité.
+
+Partie centrale : cotez épaulements et plats de clé depuis les références nommées. Examinez ordre de montage et accès restant après pose de la première extrémité.
+
+Extrémité B : appliquez sa propre réception de filetage et finition. Définissez un repérage pratique sans endommager les surfaces contrôlées.
+
+Lorsque l’orientation compte, conservez A/B sur plan, contrôle des calibres et étiquette. Consignez les deux indices des pièces en regard avec l’échantillon ; modifier une extrémité impose de revoir accès et engagement à l’autre.
+
+Coordonner repérage et contrôle des filetages différents ↗
 
 #### Identification de l'extrémité A et de l'extrémité B
 

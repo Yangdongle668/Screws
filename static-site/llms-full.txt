@@ -2620,6 +2620,22 @@ Explore a proposed assembly, the fastener choices, manufacturing review and samp
 
 Review the fixture adjustment and locking concept ↗
 
+#### Check the grip space throughout the adjustment
+
+The knurled head, threaded support and contact end perform different jobs. Review the installed mechanism at its travel limits, including any gloves or tool holder specified for operation.
+
+1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Grip envelope: include nearby walls and the space needed to turn the head. A larger head helps only if the operator can actually reach it.
+
+Travel and engagement: show the support, usable threaded length and both end positions. Agree the means of retaining the setting separately from the knurl.
+
+Contact end: identify the mating pad or surface and permitted marks. Evaluate the return to a reference position with the actual contact arrangement.
+
+For sample approval, identify the mating support and contact part, trial the agreed adjustment sequence and record position and contact condition. Hand operation is not a measured tightening procedure; specify a separate method where controlled torque is required.
+
+Prepare grip and adjustment requirements ↗
+
 #### Design the grip for the operating space
 
 Head diameter, height and knurl pattern should be reviewed with available finger clearance. A head that is easy to grip in free space can be awkward beside a wall or neighboring adjustment. State whether use with gloves, frequent adjustment or a backup tool drive is part of the intended operation. These are application inputs, not universal grip ratings.
@@ -2879,6 +2895,22 @@ Molds, Tooling & Test Fixtures ↗ General Machinery & Equipment ↗
 #### Useful technical reading
 
 T-slot bolt fit: what to measure before ordering ↗ How to specify a tamper-resistant screw drive ↗ Eye bolts for linkages and lifting: different specification needs ↗
+
+#### Review entry, rotation and bearing as separate states
+
+This sketch illustrates a head designed to rotate below a slot opening. An end-fed T-bolt uses a different installation path. Specify the actual entry method rather than assuming every T-head can turn into every slot.
+
+1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Entry: compare the head in its insertion orientation with the opening and internal cavity. Include any closed slot end or obstruction along the installation path.
+
+Rotation: check the full swept envelope beneath the rails, including head corners, neck and nearby parts. A head that fits at the final angle may still jam while turning.
+
+Bearing: show which underside faces support the head when tightened. Confirm seating, usable engagement and the intended anti-rotation contact in the actual slot.
+
+Send the slot section and the open-to-clamped assembly sequence with the bolt drawing. Sample checks should distinguish entry, turning where intended and final seating. Nominal profile size alone does not establish interchangeable head geometry or a clamping-load rating.
+
+Measure the slot before fixing the head dimensions ↗
 
 #### Slot entry and rotation
 
@@ -3360,6 +3392,22 @@ Electronics & Optical Equipment ↗
 
 Eccentric screw drawings: making the offset unambiguous ↗ Tapered screws: defining the mating seat ↗ Integral locating pins: coordinating pin and screw datums ↗
 
+#### Define the datum axis, eccentric centre and angular reference
+
+The left view separates the mounting axis A from the eccentric centre B. The right view illustrates a separate angular reference. These are drawing relationships, not a tolerance value inferred from the outer shape.
+
+A B 1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Datum axis A: define the feature that establishes the installed axis and how it is located during inspection. A threaded surface needs an agreed datum interpretation.
+
+Centre B and offset: dimension the eccentric feature relative to A, including its size and any controlled form. Show the mating contact or follower.
+
+Angular reference: identify the zero direction, any clocked flat or drive and the permitted adjustment range. Relate the setting to the assembled contact, not only to a loose part.
+
+Agree the measurement setup for the specified offset and angular relationship, then trial the movement in the mating assembly. An outside-diameter screen alone does not establish eccentricity, orientation or the available adjustment once nearby parts are installed.
+
+Specify eccentric datums and inspection positioning ↗
+
 #### Offset, reference axis and angular position
 
 Define the offset from a named datum axis and show the orientation of flats, drives or contact faces. For an adjuster, describe the required movement and stops in the assembly. Measuring only outside diameters cannot establish eccentricity or the angular relationship that makes the mechanism work.
@@ -3440,6 +3488,22 @@ Automotive Components ↗ Energy, Charging & Storage Equipment ↗ General Machi
 #### Useful technical reading
 
 Double-ended studs: preventing mixed-thread assembly errors ↗ Cone, flat, dog or cup: choosing a set-screw tip ↗ Knurled thumb screws: specifying grip and adjustment ↗
+
+#### Keep end A, the centre section and end B identifiable
+
+The sketch deliberately shows different threaded ends. Specify each end independently, then define the centre section that controls installation, seating or tool access.
+
+A B 1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+End A: state thread system, diameter, pitch, handedness, usable length and intended engagement. Identify which mating component receives this end.
+
+Centre section: dimension shoulders and wrench flats from named references. Review installation order and the tool space remaining after the first end is fitted.
+
+End B: apply its own thread and final-finish acceptance. Define a practical end-identification method that does not damage controlled surfaces.
+
+Keep A/B identification on the drawing, gauge record and package label where orientation matters. Record both mating-part revisions with the approved sample; a change to one end still requires review of installation access and engagement at the other.
+
+Coordinate mixed-thread identification and inspection ↗
 
 #### End A and end B identification
 

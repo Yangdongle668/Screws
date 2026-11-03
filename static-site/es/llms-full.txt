@@ -2620,6 +2620,22 @@ Explore un ensamblaje propuesto, las opciones de sujetadores, una revisión de f
 
 Revise el concepto de ajuste y bloqueo del dispositivo ↗
 
+#### Comprobar el espacio de agarre en todo el recorrido
+
+Cabeza moleteada, soporte roscado y extremo cumplen funciones distintas. Revise el mecanismo instalado en los límites de recorrido, incluidos guantes o portaherramientas especificados.
+
+1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Agarre: incluya paredes cercanas y espacio para girar la cabeza. Una cabeza mayor solo ayuda si el operario puede alcanzarla.
+
+Recorrido y acoplamiento: muestre soporte, rosca útil y ambas posiciones límite. Acuerde la retención del ajuste por separado del moleteado.
+
+Extremo: identifique apoyo o superficie y marcas admisibles. Evalúe el retorno a una referencia con el contacto real.
+
+Para aprobar muestras, identifique soporte y contacto, pruebe la secuencia acordada y registre posición y estado del contacto. El accionamiento manual no mide el apriete; defina otro método si se exige un par controlado.
+
+Preparar requisitos de agarre y ajuste ↗
+
 #### Diseñar el agarre para el espacio operatorio.
 
 El diámetro de la cabeza, la altura y el patrón de moleteado deben revisarse con el espacio disponible para los dedos. Un cabezal que es fácil de agarrar en el espacio libre puede resultar incómodo al lado de una pared o de un ajuste vecino. Indique si el uso con guantes, ajustes frecuentes o una herramienta de respaldo es parte de la operación prevista. Estas son entradas de aplicaciones, no clasificaciones de agarre universal.
@@ -2879,6 +2895,22 @@ Moldes, herramientas y accesorios de prueba ↗ Maquinaria y equipo en general �
 #### Lectura técnica útil
 
 Ajuste del perno con ranura en T: qué medir antes de realizar el pedido ↗ Cómo especificar un tornillo a prueba de manipulaciones ↗ Armellas para varillaje y elevación: diferentes especificaciones necesarias ↗
+
+#### Revisar inserción, giro y apoyo por separado
+
+El esquema muestra una cabeza diseñada para girar bajo la abertura. Un perno introducido desde el extremo sigue otro recorrido. Defina la entrada real; no suponga que toda cabeza en T gira en cualquier ranura.
+
+1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Inserción: compare la cabeza orientada para entrar con abertura y cavidad. Incluya extremos cerrados u obstáculos en el recorrido.
+
+Giro: compruebe toda la envolvente bajo los labios, incluidas esquinas, cuello y piezas próximas. Una cabeza puede caber al final y atascarse al girar.
+
+Apoyo: muestre qué caras inferiores soportan la cabeza al apretar. Confirme asiento, acoplamiento útil y contacto antigiro en la ranura real.
+
+Envíe sección de ranura y secuencia de montaje junto al plano del perno. Distinga inserción, giro previsto y asiento final en las muestras. El tamaño nominal del perfil no demuestra intercambiabilidad de cabezas ni capacidad de apriete.
+
+Medir la ranura antes de fijar las cotas de cabeza ↗
 
 #### Entrada y rotación de ranuras
 
@@ -3360,6 +3392,22 @@ Equipos electrónicos y ópticos ↗
 
 Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco ↗ Tornillos cónicos: definición del asiento de acoplamiento ↗ Pasadores de localización integrales: puntos de referencia de pasador y tornillo de coordinación ↗
 
+#### Definir eje de referencia, centro excéntrico y orientación angular
+
+La vista izquierda distingue eje de montaje A y centro excéntrico B. La derecha muestra una referencia angular separada. Son relaciones del plano, no tolerancias deducidas del contorno.
+
+A B 1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Eje A: defina qué característica establece el eje instalado y cómo se posiciona al medir. Una superficie roscada requiere acordar la interpretación de referencia.
+
+Centro B y desplazamiento: acote la parte excéntrica respecto a A, con tamaño y forma controlada. Muestre contacto acoplado o seguidor.
+
+Referencia angular: identifique cero, planos o accionamientos orientados y rango permitido. Relacione el ajuste con el contacto montado, no solo con la pieza suelta.
+
+Acuerde el montaje de medida para desplazamiento y ángulo y pruebe después el movimiento en el conjunto. Medir el diámetro exterior no demuestra excentricidad, orientación ni ajuste disponible con piezas próximas.
+
+Especificar referencias excéntricas y posicionamiento de inspección ↗
+
 #### Offset, eje de referencia y posición angular
 
 Defina el desplazamiento desde un eje de referencia con nombre y muestre la orientación de superficies planas, unidades o caras de contacto. Para un ajustador, describa el movimiento requerido y las paradas en el conjunto. Medir únicamente los diámetros exteriores no puede establecer la excentricidad o la relación angular que hace que el mecanismo funcione.
@@ -3440,6 +3488,22 @@ Componentes automotrices ↗ Equipos de energía, carga y almacenamiento ↗ Maq
 #### Lectura técnica útil
 
 Espárragos de doble extremo: prevención de errores de montaje con roscas mixtas ↗ Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗ Tornillos moleteados: especificación de agarre y ajuste ↗
+
+#### Identificar extremo A, zona central y extremo B
+
+El esquema muestra extremos distintos de forma deliberada. Especifique cada uno y después la zona central que controla montaje, asiento o acceso.
+
+A B 1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Extremo A: indique sistema, diámetro, paso, sentido, longitud útil y acoplamiento. Identifique la pieza que recibe este extremo.
+
+Zona central: acote hombros y planos de llave desde referencias identificadas. Revise montaje y espacio de herramienta tras instalar el primer extremo.
+
+Extremo B: aplique su propia aceptación de rosca y acabado. Defina una identificación práctica que no dañe superficies controladas.
+
+Cuando importe la orientación, conserve A/B en plano, registro de calibres y etiqueta. Registre ambas revisiones acopladas con la muestra; cambiar un extremo exige revisar acceso y acoplamiento en el otro.
+
+Coordinar identificación e inspección de roscas distintas ↗
 
 #### Identificación del extremo A y del extremo B
 

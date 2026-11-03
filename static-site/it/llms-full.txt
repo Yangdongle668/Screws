@@ -2620,6 +2620,22 @@ Esplora un assemblaggio proposto, le scelte di fissaggio, la revisione della pro
 
 Rivedere il concetto di regolazione e bloccaggio del dispositivo ↗
 
+#### Verificare lo spazio di presa lungo tutta la regolazione
+
+Testa zigrinata, supporto filettato ed estremità svolgono compiti diversi. Verificare il meccanismo montato ai limiti della corsa, considerando guanti o portautensili previsti.
+
+1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Presa: includere pareti vicine e spazio per ruotare la testa. Una testa più grande aiuta soltanto se l’operatore riesce a raggiungerla.
+
+Corsa e impegno: indicare supporto, filetto utile ed entrambe le posizioni limite. Definire il mantenimento della regolazione separatamente dalla zigrinatura.
+
+Estremità: identificare pattino o superficie e segni ammessi. Valutare il ritorno alla posizione di riferimento con il contatto effettivo.
+
+Per approvare i campioni, identificare supporto e contatto, provare la sequenza concordata e registrare posizione e stato del contatto. L’azionamento manuale non misura il serraggio: specificare un metodo distinto quando serve coppia controllata.
+
+Preparare requisiti di presa e regolazione ↗
+
 #### Progettare l'impugnatura per lo spazio operativo
 
 Il diametro della testa, l'altezza e il disegno della zigrinatura devono essere rivisti con lo spazio disponibile per le dita. Una testa facile da afferrare nello spazio libero può essere scomoda accanto a un muro o in un ambiente vicino. Indicare se l'uso con guanti, la regolazione frequente o l'azionamento di uno strumento di riserva rientrano nell'operazione prevista. Questi sono input applicativi, non valori di presa universali.
@@ -2879,6 +2895,22 @@ Stampi, attrezzature e dispositivi di prova ↗ Macchinari e attrezzature genera
 #### Lettura tecnica utile
 
 Montaggio bullone con scanalatura a T: cosa misurare prima di ordinare ↗ Come specificare un azionamento a vite antimanomissione ↗ Golfari per collegamenti e sollevamento: diverse esigenze specifiche ↗
+
+#### Verificare separatamente inserimento, rotazione e appoggio
+
+Lo schema mostra una testa progettata per ruotare sotto l’apertura. Un bullone inserito dall’estremità della cava segue un altro percorso. Specificare l’ingresso reale senza presumere che ogni testa a T ruoti in ogni cava.
+
+1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Inserimento: confrontare la testa orientata per entrare con apertura e cavità. Includere estremità chiuse o ostacoli lungo il percorso.
+
+Rotazione: verificare l’intero ingombro sotto le spalle, con spigoli, collo e pezzi vicini. Una testa può entrare nella posizione finale ma bloccarsi durante la rotazione.
+
+Appoggio: indicare le facce inferiori che sostengono la testa serrata. Confermare appoggio, impegno utile e antirotazione nella cava reale.
+
+Inviare sezione della cava e sequenza da aperto a serrato insieme al disegno. Distinguere inserimento, rotazione prevista e appoggio finale nei controlli. La misura nominale del profilato non dimostra intercambiabilità della testa o capacità di serraggio.
+
+Misurare la cava prima di fissare le quote della testa ↗
 
 #### Ingresso e rotazione degli slot
 
@@ -3360,6 +3392,22 @@ Elettronica e apparecchiature ottiche ↗
 
 Disegni delle viti eccentriche: rendere inequivocabile l'offset ↗ Viti coniche: definizione della sede di accoppiamento ↗ Perni di posizionamento integrati: perno di coordinamento e riferimenti a vite ↗
 
+#### Definire asse di riferimento, centro eccentrico e riferimento angolare
+
+La vista sinistra distingue asse di montaggio A e centro eccentrico B. A destra è illustrato un riferimento angolare distinto. Sono relazioni di disegno, non tolleranze dedotte dal profilo.
+
+A B 1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Asse A: definire la caratteristica che stabilisce l’asse montato e il posizionamento durante il controllo. Concordare l’interpretazione del riferimento su superfici filettate.
+
+Centro B ed eccentricità: quotare l’elemento eccentrico rispetto ad A, con dimensione e forma controllata. Indicare contatto o elemento seguace.
+
+Riferimento angolare: identificare zero, piani o impronte orientati e campo ammesso. Collegare la regolazione al contatto montato, non soltanto al pezzo libero.
+
+Concordare il piazzamento di misura per eccentricità e angolo, poi provare il movimento nell’assieme. Il solo diametro esterno non verifica eccentricità, orientamento o regolazione disponibile con i pezzi adiacenti montati.
+
+Specificare riferimenti eccentrici e posizionamento di controllo ↗
+
 #### Offset, asse di riferimento e posizione angolare
 
 Definire l'offset da un asse di Riferimento con nome e mostrare l'orientamento di piani, unità o facce di contatto. Per un regolatore, descrivere il movimento richiesto e gli arresti nell'assemblaggio. Misurare solo i diametri esterni non può stabilire l'eccentricità o la relazione angolare che fa funzionare il meccanismo.
@@ -3440,6 +3488,22 @@ Componenti automobilistici ↗ Attrezzature per energia, ricarica e stoccaggio �
 #### Lettura tecnica utile
 
 Prigionieri a doppia estremità: prevengono errori di assemblaggio di filetti misti ↗ Cono, piatto, cane o coppa: scegli la punta con vite di fissaggio ↗ Viti zigrinate: specifica presa e regolazione ↗
+
+#### Identificare estremità A, parte centrale ed estremità B
+
+Lo schema mostra volutamente estremità filettate diverse. Specificarle separatamente, poi definire la parte centrale per montaggio, appoggio o accesso utensile.
+
+A B 1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Estremità A: indicare sistema, diametro, passo, senso, lunghezza utile e impegno. Identificare il pezzo che riceve questa estremità.
+
+Parte centrale: quotare spallamenti e piani chiave dai riferimenti definiti. Verificare ordine di montaggio e spazio utensile dopo la prima estremità.
+
+Estremità B: applicare la propria accettazione di filetto e finitura. Definire un’identificazione pratica senza danneggiare le superfici controllate.
+
+Quando l’orientamento conta, mantenere A/B su disegno, controllo calibri ed etichetta. Registrare entrambi i pezzi accoppiati col campione: modificare un’estremità richiede riesaminare accesso e impegno dell’altra.
+
+Coordinare identificazione e controllo dei filetti diversi ↗
 
 #### Identificazione dell'estremità A e dell'estremità B
 

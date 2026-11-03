@@ -2620,6 +2620,22 @@ Erkunden Sie eine vorgeschlagene Baugruppe, die Auswahl der Befestigungselemente
 
 Überprüfen Sie das Konzept zur Vorrichtungseinstellung und -verriegelung ↗
 
+#### Griffraum über den gesamten Verstellweg prüfen
+
+Rändelkopf, Gewindeführung und Kontaktende erfüllen unterschiedliche Aufgaben. Den eingebauten Mechanismus an den Verstellgrenzen prüfen, einschließlich vorgeschriebener Handschuhe oder Werkzeughalter.
+
+1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Griffraum: benachbarte Wände und den zum Drehen nötigen Raum berücksichtigen. Ein größerer Kopf hilft nur, wenn er erreichbar bleibt.
+
+Hub und Eingriff: Führung, nutzbare Gewindelänge und beide Endstellungen zeigen. Das Halten der Einstellung unabhängig von der Rändelung vereinbaren.
+
+Kontaktende: Gegenauflage oder Kontaktfläche und zulässige Spuren benennen. Rückkehr zur Referenzposition am tatsächlichen Kontakt prüfen.
+
+Für die Musterfreigabe Führung und Kontaktteil benennen, den vereinbarten Verstellablauf erproben und Position sowie Kontaktzustand dokumentieren. Handbetätigung ist kein gemessenes Anziehverfahren; bei gefordertem kontrolliertem Drehmoment eine gesonderte Methode festlegen.
+
+Griff- und Verstellanforderungen vorbereiten ↗
+
 #### Entwerfen Sie den Griff für den Arbeitsraum
 
 Kopfdurchmesser, Höhe und Rändelmuster sollten unter Berücksichtigung des verfügbaren Fingerspielraums überprüft werden. Ein Kopf, der im freien Raum leicht zu greifen ist, kann neben einer Wand oder benachbarten Verstellmöglichkeiten unhandlich sein. Geben Sie an, ob die Verwendung mit Handschuhen, häufiges Einstellen oder ein Ersatzwerkzeugantrieb zum vorgesehenen Betrieb gehört. Hierbei handelt es sich um Anwendungseingaben, nicht um universelle Griffigkeitsbewertungen.
@@ -2879,6 +2895,22 @@ Formen, Werkzeuge und Prüfvorrichtungen ↗ Allgemeine Maschinen und Geräte �
 #### Nützliche technische Lektüre
 
 Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Ringschrauben für Gestänge und Hebevorrichtungen: unterschiedliche Spezifikationsanforderungen ↗
+
+#### Einführen, Drehen und Auflage getrennt prüfen
+
+Die Skizze zeigt einen Kopf, der unter der Nutöffnung drehen soll. Ein vom Nutende eingeschobener T-Bolzen hat einen anderen Einbauweg. Die tatsächliche Einführart festlegen, statt jeden T-Kopf in jeder Nut als drehbar anzusehen.
+
+1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Einführen: Kopf in Einführlage mit Öffnung und Innenraum vergleichen. Geschlossene Nutenden oder Hindernisse im Einbauweg berücksichtigen.
+
+Drehen: vollständigen Schwenkraum unter den Nutstegen prüfen, einschließlich Ecken, Hals und Nachbarteilen. Ein Kopf kann in Endlage passen und beim Drehen dennoch klemmen.
+
+Auflage: tragende Unterseiten beim Anziehen zeigen. Anlage, nutzbaren Eingriff und vorgesehene Verdrehsicherung in der tatsächlichen Nut bestätigen.
+
+Nutquerschnitt und Montagefolge von offen bis gespannt mit der Bolzenzeichnung senden. Musterprüfung nach Einführen, vorgesehener Drehung und endgültiger Anlage trennen. Die Profil-Nenngröße belegt weder austauschbare Kopfgeometrie noch eine zulässige Klemmkraft.
+
+Nut vor Festlegung der Kopfmaße vermessen ↗
 
 #### Slot-Eingabe und Rotation
 
@@ -3360,6 +3392,22 @@ Elektronische und optische Ausrüstung ↗
 
 Zeichnungen von Exzenterschrauben: Den Versatz eindeutig machen ↗ Konische Schrauben: Definition des passenden Sitzes ↗ Integrierte Fixierstifte: Koordinierende Stift- und Schraubenbezugspunkte ↗
 
+#### Bezugsachse, Exzentermitte und Winkelreferenz festlegen
+
+Links sind Einbauachse A und Exzentermitte B getrennt dargestellt, rechts eine gesonderte Winkelreferenz. Dies sind Zeichnungsbeziehungen, keine aus der Außenform abgeleiteten Toleranzwerte.
+
+A B 1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Bezugsachse A: Merkmal für die Einbauachse und dessen Aufnahme bei der Prüfung festlegen. Für eine Gewindefläche die Bezugsinterpretation vereinbaren.
+
+Mitte B und Versatz: Exzentermerkmal mit Größe und kontrollierter Form relativ zu A bemaßen. Gegenkontakt oder Folger zeigen.
+
+Winkelreferenz: Nullrichtung, winkelgebundene Fläche oder Antrieb und zulässigen Verstellbereich benennen. Einstellung zum montierten Kontakt, nicht nur zum losen Teil, zuordnen.
+
+Messaufbau für festgelegten Versatz und Winkelbeziehung vereinbaren, dann Bewegung im Gegenaufbau erproben. Eine reine Außendurchmesserprüfung belegt weder Exzentrizität noch Orientierung oder den Verstellraum mit montierten Nachbarteilen.
+
+Exzenterbezüge und Prüfaufnahme spezifizieren ↗
+
 #### Offset, Referenzachse und Winkelposition
 
 Definieren Sie den Versatz von einer benannten Bezugsachse und zeigen Sie die Ausrichtung von Abflachungen, Antrieben oder Kontaktflächen an. Beschreiben Sie für einen Einsteller die erforderliche Bewegung und Anschläge in der Baugruppe. Die ausschließliche Messung von Außendurchmessern kann weder die Exzentrizität noch die Winkelbeziehung bestimmen, die für die Funktionsweise des Mechanismus verantwortlich ist.
@@ -3440,6 +3488,22 @@ Automobilkomponenten ↗ Energie-, Lade- und Speicherausrüstung ↗ Allgemeine 
 #### Nützliche technische Lektüre
 
 Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Stellschraube ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗
+
+#### Ende A, Mittelteil und Ende B eindeutig zuordnen
+
+Die Skizze zeigt bewusst unterschiedliche Gewindeenden. Beide unabhängig spezifizieren, dann den Mittelteil für Einbau, Anlage oder Werkzeugzugang festlegen.
+
+A B 1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Ende A: Gewindesystem, Durchmesser, Steigung, Drehsinn, nutzbare Länge und Eingriff angeben. Zugehöriges Gegenstück benennen.
+
+Mittelteil: Schultern und Schlüsselflächen von benannten Bezügen bemaßen. Einbaufolge und verbleibenden Werkzeugraum nach Montage des ersten Endes prüfen.
+
+Ende B: eigene Gewinde- und Endoberflächenabnahme anwenden. Eine praktikable Endkennzeichnung festlegen, die kontrollierte Flächen nicht beschädigt.
+
+Wenn die Orientierung zählt, A/B-Kennzeichnung auf Zeichnung, Lehrenprotokoll und Verpackung beibehalten. Beide Gegenstückstände mit dem freigegebenen Muster dokumentieren; auch bei Änderung nur eines Endes Zugang und Eingriff am anderen prüfen.
+
+Kennzeichnung und Prüfung unterschiedlicher Gewinde abstimmen ↗
 
 #### Identifizierung von Ende A und Ende B
 

@@ -55,16 +55,16 @@ HTML pages are the primary source. This directory lists current indexable public
 - [防盗防拆螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/security-screws/): 特殊的驱动接口有助于限制随意接触，同时允许使用经批准的维修工具来操作螺钉。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [空心通孔螺丝定制](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/hollow-screws/): 按孔道用途确定中空螺丝的孔径、剩余壁厚、去毛刺和验收要求。提交图纸及应用说明，评估走线、流通或密封连接的制造方案。
 - [非标一体法兰螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/flange-screws/): 整体式法兰提供了工程图定义的轴承足迹，无需单独处理的垫圈。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
-- [手拧滚花螺丝与调节螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/knurled-thumb-screws/): 面向抓握的头部支持手动调节，并可选配用于指定装配方法的工具驱动装置。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
+- [手拧滚花螺丝与调节螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/knurled-thumb-screws/): 按握持净空、调节行程、接触端和锁定方式定制滚花手拧螺丝，样品批准前检查实际装配中的操作。
 - [非标紧定螺丝／机米螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/set-screws/): 无头螺纹元件通过指定的尖端传递定位或夹紧动作。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
-- [非标T型槽螺栓定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/t-slot-bolts/): 工程图专用的 T 型头接合匹配的槽以进行定位或夹紧。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
+- [非标T型槽螺栓定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/t-slot-bolts/): 按实际槽结构、装入路径、旋转包络和承压面定制 T 型螺栓，确定头部几何前先核对装配配合。
 - [非标活节螺栓定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/eye-bolts/): 孔眼或叉式端部将螺纹杆连接至销或铰接接头。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [非标吊环螺栓设计定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/lifting-eye-bolts/): 工程图定义的环和柄几何形状，用于起重相关要求的工程审查。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [非标U型螺栓定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/u-bolts/): 弯曲柄和两个螺纹腿遵循管道、框架或夹紧部件的尺寸。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [非标方头螺栓定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/square-head-bolts/): 方形工具接口或捕获头支持特定于应用程序的访问和防旋转需求。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [非标马车螺栓定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/carriage-bolts/): 圆头和工程图定义的方颈提供了与配合部件的防旋转接口。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
-- [偏心螺丝与斜头螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/eccentric-screws/): 偏移或角度特征将调整转换为受控的位置变化。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
-- [非标双头螺柱定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/double-ended-studs/): 两个螺纹端可以使用不同的直径、螺距或啮合长度，并由定制的中心部分分隔开。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
+- [偏心螺丝与斜头螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/eccentric-screws/): 通过基准轴、偏心中心与角度基准定义偏心螺丝，将调节包络与加工装夹和最终检查联系起来。
+- [非标双头螺柱定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/double-ended-studs/): 为非标双头螺柱分别规定两端牙制、旋向、有效旋合及识别方法，同时协调扳手空间、量规检查和包装。
 - [细牙与超细牙螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/fine-thread-screws/): 工程图定义的细间距支持标准选择不适合的调整和接合要求。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [特殊牙型与复合螺纹定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/special-thread-profiles/): 梯形、梯形、高低和复合螺纹布置需要明确的轮廓和匹配零件。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [割尾、削尾自攻螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/modified-tip-self-tapping-screws/): 可以根据实际材料和孔状况指定开槽、切割或浮雕端部。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。

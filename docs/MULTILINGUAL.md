@@ -22,7 +22,7 @@ node scripts/verify-language-preference.mjs
 
 2026-11-03新增采购决策算例与公共界面语境校订，来源为`scripts/buyer-localization.mjs`，生成记录在`translations/buyer-review.json`。该映射在旧审校层之后应用；更新内容时运行`node scripts/buyer-localization.mjs`，再执行完整生成。见`docs/SEO-IMPROVEMENTS-2026-11-03.md`。询盘产品参数响应保留canonical及表单状态，由不带参数的规范页声明语言对应关系。
 
-企业合作阶段、六类核心产品接口图与质量放行说明的英文源位于 `scripts/practical-content.mjs`；五种语境译文由 `scripts/practical-localization.mjs` 维护，写入 `translations/practical-review.json` 和语言字典。运行 `node scripts/practical-localization.mjs` 后完整生成即可；`apply-editorial-review.mjs` 也会在旧审校层之后应用此映射。SVG 仅使用编号，图例、替代文本与说明随语言翻译。图示用于设计讨论，不能替代真实设备、项目或检测记录。
+企业合作阶段、十类产品接口图与质量放行说明的英文源位于 `scripts/practical-content.mjs`；五种语境译文由 `scripts/practical-localization.mjs` 维护，写入 `translations/practical-review.json` 和语言字典。运行 `node scripts/practical-localization.mjs` 后完整生成即可；`apply-editorial-review.mjs` 也会在旧审校层之后应用此映射。图中使用编号，以及螺柱／偏心图必需的 A/B 技术标识；图例、替代文本与说明随语言翻译。手拧、T型、双头螺柱和偏心页的简介元数据由同一内容源维护。图示用于设计讨论，不能替代真实设备、项目或检测记录。英文品牌组合稿保持固定字标，不随页面语言翻译；资产维护见 `docs/BRAND-ASSETS.md`。
 
 材料用途选择表与七类材料要求示例的英文源为 `scripts/material-request-content.mjs`，译文在 `scripts/material-request-localization.mjs` 维护。运行 `node scripts/material-request-localization.mjs` 写入五份字典及 `translations/material-request-review.json`；常规审校脚本会在旧映射后应用这些译文。示例区分牌号／状态、成品要求、表面与配合、验收及替代料，不改动已有带条件的强度参考表；英文确认后再同步更新各语言。
 

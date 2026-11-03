@@ -1,4 +1,9 @@
 /* Shared responsive rules: shrink content, never conceal page overflow. */
+/* Use the same aligned artwork in the header and footer, including its tagline. */
+.site-header .logo,.footer-main .logo{display:block;width:200px;max-width:100%;flex:0 0 auto;line-height:0}
+.footer-main .logo{width:220px}
+.logo>.zufek-brand-lockup{display:block;width:100%;height:auto;mix-blend-mode:multiply}
+.zufek-mobile-brand{display:none}
 html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body:not(.admin-page) main :where(section,article,aside,div,figure,form){min-width:0}
 body:not(.admin-page) :where(h1,h2,h3,p,li,summary,a){overflow-wrap:break-word}
@@ -13,8 +18,7 @@ body:not(.admin-page) :where(input,select,textarea){min-width:0;max-width:100%}
 .hero-screw-slide,.hero-screw-slide>a{min-width:0;max-width:100%}
 .hero-notes,.hero-bottom{flex-wrap:wrap}
 .article-card h3,.card-body h3{overflow-wrap:anywhere}
-@media(max-width:1100px){
- .topbar>span{max-width:48%;font-size:9px;letter-spacing:.04em}
+@media(max-width:1240px){
  .site-header{padding:14px 5%;gap:16px}
  .site-header .menu-toggle{display:inline-flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;padding:0;border:1px solid #b9c5c3;background:transparent;color:var(--ink);font-size:24px;line-height:1}
  .site-header .main-nav{display:none;position:absolute;top:100%;left:0;right:0;background:var(--paper);padding:16px 5% 24px;border-bottom:1px solid var(--line);box-shadow:0 12px 20px #102c3712;font-size:16px;max-height:calc(100dvh - var(--sticky-header-height) - 12px);overflow-y:auto;overscroll-behavior:contain}
@@ -27,6 +31,9 @@ body:not(.admin-page) :where(input,select,textarea){min-width:0;max-width:100%}
  .resource-menu{position:static;flex-basis:100%;width:100%;min-width:0;margin:0 0 8px;top:auto;transform:none;box-shadow:none;border-radius:4px}
  .resource-menu:before,.main-nav>a:after,.nav-resources>a:after{display:none}
  .resource-menu a{padding:12px;white-space:normal}
+}
+@media(max-width:1100px){
+ .topbar>span{max-width:48%;font-size:9px;letter-spacing:.04em}
  .detail-hero,.two-columns,.quote-layout{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px}
  .hero h1{font-size:clamp(44px,5.8vw,68px);overflow-wrap:anywhere}
  .article-heading h1,.detail-hero h1,.page-heading h1{overflow-wrap:anywhere;hyphens:auto}
@@ -41,6 +48,10 @@ body:not(.admin-page) :where(input,select,textarea){min-width:0;max-width:100%}
  .topbar .language-switcher details>div{max-width:calc(100vw - 32px);max-height:70dvh;overflow:auto}
  .site-header,.site-header.is-scrolled{padding:12px 5%}
  .site-header .logo{font-size:27px;min-width:0;column-gap:6px}
+ .site-header .logo{display:flex;align-items:center;width:auto;line-height:1.1}
+ .site-header .logo>.zufek-brand-lockup{display:none}
+ .site-header .zufek-mobile-brand{display:inline-flex;align-items:center;gap:6px}
+ .zufek-mobile-brand img{width:38px;height:38px;object-fit:contain;mix-blend-mode:multiply}
  .site-header .logo>.zufek-brand-symbol{width:38px;height:38px}
  .hero{grid-template-columns:minmax(0,1fr)}
  .hero-copy{padding:32px 0 28px}

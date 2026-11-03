@@ -1,7 +1,5 @@
 [
   "\" content=\"",
-  "(min-width:1101px) and (hover:hover) and (pointer:fine)",
-  "(prefers-reduced-motion: reduce)",
   "-30 days",
   "-7 days",
   ".filter-grid .article-card",
