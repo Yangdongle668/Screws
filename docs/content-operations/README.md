@@ -1,5 +1,11 @@
 # AI content operations
 
+## Core-page audit and company evidence
+
+See [the 64-page audit](../reports/CORE-PAGE-AUDIT.md) and [company capability evidence index](EVIDENCE-INDEX.md). The searchable [HTML report](../reports/core-page-audit.html) links each buyer question and proposed increment to evidence IDs. These are editorial maintenance references, not additional AI-generation, translation or publication gates; external references remain optional. RFQ end-to-end testing is excluded because the owner already verified it. Internal orders, reports and permissions stay in controlled company storage; only approved summaries belong here.
+
+Refresh public observations explicitly with `node scripts/collect-core-audit.mjs`; rebuild offline with `node scripts/build-core-audit.mjs`; verify with `node scripts/verify-core-audit.mjs`. Updating these reports does not change front-end content or deployment configuration.
+
 This package records existing content and defines separate English prompts. The independent Docker backend now implements API settings and scheduled draft generation; see ../AI-CONTENT-ADMIN.md. It does not authorize automatic publication.
 
 ## Read before every job
