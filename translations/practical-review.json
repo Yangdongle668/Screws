@@ -1,0 +1,590 @@
+{
+  "Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.": {
+    "de": "Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.",
+    "es": "Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.",
+    "it": "Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.",
+    "fr": "Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.",
+    "zh": "接口结构示意，不按比例绘制。尺寸与验收要求以批准的装配图为准。"
+  },
+  "Company background and sample planning": {
+    "de": "Unternehmen und Musterplanung",
+    "es": "Empresa y planificación de muestras",
+    "it": "Azienda e pianificazione dei campioni",
+    "fr": "Entreprise et préparation des échantillons",
+    "zh": "了解企业与打样安排"
+  },
+  "Agree the milestones before tooling starts": {
+    "de": "Meilensteine vor dem Werkzeugbau vereinbaren",
+    "es": "Acordar los hitos antes de fabricar el utillaje",
+    "it": "Concordare le fasi prima di avviare gli stampi",
+    "fr": "Définir les étapes avant de lancer l’outillage",
+    "zh": "开模前，先把各阶段的确认事项说清楚"
+  },
+  "Separate the quotation, sample approval and repeat-production decisions. This makes it clear what is being priced, what the sample must demonstrate and what remains to be agreed for the order.": {
+    "de": "Trennen Sie Angebot, Musterfreigabe und Serienauftrag. So bleibt klar, was kalkuliert wird, was das Muster nachweisen soll und welche Punkte für den Auftrag noch abzustimmen sind.",
+    "es": "Separe la oferta, la aprobación de muestras y la producción repetitiva. Así queda claro qué se está cotizando, qué debe demostrar la muestra y qué falta acordar para el pedido.",
+    "it": "Distinguere preventivo, approvazione dei campioni e produzione ripetitiva: chiarire cosa viene quotato, cosa deve dimostrare il campione e quali aspetti dell’ordine restano da concordare.",
+    "fr": "Distinguez devis, approbation des échantillons et production récurrente : précisez ce qui est chiffré, ce que l’échantillon doit démontrer et les points restant à convenir pour la commande.",
+    "zh": "报价、样品批准和后续量产是不同的确认环节。先明确报价包含什么、样品要验证什么，以及订单还有哪些待定事项，后续沟通才有共同依据。"
+  },
+  "Drawing and quotation": {
+    "de": "Zeichnung und Angebot",
+    "es": "Plano y oferta",
+    "it": "Disegno e preventivo",
+    "fr": "Plan et devis",
+    "zh": "图纸评审与报价"
+  },
+  "Identify the current drawing, mating parts, material, finish and critical features. Record unresolved items and quotation assumptions, including the proposed route and any externally arranged processing or testing.": {
+    "de": "Benennen Sie aktuelle Zeichnung, Gegenstücke, Werkstoff, Oberfläche und kritische Merkmale. Halten Sie offene Punkte und Angebotsannahmen fest, einschließlich Fertigungsroute und extern vorgesehener Bearbeitung oder Prüfung.",
+    "es": "Identifique el plano vigente, las piezas acopladas, el material, el acabado y las características críticas. Registre las dudas y los supuestos de la oferta, incluida la ruta propuesta y los procesos o ensayos previstos con terceros.",
+    "it": "Identificare disegno aggiornato, componenti accoppiati, materiale, finitura e caratteristiche critiche. Registrare punti aperti e ipotesi di preventivo, compresi ciclo proposto e lavorazioni o prove affidate all’esterno.",
+    "fr": "Identifiez le plan en vigueur, les pièces en regard, le matériau, la finition et les caractéristiques critiques. Consignez les points ouverts et hypothèses du devis, y compris la gamme proposée et les opérations ou essais prévus en externe.",
+    "zh": "明确现行图纸、配合件、材料、表面处理和关键特征。把尚未解决的问题、报价采用的假设、拟定工艺路线，以及拟安排的外部加工或检测一并记录下来。"
+  },
+  "Tooling and samples": {
+    "de": "Werkzeuge und Muster",
+    "es": "Utillaje y muestras",
+    "it": "Stampi e campioni",
+    "fr": "Outillage et échantillons",
+    "zh": "模具与打样"
+  },
+  "Allow approximately 10–15 days for tooling and sampling, subject to technical review and quotation confirmation. Agree the starting milestone, sample quantity and checks before work begins; sample acceptance is a separate decision.": {
+    "de": "Für Werkzeugbau und Bemusterung sind etwa 10–15 Tage einzuplanen, vorbehaltlich technischer Prüfung und Angebotsbestätigung. Vereinbaren Sie vor Beginn Startpunkt, Musterzahl und Prüfungen; die Musterfreigabe bleibt ein eigener Schritt.",
+    "es": "Prevea aproximadamente 10–15 días para utillaje y muestras, sujetos a revisión técnica y confirmación de la oferta. Antes de empezar, acuerde el hito de inicio, la cantidad y las comprobaciones; la aprobación de la muestra es una decisión aparte.",
+    "it": "Prevedere circa 10–15 giorni per stampi e campioni, previa valutazione tecnica e conferma del preventivo. Concordare prima dell’avvio il momento iniziale, la quantità e i controlli; l’approvazione del campione è una fase distinta.",
+    "fr": "Prévoyez environ 10–15 jours pour l’outillage et les échantillons, sous réserve de revue technique et de confirmation du devis. Convenez au préalable du point de départ, de la quantité et des contrôles ; l’approbation des échantillons est une étape distincte.",
+    "zh": "含模具打样通常约需 10–15 天，具体经技术评审和报价确认。开始前约定周期起算节点、样品数量与检查项目；样品完成后，还需单独确认是否批准。"
+  },
+  "Repeat production": {
+    "de": "Wiederholaufträge",
+    "es": "Producción repetitiva",
+    "it": "Produzione ripetitiva",
+    "fr": "Production récurrente",
+    "zh": "后续量产"
+  },
+  "Use the approved sample and drawing revision to agree order quantity, lot identification, required documents and delivery. Monthly capacity is approximately several million parts across the product mix; allocation and timing depend on the actual route and order.": {
+    "de": "Vereinbaren Sie anhand von freigegebenem Muster und Zeichnungsstand Menge, Loskennzeichnung, Unterlagen und Lieferung. Die monatliche Kapazität liegt über den Produktmix hinweg bei mehreren Millionen Teilen; Einplanung und Termine hängen von Route und Auftrag ab.",
+    "es": "Con la muestra y la revisión del plano aprobadas, acuerde cantidad, identificación de lote, documentos y entrega. La capacidad mensual es de varios millones de piezas entre distintos productos; la asignación y los plazos dependen de la ruta y del pedido.",
+    "it": "Con campione e revisione del disegno approvati, concordare quantità, identificazione del lotto, documenti e consegna. La capacità mensile è di alcuni milioni di pezzi nell’insieme dei prodotti; pianificazione e tempi dipendono dal ciclo e dall’ordine.",
+    "fr": "À partir de l’échantillon et de l’indice du plan approuvés, convenez de la quantité, de l’identification du lot, des documents et de la livraison. La capacité mensuelle est de plusieurs millions de pièces, tous produits confondus ; l’allocation et les délais dépendent de la gamme et de la commande.",
+    "zh": "以批准的样品和图纸版本为依据，约定订单数量、批次标识、所需文件与交付安排。不同产品合计月产能约数百万件，具体排产和交期取决于实际工艺与订单条件。"
+  },
+  "Prepare the sample approval requirements": {
+    "de": "Anforderungen an die Musterfreigabe vorbereiten",
+    "es": "Preparar los requisitos de aprobación de muestras",
+    "it": "Preparare i requisiti di approvazione dei campioni",
+    "fr": "Préparer les exigences d’approbation des échantillons",
+    "zh": "准备样品批准要求"
+  },
+  "Company-supplied photograph of threaded components and shoulder forms": {
+    "de": "Vom Unternehmen bereitgestelltes Foto von Gewindeteilen und Schulterformen",
+    "es": "Fotografía aportada por la empresa de componentes roscados y piezas con hombro",
+    "it": "Fotografia fornita dall’azienda di componenti filettati e forme a spallamento",
+    "fr": "Photographie fournie par l’entreprise de pièces filetées et de formes à épaulement",
+    "zh": "企业提供的螺纹件与台阶类样件实拍"
+  },
+  "Product forms from the company-supplied sample photographs.": {
+    "de": "Produktformen aus den vom Unternehmen bereitgestellten Musterfotos.",
+    "es": "Formas de producto en las fotografías de muestras aportadas por la empresa.",
+    "it": "Forme dei prodotti nelle fotografie dei campioni fornite dall’azienda.",
+    "fr": "Formes de pièces visibles sur les photographies d’échantillons fournies par l’entreprise.",
+    "zh": "企业提供的样件实拍，展示可见的产品结构。"
+  },
+  "Check the bore fit separately from the axial clearance": {
+    "de": "Bohrungspassung und Axialspiel getrennt prüfen",
+    "es": "Comprobar por separado el ajuste del hombro y la holgura axial",
+    "it": "Verificare separatamente accoppiamento del gambo e gioco assiale",
+    "fr": "Vérifier séparément l’ajustement dans l’alésage et le jeu axial",
+    "zh": "孔轴配合与轴向间隙，要分别确认"
+  },
+  "The shoulder-to-bore interface guides movement; the distance between the seating faces controls the axial stack. Define both in the finished condition rather than treating a thread fit as the locating fit.": {
+    "de": "Die Paarung aus Schulter und Bohrung führt die Bewegung; der Abstand zwischen den Anlageflächen bestimmt die axiale Maßkette. Legen Sie beides im Lieferzustand fest, statt die Gewindepassung als Zentrierpassung zu behandeln.",
+    "es": "El hombro y el taladro guían el movimiento; la distancia entre las caras de apoyo determina la cadena axial. Defina ambas interfaces en el estado final de suministro, sin tratar el ajuste de rosca como ajuste de guiado.",
+    "it": "L’accoppiamento tra gambo calibrato e foro guida il movimento; la distanza tra le facce d’appoggio determina la catena assiale. Definire entrambi nello stato finale di fornitura, senza confondere l’accoppiamento filettato con quello di guida.",
+    "fr": "L’épaulement et l’alésage guident le mouvement ; la distance entre les faces d’appui définit la chaîne axiale. Précisez les deux dans l’état final de livraison, sans assimiler l’ajustement du filetage à celui du guidage.",
+    "zh": "肩轴与配合孔负责导向，两处支承端面之间的距离决定轴向尺寸链。两类要求都应按最终交付状态定义，不能把螺纹配合等级当作定位轴段的配合要求。"
+  },
+  "Shoulder and mating bore: specify the two limits, the reference axis and any functional surface requirement.": {
+    "de": "Schulter und Gegenbohrung: beide Maßgrenzen, Bezugsachse und funktionale Oberflächenanforderungen angeben.",
+    "es": "Hombro y taladro: indique los límites de ambas cotas, el eje de referencia y los requisitos funcionales de superficie.",
+    "it": "Gambo e foro: indicare i limiti delle due quote, l’asse di riferimento e gli eventuali requisiti funzionali della superficie.",
+    "fr": "Épaulement et alésage : indiquez les limites des deux cotes, l’axe de référence et les exigences fonctionnelles de surface.",
+    "zh": "肩轴与配合孔：分别注明尺寸上下限、参考轴线，以及影响功能的表面要求。"
+  },
+  "Seating and transition: show the mating chamfer or counterbore so the incomplete thread or relief does not prevent seating.": {
+    "de": "Anlage und Übergang: Fase oder Senkung des Gegenstücks zeigen, damit unvollständiges Gewinde oder Freistich die Anlage nicht verhindern.",
+    "es": "Apoyo y transición: muestre el chaflán o alojamiento de la pieza acoplada para que el filete incompleto o la garganta no impidan el asiento.",
+    "it": "Appoggio e transizione: mostrare smusso o lamatura del componente accoppiato, evitando interferenze del filetto incompleto o dello scarico.",
+    "fr": "Appui et transition : représentez le chanfrein ou le lamage de la pièce en regard pour éviter toute interférence du filet incomplet ou du dégagement.",
+    "zh": "端面与过渡段：画出配合件的倒角或沉孔，核对不完整牙、退刀槽及其相邻结构是否妨碍贴合。"
+  },
+  "After finishing: identify the surfaces affected by treatment or coating and the stage at which the final fit is checked.": {
+    "de": "Nach der Oberflächenbearbeitung: betroffene Flächen und den Prüfzeitpunkt der endgültigen Passung festlegen.",
+    "es": "Tras el acabado: identifique las superficies afectadas por el tratamiento o recubrimiento y cuándo se comprobará el ajuste final.",
+    "it": "Dopo la finitura: identificare le superfici interessate dal trattamento o rivestimento e la fase di controllo dell’accoppiamento finale.",
+    "fr": "Après finition : identifiez les surfaces affectées par le traitement ou le revêtement et l’étape de contrôle de l’ajustement final.",
+    "zh": "处理后的状态：标明热处理或涂层会影响哪些表面，并约定最终配合尺寸在哪道工序后验收。"
+  },
+  "Read the clearance calculation below alongside these interfaces. A satisfactory axial gap does not by itself establish the bore fit or the required geometric relationship.": {
+    "de": "Lesen Sie die folgende Spielberechnung zusammen mit diesen Schnittstellen. Ein ausreichendes Axialspiel belegt allein weder die Bohrungspassung noch die geforderte geometrische Beziehung.",
+    "es": "Revise el cálculo de holgura de abajo junto con estas interfaces. Una holgura axial correcta no confirma por sí sola el ajuste del taladro ni la relación geométrica exigida.",
+    "it": "Leggere il calcolo del gioco riportato sotto insieme a queste interfacce. Un gioco assiale corretto non verifica da solo l’accoppiamento nel foro o la relazione geometrica richiesta.",
+    "fr": "Lisez le calcul du jeu ci-dessous avec ces interfaces. Un jeu axial satisfaisant ne valide à lui seul ni l’ajustement dans l’alésage ni la relation géométrique requise.",
+    "zh": "下方的间隙算例应结合这些接口一起看。轴向间隙合适，并不代表孔轴配合及几何关系也已经满足要求。"
+  },
+  "Review the captive screw in both service positions": {
+    "de": "Unverlierbare Schrauben in beiden Wartungsstellungen prüfen",
+    "es": "Revisar el tornillo imperdible en las dos posiciones de servicio",
+    "it": "Verificare la vite imperdibile nelle due posizioni di servizio",
+    "fr": "Examiner la vis imperdable dans ses deux positions de service",
+    "zh": "防脱螺丝，打开和锁紧两种状态都要看"
+  },
+  "A captive screw belongs to a panel-and-retainer assembly. Check the released position as carefully as the tightened position; usable thread engagement and retained travel answer different questions.": {
+    "de": "Eine unverlierbare Schraube gehört zu einer Baugruppe aus Platte und Halteelement. Prüfen Sie die gelöste Stellung ebenso sorgfältig wie die angezogene: nutzbarer Gewindeeingriff und gehaltener Hub sind unterschiedliche Anforderungen.",
+    "es": "El tornillo imperdible forma parte del panel y su retenedor. Revise la posición liberada igual que la apretada: el acoplamiento útil de rosca y el recorrido retenido son requisitos distintos.",
+    "it": "La vite imperdibile fa parte di un sistema con pannello ed elemento di ritegno. Verificare la posizione svitata quanto quella serrata: l’impegno utile del filetto e la corsa trattenuta sono requisiti diversi.",
+    "fr": "La vis imperdable fait partie d’un ensemble comprenant panneau et dispositif de retenue. Vérifiez autant la position desserrée que serrée : longueur utile d’engagement et course retenue répondent à des exigences distinctes.",
+    "zh": "防脱螺丝要与面板、保持件一起评审。打开后的状态与锁紧状态同样重要：有效旋合长度是否足够、松开后能移动多远，是两个不同的问题。"
+  },
+  "Released: the screw clears the mating thread while the chosen retaining feature keeps it with the panel.": {
+    "de": "Gelöst: Die Schraube ist vom Gegengewinde frei, bleibt aber durch das gewählte Halteelement an der Platte.",
+    "es": "Liberado: el tornillo sale de la rosca receptora, pero el retenedor elegido lo mantiene unido al panel.",
+    "it": "Svitata: la vite si disimpegna dalla filettatura accoppiata, ma il ritegno scelto la mantiene nel pannello.",
+    "fr": "Desserrée : la vis se dégage du taraudage tout en restant solidaire du panneau grâce au dispositif de retenue choisi.",
+    "zh": "打开时：螺纹已退出配合件，选定的保持结构仍能把螺丝留在面板上。"
+  },
+  "Tightened: the head seats as intended, the retainer has room to move and the required thread engagement remains available.": {
+    "de": "Angezogen: Der Kopf liegt richtig an, das Halteelement hat Bewegungsraum und der erforderliche Gewindeeingriff bleibt verfügbar.",
+    "es": "Apretado: la cabeza apoya correctamente, el retenedor dispone de espacio y se mantiene el acoplamiento de rosca requerido.",
+    "it": "Serrata: la testa appoggia correttamente, il ritegno ha spazio e rimane disponibile l’impegno di filetto richiesto.",
+    "fr": "Serrée : la tête porte correctement, le dispositif de retenue dispose de son espace et l’engagement requis reste disponible.",
+    "zh": "锁紧时：头部按设计贴合，保持件有足够活动空间，螺纹仍能达到要求的旋合长度。"
+  },
+  "Assembly review: provide panel thickness, retaining-hole details, retainer geometry and the installation sequence.": {
+    "de": "Baugruppenprüfung: Plattendicke, Haltebohrung, Geometrie des Halteelements und Montagereihenfolge angeben.",
+    "es": "Revisión del conjunto: aporte espesor del panel, detalles del orificio de retención, geometría del retenedor y secuencia de montaje.",
+    "it": "Revisione dell’assieme: fornire spessore del pannello, foro di ritegno, geometria del fermo e sequenza di montaggio.",
+    "fr": "Revue de l’ensemble : fournissez l’épaisseur du panneau, le trou de retenue, la géométrie du dispositif et la séquence de montage.",
+    "zh": "装配评审时：同时提供板厚、保持孔结构、保持件几何和安装顺序。"
+  },
+  "Agree a retention check and a removal/reassembly trial separately from thread gauging. The sketch uses a separate retainer for illustration; the actual retaining arrangement must match the assembly.": {
+    "de": "Vereinbaren Sie Halteprüfung und Demontage-/Montageversuch getrennt von der Gewindeprüfung. Die Skizze zeigt beispielhaft ein separates Halteelement; die tatsächliche Lösung muss zur Baugruppe passen.",
+    "es": "Acuerde por separado la prueba de retención, el ensayo de desmontaje y montaje, y el control de rosca. El esquema ilustra un retenedor independiente; la solución real debe corresponder al conjunto.",
+    "it": "Concordare controllo del ritegno e prova di smontaggio/rimontaggio separatamente dalla verifica del filetto. Lo schema mostra un fermo separato a titolo d’esempio; la soluzione reale deve corrispondere all’assieme.",
+    "fr": "Convenez du contrôle de retenue et de l’essai de démontage/remontage séparément du contrôle du filetage. Le schéma illustre un dispositif séparé ; la solution réelle doit correspondre à l’ensemble.",
+    "zh": "保持性能、拆装操作与螺纹通止规检查应分别约定。图中以独立保持件举例，实际保持方式仍需与完整装配结构匹配。"
+  },
+  "Match the drive to the installed tool access": {
+    "de": "Antrieb und Werkzeugzugang im Einbauzustand abstimmen",
+    "es": "Comprobar el acceso de la herramienta a la huella instalada",
+    "it": "Coordinare impronta e accesso dell’utensile nel montaggio",
+    "fr": "Adapter l’empreinte à l’accès de l’outil une fois la vis montée",
+    "zh": "槽型选好，还要确认装机后工具进得去"
+  },
+  "Choose the drive profile together with the service tool and the housing. A matching bit is useful only if it can reach, engage and turn the installed screw.": {
+    "de": "Wählen Sie das Antriebsprofil gemeinsam mit Wartungswerkzeug und Gehäuse. Ein passender Bit hilft nur, wenn er die eingebaute Schraube erreichen, vollständig greifen und drehen kann.",
+    "es": "Seleccione la huella junto con la herramienta de mantenimiento y la carcasa. La punta correcta solo sirve si puede alcanzar, acoplar y girar el tornillo instalado.",
+    "it": "Scegliere l’impronta insieme all’utensile di manutenzione e all’involucro. Un inserto compatibile serve solo se può raggiungere, impegnare e ruotare la vite montata.",
+    "fr": "Choisissez l’empreinte avec l’outil de maintenance et le boîtier. Un embout compatible n’est utile que s’il peut atteindre, engager et tourner la vis montée.",
+    "zh": "防拆槽型要结合维修工具和外壳一起选。批头即使匹配，也得能接近已安装的螺丝、充分啮合并顺利转动。"
+  },
+  "Drive and bit: identify the actual profile, engagement depth and, for a pin-in drive, the pin and matching bit clearance.": {
+    "de": "Antrieb und Bit: Profil und Eingriffstiefe festlegen; bei Antrieb mit Stift auch Stift und Freiraum des passenden Bits.",
+    "es": "Huella y punta: defina el perfil y la profundidad de acoplamiento; en una huella con tetón, incluya el tetón y la holgura de la punta correspondiente.",
+    "it": "Impronta e inserto: definire profilo e profondità d’impegno; per l’impronta con perno, anche perno e spazio nell’inserto corrispondente.",
+    "fr": "Empreinte et embout : précisez le profil et la profondeur d’engagement ; pour une empreinte avec téton, ajoutez le téton et le dégagement de l’embout adapté.",
+    "zh": "槽型与批头：明确实际轮廓和啮合深度；带柱槽型还要核对中柱与配套批头的避让空间。"
+  },
+  "Access envelope: show the tool approach, neighboring walls and the space needed to insert and withdraw the tool.": {
+    "de": "Zugangsraum: Werkzeugansatz, benachbarte Wände sowie Einsteck- und Ausziehraum darstellen.",
+    "es": "Envolvente de acceso: muestre la aproximación de la herramienta, las paredes próximas y el espacio para introducirla y retirarla.",
+    "it": "Ingombro d’accesso: mostrare avvicinamento dell’utensile, pareti vicine e spazio d’inserimento ed estrazione.",
+    "fr": "Enveloppe d’accès : représentez l’approche de l’outil, les parois voisines et l’espace nécessaire à son insertion et à son retrait.",
+    "zh": "工具空间：画出工具进入方向、邻近壁面，以及插入和退出所需的空间。"
+  },
+  "Service trial: check installation and authorized removal with the representative housing and matching tool.": {
+    "de": "Wartungsversuch: Montage und autorisierte Demontage mit repräsentativem Gehäuse und passendem Werkzeug prüfen.",
+    "es": "Prueba de servicio: compruebe el montaje y la retirada autorizada con la carcasa representativa y la herramienta correspondiente.",
+    "it": "Prova di servizio: verificare installazione e rimozione autorizzata con involucro rappresentativo e utensile corretto.",
+    "fr": "Essai de maintenance : vérifiez la pose et la dépose autorisée avec un boîtier représentatif et l’outil adapté.",
+    "zh": "维护验证：使用有代表性的外壳和配套工具，确认安装及授权拆卸都能完成。"
+  },
+  "Keep drive acceptance and access acceptance separate. A pin-in profile can restrict casual access, but the profile alone does not establish a security rating.": {
+    "de": "Antriebsabnahme und Zugangsprüfung getrennt behandeln. Ein Profil mit Stift kann unbefugtes Lösen erschweren, begründet allein aber keine Sicherheitsklasse.",
+    "es": "Separe la aceptación de la huella y la del acceso. Un perfil con tetón puede dificultar la manipulación casual, pero por sí solo no establece una clasificación de seguridad.",
+    "it": "Separare accettazione dell’impronta e verifica dell’accesso. Un profilo con perno può limitare lo smontaggio occasionale, ma non determina da solo una classe di sicurezza.",
+    "fr": "Distinguez réception de l’empreinte et vérification de l’accès. Un profil avec téton peut limiter les démontages non autorisés courants, sans établir à lui seul un niveau de sécurité.",
+    "zh": "槽型合格与工具可达应分别确认。带柱结构可以限制随意拆卸，但仅凭槽型不能认定整机具有某种安全等级。"
+  },
+  "Follow the smallest wall and the hidden bore edge": {
+    "de": "Kleinsten Restquerschnitt und verdeckte Bohrungskante verfolgen",
+    "es": "Revisar la pared mínima y la arista interior oculta",
+    "it": "Verificare la parete minima e lo spigolo interno nascosto",
+    "fr": "Examiner la paroi minimale et l’arête intérieure masquée",
+    "zh": "最薄的剩余壁厚、藏在孔内的毛刺，都要看得到"
+  },
+  "Use a section view to connect the passage to the outside features. The critical remaining wall may be beside a thread root or an intersecting hole rather than at the largest outside diameter.": {
+    "de": "Verbinden Sie Durchgang und Außenmerkmale in einer Schnittansicht. Der kleinste Restquerschnitt kann am Gewindegrund oder an einer Querbohrung liegen, nicht am größten Außendurchmesser.",
+    "es": "Relacione el conducto con los detalles exteriores mediante una sección. La pared mínima puede estar junto a la raíz de rosca o a una intersección, no en el diámetro exterior mayor.",
+    "it": "Collegare il passaggio alle forme esterne con una sezione. La parete residua critica può trovarsi al fondo del filetto o all’incrocio di un foro, non al diametro esterno maggiore.",
+    "fr": "Reliez le passage aux formes extérieures par une vue en coupe. La paroi résiduelle critique peut se situer au fond du filet ou à une intersection, plutôt qu’au plus grand diamètre extérieur.",
+    "zh": "用剖视图把孔道与外部结构联系起来。最薄截面可能出现在螺纹牙底或交叉孔附近，不能只看最大外径处的壁厚。"
+  },
+  "Thread root to bore: define the remaining section using the applicable thread geometry and the bore position.": {
+    "de": "Gewindegrund zur Bohrung: Restquerschnitt anhand der geltenden Gewindegeometrie und der Bohrungslage festlegen.",
+    "es": "Raíz de rosca y taladro: defina la sección restante con la geometría de rosca aplicable y la posición del taladro.",
+    "it": "Fondo del filetto e foro: definire la sezione residua in base alla geometria del filetto applicabile e alla posizione del foro.",
+    "fr": "Fond du filet et alésage : définissez la section restante à partir de la géométrie du filetage et de la position de l’alésage.",
+    "zh": "螺纹牙底到内孔：结合实际牙型和孔的位置，明确需要保留的截面。"
+  },
+  "Hole intersection: identify the internal edge, burr requirement and a workable deburring and inspection route.": {
+    "de": "Bohrungskreuzung: Innenkante, Gratanforderung sowie einen ausführbaren Entgrat- und Prüfweg benennen.",
+    "es": "Intersección de taladros: identifique la arista interna, el requisito de rebaba y un procedimiento viable de desbarbado e inspección.",
+    "it": "Incrocio dei fori: identificare spigolo interno, requisito sulle bave e un percorso praticabile di sbavatura e controllo.",
+    "fr": "Intersection des perçages : identifiez l’arête intérieure, l’exigence d’ébavurage et une méthode réalisable de traitement et de contrôle.",
+    "zh": "孔道交汇处：明确内部边缘、毛刺要求，以及可实际执行的去毛刺和复检方式。"
+  },
+  "Finished passage: agree bore clearance, entry/exit condition and cleaning before assembly makes the internal features inaccessible.": {
+    "de": "Fertiger Durchgang: lichte Bohrung, Ein-/Auslaufkanten und Reinigung vereinbaren, bevor die Montage den Zugang verhindert.",
+    "es": "Conducto terminado: acuerde paso libre, aristas de entrada y salida y limpieza antes de que el montaje impida acceder al interior.",
+    "it": "Passaggio finito: concordare luce del foro, condizioni d’ingresso e uscita e pulizia prima che il montaggio impedisca l’accesso.",
+    "fr": "Passage fini : convenez de la section libre, de l’état des entrées et sorties et du nettoyage avant que le montage ne rende l’intérieur inaccessible.",
+    "zh": "最终孔道：在装配后难以进入内部之前，确认通孔净空、入口出口边缘状态和清洗要求。"
+  },
+  "External CCD screening can support visible profile checks. Verify inaccessible bore features with a suitable separate method, and use the application matrix below to distinguish cable, flow and sealing requirements.": {
+    "de": "CCD-Screening der Außenkontur kann sichtbare Merkmale prüfen. Verdeckte Bohrungsmerkmale benötigen ein geeignetes separates Verfahren. Die folgende Anwendungsmatrix unterscheidet Kabeldurchführung, Strömung und Abdichtung.",
+    "es": "El cribado CCD exterior puede comprobar el perfil visible. Verifique las características interiores inaccesibles con otro método adecuado y use la matriz siguiente para distinguir paso de cables, caudal y sellado.",
+    "it": "Il controllo CCD esterno può verificare il profilo visibile. Per le parti interne non accessibili usare un metodo separato adeguato; la matrice seguente distingue passaggio cavi, flusso e tenuta.",
+    "fr": "Le contrôle CCD extérieur peut vérifier le profil visible. Contrôlez les caractéristiques internes inaccessibles par une méthode complémentaire adaptée ; la matrice ci-dessous distingue passage de câbles, écoulement et étanchéité.",
+    "zh": "外部 CCD 筛选可用于可见轮廓，无法进入或成像的内部特征应另选合适方法。再结合下方用途矩阵，分别确认走线、流通和密封的要求。"
+  },
+  "Compare the bearing interface before enlarging the flange": {
+    "de": "Auflagefläche vergleichen, bevor der Flansch vergrößert wird",
+    "es": "Comparar el apoyo antes de aumentar la brida",
+    "it": "Confrontare l’appoggio prima di ingrandire la flangia",
+    "fr": "Comparer l’appui avant d’agrandir l’embase",
+    "zh": "先看承压面的接触方式，再决定法兰做多大"
+  },
+  "A larger flange changes the contact envelope, but the clamped component still determines whether that contact is useful. Compare the face, coating and available seating area together.": {
+    "de": "Ein größerer Flansch verändert die Kontaktfläche; ob dieser Kontakt sinnvoll ist, bestimmt weiterhin das geklemmte Bauteil. Prüfen Sie Stirnfläche, Beschichtung und verfügbaren Sitz gemeinsam.",
+    "es": "Una brida mayor cambia la zona de contacto, pero la pieza sujetada sigue determinando si ese contacto resulta útil. Compare la cara de apoyo, el recubrimiento y el asiento disponible.",
+    "it": "Una flangia più grande cambia l’area di contatto, ma è il componente serrato a determinare se tale contatto è utile. Valutare insieme faccia, rivestimento e superficie d’appoggio disponibile.",
+    "fr": "Une embase plus grande modifie la zone de contact, mais c’est la pièce serrée qui détermine l’utilité de cet appui. Comparez face, revêtement et surface d’appui disponible.",
+    "zh": "法兰加大改变的是接触范围，是否适合仍要看被夹紧零件。应把承压面、配合件涂层和实际可用的贴合区域放在一起评估。"
+  },
+  "Smooth integral flange: define the usable bearing face, adjacent radii and clearance to the mating recess.": {
+    "de": "Glatter integrierter Flansch: nutzbare Auflagefläche, angrenzende Radien und Freiraum zur Gegensenkung festlegen.",
+    "es": "Brida integral lisa: defina la cara útil de apoyo, los radios próximos y la holgura con el alojamiento acoplado.",
+    "it": "Flangia integrata liscia: definire faccia utile d’appoggio, raggi adiacenti e spazio rispetto alla sede accoppiata.",
+    "fr": "Embase lisse intégrée : définissez la face utile d’appui, les rayons voisins et le dégagement dans le logement en regard.",
+    "zh": "光面一体法兰：明确有效承压面、相邻圆角，以及与配合件沉台的避让。"
+  },
+  "Serrated integral flange: review intended tooth contact, permissible marking and the effect on the mating coating.": {
+    "de": "Verzahnter integrierter Flansch: vorgesehenen Zahnkontakt, zulässige Abdrücke und Auswirkungen auf die Beschichtung prüfen.",
+    "es": "Brida integral dentada: revise el contacto previsto de los dientes, las marcas permitidas y el efecto sobre el recubrimiento.",
+    "it": "Flangia integrata dentellata: verificare contatto dei denti, impronte ammesse ed effetto sul rivestimento del componente accoppiato.",
+    "fr": "Embase crantée intégrée : examinez le contact des dents, les marques admissibles et l’effet sur le revêtement en regard.",
+    "zh": "齿面一体法兰：评估齿部接触位置、允许压痕，以及对配合件涂层的影响。"
+  },
+  "Separate washer: include washer dimensions, hardness or other required condition and its contribution to the axial stack.": {
+    "de": "Separate Scheibe: Maße, Härte oder sonstigen geforderten Zustand sowie den Beitrag zur axialen Maßkette berücksichtigen.",
+    "es": "Arandela independiente: incluya dimensiones, dureza u otra condición exigida y su contribución a la cadena axial.",
+    "it": "Rondella separata: includere dimensioni, durezza o altra condizione richiesta e contributo alla catena assiale.",
+    "fr": "Rondelle séparée : précisez dimensions, dureté ou autre état requis, ainsi que sa contribution à la chaîne axiale.",
+    "zh": "独立垫片：计入垫片尺寸、硬度或其他规定状态，以及它对轴向尺寸链的影响。"
+  },
+  "Record which faces may contact and which must remain clear. Where marking, preload or repeated service matters, agree an assembly trial for the actual surface system instead of inferring performance from flange diameter.": {
+    "de": "Halten Sie fest, welche Flächen anliegen dürfen und welche frei bleiben müssen. Bei Abdrücken, Vorspannung oder wiederholter Wartung ist ein Versuch mit dem tatsächlichen Oberflächensystem zu vereinbaren, statt die Wirkung allein aus dem Flanschdurchmesser abzuleiten.",
+    "es": "Registre qué caras deben contactar y cuáles deben quedar libres. Si importan las marcas, la precarga o el mantenimiento repetido, acuerde una prueba del sistema superficial real en lugar de deducir el rendimiento del diámetro de brida.",
+    "it": "Registrare quali facce devono toccare e quali devono restare libere. Se contano impronte, precarico o manutenzione ripetuta, concordare una prova sul sistema superficiale reale senza dedurre le prestazioni dal diametro della flangia.",
+    "fr": "Consignez les faces autorisées au contact et celles devant rester dégagées. Si les marques, la précharge ou la maintenance répétée sont importantes, convenez d’un essai avec le système de surface réel plutôt que de déduire les performances du diamètre d’embase.",
+    "zh": "注明哪些面可以接触、哪些位置必须留空。若关注压痕、预紧或反复拆装，应针对实际表面体系约定装配验证，不能从法兰直径直接推断性能。"
+  },
+  "Choose the point by its contact with the mating part": {
+    "de": "Spitzenform nach dem Kontakt zum Gegenstück wählen",
+    "es": "Elegir la punta según el contacto con la pieza acoplada",
+    "it": "Scegliere la punta in base al contatto con il componente accoppiato",
+    "fr": "Choisir l’extrémité selon son contact avec la pièce en regard",
+    "zh": "先看顶端怎样接触配合件，再选机米端型"
+  },
+  "The point form determines how contact is made. Select it with the mating surface, adjustment frequency and allowable marking, then define usable thread and tool access.": {
+    "de": "Die Spitzenform bestimmt den Kontaktmechanismus. Wählen Sie sie anhand von Gegenfläche, Verstellhäufigkeit und zulässigen Abdrücken; legen Sie anschließend nutzbares Gewinde und Werkzeugzugang fest.",
+    "es": "La forma de la punta determina el contacto. Elíjala según la superficie acoplada, la frecuencia de ajuste y las marcas admisibles; después defina rosca útil y acceso de la herramienta.",
+    "it": "La forma della punta determina il contatto. Sceglierla con superficie accoppiata, frequenza di regolazione e impronte ammesse, quindi definire filetto utile e accesso dell’utensile.",
+    "fr": "La forme de l’extrémité détermine le contact. Choisissez-la selon la surface en regard, la fréquence de réglage et les marques admissibles, puis précisez filetage utile et accès de l’outil.",
+    "zh": "端型决定接触方式。结合配合面、调整频率和允许压痕选定结构，再明确有效螺纹及工具操作空间。"
+  },
+  "Flat point: define the mating face and agree the permitted contact marks.": {
+    "de": "Flachspitze: Gegenfläche festlegen und zulässige Kontaktabdrücke vereinbaren.",
+    "es": "Punta plana: defina la superficie acoplada y las marcas de contacto admisibles.",
+    "it": "Punta piana: definire la faccia accoppiata e le impronte di contatto ammesse.",
+    "fr": "Bout plat : définissez la face en regard et les marques de contact admissibles.",
+    "zh": "平端：明确配合端面，并约定允许留下的接触痕迹。"
+  },
+  "Cone point: show the intended recess or permitted indentation and the location it must engage.": {
+    "de": "Kegelspitze: vorgesehene Vertiefung oder zulässige Eindrückung und deren Position darstellen.",
+    "es": "Punta cónica: muestre el rebaje previsto o la indentación permitida y la posición donde debe actuar.",
+    "it": "Punta conica: mostrare incavo previsto o impronta consentita e posizione d’impegno.",
+    "fr": "Bout conique : représentez le logement prévu ou l’indentation autorisée et sa position.",
+    "zh": "尖端：画出预设凹位或允许形成的压痕，以及应接触的位置。"
+  },
+  "Dog point: define the projection and mating hole or slot; check both clearance and available depth.": {
+    "de": "Zapfen: Überstand und Gegenbohrung oder Nut festlegen; Spiel und verfügbare Tiefe prüfen.",
+    "es": "Punta cilíndrica: defina la proyección y el agujero o ranura acoplados; compruebe holgura y profundidad disponible.",
+    "it": "Punta cilindrica: definire sporgenza e foro o cava accoppiati; verificare gioco e profondità disponibile.",
+    "fr": "Téton : définissez la saillie et le trou ou la rainure en regard ; vérifiez jeu et profondeur disponible.",
+    "zh": "圆柱端：明确伸出长度及配合孔或槽，同时检查间隙与可用深度。"
+  },
+  "Cup point: review rim contact and any indentation against the permissible damage to the mating surface.": {
+    "de": "Ringschneide: Randkontakt und Eindrückung mit der zulässigen Beschädigung der Gegenfläche abgleichen.",
+    "es": "Punta de copa: revise el contacto del borde y la indentación frente al daño permitido en la superficie acoplada.",
+    "it": "Punta a coppa: verificare contatto del bordo e impronta rispetto al danneggiamento ammesso della superficie accoppiata.",
+    "fr": "Bout cuvette : comparez le contact du bord et l’indentation à l’endommagement admissible de la surface en regard.",
+    "zh": "凹端：结合边缘接触和压入情况，核对配合面允许的损伤程度。"
+  },
+  "Review repeated adjustment and retention on the actual joint. Point geometry and screw diameter alone do not provide a universal holding-force or tightening-torque value.": {
+    "de": "Prüfen Sie wiederholtes Verstellen und Haltewirkung an der tatsächlichen Verbindung. Spitzenform und Schraubendurchmesser allein liefern keinen allgemeingültigen Wert für Haltekraft oder Anziehdrehmoment.",
+    "es": "Revise el ajuste repetido y la retención en la unión real. La geometría de punta y el diámetro del tornillo no proporcionan una fuerza de retención ni un par de apriete universales.",
+    "it": "Valutare regolazioni ripetute e tenuta sull’unione reale. Geometria della punta e diametro non forniscono da soli un valore universale di forza di ritegno o coppia di serraggio.",
+    "fr": "Vérifiez les réglages répétés et le maintien sur l’assemblage réel. La forme de l’extrémité et le diamètre de vis ne donnent pas à eux seuls une valeur universelle de force de maintien ou de couple de serrage.",
+    "zh": "反复调整与保持效果要在实际连接中评估。仅凭端型和螺丝直径，不能给出通用的保持力或拧紧扭矩。"
+  },
+  "Compare the four point forms and selection worksheet": {
+    "de": "Vier Spitzenformen und Auswahl-Arbeitsblatt vergleichen",
+    "es": "Comparar las cuatro puntas y la hoja de selección",
+    "it": "Confrontare le quattro punte e la scheda di scelta",
+    "fr": "Comparer les quatre extrémités et la fiche de sélection",
+    "zh": "查看四种端型对比与选型表"
+  },
+  "Set three clear release checkpoints": {
+    "de": "Drei eindeutige Freigabepunkte festlegen",
+    "es": "Establecer tres puntos claros de aprobación",
+    "it": "Definire tre chiari passaggi di rilascio",
+    "fr": "Définir trois étapes claires de libération",
+    "zh": "把放行拆成三个明确的确认节点"
+  },
+  "Use the drawing revision and characteristic IDs to keep sample approval, lot acceptance and change approval connected. Agree the records required for the order before production.": {
+    "de": "Verknüpfen Sie Musterfreigabe, Losabnahme und Änderungsfreigabe über Zeichnungsstand und Merkmalskennungen. Vereinbaren Sie vor der Fertigung die für den Auftrag benötigten Unterlagen.",
+    "es": "Use la revisión del plano y los identificadores de características para vincular muestras, aceptación del lote y cambios. Acuerde los registros del pedido antes de producir.",
+    "it": "Usare revisione del disegno e identificativi delle caratteristiche per collegare approvazione dei campioni, accettazione del lotto e modifiche. Concordare i documenti dell’ordine prima della produzione.",
+    "fr": "Reliez approbation des échantillons, réception du lot et modifications par l’indice du plan et les identifiants des caractéristiques. Convenez des documents de la commande avant production.",
+    "zh": "用图纸版本和特征编号，把样品批准、批次验收与变更批准串起来。订单需要保留哪些记录，应在生产前约定。"
+  },
+  "Approve the sample basis": {
+    "de": "Mustergrundlage freigeben",
+    "es": "Aprobar la base de la muestra",
+    "it": "Approvare la base del campione",
+    "fr": "Approuver la définition de l’échantillon",
+    "zh": "确认样品批准的依据"
+  },
+  "Identify the drawing revision, sample route, critical characteristics and mating-part reference. Record whether the submission contains measured values, screening results, material documents or an assembly trial.": {
+    "de": "Benennen Sie Zeichnungsstand, Musterroute, kritische Merkmale und Gegenstückreferenz. Dokumentieren Sie, ob die Vorlage Messwerte, Screening-Ergebnisse, Werkstoffunterlagen oder einen Montageversuch enthält.",
+    "es": "Identifique revisión, ruta de la muestra, características críticas y referencia de las piezas acopladas. Indique si la entrega incluye mediciones, resultados de cribado, documentos de material o una prueba de montaje.",
+    "it": "Identificare revisione, ciclo del campione, caratteristiche critiche e riferimento dei componenti accoppiati. Indicare se la presentazione comprende misure, esiti di selezione, documenti del materiale o una prova di montaggio.",
+    "fr": "Identifiez l’indice du plan, la gamme de l’échantillon, les caractéristiques critiques et les pièces en regard. Indiquez si le dossier comprend mesures, résultats de tri, documents matière ou essai d’assemblage.",
+    "zh": "明确图纸版本、样品采用的工艺路线、关键特征和配合件依据。注明提交的是实测值、筛选结果、材料文件，还是装配试验记录。"
+  },
+  "Accept the lot in its supplied condition": {
+    "de": "Los im Lieferzustand abnehmen",
+    "es": "Aceptar el lote en su estado de suministro",
+    "it": "Accettare il lotto nello stato di fornitura",
+    "fr": "Réceptionner le lot dans son état de livraison",
+    "zh": "按最终交付状态验收批次"
+  },
+  "For each characteristic, agree the method, stage, coverage and record. Keep individual measurements distinct from pass/fail screening, and specify any external test report separately.": {
+    "de": "Vereinbaren Sie für jedes Merkmal Methode, Prüfzeitpunkt, Umfang und Aufzeichnung. Unterscheiden Sie Einzelmessungen von Gut-/Schlecht-Screening und legen Sie externe Prüfberichte separat fest.",
+    "es": "Acuerde método, etapa, cobertura y registro para cada característica. Distinga las mediciones individuales del cribado conforme/no conforme y especifique aparte los informes de ensayos externos.",
+    "it": "Per ogni caratteristica concordare metodo, fase, copertura e registrazione. Distinguere misure individuali dalla selezione conforme/non conforme e specificare separatamente eventuali rapporti di prove esterne.",
+    "fr": "Pour chaque caractéristique, convenez de la méthode, de l’étape, de la couverture et de l’enregistrement. Distinguez les mesures individuelles du tri conforme/non conforme et précisez séparément les rapports d’essais externes.",
+    "zh": "逐项约定检测方法、工序阶段、覆盖范围和记录形式。单件实测值与合格／不合格筛选结果分开记录，外部检测报告也应单独明确。"
+  },
+  "Resolve changes and deviations": {
+    "de": "Änderungen und Abweichungen klären",
+    "es": "Resolver cambios y desviaciones",
+    "it": "Gestire modifiche e scostamenti",
+    "fr": "Traiter modifications et écarts",
+    "zh": "处理变更与偏差"
+  },
+  "Record the affected requirement, proposed disposition and approval before release. If the drawing, route or finish changes, identify which checks and sample approvals must be repeated.": {
+    "de": "Halten Sie betroffene Anforderung, vorgeschlagene Behandlung und Zustimmung vor der Freigabe fest. Bei Änderungen an Zeichnung, Route oder Oberfläche ist festzulegen, welche Prüfungen und Musterfreigaben zu wiederholen sind.",
+    "es": "Registre el requisito afectado, la disposición propuesta y su aprobación antes de liberar. Si cambia el plano, la ruta o el acabado, identifique qué controles y aprobaciones de muestra deben repetirse.",
+    "it": "Registrare requisito interessato, trattamento proposto e approvazione prima del rilascio. Se cambiano disegno, ciclo o finitura, individuare quali controlli e approvazioni dei campioni ripetere.",
+    "fr": "Consignez avant libération l’exigence concernée, la décision proposée et son approbation. Si le plan, la gamme ou la finition change, identifiez les contrôles et approbations d’échantillons à renouveler.",
+    "zh": "放行前记录受影响的要求、拟处理方式和批准意见。图纸、工艺路线或表面处理发生变化时，明确哪些检查和样品批准需要重新进行。"
+  },
+  "Build a characteristic-by-characteristic inspection plan": {
+    "de": "Merkmalsbezogenen Prüfplan erstellen",
+    "es": "Crear un plan de inspección por características",
+    "it": "Preparare il piano di controllo per caratteristica",
+    "fr": "Construire un plan de contrôle par caractéristique",
+    "zh": "逐项建立特征检验计划"
+  },
+  "Match each feature to its inspection evidence": {
+    "de": "Jedem Merkmal den passenden Prüfnachweis zuordnen",
+    "es": "Asignar a cada característica su evidencia de inspección",
+    "it": "Associare a ogni caratteristica la corretta evidenza di controllo",
+    "fr": "Associer chaque caractéristique à sa preuve de contrôle",
+    "zh": "每项特征，都要对应合适的验收依据"
+  },
+  "For a shoulder screw with a bore, split the review into separate characteristics. This planning example shows why an external camera result, a thread gauge and an internal check are not interchangeable.": {
+    "de": "Teilen Sie eine Schulterschraube mit Bohrung in einzelne Prüfmerkmale auf. Das Planungsbeispiel zeigt, warum Außenkonturaufnahme, Gewindelehre und Innenprüfung nicht austauschbar sind.",
+    "es": "En un tornillo con hombro y taladro, separe las características. Este ejemplo de planificación muestra por qué la imagen exterior, un calibre de rosca y una comprobación interna no son intercambiables.",
+    "it": "Per una vite a spallamento con foro, suddividere il controllo in caratteristiche distinte. L’esempio mostra perché immagine esterna, calibro del filetto e controllo interno non sono intercambiabili.",
+    "fr": "Pour une vis à épaulement percée, séparez les caractéristiques à contrôler. Cet exemple de planification montre pourquoi image extérieure, calibre de filetage et contrôle intérieur ne sont pas interchangeables.",
+    "zh": "以带孔台阶螺丝为例，把检查拆成不同特征。这个计划示例说明：外部相机结果、螺纹量规与内部孔道检查各有用途，不能相互替代。"
+  },
+  "Drawing feature": {
+    "de": "Zeichnungsmerkmal",
+    "es": "Característica del plano",
+    "it": "Caratteristica a disegno",
+    "fr": "Caractéristique du plan",
+    "zh": "图纸特征"
+  },
+  "Method to agree": {
+    "de": "Zu vereinbarendes Verfahren",
+    "es": "Método por acordar",
+    "it": "Metodo da concordare",
+    "fr": "Méthode à convenir",
+    "zh": "需约定的方法"
+  },
+  "Acceptance stage": {
+    "de": "Abnahmestufe",
+    "es": "Etapa de aceptación",
+    "it": "Fase di accettazione",
+    "fr": "Étape de réception",
+    "zh": "验收阶段"
+  },
+  "Record to retain": {
+    "de": "Aufzubewahrender Nachweis",
+    "es": "Registro que conservar",
+    "it": "Registrazione da conservare",
+    "fr": "Enregistrement à conserver",
+    "zh": "保留的记录"
+  },
+  "Visible shoulder profile": {
+    "de": "Sichtbare Schulterkontur",
+    "es": "Perfil visible del hombro",
+    "it": "Profilo visibile del gambo calibrato",
+    "fr": "Profil visible de l’épaulement",
+    "zh": "可见肩轴轮廓"
+  },
+  "Suitable calibrated optical measurement; validate the presentation and program for the feature.": {
+    "de": "Geeignetes kalibriertes optisches Messverfahren; Lage und Programm für das Merkmal validieren.",
+    "es": "Medición óptica calibrada adecuada; valide la presentación y el programa para la característica.",
+    "it": "Misura ottica calibrata idonea; validare posizionamento e programma per la caratteristica.",
+    "fr": "Mesure optique étalonnée adaptée ; validez la présentation et le programme pour la caractéristique.",
+    "zh": "采用合适且经过校准的光学测量；针对该特征验证摆放方式与检测程序。"
+  },
+  "Final supplied condition; add an intermediate check if later work hides the feature.": {
+    "de": "Endgültiger Lieferzustand; Zwischenprüfung ergänzen, wenn spätere Arbeit das Merkmal verdeckt.",
+    "es": "Estado final de suministro; añada un control intermedio si las operaciones posteriores ocultan la característica.",
+    "it": "Stato finale di fornitura; aggiungere un controllo intermedio se operazioni successive nascondono la caratteristica.",
+    "fr": "État final de livraison ; ajoutez un contrôle intermédiaire si une opération ultérieure masque la caractéristique.",
+    "zh": "按最终交付状态验收；若后续工序会遮蔽该特征，再增加中间检查。"
+  },
+  "Characteristic ID, program/method revision, limits, coverage and measured or screening result.": {
+    "de": "Merkmalskennung, Programm-/Methodenstand, Grenzen, Umfang sowie Mess- oder Screening-Ergebnis.",
+    "es": "Identificador, revisión del programa o método, límites, cobertura y resultado medido o de cribado.",
+    "it": "Identificativo, revisione di programma/metodo, limiti, copertura ed esito di misura o selezione.",
+    "fr": "Identifiant, version du programme ou de la méthode, limites, couverture et résultat de mesure ou de tri.",
+    "zh": "特征编号、程序／方法版本、限值、覆盖范围，以及实测或筛选结果。"
+  },
+  "Thread and usable engagement": {
+    "de": "Gewinde und nutzbarer Eingriff",
+    "es": "Rosca y acoplamiento útil",
+    "it": "Filetto e impegno utile",
+    "fr": "Filetage et engagement utile",
+    "zh": "螺纹与有效旋合"
+  },
+  "Specified thread gauges plus a separate usable-length check where required.": {
+    "de": "Vorgeschriebene Gewindelehren; bei Bedarf nutzbare Länge zusätzlich prüfen.",
+    "es": "Calibres de rosca especificados y, cuando proceda, una comprobación independiente de longitud útil.",
+    "it": "Calibri filettati previsti e, se richiesto, controllo separato della lunghezza utile.",
+    "fr": "Calibres de filetage spécifiés et, si nécessaire, contrôle distinct de la longueur utile.",
+    "zh": "使用规定的螺纹量规；需要时另行检查有效牙长。"
+  },
+  "After the operations affecting the supplied thread.": {
+    "de": "Nach den Arbeitsgängen, die das gelieferte Gewinde beeinflussen.",
+    "es": "Después de las operaciones que afectan a la rosca suministrada.",
+    "it": "Dopo le operazioni che modificano il filetto fornito.",
+    "fr": "Après les opérations affectant le filetage livré.",
+    "zh": "在影响最终螺纹状态的工序完成后检查。"
+  },
+  "Thread callout, gauge identity, result and usable-length requirement.": {
+    "de": "Gewindebezeichnung, Lehrenkennung, Ergebnis und Anforderung an die nutzbare Länge.",
+    "es": "Designación de rosca, identificación del calibre, resultado y requisito de longitud útil.",
+    "it": "Designazione del filetto, identificativo del calibro, esito e requisito di lunghezza utile.",
+    "fr": "Désignation du filetage, identification du calibre, résultat et exigence de longueur utile.",
+    "zh": "螺纹标注、量规标识、检查结果及有效牙长要求。"
+  },
+  "Internal passage and intersection": {
+    "de": "Innenkanal und Bohrungskreuzung",
+    "es": "Conducto interno e intersección",
+    "it": "Passaggio interno e incrocio",
+    "fr": "Passage intérieur et intersection",
+    "zh": "内部孔道及交汇处"
+  },
+  "Suitable accessible bore measurement and a separately agreed internal-edge check.": {
+    "de": "Geeignete zugängliche Bohrungsmessung und eine separat vereinbarte Prüfung der Innenkanten.",
+    "es": "Medición del taladro accesible adecuada y comprobación de la arista interna acordada por separado.",
+    "it": "Misura idonea del foro accessibile e controllo dello spigolo interno concordato separatamente.",
+    "fr": "Mesure adaptée de l’alésage accessible et contrôle de l’arête intérieure convenu séparément.",
+    "zh": "对可进入的孔段选用合适测量方式，内部边缘的检查方法单独约定。"
+  },
+  "Before closure or assembly limits access; confirm the required final condition.": {
+    "de": "Bevor Verschluss oder Montage den Zugang begrenzen; geforderten Endzustand bestätigen.",
+    "es": "Antes de que el cierre o montaje limiten el acceso; confirme el estado final requerido.",
+    "it": "Prima che chiusura o montaggio limitino l’accesso; confermare lo stato finale richiesto.",
+    "fr": "Avant que la fermeture ou le montage ne limite l’accès ; confirmez l’état final requis.",
+    "zh": "在封闭或装配限制内部检查之前完成，并确认要求的最终状态。"
+  },
+  "Bore/edge requirement, method, stage, result and any access limitation.": {
+    "de": "Bohrungs-/Kantenanforderung, Methode, Prüfzeitpunkt, Ergebnis und Zugangsbegrenzungen.",
+    "es": "Requisito de taladro y arista, método, etapa, resultado y limitaciones de acceso.",
+    "it": "Requisito di foro e spigolo, metodo, fase, esito e limiti di accesso.",
+    "fr": "Exigence de l’alésage et de l’arête, méthode, étape, résultat et limites d’accès.",
+    "zh": "孔与边缘要求、方法、阶段、结果，以及检查可达性的限制。"
+  },
+  "Seating, motion or retention": {
+    "de": "Anlage, Bewegung oder Haltefunktion",
+    "es": "Asiento, movimiento o retención",
+    "it": "Appoggio, movimento o ritegno",
+    "fr": "Appui, mouvement ou retenue",
+    "zh": "贴合、运动或保持功能"
+  },
+  "Trial with the identified mating parts and an agreed assembly procedure.": {
+    "de": "Versuch mit eindeutig benannten Gegenstücken und vereinbartem Montageablauf.",
+    "es": "Prueba con las piezas acopladas identificadas y un procedimiento de montaje acordado.",
+    "it": "Prova con componenti accoppiati identificati e procedura di montaggio concordata.",
+    "fr": "Essai avec les pièces en regard identifiées et une procédure d’assemblage convenue.",
+    "zh": "使用已明确版本的配合件，按约定的装配程序进行验证。"
+  },
+  "Sample approval and any repeat check specified for the order.": {
+    "de": "Musterfreigabe und auftragsspezifisch festgelegte Wiederholungsprüfungen.",
+    "es": "Aprobación de muestras y comprobaciones repetidas previstas para el pedido.",
+    "it": "Approvazione dei campioni ed eventuali controlli ripetuti previsti dall’ordine.",
+    "fr": "Approbation des échantillons et contrôles répétés prévus pour la commande.",
+    "zh": "样品批准时验证，并按订单约定安排必要的重复检查。"
+  },
+  "Mating revision, criterion, outcome, deviation and approval.": {
+    "de": "Stand des Gegenstücks, Kriterium, Ergebnis, Abweichung und Zustimmung.",
+    "es": "Revisión de la pieza acoplada, criterio, resultado, desviación y aprobación.",
+    "it": "Revisione del componente accoppiato, criterio, esito, scostamento e approvazione.",
+    "fr": "Indice de la pièce en regard, critère, résultat, écart et approbation.",
+    "zh": "配合件版本、判定要求、结果、偏差和批准意见。"
+  },
+  "Confirm equipment suitability, any external testing and the reporting scope during quotation. The matrix is a planning example, not a completed inspection report.": {
+    "de": "Bestätigen Sie bei der Angebotserstellung Geräteignung, externe Prüfungen und Berichtsumfang. Die Matrix ist ein Planungsbeispiel, kein ausgefüllter Prüfbericht.",
+    "es": "Confirme en la oferta la idoneidad del equipo, las pruebas externas y los informes. La matriz es un ejemplo de planificación, no un informe de inspección completado.",
+    "it": "Confermare in fase di preventivo idoneità degli strumenti, prove esterne e documentazione. La matrice è un esempio di pianificazione, non un rapporto di controllo compilato.",
+    "fr": "Confirmez au devis l’adéquation des équipements, les essais externes et le contenu des rapports. Cette matrice est un exemple de planification, pas un rapport de contrôle réalisé.",
+    "zh": "报价阶段确认设备是否适用、是否安排外部检测，以及报告包含什么。此表是检验计划示例，不是已经完成的检测报告。"
+  },
+  "CCD vision inspection illustration; it explains the method and is not a photograph of ZUFEK equipment.": {
+    "de": "Illustration einer CCD-Sichtprüfung zur Erläuterung der Methode; kein Foto von ZUFEK-Anlagen.",
+    "es": "Ilustración de inspección CCD para explicar el método; no es una fotografía de equipos de ZUFEK.",
+    "it": "Illustrazione di controllo CCD per spiegare il metodo; non è una fotografia di attrezzature ZUFEK.",
+    "fr": "Illustration du contrôle CCD pour expliquer la méthode ; il ne s’agit pas d’une photographie d’un équipement ZUFEK.",
+    "zh": "CCD 视觉检测示意，用于说明方法，并非 ZUFEK 设备实拍。"
+  }
+}

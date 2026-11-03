@@ -40,7 +40,9 @@ PROGETTATE SU DISEGNO
 
 DONGGUAN ZUFEK PRECISION CO., LTD. Dal 2005 produciamo viti metalliche su disegno a Dalang, Dongguan. Attrezzaggio, campioni e produzione seguono il disegno approvato dal cliente.
 
-Richiedi una valutazione del pezzo ↗ Scopri i prodotti ↗ 01 / Valutazione tecnica del disegno 02 / Approvvigionamento B2B PROGETTATO SULLE VOSTRE ESIGENZE ZF—01 Viti a spallamento e a gradini
+Richiedi una valutazione del pezzo ↗ Scopri i prodotti ↗ Azienda e pianificazione dei campioni ↗
+
+01 / Valutazione tecnica del disegno 02 / Approvvigionamento B2B PROGETTATO SULLE VOSTRE ESIGENZE ZF—01 Viti a spallamento e a gradini
 
 Viti di sicurezza antimanomissione
 
@@ -172,7 +174,7 @@ I gradi di titanio vengono presi in considerazione laddove la massa, l'esposizio
 
 Controlli ottici senza contatto della lunghezza della vite, del diametro della testa e dei profili a gradini visibili, abbinati ai calibri e alle prove previste dal disegno tecnico.
 
-Controllo dimensionale e visione CCD ↗ Definire il controllo. Concordare i riscontri. ↗ Controllo dimensionale e visione CCD
+Controllo dimensionale e visione CCD ↗ Definire il controllo. Concordare i riscontri. ↗ Illustrazione di controllo CCD per spiegare il metodo; non è una fotografia di attrezzature ZUFEK.
 
 04 / CONOSCENZE INGEGNERIstiche
 
@@ -215,7 +217,7 @@ disegno tecnico PER ACCETTAZIONE
 
 Costruisci il piano di ispezione in base alle caratteristiche funzionali, al rischio e ai requisiti di accettazione dell'ordine reale.
 
-Cosa deve consentire di verificare un rapporto di controllo ↓ Controllo dimensionale e visione CCD
+Cosa deve consentire di verificare un rapporto di controllo ↓ Illustrazione di controllo CCD per spiegare il metodo; non è una fotografia di attrezzature ZUFEK.
 
 #### Dimensioni e geometria
 
@@ -274,6 +276,24 @@ Queste fotografie di riferimento mostrano le forme visibili del prodotto. Non st
 Componenti filettati misti e forme di spalla su un tavolo espositivo
 
 Gambi filettati, spallamenti e componenti tubolari fotografati insieme
+
+#### Definire tre chiari passaggi di rilascio
+
+Usare revisione del disegno e identificativi delle caratteristiche per collegare approvazione dei campioni, accettazione del lotto e modifiche. Concordare i documenti dell’ordine prima della produzione.
+
+##### Approvare la base del campione
+
+Identificare revisione, ciclo del campione, caratteristiche critiche e riferimento dei componenti accoppiati. Indicare se la presentazione comprende misure, esiti di selezione, documenti del materiale o una prova di montaggio.
+
+##### Accettare il lotto nello stato di fornitura
+
+Per ogni caratteristica concordare metodo, fase, copertura e registrazione. Distinguere misure individuali dalla selezione conforme/non conforme e specificare separatamente eventuali rapporti di prove esterne.
+
+##### Gestire modifiche e scostamenti
+
+Registrare requisito interessato, trattamento proposto e approvazione prima del rilascio. Se cambiano disegno, ciclo o finitura, individuare quali controlli e approvazioni dei campioni ripetere.
+
+Preparare il piano di controllo per caratteristica ↗
 
 #### Cosa deve consentire di verificare un rapporto di controllo
 
@@ -880,7 +900,7 @@ La nostra sede di Dalang colloca l’attività all’interno della comunità man
 
 La nostra capacità produttiva è dell'ordine di diversi milioni di pezzi al mese. La produzione effettiva, l'assegnazione degli ordini e i tempi di consegna dipendono dalla complessità della parte, dal materiale, dalle attrezzature, dalle operazioni secondarie e dall'ambito di ispezione concordato.
 
-Esplora la nostra gamma di prodotti ↗ Viti metalliche su disegno
+Esplora la nostra gamma di prodotti ↗ Forme dei prodotti nelle fotografie dei campioni fornite dall’azienda.
 
 ESPERIENZA SU COMPONENTI AUTOMOTIVE
 
@@ -926,21 +946,23 @@ Due studi illustrativi collegano esigenze di montaggio, geometria della vite, ma
 
 Custodia del modulo automobilistico ↗ Perno e attrezzatura di regolazione per automazione ↗ Consulta gli studi applicativi ↗
 
-#### Fotografie di prodotto fornite per questo sito
+#### Concordare le fasi prima di avviare gli stampi
 
-Queste fotografie di riferimento mostrano le forme visibili del prodotto. Non stabiliscono la qualità del materiale, le dimensioni, i risultati dell'ispezione o l'applicazione consegnata al cliente.
+Distinguere preventivo, approvazione dei campioni e produzione ripetitiva: chiarire cosa viene quotato, cosa deve dimostrare il campione e quali aspetti dell’ordine restano da concordare.
 
-Componenti filettati misti e forme di spalla su un tavolo espositivo
+##### Disegno e preventivo
 
-Gambi filettati, spallamenti e componenti tubolari fotografati insieme
+Identificare disegno aggiornato, componenti accoppiati, materiale, finitura e caratteristiche critiche. Registrare punti aperti e ipotesi di preventivo, compresi ciclo proposto e lavorazioni o prove affidate all’esterno.
 
-#### Campionatura, attrezzaggio e pianificazione della produzione
+##### Stampi e campioni
 
-Il tempo tipico per attrezzaggio e campioni è di circa 10–15 giorni. Si conferma dopo la verifica di disegno, materiale, geometria, finitura e controlli. Definire l’avvio in offerta; le consegne di produzione sono concordate separatamente in base a quantità e ciclo approvato.
+Prevedere circa 10–15 giorni per stampi e campioni, previa valutazione tecnica e conferma del preventivo. Concordare prima dell’avvio il momento iniziale, la quantità e i controlli; l’approvazione del campione è una fase distinta.
 
-Invia una revisione del disegno tecnico, la quantità del campione, il volume dell'ordine previsto e l'applicazione prevista. Identificare le dimensioni funzionali e i documenti richiesti in modo che la revisione tecnica possa risolvere i dettagli importanti prima dell'approvazione degli strumenti e del campione.
+##### Produzione ripetitiva
 
-Preparare la lista di controllo della richiesta di offerta ↗ Confronta i percorsi di produzione completi ↗
+Con campione e revisione del disegno approvati, concordare quantità, identificazione del lotto, documenti e consegna. La capacità mensile è di alcuni milioni di pezzi nell’insieme dei prodotti; pianificazione e tempi dipendono dal ciclo e dall’ordine.
+
+Preparare i requisiti di approvazione dei campioni ↗
 
 ### Richiedi un preventivo personalizzato per viti
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/request-a-quote/
@@ -1550,6 +1572,20 @@ Esplora un assemblaggio proposto, le scelte di fissaggio, la revisione della pro
 
 Esamina spallamento e pacco assiale dell’attrezzatura ↗
 
+#### Verificare separatamente accoppiamento del gambo e gioco assiale
+
+L’accoppiamento tra gambo calibrato e foro guida il movimento; la distanza tra le facce d’appoggio determina la catena assiale. Definire entrambi nello stato finale di fornitura, senza confondere l’accoppiamento filettato con quello di guida.
+
+1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Gambo e foro: indicare i limiti delle due quote, l’asse di riferimento e gli eventuali requisiti funzionali della superficie.
+
+Appoggio e transizione: mostrare smusso o lamatura del componente accoppiato, evitando interferenze del filetto incompleto o dello scarico.
+
+Dopo la finitura: identificare le superfici interessate dal trattamento o rivestimento e la fase di controllo dell’accoppiamento finale.
+
+Leggere il calcolo del gioco riportato sotto insieme a queste interfacce. Un gioco assiale corretto non verifica da solo l’accoppiamento nel foro o la relazione geometrica richiesta.
+
 #### Calcolare il gioco assiale ai due estremi di tolleranza
 
 Per una piastra mobile, confrontare la lunghezza dello spallamento con l’intero pacco fra le superfici di appoggio. Includere rondella, boccola e piastra: la lunghezza totale della vite non determina il gioco.
@@ -1676,6 +1712,20 @@ Posso inviare un disegno tecnico incompleto? Sì. Contrassegnare i dettagli irri
 Le opzioni di materiale e finitura sono pre-approvate? No. Le opzioni disponibili devono essere confermate per la parte effettiva. Leggi il nostro guida alla scelta del materiale per le informazioni da preparare.
 
 Come viene concordato l'ambito di qualità? Definire le caratteristiche critiche e le esigenze di documentazione durante la revisione. Vedi il nostro approccio di pianificazione della qualità .
+
+#### Verificare la vite imperdibile nelle due posizioni di servizio
+
+La vite imperdibile fa parte di un sistema con pannello ed elemento di ritegno. Verificare la posizione svitata quanto quella serrata: l’impegno utile del filetto e la corsa trattenuta sono requisiti diversi.
+
+1 2 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Svitata: la vite si disimpegna dalla filettatura accoppiata, ma il ritegno scelto la mantiene nel pannello.
+
+Serrata: la testa appoggia correttamente, il ritegno ha spazio e rimane disponibile l’impegno di filetto richiesto.
+
+Revisione dell’assieme: fornire spessore del pannello, foro di ritegno, geometria del fermo e sequenza di montaggio.
+
+Concordare controllo del ritegno e prova di smontaggio/rimontaggio separatamente dalla verifica del filetto. Lo schema mostra un fermo separato a titolo d’esempio; la soluzione reale deve corrispondere all’assieme.
 
 #### Progettate insieme il sistema di ritenzione
 
@@ -2129,6 +2179,20 @@ Esplora un assemblaggio proposto, le scelte di fissaggio, la revisione della pro
 
 Esaminare il concetto di unità di servizio del contenitore ↗
 
+#### Coordinare impronta e accesso dell’utensile nel montaggio
+
+Scegliere l’impronta insieme all’utensile di manutenzione e all’involucro. Un inserto compatibile serve solo se può raggiungere, impegnare e ruotare la vite montata.
+
+1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Impronta e inserto: definire profilo e profondità d’impegno; per l’impronta con perno, anche perno e spazio nell’inserto corrispondente.
+
+Ingombro d’accesso: mostrare avvicinamento dell’utensile, pareti vicine e spazio d’inserimento ed estrazione.
+
+Prova di servizio: verificare installazione e rimozione autorizzata con involucro rappresentativo e utensile corretto.
+
+Separare accettazione dell’impronta e verifica dell’accesso. Un profilo con perno può limitare lo smontaggio occasionale, ma non determina da solo una classe di sicurezza.
+
 #### Specificare l'unità, non solo il nome
 
 Le unità pin-in a sei lobi, cinque lobi, di tipo Y, triangolari e a due fori sono interfacce diverse. Anche le rientranze dall'aspetto simile possono avere profili diversi. Fornire un disegno tecnico controllato o le specifiche dello strumento corrispondente, inclusa la profondità della rientranza, la geometria del perno centrale e le tolleranze. Una fotografia può identificare la famiglia generale, ma non può stabilire se una vite di produzione sia adatta allo strumento di servizio.
@@ -2253,6 +2317,20 @@ Requisito funzionale Distanza del cavo o condizioni di prova del fluido definite
 CCD può ispezionare l'intero foro? L'ispezione della sagoma esterna non può stabilire l'intero passaggio interno. La geometria del foro e dei bordi interni necessitano di adeguate verifiche complementari.
 
 Le viti cave sono resistenti alla pressione? Un foro passante non crea una valutazione della pressione. Per l'applicazione devono essere specificati il ​​materiale, il design della tenuta, le condizioni di servizio e la verifica richiesta.
+
+#### Verificare la parete minima e lo spigolo interno nascosto
+
+Collegare il passaggio alle forme esterne con una sezione. La parete residua critica può trovarsi al fondo del filetto o all’incrocio di un foro, non al diametro esterno maggiore.
+
+1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Fondo del filetto e foro: definire la sezione residua in base alla geometria del filetto applicabile e alla posizione del foro.
+
+Incrocio dei fori: identificare spigolo interno, requisito sulle bave e un percorso praticabile di sbavatura e controllo.
+
+Passaggio finito: concordare luce del foro, condizioni d’ingresso e uscita e pulizia prima che il montaggio impedisca l’accesso.
+
+Il controllo CCD esterno può verificare il profilo visibile. Per le parti interne non accessibili usare un metodo separato adeguato; la matrice seguente distingue passaggio cavi, flusso e tenuta.
 
 #### Specificare il passaggio interno, non solo l’esterno della vite
 
@@ -2384,6 +2462,20 @@ Una flangia integrale è sempre equivalente ad una rondella? No. Confrontare la 
 Esplora un assemblaggio proposto, le scelte di fissaggio, la revisione della produzione e il piano di convalida del campione. Si tratta di uno studio di progettazione illustrativo, senza alcuna consegna dichiarata al cliente o prestazione misurata.
 
 Esaminare la sede della flangia in un concetto di custodia automobilistica ↗
+
+#### Confrontare l’appoggio prima di ingrandire la flangia
+
+Una flangia più grande cambia l’area di contatto, ma è il componente serrato a determinare se tale contatto è utile. Valutare insieme faccia, rivestimento e superficie d’appoggio disponibile.
+
+1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Flangia integrata liscia: definire faccia utile d’appoggio, raggi adiacenti e spazio rispetto alla sede accoppiata.
+
+Flangia integrata dentellata: verificare contatto dei denti, impronte ammesse ed effetto sul rivestimento del componente accoppiato.
+
+Rondella separata: includere dimensioni, durezza o altra condizione richiesta e contributo alla catena assiale.
+
+Registrare quali facce devono toccare e quali devono restare libere. Se contano impronte, precarico o manutenzione ripetuta, concordare una prova sul sistema superficiale reale senza dedurre le prestazioni dal diametro della flangia.
 
 #### Trattare la flangia come un'interfaccia cuscinetto
 
@@ -2664,6 +2756,24 @@ Stato materiale Grado, proprietà finali richieste e finitura Specificare le pro
 Quale punto è migliore per un albero? La risposta dipende dalla superficie dell'albero, dalla marcatura consentita e dal fatto che la punta sia bloccata o posizionata. Fornire la geometria di accoppiamento e i requisiti funzionali.
 
 È possibile specificare la forza di tenuta solo in base alla dimensione della vite? No. L'aggancio, il contatto, il materiale, l'assemblaggio e il carico influiscono sulla connessione completa. Il responsabile della progettazione deve stabilire il requisito.
+
+#### Scegliere la punta in base al contatto con il componente accoppiato
+
+La forma della punta determina il contatto. Sceglierla con superficie accoppiata, frequenza di regolazione e impronte ammesse, quindi definire filetto utile e accesso dell’utensile.
+
+1 2 3 4 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Punta piana: definire la faccia accoppiata e le impronte di contatto ammesse.
+
+Punta conica: mostrare incavo previsto o impronta consentita e posizione d’impegno.
+
+Punta cilindrica: definire sporgenza e foro o cava accoppiati; verificare gioco e profondità disponibile.
+
+Punta a coppa: verificare contatto del bordo e impronta rispetto al danneggiamento ammesso della superficie accoppiata.
+
+Valutare regolazioni ripetute e tenuta sull’unione reale. Geometria della punta e diametro non forniscono da soli un valore universale di forza di ritegno o coppia di serraggio.
+
+Confrontare le quattro punte e la scheda di scelta ↗
 
 #### Scegli il punto attorno alla superficie di accoppiamento
 
@@ -9798,7 +9908,7 @@ PROCESSO/ACCETTAZIONE
 
 Controlli ottici senza contatto della lunghezza della vite, del diametro della testa e dei profili a gradini visibili, abbinati ai calibri e alle prove previste dal disegno tecnico.
 
-Controllo dimensionale e visione CCD
+Illustrazione di controllo CCD per spiegare il metodo; non è una fotografia di attrezzature ZUFEK.
 
 #### CCD controlli dimensionali ottici
 
@@ -9858,17 +9968,21 @@ Le immagini illustrano geometria e finitura. Proprietà del materiale, prestazio
 
 Esempio del risultato della lavorazione; i requisiti finali seguono il disegno approvato.
 
-#### Ingressi e uscite per CCD Visione e ispezione dimensionale
+#### Associare a ogni caratteristica la corretta evidenza di controllo
 
-La revisione del processo inizia con viti a spalla e a gradino, design personalizzati di golfari di sollevamento, viti e perni di clinciatura personalizzati, viti cave e a foro passante e il disegno tecnico effettivo, non un elenco di attrezzature generiche. Identificare la condizione dello stock o della parte in entrata e le dimensioni che devono rimanere controllate in questa fase.
+Per una vite a spallamento con foro, suddividere il controllo in caratteristiche distinte. L’esempio mostra perché immagine esterna, calibro del filetto e controllo interno non sono intercambiabili.
 
-Utilizzare gli argomenti del processo sopra riportati per risolvere i controlli delle dimensioni ottiche ccd; verifica complementare; controlli materiali e meccanici; controlli superficiali e specialistici; campionamento rispetto all’ispezione completa. Registrare i requisiti selezionati nelle specifiche dell'ordine. Il nome di un processo non stabilisce la tolleranza risultante, la classe di proprietà o la copertura dell'ispezione.
+Associare a ogni caratteristica la corretta evidenza di controllo Caratteristica a disegno Metodo da concordare Fase di accettazione Registrazione da conservare
 
-#### Coordinare l'operazione successiva
+Profilo visibile del gambo calibrato Misura ottica calibrata idonea; validare posizionamento e programma per la caratteristica. Stato finale di fornitura; aggiungere un controllo intermedio se operazioni successive nascondono la caratteristica. Identificativo, revisione di programma/metodo, limiti, copertura ed esito di misura o selezione.
 
-La revisione successiva potrebbe riguardare il trattamento termico specifico del materiale o la pulizia, il bloccaggio e l'assemblaggio. Controllare quali superfici vengono utilizzate per posizionare la parte, se l'operazione successiva modifica le dimensioni e in quale fase viene misurata l'accettazione finale. Qualora un requisito non possa essere controllato dopo l'assemblaggio o la finitura, concordare un controllo intermedio oltre alla verifica finale.
+Filetto e impegno utile Calibri filettati previsti e, se richiesto, controllo separato della lunghezza utile. Dopo le operazioni che modificano il filetto fornito. Designazione del filetto, identificativo del calibro, esito e requisito di lunghezza utile.
 
-Per i campioni che coinvolgono attrezzature, il tempo di consegna tipico è di circa 10–15 giorni, soggetto alla revisione del disegno tecnico e alla conferma del materiale, della finitura e dell'ambito di ispezione. Il percorso completo determina l'orario confermato; la durata non è una promessa per ogni singolo processo.
+Passaggio interno e incrocio Misura idonea del foro accessibile e controllo dello spigolo interno concordato separatamente. Prima che chiusura o montaggio limitino l’accesso; confermare lo stato finale richiesto. Requisito di foro e spigolo, metodo, fase, esito e limiti di accesso.
+
+Appoggio, movimento o ritegno Prova con componenti accoppiati identificati e procedura di montaggio concordata. Approvazione dei campioni ed eventuali controlli ripetuti previsti dall’ordine. Revisione del componente accoppiato, criterio, esito, scostamento e approvazione.
+
+Confermare in fase di preventivo idoneità degli strumenti, prove esterne e documentazione. La matrice è un esempio di pianificazione, non un rapporto di controllo compilato.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 

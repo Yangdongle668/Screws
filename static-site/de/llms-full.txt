@@ -40,7 +40,9 @@ SONDERTEILE NACH ZEICHNUNG
 
 DONGGUAN ZUFEK PRECISION CO., LTD. Seit 2005 fertigt ZUFEK Sonderschrauben in Dalang, Dongguan. Werkzeugbau, Bemusterung und Serienfertigung richten sich nach Ihrer freigegebenen Zeichnung.
 
-Ihr Zeichnungsteil anfragen ↗ Produkte entdecken ↗ 01 / Technische Prüfung nach Zeichnung 02 / B2B-Beschaffung NACH IHREN BEDÜRFNISSEN ENTWICKELT ZF—01 Schulter- und Passschrauben
+Ihr Zeichnungsteil anfragen ↗ Produkte entdecken ↗ Unternehmen und Musterplanung ↗
+
+01 / Technische Prüfung nach Zeichnung 02 / B2B-Beschaffung NACH IHREN BEDÜRFNISSEN ENTWICKELT ZF—01 Schulter- und Passschrauben
 
 Sicherheits- und manipulationshemmende Schrauben
 
@@ -172,7 +174,7 @@ Titansorten werden in Betracht gezogen, wenn Masse, Korrosionseinwirkung und erf
 
 Berührungslose optische Kontrollen von Schraubenlänge, Kopfdurchmesser und sichtbaren Stufenprofilen, kombiniert mit den in der Konstruktionszeichnung geforderten Lehren und Prüfungen.
 
-CCD-Bildverarbeitung und Maßprüfung ↗ Prüfung festlegen. Nachweise abstimmen. ↗ CCD-Bildverarbeitung und Maßprüfung
+CCD-Bildverarbeitung und Maßprüfung ↗ Prüfung festlegen. Nachweise abstimmen. ↗ Illustration einer CCD-Sichtprüfung zur Erläuterung der Methode; kein Foto von ZUFEK-Anlagen.
 
 04 / INGENIEURWISSEN
 
@@ -215,7 +217,7 @@ Konstruktionszeichnung bis zur Abnahme
 
 Erstellen Sie den Inspektionsplan anhand der Funktionsmerkmale, des Risikos und der Abnahmeanforderungen des tatsächlichen Auftrags.
 
-Was ein Prüfprotokoll nachvollziehbar machen sollte ↓ CCD-Bildverarbeitung und Maßprüfung
+Was ein Prüfprotokoll nachvollziehbar machen sollte ↓ Illustration einer CCD-Sichtprüfung zur Erläuterung der Methode; kein Foto von ZUFEK-Anlagen.
 
 #### Abmessungen und Geometrie
 
@@ -274,6 +276,24 @@ Diese Referenzfotos zeigen sichtbare Produktformen. Sie legen keine Materialgüt
 Gemischte Gewindeteile und Schulterformen auf einem Ausstellungstisch
 
 Gewindeschäfte, Schultern und Rohrkomponenten zusammen fotografiert
+
+#### Drei eindeutige Freigabepunkte festlegen
+
+Verknüpfen Sie Musterfreigabe, Losabnahme und Änderungsfreigabe über Zeichnungsstand und Merkmalskennungen. Vereinbaren Sie vor der Fertigung die für den Auftrag benötigten Unterlagen.
+
+##### Mustergrundlage freigeben
+
+Benennen Sie Zeichnungsstand, Musterroute, kritische Merkmale und Gegenstückreferenz. Dokumentieren Sie, ob die Vorlage Messwerte, Screening-Ergebnisse, Werkstoffunterlagen oder einen Montageversuch enthält.
+
+##### Los im Lieferzustand abnehmen
+
+Vereinbaren Sie für jedes Merkmal Methode, Prüfzeitpunkt, Umfang und Aufzeichnung. Unterscheiden Sie Einzelmessungen von Gut-/Schlecht-Screening und legen Sie externe Prüfberichte separat fest.
+
+##### Änderungen und Abweichungen klären
+
+Halten Sie betroffene Anforderung, vorgeschlagene Behandlung und Zustimmung vor der Freigabe fest. Bei Änderungen an Zeichnung, Route oder Oberfläche ist festzulegen, welche Prüfungen und Musterfreigaben zu wiederholen sind.
+
+Merkmalsbezogenen Prüfplan erstellen ↗
 
 #### Was ein Prüfprotokoll nachvollziehbar machen sollte
 
@@ -880,7 +900,7 @@ Unser Standort in Dalang platziert das Unternehmen in der Fertigungsgemeinschaft
 
 Unsere Produktionskapazität liegt in der Größenordnung von mehreren Millionen Teilen pro Monat. Die tatsächliche Produktion, Auftragszuteilung und Lieferzeit hängen von der Teilekomplexität, dem Material, den Werkzeugen, den Nebenvorgängen und dem vereinbarten Prüfumfang ab.
 
-Entdecken Sie unser Produktsortiment ↗ Metallschrauben nach Zeichnung
+Entdecken Sie unser Produktsortiment ↗ Produktformen aus den vom Unternehmen bereitgestellten Musterfotos.
 
 ERFAHRUNG MIT AUTOMOBILKOMPONENTEN
 
@@ -926,21 +946,23 @@ Zwei illustrative Studien verbinden Montageanforderungen mit Schraubengeometrie,
 
 Automotive-Modulgehäuse ↗ Automatisierung: Drehpunkt und Einstellvorrichtung ↗ Anwendungsstudien ansehen ↗
 
-#### Für diese Website bereitgestellte Produktfotos
+#### Meilensteine vor dem Werkzeugbau vereinbaren
 
-Diese Referenzfotos zeigen sichtbare Produktformen. Sie legen keine Materialgüte, Abmessungen, Prüfergebnisse oder eine gelieferte Kundenanwendung fest.
+Trennen Sie Angebot, Musterfreigabe und Serienauftrag. So bleibt klar, was kalkuliert wird, was das Muster nachweisen soll und welche Punkte für den Auftrag noch abzustimmen sind.
 
-Gemischte Gewindeteile und Schulterformen auf einem Ausstellungstisch
+##### Zeichnung und Angebot
 
-Gewindeschäfte, Schultern und Rohrkomponenten zusammen fotografiert
+Benennen Sie aktuelle Zeichnung, Gegenstücke, Werkstoff, Oberfläche und kritische Merkmale. Halten Sie offene Punkte und Angebotsannahmen fest, einschließlich Fertigungsroute und extern vorgesehener Bearbeitung oder Prüfung.
 
-#### Bemusterung, Werkzeugbau und Produktionsplanung
+##### Werkzeuge und Muster
 
-Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung von Werkstoff, Geometrie, Oberfläche und Prüfung bestätigt. Den Startpunkt im Angebot festlegen; Serienlieferungen werden nach Stückzahl und freigegebener Route separat terminiert.
+Für Werkzeugbau und Bemusterung sind etwa 10–15 Tage einzuplanen, vorbehaltlich technischer Prüfung und Angebotsbestätigung. Vereinbaren Sie vor Beginn Startpunkt, Musterzahl und Prüfungen; die Musterfreigabe bleibt ein eigener Schritt.
 
-Senden Sie eine überarbeitete technische Zeichnung, eine Mustermenge, das erwartete Bestellvolumen und die beabsichtigte Anwendung. Identifizieren Sie Funktionsabmessungen und erforderliche Dokumente, damit die technische Überprüfung vor der Werkzeug- und Musterfreigabe wichtige Details klären kann.
+##### Wiederholaufträge
 
-Bereiten Sie die RFQ-Checkliste vor ↗ Vergleichen Sie komplette Fertigungswege ↗
+Vereinbaren Sie anhand von freigegebenem Muster und Zeichnungsstand Menge, Loskennzeichnung, Unterlagen und Lieferung. Die monatliche Kapazität liegt über den Produktmix hinweg bei mehreren Millionen Teilen; Einplanung und Termine hängen von Route und Auftrag ab.
+
+Anforderungen an die Musterfreigabe vorbereiten ↗
 
 ### Fordern Sie ein individuelles Schraubenangebot an
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/request-a-quote/
@@ -1550,6 +1572,20 @@ Erkunden Sie eine vorgeschlagene Baugruppe, die Auswahl der Befestigungselemente
 
 Schulter und Axialstapel der Vorrichtung ansehen ↗
 
+#### Bohrungspassung und Axialspiel getrennt prüfen
+
+Die Paarung aus Schulter und Bohrung führt die Bewegung; der Abstand zwischen den Anlageflächen bestimmt die axiale Maßkette. Legen Sie beides im Lieferzustand fest, statt die Gewindepassung als Zentrierpassung zu behandeln.
+
+1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Schulter und Gegenbohrung: beide Maßgrenzen, Bezugsachse und funktionale Oberflächenanforderungen angeben.
+
+Anlage und Übergang: Fase oder Senkung des Gegenstücks zeigen, damit unvollständiges Gewinde oder Freistich die Anlage nicht verhindern.
+
+Nach der Oberflächenbearbeitung: betroffene Flächen und den Prüfzeitpunkt der endgültigen Passung festlegen.
+
+Lesen Sie die folgende Spielberechnung zusammen mit diesen Schnittstellen. Ein ausreichendes Axialspiel belegt allein weder die Bohrungspassung noch die geforderte geometrische Beziehung.
+
 #### Axialspiel aus beiden Toleranzgrenzen berechnen
 
 Bei einer beweglichen Platte ist die Schulterlänge mit dem gesamten Bauteilstapel zwischen den Anlageflächen zu vergleichen. Scheibe, Buchse und Platte gehören dazu; die Gesamtlänge der Schraube bestimmt das Bewegungsspiel nicht.
@@ -1676,6 +1712,20 @@ Kann ich eine unvollständige Konstruktionszeichnung einreichen? Ja. Markieren S
 Sind Material- und Oberflächenoptionen vorab genehmigt? Nein. Die verfügbaren Optionen müssen für Ihr tatsächliches Teil bestätigt werden. Lesen Sie unsere Leitfaden zur Materialauswahl für die Informationen zur Vorbereitung.
 
 Wie wird der Qualitätsumfang vereinbart? Definieren Sie während der Überprüfung kritische Funktionen und Dokumentationsanforderungen. Sehen Sie sich unsere an Qualitätsplanungsansatz .
+
+#### Unverlierbare Schrauben in beiden Wartungsstellungen prüfen
+
+Eine unverlierbare Schraube gehört zu einer Baugruppe aus Platte und Halteelement. Prüfen Sie die gelöste Stellung ebenso sorgfältig wie die angezogene: nutzbarer Gewindeeingriff und gehaltener Hub sind unterschiedliche Anforderungen.
+
+1 2 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Gelöst: Die Schraube ist vom Gegengewinde frei, bleibt aber durch das gewählte Halteelement an der Platte.
+
+Angezogen: Der Kopf liegt richtig an, das Halteelement hat Bewegungsraum und der erforderliche Gewindeeingriff bleibt verfügbar.
+
+Baugruppenprüfung: Plattendicke, Haltebohrung, Geometrie des Halteelements und Montagereihenfolge angeben.
+
+Vereinbaren Sie Halteprüfung und Demontage-/Montageversuch getrennt von der Gewindeprüfung. Die Skizze zeigt beispielhaft ein separates Halteelement; die tatsächliche Lösung muss zur Baugruppe passen.
 
 #### Entwerfen Sie gemeinsam das Rückhaltesystem
 
@@ -2129,6 +2179,20 @@ Erkunden Sie eine vorgeschlagene Baugruppe, die Auswahl der Befestigungselemente
 
 Sehen Sie sich das Gehäuse-Service-Antriebskonzept an ↗
 
+#### Antrieb und Werkzeugzugang im Einbauzustand abstimmen
+
+Wählen Sie das Antriebsprofil gemeinsam mit Wartungswerkzeug und Gehäuse. Ein passender Bit hilft nur, wenn er die eingebaute Schraube erreichen, vollständig greifen und drehen kann.
+
+1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Antrieb und Bit: Profil und Eingriffstiefe festlegen; bei Antrieb mit Stift auch Stift und Freiraum des passenden Bits.
+
+Zugangsraum: Werkzeugansatz, benachbarte Wände sowie Einsteck- und Ausziehraum darstellen.
+
+Wartungsversuch: Montage und autorisierte Demontage mit repräsentativem Gehäuse und passendem Werkzeug prüfen.
+
+Antriebsabnahme und Zugangsprüfung getrennt behandeln. Ein Profil mit Stift kann unbefugtes Lösen erschweren, begründet allein aber keine Sicherheitsklasse.
+
 #### Geben Sie das Laufwerk an, nicht nur seinen Namen
 
 Pin-In-Sechslappen-, Fünflappen-, Y-Typ-, Dreiecks- und Zweiloch-Antriebe sind unterschiedliche Schnittstellen. Selbst ähnlich aussehende Aussparungen können unterschiedliche Profile haben. Stellen Sie eine kontrollierte technische Zeichnung oder eine passende Werkzeugspezifikation bereit, einschließlich der Tiefe der Aussparung, der Geometrie des Zentrierstifts und der Toleranzen. Ein Foto kann die allgemeine Familie identifizieren, aber nicht feststellen, ob eine Produktionsschraube zum Servicewerkzeug passt.
@@ -2253,6 +2317,20 @@ Funktionale Anforderung Kabelfreiraum oder definierte Flüssigkeitstestbedingung
 Kann CCD die komplette Bohrung prüfen? Bei der Prüfung der Außensilhouette kann der vollständige Innendurchgang nicht festgestellt werden. Bohrungsgeometrie und Innenkanten bedürfen geeigneter ergänzender Kontrollen.
 
 Sind Hohlschrauben druckfest? Eine Durchgangsbohrung ergibt keine Druckstufe. Material, Dichtungsausführung, Einsatzbedingungen und die erforderlichen Nachweise müssen für den Anwendungsfall spezifiziert werden.
+
+#### Kleinsten Restquerschnitt und verdeckte Bohrungskante verfolgen
+
+Verbinden Sie Durchgang und Außenmerkmale in einer Schnittansicht. Der kleinste Restquerschnitt kann am Gewindegrund oder an einer Querbohrung liegen, nicht am größten Außendurchmesser.
+
+1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Gewindegrund zur Bohrung: Restquerschnitt anhand der geltenden Gewindegeometrie und der Bohrungslage festlegen.
+
+Bohrungskreuzung: Innenkante, Gratanforderung sowie einen ausführbaren Entgrat- und Prüfweg benennen.
+
+Fertiger Durchgang: lichte Bohrung, Ein-/Auslaufkanten und Reinigung vereinbaren, bevor die Montage den Zugang verhindert.
+
+CCD-Screening der Außenkontur kann sichtbare Merkmale prüfen. Verdeckte Bohrungsmerkmale benötigen ein geeignetes separates Verfahren. Die folgende Anwendungsmatrix unterscheidet Kabeldurchführung, Strömung und Abdichtung.
 
 #### Den Durchgang spezifizieren, nicht nur die äußere Schraube
 
@@ -2384,6 +2462,20 @@ Entspricht ein Integralflansch immer einer Unterlegscheibe? Nein. Vergleichen Si
 Erkunden Sie eine vorgeschlagene Baugruppe, die Auswahl der Befestigungselemente, die Fertigungsprüfung und den Mustervalidierungsplan. Hierbei handelt es sich um eine illustrative Designstudie ohne Anspruch auf Kundenlieferung oder gemessene Leistung.
 
 Überprüfen Sie den Flanschsitz in einem Kfz-Gehäusekonzept ↗
+
+#### Auflagefläche vergleichen, bevor der Flansch vergrößert wird
+
+Ein größerer Flansch verändert die Kontaktfläche; ob dieser Kontakt sinnvoll ist, bestimmt weiterhin das geklemmte Bauteil. Prüfen Sie Stirnfläche, Beschichtung und verfügbaren Sitz gemeinsam.
+
+1 2 3 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Glatter integrierter Flansch: nutzbare Auflagefläche, angrenzende Radien und Freiraum zur Gegensenkung festlegen.
+
+Verzahnter integrierter Flansch: vorgesehenen Zahnkontakt, zulässige Abdrücke und Auswirkungen auf die Beschichtung prüfen.
+
+Separate Scheibe: Maße, Härte oder sonstigen geforderten Zustand sowie den Beitrag zur axialen Maßkette berücksichtigen.
+
+Halten Sie fest, welche Flächen anliegen dürfen und welche frei bleiben müssen. Bei Abdrücken, Vorspannung oder wiederholter Wartung ist ein Versuch mit dem tatsächlichen Oberflächensystem zu vereinbaren, statt die Wirkung allein aus dem Flanschdurchmesser abzuleiten.
 
 #### Behandeln Sie den Flansch als Lagerschnittstelle
 
@@ -2664,6 +2756,24 @@ Materialzustand Sorte, erforderliche Endeigenschaften und Finish Legen Sie Nachw
 Welcher Punkt eignet sich am besten für einen Schaft? Die Antwort hängt von der Wellenoberfläche, der zulässigen Markierung und davon ab, ob der Punkt klemmt oder fixiert. Geben Sie die passende Geometrie und die funktionellen Anforderungen an.
 
 Kann die Haltekraft allein aus der Schraubengröße angegeben werden? Nein. Eingriff, Kontakt, Material, Montage und Belastung wirken sich auf die gesamte Verbindung aus. Der verantwortliche Entwurf muss die Anforderung festlegen.
+
+#### Spitzenform nach dem Kontakt zum Gegenstück wählen
+
+Die Spitzenform bestimmt den Kontaktmechanismus. Wählen Sie sie anhand von Gegenfläche, Verstellhäufigkeit und zulässigen Abdrücken; legen Sie anschließend nutzbares Gewinde und Werkzeugzugang fest.
+
+1 2 3 4 Schnittstellenskizze, nicht maßstäblich. Maße und Abnahme richten sich nach der freigegebenen Baugruppenzeichnung.
+
+Flachspitze: Gegenfläche festlegen und zulässige Kontaktabdrücke vereinbaren.
+
+Kegelspitze: vorgesehene Vertiefung oder zulässige Eindrückung und deren Position darstellen.
+
+Zapfen: Überstand und Gegenbohrung oder Nut festlegen; Spiel und verfügbare Tiefe prüfen.
+
+Ringschneide: Randkontakt und Eindrückung mit der zulässigen Beschädigung der Gegenfläche abgleichen.
+
+Prüfen Sie wiederholtes Verstellen und Haltewirkung an der tatsächlichen Verbindung. Spitzenform und Schraubendurchmesser allein liefern keinen allgemeingültigen Wert für Haltekraft oder Anziehdrehmoment.
+
+Vier Spitzenformen und Auswahl-Arbeitsblatt vergleichen ↗
 
 #### Wählen Sie den Punkt rund um die Passfläche
 
@@ -9798,7 +9908,7 @@ PROZESS / ANNAHME
 
 Berührungslose optische Kontrollen von Schraubenlänge, Kopfdurchmesser und sichtbaren Stufenprofilen, kombiniert mit den in der Konstruktionszeichnung geforderten Lehren und Prüfungen.
 
-CCD-Bildverarbeitung und Maßprüfung
+Illustration einer CCD-Sichtprüfung zur Erläuterung der Methode; kein Foto von ZUFEK-Anlagen.
 
 #### CCD optische Maßprüfungen
 
@@ -9858,17 +9968,21 @@ Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, B
 
 Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
 
-#### Ein- und Ausgänge für CCD Vision & Dimensions Inspection
+#### Jedem Merkmal den passenden Prüfnachweis zuordnen
 
-Die Prozessüberprüfung beginnt mit Schulter- und Stufenschrauben, kundenspezifischen Ringschraubenkonstruktionen, kundenspezifischen Einpressschrauben und Bolzen, Hohl- und Durchgangslochschrauben und der eigentlichen Konstruktionszeichnung, nicht einer allgemeinen Ausrüstungsliste. Identifizieren Sie den Zustand des eingehenden Bestands oder Teils und die Abmessungen, die in dieser Phase kontrolliert bleiben müssen.
+Teilen Sie eine Schulterschraube mit Bohrung in einzelne Prüfmerkmale auf. Das Planungsbeispiel zeigt, warum Außenkonturaufnahme, Gewindelehre und Innenprüfung nicht austauschbar sind.
 
-Verwenden Sie die oben genannten Prozessthemen, um optische CCD-Abmessungsprüfungen zu lösen. ergänzende Verifizierung; Material- und mechanische Kontrollen; Oberflächen- und Fachprüfungen; Probenahme versus vollständige Inspektion. Erfassen Sie die ausgewählten Anforderungen in der Auftragsspezifikation. Ein Prozessname legt nicht die resultierende Toleranz, Eigenschaftsklasse oder Prüfabdeckung fest.
+Jedem Merkmal den passenden Prüfnachweis zuordnen Zeichnungsmerkmal Zu vereinbarendes Verfahren Abnahmestufe Aufzubewahrender Nachweis
 
-#### Koordinieren Sie den nächsten Einsatz
+Sichtbare Schulterkontur Geeignetes kalibriertes optisches Messverfahren; Lage und Programm für das Merkmal validieren. Endgültiger Lieferzustand; Zwischenprüfung ergänzen, wenn spätere Arbeit das Merkmal verdeckt. Merkmalskennung, Programm-/Methodenstand, Grenzen, Umfang sowie Mess- oder Screening-Ergebnis.
 
-Die nächste Überprüfung kann eine materialspezifische Wärmebehandlung oder Reinigung, Verriegelung und Montage umfassen. Prüfen Sie, welche Oberflächen zur Positionierung des Teils verwendet werden, ob sich durch den nächsten Arbeitsgang die Abmessungen ändern und in welchem ​​Stadium die Endabnahme erfolgt. Wenn eine Anforderung nach der Montage oder Fertigstellung nicht überprüft werden kann, vereinbaren Sie eine Zwischenprüfung sowie eine Endprüfung.
+Gewinde und nutzbarer Eingriff Vorgeschriebene Gewindelehren; bei Bedarf nutzbare Länge zusätzlich prüfen. Nach den Arbeitsgängen, die das gelieferte Gewinde beeinflussen. Gewindebezeichnung, Lehrenkennung, Ergebnis und Anforderung an die nutzbare Länge.
 
-Für Proben mit Werkzeugen beträgt die typische Vorlaufzeit etwa 10–15 Tage, vorbehaltlich der Überprüfung der technischen Zeichnung und der Bestätigung von Material, Endbearbeitung und Prüfumfang. Die komplette Route bestimmt den bestätigten Fahrplan; Die Dauer ist kein Versprechen für jeden einzelnen Prozess.
+Innenkanal und Bohrungskreuzung Geeignete zugängliche Bohrungsmessung und eine separat vereinbarte Prüfung der Innenkanten. Bevor Verschluss oder Montage den Zugang begrenzen; geforderten Endzustand bestätigen. Bohrungs-/Kantenanforderung, Methode, Prüfzeitpunkt, Ergebnis und Zugangsbegrenzungen.
+
+Anlage, Bewegung oder Haltefunktion Versuch mit eindeutig benannten Gegenstücken und vereinbartem Montageablauf. Musterfreigabe und auftragsspezifisch festgelegte Wiederholungsprüfungen. Stand des Gegenstücks, Kriterium, Ergebnis, Abweichung und Zustimmung.
+
+Bestätigen Sie bei der Angebotserstellung Geräteignung, externe Prüfungen und Berichtsumfang. Die Matrix ist ein Planungsbeispiel, kein ausgefüllter Prüfbericht.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 

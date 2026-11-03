@@ -22,6 +22,8 @@ node scripts/verify-language-preference.mjs
 
 2026-11-03新增采购决策算例与公共界面语境校订，来源为`scripts/buyer-localization.mjs`，生成记录在`translations/buyer-review.json`。该映射在旧审校层之后应用；更新内容时运行`node scripts/buyer-localization.mjs`，再执行完整生成。见`docs/SEO-IMPROVEMENTS-2026-11-03.md`。询盘产品参数响应保留canonical及表单状态，由不带参数的规范页声明语言对应关系。
 
+企业合作阶段、六类核心产品接口图与质量放行说明的英文源位于 `scripts/practical-content.mjs`；五种语境译文由 `scripts/practical-localization.mjs` 维护，写入 `translations/practical-review.json` 和语言字典。运行 `node scripts/practical-localization.mjs` 后完整生成即可；`apply-editorial-review.mjs` 也会在旧审校层之后应用此映射。SVG 仅使用编号，图例、替代文本与说明随语言翻译。图示用于设计讨论，不能替代真实设备、项目或检测记录。
+
 ## 语言入口与默认选择
 
 顶部邮箱旁提供国旗、语言原名和当前项勾选。首次进入英文地址时，优先采用已保存的手动选择，否则按照浏览器语言列表匹配六种支持语言；未匹配保持英文。手动切换保存本机偏好，并保留对应页面、查询参数及锚点。明确访问带语言前缀的链接时保留该语言；站内浏览不反复跳转。搜索爬虫不做客户端自动跳转，全部语言保留可访问网址与 `hreflang`。

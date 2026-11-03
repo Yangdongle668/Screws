@@ -40,7 +40,9 @@ NON-STANDARD BY DESIGN
 
 DONGGUAN ZUFEK PRECISION CO., LTD. Manufacturing non-standard metal screws in Dalang, Dongguan since 2005. From tooling and samples to repeat production, built around your approved drawing.
 
-Discuss your custom part ↗ Explore products ↗ 01 / Drawing-led review 02 / B2B sourcing ENGINEERED AROUND YOUR NEEDS ZF—01 Shoulder & Step Screws
+Discuss your custom part ↗ Explore products ↗ Company background and sample planning ↗
+
+01 / Drawing-led review 02 / B2B sourcing ENGINEERED AROUND YOUR NEEDS ZF—01 Shoulder & Step Screws
 
 Security & Tamper-Resistant Screws
 
@@ -172,7 +174,7 @@ Titanium grades are considered where mass, corrosion exposure and required mecha
 
 Non-contact optical checks for screw length, head diameter and visible stepped profiles, combined with the gauges and tests required by the drawing.
 
-CCD Vision & Dimensional Inspection ↗ Define the check. Agree the evidence. ↗ CCD Vision & Dimensional Inspection
+CCD Vision & Dimensional Inspection ↗ Define the check. Agree the evidence. ↗ CCD vision inspection illustration; it explains the method and is not a photograph of ZUFEK equipment.
 
 04 / ENGINEERING KNOWLEDGE
 
@@ -215,7 +217,7 @@ DRAWING TO ACCEPTANCE
 
 Build the inspection plan around functional features, risk and the acceptance requirements of the actual order.
 
-What an inspection record should let you verify ↓ CCD Vision & Dimensional Inspection
+What an inspection record should let you verify ↓ CCD vision inspection illustration; it explains the method and is not a photograph of ZUFEK equipment.
 
 #### Dimensions & geometry
 
@@ -274,6 +276,24 @@ These reference photographs show visible product forms. They do not establish ma
 Mixed threaded components and shoulder forms on a display table
 
 Threaded shanks, shoulders and tubular components photographed together
+
+#### Set three clear release checkpoints
+
+Use the drawing revision and characteristic IDs to keep sample approval, lot acceptance and change approval connected. Agree the records required for the order before production.
+
+##### Approve the sample basis
+
+Identify the drawing revision, sample route, critical characteristics and mating-part reference. Record whether the submission contains measured values, screening results, material documents or an assembly trial.
+
+##### Accept the lot in its supplied condition
+
+For each characteristic, agree the method, stage, coverage and record. Keep individual measurements distinct from pass/fail screening, and specify any external test report separately.
+
+##### Resolve changes and deviations
+
+Record the affected requirement, proposed disposition and approval before release. If the drawing, route or finish changes, identify which checks and sample approvals must be repeated.
+
+Build a characteristic-by-characteristic inspection plan ↗
 
 #### What an inspection record should let you verify
 
@@ -880,7 +900,7 @@ Our Dalang location places the business within Dongguan’s manufacturing commun
 
 Our production capacity is on the order of several million parts per month. Actual output, order allocation and delivery timing depend on part complexity, material, tooling, secondary operations and the agreed inspection scope.
 
-Explore our product range ↗ Custom Metal Screws
+Explore our product range ↗ Product forms from the company-supplied sample photographs.
 
 AUTOMOTIVE COMPONENT EXPERIENCE
 
@@ -926,21 +946,23 @@ Two illustrative projects connect assembly needs with fastener structure, materi
 
 Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Browse application design studies ↗
 
-#### Product photographs supplied for this website
+#### Agree the milestones before tooling starts
 
-These reference photographs show visible product forms. They do not establish material grade, dimensions, inspection results or a delivered customer application.
+Separate the quotation, sample approval and repeat-production decisions. This makes it clear what is being priced, what the sample must demonstrate and what remains to be agreed for the order.
 
-Mixed threaded components and shoulder forms on a display table
+##### Drawing and quotation
 
-Threaded shanks, shoulders and tubular components photographed together
+Identify the current drawing, mating parts, material, finish and critical features. Record unresolved items and quotation assumptions, including the proposed route and any externally arranged processing or testing.
 
-#### Sampling, tooling and production planning
+##### Tooling and samples
 
-Typical sampling lead time, including tooling, is approximately 10–15 days. The confirmed schedule follows drawing review and agreement on material, geometry, surface treatment and inspection requirements. Clarify the starting milestone in the quotation. Repeat-production delivery is quoted separately for the quantity and approved route.
+Allow approximately 10–15 days for tooling and sampling, subject to technical review and quotation confirmation. Agree the starting milestone, sample quantity and checks before work begins; sample acceptance is a separate decision.
 
-Send a drawing revision, sample quantity, expected order volume and the intended application. Identify functional dimensions and required documents so the technical review can resolve the important details before tooling and sample approval.
+##### Repeat production
 
-Prepare the RFQ checklist ↗ Compare complete manufacturing routes ↗
+Use the approved sample and drawing revision to agree order quantity, lot identification, required documents and delivery. Monthly capacity is approximately several million parts across the product mix; allocation and timing depend on the actual route and order.
+
+Prepare the sample approval requirements ↗
 
 ### Request a Custom Screw Quote
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/request-a-quote/
@@ -1550,6 +1572,20 @@ Explore a proposed assembly, the fastener choices, manufacturing review and samp
 
 Review the fixture shoulder and axial-stack concept ↗
 
+#### Check the bore fit separately from the axial clearance
+
+The shoulder-to-bore interface guides movement; the distance between the seating faces controls the axial stack. Define both in the finished condition rather than treating a thread fit as the locating fit.
+
+1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Shoulder and mating bore: specify the two limits, the reference axis and any functional surface requirement.
+
+Seating and transition: show the mating chamfer or counterbore so the incomplete thread or relief does not prevent seating.
+
+After finishing: identify the surfaces affected by treatment or coating and the stage at which the final fit is checked.
+
+Read the clearance calculation below alongside these interfaces. A satisfactory axial gap does not by itself establish the bore fit or the required geometric relationship.
+
 #### Calculate the shoulder clearance from both tolerance limits
 
 For a moving plate, shoulder length must be compared with the complete stack between the seating faces. Include the washer, bushing and plate in that stack; overall screw length does not determine movement clearance.
@@ -1676,6 +1712,20 @@ Can I submit an incomplete drawing? Yes. Mark the unresolved details and describ
 Are material and finish options pre-approved? No. Available options must be confirmed for your actual part. Read our material selection guide for the information to prepare.
 
 How is quality scope agreed? Define critical features and documentation needs during review. See our quality planning approach .
+
+#### Review the captive screw in both service positions
+
+A captive screw belongs to a panel-and-retainer assembly. Check the released position as carefully as the tightened position; usable thread engagement and retained travel answer different questions.
+
+1 2 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Released: the screw clears the mating thread while the chosen retaining feature keeps it with the panel.
+
+Tightened: the head seats as intended, the retainer has room to move and the required thread engagement remains available.
+
+Assembly review: provide panel thickness, retaining-hole details, retainer geometry and the installation sequence.
+
+Agree a retention check and a removal/reassembly trial separately from thread gauging. The sketch uses a separate retainer for illustration; the actual retaining arrangement must match the assembly.
 
 #### Design the retention system together
 
@@ -2129,6 +2179,20 @@ Explore a proposed assembly, the fastener choices, manufacturing review and samp
 
 Review the enclosure service-drive concept ↗
 
+#### Match the drive to the installed tool access
+
+Choose the drive profile together with the service tool and the housing. A matching bit is useful only if it can reach, engage and turn the installed screw.
+
+1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Drive and bit: identify the actual profile, engagement depth and, for a pin-in drive, the pin and matching bit clearance.
+
+Access envelope: show the tool approach, neighboring walls and the space needed to insert and withdraw the tool.
+
+Service trial: check installation and authorized removal with the representative housing and matching tool.
+
+Keep drive acceptance and access acceptance separate. A pin-in profile can restrict casual access, but the profile alone does not establish a security rating.
+
 #### Specify the drive, not just its name
 
 Pin-in six-lobe, five-lobe, Y-type, triangular and two-hole drives are different interfaces. Even similar-looking recesses may have different profiles. Supply a controlled drawing or matching tool specification, including recess depth, center-pin geometry and tolerances. A photograph can identify the general family, but cannot establish whether a production screw will fit the service tool.
@@ -2253,6 +2317,20 @@ Functional requirement Cable clearance or defined fluid test conditions Trial th
 Can CCD inspect the complete bore? External silhouette inspection cannot establish the full internal passage. Bore geometry and internal edges need suitable complementary checks.
 
 Are hollow screws pressure-rated? A through hole does not create a pressure rating. Material, sealing design, service conditions and the required verification must be specified for the application.
+
+#### Follow the smallest wall and the hidden bore edge
+
+Use a section view to connect the passage to the outside features. The critical remaining wall may be beside a thread root or an intersecting hole rather than at the largest outside diameter.
+
+1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Thread root to bore: define the remaining section using the applicable thread geometry and the bore position.
+
+Hole intersection: identify the internal edge, burr requirement and a workable deburring and inspection route.
+
+Finished passage: agree bore clearance, entry/exit condition and cleaning before assembly makes the internal features inaccessible.
+
+External CCD screening can support visible profile checks. Verify inaccessible bore features with a suitable separate method, and use the application matrix below to distinguish cable, flow and sealing requirements.
 
 #### Specify the passage, not just the outside screw
 
@@ -2384,6 +2462,20 @@ Is an integral flange always equivalent to a washer? No. Compare the bearing geo
 Explore a proposed assembly, the fastener choices, manufacturing review and sample validation plan. This is an illustrative design study, with no claimed customer delivery or measured performance.
 
 Review flange seating in an automotive enclosure concept ↗
+
+#### Compare the bearing interface before enlarging the flange
+
+A larger flange changes the contact envelope, but the clamped component still determines whether that contact is useful. Compare the face, coating and available seating area together.
+
+1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Smooth integral flange: define the usable bearing face, adjacent radii and clearance to the mating recess.
+
+Serrated integral flange: review intended tooth contact, permissible marking and the effect on the mating coating.
+
+Separate washer: include washer dimensions, hardness or other required condition and its contribution to the axial stack.
+
+Record which faces may contact and which must remain clear. Where marking, preload or repeated service matters, agree an assembly trial for the actual surface system instead of inferring performance from flange diameter.
 
 #### Treat the flange as a bearing interface
 
@@ -2664,6 +2756,24 @@ Material condition Grade, required final properties and finish Specify evidence 
 Which point is best for a shaft? The answer depends on the shaft surface, permitted marking and whether the point clamps or locates. Supply the mating geometry and functional requirement.
 
 Can holding force be specified from screw size alone? No. Engagement, contact, material, assembly and loading affect the complete connection. The responsible design must establish the requirement.
+
+#### Choose the point by its contact with the mating part
+
+The point form determines how contact is made. Select it with the mating surface, adjustment frequency and allowable marking, then define usable thread and tool access.
+
+1 2 3 4 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Flat point: define the mating face and agree the permitted contact marks.
+
+Cone point: show the intended recess or permitted indentation and the location it must engage.
+
+Dog point: define the projection and mating hole or slot; check both clearance and available depth.
+
+Cup point: review rim contact and any indentation against the permissible damage to the mating surface.
+
+Review repeated adjustment and retention on the actual joint. Point geometry and screw diameter alone do not provide a universal holding-force or tightening-torque value.
+
+Compare the four point forms and selection worksheet ↗
 
 #### Choose the point around the mating surface
 
@@ -9798,7 +9908,7 @@ PROCESS / ACCEPTANCE
 
 Non-contact optical checks for screw length, head diameter and visible stepped profiles, combined with the gauges and tests required by the drawing.
 
-CCD Vision & Dimensional Inspection
+CCD vision inspection illustration; it explains the method and is not a photograph of ZUFEK equipment.
 
 #### CCD optical dimension checks
 
@@ -9858,17 +9968,21 @@ Visual references help explain geometry and finish. Material properties, coating
 
 Process outcome reference; final requirements follow the approved drawing.
 
-#### Inputs and outputs for CCD Vision & Dimensional Inspection
+#### Match each feature to its inspection evidence
 
-The process review begins with Shoulder & Step Screws, Custom Lifting Eye Bolt Designs, Custom Clinch Screws & Studs, Hollow & Through-Hole Screws and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
+For a shoulder screw with a bore, split the review into separate characteristics. This planning example shows why an external camera result, a thread gauge and an internal check are not interchangeable.
 
-Use the process topics above to resolve ccd optical dimension checks; complementary verification; material and mechanical checks; surface and specialist checks; sampling versus full inspection. Record the selected requirements in the order specification. A process name does not establish the resulting tolerance, property class or inspection coverage.
+Match each feature to its inspection evidence Drawing feature Method to agree Acceptance stage Record to retain
 
-#### Coordinate the next operation
+Visible shoulder profile Suitable calibrated optical measurement; validate the presentation and program for the feature. Final supplied condition; add an intermediate check if later work hides the feature. Characteristic ID, program/method revision, limits, coverage and measured or screening result.
 
-The next review may involve Material-Specific Heat Treatment or Cleaning, Locking & Assembly. Check which surfaces are used to locate the part, whether the next operation changes dimensions and at what stage final acceptance is measured. Where a requirement cannot be checked after assembly or finishing, agree an intermediate check as well as final verification.
+Thread and usable engagement Specified thread gauges plus a separate usable-length check where required. After the operations affecting the supplied thread. Thread callout, gauge identity, result and usable-length requirement.
 
-For samples involving tooling, the typical lead time is approximately 10–15 days, subject to drawing review and confirmation of material, finishing and inspection scope. The complete route determines the confirmed schedule; the duration is not a promise for each individual process.
+Internal passage and intersection Suitable accessible bore measurement and a separately agreed internal-edge check. Before closure or assembly limits access; confirm the required final condition. Bore/edge requirement, method, stage, result and any access limitation.
+
+Seating, motion or retention Trial with the identified mating parts and an agreed assembly procedure. Sample approval and any repeat check specified for the order. Mating revision, criterion, outcome, deviation and approval.
+
+Confirm equipment suitability, any external testing and the reporting scope during quotation. The matrix is a planning example, not a completed inspection report.
 
 CONNECTED SPECIFICATION TOPICS
 

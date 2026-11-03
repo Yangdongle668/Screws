@@ -40,7 +40,9 @@ DISEÑADOS A MEDIDA
 
 DONGGUAN ZUFEK PRECISION CO., LTD. Desde 2005 fabricamos tornillos metálicos a medida en Dalang, Dongguan. Utillaje, muestras y producción se realizan a partir de su plano aprobado.
 
-Consultar su pieza a medida ↗ Ver productos ↗ 01 / Revisión técnica del plano 02 / Abastecimiento B2B DISEÑADO EN FUNCIÓN DE SUS NECESIDADES ZF—01 Tornillos de hombro y escalonados
+Consultar su pieza a medida ↗ Ver productos ↗ Empresa y planificación de muestras ↗
+
+01 / Revisión técnica del plano 02 / Abastecimiento B2B DISEÑADO EN FUNCIÓN DE SUS NECESIDADES ZF—01 Tornillos de hombro y escalonados
 
 Tornillos de seguridad y antimanipulación
 
@@ -172,7 +174,7 @@ Se consideran grados de titanio donde la masa, la exposición a la corrosión y 
 
 Comprobaciones ópticas sin contacto de la longitud del tornillo, el diámetro de la cabeza y los perfiles escalonados visibles, combinadas con los calibres y pruebas requeridos por el plano de ingeniería.
 
-Inspección dimensional y visión CCD ↗ Definir el control. Acordar los registros. ↗ Inspección dimensional y visión CCD
+Inspección dimensional y visión CCD ↗ Definir el control. Acordar los registros. ↗ Ilustración de inspección CCD para explicar el método; no es una fotografía de equipos de ZUFEK.
 
 04 / CONOCIMIENTOS DE INGENIERÍA
 
@@ -215,7 +217,7 @@ dibujo de ingenieria A LA ACEPTACION
 
 Construya el plan de inspección en torno a las características funcionales, el riesgo y los requisitos de aceptación del pedido real.
 
-Qué debe permitir verificar un registro de inspección ↓ Inspección dimensional y visión CCD
+Qué debe permitir verificar un registro de inspección ↓ Ilustración de inspección CCD para explicar el método; no es una fotografía de equipos de ZUFEK.
 
 #### Dimensiones y geometría
 
@@ -274,6 +276,24 @@ Estas fotografías de referencia muestran formas visibles del producto. No estab
 Componentes roscados mixtos y formas de hombros en una mesa de exhibición
 
 Vástagos roscados, hombros y componentes tubulares fotografiados juntos
+
+#### Establecer tres puntos claros de aprobación
+
+Use la revisión del plano y los identificadores de características para vincular muestras, aceptación del lote y cambios. Acuerde los registros del pedido antes de producir.
+
+##### Aprobar la base de la muestra
+
+Identifique revisión, ruta de la muestra, características críticas y referencia de las piezas acopladas. Indique si la entrega incluye mediciones, resultados de cribado, documentos de material o una prueba de montaje.
+
+##### Aceptar el lote en su estado de suministro
+
+Acuerde método, etapa, cobertura y registro para cada característica. Distinga las mediciones individuales del cribado conforme/no conforme y especifique aparte los informes de ensayos externos.
+
+##### Resolver cambios y desviaciones
+
+Registre el requisito afectado, la disposición propuesta y su aprobación antes de liberar. Si cambia el plano, la ruta o el acabado, identifique qué controles y aprobaciones de muestra deben repetirse.
+
+Crear un plan de inspección por características ↗
 
 #### Qué debe permitir verificar un registro de inspección
 
@@ -880,7 +900,7 @@ Nuestra ubicación en Dalang ubica el negocio dentro de la comunidad manufacture
 
 Nuestra capacidad de producción es del orden de varios millones de piezas al mes. La producción real, la asignación de pedidos y el tiempo de entrega dependen de la complejidad de la pieza, el material, las herramientas, las operaciones secundarias y el alcance de inspección acordado.
 
-Explora nuestra gama de productos ↗ Tornillos metálicos a medida
+Explora nuestra gama de productos ↗ Formas de producto en las fotografías de muestras aportadas por la empresa.
 
 EXPERIENCIA EN COMPONENTES DE AUTOMOCIÓN
 
@@ -926,21 +946,23 @@ Dos estudios ilustrativos relacionan montaje, geometría del tornillo, material,
 
 Caja de módulo automotriz ↗ Pivote y utillaje de ajuste para automatización ↗ Ver estudios de diseño aplicado ↗
 
-#### Fotografías de productos aportadas para este sitio
+#### Acordar los hitos antes de fabricar el utillaje
 
-Estas fotografías de referencia muestran formas visibles del producto. No establecen el grado del material, las dimensiones, los resultados de la inspección ni la aplicación entregada al cliente.
+Separe la oferta, la aprobación de muestras y la producción repetitiva. Así queda claro qué se está cotizando, qué debe demostrar la muestra y qué falta acordar para el pedido.
 
-Componentes roscados mixtos y formas de hombros en una mesa de exhibición
+##### Plano y oferta
 
-Vástagos roscados, hombros y componentes tubulares fotografiados juntos
+Identifique el plano vigente, las piezas acopladas, el material, el acabado y las características críticas. Registre las dudas y los supuestos de la oferta, incluida la ruta propuesta y los procesos o ensayos previstos con terceros.
 
-#### Muestreo, utillaje y planificación de la producción.
+##### Utillaje y muestras
 
-El plazo habitual de utillaje y muestras es de aproximadamente 10–15 días. Se confirma tras revisar plano, material, geometría, acabado e inspección. Defina el inicio en la oferta; la entrega de producción se acuerda aparte según cantidad y ruta aprobada.
+Prevea aproximadamente 10–15 días para utillaje y muestras, sujetos a revisión técnica y confirmación de la oferta. Antes de empezar, acuerde el hito de inicio, la cantidad y las comprobaciones; la aprobación de la muestra es una decisión aparte.
 
-Envíe una revisión del dibujo de ingeniería, la cantidad de muestra, el volumen de pedido esperado y la aplicación prevista. Identifique las dimensiones funcionales y los documentos requeridos para que la revisión técnica pueda resolver los detalles importantes antes de la aprobación de herramientas y muestras.
+##### Producción repetitiva
 
-Prepare la lista de verificación de RFQ ↗ Comparar rutas de fabricación completas ↗
+Con la muestra y la revisión del plano aprobadas, acuerde cantidad, identificación de lote, documentos y entrega. La capacidad mensual es de varios millones de piezas entre distintos productos; la asignación y los plazos dependen de la ruta y del pedido.
+
+Preparar los requisitos de aprobación de muestras ↗
 
 ### Solicite una cotización de tornillos personalizados
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/request-a-quote/
@@ -1550,6 +1572,20 @@ Explore un ensamblaje propuesto, las opciones de sujetadores, una revisión de f
 
 Ver el hombro y el conjunto axial del utillaje ↗
 
+#### Comprobar por separado el ajuste del hombro y la holgura axial
+
+El hombro y el taladro guían el movimiento; la distancia entre las caras de apoyo determina la cadena axial. Defina ambas interfaces en el estado final de suministro, sin tratar el ajuste de rosca como ajuste de guiado.
+
+1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Hombro y taladro: indique los límites de ambas cotas, el eje de referencia y los requisitos funcionales de superficie.
+
+Apoyo y transición: muestre el chaflán o alojamiento de la pieza acoplada para que el filete incompleto o la garganta no impidan el asiento.
+
+Tras el acabado: identifique las superficies afectadas por el tratamiento o recubrimiento y cuándo se comprobará el ajuste final.
+
+Revise el cálculo de holgura de abajo junto con estas interfaces. Una holgura axial correcta no confirma por sí sola el ajuste del taladro ni la relación geométrica exigida.
+
 #### Calcular el juego axial con ambos extremos de tolerancia
 
 En una placa móvil, compare la longitud del hombro con todo el conjunto entre las caras de apoyo. Incluya arandela, casquillo y placa; la longitud total del tornillo no determina el juego.
@@ -1676,6 +1712,20 @@ Por Theo Wan Leer guía técnica →
 ¿Las opciones de materiales y acabados están preaprobadas? No. Las opciones disponibles deben confirmarse para su pieza real. Lea nuestro guía de selección de materiales para que la información se prepare.
 
 ¿Cómo se acuerda el alcance de la calidad? Defina las características críticas y las necesidades de documentación durante la revisión. Vea nuestro enfoque de planificación de calidad .
+
+#### Revisar el tornillo imperdible en las dos posiciones de servicio
+
+El tornillo imperdible forma parte del panel y su retenedor. Revise la posición liberada igual que la apretada: el acoplamiento útil de rosca y el recorrido retenido son requisitos distintos.
+
+1 2 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Liberado: el tornillo sale de la rosca receptora, pero el retenedor elegido lo mantiene unido al panel.
+
+Apretado: la cabeza apoya correctamente, el retenedor dispone de espacio y se mantiene el acoplamiento de rosca requerido.
+
+Revisión del conjunto: aporte espesor del panel, detalles del orificio de retención, geometría del retenedor y secuencia de montaje.
+
+Acuerde por separado la prueba de retención, el ensayo de desmontaje y montaje, y el control de rosca. El esquema ilustra un retenedor independiente; la solución real debe corresponder al conjunto.
 
 #### Diseñar el sistema de retención juntos
 
@@ -2129,6 +2179,20 @@ Explore un ensamblaje propuesto, las opciones de sujetadores, una revisión de f
 
 Revise el concepto de unidad de servicio del gabinete ↗
 
+#### Comprobar el acceso de la herramienta a la huella instalada
+
+Seleccione la huella junto con la herramienta de mantenimiento y la carcasa. La punta correcta solo sirve si puede alcanzar, acoplar y girar el tornillo instalado.
+
+1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Huella y punta: defina el perfil y la profundidad de acoplamiento; en una huella con tetón, incluya el tetón y la holgura de la punta correspondiente.
+
+Envolvente de acceso: muestre la aproximación de la herramienta, las paredes próximas y el espacio para introducirla y retirarla.
+
+Prueba de servicio: compruebe el montaje y la retirada autorizada con la carcasa representativa y la herramienta correspondiente.
+
+Separe la aceptación de la huella y la del acceso. Un perfil con tetón puede dificultar la manipulación casual, pero por sí solo no establece una clasificación de seguridad.
+
 #### Especifique la unidad, no solo su nombre
 
 Las unidades con pasador de seis lóbulos, cinco lóbulos, tipo Y, triangulares y de dos orificios son interfaces diferentes. Incluso los huecos de apariencia similar pueden tener perfiles diferentes. Proporcione un plano de ingeniería controlado o una especificación de herramienta coincidente, incluida la profundidad del hueco, la geometría del pasador central y las tolerancias. Una fotografía puede identificar la familia general, pero no puede establecer si un tornillo de producción se ajustará a la herramienta de servicio.
@@ -2253,6 +2317,20 @@ Requisito funcional Espacio libre para cables o condiciones de prueba de fluidos
 ¿Puede CCD inspeccionar el orificio completo? La inspección de la silueta externa no puede establecer el paso interno completo. La geometría del orificio y los bordes internos necesitan controles complementarios adecuados.
 
 ¿Los tornillos huecos tienen capacidad de presión? Un orificio pasante no crea una clasificación de presión. Para la aplicación se debe especificar el material, el diseño del sellado, las condiciones de servicio y la verificación requerida.
+
+#### Revisar la pared mínima y la arista interior oculta
+
+Relacione el conducto con los detalles exteriores mediante una sección. La pared mínima puede estar junto a la raíz de rosca o a una intersección, no en el diámetro exterior mayor.
+
+1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Raíz de rosca y taladro: defina la sección restante con la geometría de rosca aplicable y la posición del taladro.
+
+Intersección de taladros: identifique la arista interna, el requisito de rebaba y un procedimiento viable de desbarbado e inspección.
+
+Conducto terminado: acuerde paso libre, aristas de entrada y salida y limpieza antes de que el montaje impida acceder al interior.
+
+El cribado CCD exterior puede comprobar el perfil visible. Verifique las características interiores inaccesibles con otro método adecuado y use la matriz siguiente para distinguir paso de cables, caudal y sellado.
 
 #### Especificar el paso interior, además del exterior del tornillo
 
@@ -2384,6 +2462,20 @@ Sistema de superficie Especificaciones del recubrimiento, cobertura y cualquier 
 Explore un ensamblaje propuesto, las opciones de sujetadores, una revisión de fabricación y un plan de validación de muestra. Este es un estudio de diseño ilustrativo, sin reclamos de entrega al cliente ni desempeño medido.
 
 Revisión del asiento de brida en un concepto de gabinete automotriz ↗
+
+#### Comparar el apoyo antes de aumentar la brida
+
+Una brida mayor cambia la zona de contacto, pero la pieza sujetada sigue determinando si ese contacto resulta útil. Compare la cara de apoyo, el recubrimiento y el asiento disponible.
+
+1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Brida integral lisa: defina la cara útil de apoyo, los radios próximos y la holgura con el alojamiento acoplado.
+
+Brida integral dentada: revise el contacto previsto de los dientes, las marcas permitidas y el efecto sobre el recubrimiento.
+
+Arandela independiente: incluya dimensiones, dureza u otra condición exigida y su contribución a la cadena axial.
+
+Registre qué caras deben contactar y cuáles deben quedar libres. Si importan las marcas, la precarga o el mantenimiento repetido, acuerde una prueba del sistema superficial real en lugar de deducir el rendimiento del diámetro de brida.
 
 #### Trate la brida como una interfaz de rodamiento.
 
@@ -2664,6 +2756,24 @@ Estado de los materiales Grado, propiedades finales requeridas y acabado. Especi
 ¿Qué punto es mejor para un eje? La respuesta depende de la superficie del eje, de las marcas permitidas y de si la punta se fija o se fija. Suministre la geometría de acoplamiento y el requisito funcional.
 
 ¿Se puede especificar la fuerza de sujeción únicamente a partir del tamaño del tornillo? No. El compromiso, el contacto, el material, el ensamblaje y la carga afectan la conexión completa. El diseño responsable debe establecer el requisito.
+
+#### Elegir la punta según el contacto con la pieza acoplada
+
+La forma de la punta determina el contacto. Elíjala según la superficie acoplada, la frecuencia de ajuste y las marcas admisibles; después defina rosca útil y acceso de la herramienta.
+
+1 2 3 4 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Punta plana: defina la superficie acoplada y las marcas de contacto admisibles.
+
+Punta cónica: muestre el rebaje previsto o la indentación permitida y la posición donde debe actuar.
+
+Punta cilíndrica: defina la proyección y el agujero o ranura acoplados; compruebe holgura y profundidad disponible.
+
+Punta de copa: revise el contacto del borde y la indentación frente al daño permitido en la superficie acoplada.
+
+Revise el ajuste repetido y la retención en la unión real. La geometría de punta y el diámetro del tornillo no proporcionan una fuerza de retención ni un par de apriete universales.
+
+Comparar las cuatro puntas y la hoja de selección ↗
 
 #### Elija el punto alrededor de la superficie de contacto
 
@@ -9798,7 +9908,7 @@ PROCESO / ACEPTACIÓN
 
 Comprobaciones ópticas sin contacto de la longitud del tornillo, el diámetro de la cabeza y los perfiles escalonados visibles, combinadas con los calibres y pruebas requeridos por el plano de ingeniería.
 
-Inspección dimensional y visión CCD
+Ilustración de inspección CCD para explicar el método; no es una fotografía de equipos de ZUFEK.
 
 #### CCD comprobaciones de dimensiones ópticas
 
@@ -9858,17 +9968,21 @@ Las imágenes ayudan a explicar la geometría y el acabado. Las propiedades del 
 
 Ejemplo del resultado del proceso; los requisitos finales se rigen por el plano aprobado.
 
-#### Entradas y salidas para CCD Inspección dimensional y de visión
+#### Asignar a cada característica su evidencia de inspección
 
-La revisión del proceso comienza con tornillos de hombro y escalonados, diseños de cáncamos de elevación personalizados, tornillos y pernos de remachado personalizados, tornillos huecos y de orificio pasante y el dibujo de ingeniería real, no una lista genérica de equipos. Identifique el stock entrante o el estado de la pieza y las dimensiones que deben permanecer controladas en esta etapa.
+En un tornillo con hombro y taladro, separe las características. Este ejemplo de planificación muestra por qué la imagen exterior, un calibre de rosca y una comprobación interna no son intercambiables.
 
-Utilice los temas de proceso anteriores para resolver las comprobaciones de dimensiones ópticas del ccd; verificación complementaria; controles materiales y mecánicos; controles de superficie y especializados; muestreo versus inspección completa. Registre los requisitos seleccionados en la especificación del pedido. El nombre de un proceso no establece la tolerancia resultante, la clase de propiedad o la cobertura de inspección.
+Asignar a cada característica su evidencia de inspección Característica del plano Método por acordar Etapa de aceptación Registro que conservar
 
-#### Coordinar la próxima operación.
+Perfil visible del hombro Medición óptica calibrada adecuada; valide la presentación y el programa para la característica. Estado final de suministro; añada un control intermedio si las operaciones posteriores ocultan la característica. Identificador, revisión del programa o método, límites, cobertura y resultado medido o de cribado.
 
-La próxima revisión puede involucrar tratamiento térmico o limpieza, bloqueo y ensamblaje de materiales específicos. Compruebe qué superficies se utilizan para localizar la pieza, si la siguiente operación cambia de dimensiones y en qué etapa se mide la aceptación final. Cuando un requisito no pueda verificarse después del montaje o acabado, acuerde una verificación intermedia y una verificación final.
+Rosca y acoplamiento útil Calibres de rosca especificados y, cuando proceda, una comprobación independiente de longitud útil. Después de las operaciones que afectan a la rosca suministrada. Designación de rosca, identificación del calibre, resultado y requisito de longitud útil.
 
-Para muestras que involucran herramientas, el tiempo de entrega típico es de aproximadamente 10–15 días, sujeto a la revisión de los planos de ingeniería y la confirmación del material, el acabado y el alcance de la inspección. La ruta completa determina el horario confirmado; la duración no es una promesa para cada proceso individual.
+Conducto interno e intersección Medición del taladro accesible adecuada y comprobación de la arista interna acordada por separado. Antes de que el cierre o montaje limiten el acceso; confirme el estado final requerido. Requisito de taladro y arista, método, etapa, resultado y limitaciones de acceso.
+
+Asiento, movimiento o retención Prueba con las piezas acopladas identificadas y un procedimiento de montaje acordado. Aprobación de muestras y comprobaciones repetidas previstas para el pedido. Revisión de la pieza acoplada, criterio, resultado, desviación y aprobación.
+
+Confirme en la oferta la idoneidad del equipo, las pruebas externas y los informes. La matriz es un ejemplo de planificación, no un informe de inspección completado.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 

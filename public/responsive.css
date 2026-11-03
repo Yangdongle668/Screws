@@ -99,3 +99,19 @@ body:not(.admin-page) main :where(a,button,li,h1,h2,h3,p){min-width:0}
 #article-seo-tools-dialog section{padding:16px 0;border-bottom:1px solid #dce2e3}
 #article-seo-tools-dialog pre{white-space:pre-wrap;overflow-wrap:anywhere;max-width:100%;padding:12px;background:#f3f5f4}
 #article-seo-tools-dialog button{min-height:44px}
+
+/* Drawing-led product reviews and order-specific release checkpoints. */
+.practical-section{min-width:0}
+.practical-section>p{max-width:80ch}
+.practical-diagram{margin:24px 0;padding:16px;border:1px solid var(--border,#d7dfe1);background:#fff}
+.practical-diagram svg{display:block;width:100%;max-width:840px;height:auto;margin:auto}
+.practical-diagram figcaption{margin-top:12px}
+.practical-legend{padding-left:28px;display:grid;gap:12px;max-width:80ch}
+.practical-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin:24px 0}
+.practical-steps>article{min-width:0;padding:24px;border:1px solid var(--border,#d7dfe1);background:#fff}
+.practical-steps h3{margin-top:0}.practical-steps p{margin-bottom:0}
+.quality-company-photo{margin:0}.quality-company-photo img{display:block;width:100%;height:auto}
+.quality-company-photo figcaption{margin-top:12px}
+.home-company-link{margin:20px 0}.home-company-link a{text-underline-offset:4px}
+@media(max-width:900px){.practical-steps{grid-template-columns:minmax(0,1fr);gap:16px}}
+@media(max-width:600px){.practical-diagram{padding:8px}.practical-steps>article{padding:20px}}

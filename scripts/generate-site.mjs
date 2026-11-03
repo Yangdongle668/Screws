@@ -1,5 +1,6 @@
 import {applyQualityRevisions,qualityAids,referenceGallery,writeQualityAssets} from './quality-content.mjs';
 import {buyerCopy,buyerMetadata,buyerJump,writeBuyerAssets} from './buyer-content.mjs';
+import {practicalSection,practicalImageCaption,practicalCopy} from './practical-content.mjs';
 import {deepContent,registerDeepContent} from './deep-content.mjs';
 import {registerResourcePages} from './resource-pages.mjs';
 import {enrichHome} from './home-sections.mjs';
@@ -75,12 +76,15 @@ function add(url,title,description,body,{schema=null,noindex=false}={}){
  body=priorityBody(url,body);
  const process=processData.find(p=>url===`/capabilities/${p.slug}/`);if(process)body=body.replace('<section class="cta-band">',processResultImage(process.slug)+'<section class="cta-band">');
  const aid=articleQualityAids[url.split('/')[2]];if(url.startsWith('/blog/')&&aid)body=body.replace('<article class="article-prose">','<article class="article-prose">'+aid);
-  if(['/about/','/products/custom-screws/','/quality/'].includes(url))body=body.replace('<section class="cta-band">',referenceGallery()+'<section class="cta-band">');
- const depth=contentDepth(url);if(depth)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',depth+'<section class="cta-band">'):body+depth;
+   if(['/products/custom-screws/','/quality/'].includes(url))body=body.replace('<section class="cta-band">',referenceGallery()+'<section class="cta-band">');
+  const practical=practicalSection(url);if(practical)body=body.replace('<section class="cta-band">',practical+'<section class="cta-band">');
+  const depth=['/about/','/capabilities/inspection/'].includes(url)?'':contentDepth(url);if(depth)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',depth+'<section class="cta-band">'):body+depth;
  if(url.startsWith('/blog/')){const article=articles.find(a=>url==='/blog/'+a.slug+'/');if(article?.processes){const block='<section class="section muted"><h2>Related manufacturing topics</h2><div class="related-links">'+article.processes.map(slug=>'<a href="/capabilities/'+slug+'/">'+processData.find(p=>p.slug===slug).name+' ↗</a>').join('')+'</div>'+(article.sources?.length?'<div class="technical-sources"><h3>Technical references</h3><ul>'+article.sources.map(([n,u])=>'<li><a href="'+u+'">'+n+'</a></li>').join('')+'</ul></div>':'')+'</section>';body=body.replace('<section class="cta-band">',block+'<section class="cta-band">');}}
  if(url==='/resources/'){body=body.replace('<section class="cta-band">','<section class="section"><h2>Explore the complete specification.</h2><div class="related-links"><a href="/guides/drive-types/">Special drive interface guide ↗</a><a href="/capabilities/process-routes/">Complete manufacturing route examples ↗</a><a href="/materials/">Material selection by family ↗</a></div></section><section class="cta-band">');}
  if(url.startsWith('/blog/')&&url!=='/blog/'){const article=articles.find(a=>url==='/blog/'+a.slug+'/');if(article){const heroSlug=article.processes?.[0]??article.product;body=body.replace('<div class="article-layout">','<div class="article-visual">'+catalogImage(heroSlug,{hero:true,caption:true})+'</div><div class="article-layout">');}}
  if(url==='/quality/')body=body.replace('</header>','</header><div class="process-visual">'+catalogImage('inspection',{hero:true,caption:true})+'</div>');
+  body=practicalImageCaption(url,body);
+  if(url==='/')body=body.replace('<div class="hero-notes">','<p class="home-company-link"><a href="/about/#sample-planning">'+practicalCopy.homeLink+'<span aria-hidden="true"> ↗</span></a></p><div class="hero-notes">');
  const topicBlock=buildTopicLinks(url,body,articles);if(topicBlock)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',topicBlock+'<section class="cta-band">'):body+topicBlock;
  if(schema?.['@type']==='BlogPosting'){const a=articles.find(a=>url==='/blog/'+a.slug+'/');if(a){schema.about={'@id':origin+'/products/'+a.product+'/#manufacturing-service'};if(a.sources?.length)schema.citation=a.sources.map(([name,url])=>({'@type':'CreativeWork',name,url}));}schema.publisher={...schema.publisher,'@id':origin+'/#organization'};}
  const active=url.split('/')[1];

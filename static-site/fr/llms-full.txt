@@ -40,7 +40,9 @@ CONÇUES SUR MESURE
 
 DONGGUAN ZUFEK PRECISION CO., LTD. Depuis 2005, nous fabriquons des vis métalliques sur mesure à Dalang, Dongguan. Outillage, échantillons et production suivent votre plan approuvé.
 
-Parlons de votre pièce sur mesure ↗ Découvrir les produits ↗ 01 / Revue technique sur plan 02 / Sourcing B2B CONÇU AUTOUR DE VOS BESOINS ZF—01 Vis à épaulement et vis étagées
+Parlons de votre pièce sur mesure ↗ Découvrir les produits ↗ Entreprise et préparation des échantillons ↗
+
+01 / Revue technique sur plan 02 / Sourcing B2B CONÇU AUTOUR DE VOS BESOINS ZF—01 Vis à épaulement et vis étagées
 
 Vis de sécurité et anti-effraction
 
@@ -172,7 +174,7 @@ Les nuances de titane sont prises en compte lorsque la masse, l'exposition à la
 
 Contrôles optiques sans contact pour la longueur des vis, le diamètre de la tête et les profils étagés visibles, combinés aux jauges et aux tests requis par le dessin technique.
 
-Contrôle dimensionnel et vision CCD ↗ Définir le contrôle. Convenir des justificatifs. ↗ Contrôle dimensionnel et vision CCD
+Contrôle dimensionnel et vision CCD ↗ Définir le contrôle. Convenir des justificatifs. ↗ Illustration du contrôle CCD pour expliquer la méthode ; il ne s’agit pas d’une photographie d’un équipement ZUFEK.
 
 04 / CONNAISSANCES EN INGÉNIERIE
 
@@ -215,7 +217,7 @@ dessin technique À L'ACCEPTATION
 
 Construisez le plan d'inspection autour des caractéristiques fonctionnelles, des risques et des exigences d'acceptation de la commande réelle.
 
-Ce qu’un relevé de contrôle doit permettre de vérifier ↓ Contrôle dimensionnel et vision CCD
+Ce qu’un relevé de contrôle doit permettre de vérifier ↓ Illustration du contrôle CCD pour expliquer la méthode ; il ne s’agit pas d’une photographie d’un équipement ZUFEK.
 
 #### Dimensions et géométrie
 
@@ -274,6 +276,24 @@ Ces photographies de référence montrent des formes de produits visibles. Ils n
 Composants filetés mixtes et formes d'épaule sur une table d'affichage
 
 Tiges filetées, épaulements et composants tubulaires photographiés ensemble
+
+#### Définir trois étapes claires de libération
+
+Reliez approbation des échantillons, réception du lot et modifications par l’indice du plan et les identifiants des caractéristiques. Convenez des documents de la commande avant production.
+
+##### Approuver la définition de l’échantillon
+
+Identifiez l’indice du plan, la gamme de l’échantillon, les caractéristiques critiques et les pièces en regard. Indiquez si le dossier comprend mesures, résultats de tri, documents matière ou essai d’assemblage.
+
+##### Réceptionner le lot dans son état de livraison
+
+Pour chaque caractéristique, convenez de la méthode, de l’étape, de la couverture et de l’enregistrement. Distinguez les mesures individuelles du tri conforme/non conforme et précisez séparément les rapports d’essais externes.
+
+##### Traiter modifications et écarts
+
+Consignez avant libération l’exigence concernée, la décision proposée et son approbation. Si le plan, la gamme ou la finition change, identifiez les contrôles et approbations d’échantillons à renouveler.
+
+Construire un plan de contrôle par caractéristique ↗
 
 #### Ce qu’un relevé de contrôle doit permettre de vérifier
 
@@ -880,7 +900,7 @@ Notre site de Dalang place l’entreprise au sein de la communauté manufacturi�
 
 Notre capacité de production est de l’ordre de plusieurs millions de pièces par mois. Le rendement réel, l'attribution des commandes et le délai de livraison dépendent de la complexité de la pièce, du matériau, de l'outillage, des opérations secondaires et de l'étendue de l'inspection convenue.
 
-Découvrez notre gamme de produits ↗ Vis métalliques sur mesure
+Découvrez notre gamme de produits ↗ Formes de pièces visibles sur les photographies d’échantillons fournies par l’entreprise.
 
 EXPÉRIENCE DES COMPOSANTS AUTOMOBILES
 
@@ -926,21 +946,23 @@ Deux études illustratives relient les besoins de montage à la géométrie, au 
 
 Boîtier de module automobile ↗ Pivot et outillage de réglage pour l’automatisation ↗ Voir les études de conception applicative ↗
 
-#### Photographies de produits fournies pour ce site
+#### Définir les étapes avant de lancer l’outillage
 
-Ces photographies de référence montrent des formes de produits visibles. Ils n'établissent pas la qualité du matériau, les dimensions, les résultats d'inspection ou l'application client livrée.
+Distinguez devis, approbation des échantillons et production récurrente : précisez ce qui est chiffré, ce que l’échantillon doit démontrer et les points restant à convenir pour la commande.
 
-Composants filetés mixtes et formes d'épaule sur une table d'affichage
+##### Plan et devis
 
-Tiges filetées, épaulements et composants tubulaires photographiés ensemble
+Identifiez le plan en vigueur, les pièces en regard, le matériau, la finition et les caractéristiques critiques. Consignez les points ouverts et hypothèses du devis, y compris la gamme proposée et les opérations ou essais prévus en externe.
 
-#### Échantillonnage, outillage et planification de la production
+##### Outillage et échantillons
 
-Le délai habituel d’outillage et d’échantillonnage est d’environ 10–15 jours. Il est confirmé après revue du plan, de la matière, de la géométrie, de la finition et des contrôles. Préciser le départ au devis ; la livraison de série est convenue séparément selon quantité et gamme approuvée.
+Prévoyez environ 10–15 jours pour l’outillage et les échantillons, sous réserve de revue technique et de confirmation du devis. Convenez au préalable du point de départ, de la quantité et des contrôles ; l’approbation des échantillons est une étape distincte.
 
-Envoyez une révision du dessin technique, la quantité d’échantillon, le volume de commande attendu et l’application prévue. Identifiez les dimensions fonctionnelles et les documents requis afin que l'examen technique puisse résoudre les détails importants avant l'approbation de l'outillage et des échantillons.
+##### Production récurrente
 
-Préparer la liste de contrôle de la RFQ ↗ Comparez les itinéraires de fabrication complets ↗
+À partir de l’échantillon et de l’indice du plan approuvés, convenez de la quantité, de l’identification du lot, des documents et de la livraison. La capacité mensuelle est de plusieurs millions de pièces, tous produits confondus ; l’allocation et les délais dépendent de la gamme et de la commande.
+
+Préparer les exigences d’approbation des échantillons ↗
 
 ### Demander un devis de vis personnalisé
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/request-a-quote/
@@ -1550,6 +1572,20 @@ Explorez un assemblage proposé, les choix de fixations, l'examen de la fabricat
 
 Examiner l’épaulement et l’empilage axial de l’outillage ↗
 
+#### Vérifier séparément l’ajustement dans l’alésage et le jeu axial
+
+L’épaulement et l’alésage guident le mouvement ; la distance entre les faces d’appui définit la chaîne axiale. Précisez les deux dans l’état final de livraison, sans assimiler l’ajustement du filetage à celui du guidage.
+
+1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Épaulement et alésage : indiquez les limites des deux cotes, l’axe de référence et les exigences fonctionnelles de surface.
+
+Appui et transition : représentez le chanfrein ou le lamage de la pièce en regard pour éviter toute interférence du filet incomplet ou du dégagement.
+
+Après finition : identifiez les surfaces affectées par le traitement ou le revêtement et l’étape de contrôle de l’ajustement final.
+
+Lisez le calcul du jeu ci-dessous avec ces interfaces. Un jeu axial satisfaisant ne valide à lui seul ni l’ajustement dans l’alésage ni la relation géométrique requise.
+
 #### Calculer le jeu axial aux deux limites de tolérance
 
 Pour une plaque mobile, comparer la longueur de l’épaulement à l’empilage complet entre les faces d’appui. Inclure rondelle, bague et plaque : la longueur totale de la vis ne détermine pas le jeu.
@@ -1676,6 +1712,20 @@ Puis-je soumettre un dessin technique incomplet ? Oui. Marquez les détails non 
 Les options de matériaux et de finition sont-elles pré-approuvées ? Non. Les options disponibles doivent être confirmées pour votre pièce réelle. Lisez notre guide de choix des matériaux pour les informations à préparer.
 
 Comment le périmètre de qualité est-il convenu ? Définir les fonctionnalités critiques et les besoins en documentation lors de l’examen. Voir notre approche de planification de la qualité .
+
+#### Examiner la vis imperdable dans ses deux positions de service
+
+La vis imperdable fait partie d’un ensemble comprenant panneau et dispositif de retenue. Vérifiez autant la position desserrée que serrée : longueur utile d’engagement et course retenue répondent à des exigences distinctes.
+
+1 2 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Desserrée : la vis se dégage du taraudage tout en restant solidaire du panneau grâce au dispositif de retenue choisi.
+
+Serrée : la tête porte correctement, le dispositif de retenue dispose de son espace et l’engagement requis reste disponible.
+
+Revue de l’ensemble : fournissez l’épaisseur du panneau, le trou de retenue, la géométrie du dispositif et la séquence de montage.
+
+Convenez du contrôle de retenue et de l’essai de démontage/remontage séparément du contrôle du filetage. Le schéma illustre un dispositif séparé ; la solution réelle doit correspondre à l’ensemble.
 
 #### Concevoir ensemble le système de rétention
 
@@ -2129,6 +2179,20 @@ Explorez un assemblage proposé, les choix de fixations, l'examen de la fabricat
 
 Revoir le concept de service-drive du boîtier ↗
 
+#### Adapter l’empreinte à l’accès de l’outil une fois la vis montée
+
+Choisissez l’empreinte avec l’outil de maintenance et le boîtier. Un embout compatible n’est utile que s’il peut atteindre, engager et tourner la vis montée.
+
+1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Empreinte et embout : précisez le profil et la profondeur d’engagement ; pour une empreinte avec téton, ajoutez le téton et le dégagement de l’embout adapté.
+
+Enveloppe d’accès : représentez l’approche de l’outil, les parois voisines et l’espace nécessaire à son insertion et à son retrait.
+
+Essai de maintenance : vérifiez la pose et la dépose autorisée avec un boîtier représentatif et l’outil adapté.
+
+Distinguez réception de l’empreinte et vérification de l’accès. Un profil avec téton peut limiter les démontages non autorisés courants, sans établir à lui seul un niveau de sécurité.
+
 #### Spécifiez le lecteur, pas seulement son nom
 
 Les entraînements Pin-in à six lobes, cinq lobes, de type Y, triangulaires et à deux trous sont des interfaces différentes. Même des évidements d'apparence similaire peuvent avoir des profils différents. Fournissez un dessin technique contrôlé ou une spécification d'outil correspondant, y compris la profondeur de l'évidement, la géométrie de la broche centrale et les tolérances. Une photographie peut identifier la famille générale, mais ne peut pas établir si une vis de production conviendra à l'outil de service.
@@ -2253,6 +2317,20 @@ Exigence fonctionnelle Dégagement des câbles ou conditions de test de fluide d
 CCD peut-il inspecter l'alésage complet ? L'inspection de la silhouette externe ne peut pas établir le passage interne complet. La géométrie des alésages et les bords internes nécessitent des contrôles complémentaires appropriés.
 
 Les vis creuses sont-elles résistantes à la pression ? Un trou traversant ne crée pas de pression nominale. Le matériau, la conception du joint, les conditions de service et la vérification requise doivent être spécifiés pour l'application.
+
+#### Examiner la paroi minimale et l’arête intérieure masquée
+
+Reliez le passage aux formes extérieures par une vue en coupe. La paroi résiduelle critique peut se situer au fond du filet ou à une intersection, plutôt qu’au plus grand diamètre extérieur.
+
+1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Fond du filet et alésage : définissez la section restante à partir de la géométrie du filetage et de la position de l’alésage.
+
+Intersection des perçages : identifiez l’arête intérieure, l’exigence d’ébavurage et une méthode réalisable de traitement et de contrôle.
+
+Passage fini : convenez de la section libre, de l’état des entrées et sorties et du nettoyage avant que le montage ne rende l’intérieur inaccessible.
+
+Le contrôle CCD extérieur peut vérifier le profil visible. Contrôlez les caractéristiques internes inaccessibles par une méthode complémentaire adaptée ; la matrice ci-dessous distingue passage de câbles, écoulement et étanchéité.
 
 #### Définir le passage intérieur, pas seulement l’extérieur de la vis
 
@@ -2384,6 +2462,20 @@ Une bride intégrale est-elle toujours équivalente à une rondelle ? Comparez l
 Explorez un assemblage proposé, les choix de fixations, l'examen de la fabrication et le plan de validation des échantillons. Il s'agit d'une étude de conception illustrative, sans livraison client revendiquée ni performance mesurée.
 
 Revue des sièges à bride dans un concept de boîtier automobile ↗
+
+#### Comparer l’appui avant d’agrandir l’embase
+
+Une embase plus grande modifie la zone de contact, mais c’est la pièce serrée qui détermine l’utilité de cet appui. Comparez face, revêtement et surface d’appui disponible.
+
+1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Embase lisse intégrée : définissez la face utile d’appui, les rayons voisins et le dégagement dans le logement en regard.
+
+Embase crantée intégrée : examinez le contact des dents, les marques admissibles et l’effet sur le revêtement en regard.
+
+Rondelle séparée : précisez dimensions, dureté ou autre état requis, ainsi que sa contribution à la chaîne axiale.
+
+Consignez les faces autorisées au contact et celles devant rester dégagées. Si les marques, la précharge ou la maintenance répétée sont importantes, convenez d’un essai avec le système de surface réel plutôt que de déduire les performances du diamètre d’embase.
 
 #### Traitez la bride comme une interface de roulement
 
@@ -2664,6 +2756,24 @@ Profondeur installée Accès aux outils et engagement efficace Vérifier la posi
 Quel point est le meilleur pour un arbre ? La réponse dépend de la surface de l'arbre, du marquage autorisé et du fait que le point se fixe ou se localise. Fournissez la géométrie d’accouplement et les exigences fonctionnelles.
 
 La force de maintien peut-elle être spécifiée uniquement à partir de la taille de la vis ? Non. L’engagement, le contact, le matériau, l’assemblage et le chargement affectent la connexion complète. La conception responsable doit établir l’exigence.
+
+#### Choisir l’extrémité selon son contact avec la pièce en regard
+
+La forme de l’extrémité détermine le contact. Choisissez-la selon la surface en regard, la fréquence de réglage et les marques admissibles, puis précisez filetage utile et accès de l’outil.
+
+1 2 3 4 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Bout plat : définissez la face en regard et les marques de contact admissibles.
+
+Bout conique : représentez le logement prévu ou l’indentation autorisée et sa position.
+
+Téton : définissez la saillie et le trou ou la rainure en regard ; vérifiez jeu et profondeur disponible.
+
+Bout cuvette : comparez le contact du bord et l’indentation à l’endommagement admissible de la surface en regard.
+
+Vérifiez les réglages répétés et le maintien sur l’assemblage réel. La forme de l’extrémité et le diamètre de vis ne donnent pas à eux seuls une valeur universelle de force de maintien ou de couple de serrage.
+
+Comparer les quatre extrémités et la fiche de sélection ↗
 
 #### Choisissez le point autour de la surface de contact
 
@@ -9798,7 +9908,7 @@ PROCESSUS / ACCEPTATION
 
 Contrôles optiques sans contact pour la longueur des vis, le diamètre de la tête et les profils étagés visibles, combinés aux jauges et aux tests requis par le dessin technique.
 
-Contrôle dimensionnel et vision CCD
+Illustration du contrôle CCD pour expliquer la méthode ; il ne s’agit pas d’une photographie d’un équipement ZUFEK.
 
 #### CCD contrôles optiques des dimensions
 
@@ -9858,17 +9968,21 @@ Les images illustrent la géométrie et la finition. Les propriétés du matéri
 
 Exemple de résultat du procédé ; les exigences finales suivent le plan approuvé.
 
-#### Entrées et sorties pour CCD Vision & Inspection dimensionnelle
+#### Associer chaque caractéristique à sa preuve de contrôle
 
-L'examen du processus commence par les vis à épaulement et à marchepied, les conceptions de boulons à œil de levage personnalisés, les vis et goujons à clincher personnalisés, les vis creuses et traversantes et le dessin technique lui-même, et non une liste d'équipement générique. Identifiez l’état du stock ou de la pièce entrant et les dimensions qui doivent rester contrôlées à cette étape.
+Pour une vis à épaulement percée, séparez les caractéristiques à contrôler. Cet exemple de planification montre pourquoi image extérieure, calibre de filetage et contrôle intérieur ne sont pas interchangeables.
 
-Utilisez les rubriques de processus ci-dessus pour résoudre les contrôles de dimensions optiques CCD ; vérification complémentaire; contrôles matériels et mécaniques ; contrôles de surface et spécialisés ; échantillonnage versus inspection complète. Enregistrez les exigences sélectionnées dans les spécifications de la commande. Un nom de processus n'établit pas la tolérance, la classe de propriété ou la couverture d'inspection qui en résulte.
+Associer chaque caractéristique à sa preuve de contrôle Caractéristique du plan Méthode à convenir Étape de réception Enregistrement à conserver
 
-#### Coordonner la prochaine opération
+Profil visible de l’épaulement Mesure optique étalonnée adaptée ; validez la présentation et le programme pour la caractéristique. État final de livraison ; ajoutez un contrôle intermédiaire si une opération ultérieure masque la caractéristique. Identifiant, version du programme ou de la méthode, limites, couverture et résultat de mesure ou de tri.
 
-Le prochain examen peut impliquer un traitement thermique spécifique au matériau ou un nettoyage, un verrouillage et un assemblage. Vérifiez quelles surfaces sont utilisées pour localiser la pièce, si l'opération suivante modifie les dimensions et à quelle étape la réception finale est mesurée. Lorsqu'une exigence ne peut être vérifiée après assemblage ou finition, convenir d'un contrôle intermédiaire ainsi que d'une vérification finale.
+Filetage et engagement utile Calibres de filetage spécifiés et, si nécessaire, contrôle distinct de la longueur utile. Après les opérations affectant le filetage livré. Désignation du filetage, identification du calibre, résultat et exigence de longueur utile.
 
-Pour les échantillons impliquant des outils, le délai de livraison typique est d'environ 10–15 jours, sous réserve de l'examen des dessins techniques et de la confirmation du matériau, de la finition et de la portée de l'inspection. L'itinéraire complet détermine l'horaire confirmé ; la durée n'est pas une promesse pour chaque processus individuel.
+Passage intérieur et intersection Mesure adaptée de l’alésage accessible et contrôle de l’arête intérieure convenu séparément. Avant que la fermeture ou le montage ne limite l’accès ; confirmez l’état final requis. Exigence de l’alésage et de l’arête, méthode, étape, résultat et limites d’accès.
+
+Appui, mouvement ou retenue Essai avec les pièces en regard identifiées et une procédure d’assemblage convenue. Approbation des échantillons et contrôles répétés prévus pour la commande. Indice de la pièce en regard, critère, résultat, écart et approbation.
+
+Confirmez au devis l’adéquation des équipements, les essais externes et le contenu des rapports. Cette matrice est un exemple de planification, pas un rapport de contrôle réalisé.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
