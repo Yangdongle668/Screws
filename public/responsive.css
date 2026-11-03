@@ -1,6 +1,7 @@
 /* Shared responsive rules: shrink content, never conceal page overflow. */
 /* Use the same aligned artwork in the header and footer, including its tagline. */
-.site-header .logo,.footer-main .logo{display:block;width:200px;max-width:100%;flex:0 0 auto;line-height:0}
+.site-header .logo,.footer-main .logo{display:block;width:160px;max-width:100%;flex:0 0 auto;line-height:0}
+.site-header{padding-top:16px;padding-bottom:16px}
 .footer-main .logo{width:220px}
 .logo>.zufek-brand-lockup{display:block;width:100%;height:auto;mix-blend-mode:multiply}
 .zufek-mobile-brand{display:none}

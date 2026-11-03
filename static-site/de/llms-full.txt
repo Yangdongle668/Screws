@@ -10255,6 +10255,14 @@ MATERIALIEN, STÄRKE UND ANWENDUNGEN
 
 Vergleichen Sie Qualität, Zustand, Festigkeit und Anwendungsanforderungen. Eine Materialfamilie allein bestimmt nicht die Belastbarkeit einer Sonderschraube.
 
+#### Eine Werkstoffspezifikation in drei Ebenen lesen
+
+Die Güte legt die chemische Zusammensetzung fest. Der Zustand beschreibt den Liefer- oder Behandlungszustand. Die Fertigteilanforderung bestimmt, was die Schraube nach der Fertigung erfüllen muss. Alle drei Angaben gehören in Zeichnung oder Bestellspezifikation.
+
+Zahlen nur auf gleicher Basis vergleichen: Produktform, Querschnitt, Zustand, Prüftemperatur sowie Nennwert, typischer Wert oder festgelegter Mindestwert. Ein Halbzeugwert ist keine zulässige Verbindungslast.
+
+Mit der Gütentabelle eine Vorauswahl bilden, anhand der Bearbeitungspunkte die Machbarkeit prüfen und mit dem Anfragebeispiel die RFQ vorbereiten. Alternativen müssen ausdrücklich gegen dieselben Anforderungen freigegeben werden.
+
 #### Mit der Werkstoffaufgabe beginnen
 
 Wählen Sie nach der wichtigsten Anforderung eine Werkstofffamilie für die nähere Prüfung. Vergleichen Sie anschließend genaue Güten und Zustände auf der Detailseite. Bis Verbindung und Umgebung definiert sind, können mehrere Familien geeignet bleiben.
@@ -10333,13 +10341,13 @@ Kohlenstoff- und legierter Stahl 8.8 nominelle Klassenreferenz 800 640 Nominale 
 
 SUS304 & SUS316 Edelstahl ISO 3506 Klasse 70 Referenz Mindestens 700 Mindestens 450 Anwendbare austenitische Verbindungselemente; Bestätigen Sie Sorte, Größe und Produktumfang.
 
-Aluminiumlegierungen 6061-T6 / T6511 Beispiel für extrudiertes Material Mindestens 260 Mindestens 240 Daten zum Wasserkraftbestand; Es gelten der Abschnitt und die Produktspezifikation.
+Aluminiumlegierungen 6061-T6 / T6511 Beispiel für extrudiertes Material Mindestens 260 Mindestens 240 Hydro-Strangpressreferenz: Die Dicke des Zugprobenquerschnitts bestimmt den Geltungsbereich; Bestellmaß und Spezifikation prüfen.
 
 Kupfer C11000, H02 halbharte Referenz Ungefähr 290 typisch Für den ausgewählten Bestand angeben CDA-Design-Guide-Bestandsreferenz; andere Temperamente und Formen unterscheiden sich.
 
 Messing C36000 Stab, H02 Referenz 386 typisch 310 typisch CDA-typische Stabwerte; Verwenden Sie zur Abnahme die bestellte Legierungs-/Härtespezifikation.
 
-Titan und Titanlegierungen Beispiel für geglühtes Ti-6Al-4V-Material Mindestens 896 Mindestens 827 Vom Zimmermann vorgegebene Mindestmaterialdaten; Überprüfen Sie die geltenden Lager- und Bestellanforderungen.
+Titan und Titanlegierungen Beispiel für geglühtes Ti-6Al-4V-Material 895 mindestens 828 mindestens Titanium-Engineers-Referenz für geglühtes Halbzeug; Abmessung, Zustand und Wärmebehandlung beeinflussen Kennwerte. Bestellte Produktspezifikation prüfen.
 
 Nennklassenwerte, Mindestspezifikationswerte und typische Lagerwerte werden separat gekennzeichnet. Für die tatsächliche Abnahme sind die jeweilige Güteklasse, Beschaffenheit, Größe, Produktspezifikation und vereinbarte Prüfmethode erforderlich.
 
@@ -10367,7 +10375,7 @@ Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforde
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
 
-### Kohlenstoff- und legierter Stahl – individuelle Schraubenstärke und Verwendungsmöglichkeiten
+### Schrauben aus Kohlenstoff- und legiertem Stahl: Güten und Festigkeit
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/carbon-alloy-steel/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -10378,11 +10386,11 @@ Eine praktische Wahl für durch Konstruktionszeichnungen definierte Verbindungse
 
 Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
-#### Festigkeitsreferenz
+#### Festigkeitskennwerte
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
+Mechanische Referenzwerte für den angegebenen Zustand Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
 
 8.8 nominelle Klassenreferenz 800 640 Nominale Bezeichnungswerte; Die tatsächlichen Standardmindestwerte hängen von der Anwendbarkeit und der Größe ab.
 
@@ -10396,13 +10404,15 @@ Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasi
 
 Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
 
-Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+Gütenvergleich dieser Werkstofffamilie Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
 
 C45 / C45E Stahl mit mittlerem Kohlenstoffgehalt; Bestellen Sie die aktuelle EN-Klasse und den Lieferzustand. Bearbeitete Schultern, Anschläge und allgemeine mechanische Teile, bei denen eine bestimmte Wärmebehandlung angebracht ist. Vergleichen Sie normalisierte, geglühte und vergütete Bedingungen. Vergleichbare Bezeichnungslisten berechtigen nicht zu einer Ersetzung.
 
 42CrMo4 Chrom-Molybdän-Stahl zum Härten und Anlassen. Belastete Gewindekomponenten, bei denen Festigkeit, Zähigkeit und Querschnittsgröße legierten Stahl rechtfertigen. Härtbarkeit und Abschnittsgröße sind wichtig. Schließen Sie nicht allein aus der Note auf eine abgeschlossene 10.9- oder 12.9-Klasse.
 
 SAE 4140 Geben Sie die SAE-Klasse und die maßgebliche Materialspezifikation explizit an. Eine zeichnungsdefinierte Alternative zur Bewertung, ob in der Originalzeichnung SAE-Materialbezeichnungen verwendet werden. Verwandt mit der Chrom-Molybdän-Familie, ist jedoch nicht automatisch mit jeder 42CrMo4-Variante austauschbar.
+
+Kohlenstoffarmer Stahl: genaue Güte erforderlich Eigene kohlenstoffarme Zusammensetzung und Umformspezifikation. Umgeformte Allzweckteile, soweit die geforderten Endeigenschaften dies erlauben. Genaue Güte und gegebenenfalls Randschichtbehandlung nennen; keine C45- oder legierten Stahlkennwerte übernehmen.
 
 ##### So grenzen Sie die Auswahl ein
 
@@ -10414,6 +10424,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+Die genannten Güten dienen dem Zeichnungsvergleich und bedeuten nicht, dass jede Güte, Abmessung oder Behandlung lagernd verfügbar ist. Verfügbarkeit, Route und Nachweise werden im Angebot bestätigt.
+
+#### Auswahl, Bearbeitung und Abnahme
+
+Güte und Zustand gemeinsam mit der Funktion der Schraube auswählen. Die folgenden Prüfpunkte verbinden die Werkstoffvorauswahl mit Fertigung und Musterabnahme.
+
+Funktion und Gütewahl Bei einer Passschulter oder einem Anschlag Kontaktfläche, Verschleißanforderung und Zähigkeit an Querschnittsübergängen festlegen. C45/C45E und 42CrMo4 sind unterschiedliche Ausgangsoptionen; SAE 4140 benötigt eine eigene Halbzeugspezifikation. Von der Endanforderung ausgehen, statt jedem legierten Stahlteil die höchste Festigkeitsklasse zuzuweisen. Bearbeitung und Endmaße Kaltstauchdraht und Zerspanungsstab brauchen unterschiedliche Ausgangsspezifikationen. Folgt Härten auf Zerspanung, Endmaße von Schultern und Gewinden unter Berücksichtigung von Verzug und Beschichtungsaufbau planen. Bei hochfesten Teilen wasserstoffbedingte Prozessrisiken und Beschichtungsroute prüfen; späteres Tempern zur Wasserstoffentlastung garantiert nicht generell die Vermeidung von Versprödung. Was das Muster nachweisen muss Schmelzenidentität, Wärmebehandlungslos und Beschichtungslos verknüpfen. Anwendbare Zug-, Prüfkraft- oder Härteprüfungen getrennt von Maßprüfungen vereinbaren. Bei dünnen Köpfen, Hohlquerschnitten oder reduziertem Schaft festlegen, welche Fertigteilprüfungen anwendbar sind und wie die tatsächliche Geometrie abgenommen wird.
+
 #### Beispiel: bearbeitete Schulter mit Wärmebehandlungsanforderung
 
 Trennen Sie bei einem belasteten Halter Werkstoffidentität, Zustand und fertige Schraubenanforderungen. Die Zeichnung bestimmt, welche Eigenschaften an Schulter und Gewinde tatsächlich benötigt werden.
@@ -10421,6 +10439,12 @@ Trennen Sie bei einem belasteten Halter Werkstoffidentität, Zustand und fertige
 Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
 
 Güte und Lieferzustand 42CrMo4-Stab im vereinbarten vergüteten Zustand. Halbzeugnorm, Querschnitt und Lieferzustand im Auftrag angeben. Anforderung an das Fertigteil Geforderte Endeigenschaften und Prüfgrundlage festlegen. Härte oder örtliche Oberflächenanforderungen bei Zeichnungsvorgabe separat dokumentieren. Oberfläche und Gegenstück Zentrierschulter und Gewindepassung nach dem vorgesehenen Finish benennen. Gegenbohrung und Beschichtungszugabe in die Prüfung einbeziehen. Abnahmeunterlagen Werkstoffidentität und Behandlungsnachweise mit dem Los verknüpfen; erforderliche Endmessungen oder mechanische Ergebnisse vereinbaren. Alternative prüfen, nicht voraussetzen C45/C45E kann eine andere Routenprüfung erfordern; SAE 4140 benötigt eine eigene geltende Spezifikation. Eine ähnliche Legierungsbeschreibung ist keine genehmigte Substitution. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : 10B21 Borstahl ↗
+
+#### Fragen zur Werkstoffauswahl
+
+Bedeutet 42CrMo4 automatisch eine Schraube der Klasse 12.9? Nein. Die Güte beschreibt die Stahlzusammensetzung; Klasse 12.9 ist eine mechanische Fertigteilanforderung mit festgelegtem Geltungsbereich. Wärmebehandlung, Querschnitt, Geometrie und Nachweise müssen die bestellte Anforderung erfüllen.
+
+Ersetzt ein Halbzeugzeugnis die Prüfung der fertigen Schraube? Es kann Halbzeugidentität und berichtete Halbzeugeigenschaften belegen. Maße nach Behandlung, Schichtdicke, fertiges Gewinde und sämtliche mechanischen Eigenschaften einer Sonderschraube weist es nicht nach.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -10488,7 +10512,7 @@ ENGINEERING-LEITFADEN
 
 Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem Zustand beurteilt werden, den der Kunde erhält, und nicht nur vor der Oberflächenbehandlung.
 
-### 10B21 Borstahl – Benutzerdefinierte Schraubenstärke und Verwendungsmöglichkeiten
+### 10B21-Schrauben: Umformung und Endeigenschaften
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/10b21-boron-steel/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -10499,11 +10523,11 @@ Eine borlegierte Stahlsorte, die für geformte Verbindungselemente berücksichti
 
 Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
-#### Festigkeitsreferenz
+#### Festigkeitskennwerte
 
 10B21 ist eine Werkstoffbezeichnung und keine Festigkeitsklasse des fertigen Verbindungselements. Für 10B21-Schrauben lässt sich daher keine einheitliche Zugfestigkeit angeben.
 
-Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
+Mechanische Referenzwerte für den angegebenen Zustand Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
 
 10B21 im geforderten Endzustand Für die Bestellung angeben Für die Bestellung angeben Umformung, Wärmebehandlung und Endanforderungen bestimmen die gelieferten Eigenschaften.
 
@@ -10513,7 +10537,7 @@ Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasi
 
 Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
 
-Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+Gütenvergleich dieser Werkstofffamilie Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
 
 10B21 – Umformmaterial Geben Sie die Drahtspezifikation und den Umformzustand an. Überprüfung der Kaltstauchroute für wiederkehrende Mengen. Der Drahtzustand ist nicht der endgültige Schraubenzustand; Materialidentifikation und vereinbarte Umformqualität anfordern.
 
@@ -10531,6 +10555,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+Die genannten Güten dienen dem Zeichnungsvergleich und bedeuten nicht, dass jede Güte, Abmessung oder Behandlung lagernd verfügbar ist. Verfügbarkeit, Route und Nachweise werden im Angebot bestätigt.
+
+#### Auswahl, Bearbeitung und Abnahme
+
+Güte und Zustand gemeinsam mit der Funktion der Schraube auswählen. Die folgenden Prüfpunkte verbinden die Werkstoffvorauswahl mit Fertigung und Musterabnahme.
+
+Funktion und Gütewahl 10B21 ist eine Güte, keine Gruppe von Festigkeitsstufen. Eine umgeformte Flanschschraube und eine einsatzgehärtete gewindeformende Schraube können trotz gleicher Ausgangsgüte verschiedene Endeigenschaften verlangen. Vor der Behandlung festlegen, ob das Teil klemmt, ein Gewinde formt oder eine Verschleißfläche bereitstellt. Bearbeitung und Endmaße Drahtvorbereitung, Stauchstufen, Nachbearbeitung und Gewindeumformung müssen zu Geometrie und Menge passen. Wärmebehandlungsfolge mit dem Hersteller festlegen. Aufkohlen dient einer vereinbarten Randschichtanforderung und gehört nicht automatisch zu 10B21; Durchhärtungs- und Einsatzhärtungsanforderungen nicht vermischen. Was das Muster nachweisen muss Kernhärte, Oberflächenhärte und Härtetiefe nur bei Bedarf mit Verfahren und Prüforten definieren. Ergebnisse dem Wärmebehandlungslos zuordnen und relevante Maße im Lieferendzustand prüfen. Oberflächenhärte allein belegt weder Kernzähigkeit noch fertige Festigkeitsklasse.
+
 #### Beispiel: 10B21 vom Stauchdraht zur abgenommenen Flanschschraube
 
 Beschreiben Sie bei Wiederholmengen Draht und fertige Schraube als zwei Abnahmestufen. Ein gut umformbarer Ausgangszustand ist nicht die endgültige mechanische Anforderung.
@@ -10538,6 +10570,12 @@ Beschreiben Sie bei Wiederholmengen Draht und fertige Schraube als zwei Abnahmes
 Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
 
 Güte und Lieferzustand 10B21-Draht nach vereinbarter Werkstoffspezifikation und Kaltstauch-Lieferzustand; Werkstoff- und Losidentität erhalten. Anforderung an das Fertigteil Geforderte Endmerkmale auf der Zeichnung angeben. Falls relevant, Kern- und Randschichtanforderungen getrennt benennen, statt aus dem Gütennamen Einsatzhärten abzuleiten. Oberfläche und Gegenstück Auflagefläche, nutzbares Gewinde und Endbeschichtung prüfen. Abnahmestufe für behandlungsempfindliche Maße festlegen. Abnahmeunterlagen Werkstoffidentifikation, Wärmebehandlungs-Losnachweise und geeignete abschließende Mechanik- oder Härteprüfungen vereinbaren. Alternative prüfen, nicht voraussetzen Anderer Drahtzustand, andere Güte oder Behandlung können Umformung und Endeigenschaften ändern. Vollständigen Vorschlag vor Musterfreigabe prüfen. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Kohlenstoff- und legierter Stahl ↗
+
+#### Fragen zur Werkstoffauswahl
+
+Gibt es einen einzigen Zugfestigkeitswert für 10B21? Nein. Eingangsdraht, umgeformtes Teil und wärmebehandelte Schraube sind verschiedene Zustände. Endeigenschaften und Prüfbasis für das tatsächliche Teil festlegen, statt der Güte einen Einzelwert zuzuweisen.
+
+Muss jede 10B21-Schraube aufgekohlt werden? Nein. Die Route nach gefordertem Kern- und Oberflächenverhalten wählen. Wird eine harte Randschicht benötigt, deren Abnahme definieren; sonst Aufkohlen nicht allein aus dem Werkstoffnamen ableiten.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -10601,7 +10639,7 @@ ENGINEERING-LEITFADEN
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
-### 304 oder 316 für Sonderschrauben?
+### 304 oder 316: Edelstahlgüten und Zustände für Schrauben
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/stainless-steel-304-316/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -10614,11 +10652,11 @@ Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzu
 
 Aus der Werkstoffauswahl eine Bestellvorgabe machen ↓
 
-#### Festigkeitsreferenz
+#### Festigkeitskennwerte
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
+Mechanische Referenzwerte für den angegebenen Zustand Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
 
 ISO 3506 Klasse 70 Referenz Mindestens 700 Mindestens 450 Anwendbare austenitische Verbindungselemente; Bestätigen Sie Sorte, Größe und Produktumfang.
 
@@ -10630,7 +10668,7 @@ Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasi
 
 Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
 
-Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+Gütenvergleich dieser Werkstofffamilie Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
 
 304 / SUS304 Austenitischer Edelstahl für allgemeine Zwecke; Geben Sie den maßgeblichen Standard an. Allgemeine Geräte- und Gehäusebefestigungen in geeigneten Umgebungen. Nicht korrosionsbeständig; Überprüfen Sie die Expositions-, Fress- und Endklasse der Verbindungselemente.
 
@@ -10642,6 +10680,8 @@ Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber
 
 303 Freizerspanbare austenitische Sorte. Drehteile, bei denen die Bearbeitungsproduktivität wichtig ist und die Korrosionsanforderungen dies zulassen. Ersetzen Sie 304 oder 316 nicht, ohne die Korrosions- und Herstellungsanforderungen zu prüfen.
 
+17-4PH / UNS S17400 Ausscheidungshärtender Edelstahl, anders als 304/316. Gesondert vergleichen, wenn Festigkeits- und Korrosionsanforderungen dies rechtfertigen. Alterungszustand, etwa H900 oder H1150, mit der Produktspezifikation bestellen; Kennwerte unterscheiden sich nach Zustand.
+
 ##### So grenzen Sie die Auswahl ein
 
 Beginnen Sie mit den Belichtungs- und Fertigungsanforderungen und bewerten Sie dann die Fertigung und Montage. A2/A4 Verbindungselementgruppen sind keine universellen Synonyme für eine bestimmte JIS- oder ASTM-Klasse. Bestellen Sie die genaue Güteklasse plus die entsprechende Klasse der fertigen Verbindungselemente. Durch die Passivierung wird 304 nicht zu 316 hochgestuft.
@@ -10652,6 +10692,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+Die genannten Güten dienen dem Zeichnungsvergleich und bedeuten nicht, dass jede Güte, Abmessung oder Behandlung lagernd verfügbar ist. Verfügbarkeit, Route und Nachweise werden im Angebot bestätigt.
+
+#### Auswahl, Bearbeitung und Abnahme
+
+Güte und Zustand gemeinsam mit der Funktion der Schraube auswählen. Die folgenden Prüfpunkte verbinden die Werkstoffvorauswahl mit Fertigung und Musterabnahme.
+
+Funktion und Gütewahl Für allgemeine Geräte 304 mit tatsächlicher Feuchte- und Reinigungsexposition abgleichen. 316 erwägen, wenn die molybdänhaltige Zusammensetzung zur Korrosionsbewertung passt, nicht nur wegen Außenaufstellung. 303 nutzen, wenn Zerspanungsvorteile das andere Korrosions- und Fertigungsverhalten rechtfertigen. 17-4PH separat prüfen, wenn Ausscheidungshärtung benötigt wird. Bearbeitung und Endmaße Austenitischer 304/316 kann durch Kaltverfestigung fester werden; konventionelles Vergüten macht daraus keine hochfeste martensitische Schraube. Für 17-4PH Alterungszustand nennen und Maßabnahme nach Behandlung planen. Passivieren ist eine Oberflächenbehandlung: Es macht 304 nicht zu 316 und weist keine Klasse 80 zu. Was das Muster nachweisen muss Güte, bestellten Zustand und gegebenenfalls Fertigteilklasse getrennt identifizieren. Bei wiederholter Montage Gegenwerkstoffe, Schmierung oder Beschichtung und Anziehverfahren auf Fressen prüfen. Korrosions- oder Oberflächenabnahme auf die tatsächliche Exposition beziehen; Werkstoffzeugnis und Salzsprühergebnis beantworten unterschiedliche Fragen.
+
 #### Beispiel: SUS316-Kabeldurchführung für ein Außengehäuse
 
 Umgebung und Durchführungsfunktion neben der Güte spezifizieren. Außeneinsatz allein definiert weder Chloridbelastung noch Reinigung oder mechanische Beanspruchung der Verbindung.
@@ -10659,6 +10707,12 @@ Umgebung und Durchführungsfunktion neben der Güte spezifizieren. Außeneinsatz
 Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
 
 Güte und Lieferzustand SUS316-Stab mit geltender Werkstoffnorm und Lieferzustand. Klären, ob die Zeichnung tatsächlich SUS316 oder SUS316L fordert. Anforderung an das Fertigteil Eine anwendbare fertige Schraubenklasse unabhängig von der Halbzeugqualität angeben. Hohlquerschnitt und Gegenverbindung gegen die tatsächliche Last prüfen. Oberfläche und Gegenstück Bohrungskanten, Kontakt zu anderen Metallen, Reinigung und gegebenenfalls Passivierung festlegen. Nutzbares Gewinde und freien Durchgang nach der Bearbeitung prüfen. Abnahmeunterlagen Vereinbarten Güte-/Losnachweis und Endprüfungen anfordern. Vorgeschriebene Oberflächenbehandlung getrennt von der Werkstoffidentität aufzeichnen. Alternative prüfen, nicht voraussetzen 303 setzt einen anderen Schwerpunkt bei Zerspanbarkeit und Korrosion. 304 oder 316L benötigen eine Anwendungsprüfung statt namensbasierter Substitution. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Kohlenstoff- und legierter Stahl ↗
+
+#### Fragen zur Werkstoffauswahl
+
+Ist 316L fester als 316? L kennzeichnet eine kohlenstoffärmere Variante, keine höhere Festigkeitsstufe. Kennwerte bei gleicher Produktform und gleichem Zustand vergleichen; die L-Güte nach den begründeten Fertigungs- und Korrosionsanforderungen wählen.
+
+Sind A2-70 und SUS304 dieselbe Spezifikation? Nein. A2-70 verbindet eine Edelstahlgruppe mit einer Festigkeitsklasse; SUS304 bezeichnet eine Werkstoffgüte nach ihrer maßgebenden Spezifikation. Wo beides benötigt wird, Werkstoffidentität und Fertigteilanforderungen getrennt angeben.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -10704,6 +10758,8 @@ Outokumpu: austenitische rostfreie Sortenfamilien ↗
 
 thyssenkrupp: Edelstahlbearbeitung und -fertigung im Vergleich ↗
 
+Carpenter: zustandsbezogene Verarbeitung von 17-4PH ↗
+
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
@@ -10744,7 +10800,7 @@ ENGINEERING-LEITFADEN
 
 Ein helles Erscheinungsbild weist nicht auf einen Oberflächenprozess hin. Geben Sie das Substrat und die gewünschte Oberflächenfunktion an, bevor Sie zwischen Galvanisierung, Passivierung oder einer anderen Behandlung wählen.
 
-### Aluminiumlegierungen – kundenspezifische Schraubenstärke und Verwendungsmöglichkeiten
+### Aluminiumschrauben: 6061, 6082 und 7075 auswählen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/aluminum-alloys/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -10755,13 +10811,13 @@ Leichtmetalloptionen für kundenspezifische Gewindeteile, bei denen Legierung, H
 
 Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
-#### Festigkeitsreferenz
+#### Festigkeitskennwerte
 
 Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke.
 
-Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
+Mechanische Referenzwerte für den angegebenen Zustand Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
 
-6061-T6 / T6511 Beispiel für extrudiertes Material Mindestens 260 Mindestens 240 Daten zum Wasserkraftbestand; Es gelten der Abschnitt und die Produktspezifikation.
+6061-T6 / T6511 Beispiel für extrudiertes Material Mindestens 260 Mindestens 240 Hydro-Strangpressreferenz: Die Dicke des Zugprobenquerschnitts bestimmt den Geltungsbereich; Bestellmaß und Spezifikation prüfen.
 
 6082-T6 / T6511 Beispiel für extrudiertes Material Mindestens 310 Mindestens 260 Hydrodaten für den aufgeführten 5–150 mm Wand-/Abschnittsbereich; andere Größen weichen ab.
 
@@ -10771,13 +10827,15 @@ Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasi
 
 Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
 
-Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+Gütenvergleich dieser Werkstofffamilie Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
 
 6061-T6 / T6511 Legierung plus Härte und Produktform müssen angegeben werden. Leichte bearbeitete Anpassungs- oder Gehäusekomponenten. T6511 ist eine Bezeichnung für die Lagertemperatur und keine allgemeine Garantie für die Festigkeit der fertigen Schraube.
 
 6082-T6 / T6511 Eine andere Legierung mit eigenen Produktgrößen-Eigenschaftstabellen. Bearbeitete Komponenten, deren spezifizierte Materialeigenschaften zum Design passen. Ersetzen Sie nicht die Schlagzeilenstärke durch eine einzige Zahl. Schnitt, Zustand und Maßhaltigkeit prüfen.
 
 6061 oder 6082 in einer anderen Stimmung Die Legierungsnummer bleibt gleich, auch wenn sich der Zustand ändert. Umform- oder Fertigungswege, die einen anderen Lieferzustand erfordern. Die für T6-Bestände angegebenen Eigenschaften können nicht nicht spezifizierten oder geglühten Beständen zugeordnet werden.
+
+7075: festgelegter Zustand Andere hochfeste Legierungsfamilie als 6061/6082. Gewichtsrelevante Drehteile, die Werkstoff- und Prozessanforderungen rechtfertigen. T6- und T73-Daten sowie Spannungsrisskorrosion vergleichen; Rohrdaten qualifizieren keine aus Stab gefertigte Schraube.
 
 ##### So grenzen Sie die Auswahl ein
 
@@ -10789,6 +10847,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+Die genannten Güten dienen dem Zeichnungsvergleich und bedeuten nicht, dass jede Güte, Abmessung oder Behandlung lagernd verfügbar ist. Verfügbarkeit, Route und Nachweise werden im Angebot bestätigt.
+
+#### Auswahl, Bearbeitung und Abnahme
+
+Güte und Zustand gemeinsam mit der Funktion der Schraube auswählen. Die folgenden Prüfpunkte verbinden die Werkstoffvorauswahl mit Fertigung und Musterabnahme.
+
+Funktion und Gütewahl 6061 und 6082 sind sinnvolle Ausgangsvergleiche für leichte Zerspanungsteile. 7075 nur erwägen, wenn Festigkeit und Umweltbedingungen seine Besonderheiten rechtfertigen. Eine höhere Zugfestigkeit löst weder zu wenig Eingriff im weichen Gegengewinde noch hohe Flächenpressung oder Verschleiß durch wiederholtes Verstellen. Bearbeitung und Endmaße T6 beschreibt einen Wärmebehandlungszustand; T6511 zusätzlich das Spannungsarmrecken bei anwendbaren Strangpressprodukten. Es sind keine universellen Stabkennzeichnungen. Eloxalschicht, Maskierung und Endpassung von Gewinde oder Schulter prüfen. Spätere thermische Prozesse oder Schweißen können den Zustand der ursprünglichen Halbzeugdaten ändern. Was das Muster nachweisen muss Legierung, Zustand, Produktform und Querschnitt angeben. Nach dem vereinbarten Finish nutzbares Gewinde, Auflagefläche und Passmaße prüfen. Bei Einstellteilen Weg und Verriegelung mit dem echten Gegenbauteil erproben; Montageprüfung getrennt vom Halbzeug-Zugzeugnis vereinbaren.
+
 #### Beispiel: bearbeitete Einstellschraube aus 6061-T6511
 
 Bei einem leichten Versteller den Halbzeugzustand in die Spezifikation übernehmen und danach Gewinde und Auflage im fertigen Aufbau bewerten.
@@ -10796,6 +10862,12 @@ Bei einem leichten Versteller den Halbzeugzustand in die Spezifikation übernehm
 Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
 
 Güte und Lieferzustand Stranggepresster Stab 6061-T6511 nach vereinbarter Produktspezifikation. Abmessung und Zustand der zugrunde gelegten Halbzeuge dokumentieren. Anforderung an das Fertigteil Zugdaten des Halbzeugs von der Gewindeabnahme am Fertigteil trennen. Eingriff, Verstellaufgabe und erforderliche Montageprüfung benennen. Oberfläche und Gegenstück Eloxierung oder anderes Finish, betroffene Maße und Gegenwerkstoff festlegen. Nutzbares Gewinde und Passung im endgültigen Lieferzustand prüfen. Abnahmeunterlagen Legierung/Zustand und Losidentität erhalten; Maßnachweise nach dem Finish sowie geforderte Behandlungsunterlagen vereinbaren. Alternative prüfen, nicht voraussetzen 6082 oder ein anderer Zustand ist auf gleicher Produkt- und Zustandsbasis zu vergleichen. Einen T6-Referenzwert nicht auf unbestimmtes Halbzeug übertragen. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Titan und Titanlegierungen ↗
+
+#### Fragen zur Werkstoffauswahl
+
+Darf 7075 ohne Zeichnungsänderung 6061 ersetzen? Als Werkstoffänderung behandeln. Zustand, Korrosionsbelastung, Bearbeitung, Finish, Gegenmetall und Endabnahme vergleichen. Ein höherer Festigkeitswert allein erlaubt die Substitution nicht.
+
+Erhöht Eloxieren die Festigkeitsklasse einer Aluminiumschraube? Eloxieren ändert die Oberfläche und kann Maße, Verschleiß und Reibung beeinflussen. Es weist keine Fertigteil-Festigkeitsklasse zu und ersetzt weder Legierungs- noch Zustandsvorgabe.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -10839,6 +10911,8 @@ Hydro: 6082 extrudierte Legierungsdaten ↗
 
 Hydro: Legierungsdatenblätter und temperaturspezifische Referenzen ↗
 
+Kaiser: Zustandsvergleich für 7075 (Rohrdaten) ↗
+
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
@@ -10863,7 +10937,7 @@ ENGINEERING-LEITFADEN
 
 Ein Prototyp kann eine nützliche Geometrie erstellen, ohne den endgültigen Produktionsweg zu definieren. Planen Sie den Übergang so, dass die genehmigten Funktions- und Akzeptanzanforderungen die Änderung der Herstellungsmethode überdauern.
 
-### Kupfer – Benutzerdefinierte Schraubenstärke und Verwendungsmöglichkeiten
+### Kupferschrauben und Stehbolzen: Güte, Zustand und Kontakt
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/copper/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -10874,11 +10948,11 @@ Eine Materialfamilie, bei der neben der Geometrie und der mechanischen Akzeptanz
 
 Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
-#### Festigkeitsreferenz
+#### Festigkeitskennwerte
 
 Die Kupferfestigkeit variiert erheblich je nach Legierung, Produktform und Härte. Im Folgenden handelt es sich um eine typische Lagerreferenz und nicht um eine Anforderung zur Schraubenabnahme.
 
-Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
+Mechanische Referenzwerte für den angegebenen Zustand Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
 
 C11000, H02 halbharte Referenz Ungefähr 290 typisch Für den ausgewählten Bestand angeben CDA-Design-Guide-Bestandsreferenz; andere Temperamente und Formen unterscheiden sich.
 
@@ -10888,7 +10962,7 @@ Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasi
 
 Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
 
-Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+Gütenvergleich dieser Werkstofffamilie Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
 
 C11000 – ETP-Kupfer Elektrolytisches Hartkupfer. Leitfähige Komponenten, bei denen die angegebenen elektrischen und mechanischen Anforderungen für diese Sorte geeignet sind. Temperier- und Elektroabnahme separat bestellen; Schließen Sie den gemeinsamen Kontaktwiderstand nicht aus der Gesamtleitfähigkeit ab.
 
@@ -10906,6 +10980,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+Die genannten Güten dienen dem Zeichnungsvergleich und bedeuten nicht, dass jede Güte, Abmessung oder Behandlung lagernd verfügbar ist. Verfügbarkeit, Route und Nachweise werden im Angebot bestätigt.
+
+#### Auswahl, Bearbeitung und Abnahme
+
+Güte und Zustand gemeinsam mit der Funktion der Schraube auswählen. Die folgenden Prüfpunkte verbinden die Werkstoffvorauswahl mit Fertigung und Musterabnahme.
+
+Funktion und Gütewahl C11000, C10100 und C12200 als eigene Spezifikationen behandeln, nicht als Preisstufen desselben Werkstoffs. Bei leitfähigen Stehbolzen Volumenleitfähigkeit und Kontaktwiderstand der Montageflächen trennen. Bei erwärmten oder gefügten Teilen Atmosphäre und Temperaturzyklus vor der Gütewahl benennen. Bearbeitung und Endmaße Drehen, Gewindeumformen und späteres Erwärmen können Maße und Zustand beeinflussen. Tatsächlichen Halbzeugzustand vereinbaren und durch den Prozess nachverfolgen. Für Zinn-, Nickel- oder andere Kontaktbeschichtungen Umfang und danach maßlich oder elektrisch funktionale Flächen festlegen. Was das Muster nachweisen muss Werkstoffidentität und bestellte Leitfähigkeitsnachweise dokumentieren; Gewindeeingriff und Kontaktflächengeometrie prüfen. Installation und Kontaktprüfung mit der Gegenbaugruppe definieren. Strombelastbarkeit oder Anziehmoment nicht nur aus Güte, Halbzeugzugfestigkeit oder Oberflächeneindruck ableiten.
+
 #### Beispiel: Kontaktbolzen aus C11000 mit definiertem Zustand
 
 Strompfad und Klemmfunktion eines elektrischen Kontakts gemeinsam prüfen. Die Kupferbezeichnung legt weder Kontaktwiderstand noch Anziehverhalten oder Tragfähigkeit der fertigen Verbindung fest.
@@ -10913,6 +10995,12 @@ Strompfad und Klemmfunktion eines elektrischen Kontakts gemeinsam prüfen. Die K
 Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
 
 Güte und Lieferzustand C11000-Stab im Zustand H02 mit Produktspezifikation und Abmessung. Zustand für die tatsächlich gelieferte Produktform bestätigen. Anforderung an das Fertigteil Elektrische Abnahme getrennt von mechanischen Anforderungen festlegen. Gewinde, Auflagefläche und Montagekriterien der Verbindung definieren. Oberfläche und Gegenstück Bei Bedarf Kontaktbeschichtung mit Kontaktbereich und Gegenmetall spezifizieren. Maßabnahme auf die tatsächlich gelieferten beschichteten oder unbeschichteten Flächen beziehen. Abnahmeunterlagen Werkstoffidentität, bestellte Leitfähigkeitsnachweise, Endmaße und gegebenenfalls vorgeschriebene Kontaktprüfungen vereinbaren. Alternative prüfen, nicht voraussetzen C10100 und C12200 haben unterschiedliche Werkstoffspezifikationen. Elektrische und fertigungstechnische Anforderungen vor Güte- oder Zustandswechsel vergleichen. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Messing ↗
+
+#### Fragen zur Werkstoffauswahl
+
+Braucht jede leitfähige Schraube sauerstofffreies Kupfer? Nein. Güte nach elektrischen, fertigungstechnischen und Umweltanforderungen wählen. Sauerstofffreies Kupfer kann einen bestimmten Prozessbedarf erfüllen; die Bezeichnung garantiert nicht in jeder Baugruppe den besseren Kontakt.
+
+Behält halbhartes Kupfer seinen Zustand nach dem Erwärmen? Ein Temperaturzyklus kann den kaltverfestigten Zustand ändern. Tatsächliche Zeit und Temperatur prüfen und mechanische sowie elektrische Endabnahme definieren, statt den Eingangszustand ungeprüft fortzuschreiben.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -10980,7 +11068,7 @@ ENGINEERING-LEITFADEN
 
 Sauberkeit wird zu einer technischen Anforderung, wenn Verunreinigungen die Baugruppe beeinträchtigen können. Definieren Sie, was entfernt werden muss, wie es gemessen wird und wie der saubere Zustand geschützt wird.
 
-### Messing – individuelle Schraubenstärke und Einsatzmöglichkeiten
+### Messingschrauben: C36000, CW614N und Gütewahl
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/brass/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -10991,11 +11079,11 @@ Kupfer-Zink-Legierungen können für die Konstruktion zeichnungsspezifischer bea
 
 Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
-#### Festigkeitsreferenz
+#### Festigkeitskennwerte
 
 Die Stärke ändert sich mit der Zusammensetzung und dem Temperament. Das folgende Beispiel enthält veröffentlichte typische H02-Stangendaten und darf nicht auf alle Messingbefestigungen angewendet werden.
 
-Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
+Mechanische Referenzwerte für den angegebenen Zustand Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
 
 C36000 Stab, H02 Referenz 386 typisch 310 typisch CDA-typische Stabwerte; Verwenden Sie zur Abnahme die bestellte Legierungs-/Härtespezifikation.
 
@@ -11005,13 +11093,17 @@ Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasi
 
 Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
 
-Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+Gütenvergleich dieser Werkstofffamilie Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
 
 C36000 – Automatenmessing Bleifreies Automatenmessing. Gedrehte Gewindeteile, wenn die Spezifikation diese Zusammensetzung zulässt. Überprüfen Sie Bleibeschränkungen für den tatsächlichen Markt und die Endverwendung; erheben keinen Anspruch auf universelle Konformität.
 
 C26000 – Kartusche aus Messing Eine andere Kupfer-Zink-Zusammensetzung und ein anderes Umformverhalten. Überlegen Sie, wo der erforderliche Herstellungsweg diese Qualität begünstigt. Kein Ersatz für Automatenmessing; Überprüfen Sie Bearbeitbarkeit und Härte.
 
 Spezifiziertes bleiarmes oder bleifreies Messing Erfordern die genauen Legierungs- und maßgeblichen Zusammensetzungsgrenzen. Anwendungen mit explizit definierten Stoff- oder Endverwendungsanforderungen. Bleifrei ist keine vollständige Sortenbezeichnung. Überprüfen Sie die Bearbeitung, Eigenschaften und erforderlichen Dokumente.
+
+CW614N / CuZn39Pb3 EN-Bezeichnung eines bleihaltigen Messings für zerspanungsorientiertes Halbzeug. Gedrehte Gewindeteile, wenn genau diese Spezifikation zulässig ist. Zusammensetzung und Produktnorm bestätigen; nicht stillschweigend als C36000 umetikettieren.
+
+CW617N / CuZn40Pb2 Eigene Messingzusammensetzung für die Prüfung von Warmumformrouten. Umgeformte und anschließend bearbeitete Rohlinge, abhängig von Geometrie und Halbzeug. Produktform und Zustand festlegen; Umformeignung garantiert keine Fertigteilfestigkeit.
 
 ##### So grenzen Sie die Auswahl ein
 
@@ -11023,6 +11115,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+Die genannten Güten dienen dem Zeichnungsvergleich und bedeuten nicht, dass jede Güte, Abmessung oder Behandlung lagernd verfügbar ist. Verfügbarkeit, Route und Nachweise werden im Angebot bestätigt.
+
+#### Auswahl, Bearbeitung und Abnahme
+
+Güte und Zustand gemeinsam mit der Funktion der Schraube auswählen. Die folgenden Prüfpunkte verbinden die Werkstoffvorauswahl mit Fertigung und Musterabnahme.
+
+Funktion und Gütewahl Für gedrehte Einstellteile Automatenlegierungen wie C36000 oder zeichnungsgebundenes CW614N vergleichen. Für umgeformte Rohlinge eine umformorientierte Güte wie CW617N nach eigener Spezifikation prüfen. C26000 bietet ein anderes Umformverhalten. Nicht nach Gelbton wählen oder normübergreifende Substitution aus den Namen ableiten. Bearbeitung und Endmaße Zusammensetzung und Lieferzustand beeinflussen Spanbildung, Umformung und erreichbare Details. Eine bleiarme Alternative kann andere Schnittbedingungen und Kosten erfordern. Beschichtung, Gewindetoleranzen und Restspannungen gemeinsam prüfen; Risiken durch Entzinkung oder Spannungsrisskorrosion bei der Gütewahl für das Medium berücksichtigen. Was das Muster nachweisen muss Genaue Legierung, Zustand und relevante Zusammensetzungsgrenze identifizieren. Nachweise für den tatsächlichen Einsatz und Markt vereinbaren, statt allgemeine Umweltversprechen zu akzeptieren. Endgewinde, Kontakt, Finish und gegebenenfalls Dichtheits- oder Funktionsprüfung separat festlegen; Legierungsidentität qualifiziert das Gesamtprodukt nicht.
+
 #### Beispiel: gedrehte Einstellschraube aus C36000
 
 Bei einem Vorrichtungsknopf für Innenräume zuerst Zerspanung und Kontakt klären, dann die zulässige Zusammensetzung für Produkt und Zielmarkt bestätigen.
@@ -11030,6 +11130,12 @@ Bei einem Vorrichtungsknopf für Innenräume zuerst Zerspanung und Kontakt klär
 Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
 
 Güte und Lieferzustand C36000-Stab im Zustand H02 nach vereinbarter Produktspezifikation. Zusammensetzungsbeschränkungen des Kunden vor der Halbzeugwahl benennen. Anforderung an das Fertigteil Nutzbares Gewinde, Verstellaufgabe und mechanische Abnahme festlegen. Ein typischer Stabwert ist keine Festigkeitszusage für die fertige Schraube. Oberfläche und Gegenstück Rändelung, Kontaktfläche sowie Beschichtungs- oder Aussehensanforderungen festlegen. Wiederholte Verstellung mit dem tatsächlichen Gegenwerkstoff prüfen. Abnahmeunterlagen Güte-/Losidentifikation und gegebenenfalls Zusammensetzungsnachweise sowie Endmaße und geforderte Oberflächenunterlagen vereinbaren. Alternative prüfen, nicht voraussetzen C26000 verändert die Verarbeitungsgrundlage. Eine bleiarme oder bleifreie Alternative benötigt eine genaue Legierungsbezeichnung, nicht nur eine Werbeaussage. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Kupfer ↗
+
+#### Fragen zur Werkstoffauswahl
+
+Sind C36000 und CW614N automatisch austauschbar? Nein. Beide werden für ähnliche Zerspanungsaufgaben diskutiert, doch die Zeichnung muss Zusammensetzungs- und Produktanforderungen festlegen. Tatsächliche Spezifikationen vergleichen und die Änderung vorab freigeben lassen.
+
+Ist bleifreies Messing eine vollständige Werkstoffvorgabe? Nein. Genaue Legierung, zulässige Zusammensetzung, Lieferzustand und Nachweise angeben. Bleifrei definiert weder Mechanik noch Zerspanbarkeit oder Zulassung für einen bestimmten Einsatz.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -11075,6 +11181,8 @@ Copper Development Association: Auswahl von Messingstangen und bleifreiem Materi
 
 Copper Development Association: Leitfaden für Kupferlegierungen ↗
 
+Wieland: Messinggüten und Produktfamilien ↗
+
 #### Wählen Sie gemeinsam Material und Endfestigkeit aus
 
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
@@ -11099,7 +11207,7 @@ ENGINEERING-LEITFADEN
 
 Die Materialauswahl beginnt mit der Einsatzumgebung und den mechanischen Anforderungen. Die beste Spezifikation bringt Funktion, Herstellbarkeit, Verfügbarkeit und Verifizierung in Einklang.
 
-### Titan und Titanlegierungen – individuelle Schraubenstärke und Verwendungsmöglichkeiten
+### Titanschrauben: Grade 2, Grade 5 und Grade 23 vergleichen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/titanium-alloys/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -11110,13 +11218,13 @@ Titansorten werden in Betracht gezogen, wenn Masse, Korrosionseinwirkung und erf
 
 Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
 
-#### Festigkeitsreferenz
+#### Festigkeitskennwerte
 
 Kommerziell reine Güteklasse 2 und Ti-6Al-4V sind unterschiedliche Materialien. Güteklasse, Produktform und Zustand müssen jeden Festigkeitswert begleiten.
 
-Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
+Mechanische Referenzwerte für den angegebenen Zustand Note / Zustand / Grundlage Zugfestigkeit Rm (MPa) Ertrag / 0.2% Spannung (MPa) Umfang der Referenz
 
-Beispiel für geglühtes Ti-6Al-4V-Material Mindestens 896 Mindestens 827 Vom Zimmermann vorgegebene Mindestmaterialdaten; Überprüfen Sie die geltenden Lager- und Bestellanforderungen.
+Beispiel für geglühtes Ti-6Al-4V-Material 895 mindestens 828 mindestens Titanium-Engineers-Referenz für geglühtes Halbzeug; Abmessung, Zustand und Wärmebehandlung beeinflussen Kennwerte. Bestellte Produktspezifikation prüfen.
 
 CP Titanium Grade 2 Referenz Bestätigen Sie das angegebene Produkt 275 Mindestertragsreferenz Carpenter Grade 2 Referenz; kein Ti-6Al-4V-Äquivalent.
 
@@ -11126,7 +11234,7 @@ Die Werte beziehen sich auf die angegebene Material- bzw. Verbindungsklassenbasi
 
 Eine Materialfamilie ist ein Ausgangspunkt, keine vollständige Spezifikation. Die folgenden Optionen sind Auswahlreferenzen; Angebot und Eignung erfordern eine Zeichnungsprüfung.
 
-Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
+Gütenvergleich dieser Werkstofffamilie Güteklasse oder angegebener Zustand Was es auszeichnet Wann sollte man darüber nachdenken? Was Sie vor der Bestellung bestätigen müssen
 
 Güteklasse 2 – kommerziell reines Titan Geben Sie Produktform und Lieferzustand an. Korrosionsbedingte Komponenten, deren mechanische Eigenschaften dem Design entsprechen. Mechanisch nicht austauschbar mit Ti-6Al-4V.
 
@@ -11144,6 +11252,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+Die genannten Güten dienen dem Zeichnungsvergleich und bedeuten nicht, dass jede Güte, Abmessung oder Behandlung lagernd verfügbar ist. Verfügbarkeit, Route und Nachweise werden im Angebot bestätigt.
+
+#### Auswahl, Bearbeitung und Abnahme
+
+Güte und Zustand gemeinsam mit der Funktion der Schraube auswählen. Die folgenden Prüfpunkte verbinden die Werkstoffvorauswahl mit Fertigung und Musterabnahme.
+
+Funktion und Gütewahl Technisch reines Grade 2 wählen, wenn Korrosions- und Mechanikanforderungen passen; Grade 5 vergleichen, wenn eine legierte Festigkeitsroute benötigt wird. Grade 23 ELI hat eigene Zwischengittergrenzen und Spezifikation. Seine Auswahl genehmigt kein Medizin- oder Luftfahrtteil. Bearbeitung und Endmaße Güte und Zustand beeinflussen Schnitt, Werkzeugverschleiß und Behandlung. Endgewinde und Auflageflächen auf Fressneigung prüfen und nötigenfalls kompatible Schmierung oder Oberflächenbehandlung vorgeben. Stahl-Anziehmomente oder Wärmebehandlungsvorgaben nicht ohne baugruppenspezifische Prüfung auf Titan übertragen. Was das Muster nachweisen muss Produktnorm, Güte, Zustand und Losrückverfolgbarkeit festlegen. Halbzeugkennwerte von Endmaßen und bestellten mechanischen Prüfungen trennen. Wenn Masse, Ermüdung, Korrosion oder wiederholte Verstellung die Wahl bestimmen, die Funktionsprüfung an der tatsächlichen Geometrie und Baugruppe definieren.
+
 #### Beispiel: Präzisionsschulter aus geglühtem Grade 5
 
 Bei einer gewichtssensitiven Baugruppe mit mechanischen Vorgaben Titangüten nach tatsächlichem Zustand und Produktspezifikation vergleichen, bevor die Endprüfungen festgelegt werden.
@@ -11151,6 +11267,12 @@ Bei einer gewichtssensitiven Baugruppe mit mechanischen Vorgaben Titangüten nac
 Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
 
 Güte und Lieferzustand Stab Grade 5 Ti-6Al-4V im vereinbarten geglühten Zustand; Produktspezifikation, Abmessung und Losidentität dokumentieren. Anforderung an das Fertigteil Mechanische und geometrische Endanforderungen getrennt definieren. Halbzeugeigenschaften belegen nicht die Festigkeit eines reduzierten Schafts oder Gewindeanschlusses. Oberfläche und Gegenstück Schulterpassung, Gewindeeingriff, Gegenmetalle und vereinbarte Oberflächen- oder Schmierungslösung festlegen. Fressneigung und Wartungszugang in der Montagebewertung berücksichtigen. Abnahmeunterlagen Werkstoff-/Zustandsnachweise, Rückverfolgbarkeit und erforderliche Fertigteilprüfungen vereinbaren; Anwendungsqualifikation separat festlegen. Alternative prüfen, nicht voraussetzen Grade 2 ist technisch reines Titan; Grade 23 ELI hat eine eigene Spezifikation. Beide ersetzen die freigegebene Grade-5-Anforderung nicht automatisch. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Aluminiumlegierungen ↗
+
+#### Fragen zur Werkstoffauswahl
+
+Können Grade 2 und Grade 5 denselben Festigkeitswert verwenden? Nein. Grade 2 ist technisch reines Titan, Grade 5 ist Ti-6Al-4V. Vorgeschriebene Produktform und Zustand vergleichen und für jede Güte die passende Kennwertbasis verwenden.
+
+Bedeutet Grade 23 ELI eine medizinisch zugelassene Schraube? Nein. ELI kennzeichnet eine Werkstoffvariante. Anwendungsqualifikation, Fertigungskontrollen, Rückverfolgbarkeit und Abnahme des fertigen Produkts bleiben eigenständige Anforderungen.
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -11188,7 +11310,7 @@ Elektronische und optische Ausrüstung ↗ Industrielle Automatisierung ↗ Flü
 
 ##### Materielle Referenzquellen
 
-Zimmermann: Ti-6Al-4V Datenblatt ↗
+Titanium Engineers: geglühtes Ti-6Al-4V-Halbzeug ↗
 
 Zimmermann: CP Titan Grade 2 Daten ↗
 

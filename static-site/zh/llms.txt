@@ -145,13 +145,13 @@ HTML pages are the primary source. This directory lists current indexable public
 ## 材料
 
 - [定制紧固件材料 — 强度和应用](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/): 比较碳钢、10B21、SUS304/316、铝、铜、黄铜和钛的定制螺钉，并提供特定条件的强度参考和应用指南。
-- [碳钢和合金钢 — 定制螺钉强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/carbon-alloy-steel/): 定制紧固件的碳钢和合金钢强度参考、应用注意事项和询价要求。
-- [10B21 硼钢 — 定制螺钉强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/10b21-boron-steel/): 10B21 硼钢强度参考、应用注意事项和定制紧固件的询价要求。
-- [非标螺丝如何选择 304 与 316 不锈钢](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/stainless-steel-304-316/): 比较 303、304、304L、316 和 316L 在非标螺丝中的选用条件，区分材料牌号、成品强度、腐蚀环境及装配要求。
-- [铝合金 — 定制螺钉强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/aluminum-alloys/): 定制紧固件的铝合金强度参考、应用注意事项和询价要求。
-- [铜 — 定制螺丝强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/copper/): 定制紧固件的铜强度参考、应用注意事项和询价要求。
-- [黄铜 — 定制螺钉的强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/brass/): 定制紧固件的黄铜强度参考、应用注意事项和询价要求。
-- [钛及钛合金 - 定制螺钉强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/titanium-alloys/): 定制紧固件的钛及钛合金强度参考、应用注意事项和询价要求。
+- [碳钢与合金钢螺丝：牌号、状态与强度](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/carbon-alloy-steel/): 比较 C45、42CrMo4 和 SAE 4140 等螺丝材料，明确材料状态、成品性能等级、表面处理及样品验收要求。
+- [10B21 硼钢螺丝：冷镦、热处理与成品性能](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/10b21-boron-steel/): 10B21 螺丝应明确线材状态、冷镦路线、最终热处理及验收要求，区分心部性能与表层硬化要求。
+- [不锈钢螺丝选材：304、316 与材料状态](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/stainless-steel-304-316/): 比较 303、304、304L、316、316L 和 17-4PH，用实际腐蚀环境、成品强度、热处理与咬合风险确定不锈钢螺丝要求。
+- [铝合金螺丝：6061、6082 与 7075 如何选择](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/aluminum-alloys/): 比较 6061、6082 和 7075 铝合金螺丝，明确材料状态、螺纹旋合、阳极氧化尺寸余量及最终验收条件。
+- [铜螺丝与螺柱：牌号、状态及导电接触](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/copper/): 比较 C11000、C10100 与 C12200 铜制螺纹件，分别定义材料状态、导电要求、接触表面和机械夹紧验收。
+- [黄铜螺丝：C36000、CW614N 与牌号选择](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/brass/): 按切削、成型和成分要求选择黄铜螺丝，比较 C36000、CW614N、CW617N 及具体规定的低铅牌号。
+- [钛螺丝：Grade 2、Grade 5 与 Grade 23 对比](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/titanium-alloys/): 比较 Grade 2、Grade 5 Ti-6Al-4V 和 Grade 23 ELI 钛制螺丝，明确原材料状态、螺纹配合及批次追溯要求。
 
 ## 行业
 

@@ -1,3 +1,4 @@
+import {materialSelectionMetadata} from './material-selection-content.mjs';
 import {applyQualityRevisions,qualityAids,referenceGallery,writeQualityAssets} from './quality-content.mjs';
 import {applyCoreArticleReviews} from './core-article-review.mjs';
 import {industryInterfaceMetadata} from './industry-interface-content.mjs';
@@ -77,6 +78,7 @@ function add(url,title,description,body,{schema=null,noindex=false}={}){
  if(buyerMetadata[url])[title,description]=buyerMetadata[url];
  if(industryInterfaceMetadata[url])[title,description]=industryInterfaceMetadata[url];
  description=practicalDescription(url)||description;
+ if(materialSelectionMetadata[url])[title,description]=materialSelectionMetadata[url];
  if(url==='/')body=body.replace(/(<div class="hero-art">[\s\S]*?)(<figure class="catalog-image[\s\S]*?<\/figure>)/,'$1'+homeScrewCarousel());
  body=priorityBody(url,body);
  const process=processData.find(p=>url===`/capabilities/${p.slug}/`);if(process)body=body.replace('<section class="cta-band">',processResultImage(process.slug)+'<section class="cta-band">');
