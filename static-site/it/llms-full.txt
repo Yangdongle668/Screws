@@ -11313,7 +11313,7 @@ GUIDA INGEGNERIA
 
 Un elemento di fissaggio in acciaio ad alta resistenza necessita di una decisione sul rivestimento che consideri sia la corrosione che l'esposizione all'idrogeno durante tutta la lavorazione.
 
-### Elementi di fissaggio personalizzati per l'automazione industriale
+### Elementi di fissaggio per automazione industriale
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/industrial-automation/
 
 POSIZIONAMENTO E SPOSTAMENTO DELLE INTERFACCE
@@ -11335,6 +11335,38 @@ Fornire lo spazio operativo, il campo di regolazione, i fermi corsa e l'accesso 
 #### Verifiche delle condizioni finali
 
 Concordare quali diametri, lunghezze e rapporti di riferimento verranno controllati dopo il trattamento e il rivestimento.
+
+#### Distinguere rotazione, posizionamento e regolazione
+
+Un meccanismo può usare lo stesso filetto per compiti molto diversi. Partire dalla superficie che determina movimento o posizione, poi definire come la vite trattiene l’assieme.
+
+Distinguere rotazione, posizionamento e regolazione Funzione nell’assieme Specificare insieme ai pezzi accoppiati Accettazione e verifica successiva
+
+Rotazione su spallamento liscio Specificare insieme ai pezzi accoppiati Indicare limiti del foro, diametro finito dello spallamento, lunghezza di contatto e catena assiale. Separare rotazione e filetto di ritegno.
+
+Viti a spallamento e a gradini ↗ Accettazione e verifica successiva Controllare gioco foro-spallamento e movimento libero nell’assieme. Il solo controllo del filetto non accetta il perno rotante.
+
+Stampaggio a freddo e lavorazioni meccaniche secondarie ↗
+
+Posizionare una stazione rimovibile Specificare insieme ai pezzi accoppiati Identificare perno, foro accoppiato e piano d’appoggio. Indicare riferimenti geometrici e direzione di rimozione prevista.
+
+Viti con perno di posizionamento integrato ↗ Accettazione e verifica successiva Misurare le relazioni di posizione e provare rimozione e rimontaggio. Il filetto di serraggio non è automaticamente il riferimento di posizionamento.
+
+Controllo dimensionale e visione CCD ↗
+
+Regolare un arresto o una guida Specificare insieme ai pezzi accoppiati Definire corsa, estremità di contatto, segni ammessi e mantenimento della regolazione. Considerare spazio per operatore e utensile a fine corsa.
+
+Viti zigrinate manuali e di regolazione ↗ Accettazione e verifica successiva Registrare la posizione prima e dopo la sequenza concordata. Distinguere segni visivi, misura della posizione e controllo del mantenimento.
+
+Lavorazioni secondarie e di precisione ↗
+
+##### Esempio di modifica: sostituire una boccola del perno
+
+Una boccola sostitutiva può cambiare i limiti del foro o la catena assiale effettiva anche con la stessa vite. Confrontare nuovo foro e catena con i limiti dello spallamento finito, poi verificare movimento e appoggio. Collegare le revisioni di boccola e vite nel verbale dei campioni. Conservare l’approvazione precedente per la configurazione originale e documentare i controlli dell’assieme modificato.
+
+Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.
+
+Seguire lo studio del perno per automazione ↗
 
 #### Strutture di fissaggio rilevanti
 
@@ -11360,22 +11392,6 @@ Esplora un assemblaggio proposto, le scelte di fissaggio, la revisione della pro
 
 Studio di progettazione dei dispositivi di rotazione e regolazione ↗
 
-#### Tradurre l'applicazione in una specifica di fissaggio
-
-Per l'automazione industriale, il primo compito è collegare la geometria dell'elemento di fissaggio con l'interfaccia dell'apparecchiatura. Accoppiamenti e superfici di posizionamento: identificare la spalla liscia che posiziona l'assieme e la sua relazione con il foro di accoppiamento. Accesso al movimento e alla manutenzione: fornisce lo spazio operativo, il campo di regolazione, i fermi corsa e l'accesso agli strumenti. Verifiche delle condizioni finali: Concordare quali diametri, lunghezze e rapporti tra i dati geometrici verranno controllati dopo il trattamento e il rivestimento. Spiegare l'ambiente e la sequenza del servizio insieme al disegno tecnico in modo che la revisione riguardi il componente installato.
-
-Per un perno guidato, includere il foro di accoppiamento e la pila assiale. Specificare le superfici di posizionamento separatamente dalla filettatura utilizzata per trattenere l'assieme.
-
-#### Seleziona un percorso attorno alle caratteristiche funzionali
-
-Le famiglie di prodotti rilevanti includono viti a spallamento e a gradino, viti a gradino multiplo e viti a spallamento multiplo, viti con perni di posizionamento integrati, viti a testa zigrinata e viti di regolazione. Questi sono punti di partenza per una revisione del disegno tecnico, non parti intercambiabili. Confronta acciaio al carbonio e legato, acciaio inossidabile SUS304 e SUS316, leghe di alluminio con gli attuali requisiti meccanici e ambientali.
-
-Discutere la ricalcatura a freddo + lavorazione secondaria, operazioni secondarie e di precisione, visione CCD e ispezione dimensionale come parte del percorso completo. Identificare la quantità del campione, le caratteristiche critiche, la finitura e le registrazioni richieste prima dell'approvazione. Il nome di un settore da solo non implica una certificazione di progetto o un ambito di prova generale.
-
-#### Pianifica l'approvazione dei campioni e ripeti gli ordini
-
-Il campionamento tipico, inclusa l'attrezzatura, richiede circa 10–15 giorni, soggetto a revisione e conferma tecnica. Confermare la base del programma, l'accettazione del campione e qualsiasi prova delle parti accoppiate nel preventivo. Rilascia la produzione ripetuta rispetto alla revisione approvata e registra le modifiche al materiale, al trattamento o alla geometria anziché fare affidamento su una fotografia precedente.
-
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -11394,7 +11410,7 @@ GUIDA INGEGNERIA
 
 Un rivestimento rientra nel piano dimensionale. La vestibilità finale deve essere valutata nelle condizioni in cui la riceve il cliente, non solo prima del trattamento superficiale.
 
-### Elementi di fissaggio personalizzati per apparecchiature elettroniche e ottiche
+### Viti su misura per elettronica e ottica
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/electronics-optics/
 
 PARTI COMPATTE E REGOLABILI
@@ -11417,6 +11433,38 @@ Specificare i requisiti di corsa, contatto di accoppiamento e bloccaggio per car
 
 Rivedere massa, aspetto, esigenze elettriche e contatto con materiali diversi.
 
+#### Verificare accesso, regolazione e superficie di contatto
+
+Involucri compatti e regolazioni ottiche richiedono interfacce diverse. Definire il ruolo meccanico con i pezzi adiacenti: il solo filetto preciso non determina le prestazioni ottiche del modulo.
+
+Verificare accesso, regolazione e superficie di contatto Funzione nell’assieme Specificare insieme ai pezzi accoppiati Accettazione e verifica successiva
+
+Chiudere un involucro compatto Specificare insieme ai pezzi accoppiati Indicare altezza testa, appoggio, accesso dell’utensile e profondità disponibile nel foro filettato. Identificare superfici sensibili ai segni.
+
+Viti a testa speciale ↗ Accettazione e verifica successiva Verificare che la vite finita vada in appoggio prima di toccare il fondo e che l’inserto previsto possa entrare. Registrare i segni ammessi sull’involucro.
+
+Lavorazioni secondarie e di precisione ↗
+
+Trasmettere una regolazione fine Specificare insieme ai pezzi accoppiati Specificare passo, corsa utile, forma dell’estremità e mantenimento della regolazione. Includere elemento accoppiato e supporto.
+
+Viti a passo fine ed extrafine ↗ Accettazione e verifica successiva Provare il movimento richiesto e il ritorno alla posizione di riferimento. Verificare la regolazione montata separatamente dalle dimensioni del filetto.
+
+Rullatura, taglio e maschiatura dei filetti ↗
+
+Posizionare con un eccentrico Specificare insieme ai pezzi accoppiati Indicare direzione ed entità dell’eccentricità rispetto a riferimenti definiti, riferimento angolare e ingombro di contatto.
+
+Viti eccentriche e a testa inclinata ↗ Accettazione e verifica successiva Controllare l’eccentricità nel piazzamento definito e provare la regolazione nel modulo. Non ricavare l’eccentricità dal solo profilo della testa.
+
+Tornitura a fantina mobile e CNC ↗
+
+##### Esempio di modifica: aggiungere una finitura
+
+Definire quali quote valgono dopo la finitura, comprese impronta, filetto fine ed estremità di contatto. Stabilire pulizia prima del montaggio e superfici da proteggere dalla manipolazione. Confrontare campioni finiti con utensile e pezzi previsti. Accettazione dimensionale, pulizia ed eventuale validazione ottica richiedono documenti distinti: una superficie visivamente pulita non dimostra un limite misurato di particelle.
+
+Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.
+
+Valutare riferimenti ed eccentricità di regolazione ↗
+
 #### Strutture di fissaggio rilevanti
 
 Viti a passo fine ed extra-fine ↗ Viti eccentriche e a testa inclinata ↗ Viti cave e con foro passante ↗ Viti a testa speciale ↗
@@ -11434,22 +11482,6 @@ Gli esempi descrivono i requisiti dell'applicazione. L'idoneità dei materiali, 
 #### Preparare una specifica di progetto più chiara.
 
 Disegni delle viti eccentriche: rendere inequivocabile l'offset ↗ Viti zigrinate: specifica presa e regolazione ↗ Elenco di controllo completo della richiesta di offerta ↗
-
-#### Tradurre l'applicazione in una specifica di fissaggio
-
-Per le apparecchiature elettroniche e ottiche, il primo compito è collegare la geometria dell'elemento di fissaggio con l'interfaccia dell'apparecchiatura. Piccoli dettagli dell'interfaccia: definire l'involucro della testa, l'incavo, l'adattamento della filettatura e l'accesso attorno alle parti adiacenti. Funzione di regolazione: specificare i requisiti di corsa, contatto di accoppiamento e bloccaggio per caratteristiche a passo fine o eccentriche. Compatibilità di materiali e superfici: rivedere la massa, l'aspetto, le esigenze elettriche e il contatto con materiali diversi. Spiegare l'ambiente e la sequenza del servizio insieme al disegno tecnico in modo che la revisione riguardi il componente installato.
-
-Per un regolatore del modulo, inviare una vista dell'assieme che mostri l'asse di posizionamento, il contatto di regolazione e l'accesso richiesto. Il passo della vite da solo non definisce il meccanismo completo.
-
-#### Seleziona un percorso attorno alle caratteristiche funzionali
-
-Le famiglie di prodotti rilevanti includono viti a passo fine ed extra fine, viti a testa eccentrica e angolata, viti a foro cavo e passante, viti a testa speciale. Questi sono punti di partenza per una revisione del disegno tecnico, non parti intercambiabili. Confronta SUS304 e SUS316 Acciaio inossidabile, leghe di alluminio, ottone, titanio e leghe di titanio con gli attuali requisiti meccanici e ambientali.
-
-Discuti di tornitura Swiss Type e CNC, rullatura di filetti, taglio e maschiatura, visione CCD e ispezione dimensionale come parte del percorso completo. Identificare la quantità del campione, le caratteristiche critiche, la finitura e le registrazioni richieste prima dell'approvazione. Il nome di un settore da solo non implica una certificazione di progetto o un ambito di prova generale.
-
-#### Pianifica l'approvazione dei campioni e ripeti gli ordini
-
-Il campionamento tipico, inclusa l'attrezzatura, richiede circa 10–15 giorni, soggetto a revisione e conferma tecnica. Confermare la base del programma, l'accettazione del campione e qualsiasi prova delle parti accoppiate nel preventivo. Rilascia la produzione ripetuta rispetto alla revisione approvata e registra le modifiche al materiale, al trattamento o alla geometria anziché fare affidamento su una fotografia precedente.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -11469,7 +11501,7 @@ GUIDA INGEGNERIA
 
 Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
-### Apparecchiature per l'energia, la ricarica e lo stoccaggio Elementi di fissaggio personalizzati
+### Fissaggi per apparecchiature di ricarica ed energia
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/energy-equipment/
 
 DETTAGLI DELLA CUSTODIA E DELLA CONNESSIONE
@@ -11492,6 +11524,38 @@ Specificare l'esposizione all'esterno, i metalli accoppiati, la finitura e i req
 
 Identificare le interfacce conduttive, la distanza dei cavi o i requisiti del bordo del foro separatamente dalla resistenza meccanica.
 
+#### Distinguere involucro, passaggio e contatto elettrico
+
+La vite di un pannello di servizio non ha la stessa specifica di un passaggio cavo o di un collegamento conduttivo. Identificare l’interfaccia prima di scegliere materiale e finitura.
+
+Distinguere involucro, passaggio e contatto elettrico Funzione nell’assieme Specificare insieme ai pezzi accoppiati Accettazione e verifica successiva
+
+Trattenere un coperchio di servizio Specificare insieme ai pezzi accoppiati Definire spessore coperchio, accesso utensile, ritegno ed esposizione. Identificare posizione allentata e serrata.
+
+Viti imperdibili ↗ Accettazione e verifica successiva Verificare apertura, ritenzione e riavvitamento con l’utensile di servizio. Concordare rivestimento ed eventuali controlli dell’involucro completo.
+
+Pulizia, frenatura e preassemblaggio ↗
+
+Far passare un cavo nel componente Specificare insieme ai pezzi accoppiati Indicare ingombro del cavo, percorso del foro, bordi d’ingresso e vincoli vicini. Distinguere spazio meccanico e requisiti d’isolamento.
+
+Viti cave e con foro passante ↗ Accettazione e verifica successiva Controllare passaggio e bordi interni prima di perdere l’accesso. Provare l’instradamento previsto: il diametro del foro non dimostra la protezione del cavo.
+
+Lavorazioni secondarie e di precisione ↗
+
+Serrare un collegamento conduttivo Specificare insieme ai pezzi accoppiati Identificare percorso della corrente, materiali di contatto, finitura e pacco serrato. Specificare se il componente filettato conduce o fornisce solo serraggio.
+
+Prigionieri a doppia estremità su disegno ↗ Accettazione e verifica successiva Concordare condizioni di montaggio e accettazione elettrica e termica del giunto. La conducibilità del materiale non definisce la portata del collegamento.
+
+Rivestimenti e trattamenti superficiali ↗
+
+##### Esempio di modifica: sostituire un componente di collegamento rivestito
+
+Confrontare materiale base, rivestimento e contatti proposti con il giunto approvato. Identificare modifiche ad appoggio, accoppiamento del filetto e montaggio prima di stabilire i controlli da ripetere. Conservare dati della pila di contatto e revisioni. Un certificato del materiale della vite non sostituisce prove del collegamento elettrico o approvazione dell’apparecchiatura.
+
+Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.
+
+Leggere le interfacce degli involucri di ricarica ↗
+
 #### Strutture di fissaggio rilevanti
 
 Viti di sicurezza antimanomissione ↗ Viti flangiate su disegno ↗ Viti cave e con foro passante ↗ Prigionieri a doppia estremità su disegno ↗
@@ -11509,22 +11573,6 @@ Gli esempi descrivono i requisiti dell'applicazione. L'idoneità dei materiali, 
 #### Preparare una specifica di progetto più chiara.
 
 Come specificare un azionamento a vite antimanomissione ↗ Pulizia tecnica: scrivere un requisito di fissaggio utile ↗ Elenco di controllo completo della richiesta di offerta ↗
-
-#### Tradurre l'applicazione in una specifica di fissaggio
-
-Per le apparecchiature di energia, ricarica e stoccaggio, il primo compito è collegare la geometria dell'elemento di fissaggio con l'interfaccia dell'apparecchiatura. Accesso e conservazione: definire l'accesso al servizio, le unità antimanomissione e le modalità di conservazione previste. Esposizione ambientale: specificare l'esposizione esterna, i metalli accoppiati, la finitura e i requisiti effettivi di accettazione. Funzione elettrica o di instradamento: identificare le interfacce conduttive, la distanza dei cavi o i requisiti del bordo del foro separatamente dalla resistenza meccanica. Spiegare l'ambiente e la sequenza del servizio insieme al disegno tecnico in modo che la revisione riguardi il componente installato.
-
-Per un dispositivo di fissaggio dell'armadio, fornire la sezione dell'alloggiamento, l'accesso all'unità e i requisiti di finitura. Per un componente conduttivo, includere anche il materiale del contatto e l'accettazione elettrica.
-
-#### Seleziona un percorso attorno alle caratteristiche funzionali
-
-Le famiglie di prodotti rilevanti includono viti di sicurezza e antimanomissione, viti con flangia personalizzata, viti con foro cavo e passante, prigionieri a doppia estremità personalizzati. Questi sono punti di partenza per una revisione del disegno tecnico, non parti intercambiabili. Confronta acciaio al carbonio e legato, acciaio inossidabile SUS304 e SUS316, rame con gli attuali requisiti meccanici e ambientali.
-
-Discutete di stampaggio a freddo multistazione, rivestimenti e trattamenti superficiali, pulizia, bloccaggio e assemblaggio come parte del percorso completo. Identificare la quantità del campione, le caratteristiche critiche, la finitura e le registrazioni richieste prima dell'approvazione. Il nome di un settore da solo non implica una certificazione di progetto o un ambito di prova generale.
-
-#### Pianifica l'approvazione dei campioni e ripeti gli ordini
-
-Il campionamento tipico, inclusa l'attrezzatura, richiede circa 10–15 giorni, soggetto a revisione e conferma tecnica. Confermare la base del programma, l'accettazione del campione e qualsiasi prova delle parti accoppiate nel preventivo. Rilascia la produzione ripetuta rispetto alla revisione approvata e registra le modifiche al materiale, al trattamento o alla geometria anziché fare affidamento su una fotografia precedente.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -11694,7 +11742,7 @@ GUIDA INGEGNERIA
 
 Il nome di una famiglia di rivestimenti non definisce la superficie completa fornita. Le richieste di offerta di dispositivi di fissaggio personalizzati dovrebbero collegare il sistema di rivestimento ai requisiti di adattamento, attrito e accettazione.
 
-### Dispositivi di fissaggio personalizzati per il controllo dei fluidi e le apparecchiature pneumatiche
+### Viti cave e fissaggi per apparecchiature fluidiche
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/industries/fluid-control/
 
 FORI, BORDI E PULIZIA
@@ -11717,6 +11765,38 @@ Definire le condizioni dei bordi interni, i residui consentiti e qualsiasi metod
 
 Specificare la compatibilità del mezzo ed eventuali test di pressione, flusso o perdite richiesti con condizioni definite.
 
+#### Distinguere ritegno, passaggio e tenuta
+
+Una vite cava può fornire un passaggio senza essere l’elemento di tenuta. Indicare percorso del fluido, sede della tenuta e caratteristica che trattiene l’assieme.
+
+Distinguere ritegno, passaggio e tenuta Funzione nell’assieme Specificare insieme ai pezzi accoppiati Accettazione e verifica successiva
+
+Trattenere un coperchio o componente Specificare insieme ai pezzi accoppiati Definire appoggio, pacco serrato, filetto accoppiato e carico. Identificare eventuali guarnizioni separate nell’assieme.
+
+Viti flangiate su disegno ↗ Accettazione e verifica successiva Controllare appoggio e impegno utile del filetto. Definire l’accettazione del giunto indipendentemente dal profilo visibile.
+
+Rullatura, taglio e maschiatura dei filetti ↗
+
+Fornire un passaggio interno Specificare insieme ai pezzi accoppiati Indicare foro completo, fori trasversali, parete residua, bordi interni e accesso alla pulizia. Specificare fluido e funzione di portata richiesta.
+
+Viti cave e con foro passante ↗ Accettazione e verifica successiva Controllare intersezioni nascoste nella fase opportuna. Concordare eventuali prove di portata e pulizia sul passaggio specificato.
+
+Pulizia, frenatura e preassemblaggio ↗
+
+Partecipare a un giunto di tenuta Specificare insieme ai pezzi accoppiati Identificare tipo di tenuta, sede accoppiata, finitura di contatto e montaggio. Specificare fluido, temperatura e pressione d’impiego.
+
+Viti a testa speciale ↗ Accettazione e verifica successiva Definire allestimento, durata, misura e criteri delle prove di perdita o pressione prescritte. Il controllo del foro aperto è una verifica diversa.
+
+Pianificare prove funzionali e documenti ↗
+
+##### Esempio di modifica: aggiungere un passaggio radiale
+
+Un nuovo foro trasversale modifica sezione locale e bordo interno da rifinire. Valutare l’intersezione prima di definire sbavatura e pulizia. Concordare il controllo dell’area nascosta finché accessibile, poi conservare quote finite e prove funzionali richieste. Nome del prodotto e controllo dimensionale superato non determinano una capacità di pressione.
+
+Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.
+
+Definire geometria del foro e accettazione dei bordi interni ↗
+
 #### Strutture di fissaggio rilevanti
 
 Viti cave e con foro passante ↗ Viti con foro trasversale o nella testa ↗ Viti con gambo e cono conico ↗ Profili filettati speciali e compositi ↗
@@ -11734,22 +11814,6 @@ Gli esempi descrivono i requisiti dell'applicazione. L'idoneità dei materiali, 
 #### Preparare una specifica di progetto più chiara.
 
 Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗ Fori trasversali nelle viti: pianificazione del controllo e dell'ispezione delle bave ↗ Elenco di controllo completo della richiesta di offerta ↗
-
-#### Tradurre l'applicazione in una specifica di fissaggio
-
-Per il controllo dei fluidi e le apparecchiature pneumatiche, il primo compito è collegare la geometria dell'elemento di fissaggio con l'interfaccia dell'apparecchiatura. Geometria interna completa: mostra tutti i fori assiali, le intersezioni laterali, le sezioni delle pareti e le interfacce di tenuta. Controllo delle bave e della pulizia: definire le condizioni del bordo interno, i residui consentiti e qualsiasi metodo di accettazione della pulizia specificato. Verifica funzionale: specificare la compatibilità del mezzo e qualsiasi prova di pressione, flusso o perdita richiesta con condizioni definite. Spiegare l'ambiente e la sequenza del servizio insieme al disegno tecnico in modo che la revisione riguardi il componente installato.
-
-Per una parte di passaggio, fornire la sezione interna e la disposizione di tenuta. Un foro passante o una rastremazione non stabilisce di per sé un valore di pressione o di tenuta.
-
-#### Seleziona un percorso attorno alle caratteristiche funzionali
-
-Le famiglie di prodotti rilevanti includono viti con foro cavo e passante, viti con foro incrociato e con testa, viti con gambo conico e conico, profili con filettatura speciale e composta. Questi sono punti di partenza per una revisione del disegno tecnico, non parti intercambiabili. Confronta SUS304 e SUS316 acciaio inossidabile, ottone, titanio e leghe di titanio con gli attuali requisiti meccanici e ambientali.
-
-Discuti di tornitura a fantina mobile e CNC, operazioni secondarie e di precisione, pulizia, bloccaggio e assemblaggio come parte del percorso completo. Identificare la quantità del campione, le caratteristiche critiche, la finitura e le registrazioni richieste prima dell'approvazione. Il nome di un settore da solo non implica una certificazione di progetto o un ambito di prova generale.
-
-#### Pianifica l'approvazione dei campioni e ripeti gli ordini
-
-Il campionamento tipico, inclusa l'attrezzatura, richiede circa 10–15 giorni, soggetto a revisione e conferma tecnica. Confermare la base del programma, l'accettazione del campione e qualsiasi prova delle parti accoppiate nel preventivo. Rilascia la produzione ripetuta rispetto alla revisione approvata e registra le modifiche al materiale, al trattamento o alla geometria anziché fare affidamento su una fotografia precedente.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 

@@ -1,5 +1,6 @@
 import {applyQualityRevisions,qualityAids,referenceGallery,writeQualityAssets} from './quality-content.mjs';
 import {applyCoreArticleReviews} from './core-article-review.mjs';
+import {industryInterfaceMetadata} from './industry-interface-content.mjs';
 import {buyerCopy,buyerMetadata,buyerJump,writeBuyerAssets} from './buyer-content.mjs';
 import {practicalSection,practicalImageCaption,practicalCopy} from './practical-content.mjs';
 import {deepContent,registerDeepContent} from './deep-content.mjs';
@@ -74,6 +75,7 @@ const pages={};
 function add(url,title,description,body,{schema=null,noindex=false}={}){
  if(priorityTitles[url])[title,description]=priorityTitles[url];
  if(buyerMetadata[url])[title,description]=buyerMetadata[url];
+ if(industryInterfaceMetadata[url])[title,description]=industryInterfaceMetadata[url];
  if(url==='/')body=body.replace(/(<div class="hero-art">[\s\S]*?)(<figure class="catalog-image[\s\S]*?<\/figure>)/,'$1'+homeScrewCarousel());
  body=priorityBody(url,body);
  const process=processData.find(p=>url===`/capabilities/${p.slug}/`);if(process)body=body.replace('<section class="cta-band">',processResultImage(process.slug)+'<section class="cta-band">');
@@ -81,7 +83,7 @@ function add(url,title,description,body,{schema=null,noindex=false}={}){
    if(['/products/custom-screws/','/quality/'].includes(url))body=body.replace('<section class="cta-band">',referenceGallery()+'<section class="cta-band">');
   const practical=practicalSection(url);if(practical)body=body.replace('<section class="cta-band">',practical+'<section class="cta-band">');
   const replaceGenericDepth=['/about/','/capabilities/inspection/'].includes(url)||(url.startsWith('/materials/')&&url!=='/materials/stainless-steel-304-316/');
-  const depth=replaceGenericDepth?'':contentDepth(url);if(depth)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',depth+'<section class="cta-band">'):body+depth;
+  const depth=replaceGenericDepth?'':contentDepth(url);if(depth)body=industryInterfaceMetadata[url]?body.replace('<section class="section two-columns">',depth+'<section class="section two-columns">'):body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',depth+'<section class="cta-band">'):body+depth;
  if(url.startsWith('/blog/')){const article=articles.find(a=>url==='/blog/'+a.slug+'/');if(article?.processes){const block='<section class="section muted"><h2>Related manufacturing topics</h2><div class="related-links">'+article.processes.map(slug=>'<a href="/capabilities/'+slug+'/">'+processData.find(p=>p.slug===slug).name+' ↗</a>').join('')+'</div>'+(article.sources?.length?'<div class="technical-sources"><h3>Technical references</h3><ul>'+article.sources.map(([n,u])=>'<li><a href="'+u+'">'+n+'</a></li>').join('')+'</ul></div>':'')+'</section>';body=body.replace('<section class="cta-band">',block+'<section class="cta-band">');}}
  if(url==='/resources/'){body=body.replace('<section class="cta-band">','<section class="section"><h2>Explore the complete specification.</h2><div class="related-links"><a href="/guides/drive-types/">Special drive interface guide ↗</a><a href="/capabilities/process-routes/">Complete manufacturing route examples ↗</a><a href="/materials/">Material selection by family ↗</a></div></section><section class="cta-band">');}
  if(url.startsWith('/blog/')&&url!=='/blog/'){const article=articles.find(a=>url==='/blog/'+a.slug+'/');if(article){const heroSlug=article.processes?.[0]??article.product;body=body.replace('<div class="article-layout">','<div class="article-visual">'+catalogImage(heroSlug,{hero:true,caption:true})+'</div><div class="article-layout">');}}

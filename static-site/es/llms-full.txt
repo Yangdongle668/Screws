@@ -11313,7 +11313,7 @@ GUÍA DE INGENIERÍA
 
 Un sujetador de acero de alta resistencia necesita una decisión de recubrimiento que considere tanto la corrosión como la exposición al hidrógeno durante todo el procesamiento.
 
-### Sujetadores personalizados de automatización industrial
+### Fijaciones a medida para automatización industrial
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/industrial-automation/
 
 LOCALIZAR Y MOVER INTERFACES
@@ -11335,6 +11335,38 @@ Proporcione el espacio libre de operación, el rango de ajuste, los topes de rec
 #### Comprobaciones del estado final
 
 Acordar qué diámetros, longitudes y relaciones de referencia se comprueban después del tratamiento y recubrimiento.
+
+#### Separar giro, posicionamiento y ajuste
+
+Un mecanismo puede usar la misma rosca para funciones muy distintas. Empiece por la superficie que determina movimiento o posición y defina después cómo retiene el tornillo el conjunto.
+
+Separar giro, posicionamiento y ajuste Función en el conjunto Definir junto con las piezas acopladas Aceptación y siguiente revisión
+
+Giro sobre un hombro liso Definir junto con las piezas acopladas Indique límites del taladro, diámetro final del hombro, longitud de contacto y cadena axial. Separe el giro de la rosca de retención.
+
+Tornillos de hombro y escalonados ↗ Aceptación y siguiente revisión Compruebe holgura entre taladro y hombro y movimiento libre en el conjunto. El calibre de rosca no basta para aceptar el giro.
+
+Estampación en frío y mecanizado secundario ↗
+
+Posicionar una estación desmontable Definir junto con las piezas acopladas Identifique pasador, orificio acoplado y cara de asiento. Indique relaciones de referencia y dirección prevista de desmontaje.
+
+Tornillos con pasador de posicionamiento integrado ↗ Aceptación y siguiente revisión Mida las relaciones de posición y pruebe desmontaje y remontaje. La rosca de apriete no es automáticamente la referencia de posicionamiento.
+
+Inspección dimensional y visión CCD ↗
+
+Regular un tope o una guía Definir junto con las piezas acopladas Defina recorrido, extremo de contacto, marcas admisibles y retención del ajuste. Incluya espacio de mano y herramienta en ambos extremos.
+
+Tornillos moleteados de apriete manual y ajuste ↗ Aceptación y siguiente revisión Registre el ajuste antes y después de la secuencia acordada. Separe marcas visuales, medida de posición y comprobación de retención.
+
+Operaciones secundarias y de precisión ↗
+
+##### Ejemplo de cambio: sustituir un casquillo de giro
+
+Un casquillo nuevo puede cambiar los límites del taladro o la cadena axial efectiva aunque el tornillo no cambie. Compare taladro y cadena nuevos con los límites finales del hombro y revise movimiento y asiento. Vincule las revisiones de casquillo y tornillo en el registro de muestras. Conserve la aprobación anterior para su configuración original y documente los controles aplicables al conjunto revisado.
+
+Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.
+
+Ver el estudio de diseño del pivote de automatización ↗
 
 #### Estructuras de sujetadores relevantes
 
@@ -11360,22 +11392,6 @@ Explore un ensamblaje propuesto, las opciones de sujetadores, una revisión de f
 
 Estudio de diseño de pivotes de automatización y accesorios de ajuste ↗
 
-#### Traducir la aplicación a una especificación de sujetadores.
-
-Para la automatización industrial, la primera tarea es conectar la geometría del sujetador con la interfaz del equipo. Ajustes y superficies de ubicación: Identifique el hombro liso que ubica el conjunto y su relación con el orificio de acoplamiento. Acceso de movimiento y servicio: proporcione espacio libre de operación, rango de ajuste, topes de recorrido y acceso a herramientas. Comprobaciones de estado final: Acordar qué diámetros, longitudes y relaciones entre datos geométricos se comprueban tras el tratamiento y revestimiento. Explique el entorno y la secuencia de servicio junto con el dibujo de ingeniería para que la revisión aborde el componente instalado.
-
-Para un pivote guiado, incluya el orificio correspondiente y la pila axial. Especifique las superficies de ubicación por separado de la rosca utilizada para retener el conjunto.
-
-#### Seleccione una ruta por las características funcionales.
-
-Las familias de productos relevantes incluyen tornillos de hombro y escalonados, tornillos de múltiples pasos y de múltiples hombros, tornillos con pasadores de ubicación integrales, tornillos moleteados de pulgar y de ajuste. Estos son puntos de partida para una revisión de planos de ingeniería, no piezas intercambiables. Compare el acero al carbono y aleado, el acero inoxidable SUS304 y SUS316 y las aleaciones de aluminio con los requisitos mecánicos y ambientales reales.
-
-Analice el rumbo en frío + mecanizado secundario, operaciones secundarias y de precisión, visión CCD e inspección dimensional como parte de la ruta completa. Identifique la cantidad de muestra, las características críticas, el acabado y los registros requeridos antes de la aprobación. El nombre de un sector por sí solo no implica una certificación de proyecto ni un alcance de prueba general.
-
-#### Planificar la aprobación de muestras y repetir pedidos
-
-El muestreo típico, incluidas las herramientas, demora aproximadamente 10–15 días, sujeto a revisión y confirmación técnicas. Confirme la base del cronograma, la aceptación de la muestra y cualquier prueba de piezas acopladas en la cotización. Libere la producción repetida con respecto a la revisión aprobada y registre los cambios en el material, el tratamiento o la geometría en lugar de depender de una fotografía anterior.
-
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -11394,7 +11410,7 @@ GUÍA DE INGENIERÍA
 
 Un revestimiento pertenece al plano dimensional. El ajuste final debe evaluarse en las condiciones que recibe el cliente, no sólo antes del tratamiento superficial.
 
-### Sujetadores personalizados para equipos electrónicos y ópticos
+### Tornillos a medida para electrónica y óptica
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/electronics-optics/
 
 PIEZAS COMPACTAS Y AJUSTABLES
@@ -11417,6 +11433,38 @@ Especifique los requisitos de recorrido, contacto de acoplamiento y bloqueo para
 
 Revisar masa, apariencia, necesidades eléctricas y contacto con materiales disímiles.
 
+#### Revisar acceso, ajuste y superficie de contacto
+
+Las carcasas compactas y los ajustes ópticos necesitan interfaces distintas. Defina la función mecánica con las piezas próximas; una rosca precisa no establece el rendimiento óptico del módulo.
+
+Revisar acceso, ajuste y superficie de contacto Función en el conjunto Definir junto con las piezas acopladas Aceptación y siguiente revisión
+
+Cerrar una carcasa compacta Definir junto con las piezas acopladas Indique altura de cabeza, asiento, acceso del destornillador y profundidad útil del agujero roscado. Identifique superficies sensibles a marcas.
+
+Tornillos de cabeza especial ↗ Aceptación y siguiente revisión Compruebe que el tornillo terminado asienta antes de tocar fondo y que entra la punta prevista. Registre las marcas permitidas en la carcasa.
+
+Operaciones secundarias y de precisión ↗
+
+Transmitir un ajuste fino Definir junto con las piezas acopladas Defina paso, recorrido útil, extremo de contacto y retención del ajuste. Incluya el elemento regulado y su apoyo.
+
+Tornillos de paso fino y extrafino ↗ Aceptación y siguiente revisión Pruebe el movimiento requerido y el retorno a una referencia. Verifique el ajuste montado por separado de las dimensiones de rosca.
+
+Laminado, corte y roscado interior ↗
+
+Posicionar mediante una excéntrica Definir junto con las piezas acopladas Indique dirección y magnitud del desplazamiento respecto a referencias identificadas, orientación angular y envolvente de contacto.
+
+Tornillos excéntricos y de cabeza inclinada ↗ Aceptación y siguiente revisión Compruebe la excentricidad en el montaje de medida definido y pruebe el ajuste en el módulo. No deduzca el desplazamiento solo del contorno de cabeza.
+
+Torneado de cabezal móvil y CNC ↗
+
+##### Ejemplo de cambio: añadir un acabado
+
+Revise qué dimensiones se aceptan después del acabado, incluidas huella, rosca fina y extremo. Defina limpieza antes del montaje y superficies que deben evitar daños por manipulación. Compare muestras terminadas con herramienta y piezas previstas. Aceptación dimensional, limpieza y validación óptica necesitan registros distintos; una pieza visualmente limpia no demuestra un límite de partículas medido.
+
+Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.
+
+Revisar referencias y geometría de ajuste excéntrico ↗
+
 #### Estructuras de sujetadores relevantes
 
 Tornillos de paso fino y extrafino ↗ Tornillos excéntricos y de cabeza inclinada ↗ Tornillos huecos y con taladro pasante ↗ Tornillos de cabeza especial ↗
@@ -11434,22 +11482,6 @@ Los ejemplos describen los requisitos de la aplicación. La idoneidad del materi
 #### Prepare una especificación del proyecto más clara.
 
 Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco ↗ Tornillos moleteados: especificación de agarre y ajuste ↗ Lista de verificación completa de RFQ ↗
-
-#### Traducir la aplicación a una especificación de sujetadores.
-
-Para equipos electrónicos y ópticos, la primera tarea es conectar la geometría del sujetador con la interfaz del equipo. Pequeños detalles de la interfaz: defina la envoltura del cabezal, el hueco, el ajuste de la rosca y el acceso alrededor de las piezas adyacentes. Función de ajuste: especifique los requisitos de recorrido, contacto de acoplamiento y bloqueo para funciones excéntricas o de paso fino. Compatibilidad de materiales y superficies: Revisar masa, apariencia, necesidades eléctricas y contacto con materiales disímiles. Explique el entorno y la secuencia de servicio junto con el dibujo de ingeniería para que la revisión aborde el componente instalado.
-
-Para un ajustador de módulo, enviar vista de montaje mostrando el eje de localización, contacto de ajuste y acceso requerido. El paso del tornillo por sí solo no define el mecanismo completo.
-
-#### Seleccione una ruta por las características funcionales.
-
-Las familias de productos relevantes incluyen tornillos de paso fino y extrafino, tornillos de cabeza excéntrica y angulada, tornillos huecos y de orificio pasante y tornillos de cabeza especial. Estos son puntos de partida para una revisión de planos de ingeniería, no piezas intercambiables. Compare SUS304 y SUS316 acero inoxidable, aleaciones de aluminio, latón, titanio y aleaciones de titanio con los requisitos mecánicos y ambientales reales.
-
-Analice el torneado CNC y de tipo suizo, el laminado de roscas, el corte y roscado, la visión CCD y la inspección dimensional como parte de la ruta completa. Identifique la cantidad de muestra, las características críticas, el acabado y los registros requeridos antes de la aprobación. El nombre de un sector por sí solo no implica una certificación de proyecto ni un alcance de prueba general.
-
-#### Planificar la aprobación de muestras y repetir pedidos
-
-El muestreo típico, incluidas las herramientas, demora aproximadamente 10–15 días, sujeto a revisión y confirmación técnicas. Confirme la base del cronograma, la aceptación de la muestra y cualquier prueba de piezas acopladas en la cotización. Libere la producción repetida con respecto a la revisión aprobada y registre los cambios en el material, el tratamiento o la geometría en lugar de depender de una fotografía anterior.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -11469,7 +11501,7 @@ GUÍA DE INGENIERÍA
 
 Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
-### Equipos de energía, carga y almacenamiento Sujetadores personalizados
+### Fijaciones para equipos de recarga y energía
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/energy-equipment/
 
 DETALLES DE CAJA Y CONEXIÓN
@@ -11492,6 +11524,38 @@ Especifique la exposición al aire libre, los metales acoplados, el acabado y lo
 
 Identifique las interfaces conductoras, la holgura del cable o los requisitos del borde del orificio por separado de la resistencia mecánica.
 
+#### Separar carcasa, paso y contacto eléctrico
+
+El tornillo que cierra un panel de servicio no tiene la misma especificación que un paso de cable o una conexión conductora. Identifique la interfaz antes de elegir material y acabado.
+
+Separar carcasa, paso y contacto eléctrico Función en el conjunto Definir junto con las piezas acopladas Aceptación y siguiente revisión
+
+Retener una tapa de servicio Definir junto con las piezas acopladas Defina espesor de tapa, acceso, retención y exposición. Identifique tanto posición liberada como apretada.
+
+Tornillos cautivos ↗ Aceptación y siguiente revisión Revise apertura, retención y reacoplamiento con la herramienta de servicio. Acuerde recubrimiento y controles del cerramiento completo.
+
+Limpieza, bloqueo y premontaje ↗
+
+Pasar un cable por una pieza Definir junto con las piezas acopladas Muestre envolvente del cable, recorrido del taladro, bordes de entrada y restricciones próximas. Distinga holgura mecánica y aislamiento.
+
+Tornillos huecos y con taladro pasante ↗ Aceptación y siguiente revisión Inspeccione paso y bordes internos antes de perder acceso. Pruebe el trazado previsto; el diámetro del taladro no demuestra protección del cable.
+
+Operaciones secundarias y de precisión ↗
+
+Apretar una conexión conductora Definir junto con las piezas acopladas Identifique trayectoria de corriente, materiales de contacto, acabado y cadena apretada. Indique si la pieza roscada conduce o solo aprieta.
+
+Espárragos de doble extremo a medida ↗ Aceptación y siguiente revisión Acuerde condiciones de montaje y aceptación eléctrica y térmica de la unión. La conductividad del material no establece la capacidad de la conexión.
+
+Recubrimientos y tratamientos superficiales ↗
+
+##### Ejemplo de cambio: sustituir una pieza de conexión recubierta
+
+Compare material base, recubrimiento y superficies propuestos con la unión aprobada. Identifique cambios en asiento, ajuste de rosca y montaje antes de decidir qué controles repetir. Conserve la cadena de contacto y sus revisiones en el registro. Un certificado de material del tornillo no sustituye ensayos de conexión eléctrica ni aprobación del equipo.
+
+Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.
+
+Leer sobre interfaces de cerramientos de recarga ↗
+
 #### Estructuras de sujetadores relevantes
 
 Tornillos de seguridad y antimanipulación ↗ Tornillos con brida a medida ↗ Tornillos huecos y con taladro pasante ↗ Espárragos de doble extremo a medida ↗
@@ -11509,22 +11573,6 @@ Los ejemplos describen los requisitos de la aplicación. La idoneidad del materi
 #### Prepare una especificación del proyecto más clara.
 
 Cómo especificar un tornillo a prueba de manipulaciones ↗ Limpieza técnica: redacción de un requisito de fijación útil ↗ Lista de verificación completa de RFQ ↗
-
-#### Traducir la aplicación a una especificación de sujetadores.
-
-Para equipos de energía, carga y almacenamiento, la primera tarea es conectar la geometría del sujetador con la interfaz del equipo. Acceso y retención: defina el acceso al servicio, las unidades a prueba de manipulaciones y la disposición de retención prevista. Exposición ambiental: Especifique la exposición al aire libre, los metales acoplados, el acabado y los requisitos de aceptación reales. Función eléctrica o de enrutamiento: identifique las interfaces conductoras, la holgura del cable o los requisitos del borde del orificio por separado de la resistencia mecánica. Explique el entorno y la secuencia de servicio junto con el dibujo de ingeniería para que la revisión aborde el componente instalado.
-
-Para un sujetador de gabinete, proporcione la sección de la carcasa, el acceso a la unidad y los requisitos de acabado. Para un componente conductor, incluya también el material de contacto y la aceptación eléctrica.
-
-#### Seleccione una ruta por las características funcionales.
-
-Las familias de productos relevantes incluyen tornillos de seguridad y a prueba de manipulaciones, tornillos de brida personalizados, tornillos huecos y de orificio pasante, y pernos de doble extremo personalizados. Estos son puntos de partida para una revisión de planos de ingeniería, no piezas intercambiables. Compare el acero al carbono y aleado, el acero inoxidable SUS304 y SUS316 y el cobre con los requisitos mecánicos y ambientales reales.
-
-Analice el cabezal en frío, los revestimientos y los tratamientos de superficie, la limpieza, el bloqueo y el montaje de estaciones múltiples como parte de la ruta completa. Identifique la cantidad de muestra, las características críticas, el acabado y los registros requeridos antes de la aprobación. El nombre de un sector por sí solo no implica una certificación de proyecto ni un alcance de prueba general.
-
-#### Planificar la aprobación de muestras y repetir pedidos
-
-El muestreo típico, incluidas las herramientas, demora aproximadamente 10–15 días, sujeto a revisión y confirmación técnicas. Confirme la base del cronograma, la aceptación de la muestra y cualquier prueba de piezas acopladas en la cotización. Libere la producción repetida con respecto a la revisión aprobada y registre los cambios en el material, el tratamiento o la geometría en lugar de depender de una fotografía anterior.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -11694,7 +11742,7 @@ GUÍA DE INGENIERÍA
 
 El nombre de una familia de revestimientos no define la superficie completa suministrada. Las solicitudes de cotización de sujetadores personalizados deben conectar el sistema de recubrimiento con los requisitos de ajuste, fricción y aceptación.
 
-### Control de fluidos y equipos neumáticos Sujetadores personalizados
+### Tornillos huecos y fijaciones para equipos de fluidos
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/fluid-control/
 
 AGUJEROS, BORDES Y LIMPIEZA
@@ -11717,6 +11765,38 @@ Defina la condición del borde interno, los residuos permitidos y cualquier mét
 
 Especifique la compatibilidad del medio y cualquier prueba de presión, flujo o fuga requerida con condiciones definidas.
 
+#### Distinguir retención, paso y sellado
+
+Un tornillo hueco puede crear un paso sin ser el elemento sellante. Muestre por dónde circula el medio, dónde sella y qué retiene el conjunto.
+
+Distinguir retención, paso y sellado Función en el conjunto Definir junto con las piezas acopladas Aceptación y siguiente revisión
+
+Retener una tapa o componente Definir junto con las piezas acopladas Defina apoyo, cadena apretada, rosca acoplada y carga. Identifique cualquier junta independiente en el conjunto.
+
+Tornillos con brida a medida ↗ Aceptación y siguiente revisión Compruebe asiento y acoplamiento útil. Defina la aceptación de la unión con independencia del perfil visible del tornillo.
+
+Laminado, corte y roscado interior ↗
+
+Proporcionar un paso interno Definir junto con las piezas acopladas Muestre taladro completo, cruces, pared restante, bordes internos y acceso de limpieza. Indique medio y función de caudal requerida.
+
+Tornillos huecos y con taladro pasante ↗ Aceptación y siguiente revisión Inspeccione intersecciones ocultas en una fase adecuada. Acuerde ensayos de caudal y limpieza para el paso especificado.
+
+Limpieza, bloqueo y premontaje ↗
+
+Formar parte de una unión estanca Definir junto con las piezas acopladas Identifique tipo de sello, asiento acoplado, acabado de contacto y montaje. Indique medio, temperatura y presión de uso.
+
+Tornillos de cabeza especial ↗ Aceptación y siguiente revisión Defina montaje de ensayo, duración, medida y criterios para las pruebas de fuga o presión especificadas. Inspeccionar un taladro abierto es otro control.
+
+Planificar pruebas funcionales y registros ↗
+
+##### Ejemplo de cambio: añadir un paso radial
+
+Un nuevo taladro transversal cambia la sección local y el borde interno que debe acabarse. Revise el cruce antes de fijar desbarbado y limpieza. Acuerde cómo inspeccionar la zona oculta mientras sea accesible y conserve dimensiones finales y registros funcionales exigidos. Ni el nombre del producto ni una inspección dimensional correcta establecen capacidad de presión.
+
+Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.
+
+Definir geometría del taladro y aceptación de bordes internos ↗
+
 #### Estructuras de sujetadores relevantes
 
 Tornillos huecos y con taladro pasante ↗ Tornillos con taladro transversal o en la cabeza ↗ Tornillos de vástago cónico y de cono ↗ Perfiles de rosca especiales y compuestos ↗
@@ -11734,22 +11814,6 @@ Los ejemplos describen los requisitos de la aplicación. La idoneidad del materi
 #### Prepare una especificación del proyecto más clara.
 
 Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗ Orificios cruzados en tornillos: planificación del control e inspección de rebabas ↗ Lista de verificación completa de RFQ ↗
-
-#### Traducir la aplicación a una especificación de sujetadores.
-
-Para equipos neumáticos y de control de fluidos, la primera tarea es conectar la geometría del sujetador con la interfaz del equipo. Geometría interna completa: muestra todos los orificios axiales, intersecciones laterales, secciones de pared e interfaces de sellado. Control de limpieza y rebabas: Defina la condición del borde interno, los residuos permitidos y cualquier método de aceptación de limpieza especificado. Verificación funcional: Especifique la compatibilidad del medio y cualquier prueba de presión, flujo o fuga requerida con condiciones definidas. Explique el entorno y la secuencia de servicio junto con el dibujo de ingeniería para que la revisión aborde el componente instalado.
-
-Para una parte de paso, proporcione la sección interna y la disposición de sellado. Un orificio pasante o un cono no establece por sí solo una clasificación de presión o estanqueidad.
-
-#### Seleccione una ruta por las características funcionales.
-
-Las familias de productos relevantes incluyen tornillos huecos y de orificio pasante, tornillos con perforación transversal y con orificio de cabeza, tornillos cónicos y de vástago cónico, perfiles de rosca especiales y compuestos. Estos son puntos de partida para una revisión de planos de ingeniería, no piezas intercambiables. Compare SUS304 y SUS316 Acero inoxidable, latón, titanio y aleaciones de titanio con los requisitos mecánicos y ambientales reales.
-
-Analice el torneado CNC y de tipo suizo, las operaciones secundarias y de precisión, la limpieza, el bloqueo y el ensamblaje como parte de la ruta completa. Identifique la cantidad de muestra, las características críticas, el acabado y los registros requeridos antes de la aprobación. El nombre de un sector por sí solo no implica una certificación de proyecto ni un alcance de prueba general.
-
-#### Planificar la aprobación de muestras y repetir pedidos
-
-El muestreo típico, incluidas las herramientas, demora aproximadamente 10–15 días, sujeto a revisión y confirmación técnicas. Confirme la base del cronograma, la aceptación de la muestra y cualquier prueba de piezas acopladas en la cotización. Libere la producción repetida con respecto a la revisión aprobada y registre los cambios en el material, el tratamiento o la geometría en lugar de depender de una fotografía anterior.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 

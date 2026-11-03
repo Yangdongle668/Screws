@@ -1,0 +1,513 @@
+{
+  "Assembly function": {
+    "de": "Baugruppenfunktion",
+    "es": "Función en el conjunto",
+    "it": "Funzione nell’assieme",
+    "fr": "Fonction dans l’assemblage",
+    "zh": "装配功能"
+  },
+  "Specify with the mating parts": {
+    "de": "Mit den Gegenstücken spezifizieren",
+    "es": "Definir junto con las piezas acopladas",
+    "it": "Specificare insieme ai pezzi accoppiati",
+    "fr": "À spécifier avec les pièces en regard",
+    "zh": "结合配合件明确的要求"
+  },
+  "Acceptance and next review": {
+    "de": "Abnahme und weitere Prüfung",
+    "es": "Aceptación y siguiente revisión",
+    "it": "Accettazione e verifica successiva",
+    "fr": "Réception et examen suivant",
+    "zh": "验收及后续评审"
+  },
+  "Plan functional tests and records": {
+    "de": "Funktionsprüfungen und Nachweise planen",
+    "es": "Planificar pruebas funcionales y registros",
+    "it": "Pianificare prove funzionali e documenti",
+    "fr": "Prévoir les essais fonctionnels et leurs documents",
+    "zh": "制定功能试验与记录要求"
+  },
+  "Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly.": {
+    "de": "Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.",
+    "es": "Ejemplos de revisión de diseño, no registros de entregas a clientes. Defina límites y controles para el conjunto pedido.",
+    "it": "Esempi di revisione progettuale, non documenti di consegne a clienti. Definire limiti e controlli per l’assieme ordinato.",
+    "fr": "Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.",
+    "zh": "以上为设计评审示例，并非客户交付记录。实际限值和检查项目应针对所订购的装配确定。"
+  },
+  "Custom Fasteners for Industrial Automation": {
+    "de": "Sonderbefestiger für die Industrieautomation",
+    "es": "Fijaciones a medida para automatización industrial",
+    "it": "Elementi di fissaggio per automazione industriale",
+    "fr": "Fixations sur mesure pour l’automatisation industrielle",
+    "zh": "工业自动化非标螺丝：转动、定位与调节"
+  },
+  "Compare pivot, locating and adjustment screw interfaces for automation. Connect the mating geometry to suitable products, routes and acceptance records.": {
+    "de": "Schraubenschnittstellen für Drehgelenke, Positionierung und Verstellung vergleichen. Gegenstückgeometrie mit Produkten, Fertigungswegen und Prüfnachweisen verbinden.",
+    "es": "Compare interfaces de giro, posicionamiento y ajuste en automatización. Relacione geometría acoplada, productos, procesos y registros de aceptación.",
+    "it": "Confrontare interfacce di rotazione, posizionamento e regolazione. Collegare geometria accoppiata, prodotti, cicli e documenti di accettazione.",
+    "fr": "Comparez les interfaces de pivot, de positionnement et de réglage en automatisation, avec produits, procédés et documents de réception adaptés.",
+    "zh": "比较自动化机构中转动、定位和调节所需的螺丝接口，从配合件几何找到对应产品、加工路线和验收记录。"
+  },
+  "Separate pivoting, locating and adjustment": {
+    "de": "Drehen, Positionieren und Verstellen unterscheiden",
+    "es": "Separar giro, posicionamiento y ajuste",
+    "it": "Distinguere rotazione, posizionamento e regolazione",
+    "fr": "Distinguer pivotement, positionnement et réglage",
+    "zh": "先区分转动、定位与调节"
+  },
+  "A mechanism may use the same thread size for very different jobs. Start with the surface that establishes motion or position; then define how the screw retains the assembly.": {
+    "de": "Ein Mechanismus kann dieselbe Gewindegröße für sehr unterschiedliche Aufgaben verwenden. Beginnen Sie mit der Fläche, die Bewegung oder Position bestimmt; definieren Sie dann, wie die Schraube die Baugruppe hält.",
+    "es": "Un mecanismo puede usar la misma rosca para funciones muy distintas. Empiece por la superficie que determina movimiento o posición y defina después cómo retiene el tornillo el conjunto.",
+    "it": "Un meccanismo può usare lo stesso filetto per compiti molto diversi. Partire dalla superficie che determina movimento o posizione, poi definire come la vite trattiene l’assieme.",
+    "fr": "Un mécanisme peut utiliser le même filetage pour des fonctions très différentes. Partez de la surface qui établit mouvement ou position, puis définissez le maintien de l’assemblage par la vis.",
+    "zh": "同样的螺纹规格，在机构里可能承担完全不同的任务。先找出决定运动或位置的表面，再明确螺丝怎样保持整个装配。"
+  },
+  "Pivot on a smooth shoulder": {
+    "de": "Drehgelenk auf glatter Schulter",
+    "es": "Giro sobre un hombro liso",
+    "it": "Rotazione su spallamento liscio",
+    "fr": "Pivotement sur un épaulement lisse",
+    "zh": "以光杆肩轴作为转轴"
+  },
+  "Show bore limits, finished shoulder diameter, contact length and the axial stack. Keep the rotating interface separate from the retaining thread.": {
+    "de": "Bohrungsgrenzen, fertigen Schulterdurchmesser, Kontaktlänge und Axialstapel zeigen. Drehfläche und Haltegewinde getrennt behandeln.",
+    "es": "Indique límites del taladro, diámetro final del hombro, longitud de contacto y cadena axial. Separe el giro de la rosca de retención.",
+    "it": "Indicare limiti del foro, diametro finito dello spallamento, lunghezza di contatto e catena assiale. Separare rotazione e filetto di ritegno.",
+    "fr": "Indiquez limites d’alésage, diamètre fini d’épaulement, longueur de contact et chaîne axiale. Séparez l’interface tournante du filetage de maintien.",
+    "zh": "标出孔径极限、成品肩轴直径、接触长度和轴向尺寸链，把转动配合与保持装配的螺纹分开定义。"
+  },
+  "Check bore-to-shoulder clearance and free movement in the assembled stack. Thread gauging alone does not accept the pivot.": {
+    "de": "Bohrungs-Schulter-Spiel und freie Bewegung im montierten Stapel prüfen. Eine Gewindelehre allein nimmt das Drehgelenk nicht ab.",
+    "es": "Compruebe holgura entre taladro y hombro y movimiento libre en el conjunto. El calibre de rosca no basta para aceptar el giro.",
+    "it": "Controllare gioco foro-spallamento e movimento libero nell’assieme. Il solo controllo del filetto non accetta il perno rotante.",
+    "fr": "Vérifiez le jeu alésage-épaulement et la liberté de mouvement dans l’empilage monté. Le contrôle du filetage ne réceptionne pas le pivot.",
+    "zh": "核对孔轴间隙，并在实际轴向叠层中检查能否自由转动。螺纹通止规合格不能代替转动配合验收。"
+  },
+  "Locate a removable station": {
+    "de": "Abnehmbare Station positionieren",
+    "es": "Posicionar una estación desmontable",
+    "it": "Posizionare una stazione rimovibile",
+    "fr": "Positionner un poste démontable",
+    "zh": "给可拆卸工位定位"
+  },
+  "Identify the locating pin, mating hole and seating face. Show their datum relationships and the intended removal direction.": {
+    "de": "Positionierstift, Gegenbohrung und Anlagefläche benennen. Bezugsbeziehungen und vorgesehene Abnahmerichtung zeigen.",
+    "es": "Identifique pasador, orificio acoplado y cara de asiento. Indique relaciones de referencia y dirección prevista de desmontaje.",
+    "it": "Identificare perno, foro accoppiato e piano d’appoggio. Indicare riferimenti geometrici e direzione di rimozione prevista.",
+    "fr": "Identifiez pion, trou en regard et face d’appui, avec relations de référence et direction de démontage prévue.",
+    "zh": "明确定位销、配合孔和落座面，标出它们的基准关系及预定拆卸方向。"
+  },
+  "Measure the specified locating relationships and trial removal and refitting. A clamp thread is not automatically the locating datum.": {
+    "de": "Festgelegte Lagebeziehungen messen und Aus- und Wiedereinbau erproben. Das Spanngewinde ist nicht automatisch der Positionierbezug.",
+    "es": "Mida las relaciones de posición y pruebe desmontaje y remontaje. La rosca de apriete no es automáticamente la referencia de posicionamiento.",
+    "it": "Misurare le relazioni di posizione e provare rimozione e rimontaggio. Il filetto di serraggio non è automaticamente il riferimento di posizionamento.",
+    "fr": "Mesurez les relations de position spécifiées et essayez dépose et repose. Le filetage de serrage n’est pas automatiquement la référence de positionnement.",
+    "zh": "测量图纸规定的定位关系，并试装拆卸和复位。用于夹紧的螺纹不一定就是定位基准。"
+  },
+  "Adjust a stop or guide": {
+    "de": "Anschlag oder Führung verstellen",
+    "es": "Regular un tope o una guía",
+    "it": "Regolare un arresto o una guida",
+    "fr": "Régler une butée ou un guidage",
+    "zh": "调节止挡或导向件"
+  },
+  "Define travel, contact end, permitted marking and how the selected setting is retained. Include operator and tool clearance at both travel ends.": {
+    "de": "Hub, Kontaktende, zulässige Spuren und Halten der Einstellung festlegen. Hand- und Werkzeugfreiraum an beiden Hubenden berücksichtigen.",
+    "es": "Defina recorrido, extremo de contacto, marcas admisibles y retención del ajuste. Incluya espacio de mano y herramienta en ambos extremos.",
+    "it": "Definire corsa, estremità di contatto, segni ammessi e mantenimento della regolazione. Considerare spazio per operatore e utensile a fine corsa.",
+    "fr": "Définissez course, extrémité de contact, marques admises et maintien du réglage. Prévoyez accès opérateur et outil aux extrémités.",
+    "zh": "规定调节行程、接触端、允许压痕及位置保持方式，同时检查行程两端的手部和工具空间。"
+  },
+  "Record the setting before and after the agreed adjustment sequence. Separate visual marking, position measurement and retention checks.": {
+    "de": "Einstellung vor und nach dem vereinbarten Verstellablauf dokumentieren. Sichtspuren, Positionsmessung und Halteprüfung unterscheiden.",
+    "es": "Registre el ajuste antes y después de la secuencia acordada. Separe marcas visuales, medida de posición y comprobación de retención.",
+    "it": "Registrare la posizione prima e dopo la sequenza concordata. Distinguere segni visivi, misura della posizione e controllo del mantenimento.",
+    "fr": "Consignez le réglage avant et après la séquence convenue. Distinguez marques visibles, mesure de position et maintien.",
+    "zh": "记录约定调节过程前后的位置，分别判断表面痕迹、位置测量和保持功能。"
+  },
+  "Change example: replace a pivot bushing": {
+    "de": "Änderungsbeispiel: eine Gelenkbuchse ersetzen",
+    "es": "Ejemplo de cambio: sustituir un casquillo de giro",
+    "it": "Esempio di modifica: sostituire una boccola del perno",
+    "fr": "Exemple de modification : remplacer une bague de pivot",
+    "zh": "变更示例：更换转轴衬套"
+  },
+  "A replacement bushing can change the bore limits or effective axial stack even when the screw is unchanged. Compare the new bore and stack with the finished shoulder limits, then review movement and seating. Link the bushing and screw revisions in the sample record. Keep the previous approval for its original configuration; document which checks apply to the revised assembly.": {
+    "de": "Eine Ersatzbuchse kann Bohrungsgrenzen oder den wirksamen Axialstapel ändern, auch wenn die Schraube gleich bleibt. Vergleichen Sie neue Bohrung und Stapel mit den fertigen Schultergrenzen, danach Bewegung und Anlage. Verknüpfen Sie Buchsen- und Schraubenstand im Musterprotokoll. Die bisherige Freigabe gilt für ihre ursprüngliche Konfiguration; dokumentieren Sie die Prüfungen der geänderten Baugruppe.",
+    "es": "Un casquillo nuevo puede cambiar los límites del taladro o la cadena axial efectiva aunque el tornillo no cambie. Compare taladro y cadena nuevos con los límites finales del hombro y revise movimiento y asiento. Vincule las revisiones de casquillo y tornillo en el registro de muestras. Conserve la aprobación anterior para su configuración original y documente los controles aplicables al conjunto revisado.",
+    "it": "Una boccola sostitutiva può cambiare i limiti del foro o la catena assiale effettiva anche con la stessa vite. Confrontare nuovo foro e catena con i limiti dello spallamento finito, poi verificare movimento e appoggio. Collegare le revisioni di boccola e vite nel verbale dei campioni. Conservare l’approvazione precedente per la configurazione originale e documentare i controlli dell’assieme modificato.",
+    "fr": "Une bague de remplacement peut modifier les limites d’alésage ou la chaîne axiale effective sans changer la vis. Comparez nouvel alésage et empilage aux limites de l’épaulement fini, puis examinez mouvement et appui. Reliez les indices de bague et de vis au dossier d’échantillons. Conservez l’ancienne approbation pour sa configuration initiale et documentez les contrôles de l’assemblage révisé.",
+    "zh": "即使螺丝没有变化，更换衬套也可能改变孔径极限或有效轴向叠层。应将新孔径和叠层与成品肩轴的极限尺寸重新比较，再检查转动和落座情况。样品记录中同时注明衬套与螺丝版本。旧批准记录仍对应原配置，新装配需要做哪些检查则另行记录。"
+  },
+  "Follow the automation pivot design study": {
+    "de": "Konstruktionsstudie zum Automations-Drehgelenk",
+    "es": "Ver el estudio de diseño del pivote de automatización",
+    "it": "Seguire lo studio del perno per automazione",
+    "fr": "Consulter l’étude de conception du pivot d’automatisation",
+    "zh": "查看自动化转轴治具设计示例"
+  },
+  "Custom Screws for Electronics & Optical Assemblies": {
+    "de": "Sonderschrauben für Elektronik und Optik",
+    "es": "Tornillos a medida para electrónica y óptica",
+    "it": "Viti su misura per elettronica e ottica",
+    "fr": "Vis sur mesure pour électronique et optique",
+    "zh": "电子与光学组件非标螺丝：空间、调节与接触"
+  },
+  "Specify compact screw heads, fine-thread adjusters and eccentric interfaces for electronics and optical assemblies, with access, contact and cleanliness checks.": {
+    "de": "Kompakte Schraubenköpfe, Feingewindeversteller und Exzenter für Elektronik und Optik spezifizieren, mit Prüfungen zu Zugang, Kontakt und Sauberkeit.",
+    "es": "Defina cabezas compactas, ajustes de rosca fina e interfaces excéntricas para electrónica y óptica, con controles de acceso, contacto y limpieza.",
+    "it": "Specificare teste compatte, regolazioni a passo fine ed eccentrici per elettronica e ottica, con controlli di accesso, contatto e pulizia.",
+    "fr": "Spécifiez têtes compactes, réglages à pas fin et interfaces excentriques pour électronique et optique, avec contrôles d’accès, de contact et de propreté.",
+    "zh": "为电子外壳和光学调节机构明确小型螺丝头、细牙及偏心接口，分别检查操作空间、接触状态和清洁要求。"
+  },
+  "Review access, adjustment and the contact surface": {
+    "de": "Zugang, Verstellung und Kontaktfläche prüfen",
+    "es": "Revisar acceso, ajuste y superficie de contacto",
+    "it": "Verificare accesso, regolazione e superficie di contatto",
+    "fr": "Examiner accès, réglage et surface de contact",
+    "zh": "分别评审操作空间、调节和接触表面"
+  },
+  "Compact housings and optical adjusters need different screw interfaces. Define the screw’s mechanical role alongside adjacent parts; an accurate thread alone does not establish the module’s optical performance.": {
+    "de": "Kompakte Gehäuse und optische Versteller brauchen unterschiedliche Schraubenschnittstellen. Die mechanische Aufgabe mit Nachbarteilen definieren; ein maßhaltiges Gewinde allein belegt keine optische Modulleistung.",
+    "es": "Las carcasas compactas y los ajustes ópticos necesitan interfaces distintas. Defina la función mecánica con las piezas próximas; una rosca precisa no establece el rendimiento óptico del módulo.",
+    "it": "Involucri compatti e regolazioni ottiche richiedono interfacce diverse. Definire il ruolo meccanico con i pezzi adiacenti: il solo filetto preciso non determina le prestazioni ottiche del modulo.",
+    "fr": "Boîtiers compacts et réglages optiques demandent des interfaces différentes. Définissez le rôle mécanique avec les pièces voisines ; un filetage précis ne suffit pas à établir les performances optiques du module.",
+    "zh": "小型外壳和光学调节机构需要不同的螺丝接口。应结合邻近零件明确机械作用；螺纹尺寸准确，并不代表模组的光学性能已得到验证。"
+  },
+  "Close a compact housing": {
+    "de": "Kompaktes Gehäuse schließen",
+    "es": "Cerrar una carcasa compacta",
+    "it": "Chiudere un involucro compatto",
+    "fr": "Fermer un boîtier compact",
+    "zh": "紧固小型外壳"
+  },
+  "Show head height, seating face, driver approach and the depth available in the mating tapped part. Identify appearance-sensitive surfaces.": {
+    "de": "Kopfhöhe, Anlagefläche, Werkzeugansatz und verfügbare Gewindelochtiefe zeigen. Erscheinungsempfindliche Flächen benennen.",
+    "es": "Indique altura de cabeza, asiento, acceso del destornillador y profundidad útil del agujero roscado. Identifique superficies sensibles a marcas.",
+    "it": "Indicare altezza testa, appoggio, accesso dell’utensile e profondità disponibile nel foro filettato. Identificare superfici sensibili ai segni.",
+    "fr": "Indiquez hauteur de tête, face d’appui, accès du tournevis et profondeur disponible du taraudage. Repérez les surfaces d’aspect sensibles.",
+    "zh": "标出头高、落座面、批头进入方向和配合螺纹孔的可用深度，注明对外观敏感的表面。"
+  },
+  "Check that the finished screw seats before bottoming and that the intended bit can enter. Record permitted contact marks on the housing.": {
+    "de": "Prüfen, dass der Kopf anliegt, bevor das Schraubenende den Lochgrund berührt, und dass der vorgesehene Bit zugänglich ist. Zulässige Gehäusespuren dokumentieren.",
+    "es": "Compruebe que el tornillo terminado asienta antes de tocar fondo y que entra la punta prevista. Registre las marcas permitidas en la carcasa.",
+    "it": "Verificare che la vite finita vada in appoggio prima di toccare il fondo e che l’inserto previsto possa entrare. Registrare i segni ammessi sull’involucro.",
+    "fr": "Vérifiez que la vis finie prend appui avant de talonner et que l’embout prévu peut entrer. Consignez les marques admises sur le boîtier.",
+    "zh": "确认成品螺丝能先落座而不是先顶到孔底，且配套批头能够进入；记录外壳允许的接触痕迹。"
+  },
+  "Translate a fine adjustment": {
+    "de": "Feinverstellung übertragen",
+    "es": "Transmitir un ajuste fino",
+    "it": "Trasmettere una regolazione fine",
+    "fr": "Transmettre un réglage fin",
+    "zh": "通过细牙实现位移调节"
+  },
+  "Specify thread pitch, usable travel, contact-end form and the means of retaining the setting. Include the mating adjuster and its support.": {
+    "de": "Gewindesteigung, nutzbaren Hub, Kontaktendform und Halten der Einstellung festlegen. Gegenversteller und dessen Lagerung einbeziehen.",
+    "es": "Defina paso, recorrido útil, extremo de contacto y retención del ajuste. Incluya el elemento regulado y su apoyo.",
+    "it": "Specificare passo, corsa utile, forma dell’estremità e mantenimento della regolazione. Includere elemento accoppiato e supporto.",
+    "fr": "Spécifiez pas, course utile, forme d’extrémité et maintien du réglage. Incluez l’élément réglé et son support.",
+    "zh": "规定螺距、有效行程、接触端形状及调节位置的保持方式，并提供配合调节件和支撑结构。"
+  },
+  "Trial the required motion and return to a reference setting. Verify the assembled adjustment separately from thread dimensions.": {
+    "de": "Geforderte Bewegung und Rückkehr zur Referenzstellung erproben. Montageverstellung getrennt von Gewindemaßen prüfen.",
+    "es": "Pruebe el movimiento requerido y el retorno a una referencia. Verifique el ajuste montado por separado de las dimensiones de rosca.",
+    "it": "Provare il movimento richiesto e il ritorno alla posizione di riferimento. Verificare la regolazione montata separatamente dalle dimensioni del filetto.",
+    "fr": "Essayez le mouvement demandé et le retour à une position de référence. Vérifiez le réglage monté séparément des dimensions du filetage.",
+    "zh": "试验要求的运动及返回基准位置的情况，将整机调节功能与螺纹尺寸验收分开。"
+  },
+  "Position with an eccentric": {
+    "de": "Mit einem Exzenter positionieren",
+    "es": "Posicionar mediante una excéntrica",
+    "it": "Posizionare con un eccentrico",
+    "fr": "Positionner avec un excentrique",
+    "zh": "利用偏心结构调整位置"
+  },
+  "State offset direction and magnitude relative to named datums, plus the angular reference and mating contact envelope.": {
+    "de": "Versatzrichtung und -betrag zu benannten Bezügen sowie Winkelreferenz und Kontaktbereich am Gegenstück angeben.",
+    "es": "Indique dirección y magnitud del desplazamiento respecto a referencias identificadas, orientación angular y envolvente de contacto.",
+    "it": "Indicare direzione ed entità dell’eccentricità rispetto a riferimenti definiti, riferimento angolare e ingombro di contatto.",
+    "fr": "Précisez direction et valeur du décalage par rapport aux références nommées, repère angulaire et enveloppe de contact.",
+    "zh": "按明确的基准规定偏心方向和偏心量，同时标明角度基准与配合接触范围。"
+  },
+  "Check offset geometry in the defined setup and trial adjustment in the module. Do not infer offset from the head outline alone.": {
+    "de": "Versatzgeometrie in der definierten Aufspannung prüfen und Verstellung im Modul erproben. Den Versatz nicht allein aus der Kopfkontur ableiten.",
+    "es": "Compruebe la excentricidad en el montaje de medida definido y pruebe el ajuste en el módulo. No deduzca el desplazamiento solo del contorno de cabeza.",
+    "it": "Controllare l’eccentricità nel piazzamento definito e provare la regolazione nel modulo. Non ricavare l’eccentricità dal solo profilo della testa.",
+    "fr": "Contrôlez le décalage dans le montage défini et essayez le réglage dans le module. Ne déduisez pas le décalage du seul contour de tête.",
+    "zh": "在规定的测量装夹下检查偏心几何，再放入模组试调，不能仅凭头部外形判断偏心量。"
+  },
+  "Change example: add a surface finish": {
+    "de": "Änderungsbeispiel: eine Oberflächenbehandlung ergänzen",
+    "es": "Ejemplo de cambio: añadir un acabado",
+    "it": "Esempio di modifica: aggiungere una finitura",
+    "fr": "Exemple de modification : ajouter une finition",
+    "zh": "变更示例：增加表面处理"
+  },
+  "Review which dimensions apply after finishing, including the driver recess, fine thread and contact end. Define the clean condition required before assembly and which surfaces must avoid handling damage. Compare finished samples with the intended tool and mating components. Dimensional acceptance, cleanliness and any optical-system validation need distinct records; a visually clean part is not evidence of a measured particle limit.": {
+    "de": "Festlegen, welche Maße nach Behandlung gelten, einschließlich Antriebsvertiefung, Feingewinde und Kontaktende. Den sauberen Montagezustand und vor Handhabungsschäden zu schützende Flächen definieren. Fertige Muster mit vorgesehenem Werkzeug und Gegenstücken vergleichen. Maßabnahme, Sauberkeit und gegebenenfalls optische Systemvalidierung brauchen getrennte Nachweise; sichtbare Sauberkeit belegt keinen gemessenen Partikelgrenzwert.",
+    "es": "Revise qué dimensiones se aceptan después del acabado, incluidas huella, rosca fina y extremo. Defina limpieza antes del montaje y superficies que deben evitar daños por manipulación. Compare muestras terminadas con herramienta y piezas previstas. Aceptación dimensional, limpieza y validación óptica necesitan registros distintos; una pieza visualmente limpia no demuestra un límite de partículas medido.",
+    "it": "Definire quali quote valgono dopo la finitura, comprese impronta, filetto fine ed estremità di contatto. Stabilire pulizia prima del montaggio e superfici da proteggere dalla manipolazione. Confrontare campioni finiti con utensile e pezzi previsti. Accettazione dimensionale, pulizia ed eventuale validazione ottica richiedono documenti distinti: una superficie visivamente pulita non dimostra un limite misurato di particelle.",
+    "fr": "Précisez les dimensions valables après finition, dont empreinte, filetage fin et extrémité de contact. Définissez la propreté avant montage et les surfaces à protéger des dommages de manipulation. Comparez les échantillons finis à l’outil et aux pièces prévus. Réception dimensionnelle, propreté et éventuelle validation optique exigent des documents distincts ; un aspect propre ne prouve pas une limite de particules mesurée.",
+    "zh": "应明确哪些尺寸按表面处理后的状态验收，包括批头槽、细牙和接触端。规定装配前所需的清洁状态，以及搬运中应避免损伤的表面。用配套工具和实际配合件检查成品样件。尺寸验收、清洁度和必要的光学系统验证应分别记录；目视干净不能证明满足某个实测颗粒限值。"
+  },
+  "Review eccentric datums and adjustment geometry": {
+    "de": "Exzenterbezüge und Verstellgeometrie prüfen",
+    "es": "Revisar referencias y geometría de ajuste excéntrico",
+    "it": "Valutare riferimenti ed eccentricità di regolazione",
+    "fr": "Examiner références et géométrie du réglage excentrique",
+    "zh": "查看偏心基准与调节几何说明"
+  },
+  "Custom Fasteners for Charging & Energy Equipment": {
+    "de": "Sonderbefestiger für Lade- und Energieanlagen",
+    "es": "Fijaciones para equipos de recarga y energía",
+    "it": "Fissaggi per apparecchiature di ricarica ed energia",
+    "fr": "Fixations pour équipements de recharge et d’énergie",
+    "zh": "充电与储能设备非标螺丝：外壳、孔道与连接"
+  },
+  "Separate service-cover screws, cable passages and conductive connections in charging and storage equipment. Define contact, finish and assembly acceptance.": {
+    "de": "Wartungsdeckel, Kabeldurchführungen und leitende Verbindungen in Lade- und Speicheranlagen unterscheiden. Kontakt, Oberfläche und Montageabnahme definieren.",
+    "es": "Separe tornillos de tapas de servicio, pasos de cable y conexiones conductoras en recarga y almacenamiento. Defina contacto, acabado y aceptación del conjunto.",
+    "it": "Distinguere viti per coperchi di servizio, passaggi cavo e collegamenti conduttivi in ricarica e accumulo. Definire contatto, finitura e accettazione.",
+    "fr": "Distinguez vis de panneaux de service, passages de câbles et connexions conductrices dans la recharge et le stockage. Définissez contact, finition et réception.",
+    "zh": "区分充电及储能设备的维护面板螺丝、线缆孔道与导电连接，分别明确接触材料、表面状态和装配验收。"
+  },
+  "Separate enclosure, passage and electrical-contact duties": {
+    "de": "Gehäuse-, Durchführungs- und Kontaktaufgaben trennen",
+    "es": "Separar carcasa, paso y contacto eléctrico",
+    "it": "Distinguere involucro, passaggio e contatto elettrico",
+    "fr": "Distinguer boîtier, passage et contact électrique",
+    "zh": "把外壳、孔道与电接触分开评审"
+  },
+  "The screw that closes a service panel is not the same specification as a cable passage or a conductive connection. Identify the actual interface before choosing material and finish.": {
+    "de": "Eine Wartungsplattenschraube hat andere Anforderungen als eine Kabeldurchführung oder leitende Verbindung. Die tatsächliche Schnittstelle bestimmen, bevor Werkstoff und Oberfläche gewählt werden.",
+    "es": "El tornillo que cierra un panel de servicio no tiene la misma especificación que un paso de cable o una conexión conductora. Identifique la interfaz antes de elegir material y acabado.",
+    "it": "La vite di un pannello di servizio non ha la stessa specifica di un passaggio cavo o di un collegamento conduttivo. Identificare l’interfaccia prima di scegliere materiale e finitura.",
+    "fr": "La vis qui ferme un panneau de service ne relève pas de la même spécification qu’un passage de câble ou une connexion conductrice. Identifiez l’interface avant de choisir matière et finition.",
+    "zh": "关闭维护面板的螺丝，与线缆通道或导电连接件，需要的规格并不相同。选材料和表面处理前，应先确认实际承担的接口功能。"
+  },
+  "Retain a service cover": {
+    "de": "Wartungsdeckel halten",
+    "es": "Retener una tapa de servicio",
+    "it": "Trattenere un coperchio di servizio",
+    "fr": "Retenir un panneau de service",
+    "zh": "保持可维护面板"
+  },
+  "Define cover thickness, drive access, retaining arrangement and exposure. Identify the released position as well as the tightened position.": {
+    "de": "Deckeldicke, Werkzeugzugang, Halteanordnung und Umgebung festlegen. Gelöste und angezogene Position benennen.",
+    "es": "Defina espesor de tapa, acceso, retención y exposición. Identifique tanto posición liberada como apretada.",
+    "it": "Definire spessore coperchio, accesso utensile, ritegno ed esposizione. Identificare posizione allentata e serrata.",
+    "fr": "Définissez épaisseur, accès de l’outil, retenue et exposition. Repérez les positions desserrée et serrée.",
+    "zh": "明确盖板厚度、工具进入空间、防脱结构及使用环境，同时标明松开与锁紧位置。"
+  },
+  "Review opening, retention and re-engagement with the service tool. Agree coating and any enclosure-level checks for the complete assembly.": {
+    "de": "Öffnen, Halten und Wiedereingriff mit dem Wartungswerkzeug prüfen. Beschichtung und erforderliche Gehäuseprüfungen für die komplette Baugruppe vereinbaren.",
+    "es": "Revise apertura, retención y reacoplamiento con la herramienta de servicio. Acuerde recubrimiento y controles del cerramiento completo.",
+    "it": "Verificare apertura, ritenzione e riavvitamento con l’utensile di servizio. Concordare rivestimento ed eventuali controlli dell’involucro completo.",
+    "fr": "Examinez ouverture, retenue et réengagement avec l’outil de service. Convenez du revêtement et des contrôles du boîtier complet.",
+    "zh": "使用维修工具检查打开、防脱保持和重新旋合，针对完整外壳约定涂层及所需的整机检查。"
+  },
+  "Route a cable through a part": {
+    "de": "Kabel durch ein Bauteil führen",
+    "es": "Pasar un cable por una pieza",
+    "it": "Far passare un cavo nel componente",
+    "fr": "Faire passer un câble dans une pièce",
+    "zh": "让线缆穿过零件"
+  },
+  "Show the cable envelope, bore path, entry edges and nearby constraints. Distinguish mechanical clearance from any insulation requirement.": {
+    "de": "Kabelhüllraum, Bohrungsverlauf, Eintrittskanten und benachbarte Hindernisse zeigen. Mechanischen Freiraum von Isolationsanforderungen unterscheiden.",
+    "es": "Muestre envolvente del cable, recorrido del taladro, bordes de entrada y restricciones próximas. Distinga holgura mecánica y aislamiento.",
+    "it": "Indicare ingombro del cavo, percorso del foro, bordi d’ingresso e vincoli vicini. Distinguere spazio meccanico e requisiti d’isolamento.",
+    "fr": "Indiquez enveloppe du câble, trajet du perçage, arêtes d’entrée et contraintes voisines. Distinguez dégagement mécanique et isolation.",
+    "zh": "提供线缆外形范围、孔道路线、入口边缘和邻近限制条件，将机械净空与绝缘要求分开。"
+  },
+  "Inspect the passage and internal edges before access is lost. Trial the intended routing; a bore diameter alone does not establish cable protection.": {
+    "de": "Kanal und Innenkanten vor Verlust des Zugangs prüfen. Vorgesehene Führung erproben; der Bohrungsdurchmesser allein belegt keinen Kabelschutz.",
+    "es": "Inspeccione paso y bordes internos antes de perder acceso. Pruebe el trazado previsto; el diámetro del taladro no demuestra protección del cable.",
+    "it": "Controllare passaggio e bordi interni prima di perdere l’accesso. Provare l’instradamento previsto: il diametro del foro non dimostra la protezione del cavo.",
+    "fr": "Contrôlez passage et arêtes internes avant de perdre l’accès. Essayez le cheminement prévu ; le diamètre du perçage ne suffit pas à établir la protection du câble.",
+    "zh": "趁内部仍可接近时检查孔道和边缘，并试走实际线路；仅有孔径合格不能证明线缆受到保护。"
+  },
+  "Clamp a conductive connection": {
+    "de": "Leitende Verbindung klemmen",
+    "es": "Apretar una conexión conductora",
+    "it": "Serrare un collegamento conduttivo",
+    "fr": "Serrer une connexion conductrice",
+    "zh": "夹紧导电连接"
+  },
+  "Identify the current path, contact materials, finish and clamped stack. State whether the threaded component conducts or only supplies clamping.": {
+    "de": "Strompfad, Kontaktwerkstoffe, Oberfläche und Klemmstapel benennen. Festlegen, ob das Gewindeteil leitet oder nur klemmt.",
+    "es": "Identifique trayectoria de corriente, materiales de contacto, acabado y cadena apretada. Indique si la pieza roscada conduce o solo aprieta.",
+    "it": "Identificare percorso della corrente, materiali di contatto, finitura e pacco serrato. Specificare se il componente filettato conduce o fornisce solo serraggio.",
+    "fr": "Identifiez trajet du courant, matériaux de contact, finition et empilage serré. Précisez si la pièce filetée conduit ou fournit seulement le serrage.",
+    "zh": "注明电流路径、接触材料、表面状态和夹紧叠层，并说明螺纹件本身导电，还是仅提供夹紧力。"
+  },
+  "Agree assembly conditions and the required electrical and thermal acceptance for the joint. Material conductivity alone is not a connection rating.": {
+    "de": "Montagebedingungen sowie erforderliche elektrische und thermische Abnahme der Verbindung vereinbaren. Werkstoffleitfähigkeit allein ist keine Anschlussbemessung.",
+    "es": "Acuerde condiciones de montaje y aceptación eléctrica y térmica de la unión. La conductividad del material no establece la capacidad de la conexión.",
+    "it": "Concordare condizioni di montaggio e accettazione elettrica e termica del giunto. La conducibilità del materiale non definisce la portata del collegamento.",
+    "fr": "Convenez du montage et de la réception électrique et thermique du joint. La conductivité de la matière ne constitue pas une valeur assignée de connexion.",
+    "zh": "约定装配条件及连接的电气、温升等验收要求。材料导电率不能直接当作连接的额定能力。"
+  },
+  "Change example: substitute a plated connection part": {
+    "de": "Änderungsbeispiel: beschichtetes Verbindungsteil ersetzen",
+    "es": "Ejemplo de cambio: sustituir una pieza de conexión recubierta",
+    "it": "Esempio di modifica: sostituire un componente di collegamento rivestito",
+    "fr": "Exemple de modification : remplacer une pièce de connexion revêtue",
+    "zh": "变更示例：替换带镀层的连接件"
+  },
+  "Compare the proposed base material, coating and contact surfaces with the approved joint. Identify changes to seating, thread fit and the assembly procedure before deciding which joint checks to repeat. Preserve the contact-stack and revision information in the record. A screw-level material certificate cannot replace electrical-connection testing or equipment approval.": {
+    "de": "Vorgeschlagenen Grundwerkstoff, Beschichtung und Kontaktflächen mit der freigegebenen Verbindung vergleichen. Änderungen an Anlage, Gewindepassung und Montageverfahren bestimmen, bevor wiederholte Verbindungsprüfungen festgelegt werden. Kontaktstapel und Versionsinformationen im Nachweis erhalten. Ein Werkstoffzeugnis der Schraube ersetzt weder elektrische Verbindungsprüfungen noch die Gerätefreigabe.",
+    "es": "Compare material base, recubrimiento y superficies propuestos con la unión aprobada. Identifique cambios en asiento, ajuste de rosca y montaje antes de decidir qué controles repetir. Conserve la cadena de contacto y sus revisiones en el registro. Un certificado de material del tornillo no sustituye ensayos de conexión eléctrica ni aprobación del equipo.",
+    "it": "Confrontare materiale base, rivestimento e contatti proposti con il giunto approvato. Identificare modifiche ad appoggio, accoppiamento del filetto e montaggio prima di stabilire i controlli da ripetere. Conservare dati della pila di contatto e revisioni. Un certificato del materiale della vite non sostituisce prove del collegamento elettrico o approvazione dell’apparecchiatura.",
+    "fr": "Comparez matière de base, revêtement et surfaces proposés à la connexion approuvée. Repérez les modifications d’appui, d’ajustement du filetage et de montage avant de choisir les contrôles à répéter. Conservez empilage de contact et indices dans le dossier. Un certificat matière de vis ne remplace ni les essais de connexion électrique ni l’approbation de l’équipement.",
+    "zh": "把拟替换件的基材、镀层和接触面与已批准连接逐项比较，先找出落座、螺纹配合及装配步骤的变化，再决定重复哪些连接检查。记录中保留接触叠层和版本信息。螺丝的材料证明不能代替电连接试验或设备批准。"
+  },
+  "Read the charging-enclosure interface discussion": {
+    "de": "Schnittstellen von Ladegehäusen näher betrachten",
+    "es": "Leer sobre interfaces de cerramientos de recarga",
+    "it": "Leggere le interfacce degli involucri di ricarica",
+    "fr": "Lire l’analyse des interfaces de boîtiers de recharge",
+    "zh": "阅读充电设备外壳接口分析"
+  },
+  "Hollow Screws & Fasteners for Fluid Equipment": {
+    "de": "Hohlschrauben und Befestiger für Fluidanlagen",
+    "es": "Tornillos huecos y fijaciones para equipos de fluidos",
+    "it": "Viti cave e fissaggi per apparecchiature fluidiche",
+    "fr": "Vis creuses et fixations pour équipements de fluides",
+    "zh": "流体设备中空螺丝：固定、通流与密封"
+  },
+  "Review retaining, flow-passage and sealing functions separately. Specify bore geometry, medium, seal interface, cleanliness and agreed functional tests.": {
+    "de": "Halten, Durchfluss und Abdichten getrennt prüfen. Bohrungsgeometrie, Medium, Dichtschnittstelle, Sauberkeit und vereinbarte Funktionsprüfungen spezifizieren.",
+    "es": "Revise por separado retención, paso de fluido y sellado. Defina taladro, medio, interfaz de sellado, limpieza y ensayos funcionales acordados.",
+    "it": "Valutare separatamente ritegno, passaggio e tenuta. Specificare foro, fluido, interfaccia di tenuta, pulizia e prove funzionali concordate.",
+    "fr": "Examinez séparément maintien, passage et étanchéité. Spécifiez perçage, fluide, interface d’étanchéité, propreté et essais fonctionnels convenus.",
+    "zh": "将流体设备中的固定、通流与密封功能分别评审，明确孔道、介质、密封接口、清洁及约定功能试验。"
+  },
+  "Distinguish retaining, flow and sealing functions": {
+    "de": "Halten, Durchfluss und Abdichten unterscheiden",
+    "es": "Distinguir retención, paso y sellado",
+    "it": "Distinguere ritegno, passaggio e tenuta",
+    "fr": "Distinguer maintien, passage et étanchéité",
+    "zh": "分别定义固定、通流与密封"
+  },
+  "A hollow screw can provide a passage without being the sealing element. Show where the medium flows, where the seal acts and which feature retains the assembly.": {
+    "de": "Eine Hohlschraube kann einen Kanal bilden, ohne selbst das Dichtelement zu sein. Zeigen Sie Mediumspfad, Dichtstelle und das haltende Merkmal der Baugruppe.",
+    "es": "Un tornillo hueco puede crear un paso sin ser el elemento sellante. Muestre por dónde circula el medio, dónde sella y qué retiene el conjunto.",
+    "it": "Una vite cava può fornire un passaggio senza essere l’elemento di tenuta. Indicare percorso del fluido, sede della tenuta e caratteristica che trattiene l’assieme.",
+    "fr": "Une vis creuse peut offrir un passage sans constituer l’élément d’étanchéité. Montrez trajet du fluide, emplacement du joint et fonction de maintien.",
+    "zh": "中空螺丝可以提供流道，但未必是密封元件。图纸应标明介质从哪里流过、密封作用在哪里，以及哪个结构负责保持装配。"
+  },
+  "Retain a cover or component": {
+    "de": "Deckel oder Bauteil halten",
+    "es": "Retener una tapa o componente",
+    "it": "Trattenere un coperchio o componente",
+    "fr": "Maintenir un couvercle ou composant",
+    "zh": "固定盖板或组件"
+  },
+  "Define the bearing face, clamped stack, mating thread and load case. Identify any separate seal or gasket in the assembly.": {
+    "de": "Auflagefläche, Klemmstapel, Gegengewinde und Lastfall festlegen. Separate Dichtung im Zusammenbau benennen.",
+    "es": "Defina apoyo, cadena apretada, rosca acoplada y carga. Identifique cualquier junta independiente en el conjunto.",
+    "it": "Definire appoggio, pacco serrato, filetto accoppiato e carico. Identificare eventuali guarnizioni separate nell’assieme.",
+    "fr": "Définissez face d’appui, empilage serré, taraudage en regard et cas de charge. Repérez tout joint séparé dans l’assemblage.",
+    "zh": "规定承压面、夹紧叠层、配合螺纹及载荷情况，并注明装配中的独立密封件或垫片。"
+  },
+  "Check seating and usable thread engagement. Define joint acceptance independently of the visible fastener profile.": {
+    "de": "Anlage und nutzbaren Gewindeeingriff prüfen. Verbindungsabnahme unabhängig vom sichtbaren Schraubenprofil festlegen.",
+    "es": "Compruebe asiento y acoplamiento útil. Defina la aceptación de la unión con independencia del perfil visible del tornillo.",
+    "it": "Controllare appoggio e impegno utile del filetto. Definire l’accettazione del giunto indipendentemente dal profilo visibile.",
+    "fr": "Vérifiez appui et engagement utile. Définissez la réception du joint indépendamment du profil visible de la fixation.",
+    "zh": "检查落座和有效旋合长度，单独规定连接验收，不能只根据螺丝外形判断。"
+  },
+  "Provide an internal passage": {
+    "de": "Innenkanal bereitstellen",
+    "es": "Proporcionar un paso interno",
+    "it": "Fornire un passaggio interno",
+    "fr": "Créer un passage interne",
+    "zh": "提供内部流道"
+  },
+  "Show the complete bore and cross-holes, remaining wall, internal edges and access for cleaning. State the medium and required flow function.": {
+    "de": "Gesamte Bohrung, Querbohrungen, Restwand, Innenkanten und Reinigungszugang zeigen. Medium und geforderte Durchflussfunktion angeben.",
+    "es": "Muestre taladro completo, cruces, pared restante, bordes internos y acceso de limpieza. Indique medio y función de caudal requerida.",
+    "it": "Indicare foro completo, fori trasversali, parete residua, bordi interni e accesso alla pulizia. Specificare fluido e funzione di portata richiesta.",
+    "fr": "Montrez perçage complet, trous transversaux, paroi résiduelle, arêtes internes et accès au nettoyage. Précisez fluide et fonction de débit.",
+    "zh": "标出完整内孔、横向孔、剩余壁厚、内部边缘及清洗空间，说明介质和要求的通流功能。"
+  },
+  "Inspect hidden intersections at a suitable process stage. Agree any flow and cleanliness tests against the specified passage.": {
+    "de": "Verdeckte Verschneidungen in geeigneter Fertigungsstufe prüfen. Erforderliche Durchfluss- und Sauberkeitsprüfungen zum festgelegten Kanal vereinbaren.",
+    "es": "Inspeccione intersecciones ocultas en una fase adecuada. Acuerde ensayos de caudal y limpieza para el paso especificado.",
+    "it": "Controllare intersezioni nascoste nella fase opportuna. Concordare eventuali prove di portata e pulizia sul passaggio specificato.",
+    "fr": "Contrôlez les intersections cachées à une étape appropriée. Convenez des essais de débit et de propreté du passage spécifié.",
+    "zh": "在合适工序检查隐藏的相贯处，针对规定孔道约定所需的流量及清洁检查。"
+  },
+  "Form part of a sealing joint": {
+    "de": "Teil einer Dichtverbindung sein",
+    "es": "Formar parte de una unión estanca",
+    "it": "Partecipare a un giunto di tenuta",
+    "fr": "Participer à un assemblage étanche",
+    "zh": "参与密封连接"
+  },
+  "Identify the seal type, mating seat, contact finish and assembly condition. State the medium, temperature and pressure conditions for the application.": {
+    "de": "Dichtungsart, Gegensitz, Kontaktoberfläche und Montagezustand benennen. Medium, Temperatur und Druckbedingungen der Anwendung angeben.",
+    "es": "Identifique tipo de sello, asiento acoplado, acabado de contacto y montaje. Indique medio, temperatura y presión de uso.",
+    "it": "Identificare tipo di tenuta, sede accoppiata, finitura di contatto e montaggio. Specificare fluido, temperatura e pressione d’impiego.",
+    "fr": "Identifiez type de joint, siège en regard, finition de contact et montage. Précisez fluide, température et pression d’utilisation.",
+    "zh": "明确密封类型、配合座面、接触表面和装配状态，并说明实际介质、温度与压力条件。"
+  },
+  "Define the test setup, duration, measurement and pass criteria for any specified leak or pressure test. An open-bore inspection is a different check.": {
+    "de": "Aufbau, Dauer, Messung und Annahmekriterien der festgelegten Leck- oder Druckprüfung definieren. Die Prüfung einer offenen Bohrung ist etwas anderes.",
+    "es": "Defina montaje de ensayo, duración, medida y criterios para las pruebas de fuga o presión especificadas. Inspeccionar un taladro abierto es otro control.",
+    "it": "Definire allestimento, durata, misura e criteri delle prove di perdita o pressione prescritte. Il controllo del foro aperto è una verifica diversa.",
+    "fr": "Définissez montage, durée, mesure et critères des essais de fuite ou de pression spécifiés. L’examen d’un perçage ouvert est un contrôle différent.",
+    "zh": "针对要求的泄漏或压力试验，明确装夹、持续时间、测量方法和合格标准。检查开口孔道属于另一项检查。"
+  },
+  "Change example: add a radial passage": {
+    "de": "Änderungsbeispiel: einen radialen Kanal ergänzen",
+    "es": "Ejemplo de cambio: añadir un paso radial",
+    "it": "Esempio di modifica: aggiungere un passaggio radiale",
+    "fr": "Exemple de modification : ajouter un passage radial",
+    "zh": "变更示例：增加径向通道"
+  },
+  "A new cross-hole changes both the local section and the internal edge that needs finishing. Review the intersection before setting the deburring and cleaning sequence. Agree how that hidden area is checked while it remains accessible, then retain the finished dimensions and any specified functional-test record. No pressure capability follows from the product name or a successful dimensional screen.": {
+    "de": "Eine neue Querbohrung verändert den örtlichen Querschnitt und die nachzubearbeitende Innenkante. Prüfen Sie die Verschneidung vor Festlegung von Entgraten und Reinigung. Vereinbaren Sie eine Prüfung des verdeckten Bereichs, solange er zugänglich bleibt, und bewahren Sie Fertigmaße und geforderte Funktionsprüfnachweise auf. Weder Produktname noch erfolgreiche Maßprüfung ergeben eine Druckfreigabe.",
+    "es": "Un nuevo taladro transversal cambia la sección local y el borde interno que debe acabarse. Revise el cruce antes de fijar desbarbado y limpieza. Acuerde cómo inspeccionar la zona oculta mientras sea accesible y conserve dimensiones finales y registros funcionales exigidos. Ni el nombre del producto ni una inspección dimensional correcta establecen capacidad de presión.",
+    "it": "Un nuovo foro trasversale modifica sezione locale e bordo interno da rifinire. Valutare l’intersezione prima di definire sbavatura e pulizia. Concordare il controllo dell’area nascosta finché accessibile, poi conservare quote finite e prove funzionali richieste. Nome del prodotto e controllo dimensionale superato non determinano una capacità di pressione.",
+    "fr": "Un trou transversal ajouté modifie la section locale et l’arête interne à finir. Examinez l’intersection avant de définir ébavurage et nettoyage. Convenez du contrôle de la zone cachée tant qu’elle reste accessible, puis conservez dimensions finies et essais fonctionnels prescrits. Ni le nom du produit ni un contrôle dimensionnel réussi n’établissent une capacité en pression.",
+    "zh": "新增横向孔会同时改变局部截面和需要处理的内部边缘。确定去毛刺、清洗顺序前，先评审相贯处；约定在内部仍可接近时如何检查，再保留最终尺寸及规定的功能试验记录。产品名称或外形尺寸筛选合格都不能直接说明承压能力。"
+  },
+  "Define bore geometry and internal-edge acceptance": {
+    "de": "Bohrungsgeometrie und Innenkantenabnahme festlegen",
+    "es": "Definir geometría del taladro y aceptación de bordes internos",
+    "it": "Definire geometria del foro e accettazione dei bordi interni",
+    "fr": "Définir géométrie du perçage et réception des arêtes internes",
+    "zh": "明确孔道几何与内部边缘验收"
+  },
+  "Custom Fasteners for Industrial Automation | ZUFEK": {
+    "de": "Sonderbefestiger für die Industrieautomation | ZUFEK",
+    "es": "Fijaciones a medida para automatización industrial | ZUFEK",
+    "it": "Elementi di fissaggio per automazione industriale | ZUFEK",
+    "fr": "Fixations sur mesure pour l’automatisation industrielle | ZUFEK",
+    "zh": "工业自动化非标螺丝：转动、定位与调节 | ZUFEK"
+  },
+  "Custom Screws for Electronics & Optical Assemblies | ZUFEK": {
+    "de": "Sonderschrauben für Elektronik und Optik | ZUFEK",
+    "es": "Tornillos a medida para electrónica y óptica | ZUFEK",
+    "it": "Viti su misura per elettronica e ottica | ZUFEK",
+    "fr": "Vis sur mesure pour électronique et optique | ZUFEK",
+    "zh": "电子与光学组件非标螺丝：空间、调节与接触 | ZUFEK"
+  },
+  "Custom Fasteners for Charging & Energy Equipment | ZUFEK": {
+    "de": "Sonderbefestiger für Lade- und Energieanlagen | ZUFEK",
+    "es": "Fijaciones para equipos de recarga y energía | ZUFEK",
+    "it": "Fissaggi per apparecchiature di ricarica ed energia | ZUFEK",
+    "fr": "Fixations pour équipements de recharge et d’énergie | ZUFEK",
+    "zh": "充电与储能设备非标螺丝：外壳、孔道与连接 | ZUFEK"
+  },
+  "Hollow Screws & Fasteners for Fluid Equipment | ZUFEK": {
+    "de": "Hohlschrauben und Befestiger für Fluidanlagen | ZUFEK",
+    "es": "Tornillos huecos y fijaciones para equipos de fluidos | ZUFEK",
+    "it": "Viti cave e fissaggi per apparecchiature fluidiche | ZUFEK",
+    "fr": "Vis creuses et fixations pour équipements de fluides | ZUFEK",
+    "zh": "流体设备中空螺丝：固定、通流与密封 | ZUFEK"
+  }
+}

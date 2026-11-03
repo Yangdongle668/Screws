@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {buyerPaths,buyerCopy,buyerMetadata} from './buyer-content.mjs';
 import {collectStrings,localePath} from '../lib/i18n/core.mjs';
+import {industryInterfaces,industryInterfaceCopy} from './industry-interface-content.mjs';
 const pages=JSON.parse(fs.readFileSync('lib/generated-pages.json','utf8'));
 const origin=JSON.parse(fs.readFileSync('lib/site-config.json','utf8')).origin;
 const reviewed=JSON.parse(fs.readFileSync('translations/buyer-review.json','utf8'));
@@ -44,4 +45,20 @@ for(const [path,html]of Object.entries(pages)){
  schemas.forEach(visit);
 }
 assert(buyerCopy.routeIntro.includes('not ZUFEK prices'));
-console.log(JSON.stringify({decisionPages:buyerPaths.length,languages:6,workedCalculations:true,materialWorksheet:true,inspectionTemplates:true,realReferencePhotos:true,localizedMetadata:true,existingCompanyFactsPreserved:true}));
+const industryReview=JSON.parse(fs.readFileSync('translations/industry-interface-review.json','utf8'));
+for(const [slug,r]of Object.entries(industryInterfaces))for(const locale of ['en','de','es','it','zh','fr']){
+ const base='/industries/'+slug+'/',url=localePath(base,locale),html=pages[url],block=html.match(/<section class="section compact industry-interfaces"[\s\S]*?<\/section>/)?.[0];
+ assert(block,'Industry decision aid '+url);assert.equal((block.match(/<tr>/g)||[]).length,4);assert(block.includes('<caption>')&&block.includes('<th scope="row">'));
+ assert(!html.includes('Translate the application into a fastener specification'),'Generic appendix replaced '+url);
+ assert(html.indexOf(block)<html.indexOf('<section class="section two-columns">'),'Decision aid precedes related lists '+url);
+ for(const product of r.products)assert(block.includes('href="'+localePath('/products/'+product+'/',locale)+'"'),'Contextual product '+url);
+ for(const [i,n]of ['One','Two','Three'].entries()){const path=r.acceptanceLinks?.[n]?.[0]??'/capabilities/'+r.processes[i]+'/';assert(block.includes('href="'+localePath(path,locale)+'"'),'Contextual acceptance '+url);}
+ assert(block.includes('href="'+localePath(r.next,locale)+'"'));
+ const title=locale==='en'?industryInterfaceCopy[r.key+'MetaTitle']+' | ZUFEK':industryReview[industryInterfaceCopy[r.key+'MetaTitle']+' | ZUFEK'][locale];
+ const escape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');assert(html.includes('<title>'+escape(title)+'</title>'));assert(!html.includes('| ZUFEK | ZUFEK'));
+ const description=locale==='en'?industryInterfaceCopy[r.key+'Meta']:industryReview[industryInterfaceCopy[r.key+'Meta']][locale];
+ assert(html.includes('<meta name="description" content="'+escape(description)+'">'));
+ const graph=[...html.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/g)].flatMap(m=>JSON.parse(m[1]));assert(graph.some(n=>n['@type']==='WebPage'&&n.description===description));
+ if(locale!=='en')for(const source of collectStrings(block))assert(!Object.hasOwn(industryReview,source),'Untranslated decision field '+url);
+}
+console.log(JSON.stringify({decisionPages:buyerPaths.length,industryDecisionPages:Object.keys(industryInterfaces).length,languages:6,workedCalculations:true,materialWorksheet:true,inspectionTemplates:true,realReferencePhotos:true,localizedMetadata:true,existingCompanyFactsPreserved:true}));

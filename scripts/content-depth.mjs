@@ -2,6 +2,7 @@ import {catalog,productOptions,processData} from './catalog.mjs';
 import {materialFamilies,industryFamilies} from './industry-material-content.mjs';
 import {expandPriorityArticles} from './priority-articles.mjs';
 import {buyerContent} from './buyer-content.mjs';
+import {industryInterfaceContent} from './industry-interface-content.mjs';
 
 const e=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
 const section=(h,p)=>`<section><h2>${e(h)}</h2>${p.map(t=>`<p>${e(t)}</p>`).join('')}</section>`;
@@ -88,6 +89,7 @@ export function deepenArticles(articles){
 
 export function contentDepth(url){
  const decision=buyerContent(url);if(decision)return decision;
+ const industryDecision=industryInterfaceContent(url);if(industryDecision)return industryDecision;
  const slug=url.split('/').filter(Boolean).at(-1);
  const p=url.startsWith('/products/')?(catalog.find(x=>x.slug===slug)??productOptions.find(x=>x.slug===slug)):null;
  if(p){

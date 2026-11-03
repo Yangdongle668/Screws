@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "scope": "Repository snapshot of English public pages and corresponding translation presence. No production or technical approval is implied.",
   "sourceHashes": {
-    "lib/generated-pages.json": "afc53514fcbd555933465c282ffdc972c2f976bd447f61f51eec3a6d94336f31",
+    "lib/generated-pages.json": "5c33a6f6f88bf47af35221c3a443809c8b164a7e98bb5a0d7dbad7649b04253b",
     "scripts/content/manifest.json": "e707f728ab1d1f498738bc3080103495a487d976792db0c21c489016610ef6ab"
   },
   "counts": {
@@ -14110,12 +14110,12 @@
       "type": "industry",
       "status": "present_in_repository",
       "productionPublication": "not_verified",
-      "title": "Industrial Automation Custom Fasteners | ZUFEK",
-      "description": "Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.",
+      "title": "Custom Fasteners for Industrial Automation | ZUFEK",
+      "description": "Compare pivot, locating and adjustment screw interfaces for automation. Connect the mating geometry to suitable products, routes and acceptance records.",
       "indexable": true,
       "publishedAt": null,
       "modifiedAt": null,
-      "englishBodyHash": "2a16b2843a45e1769ec1cac48356c5361c039dcd79144043e9e345276ee6f205",
+      "englishBodyHash": "2d7dae69c4320d34fa1df9e9ffd5831dadc370c6bd6ef156b92d3afdd102de74",
       "headings": [
         {
           "level": 1,
@@ -14132,6 +14132,14 @@
         {
           "level": 2,
           "text": "Final-condition checks"
+        },
+        {
+          "level": 2,
+          "text": "Separate pivoting, locating and adjustment"
+        },
+        {
+          "level": 3,
+          "text": "Change example: replace a pivot bushing"
         },
         {
           "level": 2,
@@ -14155,18 +14163,6 @@
         },
         {
           "level": 2,
-          "text": "Translate the application into a fastener specification"
-        },
-        {
-          "level": 2,
-          "text": "Select a route around the functional features"
-        },
-        {
-          "level": 2,
-          "text": "Plan sample approval and repeat orders"
-        },
-        {
-          "level": 2,
           "text": "Connect the part to its requirements."
         },
         {
@@ -14187,19 +14183,19 @@
         "/industries/",
         "/request-a-quote/",
         "/products/shoulder-screws/",
-        "/products/multi-step-screws/",
+        "/capabilities/hybrid-manufacturing/",
         "/products/locating-pin-screws/",
+        "/capabilities/inspection/",
         "/products/knurled-thumb-screws/",
+        "/capabilities/secondary-machining/",
+        "/applications/automation-pivot-fixture/",
+        "/products/multi-step-screws/",
         "/materials/carbon-alloy-steel/",
         "/materials/stainless-steel-304-316/",
         "/materials/aluminum-alloys/",
-        "/capabilities/hybrid-manufacturing/",
-        "/capabilities/secondary-machining/",
-        "/capabilities/inspection/",
         "/blog/multi-step-screw-dimension-chain/",
         "/blog/shoulder-fit-thread-class-grinding/",
         "/guides/rfq-checklist/",
-        "/applications/automation-pivot-fixture/",
         "/blog/integral-locating-pin-position/",
         "/blog/coating-allowance-thread-shoulder/"
       ],
@@ -14209,35 +14205,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Industries / Industrial Automation LOCATING & MOVING INTERFACES Industrial Automation Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment. Discuss your application ↗ Industry overview Fits and locating surfaces Identify the smooth shoulder that locates the assembly and its relationship to the mating bore. Motion and service access Provide the operating clearance, adjustment range, travel stops and tool access. Final-condition checks Agree which diameters, lengths and datum relationships are checked after treatment and coating. Relevant fastener structures Shoulder & Step Screws ↗ Multi-Step & Multi-Shoulder Screws ↗ Screws with Integral Locating Pins ↗ Knurled Thumb & Adjustment Screws ↗ Material options to review Carbon & Alloy Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Aluminum Alloys ↗ Manufacturing and acceptance Cold Heading + Secondary Machining ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗ For a guided pivot, include the mating bore and axial stack. Specify locating surfaces separately from the thread used to retain the assembly. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Multi-step screws: controlling the axial dimension chain ↗ Shoulder fits, thread classes and when grinding matters ↗ Complete RFQ checklist ↗ Follow a complete application design Explore a proposed assembly, the fastener choices, manufacturing review and sample validation plan. This is an illustrative design study, with no claimed customer delivery or measured performance. Automation pivot and adjustment fixture design study ↗ Translate the application into a fastener specification For industrial automation, the first task is to connect the fastener geometry with the equipment interface. Fits and locating surfaces: Identify the smooth shoulder that locates the assembly and its relationship to the mating bore. Motion and service access: Provide the operating clearance, adjustment range, travel stops and tool access. Final-condition checks: Agree which diameters, lengths and datum relationships are checked after treatment and coating. Explain the environment and service sequence alongside the drawing so the review addresses the installed component. For a guided pivot, include the mating bore and axial stack. Specify locating surfaces separately from the thread used to retain the assembly. Select a route around the functional features The relevant product families include Shoulder & Step Screws, Multi-Step & Multi-Shoulder Screws, Screws with Integral Locating Pins, Knurled Thumb & Adjustment Screws. These are starting points for a drawing review, not interchangeable parts. Compare Carbon & Alloy Steel, SUS304 & SUS316 Stainless Steel, Aluminum Alloys against the actual mechanical and environmental requirements. Discuss Cold Heading + Secondary Machining, Secondary & Precision Operations, CCD Vision & Dimensional Inspection as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope. Plan sample approval and repeat orders Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Integral locating pins: coordinating pin and screw datums ↗ Combining a small locating pin with a screw can reduce separate components, but the locating and clamping functions still need distinct specifications. ENGINEERING GUIDE Coating allowance for threads and precision shoulders ↗ A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment. START YOUR NEXT PROJECT Let’s review your industrial automation requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Industries / Industrial Automation LOCATING & MOVING INTERFACES Industrial Automation Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment. Discuss your application ↗ Industry overview Fits and locating surfaces Identify the smooth shoulder that locates the assembly and its relationship to the mating bore. Motion and service access Provide the operating clearance, adjustment range, travel stops and tool access. Final-condition checks Agree which diameters, lengths and datum relationships are checked after treatment and coating. Separate pivoting, locating and adjustment A mechanism may use the same thread size for very different jobs. Start with the surface that establishes motion or position; then define how the screw retains the assembly. Separate pivoting, locating and adjustment Assembly function Specify with the mating parts Acceptance and next review Pivot on a smooth shoulder Specify with the mating parts Show bore limits, finished shoulder diameter, contact length and the axial stack. Keep the rotating interface separate from the retaining thread. Shoulder & Step Screws ↗ Acceptance and next review Check bore-to-shoulder clearance and free movement in the assembled stack. Thread gauging alone does not accept the pivot. Cold Heading + Secondary Machining ↗ Locate a removable station Specify with the mating parts Identify the locating pin, mating hole and seating face. Show their datum relationships and the intended removal direction. Screws with Integral Locating Pins ↗ Acceptance and next review Measure the specified locating relationships and trial removal and refitting. A clamp thread is not automatically the locating datum. CCD Vision & Dimensional Inspection ↗ Adjust a stop or guide Specify with the mating parts Define travel, contact end, permitted marking and how the selected setting is retained. Include operator and tool clearance at both travel ends. Knurled Thumb & Adjustment Screws ↗ Acceptance and next review Record the setting before and after the agreed adjustment sequence. Separate visual marking, position measurement and retention checks. Secondary & Precision Operations ↗ Change example: replace a pivot bushing A replacement bushing can change the bore limits or effective axial stack even when the screw is unchanged. Compare the new bore and stack with the finished shoulder limits, then review movement and seating. Link the bushing and screw revisions in the sample record. Keep the previous approval for its original configuration; document which checks apply to the revised assembly. Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly. Follow the automation pivot design study ↗ Relevant fastener structures Shoulder & Step Screws ↗ Multi-Step & Multi-Shoulder Screws ↗ Screws with Integral Locating Pins ↗ Knurled Thumb & Adjustment Screws ↗ Material options to review Carbon & Alloy Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Aluminum Alloys ↗ Manufacturing and acceptance Cold Heading + Secondary Machining ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗ For a guided pivot, include the mating bore and axial stack. Specify locating surfaces separately from the thread used to retain the assembly. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Multi-step screws: controlling the axial dimension chain ↗ Shoulder fits, thread classes and when grinding matters ↗ Complete RFQ checklist ↗ Follow a complete application design Explore a proposed assembly, the fastener choices, manufacturing review and sample validation plan. This is an illustrative design study, with no claimed customer delivery or measured performance. Automation pivot and adjustment fixture design study ↗ CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Integral locating pins: coordinating pin and screw datums ↗ Combining a small locating pin with a screw can reduce separate components, but the locating and clamping functions still need distinct specifications. ENGINEERING GUIDE Coating allowance for threads and precision shoulders ↗ A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment. START YOUR NEXT PROJECT Let’s review your industrial automation requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "1dd6509b69ec74386341c8abff0dd9cefa32c9601d4a5771ec4277f50727bcdb",
+          "repositoryHash": "c1679c2362cdb5312891ce2753a881489a349b4450b7265994d2ea25a74a70fa",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "866941b8012caea96fae5bd1e5e5395e66a4bcc6a794c34ac093a4283a54ad73",
+          "repositoryHash": "750b2a4d53bada35cb7c432deef308c9ac2643afff838d8d6fa90da099dcdfa9",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "dfb826460a3e829f6cf00316944ca6785cb9f34dcba94739b8f1b16d36e4d71a",
+          "repositoryHash": "0f4ee833a4bdfc5ee18f08adf84e7a81a8606b4cc18c2975927d9bef8f40d746",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "77765972511a3a38c8d9823d0a1d450a5ad8a48c75f5062b36557c72d0290b4b",
+          "repositoryHash": "1acfa507e8b12d55fd0135ed576524cc5e3c93d33468728b033068ef202c7588",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "07e58c3e270ebc9feed2d851e422faa3a83981aa36beceb3c3ef58e31359f1ca",
+          "repositoryHash": "bba76ce956b43640ced1aa22438590108ee652e4d4c7ca48a303d1e496b8024e",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -14249,12 +14245,12 @@
       "type": "industry",
       "status": "present_in_repository",
       "productionPublication": "not_verified",
-      "title": "Electronics & Optical Equipment Custom Fasteners | ZUFEK",
-      "description": "Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.",
+      "title": "Custom Screws for Electronics & Optical Assemblies | ZUFEK",
+      "description": "Specify compact screw heads, fine-thread adjusters and eccentric interfaces for electronics and optical assemblies, with access, contact and cleanliness checks.",
       "indexable": true,
       "publishedAt": null,
       "modifiedAt": null,
-      "englishBodyHash": "80ebf89ca62109d702b0987b73798676e30a1e3c8485d71f6e11a80685d8b5eb",
+      "englishBodyHash": "5ef86e1a5de311975ec7aa024c24611eccc906e30fec34ea0cbbc5bae7677a1b",
       "headings": [
         {
           "level": 1,
@@ -14274,6 +14270,14 @@
         },
         {
           "level": 2,
+          "text": "Review access, adjustment and the contact surface"
+        },
+        {
+          "level": 3,
+          "text": "Change example: add a surface finish"
+        },
+        {
+          "level": 2,
           "text": "Relevant fastener structures"
         },
         {
@@ -14287,18 +14291,6 @@
         {
           "level": 2,
           "text": "Prepare a clearer project specification."
-        },
-        {
-          "level": 2,
-          "text": "Translate the application into a fastener specification"
-        },
-        {
-          "level": 2,
-          "text": "Select a route around the functional features"
-        },
-        {
-          "level": 2,
-          "text": "Plan sample approval and repeat orders"
         },
         {
           "level": 2,
@@ -14321,18 +14313,19 @@
         "/",
         "/industries/",
         "/request-a-quote/",
-        "/products/fine-thread-screws/",
-        "/products/eccentric-screws/",
-        "/products/hollow-screws/",
         "/products/special-head-screws/",
+        "/capabilities/secondary-machining/",
+        "/products/fine-thread-screws/",
+        "/capabilities/threading/",
+        "/products/eccentric-screws/",
+        "/capabilities/cnc-turning/",
+        "/blog/eccentric-screw-datum-drawing/",
+        "/products/hollow-screws/",
         "/materials/stainless-steel-304-316/",
         "/materials/aluminum-alloys/",
         "/materials/brass/",
         "/materials/titanium-alloys/",
-        "/capabilities/cnc-turning/",
-        "/capabilities/threading/",
         "/capabilities/inspection/",
-        "/blog/eccentric-screw-datum-drawing/",
         "/blog/knurled-thumb-screw-grip-design/",
         "/guides/rfq-checklist/",
         "/blog/thread-gauge-acceptance-plan/",
@@ -14344,35 +14337,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Industries / Electronics & Optical Equipment COMPACT & ADJUSTABLE PARTS Electronics & Optical Equipment Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies. Discuss your application ↗ Industry overview Small interface details Define head envelope, recess, thread fit and access around adjacent parts. Adjustment function Specify travel, mating contact and locking requirements for fine-pitch or eccentric features. Material and surface compatibility Review mass, appearance, electrical needs and contact with dissimilar materials. Relevant fastener structures Fine & Extra-Fine Pitch Screws ↗ Eccentric & Angled Head Screws ↗ Hollow & Through-Hole Screws ↗ Special Head Screws ↗ Material options to review SUS304 & SUS316 Stainless Steel ↗ Aluminum Alloys ↗ Brass ↗ Titanium & Titanium Alloys ↗ Manufacturing and acceptance Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗ For a module adjuster, send an assembly view showing the locating axis, adjustment contact and required access. A screw pitch alone does not define the complete mechanism. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Eccentric screw drawings: making the offset unambiguous ↗ Knurled thumb screws: specifying grip and adjustment ↗ Complete RFQ checklist ↗ Translate the application into a fastener specification For electronics & optical equipment, the first task is to connect the fastener geometry with the equipment interface. Small interface details: Define head envelope, recess, thread fit and access around adjacent parts. Adjustment function: Specify travel, mating contact and locking requirements for fine-pitch or eccentric features. Material and surface compatibility: Review mass, appearance, electrical needs and contact with dissimilar materials. Explain the environment and service sequence alongside the drawing so the review addresses the installed component. For a module adjuster, send an assembly view showing the locating axis, adjustment contact and required access. A screw pitch alone does not define the complete mechanism. Select a route around the functional features The relevant product families include Fine & Extra-Fine Pitch Screws, Eccentric & Angled Head Screws, Hollow & Through-Hole Screws, Special Head Screws. These are starting points for a drawing review, not interchangeable parts. Compare SUS304 & SUS316 Stainless Steel, Aluminum Alloys, Brass, Titanium & Titanium Alloys against the actual mechanical and environmental requirements. Discuss Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, CCD Vision & Dimensional Inspection as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope. Plan sample approval and repeat orders Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Thread gauges and custom screw acceptance ↗ Thread acceptance begins with the specified thread system and fit. The gauge, supplied finish and inspection method should all refer to that same requirement. ENGINEERING GUIDE Hollow screw bores: the details an RFQ should include ↗ Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review. START YOUR NEXT PROJECT Let’s review your electronics & optical equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Industries / Electronics & Optical Equipment COMPACT & ADJUSTABLE PARTS Electronics & Optical Equipment Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies. Discuss your application ↗ Industry overview Small interface details Define head envelope, recess, thread fit and access around adjacent parts. Adjustment function Specify travel, mating contact and locking requirements for fine-pitch or eccentric features. Material and surface compatibility Review mass, appearance, electrical needs and contact with dissimilar materials. Review access, adjustment and the contact surface Compact housings and optical adjusters need different screw interfaces. Define the screw’s mechanical role alongside adjacent parts; an accurate thread alone does not establish the module’s optical performance. Review access, adjustment and the contact surface Assembly function Specify with the mating parts Acceptance and next review Close a compact housing Specify with the mating parts Show head height, seating face, driver approach and the depth available in the mating tapped part. Identify appearance-sensitive surfaces. Special Head Screws ↗ Acceptance and next review Check that the finished screw seats before bottoming and that the intended bit can enter. Record permitted contact marks on the housing. Secondary & Precision Operations ↗ Translate a fine adjustment Specify with the mating parts Specify thread pitch, usable travel, contact-end form and the means of retaining the setting. Include the mating adjuster and its support. Fine & Extra-Fine Pitch Screws ↗ Acceptance and next review Trial the required motion and return to a reference setting. Verify the assembled adjustment separately from thread dimensions. Thread Rolling, Cutting & Tapping ↗ Position with an eccentric Specify with the mating parts State offset direction and magnitude relative to named datums, plus the angular reference and mating contact envelope. Eccentric & Angled Head Screws ↗ Acceptance and next review Check offset geometry in the defined setup and trial adjustment in the module. Do not infer offset from the head outline alone. Swiss-Type & CNC Turning ↗ Change example: add a surface finish Review which dimensions apply after finishing, including the driver recess, fine thread and contact end. Define the clean condition required before assembly and which surfaces must avoid handling damage. Compare finished samples with the intended tool and mating components. Dimensional acceptance, cleanliness and any optical-system validation need distinct records; a visually clean part is not evidence of a measured particle limit. Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly. Review eccentric datums and adjustment geometry ↗ Relevant fastener structures Fine & Extra-Fine Pitch Screws ↗ Eccentric & Angled Head Screws ↗ Hollow & Through-Hole Screws ↗ Special Head Screws ↗ Material options to review SUS304 & SUS316 Stainless Steel ↗ Aluminum Alloys ↗ Brass ↗ Titanium & Titanium Alloys ↗ Manufacturing and acceptance Swiss-Type & CNC Turning ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗ For a module adjuster, send an assembly view showing the locating axis, adjustment contact and required access. A screw pitch alone does not define the complete mechanism. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Eccentric screw drawings: making the offset unambiguous ↗ Knurled thumb screws: specifying grip and adjustment ↗ Complete RFQ checklist ↗ CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Thread gauges and custom screw acceptance ↗ Thread acceptance begins with the specified thread system and fit. The gauge, supplied finish and inspection method should all refer to that same requirement. ENGINEERING GUIDE Hollow screw bores: the details an RFQ should include ↗ Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review. START YOUR NEXT PROJECT Let’s review your electronics & optical equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "80021eb32f0557de862cae1f3bd093f55c93ba17aa47b52381fff324c246c24e",
+          "repositoryHash": "ea1c8f4d8ded8d8749b31a2abc444c716a7dbdb115aa064a40a1778b6dff11a8",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "d44ddde5d063f6bdd9bebf71234b58868bdb6329a48c0fa9cc15051cfd12d54f",
+          "repositoryHash": "d76ae96f0e62c93984fd25886c2b01ba99587b39c6ed38f097937a8990f93a6f",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "641ac32691458b943b8d9ff408f6a544c17dfec74d538656f0c21b70a120670f",
+          "repositoryHash": "6870a0aa0dfe20e312c751f6db43ebf741ea9f0f7269312146e8bfa80efe1492",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "4699a02dd39604980ce32107a663d88b319f8270d1a783a961340489327c6903",
+          "repositoryHash": "66facf4ad5f44639ba3b2df137237d3960536fd8f7a80a31c43e750e373b7d75",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "b3e57db76a0c9431290b7cf8b44c4bfdff680e952cd46cbe3b55bbce939c52cf",
+          "repositoryHash": "8adfce790f55424d56212b0b2e07c9a02af84a6ebc9492e500b85921ad66fc5a",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -14384,12 +14377,12 @@
       "type": "industry",
       "status": "present_in_repository",
       "productionPublication": "not_verified",
-      "title": "Energy, Charging & Storage Equipment Custom Fasteners | ZUFEK",
-      "description": "Custom fastening and connection geometries for equipment housings, brackets, routing features and electrical interface components.",
+      "title": "Custom Fasteners for Charging & Energy Equipment | ZUFEK",
+      "description": "Separate service-cover screws, cable passages and conductive connections in charging and storage equipment. Define contact, finish and assembly acceptance.",
       "indexable": true,
       "publishedAt": null,
       "modifiedAt": null,
-      "englishBodyHash": "8288f37ca0cd1913f7a959f01c4fbdcae0b68b2ae3007a06b80008d7e7f94213",
+      "englishBodyHash": "598e9b88200ab52f59df4cd1155017f07b059c4c201c7bde98484c693563b6c9",
       "headings": [
         {
           "level": 1,
@@ -14409,6 +14402,14 @@
         },
         {
           "level": 2,
+          "text": "Separate enclosure, passage and electrical-contact duties"
+        },
+        {
+          "level": 3,
+          "text": "Change example: substitute a plated connection part"
+        },
+        {
+          "level": 2,
           "text": "Relevant fastener structures"
         },
         {
@@ -14422,18 +14423,6 @@
         {
           "level": 2,
           "text": "Prepare a clearer project specification."
-        },
-        {
-          "level": 2,
-          "text": "Translate the application into a fastener specification"
-        },
-        {
-          "level": 2,
-          "text": "Select a route around the functional features"
-        },
-        {
-          "level": 2,
-          "text": "Plan sample approval and repeat orders"
         },
         {
           "level": 2,
@@ -14456,16 +14445,19 @@
         "/",
         "/industries/",
         "/request-a-quote/",
+        "/products/captive-screws/",
+        "/capabilities/post-processing/",
+        "/products/hollow-screws/",
+        "/capabilities/secondary-machining/",
+        "/products/double-ended-studs/",
+        "/capabilities/surface-treatment/",
+        "/industry-insights/ev-charging-enclosure-fasteners/",
         "/products/security-screws/",
         "/products/flange-screws/",
-        "/products/hollow-screws/",
-        "/products/double-ended-studs/",
         "/materials/carbon-alloy-steel/",
         "/materials/stainless-steel-304-316/",
         "/materials/copper/",
         "/capabilities/cold-heading/",
-        "/capabilities/surface-treatment/",
-        "/capabilities/post-processing/",
         "/blog/specifying-security-screw-drive/",
         "/blog/custom-fastener-technical-cleanliness/",
         "/guides/rfq-checklist/",
@@ -14478,35 +14470,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Industries / Energy, Charging & Storage Equipment ENCLOSURE & CONNECTION DETAILS Energy, Charging & Storage Equipment Custom fastening and connection geometries for equipment housings, brackets, routing features and electrical interface components. Discuss your application ↗ Industry overview Access and retention Define service access, tamper-resistant drives and the intended retaining arrangement. Environmental exposure Specify outdoor exposure, mating metals, finish and the actual acceptance requirements. Electrical or routing function Identify conductive interfaces, cable clearance or bore-edge requirements separately from mechanical strength. Relevant fastener structures Security & Tamper-Resistant Screws ↗ Custom Flange Screws ↗ Hollow & Through-Hole Screws ↗ Custom Double-Ended Studs ↗ Material options to review Carbon & Alloy Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Copper ↗ Manufacturing and acceptance Multi-Station Cold Heading ↗ Coatings & Surface Treatments ↗ Cleaning, Locking & Assembly ↗ For an enclosure fastener, provide the housing section, drive access and finish requirement. For a conductive component, include the contact material and electrical acceptance as well. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. How to specify a tamper-resistant screw drive ↗ Technical cleanliness: writing a useful fastener requirement ↗ Complete RFQ checklist ↗ Translate the application into a fastener specification For energy, charging & storage equipment, the first task is to connect the fastener geometry with the equipment interface. Access and retention: Define service access, tamper-resistant drives and the intended retaining arrangement. Environmental exposure: Specify outdoor exposure, mating metals, finish and the actual acceptance requirements. Electrical or routing function: Identify conductive interfaces, cable clearance or bore-edge requirements separately from mechanical strength. Explain the environment and service sequence alongside the drawing so the review addresses the installed component. For an enclosure fastener, provide the housing section, drive access and finish requirement. For a conductive component, include the contact material and electrical acceptance as well. Select a route around the functional features The relevant product families include Security & Tamper-Resistant Screws, Custom Flange Screws, Hollow & Through-Hole Screws, Custom Double-Ended Studs. These are starting points for a drawing review, not interchangeable parts. Compare Carbon & Alloy Steel, SUS304 & SUS316 Stainless Steel, Copper against the actual mechanical and environmental requirements. Discuss Multi-Station Cold Heading, Coatings & Surface Treatments, Cleaning, Locking & Assembly as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope. Plan sample approval and repeat orders Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Designing the bearing face of a custom flange screw ↗ Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer. ENGINEERING GUIDE Hollow screw bores: the details an RFQ should include ↗ Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review. START YOUR NEXT PROJECT Let’s review your energy, charging & storage equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Industries / Energy, Charging & Storage Equipment ENCLOSURE & CONNECTION DETAILS Energy, Charging & Storage Equipment Custom fastening and connection geometries for equipment housings, brackets, routing features and electrical interface components. Discuss your application ↗ Industry overview Access and retention Define service access, tamper-resistant drives and the intended retaining arrangement. Environmental exposure Specify outdoor exposure, mating metals, finish and the actual acceptance requirements. Electrical or routing function Identify conductive interfaces, cable clearance or bore-edge requirements separately from mechanical strength. Separate enclosure, passage and electrical-contact duties The screw that closes a service panel is not the same specification as a cable passage or a conductive connection. Identify the actual interface before choosing material and finish. Separate enclosure, passage and electrical-contact duties Assembly function Specify with the mating parts Acceptance and next review Retain a service cover Specify with the mating parts Define cover thickness, drive access, retaining arrangement and exposure. Identify the released position as well as the tightened position. Captive Screws ↗ Acceptance and next review Review opening, retention and re-engagement with the service tool. Agree coating and any enclosure-level checks for the complete assembly. Cleaning, Locking & Assembly ↗ Route a cable through a part Specify with the mating parts Show the cable envelope, bore path, entry edges and nearby constraints. Distinguish mechanical clearance from any insulation requirement. Hollow & Through-Hole Screws ↗ Acceptance and next review Inspect the passage and internal edges before access is lost. Trial the intended routing; a bore diameter alone does not establish cable protection. Secondary & Precision Operations ↗ Clamp a conductive connection Specify with the mating parts Identify the current path, contact materials, finish and clamped stack. State whether the threaded component conducts or only supplies clamping. Custom Double-Ended Studs ↗ Acceptance and next review Agree assembly conditions and the required electrical and thermal acceptance for the joint. Material conductivity alone is not a connection rating. Coatings & Surface Treatments ↗ Change example: substitute a plated connection part Compare the proposed base material, coating and contact surfaces with the approved joint. Identify changes to seating, thread fit and the assembly procedure before deciding which joint checks to repeat. Preserve the contact-stack and revision information in the record. A screw-level material certificate cannot replace electrical-connection testing or equipment approval. Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly. Read the charging-enclosure interface discussion ↗ Relevant fastener structures Security & Tamper-Resistant Screws ↗ Custom Flange Screws ↗ Hollow & Through-Hole Screws ↗ Custom Double-Ended Studs ↗ Material options to review Carbon & Alloy Steel ↗ SUS304 & SUS316 Stainless Steel ↗ Copper ↗ Manufacturing and acceptance Multi-Station Cold Heading ↗ Coatings & Surface Treatments ↗ Cleaning, Locking & Assembly ↗ For an enclosure fastener, provide the housing section, drive access and finish requirement. For a conductive component, include the contact material and electrical acceptance as well. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. How to specify a tamper-resistant screw drive ↗ Technical cleanliness: writing a useful fastener requirement ↗ Complete RFQ checklist ↗ CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Designing the bearing face of a custom flange screw ↗ Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer. ENGINEERING GUIDE Hollow screw bores: the details an RFQ should include ↗ Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review. START YOUR NEXT PROJECT Let’s review your energy, charging & storage equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "7d0eeb1b47dff6b9f24109a7f0fe25210552d64d893b536056fa77aca46fbb94",
+          "repositoryHash": "690b07660a6ec09d40be608a62da3ffad377ba415b7902808ade5c3737be32fc",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "6f76814b80f606df0f5a29493c14fcd9927f9679356932eb6245c674d83b7adb",
+          "repositoryHash": "397ce3b65b766554374706a0e009f31ea3b3bcd7c3debdb4abd2245113dd9958",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "681d7559818382b79e6cc05ac5c44abc9d82afa31e169256a5d46abd465da292",
+          "repositoryHash": "26f4f997170725c45a24f932f4589c2915bc5a3c18860a4b6645d188d36f47f7",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "815326c3254b5f9023bfbbd6bbb1891ae767fe848fa85d218e8b2e316ad6ba7b",
+          "repositoryHash": "33096d721d6d9b38f8758742aa2d58a3a74bf25b7c3a75727e3d64e94a736945",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "cab6e90554a6a0d4ad3ac4221d2a5b609ab271cbd2405aa818806345211dd6c0",
+          "repositoryHash": "a761eace9d8084ea1ee5504c30c92d2f3c969a96f890ea6cd9ecab70d52f6523",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }
@@ -14784,12 +14776,12 @@
       "type": "industry",
       "status": "present_in_repository",
       "productionPublication": "not_verified",
-      "title": "Fluid Control & Pneumatic Equipment Custom Fasteners | ZUFEK",
-      "description": "Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces.",
+      "title": "Hollow Screws & Fasteners for Fluid Equipment | ZUFEK",
+      "description": "Review retaining, flow-passage and sealing functions separately. Specify bore geometry, medium, seal interface, cleanliness and agreed functional tests.",
       "indexable": true,
       "publishedAt": null,
       "modifiedAt": null,
-      "englishBodyHash": "bc97142a28a2b6661b693e2ad40cc268755af3b04847a4f4f2a7435b5da26384",
+      "englishBodyHash": "a011cd24426bb89ff5135931c429e96dda8704ff02eec3314be2c92c95b3abd6",
       "headings": [
         {
           "level": 1,
@@ -14809,6 +14801,14 @@
         },
         {
           "level": 2,
+          "text": "Distinguish retaining, flow and sealing functions"
+        },
+        {
+          "level": 3,
+          "text": "Change example: add a radial passage"
+        },
+        {
+          "level": 2,
           "text": "Relevant fastener structures"
         },
         {
@@ -14822,18 +14822,6 @@
         {
           "level": 2,
           "text": "Prepare a clearer project specification."
-        },
-        {
-          "level": 2,
-          "text": "Translate the application into a fastener specification"
-        },
-        {
-          "level": 2,
-          "text": "Select a route around the functional features"
-        },
-        {
-          "level": 2,
-          "text": "Plan sample approval and repeat orders"
         },
         {
           "level": 2,
@@ -14856,7 +14844,13 @@
         "/",
         "/industries/",
         "/request-a-quote/",
+        "/products/flange-screws/",
+        "/capabilities/threading/",
         "/products/hollow-screws/",
+        "/capabilities/post-processing/",
+        "/products/special-head-screws/",
+        "/quality/",
+        "/blog/hollow-screw-bore-specification/",
         "/products/cross-drilled-screws/",
         "/products/tapered-screws/",
         "/products/special-thread-profiles/",
@@ -14865,8 +14859,6 @@
         "/materials/titanium-alloys/",
         "/capabilities/cnc-turning/",
         "/capabilities/secondary-machining/",
-        "/capabilities/post-processing/",
-        "/blog/hollow-screw-bore-specification/",
         "/blog/cross-hole-burr-control/",
         "/guides/rfq-checklist/",
         "/blog/tapered-screw-mating-seat/",
@@ -14878,35 +14870,35 @@
         "scripts/ (locate the matching route or title before editing)",
         "lib/generated-pages.json (generated snapshot; do not edit directly)"
       ],
-      "bodyText": "Home / Industries / Fluid Control & Pneumatic Equipment BORES, EDGES & CLEANLINESS Fluid Control & Pneumatic Equipment Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces. Discuss your application ↗ Industry overview Complete internal geometry Show all axial bores, side intersections, wall sections and sealing interfaces. Burr and cleanliness control Define internal edge condition, permitted residues and any specified cleanliness acceptance method. Functional verification Specify medium compatibility and any required pressure, flow or leak test with defined conditions. Relevant fastener structures Hollow & Through-Hole Screws ↗ Cross-Drilled & Head-Hole Screws ↗ Tapered Shank & Cone Screws ↗ Special & Compound Thread Profiles ↗ Material options to review SUS304 & SUS316 Stainless Steel ↗ Brass ↗ Titanium & Titanium Alloys ↗ Manufacturing and acceptance Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ Cleaning, Locking & Assembly ↗ For a passage part, provide the internal section and sealing arrangement. A through hole or taper does not by itself establish a pressure or leak-tightness rating. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Hollow screw bores: the details an RFQ should include ↗ Cross holes in screws: planning burr control and inspection ↗ Complete RFQ checklist ↗ Translate the application into a fastener specification For fluid control & pneumatic equipment, the first task is to connect the fastener geometry with the equipment interface. Complete internal geometry: Show all axial bores, side intersections, wall sections and sealing interfaces. Burr and cleanliness control: Define internal edge condition, permitted residues and any specified cleanliness acceptance method. Functional verification: Specify medium compatibility and any required pressure, flow or leak test with defined conditions. Explain the environment and service sequence alongside the drawing so the review addresses the installed component. For a passage part, provide the internal section and sealing arrangement. A through hole or taper does not by itself establish a pressure or leak-tightness rating. Select a route around the functional features The relevant product families include Hollow & Through-Hole Screws, Cross-Drilled & Head-Hole Screws, Tapered Shank & Cone Screws, Special & Compound Thread Profiles. These are starting points for a drawing review, not interchangeable parts. Compare SUS304 & SUS316 Stainless Steel, Brass, Titanium & Titanium Alloys against the actual mechanical and environmental requirements. Discuss Swiss-Type & CNC Turning, Secondary & Precision Operations, Cleaning, Locking & Assembly as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope. Plan sample approval and repeat orders Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph. CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Tapered screws: defining the mating seat ↗ A taper works against a corresponding surface. Its angle, axial position and relationship to the thread must be considered with the mating component. ENGINEERING GUIDE Technical cleanliness: writing a useful fastener requirement ↗ Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected. START YOUR NEXT PROJECT Let’s review your fluid control & pneumatic equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
+      "bodyText": "Home / Industries / Fluid Control & Pneumatic Equipment BORES, EDGES & CLEANLINESS Fluid Control & Pneumatic Equipment Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces. Discuss your application ↗ Industry overview Complete internal geometry Show all axial bores, side intersections, wall sections and sealing interfaces. Burr and cleanliness control Define internal edge condition, permitted residues and any specified cleanliness acceptance method. Functional verification Specify medium compatibility and any required pressure, flow or leak test with defined conditions. Distinguish retaining, flow and sealing functions A hollow screw can provide a passage without being the sealing element. Show where the medium flows, where the seal acts and which feature retains the assembly. Distinguish retaining, flow and sealing functions Assembly function Specify with the mating parts Acceptance and next review Retain a cover or component Specify with the mating parts Define the bearing face, clamped stack, mating thread and load case. Identify any separate seal or gasket in the assembly. Custom Flange Screws ↗ Acceptance and next review Check seating and usable thread engagement. Define joint acceptance independently of the visible fastener profile. Thread Rolling, Cutting & Tapping ↗ Provide an internal passage Specify with the mating parts Show the complete bore and cross-holes, remaining wall, internal edges and access for cleaning. State the medium and required flow function. Hollow & Through-Hole Screws ↗ Acceptance and next review Inspect hidden intersections at a suitable process stage. Agree any flow and cleanliness tests against the specified passage. Cleaning, Locking & Assembly ↗ Form part of a sealing joint Specify with the mating parts Identify the seal type, mating seat, contact finish and assembly condition. State the medium, temperature and pressure conditions for the application. Special Head Screws ↗ Acceptance and next review Define the test setup, duration, measurement and pass criteria for any specified leak or pressure test. An open-bore inspection is a different check. Plan functional tests and records ↗ Change example: add a radial passage A new cross-hole changes both the local section and the internal edge that needs finishing. Review the intersection before setting the deburring and cleaning sequence. Agree how that hidden area is checked while it remains accessible, then retain the finished dimensions and any specified functional-test record. No pressure capability follows from the product name or a successful dimensional screen. Design-review examples, not customer delivery records. Select the actual limits and checks for the ordered assembly. Define bore geometry and internal-edge acceptance ↗ Relevant fastener structures Hollow & Through-Hole Screws ↗ Cross-Drilled & Head-Hole Screws ↗ Tapered Shank & Cone Screws ↗ Special & Compound Thread Profiles ↗ Material options to review SUS304 & SUS316 Stainless Steel ↗ Brass ↗ Titanium & Titanium Alloys ↗ Manufacturing and acceptance Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ Cleaning, Locking & Assembly ↗ For a passage part, provide the internal section and sealing arrangement. A through hole or taper does not by itself establish a pressure or leak-tightness rating. Examples describe application requirements. Material suitability, production scope and verification are confirmed against the approved drawing. Prepare a clearer project specification. Hollow screw bores: the details an RFQ should include ↗ Cross holes in screws: planning burr control and inspection ↗ Complete RFQ checklist ↗ CONNECTED SPECIFICATION TOPICS Connect the part to its requirements. Review these related topics for this design or route. Grade, treatment, geometry and acceptance remain drawing-specific. ENGINEERING GUIDE Tapered screws: defining the mating seat ↗ A taper works against a corresponding surface. Its angle, axial position and relationship to the thread must be considered with the mating component. ENGINEERING GUIDE Technical cleanliness: writing a useful fastener requirement ↗ Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected. START YOUR NEXT PROJECT Let’s review your fluid control & pneumatic equipment requirement. Share your drawing, quantity and application requirements with our team. Request a quote ↗",
       "translations": {
         "de": {
           "exists": true,
-          "repositoryHash": "52737acf0cb6031f4bf7c752e5097944ef32349a8060cb198da975069422a414",
+          "repositoryHash": "b73abfb494c2d71a90c4e9710fb6171733d7f7a1088bf807be19ae7bb355d0c2",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "es": {
           "exists": true,
-          "repositoryHash": "69f0f35d3f08092d7d69f95d128bb2d62422c9b43fedf135707e8810c1d53914",
+          "repositoryHash": "b4d4b0349af5ed1c56c9545d5bf582f59bc171f461ae61608d4228f927d2c807",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "it": {
           "exists": true,
-          "repositoryHash": "6656d2cf3e55f420621765cbb46e18289a10f58243789c75688fb930489901cd",
+          "repositoryHash": "560cc5e961152619d9f97bc62f537da949a4a8c09d637f5482d0c75af3fdc405",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "zh": {
           "exists": true,
-          "repositoryHash": "2e9cd7a4ddaba1ebe5433b2b55c3bf127895f7a1a97e30d646acb0118f7f9048",
+          "repositoryHash": "ee8d8aac569e06a26fdd8deb6aac1b1df1ce5ef46b2f1b859997eeb7a7982ae9",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         },
         "fr": {
           "exists": true,
-          "repositoryHash": "bcbb2067b977cb72432f51735b75f37fb6f4477e27662e3b798cceb6d1eed548",
+          "repositoryHash": "dff296a840e23f6737cd742cfe3cd4e62944484c3e8f606f82110633b04de4fc",
           "approval": "not_recorded",
           "englishRevisionAlignment": "not_verified"
         }

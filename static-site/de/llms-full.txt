@@ -11313,7 +11313,7 @@ ENGINEERING-LEITFADEN
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
-### Kundenspezifische Verbindungselemente für die industrielle Automatisierung
+### Sonderbefestiger für die Industrieautomation
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/industrial-automation/
 
 LOKALISIEREN & VERSCHIEBEN VON SCHNITTSTELLEN
@@ -11335,6 +11335,38 @@ Sorgen Sie für Betriebsfreiraum, Verstellbereich, Hubanschläge und Werkzeugzug
 #### Endzustandsprüfungen
 
 Vereinbaren Sie, welche Durchmesser, Längen und Bezugsverhältnisse nach der Behandlung und Beschichtung überprüft werden.
+
+#### Drehen, Positionieren und Verstellen unterscheiden
+
+Ein Mechanismus kann dieselbe Gewindegröße für sehr unterschiedliche Aufgaben verwenden. Beginnen Sie mit der Fläche, die Bewegung oder Position bestimmt; definieren Sie dann, wie die Schraube die Baugruppe hält.
+
+Drehen, Positionieren und Verstellen unterscheiden Baugruppenfunktion Mit den Gegenstücken spezifizieren Abnahme und weitere Prüfung
+
+Drehgelenk auf glatter Schulter Mit den Gegenstücken spezifizieren Bohrungsgrenzen, fertigen Schulterdurchmesser, Kontaktlänge und Axialstapel zeigen. Drehfläche und Haltegewinde getrennt behandeln.
+
+Schulter- und Passschrauben ↗ Abnahme und weitere Prüfung Bohrungs-Schulter-Spiel und freie Bewegung im montierten Stapel prüfen. Eine Gewindelehre allein nimmt das Drehgelenk nicht ab.
+
+Kaltstauchen mit anschließender Zerspanung ↗
+
+Abnehmbare Station positionieren Mit den Gegenstücken spezifizieren Positionierstift, Gegenbohrung und Anlagefläche benennen. Bezugsbeziehungen und vorgesehene Abnahmerichtung zeigen.
+
+Schrauben mit integriertem Positionierstift ↗ Abnahme und weitere Prüfung Festgelegte Lagebeziehungen messen und Aus- und Wiedereinbau erproben. Das Spanngewinde ist nicht automatisch der Positionierbezug.
+
+CCD-Bildverarbeitung und Maßprüfung ↗
+
+Anschlag oder Führung verstellen Mit den Gegenstücken spezifizieren Hub, Kontaktende, zulässige Spuren und Halten der Einstellung festlegen. Hand- und Werkzeugfreiraum an beiden Hubenden berücksichtigen.
+
+Rändel- und Einstellschrauben ↗ Abnahme und weitere Prüfung Einstellung vor und nach dem vereinbarten Verstellablauf dokumentieren. Sichtspuren, Positionsmessung und Halteprüfung unterscheiden.
+
+Sekundär- und Präzisionsbearbeitung ↗
+
+##### Änderungsbeispiel: eine Gelenkbuchse ersetzen
+
+Eine Ersatzbuchse kann Bohrungsgrenzen oder den wirksamen Axialstapel ändern, auch wenn die Schraube gleich bleibt. Vergleichen Sie neue Bohrung und Stapel mit den fertigen Schultergrenzen, danach Bewegung und Anlage. Verknüpfen Sie Buchsen- und Schraubenstand im Musterprotokoll. Die bisherige Freigabe gilt für ihre ursprüngliche Konfiguration; dokumentieren Sie die Prüfungen der geänderten Baugruppe.
+
+Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.
+
+Konstruktionsstudie zum Automations-Drehgelenk ↗
 
 #### Relevante Befestigungsstrukturen
 
@@ -11360,22 +11392,6 @@ Erkunden Sie eine vorgeschlagene Baugruppe, die Auswahl der Befestigungselemente
 
 Designstudie für Automatisierungsdreh- und Verstellvorrichtungen ↗
 
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
-
-Für die industrielle Automatisierung besteht die erste Aufgabe darin, die Verbindungsgeometrie mit der Geräteschnittstelle zu verbinden. Passungen und Positionierungsflächen: Identifizieren Sie die glatte Schulter, die die Baugruppe fixiert, und ihre Beziehung zur passenden Bohrung. Bewegungs- und Wartungszugang: Stellen Sie den Betriebsfreiraum, den Einstellbereich, die Hubanschläge und den Werkzeugzugang bereit. Endzustandsprüfungen: Vereinbaren Sie, welche Durchmesser, Längen und Beziehungen zwischen geometrischen Bezugspunkten nach der Behandlung und Beschichtung überprüft werden. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
-
-Berücksichtigen Sie für einen geführten Drehpunkt die passende Bohrung und den axialen Stapel. Geben Sie die Positionierungsflächen getrennt vom Gewinde an, das zum Halten der Baugruppe verwendet wird.
-
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
-
-Zu den relevanten Produktfamilien gehören Schulter- und Stufenschrauben, Mehrstufen- und Mehrschulterschrauben, Schrauben mit integrierten Fixierstiften, Rändelschrauben und Einstellschrauben. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie Kohlenstoff- und legierten Stahl, SUS304 und SUS316 Edelstahl sowie Aluminiumlegierungen mit den tatsächlichen mechanischen und Umweltanforderungen.
-
-Besprechen Sie Kaltstauchen + Sekundärbearbeitung, Sekundär- und Präzisionsoperationen, CCD-Vision und Maßprüfung als Teil der gesamten Route. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
-
-#### Planen Sie Musterfreigaben und Nachbestellungen
-
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
-
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -11394,7 +11410,7 @@ ENGINEERING-LEITFADEN
 
 Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem Zustand beurteilt werden, den der Kunde erhält, und nicht nur vor der Oberflächenbehandlung.
 
-### Kundenspezifische Verbindungselemente für elektronische und optische Geräte
+### Sonderschrauben für Elektronik und Optik
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/electronics-optics/
 
 KOMPAKTE UND EINSTELLBARE TEILE
@@ -11417,6 +11433,38 @@ Geben Sie die Anforderungen an Hub, Gegenkontakt und Verriegelung für Fine-Pitc
 
 Überprüfen Sie Masse, Aussehen, elektrischen Bedarf und Kontakt mit unterschiedlichen Materialien.
 
+#### Zugang, Verstellung und Kontaktfläche prüfen
+
+Kompakte Gehäuse und optische Versteller brauchen unterschiedliche Schraubenschnittstellen. Die mechanische Aufgabe mit Nachbarteilen definieren; ein maßhaltiges Gewinde allein belegt keine optische Modulleistung.
+
+Zugang, Verstellung und Kontaktfläche prüfen Baugruppenfunktion Mit den Gegenstücken spezifizieren Abnahme und weitere Prüfung
+
+Kompaktes Gehäuse schließen Mit den Gegenstücken spezifizieren Kopfhöhe, Anlagefläche, Werkzeugansatz und verfügbare Gewindelochtiefe zeigen. Erscheinungsempfindliche Flächen benennen.
+
+Schrauben mit Sonderkopf ↗ Abnahme und weitere Prüfung Prüfen, dass der Kopf anliegt, bevor das Schraubenende den Lochgrund berührt, und dass der vorgesehene Bit zugänglich ist. Zulässige Gehäusespuren dokumentieren.
+
+Sekundär- und Präzisionsbearbeitung ↗
+
+Feinverstellung übertragen Mit den Gegenstücken spezifizieren Gewindesteigung, nutzbaren Hub, Kontaktendform und Halten der Einstellung festlegen. Gegenversteller und dessen Lagerung einbeziehen.
+
+Schrauben mit Fein- und Feinstgewinde ↗ Abnahme und weitere Prüfung Geforderte Bewegung und Rückkehr zur Referenzstellung erproben. Montageverstellung getrennt von Gewindemaßen prüfen.
+
+Gewindewalzen, Gewindedrehen und Gewindebohren ↗
+
+Mit einem Exzenter positionieren Mit den Gegenstücken spezifizieren Versatzrichtung und -betrag zu benannten Bezügen sowie Winkelreferenz und Kontaktbereich am Gegenstück angeben.
+
+Exzenter- und Schrägkopfschrauben ↗ Abnahme und weitere Prüfung Versatzgeometrie in der definierten Aufspannung prüfen und Verstellung im Modul erproben. Den Versatz nicht allein aus der Kopfkontur ableiten.
+
+Langdrehen und CNC-Drehen ↗
+
+##### Änderungsbeispiel: eine Oberflächenbehandlung ergänzen
+
+Festlegen, welche Maße nach Behandlung gelten, einschließlich Antriebsvertiefung, Feingewinde und Kontaktende. Den sauberen Montagezustand und vor Handhabungsschäden zu schützende Flächen definieren. Fertige Muster mit vorgesehenem Werkzeug und Gegenstücken vergleichen. Maßabnahme, Sauberkeit und gegebenenfalls optische Systemvalidierung brauchen getrennte Nachweise; sichtbare Sauberkeit belegt keinen gemessenen Partikelgrenzwert.
+
+Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.
+
+Exzenterbezüge und Verstellgeometrie prüfen ↗
+
 #### Relevante Befestigungsstrukturen
 
 Schrauben mit Fein- und Feinstgewinde ↗ Exzenter- und Schrägkopfschrauben ↗ Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Schrauben mit Sonderkopf ↗
@@ -11434,22 +11482,6 @@ Beispiele beschreiben Anwendungsanforderungen. Materialeignung, Produktionsumfan
 #### Bereiten Sie eine klarere Projektspezifikation vor.
 
 Zeichnungen von Exzenterschrauben: Den Versatz eindeutig machen ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗ Vervollständigen Sie die RFQ-Checkliste ↗
-
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
-
-Bei elektronischen und optischen Geräten besteht die erste Aufgabe darin, die Verbindungsgeometrie mit der Geräteschnittstelle zu verbinden. Kleine Schnittstellendetails: Definieren Sie den Kopfraum, die Aussparung, die Gewindepassung und den Zugang um angrenzende Teile. Anpassungsfunktion: Spezifizieren Sie den Weg, den Gegenkontakt und die Verriegelungsanforderungen für Fine-Pitch- oder exzentrische Merkmale. Material- und Oberflächenkompatibilität: Überprüfen Sie Masse, Aussehen, elektrische Anforderungen und Kontakt mit unterschiedlichen Materialien. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
-
-Senden Sie für einen Moduleinsteller eine Baugruppenansicht mit der Positionierungsachse, dem Einstellkontakt und dem erforderlichen Zugang. Eine Schraubensteigung allein definiert nicht den vollständigen Mechanismus.
-
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
-
-Zu den relevanten Produktfamilien gehören Fein- und Feinstgewindeschrauben, Exzenter- und Winkelkopfschrauben, Hohl- und Durchgangslochschrauben sowie Spezialkopfschrauben. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie SUS304 und SUS316 Edelstahl, Aluminiumlegierungen, Messing, Titan und Titanlegierungen mit den tatsächlichen mechanischen und Umweltanforderungen.
-
-Besprechen Sie Swiss-Type- und CNC-Drehen, Gewinderollen, Schneiden und Gewindeschneiden, CCD-Bildverarbeitung und Maßprüfung als Teil des gesamten Programms. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
-
-#### Planen Sie Musterfreigaben und Nachbestellungen
-
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -11469,7 +11501,7 @@ ENGINEERING-LEITFADEN
 
 Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
-### Kundenspezifische Verbindungselemente für Energie-, Lade- und Speichergeräte
+### Sonderbefestiger für Lade- und Energieanlagen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/energy-equipment/
 
 GEHÄUSE- UND ANSCHLUSSDETAILS
@@ -11492,6 +11524,38 @@ Geben Sie die Außenlage, die passenden Metalle, die Oberfläche und die tatsäc
 
 Identifizieren Sie die Anforderungen an leitfähige Schnittstellen, Kabelabstände oder Bohrungskanten getrennt von der mechanischen Festigkeit.
 
+#### Gehäuse-, Durchführungs- und Kontaktaufgaben trennen
+
+Eine Wartungsplattenschraube hat andere Anforderungen als eine Kabeldurchführung oder leitende Verbindung. Die tatsächliche Schnittstelle bestimmen, bevor Werkstoff und Oberfläche gewählt werden.
+
+Gehäuse-, Durchführungs- und Kontaktaufgaben trennen Baugruppenfunktion Mit den Gegenstücken spezifizieren Abnahme und weitere Prüfung
+
+Wartungsdeckel halten Mit den Gegenstücken spezifizieren Deckeldicke, Werkzeugzugang, Halteanordnung und Umgebung festlegen. Gelöste und angezogene Position benennen.
+
+Unverlierbare Schrauben ↗ Abnahme und weitere Prüfung Öffnen, Halten und Wiedereingriff mit dem Wartungswerkzeug prüfen. Beschichtung und erforderliche Gehäuseprüfungen für die komplette Baugruppe vereinbaren.
+
+Reinigung, Schraubensicherung und Vormontage ↗
+
+Kabel durch ein Bauteil führen Mit den Gegenstücken spezifizieren Kabelhüllraum, Bohrungsverlauf, Eintrittskanten und benachbarte Hindernisse zeigen. Mechanischen Freiraum von Isolationsanforderungen unterscheiden.
+
+Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Abnahme und weitere Prüfung Kanal und Innenkanten vor Verlust des Zugangs prüfen. Vorgesehene Führung erproben; der Bohrungsdurchmesser allein belegt keinen Kabelschutz.
+
+Sekundär- und Präzisionsbearbeitung ↗
+
+Leitende Verbindung klemmen Mit den Gegenstücken spezifizieren Strompfad, Kontaktwerkstoffe, Oberfläche und Klemmstapel benennen. Festlegen, ob das Gewindeteil leitet oder nur klemmt.
+
+Stiftschrauben mit zwei Gewindeenden nach Zeichnung ↗ Abnahme und weitere Prüfung Montagebedingungen sowie erforderliche elektrische und thermische Abnahme der Verbindung vereinbaren. Werkstoffleitfähigkeit allein ist keine Anschlussbemessung.
+
+Beschichtungen und Oberflächenbehandlungen ↗
+
+##### Änderungsbeispiel: beschichtetes Verbindungsteil ersetzen
+
+Vorgeschlagenen Grundwerkstoff, Beschichtung und Kontaktflächen mit der freigegebenen Verbindung vergleichen. Änderungen an Anlage, Gewindepassung und Montageverfahren bestimmen, bevor wiederholte Verbindungsprüfungen festgelegt werden. Kontaktstapel und Versionsinformationen im Nachweis erhalten. Ein Werkstoffzeugnis der Schraube ersetzt weder elektrische Verbindungsprüfungen noch die Gerätefreigabe.
+
+Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.
+
+Schnittstellen von Ladegehäusen näher betrachten ↗
+
 #### Relevante Befestigungsstrukturen
 
 Sicherheits- und manipulationshemmende Schrauben ↗ Flanschschrauben nach Zeichnung ↗ Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Kundenspezifische doppelseitige Bolzen ↗
@@ -11509,22 +11573,6 @@ Beispiele beschreiben Anwendungsanforderungen. Materialeignung, Produktionsumfan
 #### Bereiten Sie eine klarere Projektspezifikation vor.
 
 So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Technische Sauberkeit: Eine nützliche Anforderung an Verbindungselemente verfassen ↗ Vervollständigen Sie die RFQ-Checkliste ↗
-
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
-
-Bei Energie-, Lade- und Speichergeräten besteht die erste Aufgabe darin, die Verbindungsgeometrie mit der Geräteschnittstelle zu verbinden. Zugriff und Aufbewahrung: Definieren Sie den Servicezugang, manipulationssichere Laufwerke und die vorgesehene Aufbewahrungsanordnung. Umweltexposition: Geben Sie die Außenexposition, die passenden Metalle, die Oberfläche und die tatsächlichen Akzeptanzanforderungen an. Elektrische oder Routing-Funktion: Identifizieren Sie leitende Schnittstellen, Kabelabstand oder Anforderungen an Bohrungskanten getrennt von der mechanischen Festigkeit. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
-
-Geben Sie für eine Gehäusebefestigung den Gehäuseabschnitt, den Laufwerkszugang und die Oberflächenanforderungen an. Geben Sie bei einer leitfähigen Komponente auch das Kontaktmaterial und die elektrische Leitung an.
-
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
-
-Zu den relevanten Produktfamilien gehören Sicherheits- und manipulationssichere Schrauben, kundenspezifische Flanschschrauben, Hohl- und Durchgangslochschrauben sowie kundenspezifische doppelseitige Bolzen. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie Kohlenstoff- und legierten Stahl, SUS304 und SUS316 Edelstahl, Kupfer mit den tatsächlichen mechanischen und Umweltanforderungen.
-
-Besprechen Sie Kaltstauchen mit mehreren Stationen, Beschichtungen und Oberflächenbehandlungen, Reinigung, Verriegelung und Montage als Teil der gesamten Route. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
-
-#### Planen Sie Musterfreigaben und Nachbestellungen
-
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -11694,7 +11742,7 @@ ENGINEERING-LEITFADEN
 
 Ein Beschichtungsfamilienname definiert nicht die gesamte gelieferte Oberfläche. Ausschreibungen für kundenspezifische Verbindungselemente sollten das Beschichtungssystem mit den Anforderungen an Passform, Reibung und Akzeptanz in Verbindung bringen.
 
-### Kundenspezifische Verbindungselemente für Flüssigkeitssteuerung und pneumatische Geräte
+### Hohlschrauben und Befestiger für Fluidanlagen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/fluid-control/
 
 BOHRUNGEN, KANTEN & SAUBERKEIT
@@ -11717,6 +11765,38 @@ Definieren Sie den Zustand der Innenkante, zulässige Rückstände und alle ange
 
 Geben Sie die Medienkompatibilität und alle erforderlichen Druck-, Durchfluss- oder Lecktests mit definierten Bedingungen an.
 
+#### Halten, Durchfluss und Abdichten unterscheiden
+
+Eine Hohlschraube kann einen Kanal bilden, ohne selbst das Dichtelement zu sein. Zeigen Sie Mediumspfad, Dichtstelle und das haltende Merkmal der Baugruppe.
+
+Halten, Durchfluss und Abdichten unterscheiden Baugruppenfunktion Mit den Gegenstücken spezifizieren Abnahme und weitere Prüfung
+
+Deckel oder Bauteil halten Mit den Gegenstücken spezifizieren Auflagefläche, Klemmstapel, Gegengewinde und Lastfall festlegen. Separate Dichtung im Zusammenbau benennen.
+
+Flanschschrauben nach Zeichnung ↗ Abnahme und weitere Prüfung Anlage und nutzbaren Gewindeeingriff prüfen. Verbindungsabnahme unabhängig vom sichtbaren Schraubenprofil festlegen.
+
+Gewindewalzen, Gewindedrehen und Gewindebohren ↗
+
+Innenkanal bereitstellen Mit den Gegenstücken spezifizieren Gesamte Bohrung, Querbohrungen, Restwand, Innenkanten und Reinigungszugang zeigen. Medium und geforderte Durchflussfunktion angeben.
+
+Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Abnahme und weitere Prüfung Verdeckte Verschneidungen in geeigneter Fertigungsstufe prüfen. Erforderliche Durchfluss- und Sauberkeitsprüfungen zum festgelegten Kanal vereinbaren.
+
+Reinigung, Schraubensicherung und Vormontage ↗
+
+Teil einer Dichtverbindung sein Mit den Gegenstücken spezifizieren Dichtungsart, Gegensitz, Kontaktoberfläche und Montagezustand benennen. Medium, Temperatur und Druckbedingungen der Anwendung angeben.
+
+Schrauben mit Sonderkopf ↗ Abnahme und weitere Prüfung Aufbau, Dauer, Messung und Annahmekriterien der festgelegten Leck- oder Druckprüfung definieren. Die Prüfung einer offenen Bohrung ist etwas anderes.
+
+Funktionsprüfungen und Nachweise planen ↗
+
+##### Änderungsbeispiel: einen radialen Kanal ergänzen
+
+Eine neue Querbohrung verändert den örtlichen Querschnitt und die nachzubearbeitende Innenkante. Prüfen Sie die Verschneidung vor Festlegung von Entgraten und Reinigung. Vereinbaren Sie eine Prüfung des verdeckten Bereichs, solange er zugänglich bleibt, und bewahren Sie Fertigmaße und geforderte Funktionsprüfnachweise auf. Weder Produktname noch erfolgreiche Maßprüfung ergeben eine Druckfreigabe.
+
+Konstruktionsbeispiele, keine Kundenauslieferungsberichte. Grenzwerte und Prüfungen für die bestellte Baugruppe festlegen.
+
+Bohrungsgeometrie und Innenkantenabnahme festlegen ↗
+
 #### Relevante Befestigungsstrukturen
 
 Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Schrauben mit Quer- oder Kopfbohrung ↗ Schrauben mit konischem Schaft und Kegelschrauben ↗ Spezielle und zusammengesetzte Gewindeprofile ↗
@@ -11734,22 +11814,6 @@ Beispiele beschreiben Anwendungsanforderungen. Materialeignung, Produktionsumfan
 #### Bereiten Sie eine klarere Projektspezifikation vor.
 
 Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗ Querlöcher in Schrauben: Gratkontrolle und Inspektion planen ↗ Vervollständigen Sie die RFQ-Checkliste ↗
-
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
-
-Bei Fluidsteuerungs- und Pneumatikgeräten besteht die erste Aufgabe darin, die Verbindungsgeometrie mit der Geräteschnittstelle zu verbinden. Vollständige Innengeometrie: Alle axialen Bohrungen, seitlichen Schnittpunkte, Wandabschnitte und Dichtungsschnittstellen anzeigen. Grat- und Sauberkeitskontrolle: Definieren Sie den Zustand der Innenkante, zulässige Rückstände und alle spezifizierten Sauberkeitsabnahmemethoden. Funktionsüberprüfung: Spezifizieren Sie die Medienverträglichkeit und ggf. erforderliche Druck-, Durchfluss- oder Dichtheitstests unter definierten Bedingungen. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
-
-Stellen Sie für einen Durchgangsteil den Innenabschnitt und die Dichtungsanordnung bereit. Ein Durchgangsloch oder eine Verjüngung allein legt keinen Wert für den Druck oder die Dichtheit fest.
-
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
-
-Zu den relevanten Produktfamilien gehören Hohl- und Durchgangslochschrauben, Kreuzloch- und Kopflochschrauben, konische Schaft- und Kegelschrauben sowie Spezial- und Verbundgewindeprofile. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie SUS304 und SUS316 Edelstahl, Messing, Titan und Titanlegierungen mit den tatsächlichen mechanischen und Umweltanforderungen.
-
-Besprechen Sie Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsoperationen, Reinigung, Verriegelung und Montage als Teil des gesamten Kurses. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
-
-#### Planen Sie Musterfreigaben und Nachbestellungen
-
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 

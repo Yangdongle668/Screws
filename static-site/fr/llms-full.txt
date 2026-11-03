@@ -11313,7 +11313,7 @@ GUIDE D'INGÉNIERIE
 
 Une fixation en acier à haute résistance nécessite une décision de revêtement qui prend en compte à la fois la corrosion et l'exposition à l'hydrogène tout au long du traitement.
 
-### Fixations personnalisées pour l'automatisation industrielle
+### Fixations sur mesure pour l’automatisation industrielle
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/industrial-automation/
 
 LOCALISATION ET DÉPLACEMENT DES INTERFACES
@@ -11335,6 +11335,38 @@ Prévoir le jeu de fonctionnement, la plage de réglage, les butées de course e
 #### Contrôles de l'état final
 
 Convenez des diamètres, des longueurs et des relations de référence qui sont vérifiés après le traitement et le revêtement.
+
+#### Distinguer pivotement, positionnement et réglage
+
+Un mécanisme peut utiliser le même filetage pour des fonctions très différentes. Partez de la surface qui établit mouvement ou position, puis définissez le maintien de l’assemblage par la vis.
+
+Distinguer pivotement, positionnement et réglage Fonction dans l’assemblage À spécifier avec les pièces en regard Réception et examen suivant
+
+Pivotement sur un épaulement lisse À spécifier avec les pièces en regard Indiquez limites d’alésage, diamètre fini d’épaulement, longueur de contact et chaîne axiale. Séparez l’interface tournante du filetage de maintien.
+
+Vis à épaulement et vis étagées ↗ Réception et examen suivant Vérifiez le jeu alésage-épaulement et la liberté de mouvement dans l’empilage monté. Le contrôle du filetage ne réceptionne pas le pivot.
+
+Frappe à froid et usinage secondaire ↗
+
+Positionner un poste démontable À spécifier avec les pièces en regard Identifiez pion, trou en regard et face d’appui, avec relations de référence et direction de démontage prévue.
+
+Vis avec pion de positionnement intégré ↗ Réception et examen suivant Mesurez les relations de position spécifiées et essayez dépose et repose. Le filetage de serrage n’est pas automatiquement la référence de positionnement.
+
+Contrôle dimensionnel et vision CCD ↗
+
+Régler une butée ou un guidage À spécifier avec les pièces en regard Définissez course, extrémité de contact, marques admises et maintien du réglage. Prévoyez accès opérateur et outil aux extrémités.
+
+Vis moletées et vis de réglage manuel ↗ Réception et examen suivant Consignez le réglage avant et après la séquence convenue. Distinguez marques visibles, mesure de position et maintien.
+
+Opérations secondaires et de précision ↗
+
+##### Exemple de modification : remplacer une bague de pivot
+
+Une bague de remplacement peut modifier les limites d’alésage ou la chaîne axiale effective sans changer la vis. Comparez nouvel alésage et empilage aux limites de l’épaulement fini, puis examinez mouvement et appui. Reliez les indices de bague et de vis au dossier d’échantillons. Conservez l’ancienne approbation pour sa configuration initiale et documentez les contrôles de l’assemblage révisé.
+
+Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.
+
+Consulter l’étude de conception du pivot d’automatisation ↗
 
 #### Structures de fixation pertinentes
 
@@ -11360,22 +11392,6 @@ Explorez un assemblage proposé, les choix de fixations, l'examen de la fabricat
 
 Etude de conception de pivots et de dispositifs de réglage d'automatisme ↗
 
-#### Traduire l'application en une spécification de fixation
-
-Pour l'automatisation industrielle, la première tâche consiste à connecter la géométrie des fixations à l'interface de l'équipement. Ajustements et surfaces de positionnement : identifiez l'épaulement lisse qui localise l'assemblage et sa relation avec l'alésage d'accouplement. Accès au mouvement et à l'entretien : fournissez le jeu de fonctionnement, la plage de réglage, les butées de déplacement et l'accès aux outils. Vérifications de l'état final : convenir des diamètres, des longueurs et des relations entre les références géométriques qui sont vérifiés après le traitement et le revêtement. Expliquez l'environnement et la séquence d'entretien parallèlement au dessin technique afin que l'examen porte sur le composant installé.
-
-Pour un pivot guidé, incluez l’alésage correspondant et la pile axiale. Spécifiez les surfaces de positionnement séparément du filetage utilisé pour retenir l'assemblage.
-
-#### Sélectionner un parcours autour des fonctionnalités fonctionnelles
-
-Les familles de produits concernées comprennent les vis à épaulement et à épaulement, les vis à plusieurs étages et à épaulement multiples, les vis avec broches de positionnement intégrées, les vis moletées et de réglage. Ce sont des points de départ pour une révision des dessins techniques, et non des pièces interchangeables. Comparez l'acier au carbone et allié, l'acier inoxydable SUS304 et SUS316, les alliages d'aluminium par rapport aux exigences mécaniques et environnementales réelles.
-
-Discutez de la frappe à froid + de l'usinage secondaire, des opérations secondaires et de précision, de la vision CCD et de l'inspection dimensionnelle dans le cadre de l'itinéraire complet. Identifiez la quantité d’échantillon, les caractéristiques critiques, la finition et les enregistrements requis avant l’approbation. Un nom de secteur à lui seul n’implique pas une certification de projet ou une portée de test globale.
-
-#### Planifier l'approbation des échantillons et répéter les commandes
-
-L'échantillonnage typique, y compris l'outillage, prend environ 10–15 jours, sous réserve d'un examen technique et d'une confirmation. Confirmez la base du calendrier, l'acceptation de l'échantillon et tout essai de pièce d'accouplement dans le devis. Libérez la production répétée par rapport à la révision approuvée et enregistrez les modifications apportées au matériau, au traitement ou à la géométrie plutôt que de vous fier à une photographie précédente.
-
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -11394,7 +11410,7 @@ GUIDE D'INGÉNIERIE
 
 Un revêtement appartient au plan dimensionnel. L'ajustement final doit être évalué dans l'état dans lequel le client reçoit, et pas seulement avant le traitement de surface.
 
-### Fixations personnalisées pour équipements électroniques et optiques
+### Vis sur mesure pour électronique et optique
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/electronics-optics/
 
 PIÈCES COMPACTES ET RÉGLABLES
@@ -11417,6 +11433,38 @@ Spécifiez les exigences de déplacement, de contact d'accouplement et de verrou
 
 Examinez la masse, l’apparence, les besoins électriques et le contact avec des matériaux différents.
 
+#### Examiner accès, réglage et surface de contact
+
+Boîtiers compacts et réglages optiques demandent des interfaces différentes. Définissez le rôle mécanique avec les pièces voisines ; un filetage précis ne suffit pas à établir les performances optiques du module.
+
+Examiner accès, réglage et surface de contact Fonction dans l’assemblage À spécifier avec les pièces en regard Réception et examen suivant
+
+Fermer un boîtier compact À spécifier avec les pièces en regard Indiquez hauteur de tête, face d’appui, accès du tournevis et profondeur disponible du taraudage. Repérez les surfaces d’aspect sensibles.
+
+Vis à tête spéciale ↗ Réception et examen suivant Vérifiez que la vis finie prend appui avant de talonner et que l’embout prévu peut entrer. Consignez les marques admises sur le boîtier.
+
+Opérations secondaires et de précision ↗
+
+Transmettre un réglage fin À spécifier avec les pièces en regard Spécifiez pas, course utile, forme d’extrémité et maintien du réglage. Incluez l’élément réglé et son support.
+
+Vis à pas fin et extra-fin ↗ Réception et examen suivant Essayez le mouvement demandé et le retour à une position de référence. Vérifiez le réglage monté séparément des dimensions du filetage.
+
+Roulage, usinage des filets et taraudage ↗
+
+Positionner avec un excentrique À spécifier avec les pièces en regard Précisez direction et valeur du décalage par rapport aux références nommées, repère angulaire et enveloppe de contact.
+
+Vis excentriques et à tête inclinée ↗ Réception et examen suivant Contrôlez le décalage dans le montage défini et essayez le réglage dans le module. Ne déduisez pas le décalage du seul contour de tête.
+
+Décolletage à poupée mobile et tournage CNC ↗
+
+##### Exemple de modification : ajouter une finition
+
+Précisez les dimensions valables après finition, dont empreinte, filetage fin et extrémité de contact. Définissez la propreté avant montage et les surfaces à protéger des dommages de manipulation. Comparez les échantillons finis à l’outil et aux pièces prévus. Réception dimensionnelle, propreté et éventuelle validation optique exigent des documents distincts ; un aspect propre ne prouve pas une limite de particules mesurée.
+
+Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.
+
+Examiner références et géométrie du réglage excentrique ↗
+
 #### Structures de fixation pertinentes
 
 Vis à pas fin et extra-fin ↗ Vis excentriques et à tête inclinée ↗ Vis creuses et vis à perçage traversant ↗ Vis à tête spéciale ↗
@@ -11434,22 +11482,6 @@ Des exemples décrivent les exigences de l'application. L'adéquation des matér
 #### Préparez une spécification de projet plus claire.
 
 Dessins de vis excentriques : rendre le décalage sans ambiguïté ↗ Vis moletées : spécification de la poignée et du réglage ↗ Liste de contrôle complète de la demande de prix ↗
-
-#### Traduire l'application en une spécification de fixation
-
-Pour les équipements électroniques et optiques, la première tâche consiste à connecter la géométrie des fixations à l’interface de l’équipement. Petits détails de l'interface : définissez l'enveloppe de la tête, l'évidement, l'ajustement du filetage et l'accès autour des pièces adjacentes. Fonction de réglage : spécifiez les exigences en matière de course, de contact d'accouplement et de verrouillage pour les fonctions à pas fin ou excentriques. Compatibilité des matériaux et des surfaces : examinez la masse, l'apparence, les besoins électriques et le contact avec des matériaux différents. Expliquez l'environnement et la séquence d'entretien parallèlement au dessin technique afin que l'examen porte sur le composant installé.
-
-Pour un ajusteur de module, envoyer une vue d'assemblage montrant l'axe de positionnement, le contact de réglage et l'accès requis. Un pas de vis à lui seul ne définit pas le mécanisme complet.
-
-#### Sélectionner un parcours autour des fonctionnalités fonctionnelles
-
-Les familles de produits concernées comprennent les vis à pas fin et extra-fin, les vis à tête excentrique et coudée, les vis creuses et traversantes, les vis à tête spéciale. Ce sont des points de départ pour une révision des dessins techniques, et non des pièces interchangeables. Comparez l'acier inoxydable SUS304 et SUS316, les alliages d'aluminium, le laiton, le titane et les alliages de titane par rapport aux exigences mécaniques et environnementales réelles.
-
-Discutez du tournage de type suisse et CNC, du roulage de filetage, de la coupe et du taraudage, de la vision CCD et de l'inspection dimensionnelle dans le cadre de l'itinéraire complet. Identifiez la quantité d’échantillon, les caractéristiques critiques, la finition et les enregistrements requis avant l’approbation. Un nom de secteur à lui seul n’implique pas une certification de projet ou une portée de test globale.
-
-#### Planifier l'approbation des échantillons et répéter les commandes
-
-L'échantillonnage typique, y compris l'outillage, prend environ 10–15 jours, sous réserve d'un examen technique et d'une confirmation. Confirmez la base du calendrier, l'acceptation de l'échantillon et tout essai de pièce d'accouplement dans le devis. Libérez la production répétée par rapport à la révision approuvée et enregistrez les modifications apportées au matériau, au traitement ou à la géométrie plutôt que de vous fier à une photographie précédente.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -11469,7 +11501,7 @@ GUIDE D'INGÉNIERIE
 
 Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
-### Attaches personnalisées pour équipements d'énergie, de recharge et de stockage
+### Fixations pour équipements de recharge et d’énergie
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/energy-equipment/
 
 DÉTAILS DU BOÎTIER ET DE LA CONNEXION
@@ -11492,6 +11524,38 @@ Spécifiez l'exposition extérieure, les métaux d'accouplement, la finition et 
 
 Identifiez les interfaces conductrices, le dégagement des câbles ou les exigences en matière de bord d'alésage séparément de la résistance mécanique.
 
+#### Distinguer boîtier, passage et contact électrique
+
+La vis qui ferme un panneau de service ne relève pas de la même spécification qu’un passage de câble ou une connexion conductrice. Identifiez l’interface avant de choisir matière et finition.
+
+Distinguer boîtier, passage et contact électrique Fonction dans l’assemblage À spécifier avec les pièces en regard Réception et examen suivant
+
+Retenir un panneau de service À spécifier avec les pièces en regard Définissez épaisseur, accès de l’outil, retenue et exposition. Repérez les positions desserrée et serrée.
+
+Vis imperdables ↗ Réception et examen suivant Examinez ouverture, retenue et réengagement avec l’outil de service. Convenez du revêtement et des contrôles du boîtier complet.
+
+Nettoyage, freinage et préassemblage ↗
+
+Faire passer un câble dans une pièce À spécifier avec les pièces en regard Indiquez enveloppe du câble, trajet du perçage, arêtes d’entrée et contraintes voisines. Distinguez dégagement mécanique et isolation.
+
+Vis creuses et vis à perçage traversant ↗ Réception et examen suivant Contrôlez passage et arêtes internes avant de perdre l’accès. Essayez le cheminement prévu ; le diamètre du perçage ne suffit pas à établir la protection du câble.
+
+Opérations secondaires et de précision ↗
+
+Serrer une connexion conductrice À spécifier avec les pièces en regard Identifiez trajet du courant, matériaux de contact, finition et empilage serré. Précisez si la pièce filetée conduit ou fournit seulement le serrage.
+
+Goujons à double extrémité sur mesure ↗ Réception et examen suivant Convenez du montage et de la réception électrique et thermique du joint. La conductivité de la matière ne constitue pas une valeur assignée de connexion.
+
+Revêtements et traitements de surface ↗
+
+##### Exemple de modification : remplacer une pièce de connexion revêtue
+
+Comparez matière de base, revêtement et surfaces proposés à la connexion approuvée. Repérez les modifications d’appui, d’ajustement du filetage et de montage avant de choisir les contrôles à répéter. Conservez empilage de contact et indices dans le dossier. Un certificat matière de vis ne remplace ni les essais de connexion électrique ni l’approbation de l’équipement.
+
+Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.
+
+Lire l’analyse des interfaces de boîtiers de recharge ↗
+
 #### Structures de fixation pertinentes
 
 Vis de sécurité et anti-effraction ↗ Vis à embase sur mesure ↗ Vis creuses et vis à perçage traversant ↗ Goujons à double extrémité sur mesure ↗
@@ -11509,22 +11573,6 @@ Des exemples décrivent les exigences de l'application. L'adéquation des matér
 #### Préparez une spécification de projet plus claire.
 
 Comment spécifier un entraînement à vis inviolable ↗ Propreté technique : rédiger une exigence de fixation utile ↗ Liste de contrôle complète de la demande de prix ↗
-
-#### Traduire l'application en une spécification de fixation
-
-Pour les équipements d'énergie, de charge et de stockage, la première tâche consiste à connecter la géométrie des fixations à l'interface de l'équipement. Accès et rétention : définissez l'accès de maintenance, les disques inviolables et le dispositif de retenue prévu. Exposition environnementale : spécifiez l'exposition extérieure, les métaux d'accouplement, la finition et les exigences d'acceptation réelles. Fonction électrique ou de routage : identifiez les interfaces conductrices, le dégagement des câbles ou les exigences en matière de bord d'alésage séparément de la résistance mécanique. Expliquez l'environnement et la séquence d'entretien parallèlement au dessin technique afin que l'examen porte sur le composant installé.
-
-Pour une fixation de boîtier, indiquez la section du boîtier, l'accès au lecteur et les exigences de finition. Pour un composant conducteur, incluez également le matériau de contact et l’acceptation électrique.
-
-#### Sélectionner un parcours autour des fonctionnalités fonctionnelles
-
-Les familles de produits concernées comprennent les vis de sécurité et inviolables, les vis à bride personnalisées, les vis creuses et traversantes, les goujons personnalisés à double extrémité. Ce sont des points de départ pour une révision des dessins techniques, et non des pièces interchangeables. Comparez l'acier au carbone et allié, l'acier inoxydable SUS304 et SUS316, le cuivre aux exigences mécaniques et environnementales réelles.
-
-Discutez de la frappe à froid multi-stations, des revêtements et des traitements de surface, du nettoyage, du verrouillage et de l'assemblage dans le cadre de l'itinéraire complet. Identifiez la quantité d’échantillon, les caractéristiques critiques, la finition et les enregistrements requis avant l’approbation. Un nom de secteur à lui seul n’implique pas une certification de projet ou une portée de test globale.
-
-#### Planifier l'approbation des échantillons et répéter les commandes
-
-L'échantillonnage typique, y compris l'outillage, prend environ 10–15 jours, sous réserve d'un examen technique et d'une confirmation. Confirmez la base du calendrier, l'acceptation de l'échantillon et tout essai de pièce d'accouplement dans le devis. Libérez la production répétée par rapport à la révision approuvée et enregistrez les modifications apportées au matériau, au traitement ou à la géométrie plutôt que de vous fier à une photographie précédente.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -11694,7 +11742,7 @@ GUIDE D'INGÉNIERIE
 
 Un nom de famille de revêtements ne définit pas la surface complète fournie. Les demandes de prix sur les fixations personnalisées doivent relier le système de revêtement aux exigences d’ajustement, de friction et d’acceptation.
 
-### Contrôle des fluides et équipements pneumatiques
+### Vis creuses et fixations pour équipements de fluides
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/fluid-control/
 
 ALÉSAGES, BORDS ET PROPRETÉ
@@ -11717,6 +11765,38 @@ Définir l'état des bords internes, les résidus autorisés et toute méthode d
 
 Spécifiez la compatibilité du fluide et tout test de pression, de débit ou de fuite requis avec des conditions définies.
 
+#### Distinguer maintien, passage et étanchéité
+
+Une vis creuse peut offrir un passage sans constituer l’élément d’étanchéité. Montrez trajet du fluide, emplacement du joint et fonction de maintien.
+
+Distinguer maintien, passage et étanchéité Fonction dans l’assemblage À spécifier avec les pièces en regard Réception et examen suivant
+
+Maintenir un couvercle ou composant À spécifier avec les pièces en regard Définissez face d’appui, empilage serré, taraudage en regard et cas de charge. Repérez tout joint séparé dans l’assemblage.
+
+Vis à embase sur mesure ↗ Réception et examen suivant Vérifiez appui et engagement utile. Définissez la réception du joint indépendamment du profil visible de la fixation.
+
+Roulage, usinage des filets et taraudage ↗
+
+Créer un passage interne À spécifier avec les pièces en regard Montrez perçage complet, trous transversaux, paroi résiduelle, arêtes internes et accès au nettoyage. Précisez fluide et fonction de débit.
+
+Vis creuses et vis à perçage traversant ↗ Réception et examen suivant Contrôlez les intersections cachées à une étape appropriée. Convenez des essais de débit et de propreté du passage spécifié.
+
+Nettoyage, freinage et préassemblage ↗
+
+Participer à un assemblage étanche À spécifier avec les pièces en regard Identifiez type de joint, siège en regard, finition de contact et montage. Précisez fluide, température et pression d’utilisation.
+
+Vis à tête spéciale ↗ Réception et examen suivant Définissez montage, durée, mesure et critères des essais de fuite ou de pression spécifiés. L’examen d’un perçage ouvert est un contrôle différent.
+
+Prévoir les essais fonctionnels et leurs documents ↗
+
+##### Exemple de modification : ajouter un passage radial
+
+Un trou transversal ajouté modifie la section locale et l’arête interne à finir. Examinez l’intersection avant de définir ébavurage et nettoyage. Convenez du contrôle de la zone cachée tant qu’elle reste accessible, puis conservez dimensions finies et essais fonctionnels prescrits. Ni le nom du produit ni un contrôle dimensionnel réussi n’établissent une capacité en pression.
+
+Exemples de revue de conception, pas des dossiers de livraison client. Définissez limites et contrôles pour l’assemblage commandé.
+
+Définir géométrie du perçage et réception des arêtes internes ↗
+
 #### Structures de fixation pertinentes
 
 Vis creuses et vis à perçage traversant ↗ Vis à perçage transversal ou à tête percée ↗ Vis à tige conique et vis coniques ↗ Profils de filetage spéciaux et composés ↗
@@ -11734,22 +11814,6 @@ Des exemples décrivent les exigences de l'application. L'adéquation des matér
 #### Préparez une spécification de projet plus claire.
 
 Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗ Trous transversaux dans les vis : planification du contrôle des bavures et inspection ↗ Liste de contrôle complète de la demande de prix ↗
-
-#### Traduire l'application en une spécification de fixation
-
-Pour le contrôle des fluides et les équipements pneumatiques, la première tâche consiste à connecter la géométrie de la fixation à l'interface de l'équipement. Géométrie interne complète : affichez tous les alésages axiaux, les intersections latérales, les sections de mur et les interfaces d'étanchéité. Contrôle des bavures et de la propreté : définissez l'état des bords internes, les résidus autorisés et toute méthode d'acceptation de propreté spécifiée. Vérification fonctionnelle : spécifiez la compatibilité du fluide et tout test de pression, de débit ou de fuite requis avec des conditions définies. Expliquez l'environnement et la séquence d'entretien parallèlement au dessin technique afin que l'examen porte sur le composant installé.
-
-Pour une pièce de passage, prévoir la section interne et le dispositif d'étanchéité. Un trou traversant ou un cône n'établit pas en soi un indice de pression ou d'étanchéité.
-
-#### Sélectionner un parcours autour des fonctionnalités fonctionnelles
-
-Les familles de produits concernées comprennent les vis creuses et traversantes, les vis à perçage cruciforme et à tête creuse, les vis à tige conique et à cône, les profils à filetage spécial et composé. Ce sont des points de départ pour une révision des dessins techniques, et non des pièces interchangeables. Comparez l'acier inoxydable, le laiton, le titane et les alliages de titane SUS304 et SUS316 aux exigences mécaniques et environnementales réelles.
-
-Discutez du tournage de type suisse et CNC, des opérations secondaires et de précision, du nettoyage, du verrouillage et de l'assemblage dans le cadre du parcours complet. Identifiez la quantité d’échantillon, les caractéristiques critiques, la finition et les enregistrements requis avant l’approbation. Un nom de secteur à lui seul n’implique pas une certification de projet ou une portée de test globale.
-
-#### Planifier l'approbation des échantillons et répéter les commandes
-
-L'échantillonnage typique, y compris l'outillage, prend environ 10–15 jours, sous réserve d'un examen technique et d'une confirmation. Confirmez la base du calendrier, l'acceptation de l'échantillon et tout essai de pièce d'accouplement dans le devis. Libérez la production répétée par rapport à la révision approuvée et enregistrez les modifications apportées au matériau, au traitement ou à la géométrie plutôt que de vous fier à une photographie précédente.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
