@@ -52,3 +52,19 @@ yarn-error.log*
 /translations/*.tmp
 
 !smtp-bridge/.env.example
+
+# Local audit reports, evidence notes and audit-only tooling (not published).
+/.local-audits/
+/docs/content-operations/EVIDENCE-INDEX.md
+/docs/content-operations/evidence-index.json
+/docs/reports/CORE-PAGE-AUDIT.md
+/docs/reports/core-live-observations.json
+/docs/reports/core-page-audit.csv
+/docs/reports/core-page-audit.html
+/docs/reports/core-page-audit.json
+/docs/reports/evidence-index.csv
+/scripts/build-core-audit.mjs
+/scripts/collect-core-audit.mjs
+/scripts/core-audit-notes.mjs
+/scripts/core-evidence-notes.mjs
+/scripts/verify-core-audit.mjs
