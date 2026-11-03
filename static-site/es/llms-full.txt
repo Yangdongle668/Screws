@@ -10131,6 +10131,26 @@ MATERIALES, RESISTENCIA Y APLICACIONES
 
 Compare las necesidades de grado, condición, resistencia y aplicación. Una familia de materiales por sí sola no determina la capacidad de carga de un tornillo personalizado.
 
+#### Empezar por la función del material
+
+Elija una familia para estudiar según el requisito principal y compare después grados y estados concretos en su página. Hasta definir la unión y el entorno, puede haber varias familias adecuadas.
+
+Empezar por la función del material Prioridad de selección Familia que comparar Decisión antes de elegir
+
+Resistencia, desgaste o servicio mecánico especificados Familia que comparar Acero al carbono y aleado Decisión antes de elegir Compare C45/C45E con 42CrMo4 o una ruta SAE 4140 especificada expresamente; identifique el estado final y los requisitos de la pieza terminada.
+
+Producción repetitiva por estampación en frío Familia que comparar Acero al boro 10B21 Decisión antes de elegir Revise juntos el estado del alambre 10B21, la conformación y el tratamiento térmico. El grado no determina la clase de resistencia final.
+
+Exposición a corrosión y acceso de mantenimiento Familia que comparar SUS304 y SUS316 Acero inoxidable Decisión antes de elegir Compare 304/316 y sus variantes de bajo carbono según exposición y fabricación; evalúe 303 aparte cuando prime el mecanizado.
+
+Baja masa en piezas mecanizadas o de ajuste Familia que comparar Aleaciones de aluminio Decisión antes de elegir Compare la aleación 6061/6082 y su estado; después revise acoplamiento, desgaste y cotas finales tras anodizado.
+
+Función eléctrica o térmica Familia que comparar Cobre Decisión antes de elegir Compare el grado y estado exactos del cobre; distinga la conductividad del material de los requisitos del contacto y del apriete finales.
+
+Pomos mecanizados, ajuste y detalles roscados especiales Familia que comparar Latón Decisión antes de elegir Compare composición, estado y mecanizabilidad. Si hay restricciones de plomo, indique aleación permitida y límite de composición.
+
+Combinación de masa, corrosión y requisitos mecánicos Familia que comparar Titanio y aleaciones de titanio Decisión antes de elegir Compare titanio comercialmente puro Grade 2 con Grade 5; use Grade 23 ELI solo cuando se requiera su especificación diferenciada.
+
 SELECCIÓN DE MATERIALES
 
 #### Acero al carbono y aleado ↗
@@ -10270,6 +10290,14 @@ Incluya el estándar de designación, el grado exacto, la forma del producto, la
 
 Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
 
+#### Ejemplo: hombro mecanizado con requisito de acero tratado térmicamente
+
+En un soporte cargado, separe identidad del acero, estado y requisitos del tornillo terminado. El plano determina qué propiedades se necesitan en el hombro y la zona roscada.
+
+Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.
+
+Grado y estado de suministro Barra 42CrMo4 en el estado de temple y revenido acordado. Identifique norma del producto, sección y estado de suministro en el pedido. Requisito de la pieza terminada Defina las propiedades mecánicas finales y su base de ensayo. Registre aparte dureza o requisitos superficiales locales cuando figuren en el plano. Superficie e interfaz acoplada Identifique el hombro de posicionamiento y el ajuste de rosca tras el acabado. Incluya taladro acoplado y margen de recubrimiento en la revisión. Registros de aceptación Vincule material y tratamiento con el lote; acuerde qué mediciones o resultados mecánicos de la pieza final se requieren. Alternativa que revisar, no asumir C45/C45E puede requerir otra ruta; SAE 4140 necesita su especificación propia. Una descripción de aleación parecida no autoriza la sustitución. Usar la hoja de especificación de material (inglés) ↗ Comparar otra familia de materiales : Acero al boro 10B21 ↗
+
 #### ¿Por qué considerar esta familia?
 
 Amplia variedad de calidades y condiciones mecánicas finales
@@ -10317,18 +10345,6 @@ Ovako: grado 42CrMo4, efectos de sección y variantes ↗
 Utilice un conjunto común de requisitos funcionales, ambientales y de aceptación antes de comparar grados y condiciones. Separe las cifras de existencias de material de las clases de sujetadores terminados y del rendimiento de las juntas ensambladas.
 
 Siga el flujo de trabajo de selección de materiales y resistencias ↗
-
-#### Lea los datos de resistencia en las condiciones adecuadas.
-
-Especifique la clase de propiedad del sujetador terminado, no una resistencia inferida de la calidad en bruto. Las referencias de clases nominales comunes incluyen 8.8, 10.9 y 12.9. Un valor de stock de material no es automáticamente la capacidad de carga de un tornillo o junta ensamblada. Mantenga el grado, la forma del producto, la condición y las especificaciones aplicables adjuntas al valor al comparar alternativas. Revise el acoplamiento de la rosca en la pieza coincidente y el material coincidente independientemente de la cifra de tracción original.
-
-El grado del acero, el tratamiento térmico y la clase de propiedad son especificaciones diferentes. Revise la exposición a la corrosión, los riesgos del proceso relacionados con el hidrógeno cuando corresponda, la fricción del recubrimiento y las tolerancias dimensionales. Las geometrías de carga reducida necesitan su propia evaluación.
-
-#### Una secuencia práctica de selección y aprobación.
-
-Para acero al carbono y aleado, primero defina el grado y el requisito de propiedad final; especificación y tamaño de sujetador aplicables; sistema de tratamiento térmico y recubrimiento; Caso de carga funcional y pruebas de aceptación. Compare esos requisitos con el entorno de servicio y la geometría funcional. Si el requisito inicial es solo una familia de materiales, resuelva el grado y la condición antes de comparar las cotizaciones finales.
-
-Revise el material elegido con cabezal en frío de estaciones múltiples, tratamiento térmico específico del material, revestimientos y tratamientos de superficie. Acuerde qué evidencia se necesita en la aprobación de la muestra y qué debe acompañar a los lotes repetidos. Una calificación o condición sustituta requiere aprobación; una apariencia similar o resistencia nominal no es evidencia suficiente de intercambiabilidad.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -10391,6 +10407,14 @@ Incluya el estándar de designación, el grado exacto, la forma del producto, la
 
 Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
 
+#### Ejemplo: 10B21 desde el alambre de estampación hasta el tornillo con brida aceptado
+
+Para cantidades repetitivas, describa el alambre y el tornillo terminado como etapas de aceptación distintas. El estado inicial conformable no es el requisito mecánico final.
+
+Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.
+
+Grado y estado de suministro Alambre 10B21 según especificación y estado de suministro para estampación en frío acordados; mantenga identidad del material y del lote. Requisito de la pieza terminada Indique las propiedades finales en el plano. Cuando proceda, separe requisitos del núcleo y de capa, sin deducir la cementación del nombre del grado. Superficie e interfaz acoplada Revise cara de apoyo, rosca útil y recubrimiento final. Defina cuándo se aceptan las cotas afectadas por el tratamiento. Registros de aceptación Acuerde identificación de material, registros del lote de tratamiento y comprobaciones finales mecánicas o de dureza aplicables. Alternativa que revisar, no asumir Otro estado del alambre, grado o tratamiento puede cambiar la conformación y las propiedades finales. Revise la propuesta completa antes de aprobar muestras. Usar la hoja de especificación de material (inglés) ↗ Comparar otra familia de materiales : Acero al carbono y aleado ↗
+
 #### ¿Por qué considerar esta familia?
 
 Relevante repetir las discusiones sobre formación de sujetadores.
@@ -10434,18 +10458,6 @@ Bossard: clases de propiedades de elementos de fijación de acero ↗
 Utilice un conjunto común de requisitos funcionales, ambientales y de aceptación antes de comparar grados y condiciones. Separe las cifras de existencias de material de las clases de sujetadores terminados y del rendimiento de las juntas ensambladas.
 
 Siga el flujo de trabajo de selección de materiales y resistencias ↗
-
-#### Lea los datos de resistencia en las condiciones adecuadas.
-
-10B21 es una designación de grado, no una clase de resistencia terminada. No existe una única resistencia a la tracción que se aplique a cada tornillo 10B21. Un valor de stock de material no es automáticamente la capacidad de carga de un tornillo o junta ensamblada. Mantenga el grado, la forma del producto, la condición y las especificaciones aplicables adjuntas al valor al comparar alternativas. Revise el acoplamiento de la rosca en la pieza coincidente y el material coincidente independientemente de la cifra de tracción original.
-
-No prescriba la cementación únicamente porque el plano de ingeniería dice 10B21. Indique las propiedades mecánicas finales requeridas y cualquier requisito de profundidad o dureza de la caja cuando sea relevante. Confirme la calidad real, la ruta de procesamiento y la documentación del material durante la cotización.
-
-#### Una secuencia práctica de selección y aprobación.
-
-Para el acero al boro 10B21, primero defina el grado exacto y la condición del material; propiedades terminadas requeridas; requisitos básicos o de caso cuando corresponda; registros de tratamiento y aceptación mecánica. Compare esos requisitos con el entorno de servicio y la geometría funcional. Si el requisito inicial es solo una familia de materiales, resuelva el grado y la condición antes de comparar las cotizaciones finales.
-
-Revise el material elegido con cabezal en frío de estaciones múltiples, tratamiento térmico específico del material, visión CCD e inspección dimensional. Acuerde qué evidencia se necesita en la aprobación de la muestra y qué debe acompañar a los lotes repetidos. Una calificación o condición sustituta requiere aprobación; una apariencia similar o resistencia nominal no es evidencia suficiente de intercambiabilidad.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -10515,6 +10527,14 @@ Comience con los requisitos de exposición y fabricación, luego evalúe la fabr
 Incluya el estándar de designación, el grado exacto, la forma del producto, las condiciones de entrega, los requisitos mecánicos finales, el tratamiento de la superficie y la evidencia de aceptación. Nombres similares en los sistemas EN, ASTM, SAE, JIS o GB son referencias de comparación, no permiso para sustituirlos.
 
 Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
+
+#### Ejemplo: pasacables SUS316 para una carcasa exterior
+
+Especifique exposición y función del paso junto al grado. El uso exterior por sí solo no define cloruros, limpieza ni demanda mecánica de la unión.
+
+Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.
+
+Grado y estado de suministro Barra SUS316 con norma y estado de suministro indicados. Identifique si el plano exige SUS316 o SUS316L. Requisito de la pieza terminada Especifique la clase de tornillo aplicable aparte del grado de la barra. Compruebe sección hueca y unión acoplada frente a la carga real. Superficie e interfaz acoplada Defina aristas del taladro, contacto con otros metales, limpieza y pasivado cuando proceda. Verifique rosca útil y paso libre tras el proceso. Registros de aceptación Solicite registro de grado/lote y controles finales acordados. Registre el tratamiento superficial especificado aparte de la identidad del material. Alternativa que revisar, no asumir 303 ofrece otro equilibrio entre mecanizado y corrosión; 304 o 316L necesitan revisión de aplicación, no una sustitución por similitud del nombre. Usar la hoja de especificación de material (inglés) ↗ Comparar otra familia de materiales : Acero al carbono y aleado ↗
 
 #### ¿Por qué considerar esta familia?
 
@@ -10645,6 +10665,14 @@ Incluya el estándar de designación, el grado exacto, la forma del producto, la
 
 Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
 
+#### Ejemplo: tornillo de ajuste mecanizado en 6061-T6511
+
+En un ajustador ligero, incluya el estado de la barra en la especificación y evalúe después rosca y apoyo en el conjunto terminado.
+
+Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.
+
+Grado y estado de suministro Barra extruida 6061-T6511 según especificación acordada. Registre el tamaño y estado de la barra usados como base de las propiedades. Requisito de la pieza terminada Distinga datos de tracción de la barra y aceptación del filetado final. Identifique acoplamiento, servicio de ajuste y verificación del montaje requerida. Superficie e interfaz acoplada Defina anodizado u otro acabado, cotas afectadas y material acoplado. Compruebe rosca útil y ajuste en el estado final de suministro. Registros de aceptación Conserve aleación/estado e identificación de lote; acuerde resultados dimensionales tras el acabado y los registros de tratamiento exigidos. Alternativa que revisar, no asumir 6082 u otro estado debe compararse sobre la misma base de producto y condición. No traslade un valor T6 a una barra de estado no definido. Usar la hoja de especificación de material (inglés) ↗ Comparar otra familia de materiales : Titanio y aleaciones de titanio ↗
+
 #### ¿Por qué considerar esta familia?
 
 Masa del componente menor que una pieza de acero de volumen equivalente
@@ -10692,18 +10720,6 @@ Hydro: hojas de datos de aleaciones y referencias específicas de temple ↗
 Utilice un conjunto común de requisitos funcionales, ambientales y de aceptación antes de comparar grados y condiciones. Separe las cifras de existencias de material de las clases de sujetadores terminados y del rendimiento de las juntas ensambladas.
 
 Siga el flujo de trabajo de selección de materiales y resistencias ↗
-
-#### Lea los datos de resistencia en las condiciones adecuadas.
-
-La misma aleación con un estado de ánimo diferente tiene propiedades diferentes. Las figuras a continuación son ejemplos de material extruido especificado, no de una clasificación de tornillo terminado. Un valor de stock de material no es automáticamente la capacidad de carga de un tornillo o junta ensamblada. Mantenga el grado, la forma del producto, la condición y las especificaciones aplicables adjuntas al valor al comparar alternativas. Revise el acoplamiento de la rosca en la pieza coincidente y el material coincidente independientemente de la cifra de tracción original.
-
-Especificar aleación y temple. Revise el pelado de roscas y el encaje en la unión real, el contacto con metales diferentes, el desgaste, los márgenes de acabado y el torque de montaje. Las propiedades de tracción originales no establecen por sí solas la capacidad de carga de un componente roscado.
-
-#### Una secuencia práctica de selección y aprobación.
-
-Para aleaciones de aluminio, primero defina la aleación, el temple y la forma original; rosca de apareamiento y compromiso; acabado superficial o requisito de anodizado; carga conjunta y condiciones de montaje. Compare esos requisitos con el entorno de servicio y la geometría funcional. Si el requisito inicial es solo una familia de materiales, resuelva el grado y la condición antes de comparar las cotizaciones finales.
-
-Revise el material elegido con torneado tipo suizo y CNC, laminado de roscas, corte y roscado, revestimientos y tratamientos superficiales. Acuerde qué evidencia se necesita en la aprobación de la muestra y qué debe acompañar a los lotes repetidos. Una calificación o condición sustituta requiere aprobación; una apariencia similar o resistencia nominal no es evidencia suficiente de intercambiabilidad.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -10766,6 +10782,14 @@ Incluya el estándar de designación, el grado exacto, la forma del producto, la
 
 Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
 
+#### Ejemplo: espárrago de contacto C11000 con estado definido
+
+En un contacto eléctrico, revise juntos el camino de corriente y el apriete. La designación del cobre no determina resistencia de contacto, comportamiento al apretar ni capacidad de la unión final.
+
+Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.
+
+Grado y estado de suministro Barra C11000 en estado H02 con especificación y tamaño identificados. Confirme el estado para la forma realmente suministrada. Requisito de la pieza terminada Separe aceptación eléctrica y requisitos mecánicos. Defina rosca, cara de apoyo y criterios de instalación del conjunto acoplado. Superficie e interfaz acoplada Si se requiere, especifique el recubrimiento de contacto, su zona y el metal acoplado. Vincule la aceptación dimensional a las superficies recubiertas o sin recubrir realmente suministradas. Registros de aceptación Acuerde identidad del material, evidencia de conductividad pedida, dimensiones finales y registros de ensayo del contacto cuando se especifiquen. Alternativa que revisar, no asumir C10100 y C12200 tienen especificaciones distintas. Compare los requisitos eléctricos y de fabricación antes de cambiar grado o estado. Usar la hoja de especificación de material (inglés) ↗ Comparar otra familia de materiales : Latón ↗
+
 #### ¿Por qué considerar esta familia?
 
 Relevante para las discusiones sobre interfaces eléctricas y térmicas.
@@ -10813,18 +10837,6 @@ Asociación de Desarrollo del Cobre: referencias de datos de aleaciones ↗
 Utilice un conjunto común de requisitos funcionales, ambientales y de aceptación antes de comparar grados y condiciones. Separe las cifras de existencias de material de las clases de sujetadores terminados y del rendimiento de las juntas ensambladas.
 
 Siga el flujo de trabajo de selección de materiales y resistencias ↗
-
-#### Lea los datos de resistencia en las condiciones adecuadas.
-
-La resistencia del cobre varía sustancialmente según la aleación, la forma del producto y el temperamento. La siguiente es una referencia de stock típica, no un requisito de aceptación de tornillos. Un valor de stock de material no es automáticamente la capacidad de carga de un tornillo o junta ensamblada. Mantenga el grado, la forma del producto, la condición y las especificaciones aplicables adjuntas al valor al comparar alternativas. Revise el acoplamiento de la rosca en la pieza coincidente y el material coincidente independientemente de la cifra de tracción original.
-
-La conductividad y la resistencia mecánica son requisitos separados. Especifique el grado y temperamento del cobre, la condición de la superficie de contacto, el enchapado si es necesario y los requisitos de las juntas ensambladas. El cobre no es intercambiable con el latón simplemente porque ambos son materiales a base de cobre.
-
-#### Una secuencia práctica de selección y aprobación.
-
-Para el cobre, primero defina la calidad, el temple y la forma del material del cobre; requisitos eléctricos o térmicos; superficie de contacto y acabado; Aceptación mecánica y conjunta. Compare esos requisitos con el entorno de servicio y la geometría funcional. Si el requisito inicial es solo una familia de materiales, resuelva el grado y la condición antes de comparar las cotizaciones finales.
-
-Revise el material elegido con torneado CNC y tipo suizo, revestimientos y tratamientos de superficie, visión CCD e inspección dimensional. Acuerde qué evidencia se necesita en la aprobación de la muestra y qué debe acompañar a los lotes repetidos. Una calificación o condición sustituta requiere aprobación; una apariencia similar o resistencia nominal no es evidencia suficiente de intercambiabilidad.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -10887,6 +10899,14 @@ Incluya el estándar de designación, el grado exacto, la forma del producto, la
 
 Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
 
+#### Ejemplo: tornillo de ajuste torneado en C36000
+
+Para un pomo de útil interior, empiece por mecanizado y contacto; después confirme que la composición está permitida para el producto y mercado previstos.
+
+Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.
+
+Grado y estado de suministro Barra C36000 en estado H02 según la especificación acordada. Identifique restricciones de composición del cliente antes de elegir el material. Requisito de la pieza terminada Especifique rosca útil, servicio de ajuste y aceptación mecánica. Un valor típico de barra no es una clasificación del tornillo terminado. Superficie e interfaz acoplada Defina moleteado, cara de contacto y requisitos de recubrimiento o aspecto. Revise el ajuste repetido con el material acoplado real. Registros de aceptación Acuerde identificación de grado/lote y evidencia de composición cuando se requiera, junto con dimensiones finales y registros del acabado especificado. Alternativa que revisar, no asumir C26000 cambia la base de procesamiento. Una alternativa de bajo plomo o sin plomo necesita una aleación exacta, no solo una descripción comercial. Usar la hoja de especificación de material (inglés) ↗ Comparar otra familia de materiales : Cobre ↗
+
 #### ¿Por qué considerar esta familia?
 
 Útil para perfiles torneados personalizados y detalles roscados
@@ -10936,18 +10956,6 @@ Asociación de Desarrollo del Cobre: guía de aleaciones de cobre ↗
 Utilice un conjunto común de requisitos funcionales, ambientales y de aceptación antes de comparar grados y condiciones. Separe las cifras de existencias de material de las clases de sujetadores terminados y del rendimiento de las juntas ensambladas.
 
 Siga el flujo de trabajo de selección de materiales y resistencias ↗
-
-#### Lea los datos de resistencia en las condiciones adecuadas.
-
-La fuerza cambia con la composición y el temperamento. El siguiente ejemplo son datos de varilla típicos publicados H02 y no deben aplicarse a todos los sujetadores de latón. Un valor de stock de material no es automáticamente la capacidad de carga de un tornillo o junta ensamblada. Mantenga el grado, la forma del producto, la condición y las especificaciones aplicables adjuntas al valor al comparar alternativas. Revise el acoplamiento de la rosca en la pieza coincidente y el material coincidente independientemente de la cifra de tracción original.
-
-Especifique la aleación real en lugar del color del latón. C36000 es un latón de fácil mecanización con plomo; La composición o las restricciones regulatorias pueden requerir una aleación diferente. El comportamiento mecánico, la compatibilidad de los medios y cualquier prueba de fugas requerida siguen siendo específicos de la aplicación.
-
-#### Una secuencia práctica de selección y aprobación.
-
-Para el latón, primero defina las restricciones exactas de aleación y composición; documentación de temperamento y material; geometría roscada y de contacto; acabado y aceptación funcional. Compare esos requisitos con el entorno de servicio y la geometría funcional. Si el requisito inicial es solo una familia de materiales, resuelva el grado y la condición antes de comparar las cotizaciones finales.
-
-Revise el material elegido con torneado CNC y tipo suizo, laminado de roscas, corte y roscado, visión CCD e inspección dimensional. Acuerde qué evidencia se necesita en la aprobación de la muestra y qué debe acompañar a los lotes repetidos. Una calificación o condición sustituta requiere aprobación; una apariencia similar o resistencia nominal no es evidencia suficiente de intercambiabilidad.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -11012,6 +11020,14 @@ Incluya el estándar de designación, el grado exacto, la forma del producto, la
 
 Si aún no se decide el grado, envíe la carga o función de ubicación, entorno, materiales de acoplamiento, cantidad y plano. Solicite una propuesta de grado y ruta con supuestos establecidos antes de aprobar el material.
 
+#### Ejemplo: hombro de precisión en Grade 5 recocido
+
+En un conjunto sensible a la masa con requisitos mecánicos, compare grados de titanio según estado y especificación reales antes de definir los controles finales de la unión.
+
+Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.
+
+Grado y estado de suministro Barra Grade 5 Ti-6Al-4V en el estado recocido acordado, con especificación, tamaño e identidad de lote registrados. Requisito de la pieza terminada Defina por separado requisitos mecánicos y geométricos finales. Las propiedades de la barra no establecen la resistencia de un vástago reducido o de la conexión roscada. Superficie e interfaz acoplada Especifique ajuste del hombro, acoplamiento de rosca, metales unidos y sistema superficial o de lubricación acordado. Incluya gripado y acceso de mantenimiento en la revisión del conjunto. Registros de aceptación Acuerde registros de material y estado, trazabilidad y controles finales requeridos; especifique aparte cualquier cualificación de la aplicación. Alternativa que revisar, no asumir Grade 2 es titanio comercialmente puro; Grade 23 ELI tiene una especificación distinta. Ninguno sustituye automáticamente al Grade 5 aprobado. Usar la hoja de especificación de material (inglés) ↗ Comparar otra familia de materiales : Aleaciones de aluminio ↗
+
 #### ¿Por qué considerar esta familia?
 
 Consideraciones útiles de relación resistencia-masa para grados adecuados
@@ -11061,18 +11077,6 @@ Carpintero: Ficha técnica Ti-6Al-4V ELI ↗
 Utilice un conjunto común de requisitos funcionales, ambientales y de aceptación antes de comparar grados y condiciones. Separe las cifras de existencias de material de las clases de sujetadores terminados y del rendimiento de las juntas ensambladas.
 
 Siga el flujo de trabajo de selección de materiales y resistencias ↗
-
-#### Lea los datos de resistencia en las condiciones adecuadas.
-
-El grado 2 comercialmente puro y el Ti-6Al-4V son materiales diferentes. El grado, la forma y la condición del producto deben acompañar cualquier valor de resistencia. Un valor de stock de material no es automáticamente la capacidad de carga de un tornillo o junta ensamblada. Mantenga el grado, la forma del producto, la condición y las especificaciones aplicables adjuntas al valor al comparar alternativas. Revise el acoplamiento de la rosca en la pieza coincidente y el material coincidente independientemente de la cifra de tracción original.
-
-Una etiqueta de titanio no implica una calificación médica o aeroespacial. Revise el grado, la condición final, el desgaste de las roscas, el tratamiento de la superficie, los metales acoplados y la verificación. Los requisitos mecánicos y de trazabilidad exactos deben acordarse antes de la producción.
-
-#### Una secuencia práctica de selección y aprobación.
-
-Para titanio y aleaciones de titanio, primero defina el grado y la condición exactos del titanio; propiedades mecánicas requeridas; requisitos de superficie y montaje; trazabilidad y alcance de verificación. Compare esos requisitos con el entorno de servicio y la geometría funcional. Si el requisito inicial es solo una familia de materiales, resuelva el grado y la condición antes de comparar las cotizaciones finales.
-
-Revise el material elegido con torneado, limpieza, bloqueo y ensamblaje, visión CCD e inspección dimensional tipo suizo y CNC. Acuerde qué evidencia se necesita en la aprobación de la muestra y qué debe acompañar a los lotes repetidos. Una calificación o condición sustituta requiere aprobación; una apariencia similar o resistencia nominal no es evidencia suficiente de intercambiabilidad.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 

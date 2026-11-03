@@ -10131,6 +10131,26 @@ MATERIALI, RESISTENZA E APPLICAZIONI
 
 Confronta qualità, condizioni, resistenza e esigenze applicative. Una famiglia di materiali da sola non determina la capacità di carico di una vite personalizzata.
 
+#### Partire dalla funzione del materiale
+
+Scegliere una famiglia da valutare in base al requisito principale, poi confrontare gradi e stati precisi nella pagina dedicata. Più famiglie possono restare adatte finché non sono definiti giunto e ambiente.
+
+Partire dalla funzione del materiale Priorità di scelta Famiglia da confrontare Decisione prima della scelta
+
+Resistenza, usura o servizio meccanico specificati Famiglia da confrontare Acciaio al carbonio e legato Decisione prima della scelta Confrontare C45/C45E con 42CrMo4 o un ciclo SAE 4140 esplicitamente specificato; identificare stato finale e requisiti del pezzo finito.
+
+Produzione ripetitiva con stampaggio a freddo Famiglia da confrontare 10B21 Acciaio al boro Decisione prima della scelta Valutare insieme stato del filo 10B21, formatura e trattamento termico. Il grado non determina la classe di resistenza finale.
+
+Esposizione alla corrosione e accesso per manutenzione Famiglia da confrontare SUS304 & SUS316 Acciaio inossidabile Decisione prima della scelta Confrontare 304/316 e varianti a basso carbonio per esposizione e fabbricazione; valutare 303 separatamente se prevale la lavorabilità.
+
+Massa ridotta per parti lavorate o regolabili Famiglia da confrontare Leghe di alluminio Decisione prima della scelta Confrontare lega 6061/6082 e stato, poi verificare impegno, usura e quote finali dopo anodizzazione.
+
+Funzione elettrica o termica Famiglia da confrontare Rame Decisione prima della scelta Confrontare grado e stato esatti del rame; distinguere conducibilità del materiale da requisiti di contatto e serraggio finali.
+
+Manopole lavorate, regolazione e dettagli filettati speciali Famiglia da confrontare Ottone Decisione prima della scelta Confrontare composizione, stato e lavorabilità. Se il piombo è limitato, indicare lega ammessa e limite di composizione.
+
+Requisiti combinati di massa, corrosione e meccanica Famiglia da confrontare Titanio e leghe di titanio Decisione prima della scelta Confrontare titanio commercialmente puro Grade 2 con Grade 5; usare Grade 23 ELI solo se richiesta la sua specifica distinta.
+
 SELEZIONE DEI MATERIALI
 
 #### Acciaio al carbonio e legato ↗
@@ -10270,6 +10290,14 @@ Includere lo standard di designazione, il grado esatto, la forma del prodotto, l
 
 Se la qualità non è ancora stata decisa, inviare il carico o la funzione di localizzazione, l'ambiente, i materiali di accoppiamento, la quantità e il disegno. Richiedi un grado e un percorso proposti con i presupposti dichiarati prima di approvare il materiale.
 
+#### Esempio: spallamento lavorato con requisito di acciaio trattato
+
+Per una staffa caricata, distinguere identità dell’acciaio, stato e requisiti della vite finita. Il disegno stabilisce le proprietà necessarie su spallamento e tratto filettato.
+
+Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.
+
+Grado e stato di fornitura Barra 42CrMo4 nello stato bonificato concordato. Indicare specifica del semilavorato, sezione e stato di fornitura nell’ordine. Requisito del pezzo finito Definire proprietà meccaniche finali e relativa base di prova. Registrare separatamente durezza o requisiti superficiali locali se previsti dal disegno. Superficie e interfaccia accoppiata Identificare spallamento di centraggio e accoppiamento filettato dopo la finitura. Includere foro accoppiato e sovrametallo per il rivestimento nella verifica. Registrazioni di accettazione Collegare identità del materiale e trattamenti al lotto; concordare misure finali o risultati meccanici richiesti. Alternativa da valutare, non da presumere C45/C45E può richiedere una diversa valutazione del ciclo; SAE 4140 richiede una propria specifica. Una descrizione simile della lega non autorizza la sostituzione. Usare la scheda di specifica del materiale (inglese) ↗ Confrontare un’altra famiglia di materiali : 10B21 Acciaio al boro ↗
+
 #### Perché considerare questa famiglia?
 
 Ampia scelta di qualità e condizioni meccaniche finali
@@ -10317,18 +10345,6 @@ Ovako: qualità 42CrMo4, effetti di sezione e varianti ↗
 Utilizzare un insieme comune di requisiti funzionali, ambientali e di accettazione prima di confrontare gradi e condizioni. Separare i dati relativi alle scorte di materiale dalle classi di elementi di fissaggio finiti e dalle prestazioni dei giunti assemblati.
 
 Segui il flusso di lavoro per la selezione del materiale e della resistenza ↗
-
-#### Leggi i dati di resistenza nelle giuste condizioni
-
-Specificare la classe di proprietà del dispositivo di fissaggio finito, non la resistenza dedotta dalla qualità grezza. I riferimenti comuni alle classi nominali includono 8.8, 10.9 e 12.9. Il valore delle scorte di materiale non corrisponde automaticamente al coefficiente di carico di una vite o di un giunto assemblato. Mantenere il grado, la forma del prodotto, la condizione e le specifiche applicabili allegate al valore quando si confrontano le alternative. Rivedere l'impegno della filettatura nella parte accoppiata e nel materiale accoppiato indipendentemente dal valore di trazione del grezzo.
-
-Il tipo di acciaio, il trattamento termico e la classe di proprietà sono specifiche diverse. Esaminare l'esposizione alla corrosione, i rischi di processo legati all'idrogeno, ove applicabile, l'attrito del rivestimento e le tolleranze dimensionali. Le geometrie a carico ridotto necessitano di una propria valutazione.
-
-#### Una pratica sequenza di selezione e approvazione
-
-Per l'acciaio al carbonio e legato, definire innanzitutto il grado e i requisiti di proprietà finale; specifica e dimensione del dispositivo di fissaggio applicabile; sistema di trattamento termico e rivestimento; Casi di carico funzionale e prove di accettazione. Confrontare tali requisiti con l'ambiente di servizio e la geometria funzionale. Se il requisito iniziale è solo una famiglia di materiali, risolvere il grado e la condizione prima di confrontare i preventivi finali.
-
-Esamina il materiale scelto con intestazione a freddo multistazione, trattamento termico specifico del materiale, rivestimenti e trattamenti superficiali. Concordare quali prove sono necessarie all'approvazione del campione e cosa deve accompagnare i lotti ripetuti. Un grado o una condizione sostitutiva richiede l'approvazione; un aspetto simile o una resistenza nominale non costituiscono una prova sufficiente di intercambiabilità.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -10391,6 +10407,14 @@ Includere lo standard di designazione, il grado esatto, la forma del prodotto, l
 
 Se la qualità non è ancora stata decisa, inviare il carico o la funzione di localizzazione, l'ambiente, i materiali di accoppiamento, la quantità e il disegno. Richiedi un grado e un percorso proposti con i presupposti dichiarati prima di approvare il materiale.
 
+#### Esempio: 10B21 dal filo per stampaggio alla vite flangiata accettata
+
+Per quantità ripetitive, descrivere filo in ingresso e vite finita come due fasi di accettazione. Uno stato iniziale formabile non coincide con il requisito meccanico finale.
+
+Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.
+
+Grado e stato di fornitura Filo 10B21 secondo specifica e stato di fornitura per stampaggio a freddo concordati; conservare identità di materiale e lotto. Requisito del pezzo finito Indicare le proprietà finali a disegno. Se applicabile, separare requisiti del nucleo e dello strato superficiale senza dedurre la cementazione dal nome del grado. Superficie e interfaccia accoppiata Verificare faccia d’appoggio, filetto utile e rivestimento finale. Definire la fase di accettazione delle quote sensibili al trattamento. Registrazioni di accettazione Concordare identificazione del materiale, registri del lotto di trattamento e controlli meccanici o di durezza finali applicabili. Alternativa da valutare, non da presumere Un altro stato del filo, grado o trattamento può cambiare formatura e proprietà finali. Valutare la proposta completa prima dell’approvazione dei campioni. Usare la scheda di specifica del materiale (inglese) ↗ Confrontare un’altra famiglia di materiali : Acciaio al carbonio e legato ↗
+
 #### Perché considerare questa famiglia?
 
 È rilevante ripetere le discussioni sulla formazione degli elementi di fissaggio
@@ -10434,18 +10458,6 @@ Bossard: classi di proprietà degli elementi di fissaggio in acciaio ↗
 Utilizzare un insieme comune di requisiti funzionali, ambientali e di accettazione prima di confrontare gradi e condizioni. Separare i dati relativi alle scorte di materiale dalle classi di elementi di fissaggio finiti e dalle prestazioni dei giunti assemblati.
 
 Segui il flusso di lavoro per la selezione del materiale e della resistenza ↗
-
-#### Leggi i dati di resistenza nelle giuste condizioni
-
-10B21 è una designazione di grado, non una classe di resistenza finita. Non esiste un'unica resistenza alla trazione applicabile a ogni vite 10B21. Il valore delle scorte di materiale non corrisponde automaticamente al coefficiente di carico di una vite o di un giunto assemblato. Mantenere il grado, la forma del prodotto, la condizione e le specifiche applicabili allegate al valore quando si confrontano le alternative. Rivedere l'impegno della filettatura nella parte accoppiata e nel materiale accoppiato indipendentemente dal valore di trazione del grezzo.
-
-Non prescrivere la cementazione solo perché il disegno tecnico riporta 10B21. Indicare le proprietà meccaniche finali richieste ed eventuali requisiti di profondità o durezza della cassa, ove pertinenti. Confermare il grado effettivo, il percorso di lavorazione e la documentazione del materiale durante il preventivo.
-
-#### Una pratica sequenza di selezione e approvazione
-
-Per l'acciaio al boro 10B21, definire innanzitutto il grado esatto e le condizioni del materiale; proprietà finite richieste; requisiti fondamentali o del caso, ove applicabile; registrazioni dei trattamenti e accettazione meccanica. Confrontare tali requisiti con l'ambiente di servizio e la geometria funzionale. Se il requisito iniziale è solo una famiglia di materiali, risolvere il grado e la condizione prima di confrontare i preventivi finali.
-
-Esamina il materiale scelto con la ricalcatura a freddo multistazione, il trattamento termico specifico del materiale, la visione CCD e l'ispezione dimensionale. Concordare quali prove sono necessarie all'approvazione del campione e cosa deve accompagnare i lotti ripetuti. Un grado o una condizione sostitutiva richiede l'approvazione; un aspetto simile o una resistenza nominale non costituiscono una prova sufficiente di intercambiabilità.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -10515,6 +10527,14 @@ Inizia con i requisiti di esposizione e fabbricazione, quindi valuta la produzio
 Includere lo standard di designazione, il grado esatto, la forma del prodotto, le condizioni di consegna, i requisiti meccanici finali, il trattamento superficiale e la prova di accettazione. Nomi simili nei sistemi EN, ASTM, SAE, JIS o GB sono indizi di confronto, non consentono la sostituzione.
 
 Se la qualità non è ancora stata decisa, inviare il carico o la funzione di localizzazione, l'ambiente, i materiali di accoppiamento, la quantità e il disegno. Richiedi un grado e un percorso proposti con i presupposti dichiarati prima di approvare il materiale.
+
+#### Esempio: passacavo SUS316 per un involucro esterno
+
+Specificare esposizione e funzione del passaggio insieme al grado. L’uso esterno da solo non definisce cloruri, pulizia o sollecitazione meccanica del collegamento.
+
+Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.
+
+Grado e stato di fornitura Barra SUS316 con norma e stato di fornitura indicati. Verificare se il disegno richiede SUS316 o SUS316L. Requisito del pezzo finito Specificare l’eventuale classe della vite finita indipendentemente dal grado del semilavorato. Verificare sezione cava e collegamento per il carico reale. Superficie e interfaccia accoppiata Definire spigoli del foro, contatto con metalli diversi, pulizia ed eventuale passivazione. Verificare filetto utile e luce del passaggio dopo lavorazione. Registrazioni di accettazione Richiedere registri di grado/lotto e controlli finali concordati. Registrare il trattamento superficiale separatamente dall’identità del materiale. Alternativa da valutare, non da presumere 303 offre un diverso equilibrio tra lavorabilità e corrosione; 304 o 316L richiedono una verifica dell’applicazione, non una sostituzione basata sul nome. Usare la scheda di specifica del materiale (inglese) ↗ Confrontare un’altra famiglia di materiali : Acciaio al carbonio e legato ↗
 
 #### Perché considerare questa famiglia?
 
@@ -10645,6 +10665,14 @@ Includere lo standard di designazione, il grado esatto, la forma del prodotto, l
 
 Se la qualità non è ancora stata decisa, inviare il carico o la funzione di localizzazione, l'ambiente, i materiali di accoppiamento, la quantità e il disegno. Richiedi un grado e un percorso proposti con i presupposti dichiarati prima di approvare il materiale.
 
+#### Esempio: vite di regolazione lavorata in 6061-T6511
+
+Per un regolatore leggero, riportare lo stato del semilavorato nella specifica e poi valutare filetto e appoggio nell’assieme finito.
+
+Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.
+
+Grado e stato di fornitura Barra estrusa 6061-T6511 secondo specifica concordata. Registrare dimensioni e stato del semilavorato a cui si riferiscono le proprietà. Requisito del pezzo finito Distinguere dati di trazione del semilavorato e accettazione del filetto finito. Identificare impegno, funzione di regolazione e verifiche d’assemblaggio richieste. Superficie e interfaccia accoppiata Definire anodizzazione o altra finitura, quote interessate e materiale accoppiato. Verificare filetto utile e accoppiamento nello stato finale di fornitura. Registrazioni di accettazione Conservare lega/stato e identificazione del lotto; concordare risultati dimensionali dopo finitura ed eventuali documenti del trattamento. Alternativa da valutare, non da presumere 6082 o un altro stato richiedono un confronto sulla stessa base di prodotto e condizione. Non attribuire un valore T6 a materiale non specificato. Usare la scheda di specifica del materiale (inglese) ↗ Confrontare un’altra famiglia di materiali : Titanio e leghe di titanio ↗
+
 #### Perché considerare questa famiglia?
 
 Massa del componente inferiore rispetto a una parte in acciaio di volume equivalente
@@ -10692,18 +10720,6 @@ Hydro: schede tecniche leghe e riferimenti specifici alla tempra ↗
 Utilizzare un insieme comune di requisiti funzionali, ambientali e di accettazione prima di confrontare gradi e condizioni. Separare i dati relativi alle scorte di materiale dalle classi di elementi di fissaggio finiti e dalle prestazioni dei giunti assemblati.
 
 Segui il flusso di lavoro per la selezione del materiale e della resistenza ↗
-
-#### Leggi i dati di resistenza nelle giuste condizioni
-
-La stessa lega in uno stato diverso ha proprietà diverse. Le cifre seguenti sono esempi di materiale estruso specificato, non di valori nominali di viti finite. Il valore delle scorte di materiale non corrisponde automaticamente al coefficiente di carico di una vite o di un giunto assemblato. Mantenere il grado, la forma del prodotto, la condizione e le specifiche applicabili allegate al valore quando si confrontano le alternative. Rivedere l'impegno della filettatura nella parte accoppiata e nel materiale accoppiato indipendentemente dal valore di trazione del grezzo.
-
-Specificare lega e stato d'animo. Esaminare lo sfilamento e l'impegno della filettatura nel giunto reale, il contatto con metalli diversi, l'usura, il sovrametallo di finitura e la coppia di assemblaggio. Le proprietà di trazione del grezzo non stabiliscono da sole la capacità di carico di un componente filettato.
-
-#### Una pratica sequenza di selezione e approvazione
-
-Per le leghe di alluminio, definire innanzitutto la lega, lo stato fisico e la forma del grezzo; filetto di accoppiamento e impegno; requisito di finitura superficiale o anodizzazione; carico articolare e condizioni di assemblaggio. Confrontare tali requisiti con l'ambiente di servizio e la geometria funzionale. Se il requisito iniziale è solo una famiglia di materiali, risolvere il grado e la condizione prima di confrontare i preventivi finali.
-
-Esamina il materiale scelto con tornitura a fantina mobile e CNC, rullatura di filetti, taglio e maschiatura, rivestimenti e trattamenti superficiali. Concordare quali prove sono necessarie all'approvazione del campione e cosa deve accompagnare i lotti ripetuti. Un grado o una condizione sostitutiva richiede l'approvazione; un aspetto simile o una resistenza nominale non costituiscono una prova sufficiente di intercambiabilità.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -10766,6 +10782,14 @@ Includere lo standard di designazione, il grado esatto, la forma del prodotto, l
 
 Se la qualità non è ancora stata decisa, inviare il carico o la funzione di localizzazione, l'ambiente, i materiali di accoppiamento, la quantità e il disegno. Richiedi un grado e un percorso proposti con i presupposti dichiarati prima di approvare il materiale.
 
+#### Esempio: prigioniero di contatto C11000 con stato definito
+
+Per un contatto elettrico, valutare insieme percorso della corrente e serraggio. La sigla del rame non determina resistenza di contatto, comportamento al serraggio o capacità del collegamento finito.
+
+Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.
+
+Grado e stato di fornitura Barra C11000 in stato H02, con specifica e dimensioni identificate. Confermare lo stato per la forma effettivamente fornita. Requisito del pezzo finito Specificare l’accettazione elettrica separatamente dai requisiti meccanici. Definire filetto, faccia d’appoggio e criteri d’installazione dell’assieme. Superficie e interfaccia accoppiata Specificare eventuale rivestimento di contatto, relativa area e metallo accoppiato. Collegare l’accettazione dimensionale alle superfici rivestite o non rivestite effettivamente fornite. Registrazioni di accettazione Concordare identità del materiale, documenti di conducibilità ordinati, quote finali ed eventuali risultati delle prove di contatto previste. Alternativa da valutare, non da presumere C10100 e C12200 hanno specifiche differenti. Confrontare requisiti elettrici e di fabbricazione prima di cambiare grado o stato. Usare la scheda di specifica del materiale (inglese) ↗ Confrontare un’altra famiglia di materiali : Ottone ↗
+
 #### Perché considerare questa famiglia?
 
 Rilevante per le discussioni sull'interfaccia elettrica e termica
@@ -10813,18 +10837,6 @@ Copper Development Association: riferimenti ai dati sulle leghe ↗
 Utilizzare un insieme comune di requisiti funzionali, ambientali e di accettazione prima di confrontare gradi e condizioni. Separare i dati relativi alle scorte di materiale dalle classi di elementi di fissaggio finiti e dalle prestazioni dei giunti assemblati.
 
 Segui il flusso di lavoro per la selezione del materiale e della resistenza ↗
-
-#### Leggi i dati di resistenza nelle giuste condizioni
-
-La resistenza del rame varia sostanzialmente in base alla lega, alla forma del prodotto e allo stato d'animo. Quello che segue è un tipico riferimento di stock, non un requisito di accettazione delle viti. Il valore delle scorte di materiale non corrisponde automaticamente al coefficiente di carico di una vite o di un giunto assemblato. Mantenere il grado, la forma del prodotto, la condizione e le specifiche applicabili allegate al valore quando si confrontano le alternative. Rivedere l'impegno della filettatura nella parte accoppiata e nel materiale accoppiato indipendentemente dal valore di trazione del grezzo.
-
-Conduttività e resistenza meccanica sono requisiti separati. Specificare il grado e la tempra del rame, le condizioni della superficie di contatto, la placcatura se richiesta e i requisiti del giunto assemblato. Il rame non è intercambiabile con l'ottone semplicemente perché entrambi sono materiali a base di rame.
-
-#### Una pratica sequenza di selezione e approvazione
-
-Per il rame, definire innanzitutto il grado, lo stato e la forma del materiale del rame; requisiti elettrici o termici; superficie di contatto e finitura; accettazione meccanica e congiunta. Confrontare tali requisiti con l'ambiente di servizio e la geometria funzionale. Se il requisito iniziale è solo una famiglia di materiali, risolvere il grado e la condizione prima di confrontare i preventivi finali.
-
-Esamina il materiale scelto con tornitura a fantina mobile e CNC, rivestimenti e trattamenti superficiali, visione CCD e ispezione dimensionale. Concordare quali prove sono necessarie all'approvazione del campione e cosa deve accompagnare i lotti ripetuti. Un grado o una condizione sostitutiva richiede l'approvazione; un aspetto simile o una resistenza nominale non costituiscono una prova sufficiente di intercambiabilità.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -10887,6 +10899,14 @@ Includere lo standard di designazione, il grado esatto, la forma del prodotto, l
 
 Se la qualità non è ancora stata decisa, inviare il carico o la funzione di localizzazione, l'ambiente, i materiali di accoppiamento, la quantità e il disegno. Richiedi un grado e un percorso proposti con i presupposti dichiarati prima di approvare il materiale.
 
+#### Esempio: vite di regolazione tornita in C36000
+
+Per una manopola di attrezzatura da interno, partire da lavorazione e contatto, poi confermare che la composizione sia ammessa per prodotto e mercato previsti.
+
+Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.
+
+Grado e stato di fornitura Barra C36000 in stato H02 secondo specifica concordata. Identificare i limiti di composizione del cliente prima di scegliere il semilavorato. Requisito del pezzo finito Specificare filetto utile, funzione di regolazione e accettazione meccanica. Un valore tipico della barra non definisce la capacità della vite finita. Superficie e interfaccia accoppiata Definire godronatura, faccia di contatto e requisiti di rivestimento o aspetto. Valutare regolazioni ripetute con il materiale accoppiato reale. Registrazioni di accettazione Concordare identificazione di grado/lotto ed eventuali documenti di composizione, insieme a quote finali e registrazioni della finitura prevista. Alternativa da valutare, non da presumere C26000 cambia la base di lavorazione. Un’alternativa a basso piombo o senza piombo richiede una sigla precisa, non una sola descrizione commerciale. Usare la scheda di specifica del materiale (inglese) ↗ Confrontare un’altra famiglia di materiali : Rame ↗
+
 #### Perché considerare questa famiglia?
 
 Utile per profili torniti personalizzati e particolari filettati
@@ -10936,18 +10956,6 @@ Copper Development Association: guida alle leghe di rame ↗
 Utilizzare un insieme comune di requisiti funzionali, ambientali e di accettazione prima di confrontare gradi e condizioni. Separare i dati relativi alle scorte di materiale dalle classi di elementi di fissaggio finiti e dalle prestazioni dei giunti assemblati.
 
 Segui il flusso di lavoro per la selezione del materiale e della resistenza ↗
-
-#### Leggi i dati di resistenza nelle giuste condizioni
-
-La forza cambia con la composizione e il temperamento. L'esempio seguente è pubblicato con i dati tipici dell'asta H02 e non deve essere applicato a tutti gli elementi di fissaggio in ottone. Il valore delle scorte di materiale non corrisponde automaticamente al coefficiente di carico di una vite o di un giunto assemblato. Mantenere il grado, la forma del prodotto, la condizione e le specifiche applicabili allegate al valore quando si confrontano le alternative. Rivedere l'impegno della filettatura nella parte accoppiata e nel materiale accoppiato indipendentemente dal valore di trazione del grezzo.
-
-Specificare la lega effettiva anziché il colore dell'ottone. C36000 è un ottone automatico al piombo; la composizione o le restrizioni normative possono richiedere una lega diversa. Il comportamento meccanico, la compatibilità dei fluidi e qualsiasi test di tenuta richiesto rimangono specifici dell'applicazione.
-
-#### Una pratica sequenza di selezione e approvazione
-
-Per l'ottone, definire innanzitutto i limiti esatti di lega e composizione; documentazione di carattere e materiale; geometria filettata e di contatto; finitura e accettazione funzionale. Confrontare tali requisiti con l'ambiente di servizio e la geometria funzionale. Se il requisito iniziale è solo una famiglia di materiali, risolvere il grado e la condizione prima di confrontare i preventivi finali.
-
-Esamina il materiale scelto con tornitura a fantina mobile e CNC, rullatura di filetti, taglio e maschiatura, visione CCD e ispezione dimensionale. Concordare quali prove sono necessarie all'approvazione del campione e cosa deve accompagnare i lotti ripetuti. Un grado o una condizione sostitutiva richiede l'approvazione; un aspetto simile o una resistenza nominale non costituiscono una prova sufficiente di intercambiabilità.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -11012,6 +11020,14 @@ Includere lo standard di designazione, il grado esatto, la forma del prodotto, l
 
 Se la qualità non è ancora stata decisa, inviare il carico o la funzione di localizzazione, l'ambiente, i materiali di accoppiamento, la quantità e il disegno. Richiedi un grado e un percorso proposti con i presupposti dichiarati prima di approvare il materiale.
 
+#### Esempio: spallamento di precisione in Grade 5 ricotto
+
+Per un assieme sensibile alla massa con requisiti meccanici, confrontare i gradi di titanio su stato e specifica reali prima di definire i controlli finali del giunto.
+
+Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.
+
+Grado e stato di fornitura Barra Grade 5 Ti-6Al-4V nello stato ricotto concordato, con specifica, dimensioni e identità del lotto registrate. Requisito del pezzo finito Definire separatamente requisiti meccanici e geometrici finali. Le proprietà del semilavorato non determinano la resistenza di un gambo ridotto o di un collegamento filettato. Superficie e interfaccia accoppiata Specificare accoppiamento dello spallamento, impegno del filetto, metalli accoppiati e sistema superficiale o di lubrificazione concordato. Includere grippaggio e accesso di manutenzione nella revisione dell’assieme. Registrazioni di accettazione Concordare documenti di materiale e stato, tracciabilità e controlli finali richiesti; specificare separatamente eventuali qualifiche dell’applicazione. Alternativa da valutare, non da presumere Grade 2 è titanio commercialmente puro; Grade 23 ELI ha una specifica distinta. Nessuno sostituisce automaticamente il requisito Grade 5 approvato. Usare la scheda di specifica del materiale (inglese) ↗ Confrontare un’altra famiglia di materiali : Leghe di alluminio ↗
+
 #### Perché considerare questa famiglia?
 
 Considerazioni utili sul rapporto resistenza/massa per le qualità adatte
@@ -11061,18 +11077,6 @@ Carpentiere: scheda tecnica Ti-6Al-4V ELI ↗
 Utilizzare un insieme comune di requisiti funzionali, ambientali e di accettazione prima di confrontare gradi e condizioni. Separare i dati relativi alle scorte di materiale dalle classi di elementi di fissaggio finiti e dalle prestazioni dei giunti assemblati.
 
 Segui il flusso di lavoro per la selezione del materiale e della resistenza ↗
-
-#### Leggi i dati di resistenza nelle giuste condizioni
-
-Il grado commercialmente puro 2 e Ti-6Al-4V sono materiali diversi. Grado, forma e condizione del prodotto devono accompagnare qualsiasi valore di resistenza. Il valore delle scorte di materiale non corrisponde automaticamente al coefficiente di carico di una vite o di un giunto assemblato. Mantenere il grado, la forma del prodotto, la condizione e le specifiche applicabili allegate al valore quando si confrontano le alternative. Rivedere l'impegno della filettatura nella parte accoppiata e nel materiale accoppiato indipendentemente dal valore di trazione del grezzo.
-
-Un'etichetta in titanio non implica una qualifica aerospaziale o medica. Revisione del grado, della condizione finale, del grippaggio della filettatura, del trattamento superficiale, dei metalli accoppiati e della verifica. I requisiti meccanici e di tracciabilità esatti devono essere concordati prima della produzione.
-
-#### Una pratica sequenza di selezione e approvazione
-
-Per il titanio e le leghe di titanio, definire innanzitutto il grado e le condizioni esatte del titanio; proprietà meccaniche richieste; requisiti di superficie e di assemblaggio; tracciabilità e ambito di verifica. Confrontare tali requisiti con l'ambiente di servizio e la geometria funzionale. Se il requisito iniziale è solo una famiglia di materiali, risolvere il grado e la condizione prima di confrontare i preventivi finali.
-
-Esamina il materiale scelto con tornitura a fantina mobile e CNC, pulizia, bloccaggio e assemblaggio, visione CCD e ispezione dimensionale. Concordare quali prove sono necessarie all'approvazione del campione e cosa deve accompagnare i lotti ripetuti. Un grado o una condizione sostitutiva richiede l'approvazione; un aspetto simile o una resistenza nominale non costituiscono una prova sufficiente di intercambiabilità.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 

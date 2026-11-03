@@ -10131,6 +10131,26 @@ MATERIALS, STRENGTH & APPLICATIONS
 
 Compare grade, condition, strength and application needs. A material family alone does not determine the load capacity of a custom screw.
 
+#### Start with the job the material must do
+
+Use the dominant requirement to choose a material family to investigate, then compare exact grades and conditions on its detail page. More than one family may remain suitable until the joint and environment are defined.
+
+Start with the job the material must do Main selection priority Family to compare Decision before choosing
+
+Specified strength, wear or mechanical duty Family to compare Carbon & Alloy Steel Decision before choosing Compare C45/C45E with 42CrMo4 or an explicitly specified SAE 4140 route; identify the final condition and finished-part requirement.
+
+Repeat production with a cold-heading route Family to compare 10B21 Boron Steel Decision before choosing Review 10B21 wire condition, forming and heat treatment together. The grade name does not choose the finished strength class.
+
+Corrosion exposure and service access Family to compare SUS304 & SUS316 Stainless Steel Decision before choosing Compare 304/316 and their low-carbon variants by exposure and fabrication; assess 303 separately when machining is the priority.
+
+Low mass in a machined or adjusted component Family to compare Aluminum Alloys Decision before choosing Compare the actual 6061/6082 alloy and temper, then review engagement, wear and the final anodized dimensions.
+
+Electrical or thermal function Family to compare Copper Decision before choosing Compare the exact copper grade and temper; separate bulk conductivity from the finished contact and clamping requirements.
+
+Machined knobs, adjustment and custom threaded details Family to compare Brass Decision before choosing Compare composition, temper and machinability. If lead content is restricted, name the permitted alloy and composition limit.
+
+A combination of mass, corrosion and mechanical requirements Family to compare Titanium & Titanium Alloys Decision before choosing Compare commercially pure Grade 2 with Grade 5; use Grade 23 ELI only when its distinct specification is required.
+
 MATERIAL SELECTION
 
 #### Carbon & Alloy Steel ↗
@@ -10270,6 +10290,14 @@ Include the designation standard, exact grade, product form, delivery condition,
 
 If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
 
+#### Example: a machined shoulder with a heat-treated steel requirement
+
+For a loaded bracket, keep the steel identity, material condition and finished screw requirements separate. Use the drawing to decide which properties are actually required at the shoulder and threaded section.
+
+Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.
+
+Grade and supplied condition 42CrMo4 bar in the agreed quenched-and-tempered condition. Identify the stock specification, section size and delivery condition on the order. Finished-part requirement Specify the required finished mechanical properties and their applicable test basis. Record hardness or local surface requirements separately if the drawing calls for them. Surface and mating interface Identify the locating shoulder and thread fit after the specified finish. Include the mating bore and any coating allowance in the review. Acceptance records Connect material identity and treatment records to the lot; agree which final-part measurements or mechanical results are required. Alternative to review, not assume C45/C45E may enter a different route review; SAE 4140 needs its own governing specification. A similar alloy description is not an approved substitution. Use the material specification worksheet (English) ↗ Compare another material family : 10B21 Boron Steel ↗
+
 #### Why consider this family?
 
 Broad choice of grades and final mechanical conditions
@@ -10317,18 +10345,6 @@ Ovako: 42CrMo4 grade, section effects and variants ↗
 Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance.
 
 Follow the material and strength selection workflow ↗
-
-#### Read the strength data in the right condition
-
-Specify the finished fastener property class, not a strength inferred from the raw grade. Common nominal class references include 8.8, 10.9 and 12.9. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure.
-
-Steel grade, heat treatment and property class are different specifications. Review corrosion exposure, hydrogen-related process risks where applicable, coating friction and dimensional allowances. Reduced-load geometries need their own assessment.
-
-#### A practical selection and approval sequence
-
-For Carbon & Alloy Steel, first define grade and final property requirement; applicable fastener specification and size; heat-treatment and coating system; functional load case and acceptance tests. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations.
-
-Review the chosen material with Multi-Station Cold Heading, Material-Specific Heat Treatment, Coatings & Surface Treatments. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -10391,6 +10407,14 @@ Include the designation standard, exact grade, product form, delivery condition,
 
 If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
 
+#### Example: 10B21 from heading wire to an accepted flange screw
+
+For repeat quantities, describe the incoming wire and finished screw as two different acceptance stages. A formable starting condition is not the final mechanical requirement.
+
+Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.
+
+Grade and supplied condition 10B21 wire under the agreed material specification and cold-heading delivery condition; retain the material and lot identity. Finished-part requirement Put the required final fastener properties on the drawing. Where applicable, identify core and case requirements separately rather than prescribing carburizing from the grade name. Surface and mating interface Review the bearing face, usable thread and final coating. Define when treatment-sensitive dimensions are accepted. Acceptance records Agree material identification, treatment-batch records and final mechanical or hardness checks as applicable to the part. Alternative to review, not assume A different wire condition, grade or treatment route can change forming and final properties. Review the complete proposal before sample approval. Use the material specification worksheet (English) ↗ Compare another material family : Carbon & Alloy Steel ↗
+
 #### Why consider this family?
 
 Relevant to repeat fastener forming discussions
@@ -10434,18 +10458,6 @@ Bossard: steel fastener property classes ↗
 Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance.
 
 Follow the material and strength selection workflow ↗
-
-#### Read the strength data in the right condition
-
-10B21 is a grade designation, not a finished strength class. There is no single tensile strength that applies to every 10B21 screw. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure.
-
-Do not prescribe carburizing solely because the drawing says 10B21. State the required final mechanical properties and any case-depth or hardness requirements where relevant. Confirm the actual grade, processing route and material documentation during quotation.
-
-#### A practical selection and approval sequence
-
-For 10B21 Boron Steel, first define exact grade and material condition; required finished properties; core or case requirements where applicable; treatment records and mechanical acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations.
-
-Review the chosen material with Multi-Station Cold Heading, Material-Specific Heat Treatment, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -10515,6 +10527,14 @@ Start with the exposure and fabrication requirements, then assess manufacturing 
 Include the designation standard, exact grade, product form, delivery condition, final mechanical requirements, surface treatment and acceptance evidence. Similar names across EN, ASTM, SAE, JIS or GB systems are comparison leads, not permission to substitute.
 
 If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
+
+#### Example: a SUS316 cable feed-through for an outdoor enclosure
+
+Specify the exposure and passage function alongside the grade. Outdoor use alone does not define chloride exposure, cleaning conditions or the mechanical demand on the connection.
+
+Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.
+
+Grade and supplied condition SUS316 bar with the governing material standard and supplied condition stated. Identify whether the drawing actually calls for SUS316 or SUS316L. Finished-part requirement Specify any applicable finished fastener class independently of the stock grade. Check the hollow section and mating connection against the actual load. Surface and mating interface Define the bore edges, contact with dissimilar metals, cleaning and any passivation. Check usable thread and final passage clearance after processing. Acceptance records Request the agreed grade/lot record and final checks. Record the specified surface treatment separately from material identity. Alternative to review, not assume 303 favors a different machining/corrosion balance; 304 or 316L needs an application review rather than a name-based substitution. Use the material specification worksheet (English) ↗ Compare another material family : Carbon & Alloy Steel ↗
 
 #### Why consider this family?
 
@@ -10645,6 +10665,14 @@ Include the designation standard, exact grade, product form, delivery condition,
 
 If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
 
+#### Example: a 6061-T6511 machined adjustment screw
+
+For a lightweight adjuster, carry the stock temper into the specification, then evaluate the thread and bearing interface in the finished assembly.
+
+Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.
+
+Grade and supplied condition 6061-T6511 extruded bar under the agreed product specification. Record the stock size and condition used for the reference properties. Finished-part requirement Distinguish stock tensile data from finished-thread acceptance. Identify engagement, adjustment duty and any required assembly verification. Surface and mating interface Define anodizing or another specified finish, the affected dimensions and the mating material. Check the usable thread and fit in the final supplied condition. Acceptance records Retain grade/temper and lot identification; agree dimensional results after finishing and any specified treatment records. Alternative to review, not assume 6082 or another temper requires comparison on the same product and condition basis. Do not transfer a T6 reference value to unspecified stock. Use the material specification worksheet (English) ↗ Compare another material family : Titanium & Titanium Alloys ↗
+
 #### Why consider this family?
 
 Lower component mass than an equivalent-volume steel part
@@ -10692,18 +10720,6 @@ Hydro: alloy data sheets and temper-specific references ↗
 Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance.
 
 Follow the material and strength selection workflow ↗
-
-#### Read the strength data in the right condition
-
-The same alloy in a different temper has different properties. The figures below are examples for specified extruded stock, not a finished screw rating. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure.
-
-Specify alloy and temper. Review thread stripping and engagement in the real joint, contact with dissimilar metals, wear, finishing allowance and assembly torque. Stock tensile properties do not by themselves establish the load capacity of a threaded component.
-
-#### A practical selection and approval sequence
-
-For Aluminum Alloys, first define alloy, temper and stock form; mating thread and engagement; surface finish or anodizing requirement; joint load and assembly conditions. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations.
-
-Review the chosen material with Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, Coatings & Surface Treatments. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -10766,6 +10782,14 @@ Include the designation standard, exact grade, product form, delivery condition,
 
 If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
 
+#### Example: a C11000 contact stud with a defined temper
+
+For an electrical contact, review current-path and clamping functions together. The copper designation does not establish contact resistance, tightening behavior or finished connection capacity.
+
+Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.
+
+Grade and supplied condition C11000 bar in H02 condition, with the governing product specification and stock size identified. Confirm the condition for the actual supplied form. Finished-part requirement State electrical acceptance separately from mechanical requirements. Define the thread, bearing face and installation criteria for the mating assembly. Surface and mating interface Specify the contact coating if required, its contact area and the mating metal. Keep dimensional acceptance linked to the coated or uncoated surfaces actually supplied. Acceptance records Agree material identity, any ordered conductivity evidence, final dimensions and contact-test records when specified. Alternative to review, not assume C10100 and C12200 have different material specifications. Compare the actual electrical and fabrication requirements before changing grade or temper. Use the material specification worksheet (English) ↗ Compare another material family : Brass ↗
+
 #### Why consider this family?
 
 Relevant to electrical and thermal interface discussions
@@ -10813,18 +10837,6 @@ Copper Development Association: alloy data references ↗
 Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance.
 
 Follow the material and strength selection workflow ↗
-
-#### Read the strength data in the right condition
-
-Copper strength varies substantially with alloy, product form and temper. The following is a typical stock reference, not a screw acceptance requirement. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure.
-
-Conductivity and mechanical strength are separate requirements. Specify the copper grade and temper, contact surface condition, plating if required and the assembled joint requirements. Copper is not interchangeable with brass simply because both are copper-based materials.
-
-#### A practical selection and approval sequence
-
-For Copper, first define copper grade, temper and stock form; electrical or thermal requirements; contact surface and finish; mechanical and joint acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations.
-
-Review the chosen material with Swiss-Type & CNC Turning, Coatings & Surface Treatments, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -10887,6 +10899,14 @@ Include the designation standard, exact grade, product form, delivery condition,
 
 If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
 
+#### Example: a C36000 turned adjustment screw
+
+For an indoor fixture knob, begin with machining and contact requirements, then confirm that the alloy composition is permitted for the intended product and market.
+
+Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.
+
+Grade and supplied condition C36000 bar in H02 condition under the agreed product specification. Identify any customer composition restrictions before selecting the stock. Finished-part requirement Specify usable thread, adjustment duty and required mechanical acceptance. A typical rod value is not a finished screw rating. Surface and mating interface Define knurling, contact face and any plating or appearance requirements. Review repeated adjustment against the actual mating material. Acceptance records Agree grade/lot identification and composition evidence where required, together with final dimensions and the specified finish records. Alternative to review, not assume C26000 changes the processing basis. A low-lead or lead-free alternative needs an exact alloy designation, not only a marketing description. Use the material specification worksheet (English) ↗ Compare another material family : Copper ↗
+
 #### Why consider this family?
 
 Useful for custom turned profiles and threaded details
@@ -10936,18 +10956,6 @@ Copper Development Association: copper alloy guide ↗
 Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance.
 
 Follow the material and strength selection workflow ↗
-
-#### Read the strength data in the right condition
-
-Strength changes with composition and temper. The example below is published typical H02 rod data and must not be applied to all brass fasteners. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure.
-
-Specify the actual alloy rather than a brass color. C36000 is a leaded free-cutting brass; composition or regulatory restrictions may require a different alloy. Mechanical behavior, media compatibility and any required leak test remain application-specific.
-
-#### A practical selection and approval sequence
-
-For Brass, first define exact alloy and composition restrictions; temper and material documentation; threaded and contact geometry; finish and functional acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations.
-
-Review the chosen material with Swiss-Type & CNC Turning, Thread Rolling, Cutting & Tapping, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -11012,6 +11020,14 @@ Include the designation standard, exact grade, product form, delivery condition,
 
 If the grade is not yet decided, send the load or locating function, environment, mating materials, quantity and drawing. Ask for a proposed grade and route with stated assumptions before approving the material.
 
+#### Example: an annealed Grade 5 precision shoulder
+
+For a mass-sensitive assembly with specified mechanical requirements, compare titanium grades on their actual condition and product specification before defining the final joint checks.
+
+Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.
+
+Grade and supplied condition Grade 5 Ti-6Al-4V bar in the agreed annealed condition, with product specification, stock size and lot identity recorded. Finished-part requirement Define the finished mechanical and geometric requirements separately. Stock material properties do not establish the strength of a reduced shank or threaded connection. Surface and mating interface Specify shoulder fit, thread engagement, mating metals and the agreed surface or lubrication system. Include galling and service access in the assembly review. Acceptance records Agree material and condition records, traceability and the required finished-part checks; specify any application qualification separately. Alternative to review, not assume Grade 2 is commercially pure titanium; Grade 23 ELI has a distinct specification. Neither is an automatic substitute for the approved Grade 5 requirement. Use the material specification worksheet (English) ↗ Compare another material family : Aluminum Alloys ↗
+
 #### Why consider this family?
 
 Useful strength-to-mass considerations for suitable grades
@@ -11061,18 +11077,6 @@ Carpenter: Ti-6Al-4V ELI data sheet ↗
 Use a common set of functional, environmental and acceptance requirements before comparing grades and conditions. Separate material stock figures from finished fastener classes and assembled joint performance.
 
 Follow the material and strength selection workflow ↗
-
-#### Read the strength data in the right condition
-
-Commercially pure Grade 2 and Ti-6Al-4V are different materials. Grade, product form and condition must accompany any strength value. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure.
-
-A titanium label does not imply an aerospace or medical qualification. Review grade, final condition, thread galling, surface treatment, mating metals and verification. Exact mechanical and traceability requirements need agreement before production.
-
-#### A practical selection and approval sequence
-
-For Titanium & Titanium Alloys, first define exact titanium grade and condition; required mechanical properties; surface and assembly requirements; traceability and verification scope. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations.
-
-Review the chosen material with Swiss-Type & CNC Turning, Cleaning, Locking & Assembly, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability.
 
 CONNECTED SPECIFICATION TOPICS
 

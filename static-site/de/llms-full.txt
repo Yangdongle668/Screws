@@ -10131,6 +10131,26 @@ MATERIALIEN, STÄRKE UND ANWENDUNGEN
 
 Vergleichen Sie Qualität, Zustand, Festigkeit und Anwendungsanforderungen. Eine Materialfamilie allein bestimmt nicht die Belastbarkeit einer Sonderschraube.
 
+#### Mit der Werkstoffaufgabe beginnen
+
+Wählen Sie nach der wichtigsten Anforderung eine Werkstofffamilie für die nähere Prüfung. Vergleichen Sie anschließend genaue Güten und Zustände auf der Detailseite. Bis Verbindung und Umgebung definiert sind, können mehrere Familien geeignet bleiben.
+
+Mit der Werkstoffaufgabe beginnen Wichtigstes Auswahlziel Zu vergleichende Familie Entscheidung vor der Auswahl
+
+Vorgegebene Festigkeit, Verschleiß oder mechanische Beanspruchung Zu vergleichende Familie Kohlenstoff- und legierter Stahl Entscheidung vor der Auswahl C45/C45E mit 42CrMo4 oder einer ausdrücklich spezifizierten SAE-4140-Route vergleichen; Endzustand und Anforderungen an das Fertigteil benennen.
+
+Wiederholfertigung mit Kaltstauchroute Zu vergleichende Familie 10B21 Borstahl Entscheidung vor der Auswahl 10B21-Drahtzustand, Umformung und Wärmebehandlung gemeinsam prüfen. Der Gütenname legt die fertige Festigkeitsklasse nicht fest.
+
+Korrosionsbelastung und Wartungszugang Zu vergleichende Familie SUS304 & SUS316 Edelstahl Entscheidung vor der Auswahl 304/316 und ihre kohlenstoffarmen Varianten nach Umgebung und Verarbeitung vergleichen; 303 bei vorrangiger Zerspanbarkeit gesondert bewerten.
+
+Geringe Masse bei bearbeiteten oder verstellbaren Teilen Zu vergleichende Familie Aluminiumlegierungen Entscheidung vor der Auswahl Die tatsächliche Legierung 6061/6082 und den Zustand vergleichen, danach Eingriff, Verschleiß und Endmaße nach dem Eloxieren prüfen.
+
+Elektrische oder thermische Funktion Zu vergleichende Familie Kupfer Entscheidung vor der Auswahl Genaue Kupfersorte und Zustand vergleichen; Leitfähigkeit des Grundwerkstoffs von fertigem Kontakt und Klemmfunktion trennen.
+
+Bearbeitete Knöpfe, Verstellung und besondere Gewindedetails Zu vergleichende Familie Messing Entscheidung vor der Auswahl Zusammensetzung, Zustand und Zerspanbarkeit vergleichen. Bei Bleibeschränkung zulässige Legierung und Zusammensetzungsgrenze benennen.
+
+Kombinierte Anforderungen an Masse, Korrosion und Mechanik Zu vergleichende Familie Titan und Titanlegierungen Entscheidung vor der Auswahl Technisch reines Grade 2 mit Grade 5 vergleichen; Grade 23 ELI nur bei geforderter eigenständiger Spezifikation verwenden.
+
 MATERIALAUSWAHL
 
 #### Kohlenstoff- und legierter Stahl ↗
@@ -10270,6 +10290,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+#### Beispiel: bearbeitete Schulter mit Wärmebehandlungsanforderung
+
+Trennen Sie bei einem belasteten Halter Werkstoffidentität, Zustand und fertige Schraubenanforderungen. Die Zeichnung bestimmt, welche Eigenschaften an Schulter und Gewinde tatsächlich benötigt werden.
+
+Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
+
+Güte und Lieferzustand 42CrMo4-Stab im vereinbarten vergüteten Zustand. Halbzeugnorm, Querschnitt und Lieferzustand im Auftrag angeben. Anforderung an das Fertigteil Geforderte Endeigenschaften und Prüfgrundlage festlegen. Härte oder örtliche Oberflächenanforderungen bei Zeichnungsvorgabe separat dokumentieren. Oberfläche und Gegenstück Zentrierschulter und Gewindepassung nach dem vorgesehenen Finish benennen. Gegenbohrung und Beschichtungszugabe in die Prüfung einbeziehen. Abnahmeunterlagen Werkstoffidentität und Behandlungsnachweise mit dem Los verknüpfen; erforderliche Endmessungen oder mechanische Ergebnisse vereinbaren. Alternative prüfen, nicht voraussetzen C45/C45E kann eine andere Routenprüfung erfordern; SAE 4140 benötigt eine eigene geltende Spezifikation. Eine ähnliche Legierungsbeschreibung ist keine genehmigte Substitution. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : 10B21 Borstahl ↗
+
 #### Warum diese Familie in Betracht ziehen?
 
 Große Auswahl an Güten und mechanischen Endbedingungen
@@ -10317,18 +10345,6 @@ Ovako: 42CrMo4-Sorte, Abschnittseffekte und Varianten ↗
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
-
-#### Lesen Sie die Kraftdaten im richtigen Zustand ab
-
-Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9. Ein Materialbestandswert ist nicht automatisch die Tragzahl einer Schraube oder einer montierten Verbindung. Behalten Sie beim Vergleich von Alternativen die Güteklasse, die Produktform, den Zustand und die geltenden Spezifikationen bei, die dem Wert beigefügt sind. Überprüfen Sie den Gewindeeingriff im Gegenstück und im Gegenstückmaterial unabhängig von der Zugkraftzahl.
-
-Stahlsorte, Wärmebehandlung und Festigkeitsklasse sind unterschiedliche Spezifikationen. Überprüfen Sie die Korrosionsexposition, gegebenenfalls wasserstoffbedingte Prozessrisiken, die Beschichtungsreibung und die Maßtoleranzen. Lastreduzierte Geometrien bedürfen einer eigenen Beurteilung.
-
-#### Eine praktische Auswahl- und Genehmigungssequenz
-
-Definieren Sie für Kohlenstoff- und legierten Stahl zunächst die Güteklasse und die endgültigen Eigenschaftsanforderungen. anwendbare Befestigungsspezifikation und -größe; Wärmebehandlungs- und Beschichtungssystem; Funktionslastfall- und Abnahmetests. Vergleichen Sie diese Anforderungen mit der Serviceumgebung und der Funktionsgeometrie. Wenn es sich bei der Ausgangsanforderung nur um eine Materialfamilie handelt, ermitteln Sie die Güteklasse und den Zustand, bevor Sie die endgültigen Angebote vergleichen.
-
-Überprüfen Sie das ausgewählte Material mit Multi-Station-Kaltstauchen, materialspezifischer Wärmebehandlung, Beschichtungen und Oberflächenbehandlungen. Vereinbaren Sie, welche Nachweise bei der Probengenehmigung erforderlich sind und welche Wiederholungschargen beiliegen müssen. Eine Ersatznote oder -bedingung bedarf der Genehmigung; ein ähnliches Aussehen oder eine ähnliche Nennstärke sind kein ausreichender Beweis für die Austauschbarkeit.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -10391,6 +10407,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+#### Beispiel: 10B21 vom Stauchdraht zur abgenommenen Flanschschraube
+
+Beschreiben Sie bei Wiederholmengen Draht und fertige Schraube als zwei Abnahmestufen. Ein gut umformbarer Ausgangszustand ist nicht die endgültige mechanische Anforderung.
+
+Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
+
+Güte und Lieferzustand 10B21-Draht nach vereinbarter Werkstoffspezifikation und Kaltstauch-Lieferzustand; Werkstoff- und Losidentität erhalten. Anforderung an das Fertigteil Geforderte Endmerkmale auf der Zeichnung angeben. Falls relevant, Kern- und Randschichtanforderungen getrennt benennen, statt aus dem Gütennamen Einsatzhärten abzuleiten. Oberfläche und Gegenstück Auflagefläche, nutzbares Gewinde und Endbeschichtung prüfen. Abnahmestufe für behandlungsempfindliche Maße festlegen. Abnahmeunterlagen Werkstoffidentifikation, Wärmebehandlungs-Losnachweise und geeignete abschließende Mechanik- oder Härteprüfungen vereinbaren. Alternative prüfen, nicht voraussetzen Anderer Drahtzustand, andere Güte oder Behandlung können Umformung und Endeigenschaften ändern. Vollständigen Vorschlag vor Musterfreigabe prüfen. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Kohlenstoff- und legierter Stahl ↗
+
 #### Warum diese Familie in Betracht ziehen?
 
 Relevant für wiederholte Diskussionen über die Formung von Verbindungselementen
@@ -10434,18 +10458,6 @@ Bossard: Eigenschaftsklassen von Verbindungselementen aus Stahl ↗
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
-
-#### Lesen Sie die Kraftdaten im richtigen Zustand ab
-
-10B21 ist eine Sortenbezeichnung, keine fertige Festigkeitsklasse. Es gibt keine einheitliche Zugfestigkeit, die für jede 10B21-Schraube gilt. Ein Materialbestandswert ist nicht automatisch die Tragzahl einer Schraube oder einer montierten Verbindung. Behalten Sie beim Vergleich von Alternativen die Güteklasse, die Produktform, den Zustand und die geltenden Spezifikationen bei, die dem Wert beigefügt sind. Überprüfen Sie den Gewindeeingriff im Gegenstück und im Gegenstückmaterial unabhängig von der Zugkraftzahl.
-
-Schreiben Sie die Aufkohlung nicht nur deshalb vor, weil in der technischen Zeichnung 10B21 angegeben ist. Geben Sie die erforderlichen endgültigen mechanischen Eigenschaften und gegebenenfalls Anforderungen an die Einsatztiefe oder Härte an. Bestätigen Sie bei der Angebotserstellung die tatsächliche Qualität, den Verarbeitungsweg und die Materialdokumentation.
-
-#### Eine praktische Auswahl- und Genehmigungssequenz
-
-Definieren Sie für 10B21-Borstahl zunächst die genaue Sorte und den Materialzustand. erforderliche fertige Immobilien; ggf. Kern- oder Fallanforderungen; Behandlungsunterlagen und mechanische Abnahme. Vergleichen Sie diese Anforderungen mit der Serviceumgebung und der Funktionsgeometrie. Wenn es sich bei der Ausgangsanforderung nur um eine Materialfamilie handelt, ermitteln Sie die Güteklasse und den Zustand, bevor Sie die endgültigen Angebote vergleichen.
-
-Überprüfen Sie das ausgewählte Material mit Multi-Station-Kaltstauchen, materialspezifischer Wärmebehandlung, CCD-Vision und Maßprüfung. Vereinbaren Sie, welche Nachweise bei der Probengenehmigung erforderlich sind und welche Wiederholungschargen beiliegen müssen. Eine Ersatznote oder -bedingung bedarf der Genehmigung; ein ähnliches Aussehen oder eine ähnliche Nennstärke sind kein ausreichender Beweis für die Austauschbarkeit.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -10515,6 +10527,14 @@ Beginnen Sie mit den Belichtungs- und Fertigungsanforderungen und bewerten Sie d
 Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Lieferzustand, die endgültigen mechanischen Anforderungen, die Oberflächenbehandlung und den Abnahmenachweis an. Ähnliche Namen in EN-, ASTM-, SAE-, JIS- oder GB-Systemen sind Vergleichshinweise und keine Erlaubnis zum Ersetzen.
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
+
+#### Beispiel: SUS316-Kabeldurchführung für ein Außengehäuse
+
+Umgebung und Durchführungsfunktion neben der Güte spezifizieren. Außeneinsatz allein definiert weder Chloridbelastung noch Reinigung oder mechanische Beanspruchung der Verbindung.
+
+Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
+
+Güte und Lieferzustand SUS316-Stab mit geltender Werkstoffnorm und Lieferzustand. Klären, ob die Zeichnung tatsächlich SUS316 oder SUS316L fordert. Anforderung an das Fertigteil Eine anwendbare fertige Schraubenklasse unabhängig von der Halbzeugqualität angeben. Hohlquerschnitt und Gegenverbindung gegen die tatsächliche Last prüfen. Oberfläche und Gegenstück Bohrungskanten, Kontakt zu anderen Metallen, Reinigung und gegebenenfalls Passivierung festlegen. Nutzbares Gewinde und freien Durchgang nach der Bearbeitung prüfen. Abnahmeunterlagen Vereinbarten Güte-/Losnachweis und Endprüfungen anfordern. Vorgeschriebene Oberflächenbehandlung getrennt von der Werkstoffidentität aufzeichnen. Alternative prüfen, nicht voraussetzen 303 setzt einen anderen Schwerpunkt bei Zerspanbarkeit und Korrosion. 304 oder 316L benötigen eine Anwendungsprüfung statt namensbasierter Substitution. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Kohlenstoff- und legierter Stahl ↗
 
 #### Warum diese Familie in Betracht ziehen?
 
@@ -10645,6 +10665,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+#### Beispiel: bearbeitete Einstellschraube aus 6061-T6511
+
+Bei einem leichten Versteller den Halbzeugzustand in die Spezifikation übernehmen und danach Gewinde und Auflage im fertigen Aufbau bewerten.
+
+Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
+
+Güte und Lieferzustand Stranggepresster Stab 6061-T6511 nach vereinbarter Produktspezifikation. Abmessung und Zustand der zugrunde gelegten Halbzeuge dokumentieren. Anforderung an das Fertigteil Zugdaten des Halbzeugs von der Gewindeabnahme am Fertigteil trennen. Eingriff, Verstellaufgabe und erforderliche Montageprüfung benennen. Oberfläche und Gegenstück Eloxierung oder anderes Finish, betroffene Maße und Gegenwerkstoff festlegen. Nutzbares Gewinde und Passung im endgültigen Lieferzustand prüfen. Abnahmeunterlagen Legierung/Zustand und Losidentität erhalten; Maßnachweise nach dem Finish sowie geforderte Behandlungsunterlagen vereinbaren. Alternative prüfen, nicht voraussetzen 6082 oder ein anderer Zustand ist auf gleicher Produkt- und Zustandsbasis zu vergleichen. Einen T6-Referenzwert nicht auf unbestimmtes Halbzeug übertragen. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Titan und Titanlegierungen ↗
+
 #### Warum diese Familie in Betracht ziehen?
 
 Geringere Bauteilmasse als ein Stahlteil mit gleichem Volumen
@@ -10692,18 +10720,6 @@ Hydro: Legierungsdatenblätter und temperaturspezifische Referenzen ↗
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
-
-#### Lesen Sie die Kraftdaten im richtigen Zustand ab
-
-Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke. Ein Materialbestandswert ist nicht automatisch die Tragzahl einer Schraube oder einer montierten Verbindung. Behalten Sie beim Vergleich von Alternativen die Güteklasse, die Produktform, den Zustand und die geltenden Spezifikationen bei, die dem Wert beigefügt sind. Überprüfen Sie den Gewindeeingriff im Gegenstück und im Gegenstückmaterial unabhängig von der Zugkraftzahl.
-
-Geben Sie Legierung und Härte an. Überprüfen Sie das Abisolieren und Eingreifen des Gewindes in der realen Verbindung, den Kontakt mit unterschiedlichen Metallen, den Verschleiß, das Schlichtaufmaß und das Montagedrehmoment. Die Zugfestigkeitseigenschaften allein bestimmen nicht die Belastbarkeit einer Gewindekomponente.
-
-#### Eine praktische Auswahl- und Genehmigungssequenz
-
-Definieren Sie für Aluminiumlegierungen zunächst Legierung, Härte und Rohteilform. Gegengewinde und Eingriff; Anforderungen an die Oberflächenbeschaffenheit oder Eloxierung; Gelenkbelastung und Montagebedingungen. Vergleichen Sie diese Anforderungen mit der Serviceumgebung und der Funktionsgeometrie. Wenn es sich bei der Ausgangsanforderung nur um eine Materialfamilie handelt, ermitteln Sie die Güteklasse und den Zustand, bevor Sie die endgültigen Angebote vergleichen.
-
-Überprüfen Sie das ausgewählte Material mit Swiss-Type- und CNC-Drehen, Gewinderollen, Schneiden und Gewindeschneiden, Beschichtungen und Oberflächenbehandlungen. Vereinbaren Sie, welche Nachweise bei der Probengenehmigung erforderlich sind und welche Wiederholungschargen beiliegen müssen. Eine Ersatznote oder -bedingung bedarf der Genehmigung; ein ähnliches Aussehen oder eine ähnliche Nennstärke sind kein ausreichender Beweis für die Austauschbarkeit.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -10766,6 +10782,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+#### Beispiel: Kontaktbolzen aus C11000 mit definiertem Zustand
+
+Strompfad und Klemmfunktion eines elektrischen Kontakts gemeinsam prüfen. Die Kupferbezeichnung legt weder Kontaktwiderstand noch Anziehverhalten oder Tragfähigkeit der fertigen Verbindung fest.
+
+Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
+
+Güte und Lieferzustand C11000-Stab im Zustand H02 mit Produktspezifikation und Abmessung. Zustand für die tatsächlich gelieferte Produktform bestätigen. Anforderung an das Fertigteil Elektrische Abnahme getrennt von mechanischen Anforderungen festlegen. Gewinde, Auflagefläche und Montagekriterien der Verbindung definieren. Oberfläche und Gegenstück Bei Bedarf Kontaktbeschichtung mit Kontaktbereich und Gegenmetall spezifizieren. Maßabnahme auf die tatsächlich gelieferten beschichteten oder unbeschichteten Flächen beziehen. Abnahmeunterlagen Werkstoffidentität, bestellte Leitfähigkeitsnachweise, Endmaße und gegebenenfalls vorgeschriebene Kontaktprüfungen vereinbaren. Alternative prüfen, nicht voraussetzen C10100 und C12200 haben unterschiedliche Werkstoffspezifikationen. Elektrische und fertigungstechnische Anforderungen vor Güte- oder Zustandswechsel vergleichen. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Messing ↗
+
 #### Warum diese Familie in Betracht ziehen?
 
 Relevant für Diskussionen über elektrische und thermische Schnittstellen
@@ -10813,18 +10837,6 @@ Copper Development Association: Referenzen zu Legierungsdaten ↗
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
-
-#### Lesen Sie die Kraftdaten im richtigen Zustand ab
-
-Die Kupferfestigkeit variiert erheblich je nach Legierung, Produktform und Härte. Im Folgenden handelt es sich um eine typische Lagerreferenz und nicht um eine Anforderung zur Schraubenabnahme. Ein Materialbestandswert ist nicht automatisch die Tragzahl einer Schraube oder einer montierten Verbindung. Behalten Sie beim Vergleich von Alternativen die Güteklasse, die Produktform, den Zustand und die geltenden Spezifikationen bei, die dem Wert beigefügt sind. Überprüfen Sie den Gewindeeingriff im Gegenstück und im Gegenstückmaterial unabhängig von der Zugkraftzahl.
-
-Leitfähigkeit und mechanische Festigkeit sind separate Anforderungen. Geben Sie die Kupfersorte und -temperatur, den Zustand der Kontaktoberfläche, ggf. die Beschichtung und die Anforderungen an die montierte Verbindung an. Kupfer ist nicht mit Messing austauschbar, nur weil es sich bei beiden um kupferbasierte Materialien handelt.
-
-#### Eine praktische Auswahl- und Genehmigungssequenz
-
-Definieren Sie für Kupfer zunächst den Kupfergrad, die Härte und die Rohform. elektrische oder thermische Anforderungen; Kontaktfläche und Oberfläche; mechanische und gemeinsame Abnahme. Vergleichen Sie diese Anforderungen mit der Serviceumgebung und der Funktionsgeometrie. Wenn es sich bei der Ausgangsanforderung nur um eine Materialfamilie handelt, ermitteln Sie die Güteklasse und den Zustand, bevor Sie die endgültigen Angebote vergleichen.
-
-Überprüfen Sie das ausgewählte Material mit Swiss-Type- und CNC-Drehen, Beschichtungen und Oberflächenbehandlungen, CCD-Vision und Maßprüfung. Vereinbaren Sie, welche Nachweise bei der Probengenehmigung erforderlich sind und welche Wiederholungschargen beiliegen müssen. Eine Ersatznote oder -bedingung bedarf der Genehmigung; ein ähnliches Aussehen oder eine ähnliche Nennstärke sind kein ausreichender Beweis für die Austauschbarkeit.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -10887,6 +10899,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+#### Beispiel: gedrehte Einstellschraube aus C36000
+
+Bei einem Vorrichtungsknopf für Innenräume zuerst Zerspanung und Kontakt klären, dann die zulässige Zusammensetzung für Produkt und Zielmarkt bestätigen.
+
+Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
+
+Güte und Lieferzustand C36000-Stab im Zustand H02 nach vereinbarter Produktspezifikation. Zusammensetzungsbeschränkungen des Kunden vor der Halbzeugwahl benennen. Anforderung an das Fertigteil Nutzbares Gewinde, Verstellaufgabe und mechanische Abnahme festlegen. Ein typischer Stabwert ist keine Festigkeitszusage für die fertige Schraube. Oberfläche und Gegenstück Rändelung, Kontaktfläche sowie Beschichtungs- oder Aussehensanforderungen festlegen. Wiederholte Verstellung mit dem tatsächlichen Gegenwerkstoff prüfen. Abnahmeunterlagen Güte-/Losidentifikation und gegebenenfalls Zusammensetzungsnachweise sowie Endmaße und geforderte Oberflächenunterlagen vereinbaren. Alternative prüfen, nicht voraussetzen C26000 verändert die Verarbeitungsgrundlage. Eine bleiarme oder bleifreie Alternative benötigt eine genaue Legierungsbezeichnung, nicht nur eine Werbeaussage. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Kupfer ↗
+
 #### Warum diese Familie in Betracht ziehen?
 
 Nützlich für individuell gedrehte Profile und Gewindedetails
@@ -10936,18 +10956,6 @@ Copper Development Association: Leitfaden für Kupferlegierungen ↗
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
-
-#### Lesen Sie die Kraftdaten im richtigen Zustand ab
-
-Die Stärke ändert sich mit der Zusammensetzung und dem Temperament. Das folgende Beispiel enthält veröffentlichte typische H02-Stangendaten und darf nicht auf alle Messingbefestigungen angewendet werden. Ein Materialbestandswert ist nicht automatisch die Tragzahl einer Schraube oder einer montierten Verbindung. Behalten Sie beim Vergleich von Alternativen die Güteklasse, die Produktform, den Zustand und die geltenden Spezifikationen bei, die dem Wert beigefügt sind. Überprüfen Sie den Gewindeeingriff im Gegenstück und im Gegenstückmaterial unabhängig von der Zugkraftzahl.
-
-Geben Sie die tatsächliche Legierung und nicht eine Messingfarbe an. C36000 ist ein bleihaltiges Automatenmessing; Zusammensetzung oder behördliche Einschränkungen erfordern möglicherweise eine andere Legierung. Mechanisches Verhalten, Medienverträglichkeit und eine eventuell erforderliche Dichtheitsprüfung bleiben anwendungsspezifisch.
-
-#### Eine praktische Auswahl- und Genehmigungssequenz
-
-Definieren Sie für Messing zunächst die genauen Legierungs- und Zusammensetzungsbeschränkungen. Zustands- und Materialdokumentation; Gewinde- und Kontaktgeometrie; Verarbeitung und Funktionsabnahme. Vergleichen Sie diese Anforderungen mit der Serviceumgebung und der Funktionsgeometrie. Wenn es sich bei der Ausgangsanforderung nur um eine Materialfamilie handelt, ermitteln Sie die Güteklasse und den Zustand, bevor Sie die endgültigen Angebote vergleichen.
-
-Überprüfen Sie das ausgewählte Material mit Swiss-Type- und CNC-Drehen, Gewinderollen, Schneiden und Gewindeschneiden, CCD-Vision und Maßprüfung. Vereinbaren Sie, welche Nachweise bei der Probengenehmigung erforderlich sind und welche Wiederholungschargen beiliegen müssen. Eine Ersatznote oder -bedingung bedarf der Genehmigung; ein ähnliches Aussehen oder eine ähnliche Nennstärke sind kein ausreichender Beweis für die Austauschbarkeit.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -11012,6 +11020,14 @@ Geben Sie den Bezeichnungsstandard, die genaue Sorte, die Produktform, den Liefe
 
 Wenn die Güteklasse noch nicht feststeht, senden Sie die Last oder Ortungsfunktion, die Umgebung, die passenden Materialien, die Menge und die Zeichnung. Bitten Sie um eine vorgeschlagene Steigung und Route mit den angegebenen Annahmen, bevor Sie das Material genehmigen.
 
+#### Beispiel: Präzisionsschulter aus geglühtem Grade 5
+
+Bei einer gewichtssensitiven Baugruppe mit mechanischen Vorgaben Titangüten nach tatsächlichem Zustand und Produktspezifikation vergleichen, bevor die Endprüfungen festgelegt werden.
+
+Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.
+
+Güte und Lieferzustand Stab Grade 5 Ti-6Al-4V im vereinbarten geglühten Zustand; Produktspezifikation, Abmessung und Losidentität dokumentieren. Anforderung an das Fertigteil Mechanische und geometrische Endanforderungen getrennt definieren. Halbzeugeigenschaften belegen nicht die Festigkeit eines reduzierten Schafts oder Gewindeanschlusses. Oberfläche und Gegenstück Schulterpassung, Gewindeeingriff, Gegenmetalle und vereinbarte Oberflächen- oder Schmierungslösung festlegen. Fressneigung und Wartungszugang in der Montagebewertung berücksichtigen. Abnahmeunterlagen Werkstoff-/Zustandsnachweise, Rückverfolgbarkeit und erforderliche Fertigteilprüfungen vereinbaren; Anwendungsqualifikation separat festlegen. Alternative prüfen, nicht voraussetzen Grade 2 ist technisch reines Titan; Grade 23 ELI hat eine eigene Spezifikation. Beide ersetzen die freigegebene Grade-5-Anforderung nicht automatisch. Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch) ↗ Andere Werkstofffamilie vergleichen : Aluminiumlegierungen ↗
+
 #### Warum diese Familie in Betracht ziehen?
 
 Nützliche Überlegungen zum Verhältnis von Festigkeit zu Masse für geeignete Sorten
@@ -11061,18 +11077,6 @@ Zimmermann: Ti-6Al-4V ELI-Datenblatt ↗
 Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforderungen, bevor Sie Qualitäten und Bedingungen vergleichen. Trennen Sie die Materialbestandszahlen von den Klassen fertiger Verbindungselemente und der Leistung der montierten Verbindung.
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
-
-#### Lesen Sie die Kraftdaten im richtigen Zustand ab
-
-Kommerziell reine Güteklasse 2 und Ti-6Al-4V sind unterschiedliche Materialien. Güteklasse, Produktform und Zustand müssen jeden Festigkeitswert begleiten. Ein Materialbestandswert ist nicht automatisch die Tragzahl einer Schraube oder einer montierten Verbindung. Behalten Sie beim Vergleich von Alternativen die Güteklasse, die Produktform, den Zustand und die geltenden Spezifikationen bei, die dem Wert beigefügt sind. Überprüfen Sie den Gewindeeingriff im Gegenstück und im Gegenstückmaterial unabhängig von der Zugkraftzahl.
-
-Ein Titan-Etikett bedeutet keine Luft- und Raumfahrt- oder medizinische Qualifikation. Überprüfen Sie Güteklasse, Endzustand, Gewindeverschleiß, Oberflächenbehandlung, passende Metalle und Überprüfung. Genaue mechanische und Rückverfolgbarkeitsanforderungen müssen vor der Produktion vereinbart werden.
-
-#### Eine praktische Auswahl- und Genehmigungssequenz
-
-Definieren Sie für Titan und Titanlegierungen zunächst den genauen Titangrad und -zustand. erforderliche mechanische Eigenschaften; Oberflächen- und Montageanforderungen; Rückverfolgbarkeit und Überprüfungsumfang. Vergleichen Sie diese Anforderungen mit der Serviceumgebung und der Funktionsgeometrie. Wenn es sich bei der Ausgangsanforderung nur um eine Materialfamilie handelt, ermitteln Sie die Güteklasse und den Zustand, bevor Sie die endgültigen Angebote vergleichen.
-
-Überprüfen Sie das ausgewählte Material mit Swiss-Type- und CNC-Drehen, Reinigen, Verriegeln und Montieren, CCD-Vision und Maßprüfung. Vereinbaren Sie, welche Nachweise bei der Probengenehmigung erforderlich sind und welche Wiederholungschargen beiliegen müssen. Eine Ersatznote oder -bedingung bedarf der Genehmigung; ein ähnliches Aussehen oder eine ähnliche Nennstärke sind kein ausreichender Beweis für die Austauschbarkeit.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 

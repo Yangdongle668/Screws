@@ -115,3 +115,21 @@ body:not(.admin-page) main :where(a,button,li,h1,h2,h3,p){min-width:0}
 .home-company-link{margin:20px 0}.home-company-link a{text-underline-offset:4px}
 @media(max-width:900px){.practical-steps{grid-template-columns:minmax(0,1fr);gap:16px}}
 @media(max-width:600px){.practical-diagram{padding:8px}.practical-steps>article{padding:20px}}
+
+/* Material examples read as individual specification fields on small screens. */
+.material-brief{margin:24px 0;border:1px solid var(--line);background:#fff}
+.material-brief>div{display:grid;grid-template-columns:minmax(180px,1fr) minmax(0,3fr);gap:24px;padding:20px;border-bottom:1px solid var(--line)}
+.material-brief>div:last-child{border-bottom:0}.material-brief dt,.material-brief dd{margin:0;min-width:0;overflow-wrap:break-word}
+.material-mobile-label{display:none}
+.material-finder-table{border:1px solid var(--line);margin:24px 0}
+.material-finder-table table{width:100%;border-collapse:collapse}.material-finder-table caption{text-align:left;padding:16px;background:var(--soft)}
+.material-finder-table :where(th,td){text-align:left;vertical-align:top;padding:16px;border:1px solid var(--line)}
+@media(max-width:760px){
+ .material-brief>div{grid-template-columns:minmax(0,1fr);gap:8px;padding:16px}
+ .material-finder-table{border:0;overflow:visible}.material-finder-table .responsive-table{overflow:visible;margin:0}
+ .material-finder-table table{display:block;min-width:0;table-layout:auto}
+ .material-finder-table thead,.material-finder-table caption{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+ .material-finder-table tbody{display:grid;gap:16px}.material-finder-table tr{display:grid;border:1px solid var(--line);background:#fff}
+ .material-finder-table :where(th,td){display:block;min-width:0;width:auto;border:0;padding:12px 16px}
+ .material-finder-table th{background:var(--soft)}.material-mobile-label{display:block;color:var(--muted);margin-bottom:4px}
+}

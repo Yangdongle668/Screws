@@ -10131,6 +10131,26 @@ MATÉRIAUX, RÉSISTANCE ET APPLICATIONS
 
 Comparez la qualité, l’état, la résistance et les besoins d’application. Une famille de matériaux ne détermine pas à elle seule la capacité de charge d’une vis personnalisée.
 
+#### Partir de la fonction du matériau
+
+Choisissez une famille à étudier selon l’exigence principale, puis comparez nuances et états précis dans sa page. Plusieurs familles peuvent convenir tant que l’assemblage et son environnement ne sont pas définis.
+
+Partir de la fonction du matériau Priorité de sélection Famille à comparer Décision avant le choix
+
+Résistance, usure ou sollicitation mécanique définie Famille à comparer Acier au carbone et allié Décision avant le choix Comparez C45/C45E avec 42CrMo4 ou une gamme SAE 4140 explicitement spécifiée ; précisez l’état final et les exigences de la pièce finie.
+
+Production récurrente par frappe à froid Famille à comparer Acier au bore 10B21 Décision avant le choix Examinez ensemble l’état du fil 10B21, la mise en forme et le traitement thermique. La nuance ne détermine pas la classe de résistance finale.
+
+Exposition à la corrosion et accès de maintenance Famille à comparer SUS304 & SUS316 Acier inoxydable Décision avant le choix Comparez 304/316 et leurs variantes à bas carbone selon l’exposition et la fabrication ; évaluez 303 séparément si l’usinabilité prime.
+
+Faible masse pour une pièce usinée ou de réglage Famille à comparer Alliages d'aluminium Décision avant le choix Comparez l’alliage 6061/6082 et son état, puis examinez engagement, usure et dimensions finales après anodisation.
+
+Fonction électrique ou thermique Famille à comparer Cuivre Décision avant le choix Comparez la nuance et l’état exacts du cuivre ; distinguez conductivité du matériau et exigences du contact et du serrage finis.
+
+Boutons usinés, réglage et détails filetés particuliers Famille à comparer Laiton Décision avant le choix Comparez composition, état et usinabilité. Si le plomb est limité, précisez l’alliage autorisé et la limite de composition.
+
+Exigences combinées de masse, corrosion et mécanique Famille à comparer Titane et alliages de titane Décision avant le choix Comparez le titane commercialement pur Grade 2 avec Grade 5 ; utilisez Grade 23 ELI seulement si sa spécification distincte est requise.
+
 SÉLECTION DES MATÉRIAUX
 
 #### Acier au carbone et allié ↗
@@ -10270,6 +10290,14 @@ Incluez la norme de désignation, la qualité exacte, la forme du produit, l'ét
 
 Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
 
+#### Exemple : épaulement usiné avec exigence d’acier traité
+
+Pour un support sollicité, séparez identité de l’acier, état matière et exigences de la vis finie. Le plan détermine les propriétés requises sur l’épaulement et la partie filetée.
+
+Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.
+
+Nuance et état de livraison Barre 42CrMo4 dans l’état trempé-revenu convenu. Indiquez spécification du produit, section et état de livraison sur la commande. Exigence de la pièce finie Précisez propriétés mécaniques finales et base d’essai applicable. Consignez séparément dureté ou exigences locales de surface si le plan les prévoit. Surface et interface en regard Identifiez l’épaulement de positionnement et l’ajustement du filetage après finition. Incluez l’alésage en regard et la surépaisseur de revêtement dans la revue. Documents de réception Reliez identité matière et traitements au lot ; convenez des mesures finales ou résultats mécaniques requis. Alternative à examiner, sans la présumer équivalente C45/C45E peut relever d’une autre gamme ; SAE 4140 nécessite sa propre spécification. Une description d’alliage voisine n’autorise pas la substitution. Utiliser la fiche de spécification matière (anglais) ↗ Comparer une autre famille de matériaux : Acier au bore 10B21 ↗
+
 #### Pourquoi considérer cette famille ?
 
 Large choix de nuances et de conditions mécaniques finales
@@ -10317,18 +10345,6 @@ Ovako : grade 42CrMo4, effets de section et variantes ↗
 Utilisez un ensemble commun d’exigences fonctionnelles, environnementales et d’acceptation avant de comparer les qualités et les conditions. Séparez les chiffres du stock de matériaux des classes de fixations finies et des performances des joints assemblés.
 
 Suivez le workflow de sélection des matériaux et de la résistance ↗
-
-#### Lire les données de résistance dans les bonnes conditions
-
-Spécifiez la classe de propriétés de la fixation finie, et non une résistance déduite de la qualité brute. Les références de classe nominale courantes incluent 8.8, 10.9 et 12.9. La valeur d'un stock de matériau ne correspond pas automatiquement à la capacité de charge d'une vis ou d'un joint assemblé. Conservez la qualité, la forme du produit, l’état et les spécifications applicables attachées à la valeur lorsque vous comparez les alternatives. Examinez l'engagement du filetage dans la pièce à coupler et le matériau à coupler indépendamment de la valeur de traction du stock.
-
-La qualité de l'acier, le traitement thermique et la classe de propriété sont des spécifications différentes. Examinez l'exposition à la corrosion, les risques liés aux processus liés à l'hydrogène, le cas échéant, le frottement du revêtement et les tolérances dimensionnelles. Les géométries à charge réduite nécessitent leur propre évaluation.
-
-#### Une séquence pratique de sélection et d’approbation
-
-Pour l'acier au carbone et l'acier allié, définissez d'abord les exigences en matière de qualité et de propriété finale ; spécifications et dimensions des fixations applicables ; système de traitement thermique et de revêtement ; cas de charge fonctionnel et tests de réception. Comparez ces exigences avec l’environnement de service et la géométrie fonctionnelle. Si l'exigence de départ concerne uniquement une famille de matériaux, déterminez la qualité et l'état avant de comparer les offres finales.
-
-Passez en revue le matériau choisi avec la frappe à froid multi-stations, le traitement thermique spécifique au matériau, les revêtements et les traitements de surface. Convenez des preuves nécessaires lors de l’approbation de l’échantillon et de celles qui doivent accompagner les lots répétés. Une qualité ou une condition de remplacement nécessite une approbation ; une apparence ou une résistance nominale similaire ne constitue pas une preuve suffisante de l’interchangeabilité.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -10391,6 +10407,14 @@ Incluez la norme de désignation, la qualité exacte, la forme du produit, l'ét
 
 Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
 
+#### Exemple : 10B21 du fil de frappe à la vis à embase réceptionnée
+
+Pour des quantités récurrentes, distinguez réception du fil et de la vis finie. Un état initial apte à la mise en forme n’est pas l’exigence mécanique finale.
+
+Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.
+
+Nuance et état de livraison Fil 10B21 selon la spécification matière et l’état de livraison pour frappe à froid convenus ; conservez l’identité matière et lot. Exigence de la pièce finie Indiquez les propriétés finales sur le plan. Si nécessaire, séparez exigences du cœur et de la couche, sans déduire la cémentation du nom de nuance. Surface et interface en regard Examinez face d’appui, filetage utile et revêtement final. Définissez l’étape de réception des cotes sensibles au traitement. Documents de réception Convenez de l’identification matière, des enregistrements du lot de traitement et des contrôles mécaniques ou de dureté finaux applicables. Alternative à examiner, sans la présumer équivalente Un autre état du fil, une autre nuance ou un autre traitement peut modifier formage et propriétés finales. Examinez la proposition complète avant approbation des échantillons. Utiliser la fiche de spécification matière (anglais) ↗ Comparer une autre famille de matériaux : Acier au carbone et allié ↗
+
 #### Pourquoi considérer cette famille ?
 
 Pertinent pour répéter les discussions sur la formation des fixations
@@ -10434,18 +10458,6 @@ Bossard : classes de propriétés des fixations en acier ↗
 Utilisez un ensemble commun d’exigences fonctionnelles, environnementales et d’acceptation avant de comparer les qualités et les conditions. Séparez les chiffres du stock de matériaux des classes de fixations finies et des performances des joints assemblés.
 
 Suivez le workflow de sélection des matériaux et de la résistance ↗
-
-#### Lire les données de résistance dans les bonnes conditions
-
-10B21 est une désignation de qualité et non une classe de résistance finie. Il n’existe pas de résistance à la traction unique qui s’applique à chaque vis 10B21. La valeur d'un stock de matériau ne correspond pas automatiquement à la capacité de charge d'une vis ou d'un joint assemblé. Conservez la qualité, la forme du produit, l’état et les spécifications applicables attachées à la valeur lorsque vous comparez les alternatives. Examinez l'engagement du filetage dans la pièce à coupler et le matériau à coupler indépendamment de la valeur de traction du stock.
-
-Ne prescrivez pas de carburation uniquement parce que le dessin technique indique 10B21. Indiquer les propriétés mécaniques finales requises et toutes les exigences en matière de profondeur de cas ou de dureté, le cas échéant. Confirmez la qualité réelle, l'itinéraire de traitement et la documentation matérielle lors du devis.
-
-#### Une séquence pratique de sélection et d’approbation
-
-Pour l'acier au bore 10B21, définissez d'abord la nuance exacte et l'état du matériau ; propriétés finies requises ; exigences de base ou de cas, le cas échéant ; dossiers de traitement et acceptation mécanique. Comparez ces exigences avec l’environnement de service et la géométrie fonctionnelle. Si l'exigence de départ concerne uniquement une famille de matériaux, déterminez la qualité et l'état avant de comparer les offres finales.
-
-Examinez le matériau choisi avec la frappe à froid multi-stations, le traitement thermique spécifique au matériau, la vision CCD et l'inspection dimensionnelle. Convenez des preuves nécessaires lors de l’approbation de l’échantillon et de celles qui doivent accompagner les lots répétés. Une qualité ou une condition de remplacement nécessite une approbation ; une apparence ou une résistance nominale similaire ne constitue pas une preuve suffisante de l’interchangeabilité.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -10515,6 +10527,14 @@ Commencez par les exigences d’exposition et de fabrication, puis évaluez la f
 Incluez la norme de désignation, la qualité exacte, la forme du produit, l'état de livraison, les exigences mécaniques finales, le traitement de surface et la preuve d'acceptation. Les noms similaires dans les systèmes EN, ASTM, SAE, JIS ou GB sont des pistes de comparaison et non une autorisation de substitution.
 
 Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
+
+#### Exemple : traversée de câble SUS316 pour un boîtier extérieur
+
+Spécifiez exposition et fonction du passage avec la nuance. L’usage extérieur ne définit à lui seul ni chlorures, ni nettoyage, ni sollicitation mécanique de l’assemblage.
+
+Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.
+
+Nuance et état de livraison Barre SUS316 avec norme matière et état de livraison précisés. Vérifiez si le plan exige SUS316 ou SUS316L. Exigence de la pièce finie Spécifiez la classe de fixation applicable indépendamment de la nuance du produit. Vérifiez section creuse et assemblage selon la charge réelle. Surface et interface en regard Définissez arêtes de l’alésage, contact avec d’autres métaux, nettoyage et éventuelle passivation. Vérifiez filetage utile et passage libre après traitement. Documents de réception Demandez les documents nuance/lot et contrôles finaux convenus. Consignez le traitement de surface séparément de l’identité matière. Alternative à examiner, sans la présumer équivalente 303 privilégie un autre compromis usinage/corrosion ; 304 ou 316L nécessitent une revue de l’application, pas une substitution fondée sur le nom. Utiliser la fiche de spécification matière (anglais) ↗ Comparer une autre famille de matériaux : Acier au carbone et allié ↗
 
 #### Pourquoi considérer cette famille ?
 
@@ -10645,6 +10665,14 @@ Incluez la norme de désignation, la qualité exacte, la forme du produit, l'ét
 
 Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
 
+#### Exemple : vis de réglage usinée en 6061-T6511
+
+Pour un réglage léger, reportez l’état du produit dans la spécification, puis évaluez filetage et appui dans l’ensemble fini.
+
+Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.
+
+Nuance et état de livraison Barre extrudée 6061-T6511 selon la spécification convenue. Consignez dimensions et état du produit servant de base aux propriétés. Exigence de la pièce finie Distinguez données de traction du produit et réception du filetage fini. Précisez engagement, fonction de réglage et vérification d’assemblage requise. Surface et interface en regard Définissez anodisation ou autre finition, dimensions affectées et matériau en regard. Vérifiez filetage utile et ajustement dans l’état final de livraison. Documents de réception Conservez alliage/état et identification du lot ; convenez des résultats dimensionnels après finition et des documents de traitement requis. Alternative à examiner, sans la présumer équivalente 6082 ou un autre état doit être comparé sur une même base de produit et de condition. Ne transférez pas une valeur T6 à un produit non spécifié. Utiliser la fiche de spécification matière (anglais) ↗ Comparer une autre famille de matériaux : Titane et alliages de titane ↗
+
 #### Pourquoi considérer cette famille ?
 
 Masse du composant inférieure à celle d'une pièce en acier de volume équivalent
@@ -10692,18 +10720,6 @@ Hydro : fiches techniques des alliages et références spécifiques aux états �
 Utilisez un ensemble commun d’exigences fonctionnelles, environnementales et d’acceptation avant de comparer les qualités et les conditions. Séparez les chiffres du stock de matériaux des classes de fixations finies et des performances des joints assemblés.
 
 Suivez le workflow de sélection des matériaux et de la résistance ↗
-
-#### Lire les données de résistance dans les bonnes conditions
-
-Le même alliage dans un état différent a des propriétés différentes. Les chiffres ci-dessous sont des exemples pour le matériau extrudé spécifié et non pour une vis finie. La valeur d'un stock de matériau ne correspond pas automatiquement à la capacité de charge d'une vis ou d'un joint assemblé. Conservez la qualité, la forme du produit, l’état et les spécifications applicables attachées à la valeur lorsque vous comparez les alternatives. Examinez l'engagement du filetage dans la pièce à coupler et le matériau à coupler indépendamment de la valeur de traction du stock.
-
-Préciser l'alliage et la trempe. Examinez le dénudage et l'engagement du filetage dans le joint réel, le contact avec des métaux différents, l'usure, la surépaisseur de finition et le couple d'assemblage. Les propriétés de traction du stock n'établissent pas à elles seules la capacité de charge d'un composant fileté.
-
-#### Une séquence pratique de sélection et d’approbation
-
-Pour les alliages d'aluminium, définissez d'abord l'alliage, l'état et la forme du brut ; fil d'accouplement et engagement ; exigence de finition de surface ou d'anodisation ; conditions de charge et d’assemblage des articulations. Comparez ces exigences avec l’environnement de service et la géométrie fonctionnelle. Si l'exigence de départ concerne uniquement une famille de matériaux, déterminez la qualité et l'état avant de comparer les offres finales.
-
-Passez en revue le matériau choisi avec le tournage suisse et CNC, le roulage de filetage, la coupe et le taraudage, les revêtements et les traitements de surface. Convenez des preuves nécessaires lors de l’approbation de l’échantillon et de celles qui doivent accompagner les lots répétés. Une qualité ou une condition de remplacement nécessite une approbation ; une apparence ou une résistance nominale similaire ne constitue pas une preuve suffisante de l’interchangeabilité.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -10766,6 +10782,14 @@ Incluez la norme de désignation, la qualité exacte, la forme du produit, l'ét
 
 Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
 
+#### Exemple : goujon de contact C11000 à état défini
+
+Pour un contact électrique, examinez ensemble passage du courant et serrage. La désignation du cuivre ne définit ni résistance de contact, ni comportement au serrage, ni capacité de l’assemblage fini.
+
+Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.
+
+Nuance et état de livraison Barre C11000 à l’état H02, avec spécification et dimensions identifiées. Confirmez l’état pour la forme réellement livrée. Exigence de la pièce finie Spécifiez la réception électrique séparément des exigences mécaniques. Définissez filetage, face d’appui et critères de montage de l’ensemble. Surface et interface en regard Précisez si nécessaire le revêtement de contact, sa zone et le métal en regard. Liez la réception dimensionnelle aux surfaces revêtues ou non réellement livrées. Documents de réception Convenez de l’identité matière, des justificatifs de conductivité commandés, des dimensions finales et des essais de contact si spécifiés. Alternative à examiner, sans la présumer équivalente C10100 et C12200 ont des spécifications distinctes. Comparez exigences électriques et de fabrication avant de changer de nuance ou d’état. Utiliser la fiche de spécification matière (anglais) ↗ Comparer une autre famille de matériaux : Laiton ↗
+
 #### Pourquoi considérer cette famille ?
 
 Pertinent pour les discussions sur les interfaces électriques et thermiques
@@ -10813,18 +10837,6 @@ Copper Development Association : références de données sur les alliages ↗
 Utilisez un ensemble commun d’exigences fonctionnelles, environnementales et d’acceptation avant de comparer les qualités et les conditions. Séparez les chiffres du stock de matériaux des classes de fixations finies et des performances des joints assemblés.
 
 Suivez le workflow de sélection des matériaux et de la résistance ↗
-
-#### Lire les données de résistance dans les bonnes conditions
-
-La résistance du cuivre varie considérablement en fonction de l'alliage, de la forme du produit et de son état. Ce qui suit est une référence de stock typique et non une exigence d'acceptation des vis. La valeur d'un stock de matériau ne correspond pas automatiquement à la capacité de charge d'une vis ou d'un joint assemblé. Conservez la qualité, la forme du produit, l’état et les spécifications applicables attachées à la valeur lorsque vous comparez les alternatives. Examinez l'engagement du filetage dans la pièce à coupler et le matériau à coupler indépendamment de la valeur de traction du stock.
-
-La conductivité et la résistance mécanique sont des exigences distinctes. Spécifiez la qualité et l'état du cuivre, l'état de la surface de contact, le placage si nécessaire et les exigences des joints assemblés. Le cuivre n’est pas interchangeable avec le laiton simplement parce que les deux sont des matériaux à base de cuivre.
-
-#### Une séquence pratique de sélection et d’approbation
-
-Pour le cuivre, définissez d’abord la qualité, l’état et la forme du cuivre ; exigences électriques ou thermiques ; surface de contact et finition ; réception mécanique et conjointe. Comparez ces exigences avec l’environnement de service et la géométrie fonctionnelle. Si l'exigence de départ concerne uniquement une famille de matériaux, déterminez la qualité et l'état avant de comparer les offres finales.
-
-Passez en revue le matériau choisi avec le tournage de type suisse et CNC, les revêtements et traitements de surface, la vision CCD et l'inspection dimensionnelle. Convenez des preuves nécessaires lors de l’approbation de l’échantillon et de celles qui doivent accompagner les lots répétés. Une qualité ou une condition de remplacement nécessite une approbation ; une apparence ou une résistance nominale similaire ne constitue pas une preuve suffisante de l’interchangeabilité.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -10887,6 +10899,14 @@ Incluez la norme de désignation, la qualité exacte, la forme du produit, l'ét
 
 Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
 
+#### Exemple : vis de réglage décolletée en C36000
+
+Pour un bouton d’outillage intérieur, commencez par usinage et contact, puis confirmez la composition autorisée pour le produit et le marché visés.
+
+Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.
+
+Nuance et état de livraison Barre C36000 à l’état H02 selon la spécification convenue. Identifiez les restrictions de composition du client avant le choix du produit. Exigence de la pièce finie Spécifiez filetage utile, fonction de réglage et réception mécanique. Une valeur typique de barre n’est pas une capacité garantie de la vis finie. Surface et interface en regard Définissez moletage, face de contact et exigences de revêtement ou d’aspect. Examinez les réglages répétés avec le matériau réel en regard. Documents de réception Convenez de l’identification nuance/lot et des justificatifs de composition si requis, avec dimensions finales et documents de finition spécifiés. Alternative à examiner, sans la présumer équivalente C26000 modifie la base de transformation. Une alternative à faible teneur en plomb ou sans plomb exige une désignation exacte, pas seulement une appellation commerciale. Utiliser la fiche de spécification matière (anglais) ↗ Comparer une autre famille de matériaux : Cuivre ↗
+
 #### Pourquoi considérer cette famille ?
 
 Utile pour les profils tournés personnalisés et les détails filetés
@@ -10936,18 +10956,6 @@ Association de développement du cuivre : guide des alliages de cuivre ↗
 Utilisez un ensemble commun d’exigences fonctionnelles, environnementales et d’acceptation avant de comparer les qualités et les conditions. Séparez les chiffres du stock de matériaux des classes de fixations finies et des performances des joints assemblés.
 
 Suivez le workflow de sélection des matériaux et de la résistance ↗
-
-#### Lire les données de résistance dans les bonnes conditions
-
-La force change avec la composition et le tempérament. L'exemple ci-dessous est des données de tige typiques H02 publiées et ne doit pas être appliqué à toutes les fixations en laiton. La valeur d'un stock de matériau ne correspond pas automatiquement à la capacité de charge d'une vis ou d'un joint assemblé. Conservez la qualité, la forme du produit, l’état et les spécifications applicables attachées à la valeur lorsque vous comparez les alternatives. Examinez l'engagement du filetage dans la pièce à coupler et le matériau à coupler indépendamment de la valeur de traction du stock.
-
-Spécifiez l'alliage réel plutôt qu'une couleur de laiton. C36000 est un laiton de décolletage au plomb ; la composition ou les restrictions réglementaires peuvent nécessiter un alliage différent. Le comportement mécanique, la compatibilité des fluides et tout test d'étanchéité requis restent spécifiques à l'application.
-
-#### Une séquence pratique de sélection et d’approbation
-
-Pour le laiton, définissez d’abord les restrictions exactes en matière d’alliage et de composition ; documentation sur l'humeur et les matériaux ; géométrie filetée et de contact ; finition et réception fonctionnelle. Comparez ces exigences avec l’environnement de service et la géométrie fonctionnelle. Si l'exigence de départ concerne uniquement une famille de matériaux, déterminez la qualité et l'état avant de comparer les offres finales.
-
-Passez en revue le matériau choisi avec le tournage de type suisse et CNC, le roulage de filetage, la coupe et le taraudage, la vision CCD et l'inspection dimensionnelle. Convenez des preuves nécessaires lors de l’approbation de l’échantillon et de celles qui doivent accompagner les lots répétés. Une qualité ou une condition de remplacement nécessite une approbation ; une apparence ou une résistance nominale similaire ne constitue pas une preuve suffisante de l’interchangeabilité.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -11012,6 +11020,14 @@ Incluez la norme de désignation, la qualité exacte, la forme du produit, l'ét
 
 Si la qualité n'est pas encore décidée, envoyez la charge ou la fonction de localisation, l'environnement, les matériaux d'accouplement, la quantité et le dessin. Demandez une proposition de pente et d'itinéraire avec les hypothèses énoncées avant d'approuver le matériel.
 
+#### Exemple : épaulement de précision en Grade 5 recuit
+
+Pour un ensemble sensible à la masse avec exigences mécaniques, comparez les grades de titane selon leur état et spécification réels avant de définir les contrôles finaux.
+
+Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.
+
+Nuance et état de livraison Barre Grade 5 Ti-6Al-4V dans l’état recuit convenu, avec spécification, dimensions et identité du lot enregistrées. Exigence de la pièce finie Définissez séparément exigences mécaniques et géométriques finales. Les propriétés du produit ne déterminent pas la résistance d’une tige réduite ou d’un assemblage fileté. Surface et interface en regard Spécifiez ajustement de l’épaulement, engagement du filetage, métaux en regard et système de surface ou de lubrification convenu. Incluez grippage et accès de maintenance dans la revue. Documents de réception Convenez des documents matière/état, de la traçabilité et des contrôles finaux requis ; précisez séparément toute qualification de l’application. Alternative à examiner, sans la présumer équivalente Grade 2 est du titane commercialement pur ; Grade 23 ELI a une spécification distincte. Aucun ne remplace automatiquement le Grade 5 approuvé. Utiliser la fiche de spécification matière (anglais) ↗ Comparer une autre famille de matériaux : Alliages d'aluminium ↗
+
 #### Pourquoi considérer cette famille ?
 
 Considérations utiles sur le rapport résistance/masse pour les qualités appropriées
@@ -11061,18 +11077,6 @@ Charpentier : fiche technique Ti-6Al-4V ELI ↗
 Utilisez un ensemble commun d’exigences fonctionnelles, environnementales et d’acceptation avant de comparer les qualités et les conditions. Séparez les chiffres du stock de matériaux des classes de fixations finies et des performances des joints assemblés.
 
 Suivez le workflow de sélection des matériaux et de la résistance ↗
-
-#### Lire les données de résistance dans les bonnes conditions
-
-Les qualités commercialement pures 2 et Ti-6Al-4V sont des matériaux différents. La qualité, la forme et l'état du produit doivent accompagner toute valeur de résistance. La valeur d'un stock de matériau ne correspond pas automatiquement à la capacité de charge d'une vis ou d'un joint assemblé. Conservez la qualité, la forme du produit, l’état et les spécifications applicables attachées à la valeur lorsque vous comparez les alternatives. Examinez l'engagement du filetage dans la pièce à coupler et le matériau à coupler indépendamment de la valeur de traction du stock.
-
-Une étiquette en titane n'implique pas une qualification aérospatiale ou médicale. Examinez la qualité, l'état final, le grippage des filetages, le traitement de surface, les métaux d'accouplement et la vérification. Les exigences exactes en matière de mécanique et de traçabilité nécessitent un accord avant la production.
-
-#### Une séquence pratique de sélection et d’approbation
-
-Pour le titane et les alliages de titane, définissez d’abord la qualité et l’état exacts du titane ; propriétés mécaniques requises; exigences de surface et d'assemblage ; portée de traçabilité et de vérification. Comparez ces exigences avec l’environnement de service et la géométrie fonctionnelle. Si l'exigence de départ concerne uniquement une famille de matériaux, déterminez la qualité et l'état avant de comparer les offres finales.
-
-Passez en revue le matériau choisi avec le tournage de type suisse et CNC, le nettoyage, le verrouillage et l'assemblage, la vision CCD et l'inspection dimensionnelle. Convenez des preuves nécessaires lors de l’approbation de l’échantillon et de celles qui doivent accompagner les lots répétés. Une qualité ou une condition de remplacement nécessite une approbation ; une apparence ou une résistance nominale similaire ne constitue pas une preuve suffisante de l’interchangeabilité.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 

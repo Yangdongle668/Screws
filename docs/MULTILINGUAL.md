@@ -24,6 +24,8 @@ node scripts/verify-language-preference.mjs
 
 企业合作阶段、六类核心产品接口图与质量放行说明的英文源位于 `scripts/practical-content.mjs`；五种语境译文由 `scripts/practical-localization.mjs` 维护，写入 `translations/practical-review.json` 和语言字典。运行 `node scripts/practical-localization.mjs` 后完整生成即可；`apply-editorial-review.mjs` 也会在旧审校层之后应用此映射。SVG 仅使用编号，图例、替代文本与说明随语言翻译。图示用于设计讨论，不能替代真实设备、项目或检测记录。
 
+材料用途选择表与七类材料要求示例的英文源为 `scripts/material-request-content.mjs`，译文在 `scripts/material-request-localization.mjs` 维护。运行 `node scripts/material-request-localization.mjs` 写入五份字典及 `translations/material-request-review.json`；常规审校脚本会在旧映射后应用这些译文。示例区分牌号／状态、成品要求、表面与配合、验收及替代料，不改动已有带条件的强度参考表；英文确认后再同步更新各语言。
+
 ## 语言入口与默认选择
 
 顶部邮箱旁提供国旗、语言原名和当前项勾选。首次进入英文地址时，优先采用已保存的手动选择，否则按照浏览器语言列表匹配六种支持语言；未匹配保持英文。手动切换保存本机偏好，并保留对应页面、查询参数及锚点。明确访问带语言前缀的链接时保留该语言；站内浏览不反复跳转。搜索爬虫不做客户端自动跳转，全部语言保留可访问网址与 `hreflang`。

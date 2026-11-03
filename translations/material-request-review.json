@@ -1,0 +1,534 @@
+{
+  "Start with the job the material must do": {
+    "de": "Mit der Werkstoffaufgabe beginnen",
+    "es": "Empezar por la función del material",
+    "it": "Partire dalla funzione del materiale",
+    "fr": "Partir de la fonction du matériau",
+    "zh": "先明确材料要解决什么问题"
+  },
+  "Use the dominant requirement to choose a material family to investigate, then compare exact grades and conditions on its detail page. More than one family may remain suitable until the joint and environment are defined.": {
+    "de": "Wählen Sie nach der wichtigsten Anforderung eine Werkstofffamilie für die nähere Prüfung. Vergleichen Sie anschließend genaue Güten und Zustände auf der Detailseite. Bis Verbindung und Umgebung definiert sind, können mehrere Familien geeignet bleiben.",
+    "es": "Elija una familia para estudiar según el requisito principal y compare después grados y estados concretos en su página. Hasta definir la unión y el entorno, puede haber varias familias adecuadas.",
+    "it": "Scegliere una famiglia da valutare in base al requisito principale, poi confrontare gradi e stati precisi nella pagina dedicata. Più famiglie possono restare adatte finché non sono definiti giunto e ambiente.",
+    "fr": "Choisissez une famille à étudier selon l’exigence principale, puis comparez nuances et états précis dans sa page. Plusieurs familles peuvent convenir tant que l’assemblage et son environnement ne sont pas définis.",
+    "zh": "根据最重要的功能要求，先选需要比较的材料族，再进入详情页核对具体牌号和状态。连接结构与环境尚未明确时，可能仍有多种材料值得评估。"
+  },
+  "Main selection priority": {
+    "de": "Wichtigstes Auswahlziel",
+    "es": "Prioridad de selección",
+    "it": "Priorità di scelta",
+    "fr": "Priorité de sélection",
+    "zh": "主要选材目标"
+  },
+  "Family to compare": {
+    "de": "Zu vergleichende Familie",
+    "es": "Familia que comparar",
+    "it": "Famiglia da confrontare",
+    "fr": "Famille à comparer",
+    "zh": "需要比较的材料族"
+  },
+  "Decision before choosing": {
+    "de": "Entscheidung vor der Auswahl",
+    "es": "Decisión antes de elegir",
+    "it": "Decisione prima della scelta",
+    "fr": "Décision avant le choix",
+    "zh": "选定前要明确的事项"
+  },
+  "Specified strength, wear or mechanical duty": {
+    "de": "Vorgegebene Festigkeit, Verschleiß oder mechanische Beanspruchung",
+    "es": "Resistencia, desgaste o servicio mecánico especificados",
+    "it": "Resistenza, usura o servizio meccanico specificati",
+    "fr": "Résistance, usure ou sollicitation mécanique définie",
+    "zh": "规定的强度、耐磨或机械承载要求"
+  },
+  "Compare C45/C45E with 42CrMo4 or an explicitly specified SAE 4140 route; identify the final condition and finished-part requirement.": {
+    "de": "C45/C45E mit 42CrMo4 oder einer ausdrücklich spezifizierten SAE-4140-Route vergleichen; Endzustand und Anforderungen an das Fertigteil benennen.",
+    "es": "Compare C45/C45E con 42CrMo4 o una ruta SAE 4140 especificada expresamente; identifique el estado final y los requisitos de la pieza terminada.",
+    "it": "Confrontare C45/C45E con 42CrMo4 o un ciclo SAE 4140 esplicitamente specificato; identificare stato finale e requisiti del pezzo finito.",
+    "fr": "Comparez C45/C45E avec 42CrMo4 ou une gamme SAE 4140 explicitement spécifiée ; précisez l’état final et les exigences de la pièce finie.",
+    "zh": "比较 C45/C45E、42CrMo4，或明确采用 SAE 4140 的方案；分别确定最终状态和成品要求。"
+  },
+  "Repeat production with a cold-heading route": {
+    "de": "Wiederholfertigung mit Kaltstauchroute",
+    "es": "Producción repetitiva por estampación en frío",
+    "it": "Produzione ripetitiva con stampaggio a freddo",
+    "fr": "Production récurrente par frappe à froid",
+    "zh": "采用冷镦路线的批量生产"
+  },
+  "Review 10B21 wire condition, forming and heat treatment together. The grade name does not choose the finished strength class.": {
+    "de": "10B21-Drahtzustand, Umformung und Wärmebehandlung gemeinsam prüfen. Der Gütenname legt die fertige Festigkeitsklasse nicht fest.",
+    "es": "Revise juntos el estado del alambre 10B21, la conformación y el tratamiento térmico. El grado no determina la clase de resistencia final.",
+    "it": "Valutare insieme stato del filo 10B21, formatura e trattamento termico. Il grado non determina la classe di resistenza finale.",
+    "fr": "Examinez ensemble l’état du fil 10B21, la mise en forme et le traitement thermique. La nuance ne détermine pas la classe de résistance finale.",
+    "zh": "把 10B21 线材状态、冷镦和热处理放在一起评审，不能由牌号直接推定成品强度等级。"
+  },
+  "Corrosion exposure and service access": {
+    "de": "Korrosionsbelastung und Wartungszugang",
+    "es": "Exposición a corrosión y acceso de mantenimiento",
+    "it": "Esposizione alla corrosione e accesso per manutenzione",
+    "fr": "Exposition à la corrosion et accès de maintenance",
+    "zh": "腐蚀环境与维护要求"
+  },
+  "Compare 304/316 and their low-carbon variants by exposure and fabrication; assess 303 separately when machining is the priority.": {
+    "de": "304/316 und ihre kohlenstoffarmen Varianten nach Umgebung und Verarbeitung vergleichen; 303 bei vorrangiger Zerspanbarkeit gesondert bewerten.",
+    "es": "Compare 304/316 y sus variantes de bajo carbono según exposición y fabricación; evalúe 303 aparte cuando prime el mecanizado.",
+    "it": "Confrontare 304/316 e varianti a basso carbonio per esposizione e fabbricazione; valutare 303 separatamente se prevale la lavorabilità.",
+    "fr": "Comparez 304/316 et leurs variantes à bas carbone selon l’exposition et la fabrication ; évaluez 303 séparément si l’usinabilité prime.",
+    "zh": "按环境和后续制造要求比较 304/316 及低碳变种；优先考虑切削效率时，再单独评估 303。"
+  },
+  "Low mass in a machined or adjusted component": {
+    "de": "Geringe Masse bei bearbeiteten oder verstellbaren Teilen",
+    "es": "Baja masa en piezas mecanizadas o de ajuste",
+    "it": "Massa ridotta per parti lavorate o regolabili",
+    "fr": "Faible masse pour une pièce usinée ou de réglage",
+    "zh": "机加工件或调节件的轻量化"
+  },
+  "Compare the actual 6061/6082 alloy and temper, then review engagement, wear and the final anodized dimensions.": {
+    "de": "Die tatsächliche Legierung 6061/6082 und den Zustand vergleichen, danach Eingriff, Verschleiß und Endmaße nach dem Eloxieren prüfen.",
+    "es": "Compare la aleación 6061/6082 y su estado; después revise acoplamiento, desgaste y cotas finales tras anodizado.",
+    "it": "Confrontare lega 6061/6082 e stato, poi verificare impegno, usura e quote finali dopo anodizzazione.",
+    "fr": "Comparez l’alliage 6061/6082 et son état, puis examinez engagement, usure et dimensions finales après anodisation.",
+    "zh": "明确 6061/6082 的具体状态，再检查旋合长度、磨损与阳极氧化后的尺寸。"
+  },
+  "Electrical or thermal function": {
+    "de": "Elektrische oder thermische Funktion",
+    "es": "Función eléctrica o térmica",
+    "it": "Funzione elettrica o termica",
+    "fr": "Fonction électrique ou thermique",
+    "zh": "导电或导热功能"
+  },
+  "Compare the exact copper grade and temper; separate bulk conductivity from the finished contact and clamping requirements.": {
+    "de": "Genaue Kupfersorte und Zustand vergleichen; Leitfähigkeit des Grundwerkstoffs von fertigem Kontakt und Klemmfunktion trennen.",
+    "es": "Compare el grado y estado exactos del cobre; distinga la conductividad del material de los requisitos del contacto y del apriete finales.",
+    "it": "Confrontare grado e stato esatti del rame; distinguere conducibilità del materiale da requisiti di contatto e serraggio finali.",
+    "fr": "Comparez la nuance et l’état exacts du cuivre ; distinguez conductivité du matériau et exigences du contact et du serrage finis.",
+    "zh": "比较具体铜牌号与状态，区分材料本体导电性、实际接触界面和夹紧要求。"
+  },
+  "Machined knobs, adjustment and custom threaded details": {
+    "de": "Bearbeitete Knöpfe, Verstellung und besondere Gewindedetails",
+    "es": "Pomos mecanizados, ajuste y detalles roscados especiales",
+    "it": "Manopole lavorate, regolazione e dettagli filettati speciali",
+    "fr": "Boutons usinés, réglage et détails filetés particuliers",
+    "zh": "车削旋钮、调节与特殊螺纹结构"
+  },
+  "Compare composition, temper and machinability. If lead content is restricted, name the permitted alloy and composition limit.": {
+    "de": "Zusammensetzung, Zustand und Zerspanbarkeit vergleichen. Bei Bleibeschränkung zulässige Legierung und Zusammensetzungsgrenze benennen.",
+    "es": "Compare composición, estado y mecanizabilidad. Si hay restricciones de plomo, indique aleación permitida y límite de composición.",
+    "it": "Confrontare composizione, stato e lavorabilità. Se il piombo è limitato, indicare lega ammessa e limite di composizione.",
+    "fr": "Comparez composition, état et usinabilité. Si le plomb est limité, précisez l’alliage autorisé et la limite de composition.",
+    "zh": "比较成分、状态和切削性能；对铅含量有要求时，明确允许的牌号及成分限值。"
+  },
+  "A combination of mass, corrosion and mechanical requirements": {
+    "de": "Kombinierte Anforderungen an Masse, Korrosion und Mechanik",
+    "es": "Combinación de masa, corrosión y requisitos mecánicos",
+    "it": "Requisiti combinati di massa, corrosione e meccanica",
+    "fr": "Exigences combinées de masse, corrosion et mécanique",
+    "zh": "轻量化、耐蚀与机械性能的综合要求"
+  },
+  "Compare commercially pure Grade 2 with Grade 5; use Grade 23 ELI only when its distinct specification is required.": {
+    "de": "Technisch reines Grade 2 mit Grade 5 vergleichen; Grade 23 ELI nur bei geforderter eigenständiger Spezifikation verwenden.",
+    "es": "Compare titanio comercialmente puro Grade 2 con Grade 5; use Grade 23 ELI solo cuando se requiera su especificación diferenciada.",
+    "it": "Confrontare titanio commercialmente puro Grade 2 con Grade 5; usare Grade 23 ELI solo se richiesta la sua specifica distinta.",
+    "fr": "Comparez le titane commercialement pur Grade 2 avec Grade 5 ; utilisez Grade 23 ELI seulement si sa spécification distincte est requise.",
+    "zh": "比较工业纯钛 Grade 2 与 Grade 5；确有相应规范要求时，再评估 Grade 23 ELI。"
+  },
+  "Illustrative material request. Drawing-specific limits and acceptance criteria remain to be agreed; this is not a released design or a ZUFEK test result.": {
+    "de": "Beispiel einer Werkstoffanfrage. Zeichnungsspezifische Grenzwerte und Abnahmekriterien sind noch zu vereinbaren; keine freigegebene Konstruktion und kein ZUFEK-Prüfergebnis.",
+    "es": "Ejemplo de solicitud de material. Los límites del plano y los criterios de aceptación quedan por acordar; no es un diseño aprobado ni un resultado de ensayo de ZUFEK.",
+    "it": "Esempio di richiesta del materiale. Limiti del disegno e criteri di accettazione restano da concordare; non è un progetto approvato né un risultato di prova ZUFEK.",
+    "fr": "Exemple de demande matière. Les limites du plan et critères de réception restent à convenir ; ce n’est ni une conception approuvée ni un résultat d’essai ZUFEK.",
+    "zh": "材料要求填写示例。具体图纸限值和验收条件仍需约定，不代表已批准的设计或 ZUFEK 实测结果。"
+  },
+  "Grade and supplied condition": {
+    "de": "Güte und Lieferzustand",
+    "es": "Grado y estado de suministro",
+    "it": "Grado e stato di fornitura",
+    "fr": "Nuance et état de livraison",
+    "zh": "牌号与供货状态"
+  },
+  "Finished-part requirement": {
+    "de": "Anforderung an das Fertigteil",
+    "es": "Requisito de la pieza terminada",
+    "it": "Requisito del pezzo finito",
+    "fr": "Exigence de la pièce finie",
+    "zh": "成品要求"
+  },
+  "Surface and mating interface": {
+    "de": "Oberfläche und Gegenstück",
+    "es": "Superficie e interfaz acoplada",
+    "it": "Superficie e interfaccia accoppiata",
+    "fr": "Surface et interface en regard",
+    "zh": "表面处理与配合界面"
+  },
+  "Acceptance records": {
+    "de": "Abnahmeunterlagen",
+    "es": "Registros de aceptación",
+    "it": "Registrazioni di accettazione",
+    "fr": "Documents de réception",
+    "zh": "验收记录"
+  },
+  "Alternative to review, not assume": {
+    "de": "Alternative prüfen, nicht voraussetzen",
+    "es": "Alternativa que revisar, no asumir",
+    "it": "Alternativa da valutare, non da presumere",
+    "fr": "Alternative à examiner, sans la présumer équivalente",
+    "zh": "替代方案需要重新比较什么"
+  },
+  "Use the material specification worksheet (English)": {
+    "de": "Arbeitsblatt zur Werkstoffspezifikation verwenden (Englisch)",
+    "es": "Usar la hoja de especificación de material (inglés)",
+    "it": "Usare la scheda di specifica del materiale (inglese)",
+    "fr": "Utiliser la fiche de spécification matière (anglais)",
+    "zh": "使用材料规格填写表（英文）"
+  },
+  "Compare another material family": {
+    "de": "Andere Werkstofffamilie vergleichen",
+    "es": "Comparar otra familia de materiales",
+    "it": "Confrontare un’altra famiglia di materiali",
+    "fr": "Comparer une autre famille de matériaux",
+    "zh": "比较另一材料族"
+  },
+  "Example: a machined shoulder with a heat-treated steel requirement": {
+    "de": "Beispiel: bearbeitete Schulter mit Wärmebehandlungsanforderung",
+    "es": "Ejemplo: hombro mecanizado con requisito de acero tratado térmicamente",
+    "it": "Esempio: spallamento lavorato con requisito di acciaio trattato",
+    "fr": "Exemple : épaulement usiné avec exigence d’acier traité",
+    "zh": "示例：有热处理要求的机加工肩轴"
+  },
+  "For a loaded bracket, keep the steel identity, material condition and finished screw requirements separate. Use the drawing to decide which properties are actually required at the shoulder and threaded section.": {
+    "de": "Trennen Sie bei einem belasteten Halter Werkstoffidentität, Zustand und fertige Schraubenanforderungen. Die Zeichnung bestimmt, welche Eigenschaften an Schulter und Gewinde tatsächlich benötigt werden.",
+    "es": "En un soporte cargado, separe identidad del acero, estado y requisitos del tornillo terminado. El plano determina qué propiedades se necesitan en el hombro y la zona roscada.",
+    "it": "Per una staffa caricata, distinguere identità dell’acciaio, stato e requisiti della vite finita. Il disegno stabilisce le proprietà necessarie su spallamento e tratto filettato.",
+    "fr": "Pour un support sollicité, séparez identité de l’acier, état matière et exigences de la vis finie. Le plan détermine les propriétés requises sur l’épaulement et la partie filetée.",
+    "zh": "用于承载支架时，要把钢材身份、材料状态和成品螺丝要求分开。肩轴与螺纹段具体需要什么性能，应由图纸功能决定。"
+  },
+  "42CrMo4 bar in the agreed quenched-and-tempered condition. Identify the stock specification, section size and delivery condition on the order.": {
+    "de": "42CrMo4-Stab im vereinbarten vergüteten Zustand. Halbzeugnorm, Querschnitt und Lieferzustand im Auftrag angeben.",
+    "es": "Barra 42CrMo4 en el estado de temple y revenido acordado. Identifique norma del producto, sección y estado de suministro en el pedido.",
+    "it": "Barra 42CrMo4 nello stato bonificato concordato. Indicare specifica del semilavorato, sezione e stato di fornitura nell’ordine.",
+    "fr": "Barre 42CrMo4 dans l’état trempé-revenu convenu. Indiquez spécification du produit, section et état de livraison sur la commande.",
+    "zh": "采用约定调质状态的 42CrMo4 棒料，在订单中注明棒料规范、截面尺寸和供货状态。"
+  },
+  "Specify the required finished mechanical properties and their applicable test basis. Record hardness or local surface requirements separately if the drawing calls for them.": {
+    "de": "Geforderte Endeigenschaften und Prüfgrundlage festlegen. Härte oder örtliche Oberflächenanforderungen bei Zeichnungsvorgabe separat dokumentieren.",
+    "es": "Defina las propiedades mecánicas finales y su base de ensayo. Registre aparte dureza o requisitos superficiales locales cuando figuren en el plano.",
+    "it": "Definire proprietà meccaniche finali e relativa base di prova. Registrare separatamente durezza o requisiti superficiali locali se previsti dal disegno.",
+    "fr": "Précisez propriétés mécaniques finales et base d’essai applicable. Consignez séparément dureté ou exigences locales de surface si le plan les prévoit.",
+    "zh": "注明所需的最终机械性能及检测依据；图纸另有硬度或局部表面要求时，单独列出。"
+  },
+  "Identify the locating shoulder and thread fit after the specified finish. Include the mating bore and any coating allowance in the review.": {
+    "de": "Zentrierschulter und Gewindepassung nach dem vorgesehenen Finish benennen. Gegenbohrung und Beschichtungszugabe in die Prüfung einbeziehen.",
+    "es": "Identifique el hombro de posicionamiento y el ajuste de rosca tras el acabado. Incluya taladro acoplado y margen de recubrimiento en la revisión.",
+    "it": "Identificare spallamento di centraggio e accoppiamento filettato dopo la finitura. Includere foro accoppiato e sovrametallo per il rivestimento nella verifica.",
+    "fr": "Identifiez l’épaulement de positionnement et l’ajustement du filetage après finition. Incluez l’alésage en regard et la surépaisseur de revêtement dans la revue.",
+    "zh": "按表面处理后的状态明确定位肩轴与螺纹配合，并同时核对配合孔和涂层尺寸预留。"
+  },
+  "Connect material identity and treatment records to the lot; agree which final-part measurements or mechanical results are required.": {
+    "de": "Werkstoffidentität und Behandlungsnachweise mit dem Los verknüpfen; erforderliche Endmessungen oder mechanische Ergebnisse vereinbaren.",
+    "es": "Vincule material y tratamiento con el lote; acuerde qué mediciones o resultados mecánicos de la pieza final se requieren.",
+    "it": "Collegare identità del materiale e trattamenti al lotto; concordare misure finali o risultati meccanici richiesti.",
+    "fr": "Reliez identité matière et traitements au lot ; convenez des mesures finales ou résultats mécaniques requis.",
+    "zh": "把材料身份、处理记录与批次关联起来，约定需要提供哪些成品测量或机械性能结果。"
+  },
+  "C45/C45E may enter a different route review; SAE 4140 needs its own governing specification. A similar alloy description is not an approved substitution.": {
+    "de": "C45/C45E kann eine andere Routenprüfung erfordern; SAE 4140 benötigt eine eigene geltende Spezifikation. Eine ähnliche Legierungsbeschreibung ist keine genehmigte Substitution.",
+    "es": "C45/C45E puede requerir otra ruta; SAE 4140 necesita su especificación propia. Una descripción de aleación parecida no autoriza la sustitución.",
+    "it": "C45/C45E può richiedere una diversa valutazione del ciclo; SAE 4140 richiede una propria specifica. Una descrizione simile della lega non autorizza la sostituzione.",
+    "fr": "C45/C45E peut relever d’une autre gamme ; SAE 4140 nécessite sa propre spécification. Une description d’alliage voisine n’autorise pas la substitution.",
+    "zh": "改用 C45/C45E 可能涉及不同工艺评审；SAE 4140 也需要明确自身的适用规范。成分描述相近，不代表已经批准替代。"
+  },
+  "Example: 10B21 from heading wire to an accepted flange screw": {
+    "de": "Beispiel: 10B21 vom Stauchdraht zur abgenommenen Flanschschraube",
+    "es": "Ejemplo: 10B21 desde el alambre de estampación hasta el tornillo con brida aceptado",
+    "it": "Esempio: 10B21 dal filo per stampaggio alla vite flangiata accettata",
+    "fr": "Exemple : 10B21 du fil de frappe à la vis à embase réceptionnée",
+    "zh": "示例：10B21 从冷镦线材到法兰螺丝成品"
+  },
+  "For repeat quantities, describe the incoming wire and finished screw as two different acceptance stages. A formable starting condition is not the final mechanical requirement.": {
+    "de": "Beschreiben Sie bei Wiederholmengen Draht und fertige Schraube als zwei Abnahmestufen. Ein gut umformbarer Ausgangszustand ist nicht die endgültige mechanische Anforderung.",
+    "es": "Para cantidades repetitivas, describa el alambre y el tornillo terminado como etapas de aceptación distintas. El estado inicial conformable no es el requisito mecánico final.",
+    "it": "Per quantità ripetitive, descrivere filo in ingresso e vite finita come due fasi di accettazione. Uno stato iniziale formabile non coincide con il requisito meccanico finale.",
+    "fr": "Pour des quantités récurrentes, distinguez réception du fil et de la vis finie. Un état initial apte à la mise en forme n’est pas l’exigence mécanique finale.",
+    "zh": "批量生产时，来料线材和成品螺丝应按不同阶段验收。适合冷镦的来料状态，并不等于成品所需的机械性能。"
+  },
+  "10B21 wire under the agreed material specification and cold-heading delivery condition; retain the material and lot identity.": {
+    "de": "10B21-Draht nach vereinbarter Werkstoffspezifikation und Kaltstauch-Lieferzustand; Werkstoff- und Losidentität erhalten.",
+    "es": "Alambre 10B21 según especificación y estado de suministro para estampación en frío acordados; mantenga identidad del material y del lote.",
+    "it": "Filo 10B21 secondo specifica e stato di fornitura per stampaggio a freddo concordati; conservare identità di materiale e lotto.",
+    "fr": "Fil 10B21 selon la spécification matière et l’état de livraison pour frappe à froid convenus ; conservez l’identité matière et lot.",
+    "zh": "采用符合约定材料规范及冷镦供货状态的 10B21 线材，保留材料与批次标识。"
+  },
+  "Put the required final fastener properties on the drawing. Where applicable, identify core and case requirements separately rather than prescribing carburizing from the grade name.": {
+    "de": "Geforderte Endmerkmale auf der Zeichnung angeben. Falls relevant, Kern- und Randschichtanforderungen getrennt benennen, statt aus dem Gütennamen Einsatzhärten abzuleiten.",
+    "es": "Indique las propiedades finales en el plano. Cuando proceda, separe requisitos del núcleo y de capa, sin deducir la cementación del nombre del grado.",
+    "it": "Indicare le proprietà finali a disegno. Se applicabile, separare requisiti del nucleo e dello strato superficiale senza dedurre la cementazione dal nome del grado.",
+    "fr": "Indiquez les propriétés finales sur le plan. Si nécessaire, séparez exigences du cœur et de la couche, sans déduire la cémentation du nom de nuance.",
+    "zh": "在图纸上注明最终性能要求；适用时分别列出芯部与表层要求，不由 10B21 牌号直接指定渗碳工艺。"
+  },
+  "Review the bearing face, usable thread and final coating. Define when treatment-sensitive dimensions are accepted.": {
+    "de": "Auflagefläche, nutzbares Gewinde und Endbeschichtung prüfen. Abnahmestufe für behandlungsempfindliche Maße festlegen.",
+    "es": "Revise cara de apoyo, rosca útil y recubrimiento final. Defina cuándo se aceptan las cotas afectadas por el tratamiento.",
+    "it": "Verificare faccia d’appoggio, filetto utile e rivestimento finale. Definire la fase di accettazione delle quote sensibili al trattamento.",
+    "fr": "Examinez face d’appui, filetage utile et revêtement final. Définissez l’étape de réception des cotes sensibles au traitement.",
+    "zh": "核对承压面、有效螺纹和最终涂层，明确受处理影响的尺寸在哪个阶段验收。"
+  },
+  "Agree material identification, treatment-batch records and final mechanical or hardness checks as applicable to the part.": {
+    "de": "Werkstoffidentifikation, Wärmebehandlungs-Losnachweise und geeignete abschließende Mechanik- oder Härteprüfungen vereinbaren.",
+    "es": "Acuerde identificación de material, registros del lote de tratamiento y comprobaciones finales mecánicas o de dureza aplicables.",
+    "it": "Concordare identificazione del materiale, registri del lotto di trattamento e controlli meccanici o di durezza finali applicabili.",
+    "fr": "Convenez de l’identification matière, des enregistrements du lot de traitement et des contrôles mécaniques ou de dureté finaux applicables.",
+    "zh": "按零件需要约定材料识别、热处理批次记录，以及最终机械性能或硬度检查。"
+  },
+  "A different wire condition, grade or treatment route can change forming and final properties. Review the complete proposal before sample approval.": {
+    "de": "Anderer Drahtzustand, andere Güte oder Behandlung können Umformung und Endeigenschaften ändern. Vollständigen Vorschlag vor Musterfreigabe prüfen.",
+    "es": "Otro estado del alambre, grado o tratamiento puede cambiar la conformación y las propiedades finales. Revise la propuesta completa antes de aprobar muestras.",
+    "it": "Un altro stato del filo, grado o trattamento può cambiare formatura e proprietà finali. Valutare la proposta completa prima dell’approvazione dei campioni.",
+    "fr": "Un autre état du fil, une autre nuance ou un autre traitement peut modifier formage et propriétés finales. Examinez la proposition complète avant approbation des échantillons.",
+    "zh": "线材状态、牌号或处理路线变化，都可能影响成型与最终性能，应在样品批准前评审完整方案。"
+  },
+  "Example: a SUS316 cable feed-through for an outdoor enclosure": {
+    "de": "Beispiel: SUS316-Kabeldurchführung für ein Außengehäuse",
+    "es": "Ejemplo: pasacables SUS316 para una carcasa exterior",
+    "it": "Esempio: passacavo SUS316 per un involucro esterno",
+    "fr": "Exemple : traversée de câble SUS316 pour un boîtier extérieur",
+    "zh": "示例：室外设备外壳使用的 SUS316 走线通孔件"
+  },
+  "Specify the exposure and passage function alongside the grade. Outdoor use alone does not define chloride exposure, cleaning conditions or the mechanical demand on the connection.": {
+    "de": "Umgebung und Durchführungsfunktion neben der Güte spezifizieren. Außeneinsatz allein definiert weder Chloridbelastung noch Reinigung oder mechanische Beanspruchung der Verbindung.",
+    "es": "Especifique exposición y función del paso junto al grado. El uso exterior por sí solo no define cloruros, limpieza ni demanda mecánica de la unión.",
+    "it": "Specificare esposizione e funzione del passaggio insieme al grado. L’uso esterno da solo non definisce cloruri, pulizia o sollecitazione meccanica del collegamento.",
+    "fr": "Spécifiez exposition et fonction du passage avec la nuance. L’usage extérieur ne définit à lui seul ni chlorures, ni nettoyage, ni sollicitation mécanique de l’assemblage.",
+    "zh": "牌号之外，还要说明环境和孔道用途。“室外使用”本身无法说明氯化物暴露、清洗条件或连接的实际受力。"
+  },
+  "SUS316 bar with the governing material standard and supplied condition stated. Identify whether the drawing actually calls for SUS316 or SUS316L.": {
+    "de": "SUS316-Stab mit geltender Werkstoffnorm und Lieferzustand. Klären, ob die Zeichnung tatsächlich SUS316 oder SUS316L fordert.",
+    "es": "Barra SUS316 con norma y estado de suministro indicados. Identifique si el plano exige SUS316 o SUS316L.",
+    "it": "Barra SUS316 con norma e stato di fornitura indicati. Verificare se il disegno richiede SUS316 o SUS316L.",
+    "fr": "Barre SUS316 avec norme matière et état de livraison précisés. Vérifiez si le plan exige SUS316 ou SUS316L.",
+    "zh": "注明 SUS316 棒料采用的材料标准和供货状态，确认图纸要求的是 SUS316 还是 SUS316L。"
+  },
+  "Specify any applicable finished fastener class independently of the stock grade. Check the hollow section and mating connection against the actual load.": {
+    "de": "Eine anwendbare fertige Schraubenklasse unabhängig von der Halbzeugqualität angeben. Hohlquerschnitt und Gegenverbindung gegen die tatsächliche Last prüfen.",
+    "es": "Especifique la clase de tornillo aplicable aparte del grado de la barra. Compruebe sección hueca y unión acoplada frente a la carga real.",
+    "it": "Specificare l’eventuale classe della vite finita indipendentemente dal grado del semilavorato. Verificare sezione cava e collegamento per il carico reale.",
+    "fr": "Spécifiez la classe de fixation applicable indépendamment de la nuance du produit. Vérifiez section creuse et assemblage selon la charge réelle.",
+    "zh": "适用的成品紧固件等级要与棒料牌号分开注明，空心截面和配合连接按实际载荷校核。"
+  },
+  "Define the bore edges, contact with dissimilar metals, cleaning and any passivation. Check usable thread and final passage clearance after processing.": {
+    "de": "Bohrungskanten, Kontakt zu anderen Metallen, Reinigung und gegebenenfalls Passivierung festlegen. Nutzbares Gewinde und freien Durchgang nach der Bearbeitung prüfen.",
+    "es": "Defina aristas del taladro, contacto con otros metales, limpieza y pasivado cuando proceda. Verifique rosca útil y paso libre tras el proceso.",
+    "it": "Definire spigoli del foro, contatto con metalli diversi, pulizia ed eventuale passivazione. Verificare filetto utile e luce del passaggio dopo lavorazione.",
+    "fr": "Définissez arêtes de l’alésage, contact avec d’autres métaux, nettoyage et éventuelle passivation. Vérifiez filetage utile et passage libre après traitement.",
+    "zh": "明确孔口边缘、异种金属接触、清洗及钝化要求，并在加工处理后检查有效牙长和孔道净空。"
+  },
+  "Request the agreed grade/lot record and final checks. Record the specified surface treatment separately from material identity.": {
+    "de": "Vereinbarten Güte-/Losnachweis und Endprüfungen anfordern. Vorgeschriebene Oberflächenbehandlung getrennt von der Werkstoffidentität aufzeichnen.",
+    "es": "Solicite registro de grado/lote y controles finales acordados. Registre el tratamiento superficial especificado aparte de la identidad del material.",
+    "it": "Richiedere registri di grado/lotto e controlli finali concordati. Registrare il trattamento superficiale separatamente dall’identità del materiale.",
+    "fr": "Demandez les documents nuance/lot et contrôles finaux convenus. Consignez le traitement de surface séparément de l’identité matière.",
+    "zh": "约定牌号、批次记录及最终检查，规定的表面处理另行留档，不与材料身份混为一谈。"
+  },
+  "303 favors a different machining/corrosion balance; 304 or 316L needs an application review rather than a name-based substitution.": {
+    "de": "303 setzt einen anderen Schwerpunkt bei Zerspanbarkeit und Korrosion. 304 oder 316L benötigen eine Anwendungsprüfung statt namensbasierter Substitution.",
+    "es": "303 ofrece otro equilibrio entre mecanizado y corrosión; 304 o 316L necesitan revisión de aplicación, no una sustitución por similitud del nombre.",
+    "it": "303 offre un diverso equilibrio tra lavorabilità e corrosione; 304 o 316L richiedono una verifica dell’applicazione, non una sostituzione basata sul nome.",
+    "fr": "303 privilégie un autre compromis usinage/corrosion ; 304 ou 316L nécessitent une revue de l’application, pas une substitution fondée sur le nom.",
+    "zh": "303 对切削效率和耐蚀性的取舍不同；改用 304 或 316L 也应评估应用条件，不能只看名称相近。"
+  },
+  "Example: a 6061-T6511 machined adjustment screw": {
+    "de": "Beispiel: bearbeitete Einstellschraube aus 6061-T6511",
+    "es": "Ejemplo: tornillo de ajuste mecanizado en 6061-T6511",
+    "it": "Esempio: vite di regolazione lavorata in 6061-T6511",
+    "fr": "Exemple : vis de réglage usinée en 6061-T6511",
+    "zh": "示例：6061-T6511 机加工调节螺丝"
+  },
+  "For a lightweight adjuster, carry the stock temper into the specification, then evaluate the thread and bearing interface in the finished assembly.": {
+    "de": "Bei einem leichten Versteller den Halbzeugzustand in die Spezifikation übernehmen und danach Gewinde und Auflage im fertigen Aufbau bewerten.",
+    "es": "En un ajustador ligero, incluya el estado de la barra en la especificación y evalúe después rosca y apoyo en el conjunto terminado.",
+    "it": "Per un regolatore leggero, riportare lo stato del semilavorato nella specifica e poi valutare filetto e appoggio nell’assieme finito.",
+    "fr": "Pour un réglage léger, reportez l’état du produit dans la spécification, puis évaluez filetage et appui dans l’ensemble fini.",
+    "zh": "轻量化调节件应先明确棒料状态，再评估最终装配中的螺纹和承压面。"
+  },
+  "6061-T6511 extruded bar under the agreed product specification. Record the stock size and condition used for the reference properties.": {
+    "de": "Stranggepresster Stab 6061-T6511 nach vereinbarter Produktspezifikation. Abmessung und Zustand der zugrunde gelegten Halbzeuge dokumentieren.",
+    "es": "Barra extruida 6061-T6511 según especificación acordada. Registre el tamaño y estado de la barra usados como base de las propiedades.",
+    "it": "Barra estrusa 6061-T6511 secondo specifica concordata. Registrare dimensioni e stato del semilavorato a cui si riferiscono le proprietà.",
+    "fr": "Barre extrudée 6061-T6511 selon la spécification convenue. Consignez dimensions et état du produit servant de base aux propriétés.",
+    "zh": "采用符合约定产品规范的 6061-T6511 挤压棒料，记录强度参考所对应的棒料尺寸与状态。"
+  },
+  "Distinguish stock tensile data from finished-thread acceptance. Identify engagement, adjustment duty and any required assembly verification.": {
+    "de": "Zugdaten des Halbzeugs von der Gewindeabnahme am Fertigteil trennen. Eingriff, Verstellaufgabe und erforderliche Montageprüfung benennen.",
+    "es": "Distinga datos de tracción de la barra y aceptación del filetado final. Identifique acoplamiento, servicio de ajuste y verificación del montaje requerida.",
+    "it": "Distinguere dati di trazione del semilavorato e accettazione del filetto finito. Identificare impegno, funzione di regolazione e verifiche d’assemblaggio richieste.",
+    "fr": "Distinguez données de traction du produit et réception du filetage fini. Précisez engagement, fonction de réglage et vérification d’assemblage requise.",
+    "zh": "区分棒料抗拉数据与成品螺纹验收，明确旋合长度、调节用途和必要的装配验证。"
+  },
+  "Define anodizing or another specified finish, the affected dimensions and the mating material. Check the usable thread and fit in the final supplied condition.": {
+    "de": "Eloxierung oder anderes Finish, betroffene Maße und Gegenwerkstoff festlegen. Nutzbares Gewinde und Passung im endgültigen Lieferzustand prüfen.",
+    "es": "Defina anodizado u otro acabado, cotas afectadas y material acoplado. Compruebe rosca útil y ajuste en el estado final de suministro.",
+    "it": "Definire anodizzazione o altra finitura, quote interessate e materiale accoppiato. Verificare filetto utile e accoppiamento nello stato finale di fornitura.",
+    "fr": "Définissez anodisation ou autre finition, dimensions affectées et matériau en regard. Vérifiez filetage utile et ajustement dans l’état final de livraison.",
+    "zh": "规定阳极氧化或其他表面处理、受影响尺寸及配合材料，按最终交付状态检查有效螺纹与配合。"
+  },
+  "Retain grade/temper and lot identification; agree dimensional results after finishing and any specified treatment records.": {
+    "de": "Legierung/Zustand und Losidentität erhalten; Maßnachweise nach dem Finish sowie geforderte Behandlungsunterlagen vereinbaren.",
+    "es": "Conserve aleación/estado e identificación de lote; acuerde resultados dimensionales tras el acabado y los registros de tratamiento exigidos.",
+    "it": "Conservare lega/stato e identificazione del lotto; concordare risultati dimensionali dopo finitura ed eventuali documenti del trattamento.",
+    "fr": "Conservez alliage/état et identification du lot ; convenez des résultats dimensionnels après finition et des documents de traitement requis.",
+    "zh": "保留合金、状态与批次标识，约定表面处理后的尺寸结果及所需处理记录。"
+  },
+  "6082 or another temper requires comparison on the same product and condition basis. Do not transfer a T6 reference value to unspecified stock.": {
+    "de": "6082 oder ein anderer Zustand ist auf gleicher Produkt- und Zustandsbasis zu vergleichen. Einen T6-Referenzwert nicht auf unbestimmtes Halbzeug übertragen.",
+    "es": "6082 u otro estado debe compararse sobre la misma base de producto y condición. No traslade un valor T6 a una barra de estado no definido.",
+    "it": "6082 o un altro stato richiedono un confronto sulla stessa base di prodotto e condizione. Non attribuire un valore T6 a materiale non specificato.",
+    "fr": "6082 ou un autre état doit être comparé sur une même base de produit et de condition. Ne transférez pas une valeur T6 à un produit non spécifié.",
+    "zh": "改用 6082 或其他状态时，要按相同产品形态与状态条件比较，不能把 T6 参考值套到状态不明的材料上。"
+  },
+  "Example: a C11000 contact stud with a defined temper": {
+    "de": "Beispiel: Kontaktbolzen aus C11000 mit definiertem Zustand",
+    "es": "Ejemplo: espárrago de contacto C11000 con estado definido",
+    "it": "Esempio: prigioniero di contatto C11000 con stato definito",
+    "fr": "Exemple : goujon de contact C11000 à état défini",
+    "zh": "示例：明确状态的 C11000 电接触螺柱"
+  },
+  "For an electrical contact, review current-path and clamping functions together. The copper designation does not establish contact resistance, tightening behavior or finished connection capacity.": {
+    "de": "Strompfad und Klemmfunktion eines elektrischen Kontakts gemeinsam prüfen. Die Kupferbezeichnung legt weder Kontaktwiderstand noch Anziehverhalten oder Tragfähigkeit der fertigen Verbindung fest.",
+    "es": "En un contacto eléctrico, revise juntos el camino de corriente y el apriete. La designación del cobre no determina resistencia de contacto, comportamiento al apretar ni capacidad de la unión final.",
+    "it": "Per un contatto elettrico, valutare insieme percorso della corrente e serraggio. La sigla del rame non determina resistenza di contatto, comportamento al serraggio o capacità del collegamento finito.",
+    "fr": "Pour un contact électrique, examinez ensemble passage du courant et serrage. La désignation du cuivre ne définit ni résistance de contact, ni comportement au serrage, ni capacité de l’assemblage fini.",
+    "zh": "电接触件要同时考虑电流路径和夹紧功能。铜牌号本身不能说明接触电阻、拧紧表现或最终连接的承载能力。"
+  },
+  "C11000 bar in H02 condition, with the governing product specification and stock size identified. Confirm the condition for the actual supplied form.": {
+    "de": "C11000-Stab im Zustand H02 mit Produktspezifikation und Abmessung. Zustand für die tatsächlich gelieferte Produktform bestätigen.",
+    "es": "Barra C11000 en estado H02 con especificación y tamaño identificados. Confirme el estado para la forma realmente suministrada.",
+    "it": "Barra C11000 in stato H02, con specifica e dimensioni identificate. Confermare lo stato per la forma effettivamente fornita.",
+    "fr": "Barre C11000 à l’état H02, avec spécification et dimensions identifiées. Confirmez l’état pour la forme réellement livrée.",
+    "zh": "采用 H02 状态的 C11000 棒料，注明产品规范和棒料尺寸，并核对实际供货形态对应的状态。"
+  },
+  "State electrical acceptance separately from mechanical requirements. Define the thread, bearing face and installation criteria for the mating assembly.": {
+    "de": "Elektrische Abnahme getrennt von mechanischen Anforderungen festlegen. Gewinde, Auflagefläche und Montagekriterien der Verbindung definieren.",
+    "es": "Separe aceptación eléctrica y requisitos mecánicos. Defina rosca, cara de apoyo y criterios de instalación del conjunto acoplado.",
+    "it": "Specificare l’accettazione elettrica separatamente dai requisiti meccanici. Definire filetto, faccia d’appoggio e criteri d’installazione dell’assieme.",
+    "fr": "Spécifiez la réception électrique séparément des exigences mécaniques. Définissez filetage, face d’appui et critères de montage de l’ensemble.",
+    "zh": "电性能验收与机械要求分别注明，明确螺纹、承压面及配合装配的安装判定要求。"
+  },
+  "Specify the contact coating if required, its contact area and the mating metal. Keep dimensional acceptance linked to the coated or uncoated surfaces actually supplied.": {
+    "de": "Bei Bedarf Kontaktbeschichtung mit Kontaktbereich und Gegenmetall spezifizieren. Maßabnahme auf die tatsächlich gelieferten beschichteten oder unbeschichteten Flächen beziehen.",
+    "es": "Si se requiere, especifique el recubrimiento de contacto, su zona y el metal acoplado. Vincule la aceptación dimensional a las superficies recubiertas o sin recubrir realmente suministradas.",
+    "it": "Specificare eventuale rivestimento di contatto, relativa area e metallo accoppiato. Collegare l’accettazione dimensionale alle superfici rivestite o non rivestite effettivamente fornite.",
+    "fr": "Précisez si nécessaire le revêtement de contact, sa zone et le métal en regard. Liez la réception dimensionnelle aux surfaces revêtues ou non réellement livrées.",
+    "zh": "需要时规定接触涂层、接触区域和配合金属，并按实际交付的镀层面或未镀面确定尺寸验收。"
+  },
+  "Agree material identity, any ordered conductivity evidence, final dimensions and contact-test records when specified.": {
+    "de": "Werkstoffidentität, bestellte Leitfähigkeitsnachweise, Endmaße und gegebenenfalls vorgeschriebene Kontaktprüfungen vereinbaren.",
+    "es": "Acuerde identidad del material, evidencia de conductividad pedida, dimensiones finales y registros de ensayo del contacto cuando se especifiquen.",
+    "it": "Concordare identità del materiale, documenti di conducibilità ordinati, quote finali ed eventuali risultati delle prove di contatto previste.",
+    "fr": "Convenez de l’identité matière, des justificatifs de conductivité commandés, des dimensions finales et des essais de contact si spécifiés.",
+    "zh": "约定材料识别、订单要求的导电性依据、最终尺寸，以及有明确要求时的接触测试记录。"
+  },
+  "C10100 and C12200 have different material specifications. Compare the actual electrical and fabrication requirements before changing grade or temper.": {
+    "de": "C10100 und C12200 haben unterschiedliche Werkstoffspezifikationen. Elektrische und fertigungstechnische Anforderungen vor Güte- oder Zustandswechsel vergleichen.",
+    "es": "C10100 y C12200 tienen especificaciones distintas. Compare los requisitos eléctricos y de fabricación antes de cambiar grado o estado.",
+    "it": "C10100 e C12200 hanno specifiche differenti. Confrontare requisiti elettrici e di fabbricazione prima di cambiare grado o stato.",
+    "fr": "C10100 et C12200 ont des spécifications distinctes. Comparez exigences électriques et de fabrication avant de changer de nuance ou d’état.",
+    "zh": "C10100 与 C12200 采用不同材料规范，变更牌号或状态前，要重新比较电性能和制造要求。"
+  },
+  "Example: a C36000 turned adjustment screw": {
+    "de": "Beispiel: gedrehte Einstellschraube aus C36000",
+    "es": "Ejemplo: tornillo de ajuste torneado en C36000",
+    "it": "Esempio: vite di regolazione tornita in C36000",
+    "fr": "Exemple : vis de réglage décolletée en C36000",
+    "zh": "示例：C36000 车削调节螺丝"
+  },
+  "For an indoor fixture knob, begin with machining and contact requirements, then confirm that the alloy composition is permitted for the intended product and market.": {
+    "de": "Bei einem Vorrichtungsknopf für Innenräume zuerst Zerspanung und Kontakt klären, dann die zulässige Zusammensetzung für Produkt und Zielmarkt bestätigen.",
+    "es": "Para un pomo de útil interior, empiece por mecanizado y contacto; después confirme que la composición está permitida para el producto y mercado previstos.",
+    "it": "Per una manopola di attrezzatura da interno, partire da lavorazione e contatto, poi confermare che la composizione sia ammessa per prodotto e mercato previsti.",
+    "fr": "Pour un bouton d’outillage intérieur, commencez par usinage et contact, puis confirmez la composition autorisée pour le produit et le marché visés.",
+    "zh": "室内工装旋钮先考虑车削与接触要求，再确认该合金成分符合目标产品和市场的要求。"
+  },
+  "C36000 bar in H02 condition under the agreed product specification. Identify any customer composition restrictions before selecting the stock.": {
+    "de": "C36000-Stab im Zustand H02 nach vereinbarter Produktspezifikation. Zusammensetzungsbeschränkungen des Kunden vor der Halbzeugwahl benennen.",
+    "es": "Barra C36000 en estado H02 según la especificación acordada. Identifique restricciones de composición del cliente antes de elegir el material.",
+    "it": "Barra C36000 in stato H02 secondo specifica concordata. Identificare i limiti di composizione del cliente prima di scegliere il semilavorato.",
+    "fr": "Barre C36000 à l’état H02 selon la spécification convenue. Identifiez les restrictions de composition du client avant le choix du produit.",
+    "zh": "采用符合约定产品规范、H02 状态的 C36000 棒料；选料前先明确客户对成分的限制。"
+  },
+  "Specify usable thread, adjustment duty and required mechanical acceptance. A typical rod value is not a finished screw rating.": {
+    "de": "Nutzbares Gewinde, Verstellaufgabe und mechanische Abnahme festlegen. Ein typischer Stabwert ist keine Festigkeitszusage für die fertige Schraube.",
+    "es": "Especifique rosca útil, servicio de ajuste y aceptación mecánica. Un valor típico de barra no es una clasificación del tornillo terminado.",
+    "it": "Specificare filetto utile, funzione di regolazione e accettazione meccanica. Un valore tipico della barra non definisce la capacità della vite finita.",
+    "fr": "Spécifiez filetage utile, fonction de réglage et réception mécanique. Une valeur typique de barre n’est pas une capacité garantie de la vis finie.",
+    "zh": "规定有效螺纹、调节用途与机械验收要求，棒料典型值不能直接当作成品螺丝的性能等级。"
+  },
+  "Define knurling, contact face and any plating or appearance requirements. Review repeated adjustment against the actual mating material.": {
+    "de": "Rändelung, Kontaktfläche sowie Beschichtungs- oder Aussehensanforderungen festlegen. Wiederholte Verstellung mit dem tatsächlichen Gegenwerkstoff prüfen.",
+    "es": "Defina moleteado, cara de contacto y requisitos de recubrimiento o aspecto. Revise el ajuste repetido con el material acoplado real.",
+    "it": "Definire godronatura, faccia di contatto e requisiti di rivestimento o aspetto. Valutare regolazioni ripetute con il materiale accoppiato reale.",
+    "fr": "Définissez moletage, face de contact et exigences de revêtement ou d’aspect. Examinez les réglages répétés avec le matériau réel en regard.",
+    "zh": "明确滚花、接触端面、镀层或外观要求，并结合实际配合材料评估反复调整。"
+  },
+  "Agree grade/lot identification and composition evidence where required, together with final dimensions and the specified finish records.": {
+    "de": "Güte-/Losidentifikation und gegebenenfalls Zusammensetzungsnachweise sowie Endmaße und geforderte Oberflächenunterlagen vereinbaren.",
+    "es": "Acuerde identificación de grado/lote y evidencia de composición cuando se requiera, junto con dimensiones finales y registros del acabado especificado.",
+    "it": "Concordare identificazione di grado/lotto ed eventuali documenti di composizione, insieme a quote finali e registrazioni della finitura prevista.",
+    "fr": "Convenez de l’identification nuance/lot et des justificatifs de composition si requis, avec dimensions finales et documents de finition spécifiés.",
+    "zh": "约定牌号与批次识别，需要时提供成分依据，同时保留最终尺寸和规定表面处理的记录。"
+  },
+  "C26000 changes the processing basis. A low-lead or lead-free alternative needs an exact alloy designation, not only a marketing description.": {
+    "de": "C26000 verändert die Verarbeitungsgrundlage. Eine bleiarme oder bleifreie Alternative benötigt eine genaue Legierungsbezeichnung, nicht nur eine Werbeaussage.",
+    "es": "C26000 cambia la base de procesamiento. Una alternativa de bajo plomo o sin plomo necesita una aleación exacta, no solo una descripción comercial.",
+    "it": "C26000 cambia la base di lavorazione. Un’alternativa a basso piombo o senza piombo richiede una sigla precisa, non una sola descrizione commerciale.",
+    "fr": "C26000 modifie la base de transformation. Une alternative à faible teneur en plomb ou sans plomb exige une désignation exacte, pas seulement une appellation commerciale.",
+    "zh": "改用 C26000 会改变加工评估依据。低铅或无铅替代料必须给出具体牌号，不能只用宣传性名称。"
+  },
+  "Example: an annealed Grade 5 precision shoulder": {
+    "de": "Beispiel: Präzisionsschulter aus geglühtem Grade 5",
+    "es": "Ejemplo: hombro de precisión en Grade 5 recocido",
+    "it": "Esempio: spallamento di precisione in Grade 5 ricotto",
+    "fr": "Exemple : épaulement de précision en Grade 5 recuit",
+    "zh": "示例：退火状态 Grade 5 精密肩轴"
+  },
+  "For a mass-sensitive assembly with specified mechanical requirements, compare titanium grades on their actual condition and product specification before defining the final joint checks.": {
+    "de": "Bei einer gewichtssensitiven Baugruppe mit mechanischen Vorgaben Titangüten nach tatsächlichem Zustand und Produktspezifikation vergleichen, bevor die Endprüfungen festgelegt werden.",
+    "es": "En un conjunto sensible a la masa con requisitos mecánicos, compare grados de titanio según estado y especificación reales antes de definir los controles finales de la unión.",
+    "it": "Per un assieme sensibile alla massa con requisiti meccanici, confrontare i gradi di titanio su stato e specifica reali prima di definire i controlli finali del giunto.",
+    "fr": "Pour un ensemble sensible à la masse avec exigences mécaniques, comparez les grades de titane selon leur état et spécification réels avant de définir les contrôles finaux.",
+    "zh": "对有明确机械要求的轻量化装配，先按实际状态和产品规范比较钛牌号，再确定连接的最终验收。"
+  },
+  "Grade 5 Ti-6Al-4V bar in the agreed annealed condition, with product specification, stock size and lot identity recorded.": {
+    "de": "Stab Grade 5 Ti-6Al-4V im vereinbarten geglühten Zustand; Produktspezifikation, Abmessung und Losidentität dokumentieren.",
+    "es": "Barra Grade 5 Ti-6Al-4V en el estado recocido acordado, con especificación, tamaño e identidad de lote registrados.",
+    "it": "Barra Grade 5 Ti-6Al-4V nello stato ricotto concordato, con specifica, dimensioni e identità del lotto registrate.",
+    "fr": "Barre Grade 5 Ti-6Al-4V dans l’état recuit convenu, avec spécification, dimensions et identité du lot enregistrées.",
+    "zh": "采用约定退火状态的 Grade 5 Ti-6Al-4V 棒料，记录产品规范、棒料尺寸与批次标识。"
+  },
+  "Define the finished mechanical and geometric requirements separately. Stock material properties do not establish the strength of a reduced shank or threaded connection.": {
+    "de": "Mechanische und geometrische Endanforderungen getrennt definieren. Halbzeugeigenschaften belegen nicht die Festigkeit eines reduzierten Schafts oder Gewindeanschlusses.",
+    "es": "Defina por separado requisitos mecánicos y geométricos finales. Las propiedades de la barra no establecen la resistencia de un vástago reducido o de la conexión roscada.",
+    "it": "Definire separatamente requisiti meccanici e geometrici finali. Le proprietà del semilavorato non determinano la resistenza di un gambo ridotto o di un collegamento filettato.",
+    "fr": "Définissez séparément exigences mécaniques et géométriques finales. Les propriétés du produit ne déterminent pas la résistance d’une tige réduite ou d’un assemblage fileté.",
+    "zh": "最终机械要求与几何要求分别定义，棒料性能不能直接代表缩杆或螺纹连接的强度。"
+  },
+  "Specify shoulder fit, thread engagement, mating metals and the agreed surface or lubrication system. Include galling and service access in the assembly review.": {
+    "de": "Schulterpassung, Gewindeeingriff, Gegenmetalle und vereinbarte Oberflächen- oder Schmierungslösung festlegen. Fressneigung und Wartungszugang in der Montagebewertung berücksichtigen.",
+    "es": "Especifique ajuste del hombro, acoplamiento de rosca, metales unidos y sistema superficial o de lubricación acordado. Incluya gripado y acceso de mantenimiento en la revisión del conjunto.",
+    "it": "Specificare accoppiamento dello spallamento, impegno del filetto, metalli accoppiati e sistema superficiale o di lubrificazione concordato. Includere grippaggio e accesso di manutenzione nella revisione dell’assieme.",
+    "fr": "Spécifiez ajustement de l’épaulement, engagement du filetage, métaux en regard et système de surface ou de lubrification convenu. Incluez grippage et accès de maintenance dans la revue.",
+    "zh": "规定肩轴配合、旋合长度、配合金属，以及约定的表面或润滑体系；装配评审同时考虑咬合和维护空间。"
+  },
+  "Agree material and condition records, traceability and the required finished-part checks; specify any application qualification separately.": {
+    "de": "Werkstoff-/Zustandsnachweise, Rückverfolgbarkeit und erforderliche Fertigteilprüfungen vereinbaren; Anwendungsqualifikation separat festlegen.",
+    "es": "Acuerde registros de material y estado, trazabilidad y controles finales requeridos; especifique aparte cualquier cualificación de la aplicación.",
+    "it": "Concordare documenti di materiale e stato, tracciabilità e controlli finali richiesti; specificare separatamente eventuali qualifiche dell’applicazione.",
+    "fr": "Convenez des documents matière/état, de la traçabilité et des contrôles finaux requis ; précisez séparément toute qualification de l’application.",
+    "zh": "约定材料、状态、追溯和成品检查记录；应用本身要求的资格或验证另行注明。"
+  },
+  "Grade 2 is commercially pure titanium; Grade 23 ELI has a distinct specification. Neither is an automatic substitute for the approved Grade 5 requirement.": {
+    "de": "Grade 2 ist technisch reines Titan; Grade 23 ELI hat eine eigene Spezifikation. Beide ersetzen die freigegebene Grade-5-Anforderung nicht automatisch.",
+    "es": "Grade 2 es titanio comercialmente puro; Grade 23 ELI tiene una especificación distinta. Ninguno sustituye automáticamente al Grade 5 aprobado.",
+    "it": "Grade 2 è titanio commercialmente puro; Grade 23 ELI ha una specifica distinta. Nessuno sostituisce automaticamente il requisito Grade 5 approvato.",
+    "fr": "Grade 2 est du titane commercialement pur ; Grade 23 ELI a une spécification distincte. Aucun ne remplace automatiquement le Grade 5 approuvé.",
+    "zh": "Grade 2 属于工业纯钛，Grade 23 ELI 则有独立规范，二者都不能自动替代已经批准的 Grade 5 要求。"
+  }
+}
