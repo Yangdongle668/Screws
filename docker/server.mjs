@@ -109,7 +109,7 @@ const server=http.createServer(async(incoming,outgoing)=>{
   const target=new URL(incoming.url,origin);if(target.origin!==origin.origin)throw Error('Bad request origin');
   const headers=new Headers();for(const [name,value]of Object.entries(incoming.headers)){if(value&&!/^(oai-|cf-|x-forwarded-|x-real-ip|host|connection|transfer-encoding)/i.test(name))headers.set(name,Array.isArray(value)?value.join(','):value);}
   const ip=process.env.TRUST_PROXY==='1'?String(incoming.headers['x-forwarded-for']||incoming.socket.remoteAddress).split(',').at(-1).trim():incoming.socket.remoteAddress||'unknown';headers.set('CF-Connecting-IP',ip);headers.set('CF-IPCountry',countryForIP(ip));
-  const limit=target.pathname==='/api/inquiries'?11*1024*1024:target.pathname.includes('login')?4096:target.pathname==='/api/analytics'?4096:200000;
+  const limit=target.pathname==='/api/inquiries'?11*1024*1024:target.pathname.includes('login')?4096:target.pathname==='/api/analytics'?4096:target.pathname.startsWith('/api/admin/')?64*1024*1024:200000;
   let length=0;const chunks=[];for await(const chunk of incoming){length+=chunk.length;if(length>limit){outgoing.writeHead(413);outgoing.end('Request too large');return;}chunks.push(chunk);}
   const request=new Request(target,{method:incoming.method,headers,...(!['GET','HEAD'].includes(incoming.method)?{body:Buffer.concat(chunks)}:{})});
   let response=await handle(request,ip);
