@@ -1,0 +1,173 @@
+{
+  "scope": "Local browser DOM layout checks; not PageSpeed, CrUX, indexing or ranking results.",
+  "views": [
+    {
+      "documentWidth": 345,
+      "hasDecision": false,
+      "jump": null,
+      "path": "/zh/",
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "documentWidth": 345,
+      "hasDecision": true,
+      "jump": "Calculate the shoulder clearance from both tolerance limits ↓",
+      "path": "/products/shoulder-screws/",
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "documentWidth": 345,
+      "hasDecision": true,
+      "jump": "Especificar el paso interior, además del exterior del tornillo ↓",
+      "path": "/es/products/hollow-screws/",
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "documentWidth": 345,
+      "hasDecision": true,
+      "jump": "Tradurre la scelta del materiale in requisiti d’ordine ↓",
+      "path": "/it/materials/stainless-steel-304-316/",
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "documentWidth": 345,
+      "hasDecision": true,
+      "jump": "Einmalkosten und laufende Stückkosten getrennt vergleichen ↓",
+      "path": "/de/capabilities/hybrid-manufacturing/",
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "documentWidth": 345,
+      "hasDecision": true,
+      "jump": "Commencer la demande automobile par l’assemblage réel ↓",
+      "path": "/fr/industries/automotive-components/",
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "documentWidth": 345,
+      "hasDecision": true,
+      "jump": "一份检验记录应让客户核对哪些内容 ↓",
+      "path": "/zh/quality/",
+      "scrollWidth": 345,
+      "width": 360
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": false,
+      "jump": null,
+      "path": "/zh/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": true,
+      "jump": "Calculate the shoulder clearance from both tolerance limits ↓",
+      "path": "/products/shoulder-screws/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": true,
+      "jump": "Especificar el paso interior, además del exterior del tornillo ↓",
+      "path": "/es/products/hollow-screws/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": true,
+      "jump": "Tradurre la scelta del materiale in requisiti d’ordine ↓",
+      "path": "/it/materials/stainless-steel-304-316/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": true,
+      "jump": "Einmalkosten und laufende Stückkosten getrennt vergleichen ↓",
+      "path": "/de/capabilities/hybrid-manufacturing/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": true,
+      "jump": "Commencer la demande automobile par l’assemblage réel ↓",
+      "path": "/fr/industries/automotive-components/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": true,
+      "jump": "一份检验记录应让客户核对哪些内容 ↓",
+      "path": "/zh/quality/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 753,
+      "hasDecision": false,
+      "jump": null,
+      "path": "/zh/",
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "documentWidth": 1425,
+      "hasDecision": true,
+      "jump": "Calculate the shoulder clearance from both tolerance limits ↓",
+      "path": "/products/shoulder-screws/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "documentWidth": 1425,
+      "hasDecision": true,
+      "jump": "Especificar el paso interior, además del exterior del tornillo ↓",
+      "path": "/es/products/hollow-screws/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "documentWidth": 1425,
+      "hasDecision": true,
+      "jump": "Tradurre la scelta del materiale in requisiti d’ordine ↓",
+      "path": "/it/materials/stainless-steel-304-316/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "documentWidth": 1425,
+      "hasDecision": true,
+      "jump": "Einmalkosten und laufende Stückkosten getrennt vergleichen ↓",
+      "path": "/de/capabilities/hybrid-manufacturing/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "documentWidth": 1425,
+      "hasDecision": true,
+      "jump": "Commencer la demande automobile par l’assemblage réel ↓",
+      "path": "/fr/industries/automotive-components/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "documentWidth": 1425,
+      "hasDecision": true,
+      "jump": "一份检验记录应让客户核对哪些内容 ↓",
+      "path": "/zh/quality/",
+      "scrollWidth": 1425,
+      "width": 1440
+    }
+  ]
+}

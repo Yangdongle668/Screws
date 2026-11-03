@@ -1,0 +1,1248 @@
+{
+  "Worked example — illustrative inputs, not a released design or measured result.": {
+    "de": "Rechenbeispiel — illustrative Annahmen, keine freigegebene Konstruktion oder Messwerte.",
+    "es": "Ejemplo resuelto: datos ilustrativos, no un diseño aprobado ni resultados medidos.",
+    "it": "Esempio di calcolo: dati illustrativi, non un progetto approvato né risultati misurati.",
+    "zh": "计算示例：采用假设条件，不是已批准的设计或实测结果。",
+    "fr": "Exemple de calcul : données illustratives, ni conception approuvée ni résultats mesurés."
+  },
+  "Calculate the shoulder clearance from both tolerance limits": {
+    "de": "Axialspiel aus beiden Toleranzgrenzen berechnen",
+    "es": "Calcular el juego axial con ambos extremos de tolerancia",
+    "it": "Calcolare il gioco assiale ai due estremi di tolleranza",
+    "zh": "用尺寸上下限计算台阶螺丝的轴向间隙",
+    "fr": "Calculer le jeu axial aux deux limites de tolérance"
+  },
+  "For a moving plate, shoulder length must be compared with the complete stack between the seating faces. Include the washer, bushing and plate in that stack; overall screw length does not determine movement clearance.": {
+    "de": "Bei einer beweglichen Platte ist die Schulterlänge mit dem gesamten Bauteilstapel zwischen den Anlageflächen zu vergleichen. Scheibe, Buchse und Platte gehören dazu; die Gesamtlänge der Schraube bestimmt das Bewegungsspiel nicht.",
+    "es": "En una placa móvil, compare la longitud del hombro con todo el conjunto entre las caras de apoyo. Incluya arandela, casquillo y placa; la longitud total del tornillo no determina el juego.",
+    "it": "Per una piastra mobile, confrontare la lunghezza dello spallamento con l’intero pacco fra le superfici di appoggio. Includere rondella, boccola e piastra: la lunghezza totale della vite non determina il gioco.",
+    "zh": "对于需要转动或移动的板件，应将台阶长度与两个支承面之间的完整叠厚比较。垫片、衬套和板件都要计入；螺丝总长不能直接决定运动间隙。",
+    "fr": "Pour une plaque mobile, comparer la longueur de l’épaulement à l’empilage complet entre les faces d’appui. Inclure rondelle, bague et plaque : la longueur totale de la vis ne détermine pas le jeu."
+  },
+  "Assume a shoulder length L of 8.20 ± 0.03 mm and a complete moving stack S of 8.00 ± 0.05 mm. The illustrative required axial clearance is 0.10–0.30 mm. Both dimensions refer to the final supplied condition.": {
+    "de": "Angenommen werden L = 8.20 ± 0.03 mm Schulterlänge und S = 8.00 ± 0.05 mm Gesamtstapelhöhe. Das beispielhafte geforderte Axialspiel beträgt 0.10–0.30 mm. Beide Maße gelten für den endgültigen Lieferzustand.",
+    "es": "Suponga una longitud de hombro L de 8.20 ± 0.03 mm y un espesor total S de 8.00 ± 0.05 mm. El juego axial requerido en el ejemplo es 0.10–0.30 mm. Ambas cotas corresponden al estado final de suministro.",
+    "it": "Si assumano uno spallamento L di 8.20 ± 0.03 mm e un pacco completo S di 8.00 ± 0.05 mm. Il gioco assiale richiesto nell’esempio è 0.10–0.30 mm. Entrambe le quote si riferiscono allo stato finale di fornitura.",
+    "zh": "假设台阶长度 L 为 8.20 ± 0.03 mm，运动件及附件的完整叠厚 S 为 8.00 ± 0.05 mm，示例要求的轴向间隙为 0.10–0.30 mm。两项尺寸均按最终交付状态验收。",
+    "fr": "Supposons une longueur d’épaulement L de 8.20 ± 0.03 mm et un empilage complet S de 8.00 ± 0.05 mm. Le jeu axial demandé dans cet exemple est de 0.10–0.30 mm. Les deux cotes concernent l’état final livré."
+  },
+  "Minimum clearance: shortest shoulder minus thickest stack": {
+    "de": "Kleinstes Spiel: kürzeste Schulter minus größter Stapel",
+    "es": "Juego mínimo: hombro más corto menos conjunto más grueso",
+    "it": "Gioco minimo: spallamento minimo meno pacco massimo",
+    "zh": "最小间隙：最短台阶减去最大叠厚",
+    "fr": "Jeu minimal : épaulement le plus court moins empilage maximal"
+  },
+  "Maximum clearance: longest shoulder minus thinnest stack": {
+    "de": "Größtes Spiel: längste Schulter minus kleinster Stapel",
+    "es": "Juego máximo: hombro más largo menos conjunto más delgado",
+    "it": "Gioco massimo: spallamento massimo meno pacco minimo",
+    "zh": "最大间隙：最长台阶减去最小叠厚",
+    "fr": "Jeu maximal : épaulement le plus long moins empilage minimal"
+  },
+  "The calculated 0.12–0.28 mm interval lies inside the illustrative requirement. That answers this axial-clearance question only: separately check shoulder-to-bore fit, transition clearance, thread engagement and the effect of the actual assembly and service conditions.": {
+    "de": "Das berechnete Intervall von 0.12–0.28 mm liegt innerhalb der beispielhaften Vorgabe. Damit ist nur diese Axialspielfrage beantwortet. Schulter-Bohrungs-Passung, Übergangsfreiraum, Gewindeeingriff sowie Montage- und Betriebsbedingungen sind gesondert zu prüfen.",
+    "es": "El intervalo calculado de 0.12–0.28 mm cumple la condición ilustrativa. Solo resuelve el juego axial: revise por separado el ajuste hombro-taladro, la transición, el engrane de rosca y las condiciones reales de montaje y servicio.",
+    "it": "L’intervallo calcolato di 0.12–0.28 mm rientra nel requisito dell’esempio. Risolve soltanto il gioco assiale: verificare separatamente accoppiamento spallamento-foro, transizione, impegno della filettatura e condizioni effettive di montaggio ed esercizio.",
+    "zh": "计算所得的 0.12–0.28 mm 落在示例要求范围内。这只说明该轴向间隙计算满足假设条件；台阶与配合孔的间隙、过渡处避空、有效旋合长度，以及实际装配和使用条件仍需分别核对。",
+    "fr": "L’intervalle calculé de 0.12–0.28 mm respecte l’exigence illustrative. Il ne répond qu’à la question du jeu axial : vérifier séparément l’ajustement épaulement-alésage, le dégagement de transition, l’engagement du filetage et les conditions réelles de montage et de service."
+  },
+  "Shoulder length and moving-stack clearance schematic": {
+    "de": "Prinzipskizze zu Schulterlänge und Axialspiel",
+    "es": "Esquema de longitud del hombro y juego del conjunto móvil",
+    "it": "Schema della lunghezza dello spallamento e del gioco del pacco mobile",
+    "zh": "台阶长度、运动件叠厚与轴向间隙示意图",
+    "fr": "Schéma de longueur d’épaulement et de jeu de l’empilage mobile"
+  },
+  "Shoulder L": {
+    "de": "Schulter L",
+    "es": "Hombro L",
+    "it": "Spallamento L",
+    "zh": "台阶长度 L",
+    "fr": "Épaulement L"
+  },
+  "Moving stack S": {
+    "de": "Beweglicher Stapel S",
+    "es": "Conjunto móvil S",
+    "it": "Pacco mobile S",
+    "zh": "运动件叠厚 S",
+    "fr": "Empilage mobile S"
+  },
+  "Clearance L − S": {
+    "de": "Spiel L − S",
+    "es": "Juego L − S",
+    "it": "Gioco L − S",
+    "zh": "间隙 L − S",
+    "fr": "Jeu L − S"
+  },
+  "Use the drawing checklist to record both interfaces": {
+    "de": "Beide Schnittstellen mit der Zeichnungscheckliste erfassen",
+    "es": "Documentar ambas interfaces con la lista del plano",
+    "it": "Registrare entrambe le interfacce nella lista di controllo del disegno",
+    "zh": "按图纸检查清单记录台阶与螺纹两处配合",
+    "fr": "Documenter les deux interfaces avec la liste de contrôle du plan"
+  },
+  "Specify the passage, not just the outside screw": {
+    "de": "Den Durchgang spezifizieren, nicht nur die äußere Schraube",
+    "es": "Especificar el paso interior, además del exterior del tornillo",
+    "it": "Specificare il passaggio interno, non solo l’esterno della vite",
+    "zh": "中空螺丝不仅要确定外形，还要明确孔道用途",
+    "fr": "Définir le passage intérieur, pas seulement l’extérieur de la vis"
+  },
+  "A cable feed-through, an air passage and a pressure-retaining connection need different acceptance checks even when the outside screw looks identical. State what passes through the bore and which surfaces perform the sealing or locating function.": {
+    "de": "Kabeldurchführung, Luftkanal und druckhaltende Verbindung brauchen unterschiedliche Abnahmeprüfungen, auch bei gleicher Außenkontur. Geben Sie an, was die Bohrung durchläuft und welche Flächen abdichten oder positionieren.",
+    "es": "Un pasacables, un conducto de aire y una conexión sometida a presión necesitan controles distintos, aunque el exterior sea idéntico. Indique qué atraviesa el taladro y qué superficies sellan o posicionan.",
+    "it": "Un passacavo, un condotto d’aria e un raccordo in pressione richiedono verifiche diverse anche con lo stesso profilo esterno. Specificare cosa attraversa il foro e quali superfici assicurano tenuta o posizionamento.",
+    "zh": "走线孔、气流通道和承压连接即使外形相同，验收项目也不一样。应说明孔内通过什么，以及哪些表面承担密封或定位作用。",
+    "fr": "Un passage de câble, un conduit d’air et un raccord sous pression nécessitent des contrôles différents, même avec un extérieur identique. Préciser ce qui traverse l’alésage et quelles surfaces assurent l’étanchéité ou le positionnement."
+  },
+  "Cable or tube feed-through": {
+    "de": "Kabel- oder Schlauchdurchführung",
+    "es": "Paso de cable o tubo",
+    "it": "Passaggio di cavo o tubo",
+    "zh": "线束或管路穿过",
+    "fr": "Passage de câble ou de tube"
+  },
+  "Minimum clear bore, entry/exit edge condition and the route through the installed part.": {
+    "de": "Lichter Mindestdurchmesser, Ein- und Austrittskanten und Durchgang im eingebauten Zustand.",
+    "es": "Diámetro libre mínimo, bordes de entrada y salida, y recorrido con la pieza instalada.",
+    "it": "Diametro libero minimo, bordi di ingresso e uscita e percorso nella parte montata.",
+    "zh": "最小通孔尺寸、进出口边缘状态，以及装配后的实际通行路径。",
+    "fr": "Diamètre libre minimal, état des arêtes d’entrée et de sortie, passage après montage."
+  },
+  "Check passage with a suitable gauge or representative item; inspect both edges and intersections for damaging burrs.": {
+    "de": "Durchgängigkeit mit geeignetem Prüfdorn oder repräsentativem Gegenstand prüfen; beide Kanten und Bohrungsverschneidungen auf schädliche Grate kontrollieren.",
+    "es": "Compruebe el paso con un calibre adecuado o elemento representativo; inspeccione ambos bordes y los cruces para detectar rebabas dañinas.",
+    "it": "Verificare il passaggio con un calibro idoneo o un elemento rappresentativo; controllare bordi e intersezioni per individuare bave dannose.",
+    "zh": "用适用的量规或代表性实物检查通行情况，并检查两端及交叉孔处是否有可能划伤线束或管路的毛刺。",
+    "fr": "Vérifier le passage avec un calibre adapté ou un élément représentatif ; contrôler les arêtes et intersections pour détecter les bavures dommageables."
+  },
+  "Flow passage": {
+    "de": "Strömungskanal",
+    "es": "Conducto de flujo",
+    "it": "Condotto di flusso",
+    "zh": "流体通道",
+    "fr": "Passage de fluide"
+  },
+  "Bore size and length, intersecting holes, cleanliness and any specified flow requirement.": {
+    "de": "Bohrungsdurchmesser und -länge, Querbohrungen, Sauberkeit und gegebenenfalls geforderter Durchfluss.",
+    "es": "Diámetro y longitud del taladro, cruces, limpieza y caudal exigido, si procede.",
+    "it": "Diametro e lunghezza del foro, intersezioni, pulizia ed eventuale portata richiesta.",
+    "zh": "孔径、孔长、交叉孔、清洁度，以及需要约定的流量要求。",
+    "fr": "Diamètre et longueur d’alésage, intersections, propreté et débit éventuel à respecter."
+  },
+  "Check the accessible bore geometry; use a separate agreed cleanliness or flow test when required.": {
+    "de": "Zugängliche Bohrungsgeometrie prüfen; bei Bedarf eine gesondert vereinbarte Sauberkeits- oder Durchflussprüfung durchführen.",
+    "es": "Compruebe la geometría accesible; acuerde una prueba específica de limpieza o caudal cuando sea necesaria.",
+    "it": "Verificare la geometria accessibile; concordare separatamente una prova di pulizia o portata quando necessaria.",
+    "zh": "检查能够测量的内孔尺寸；有清洁度或流量要求时，另行约定相应试验。",
+    "fr": "Contrôler la géométrie accessible ; prévoir un essai de propreté ou de débit distinct lorsque nécessaire."
+  },
+  "Sealed connection": {
+    "de": "Dichtende Verbindung",
+    "es": "Conexión estanca",
+    "it": "Collegamento a tenuta",
+    "zh": "密封连接",
+    "fr": "Raccord étanche"
+  },
+  "Medium, pressure/temperature conditions, sealing interface and approved test criteria.": {
+    "de": "Medium, Druck- und Temperaturbedingungen, Dichtschnittstelle und freigegebene Prüfkriterien.",
+    "es": "Medio, presión y temperatura, interfaz de sellado y criterios de ensayo aprobados.",
+    "it": "Fluido, pressione e temperatura, interfaccia di tenuta e criteri di prova approvati.",
+    "zh": "介质、压力与温度条件、密封部位，以及批准的试验要求。",
+    "fr": "Fluide, conditions de pression et de température, interface d’étanchéité et critères d’essai approuvés."
+  },
+  "Verify sealing geometry and the specified test separately; a through-hole or camera image does not establish pressure suitability.": {
+    "de": "Dichtgeometrie und vorgeschriebene Prüfung getrennt nachweisen; Durchgangsbohrung oder Kamerabild belegen keine Druckeignung.",
+    "es": "Verifique por separado geometría de sellado y ensayo especificado; un taladro pasante o una imagen no demuestran aptitud para presión.",
+    "it": "Verificare separatamente geometria di tenuta e prova prescritta: un foro passante o un’immagine non attestano l’idoneità alla pressione.",
+    "zh": "分别验证密封结构和规定试验；仅有通孔或相机图像不能证明其适用于承压工况。",
+    "fr": "Vérifier séparément la géométrie d’étanchéité et l’essai prescrit ; un trou débouchant ou une image ne démontrent pas l’aptitude à la pression."
+  },
+  "Review the smallest remaining wall at the thread root and at intersecting holes. Plan how drilling burrs can be removed and checked before a later operation hides them. For internal surfaces, agree a suitable access or inspection method instead of treating external CCD screening as complete bore inspection.": {
+    "de": "Prüfen Sie die kleinste Restwand an Gewindegrund und Querbohrungen. Planen Sie Gratentfernung und -kontrolle, bevor ein Folgeschritt den Zugang verdeckt. Vereinbaren Sie für Innenflächen eine geeignete Zugangs- oder Prüfmethode; äußere CCD-Prüfung ist keine vollständige Bohrungsprüfung.",
+    "es": "Revise el espesor mínimo restante en la raíz de la rosca y en los cruces. Planifique cómo eliminar y comprobar rebabas antes de que otra operación oculte el acceso. Para superficies interiores, acuerde un método adecuado; el control CCD exterior no inspecciona por completo el taladro.",
+    "it": "Verificare la parete residua minima al fondo del filetto e nelle intersezioni. Pianificare rimozione e controllo delle bave prima che un’operazione successiva nasconda l’accesso. Per le superfici interne concordare un metodo adatto: il controllo CCD esterno non costituisce un’ispezione completa del foro.",
+    "zh": "需要核对螺纹牙底和交叉孔处的最小剩余壁厚，并在后续工序遮挡检查位置之前安排去毛刺和复检。内孔表面应约定可进入的检查方式；外轮廓 CCD 检测不能替代完整的内孔检查。",
+    "fr": "Vérifier la paroi résiduelle minimale au fond du filet et aux intersections. Prévoir l’ébavurage et son contrôle avant qu’une opération ultérieure ne masque l’accès. Pour les surfaces internes, convenir d’une méthode adaptée : le contrôle CCD extérieur n’inspecte pas l’intégralité de l’alésage."
+  },
+  "Connect bore finishing, cleaning and inspection": {
+    "de": "Bohrungsnacharbeit, Reinigung und Prüfung abstimmen",
+    "es": "Coordinar acabado interior, limpieza e inspección",
+    "it": "Coordinare finitura interna, pulizia e controllo",
+    "zh": "衔接内孔精加工、清洗和检验",
+    "fr": "Coordonner finition intérieure, nettoyage et contrôle"
+  },
+  "Turn the material shortlist into an order requirement": {
+    "de": "Aus der Werkstoffauswahl eine Bestellvorgabe machen",
+    "es": "Convertir la selección de material en requisitos de pedido",
+    "it": "Tradurre la scelta del materiale in requisiti d’ordine",
+    "zh": "把材料选型落实到可执行的订货要求",
+    "fr": "Transformer le choix du matériau en exigences de commande"
+  },
+  "Choose the grade for the environment, then specify the finished-part requirement. A free-machining knob, a general enclosure screw and a chloride-exposed connection do not justify the same material substitution.": {
+    "de": "Wählen Sie die Sorte nach der Umgebung und legen Sie anschließend die Fertigteilanforderung fest. Ein gut zerspanbarer Einstellknopf, eine Gehäuseschraube und eine chloridbelastete Verbindung rechtfertigen nicht denselben Werkstoffaustausch.",
+    "es": "Elija el grado según el entorno y después defina el requisito de la pieza terminada. Un pomo mecanizado, un tornillo de carcasa y una unión expuesta a cloruros no admiten las mismas sustituciones.",
+    "it": "Scegliere il grado in base all’ambiente, poi definire i requisiti del pezzo finito. Una manopola tornita, una vite per carter e un collegamento esposto a cloruri non giustificano le stesse sostituzioni.",
+    "zh": "先根据环境选择牌号，再明确成品要求。便于切削的调节旋钮、普通外壳螺丝和接触氯化物的连接件，不能采用同一套材料替代逻辑。",
+    "fr": "Choisir la nuance selon l’environnement, puis définir les exigences de la pièce finie. Un bouton usiné, une vis de capot et un assemblage exposé aux chlorures ne justifient pas les mêmes substitutions."
+  },
+  "Machined adjustment knob": {
+    "de": "Gedrehter Einstellknopf",
+    "es": "Pomo de ajuste mecanizado",
+    "it": "Manopola di regolazione lavorata",
+    "zh": "车削调节旋钮",
+    "fr": "Bouton de réglage usiné"
+  },
+  "Review 303 where machining productivity matters and the exposure permits it.": {
+    "de": "303 prüfen, wenn Zerspanbarkeit wichtig ist und die Umgebung dies zulässt.",
+    "es": "Valore 303 si importa la productividad de mecanizado y el entorno lo permite.",
+    "it": "Valutare 303 quando conta la produttività di lavorazione e l’ambiente lo consente.",
+    "zh": "重视切削效率，且使用环境允许时，可评估 303。",
+    "fr": "Envisager le 303 lorsque la productivité d’usinage compte et que l’exposition le permet."
+  },
+  "Approve corrosion and fabrication suitability before substituting it for 304.": {
+    "de": "Korrosions- und Verarbeitungseignung vor einem Ersatz von 304 freigeben.",
+    "es": "Apruebe la resistencia a corrosión y la compatibilidad de fabricación antes de sustituir 304.",
+    "it": "Approvare l’idoneità alla corrosione e alla fabbricazione prima di sostituire 304.",
+    "zh": "替代 304 前，要确认耐腐蚀和后续加工要求均能满足。",
+    "fr": "Valider la tenue à la corrosion et l’aptitude à la fabrication avant de remplacer le 304."
+  },
+  "General equipment cover": {
+    "de": "Allgemeine Geräteabdeckung",
+    "es": "Cubierta de equipo general",
+    "it": "Coperchio di apparecchiatura generica",
+    "zh": "普通设备外壳",
+    "fr": "Capot d’équipement courant"
+  },
+  "Review 304 with the actual cleaning medium, mating metal and assembly conditions.": {
+    "de": "304 mit tatsächlichem Reinigungsmedium, Gegenwerkstoff und Montagebedingungen prüfen.",
+    "es": "Evalúe 304 con el medio de limpieza, metal de contacto y condiciones reales de montaje.",
+    "it": "Valutare 304 considerando detergente, metallo accoppiato e condizioni effettive di montaggio.",
+    "zh": "结合清洗介质、配合金属和装配条件评估 304。",
+    "fr": "Évaluer le 304 selon le produit de nettoyage, le métal en contact et les conditions de montage."
+  },
+  "Specify final strength where applicable and consider thread galling during assembly.": {
+    "de": "Erforderliche Endfestigkeit festlegen und Gewindefressen bei der Montage berücksichtigen.",
+    "es": "Especifique la resistencia final aplicable y considere el gripado de la rosca al montar.",
+    "it": "Specificare la resistenza finale applicabile e considerare il grippaggio del filetto in montaggio.",
+    "zh": "适用时明确成品强度要求，并考虑装配中的螺纹咬死风险。",
+    "fr": "Préciser la résistance finale applicable et tenir compte du grippage du filetage au montage."
+  },
+  "Chloride-exposed installation": {
+    "de": "Chloridbelastete Installation",
+    "es": "Instalación expuesta a cloruros",
+    "it": "Installazione esposta a cloruri",
+    "zh": "接触氯化物的安装环境",
+    "fr": "Installation exposée aux chlorures"
+  },
+  "Review 316 against concentration, temperature and crevice conditions.": {
+    "de": "316 anhand von Konzentration, Temperatur und Spaltbedingungen bewerten.",
+    "es": "Evalúe 316 según concentración, temperatura y condiciones de hendidura.",
+    "it": "Valutare 316 in base a concentrazione, temperatura e presenza di interstizi.",
+    "zh": "根据浓度、温度和缝隙条件评估 316。",
+    "fr": "Évaluer le 316 selon la concentration, la température et les conditions de crevasse."
+  },
+  "Do not infer corrosion-free service, or select 316L solely because it sounds stronger.": {
+    "de": "Korrosionsfreiheit nicht voraussetzen und 316L nicht allein wegen vermeintlich höherer Festigkeit wählen.",
+    "es": "No presuponga ausencia de corrosión ni elija 316L por parecer más resistente mecánicamente.",
+    "it": "Non presumere assenza di corrosione né scegliere 316L solo perché sembra più resistente.",
+    "zh": "不能据此认定绝不会腐蚀，也不能因为牌号看起来更高就把 316L 当作高强度版本。",
+    "fr": "Ne pas en déduire l’absence de corrosion, ni choisir le 316L parce qu’il semblerait plus résistant mécaniquement."
+  },
+  "In the RFQ, enter the designation standard and grade, final condition or fastener class where applicable, finish, mating material and required documents as separate fields. A stock certificate identifies the supplied material; it does not by itself verify every final-part property or the assembled connection.": {
+    "de": "Tragen Sie Norm und Sorte, Endzustand beziehungsweise Festigkeitsklasse, Oberfläche, Gegenwerkstoff und Dokumente getrennt in die Anfrage ein. Ein Werkstoffzeugnis identifiziert das gelieferte Material; es bestätigt allein weder jede Fertigteileigenschaft noch die montierte Verbindung.",
+    "es": "Separe en la solicitud norma y grado, estado final o clase aplicable, acabado, material complementario y documentos. Un certificado identifica el material suministrado, pero no verifica por sí solo todas las propiedades finales ni la unión montada.",
+    "it": "Indicare separatamente nella richiesta norma e grado, stato finale o classe applicabile, finitura, materiale accoppiato e documenti. Un certificato identifica il materiale fornito, ma da solo non verifica tutte le proprietà finali né il collegamento montato.",
+    "zh": "询价时，将牌号标准、具体牌号、最终状态或适用的成品强度等级、表面处理、配合材料和文件要求分开填写。原材料证明用于确认来料身份，不能单独证明全部成品性能或装配连接性能。",
+    "fr": "Indiquer séparément dans la demande norme et nuance, état final ou classe applicable, finition, matériau en contact et documents. Un certificat identifie la matière fournie ; il ne vérifie pas à lui seul toutes les propriétés finales ni l’assemblage."
+  },
+  "Download the material specification worksheet (English)": {
+    "de": "Werkstoff-Spezifikationsblatt herunterladen (Englisch)",
+    "es": "Descargar la ficha de especificación de material (inglés)",
+    "it": "Scaricare la scheda per la specifica del materiale (inglese)",
+    "zh": "下载材料规格填写表（英文）",
+    "fr": "Télécharger la fiche de spécification du matériau (anglais)"
+  },
+  "Compare setup cost and recurring cost separately": {
+    "de": "Einmalkosten und laufende Stückkosten getrennt vergleichen",
+    "es": "Comparar por separado preparación y coste recurrente",
+    "it": "Confrontare separatamente costi iniziali e ricorrenti",
+    "zh": "把一次性费用与单件加工费用分开比较",
+    "fr": "Comparer séparément les frais initiaux et les coûts récurrents"
+  },
+  "Compare complete routes to the same finished drawing, including secondary machining, treatment, inspection and scrap assumptions. The following currency-unit example demonstrates the calculation; these are invented teaching inputs, not ZUFEK prices.": {
+    "de": "Vergleichen Sie vollständige Routen für dieselbe Fertigzeichnung einschließlich Nachbearbeitung, Behandlung, Prüfung und Ausschussannahmen. Das folgende Beispiel in Geldeinheiten erklärt die Rechnung. Es sind erfundene Lehrwerte, keine ZUFEK-Preise.",
+    "es": "Compare rutas completas para el mismo plano final, incluidos mecanizado secundario, tratamiento, inspección y supuestos de rechazo. El ejemplo en unidades monetarias explica el cálculo: son datos didácticos inventados, no precios de ZUFEK.",
+    "it": "Confrontare cicli completi per lo stesso disegno finale, includendo lavorazioni secondarie, trattamenti, controlli e scarti ipotizzati. L’esempio in unità monetarie illustra il calcolo: sono dati didattici inventati, non prezzi ZUFEK.",
+    "zh": "应按同一份成品图纸比较完整路线，计入二次加工、处理、检验和废品率假设。下面用虚构的货币单位演示算法，所有费用均为教学假设，不是 ZUFEK 报价。",
+    "fr": "Comparer des gammes complètes pour le même plan fini, avec reprises, traitements, contrôles et hypothèses de rebut. L’exemple en unités monétaires explique le calcul : ce sont des données pédagogiques fictives, pas des prix ZUFEK."
+  },
+  "Route": {
+    "de": "Route",
+    "es": "Ruta",
+    "it": "Ciclo",
+    "zh": "工艺路线",
+    "fr": "Gamme"
+  },
+  "One-time setup F": {
+    "de": "Einmalige Einrichtung F",
+    "es": "Preparación inicial F",
+    "it": "Attrezzaggio iniziale F",
+    "zh": "一次性费用 F",
+    "fr": "Frais initiaux F"
+  },
+  "Recurring cost v per part": {
+    "de": "Laufende Kosten v je Teil",
+    "es": "Coste recurrente v por pieza",
+    "it": "Costo ricorrente v per pezzo",
+    "zh": "单件费用 v",
+    "fr": "Coût récurrent v par pièce"
+  },
+  "Formed blank plus secondary machining": {
+    "de": "Umformrohling mit Nachbearbeitung",
+    "es": "Preforma conformada con mecanizado secundario",
+    "it": "Grezzo formato con lavorazioni secondarie",
+    "zh": "成型毛坯加二次加工",
+    "fr": "Ébauche formée avec reprises d’usinage"
+  },
+  "Turned route": {
+    "de": "Drehroute",
+    "es": "Ruta de torneado",
+    "it": "Ciclo di tornitura",
+    "zh": "车削路线",
+    "fr": "Gamme de tournage"
+  },
+  "For a single batch q: total cost = F + v × q. With the illustrative inputs, the equal-cost quantity is (2000 − 100) ÷ (0.25 − 0.08), approximately 11177 parts when rounded up. This is not a universal cold-heading threshold.": {
+    "de": "Für eine Charge q: Gesamtkosten = F + v × q. Mit den Beispielwerten liegt die Kostengleichheit bei (2000 − 100) ÷ (0.25 − 0.08), aufgerundet etwa 11177 Teilen. Das ist keine allgemeine Kaltstauchgrenze.",
+    "es": "Para un lote q: coste total = F + v × q. Con los datos ilustrativos, la cantidad de equilibrio es (2000 − 100) ÷ (0.25 − 0.08), aproximadamente 11177 piezas al redondear hacia arriba. No es un umbral universal de conformado en frío.",
+    "it": "Per un lotto q: costo totale = F + v × q. Con i dati illustrativi, il pareggio si trova a (2000 − 100) ÷ (0.25 − 0.08), circa 11177 pezzi arrotondando per eccesso. Non è una soglia universale per lo stampaggio a freddo.",
+    "zh": "单批数量为 q 时，总费用 = F + v × q。按示例数据，两条路线的费用交点为 (2000 − 100) ÷ (0.25 − 0.08)，向上取整约为 11177 件。这不是冷镦加工通用的经济批量门槛。",
+    "fr": "Pour un lot q : coût total = F + v × q. Avec ces hypothèses, le seuil d’égalité est (2000 − 100) ÷ (0.25 − 0.08), soit environ 11177 pièces en arrondissant au supérieur. Ce n’est pas un seuil universel de frappe à froid."
+  },
+  "At 1000 parts: formed route 2080 units; turned route 350 units.": {
+    "de": "Bei 1000 Teilen: Umformroute 2080 Einheiten; Drehroute 350 Einheiten.",
+    "es": "Para 1000 piezas: ruta conformada 2080 unidades; torneada 350 unidades.",
+    "it": "Con 1000 pezzi: ciclo formato 2080 unità; tornito 350 unità.",
+    "zh": "1000 件时：成型加机加工路线为 2080 单位，车削路线为 350 单位。",
+    "fr": "Pour 1000 pièces : gamme formée 2080 unités ; gamme tournée 350 unités."
+  },
+  "At 20000 parts: formed route 3600 units; turned route 5100 units.": {
+    "de": "Bei 20000 Teilen: Umformroute 3600 Einheiten; Drehroute 5100 Einheiten.",
+    "es": "Para 20000 piezas: ruta conformada 3600 unidades; torneada 5100 unidades.",
+    "it": "Con 20000 pezzi: ciclo formato 3600 unità; tornito 5100 unità.",
+    "zh": "20000 件时：成型加机加工路线为 3600 单位，车削路线为 5100 单位。",
+    "fr": "Pour 20000 pièces : gamme formée 3600 unités ; gamme tournée 5100 unités."
+  },
+  "For repeat orders, spread reusable tooling over the agreed production horizon and identify maintenance or replacement costs separately. A route change still needs sample validation: a turned prototype does not automatically approve the material condition, geometry and surface produced by a later forming route.": {
+    "de": "Bei Folgeaufträgen wiederverwendbare Werkzeuge auf den vereinbarten Produktionshorizont verteilen und Wartung oder Ersatz getrennt ausweisen. Ein Routenwechsel braucht weiterhin Musterprüfung: Ein gedrehter Prototyp gibt Werkstoffzustand, Geometrie und Oberfläche einer späteren Umformroute nicht automatisch frei.",
+    "es": "Para pedidos repetidos, distribuya el utillaje reutilizable en el horizonte de producción acordado y separe mantenimiento o reposición. Un cambio de ruta exige validar muestras: el prototipo torneado no aprueba automáticamente material, geometría y superficie obtenidos después por conformado.",
+    "it": "Per riordini, ripartire gli utensili riutilizzabili sull’orizzonte produttivo concordato e separare manutenzione e sostituzione. Un cambio di ciclo richiede comunque campioni di convalida: il prototipo tornito non approva automaticamente stato del materiale, geometria e superficie ottenuti successivamente per formatura.",
+    "zh": "有后续订单时，应按约定的生产周期分摊可重复使用的模具费用，并另列维护和更换费用。路线变更仍需验证样品；车削样品合格，不代表后续成型路线产生的材料状态、几何尺寸和表面状态也已获批准。",
+    "fr": "Pour les commandes répétées, répartir l’outillage réutilisable sur l’horizon de production convenu et isoler entretien et remplacement. Un changement de gamme exige une validation sur échantillons : le prototype tourné ne valide pas automatiquement matière, géométrie et surface issues d’une gamme formée."
+  },
+  "Download the route-cost comparison worksheet (English)": {
+    "de": "Arbeitsblatt für den Routenkostenvergleich herunterladen (Englisch)",
+    "es": "Descargar la hoja comparativa de costes de fabricación (inglés)",
+    "it": "Scaricare il foglio di confronto dei costi produttivi (inglese)",
+    "zh": "下载工艺路线费用比较表（英文）",
+    "fr": "Télécharger la feuille de comparaison des coûts de fabrication (anglais)"
+  },
+  "Start the automotive RFQ with the actual joint": {
+    "de": "Die konkrete Verbindung als Ausgangspunkt der Automotive-Anfrage",
+    "es": "Iniciar la consulta de automoción con la unión real",
+    "it": "Avviare la richiesta automotive dal collegamento effettivo",
+    "zh": "汽车零部件询价，应从具体装配接口开始",
+    "fr": "Commencer la demande automobile par l’assemblage réel"
+  },
+  "An enclosure cover, a painted bracket and a locating interface impose different requirements. Use the rows below to prepare a component-level discussion; they are design-review examples, not evidence of a delivered or OEM-approved project.": {
+    "de": "Gehäusedeckel, lackierter Halter und Positionierschnittstelle stellen unterschiedliche Anforderungen. Die folgenden Zeilen helfen bei der Bauteilbesprechung; sie sind Konstruktionsbeispiele und kein Nachweis eines gelieferten oder OEM-freigegebenen Projekts.",
+    "es": "Una tapa, un soporte pintado y una interfaz de posicionamiento tienen requisitos distintos. Use estas filas para preparar la consulta del componente: son ejemplos de revisión, no pruebas de un proyecto entregado ni aprobado por un fabricante de vehículos.",
+    "it": "Un coperchio, una staffa verniciata e un’interfaccia di posizionamento impongono requisiti diversi. Le righe aiutano a preparare il confronto sul componente: sono esempi progettuali, non prove di un progetto consegnato o approvato da un costruttore automobilistico.",
+    "zh": "可拆卸外壳、涂装支架和定位配合，对紧固件的要求并不相同。下表用于准备零部件技术讨论，是设计评审示例，不代表已交付项目或整车厂认可。",
+    "fr": "Un couvercle, une patte peinte et une interface de positionnement imposent des exigences différentes. Ces lignes préparent l’échange sur le composant : ce sont des exemples de revue, pas la preuve d’un projet livré ou approuvé par un constructeur."
+  },
+  "Serviceable module cover": {
+    "de": "Wartungsdeckel eines Moduls",
+    "es": "Tapa de módulo desmontable",
+    "it": "Coperchio di modulo manutenibile",
+    "zh": "需要维护拆装的模块外壳",
+    "fr": "Couvercle de module démontable"
+  },
+  "Opening sequence, tool access, usable engagement and any captive-retention requirement.": {
+    "de": "Öffnungsfolge, Werkzeugzugang, nutzbarer Gewindeeingriff und gegebenenfalls Verliersicherung.",
+    "es": "Secuencia de apertura, acceso de herramienta, engrane útil y posible retención cautiva.",
+    "it": "Sequenza di apertura, accesso utensile, impegno utile ed eventuale requisito di imperdibilità.",
+    "zh": "拆装顺序、工具空间、有效旋合长度，以及是否要求螺丝防脱。",
+    "fr": "Séquence d’ouverture, accès de l’outil, engagement utile et éventuelle retenue imperdable."
+  },
+  "Check removal and reassembly with the representative cover, not only the tightened screw.": {
+    "de": "Ausbau und Wiedermontage am repräsentativen Deckel prüfen, nicht nur die angezogene Schraube.",
+    "es": "Compruebe desmontaje y montaje con una tapa representativa, no solo el tornillo apretado.",
+    "it": "Verificare smontaggio e rimontaggio con un coperchio rappresentativo, non solo la vite serrata.",
+    "zh": "用代表性外壳检查拆卸和重新装配，而不只检查锁紧后的螺丝。",
+    "fr": "Vérifier dépose et remontage avec un couvercle représentatif, pas seulement la vis serrée."
+  },
+  "Painted bracket": {
+    "de": "Lackierter Halter",
+    "es": "Soporte pintado",
+    "it": "Staffa verniciata",
+    "zh": "涂装支架",
+    "fr": "Patte peinte"
+  },
+  "Bearing-face envelope, coating contact, permissible marking and specified tightening conditions.": {
+    "de": "Auflageflächenkontur, Beschichtungskontakt, zulässige Abdrücke und vorgeschriebene Anziehbedingungen.",
+    "es": "Contorno de apoyo, contacto con el recubrimiento, marcas permitidas y condiciones de apriete.",
+    "it": "Ingombro della superficie d’appoggio, contatto con il rivestimento, impronte ammesse e serraggio prescritto.",
+    "zh": "承压面轮廓、与涂层的接触、允许的压痕和规定的拧紧条件。",
+    "fr": "Enveloppe de la face d’appui, contact avec le revêtement, marques admises et conditions de serrage."
+  },
+  "Evaluate seating and coating damage; use the agreed assembly method for any functional trial.": {
+    "de": "Sitz und Lackschäden bewerten; Funktionsversuche nach dem vereinbarten Montageverfahren durchführen.",
+    "es": "Evalúe asiento y daños al recubrimiento; aplique el método de montaje acordado en las pruebas funcionales.",
+    "it": "Valutare appoggio e danni al rivestimento; usare il metodo di montaggio concordato nelle prove funzionali.",
+    "zh": "评估贴合情况及涂层损伤，功能试装时采用约定的装配方法。",
+    "fr": "Évaluer l’appui et les dommages au revêtement ; employer la méthode de montage convenue pour les essais fonctionnels."
+  },
+  "Locating shoulder": {
+    "de": "Positionierschulter",
+    "es": "Hombro de posicionamiento",
+    "it": "Spallamento di posizionamento",
+    "zh": "定位台阶",
+    "fr": "Épaulement de positionnement"
+  },
+  "Mating bore, datum relationship, axial stack and final coated dimensions.": {
+    "de": "Gegenbohrung, Bezugsbeziehung, Axialstapel und endgültige beschichtete Maße.",
+    "es": "Taladro complementario, referencias, conjunto axial y dimensiones finales con recubrimiento.",
+    "it": "Foro accoppiato, riferimenti, pacco assiale e dimensioni finali rivestite.",
+    "zh": "配合孔、基准关系、轴向叠厚和涂覆后的最终尺寸。",
+    "fr": "Alésage associé, références, empilage axial et dimensions finales après revêtement."
+  },
+  "Record dimensional acceptance separately from clamp or motion validation.": {
+    "de": "Maßabnahme getrennt von Klemm- oder Bewegungsprüfung dokumentieren.",
+    "es": "Registre la aceptación dimensional por separado de la validación de sujeción o movimiento.",
+    "it": "Registrare l’accettazione dimensionale separatamente dalla convalida di serraggio o movimento.",
+    "zh": "将尺寸验收与夹紧或运动功能验证分别记录。",
+    "fr": "Distinguer l’acceptation dimensionnelle de la validation du serrage ou du mouvement."
+  },
+  "Before sample release, agree the drawing revision, required submission documents, lot identification and change-approval responsibilities. If the programme requires PPAP, material records or special testing, identify the exact deliverables during quotation rather than assuming that an automotive label includes them.": {
+    "de": "Vor Musterfreigabe Zeichnungsstand, Vorlageunterlagen, Loskennzeichnung und Zuständigkeit für Änderungen vereinbaren. Falls PPAP, Werkstoffnachweise oder Sonderprüfungen verlangt werden, die konkreten Lieferdokumente im Angebot festlegen; die Branchenbezeichnung schließt sie nicht automatisch ein.",
+    "es": "Antes de liberar muestras, acuerde revisión del plano, documentos de presentación, identificación de lotes y aprobación de cambios. Si se exige PPAP, registros de material o ensayos especiales, detalle los entregables en la oferta; la etiqueta de automoción no los incluye automáticamente.",
+    "it": "Prima del rilascio dei campioni concordare revisione del disegno, documenti da presentare, identificazione del lotto e responsabilità sui cambiamenti. Se servono PPAP, documenti del materiale o prove speciali, definire i documenti esatti in offerta: la dicitura automotive non li comprende automaticamente.",
+    "zh": "样品放行前，应约定图纸版本、提交文件、批次标识和变更审批责任。项目如需 PPAP、材料记录或专项试验，应在报价阶段明确具体交付项，不能默认汽车零部件订单已经包含这些要求。",
+    "fr": "Avant libération des échantillons, convenir de la révision du plan, des documents à soumettre, de l’identification des lots et des responsabilités de modification. Si PPAP, dossiers matière ou essais spéciaux sont requis, définir les livrables au devis plutôt que les supposer inclus dans la désignation automobile."
+  },
+  "Review the illustrative module enclosure study": {
+    "de": "Illustrative Modulgehäusestudie ansehen",
+    "es": "Ver el estudio ilustrativo de carcasa de módulo",
+    "it": "Consultare lo studio illustrativo del contenitore di modulo",
+    "zh": "查看模块外壳紧固方案设计示例",
+    "fr": "Consulter l’étude illustrative de boîtier de module"
+  },
+  "What an inspection record should let you verify": {
+    "de": "Was ein Prüfprotokoll nachvollziehbar machen sollte",
+    "es": "Qué debe permitir verificar un registro de inspección",
+    "it": "Cosa deve consentire di verificare un rapporto di controllo",
+    "zh": "一份检验记录应让客户核对哪些内容",
+    "fr": "Ce qu’un relevé de contrôle doit permettre de vérifier"
+  },
+  "Build a traceable chain from each drawing requirement to the method, result and disposition. The downloadable forms below are planning templates; they contain no claimed production measurements.": {
+    "de": "Jede Zeichnungsanforderung muss mit Methode, Ergebnis und Entscheidung verknüpft sein. Die herunterladbaren Formulare sind Planungsvorlagen und enthalten keine behaupteten Produktionsmesswerte.",
+    "es": "Vincule cada requisito del plano con el método, resultado y decisión. Los formularios descargables son plantillas de planificación, sin mediciones de producción declaradas.",
+    "it": "Collegare ogni requisito del disegno a metodo, risultato e decisione. I moduli scaricabili sono modelli di pianificazione e non riportano presunte misurazioni produttive.",
+    "zh": "把每项图纸要求与检测方法、结果和处置结论关联起来。下面提供的是检验策划模板，不包含声称来自生产的实测数据。",
+    "fr": "Relier chaque exigence du plan à la méthode, au résultat et à la décision. Les formulaires téléchargeables sont des modèles de préparation et ne contiennent aucune mesure de production revendiquée."
+  },
+  "Dimensional record": {
+    "de": "Maßprüfprotokoll",
+    "es": "Registro dimensional",
+    "it": "Rapporto dimensionale",
+    "zh": "尺寸检验记录",
+    "fr": "Relevé dimensionnel"
+  },
+  "Part and drawing revision, lot, characteristic, limits, method/instrument identity, coverage and actual result.": {
+    "de": "Teil und Zeichnungsstand, Los, Merkmal, Grenzwerte, Methode/Gerätekennung, Prüfumfang und tatsächliches Ergebnis.",
+    "es": "Pieza y revisión, lote, característica, límites, método/equipo, cobertura y resultado real.",
+    "it": "Pezzo e revisione, lotto, caratteristica, limiti, metodo/strumento, copertura e risultato effettivo.",
+    "zh": "零件及图纸版本、批次、检验特性、限值、方法或仪器编号、检查范围和实际结果。",
+    "fr": "Pièce et révision, lot, caractéristique, limites, méthode/instrument, étendue et résultat réel."
+  },
+  "Distinguish recorded measurements from an agreed pass/fail screening result.": {
+    "de": "Messwerte von vereinbarten Gut/Schlecht-Sortierergebnissen unterscheiden.",
+    "es": "Distinga valores medidos de resultados de selección conforme/no conforme acordados.",
+    "it": "Distinguere valori misurati da risultati concordati di selezione conforme/non conforme.",
+    "zh": "区分记录的测量数值与事先约定的合格／不合格分选结果。",
+    "fr": "Distinguer les valeurs mesurées des résultats de tri conforme/non conforme convenus."
+  },
+  "Material or treatment record": {
+    "de": "Werkstoff- oder Behandlungsnachweis",
+    "es": "Registro de material o tratamiento",
+    "it": "Documento di materiale o trattamento",
+    "zh": "材料或处理记录",
+    "fr": "Dossier matière ou traitement"
+  },
+  "Material or treatment specification, lot reference and the documents or tests agreed for that requirement.": {
+    "de": "Werkstoff- oder Behandlungsvorgabe, Losbezug und die dafür vereinbarten Dokumente oder Prüfungen.",
+    "es": "Especificación de material o tratamiento, referencia de lote y documentos o ensayos acordados.",
+    "it": "Specifica di materiale o trattamento, riferimento del lotto e documenti o prove concordati.",
+    "zh": "材料或处理规范、批次对应关系，以及该项要求约定的文件或试验。",
+    "fr": "Spécification matière ou traitement, référence du lot et documents ou essais convenus."
+  },
+  "Keep material identity, final hardness/strength and coating evidence distinguishable.": {
+    "de": "Materialidentität, endgültige Härte/Festigkeit und Beschichtungsnachweise getrennt halten.",
+    "es": "Separe identidad del material, dureza/resistencia final y evidencia del recubrimiento.",
+    "it": "Tenere distinti identità del materiale, durezza/resistenza finale e documenti del rivestimento.",
+    "zh": "将材料身份、最终硬度或强度，以及涂层证明分别说明。",
+    "fr": "Distinguer identité matière, dureté/résistance finale et preuves du revêtement."
+  },
+  "Assembly trial": {
+    "de": "Montageversuch",
+    "es": "Prueba de montaje",
+    "it": "Prova di montaggio",
+    "zh": "装配试验",
+    "fr": "Essai d’assemblage"
+  },
+  "Mating-part revision, installation method, functional criterion, outcome and approver.": {
+    "de": "Gegenstückrevision, Montageverfahren, Funktionskriterium, Ergebnis und Freigabeverantwortlicher.",
+    "es": "Revisión de la pieza complementaria, método de instalación, criterio funcional, resultado y aprobador.",
+    "it": "Revisione del componente accoppiato, metodo di installazione, criterio funzionale, esito e responsabile dell’approvazione.",
+    "zh": "配合件版本、安装方法、功能判据、试验结果和批准人。",
+    "fr": "Révision de la pièce associée, méthode de montage, critère fonctionnel, résultat et approbateur."
+  },
+  "Record deviations and disposition; a dimensional pass does not establish assembly performance.": {
+    "de": "Abweichungen und Entscheidung dokumentieren; Maßkonformität belegt keine Montagefunktion.",
+    "es": "Registre desviaciones y decisión; la conformidad dimensional no acredita el funcionamiento montado.",
+    "it": "Registrare deviazioni e decisione: la conformità dimensionale non dimostra la funzionalità dell’insieme.",
+    "zh": "记录偏差及处置结论；尺寸合格不等于装配性能已经验证。",
+    "fr": "Consigner les écarts et leur traitement ; la conformité dimensionnelle ne démontre pas la performance de l’assemblage."
+  },
+  "For example, CCD screening can evaluate a visible shoulder profile, a thread gauge addresses its specified thread requirement, and a material record addresses a different question again. Agree the relevant methods and any external test arrangements for the order; the template does not assert that every test is performed in-house.": {
+    "de": "Beispielsweise kann CCD eine sichtbare Schulterkontur prüfen, eine Gewindelehre die dafür festgelegte Gewindeanforderung und ein Werkstoffnachweis wiederum einen anderen Sachverhalt. Vereinbaren Sie geeignete Methoden und externe Prüfungen für den Auftrag; die Vorlage behauptet keine vollständige interne Prüfausstattung.",
+    "es": "Por ejemplo, CCD puede evaluar el perfil visible del hombro, un calibre de rosca su requisito específico y un registro de material otra cuestión distinta. Acuerde métodos y pruebas externas para el pedido; la plantilla no afirma que todos los ensayos sean internos.",
+    "it": "Per esempio, il CCD può valutare il profilo visibile dello spallamento, un calibro il requisito specifico della filettatura e un documento del materiale un’altra caratteristica. Concordare metodi e prove esterne per l’ordine; il modello non afferma che ogni prova sia svolta internamente.",
+    "zh": "例如，CCD 可以评估能够成像的台阶轮廓，螺纹量规用于对应的螺纹要求，材料记录则回答另一类问题。订单中应约定适用方法及需要外部机构完成的试验；模板不代表所有项目都在厂内完成。",
+    "fr": "Par exemple, le CCD peut évaluer le profil visible d’un épaulement, un calibre la caractéristique de filetage prévue et un dossier matière une autre question. Convenir des méthodes et essais externes pour la commande ; le modèle n’affirme pas que chaque essai est réalisé en interne."
+  },
+  "Download the blank inspection worksheet (English)": {
+    "de": "Leeres Prüfblatt herunterladen (Englisch)",
+    "es": "Descargar la hoja de inspección en blanco (inglés)",
+    "it": "Scaricare la scheda di controllo vuota (inglese)",
+    "zh": "下载空白检验记录表（英文）",
+    "fr": "Télécharger la fiche de contrôle vierge (anglais)"
+  },
+  "Download the worked inspection-plan example (English)": {
+    "de": "Prüfplanbeispiel herunterladen (Englisch)",
+    "es": "Descargar el ejemplo de plan de inspección (inglés)",
+    "it": "Scaricare l’esempio di piano di controllo (inglese)",
+    "zh": "下载检验计划填写示例（英文）",
+    "fr": "Télécharger l’exemple de plan de contrôle (anglais)"
+  },
+  "Application": {
+    "de": "Anwendung",
+    "es": "Aplicación",
+    "it": "Applicazione",
+    "zh": "应用场景",
+    "fr": "Application"
+  },
+  "What to specify": {
+    "de": "Festzulegen",
+    "es": "Qué especificar",
+    "it": "Cosa specificare",
+    "zh": "需要明确的要求",
+    "fr": "À spécifier"
+  },
+  "What to check": {
+    "de": "Zu prüfen",
+    "es": "Qué comprobar",
+    "it": "Cosa verificare",
+    "zh": "对应检查项目",
+    "fr": "À vérifier"
+  },
+  "Calculation": {
+    "de": "Berechnung",
+    "es": "Cálculo",
+    "it": "Calcolo",
+    "zh": "计算项目",
+    "fr": "Calcul"
+  },
+  "Result": {
+    "de": "Ergebnis",
+    "es": "Resultado",
+    "it": "Risultato",
+    "zh": "结果",
+    "fr": "Résultat"
+  },
+  "Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.": {
+    "de": "Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage nach technischer Prüfung und Bestätigung. Starttermin, Musterabnahme und Serienlieferplan im Angebot vereinbaren.",
+    "es": "La preparación de utillaje y muestras suele requerir aproximadamente 10–15 días tras revisión técnica y confirmación. Acuerde en la oferta inicio, aceptación de muestras y calendario de producción.",
+    "it": "Attrezzaggio e campionatura richiedono in genere circa 10–15 giorni dopo verifica tecnica e conferma. Concordare in offerta avvio, accettazione dei campioni e consegne di produzione.",
+    "zh": "技术评审并确认要求后，含模具的打样周期通常约为 10–15 天。起算时间、样品验收和批量交付安排应在报价中确认。",
+    "fr": "L’outillage et les échantillons demandent généralement environ 10–15 jours après revue technique et confirmation. Convenir au devis du point de départ, de l’acceptation des échantillons et du calendrier de série."
+  },
+  "Custom screw manufacturing to drawing": {
+    "de": "Schraubenfertigung nach Zeichnung",
+    "es": "Fabricación de tornillos según plano",
+    "it": "Produzione di viti su disegno",
+    "zh": "非标螺丝按图制造",
+    "fr": "Fabrication de vis sur plan"
+  },
+  "Shoulder fits, thread classes and when grinding matters ↗": {
+    "de": "Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗",
+    "es": "Ajustes del hombro, clases de rosca y cuándo rectificar ↗",
+    "it": "Accoppiamenti dello spallamento, classi del filetto e quando rettificare ↗",
+    "zh": "台阶配合、螺纹公差等级与磨削工艺选择 ↗",
+    "fr": "Ajustements d’épaulement, classes de filetage et choix de la rectification ↗"
+  },
+  "Diameter limits, mating bore and accepted final condition": {
+    "de": "Durchmessergrenzen, Gegenbohrung und vereinbarter Endzustand",
+    "es": "Límites de diámetro, taladro complementario y estado final de aceptación",
+    "it": "Limiti di diametro, foro accoppiato e stato finale di accettazione",
+    "zh": "直径上下限、配合孔尺寸及最终验收状态",
+    "fr": "Limites de diamètre, alésage associé et état final d’acceptation"
+  },
+  "Seating face to the shoulder transition; stack and required clearance": {
+    "de": "Abstand von der Anlagefläche zum Schulterübergang; Bauteilstapel und Spiel",
+    "es": "Distancia desde el apoyo hasta la transición; espesor del conjunto y juego",
+    "it": "Distanza dall’appoggio alla transizione; pacco e gioco richiesto",
+    "zh": "从支承面到台阶过渡处的长度、装配叠厚及所需间隙",
+    "fr": "Distance de l’appui à la transition ; empilage et jeu requis"
+  },
+  "Measure from the functional face; check the assembled axial condition": {
+    "de": "Von der Funktionsfläche messen; Axialverhalten im montierten Zustand prüfen",
+    "es": "Mida desde la cara funcional y compruebe la condición axial del montaje",
+    "it": "Misurare dalla superficie funzionale e verificare la condizione assiale montata",
+    "zh": "以功能面为测量基准，核对装配后的轴向配合",
+    "fr": "Mesurer depuis la face fonctionnelle et vérifier la condition axiale assemblée"
+  },
+  "Agree geometry measurement and thread gauging separately": {
+    "de": "Geometrieprüfung und Gewindelehrung getrennt vereinbaren",
+    "es": "Acuerde por separado medición geométrica y control de rosca con calibres",
+    "it": "Concordare separatamente misure geometriche e controllo con calibri filettati",
+    "zh": "分别约定几何尺寸测量和螺纹量规验收方法",
+    "fr": "Convenir séparément des mesures géométriques et du contrôle par calibres filetés"
+  },
+  "Surface texture, treatment coverage and edge condition": {
+    "de": "Oberflächenbeschaffenheit, Behandlungsbereich und Kantenzustand",
+    "es": "Rugosidad, cobertura del tratamiento y estado de los bordes",
+    "it": "Rugosità, copertura del trattamento e stato dei bordi",
+    "zh": "表面粗糙度、处理覆盖范围和边缘状态",
+    "fr": "Rugosité, couverture du traitement et état des arêtes"
+  },
+  "Review the fixture shoulder and axial-stack concept ↗": {
+    "de": "Schulter und Axialstapel der Vorrichtung ansehen ↗",
+    "es": "Ver el hombro y el conjunto axial del utillaje ↗",
+    "it": "Esamina spallamento e pacco assiale dell’attrezzatura ↗",
+    "zh": "查看治具中的台阶配合与轴向尺寸链示例 ↗",
+    "fr": "Examiner l’épaulement et l’empilage axial de l’outillage ↗"
+  },
+  "MATERIAL & FINAL CONDITION": {
+    "de": "WERKSTOFF UND ENDZUSTAND",
+    "es": "MATERIAL Y ESTADO FINAL",
+    "it": "MATERIALE E STATO FINALE",
+    "zh": "材料与最终交付状态",
+    "fr": "MATÉRIAU ET ÉTAT FINAL"
+  },
+  "High-strength screw coatings and hydrogen-risk review ↗": {
+    "de": "Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗",
+    "es": "Recubrimientos y riesgo por hidrógeno en tornillos de alta resistencia ↗",
+    "it": "Rivestimenti e rischio da idrogeno nelle viti ad alta resistenza ↗",
+    "zh": "高强度螺丝的涂层选择与氢脆风险评估 ↗",
+    "fr": "Revêtements et risque lié à l’hydrogène des vis à haute résistance ↗"
+  },
+  "Send the details for your shoulder & step screws.": {
+    "de": "Schulterschrauben mit Ihren Zeichnungsdaten anfragen.",
+    "es": "Envíenos los requisitos de sus tornillos con hombro.",
+    "it": "Inviaci i requisiti delle tue viti a spallamento.",
+    "zh": "发来台阶螺丝图纸与需求。",
+    "fr": "Envoyez les exigences de vos vis à épaulement."
+  },
+  "Hole position, internal burr condition and cleaning": {
+    "de": "Bohrungslage, innere Grate und Reinigung",
+    "es": "Posición de taladros, rebabas internas y limpieza",
+    "it": "Posizione dei fori, bave interne e pulizia",
+    "zh": "孔位、内孔毛刺和清洗要求",
+    "fr": "Position des trous, bavures internes et nettoyage"
+  },
+  "Specify inspection access and the acceptable edge condition": {
+    "de": "Prüfzugang und zulässigen Kantenzustand festlegen",
+    "es": "Defina acceso para inspección y estado admisible de los bordes",
+    "it": "Definire accesso per il controllo e stato ammissibile dei bordi",
+    "zh": "明确可检查的部位、检查方式及边缘验收要求",
+    "fr": "Définir l’accès au contrôle et l’état admissible des arêtes"
+  },
+  "Surface condition, passivation and thread acceptance": {
+    "de": "Oberflächenzustand, Passivierung und Gewindeabnahme",
+    "es": "Estado superficial, pasivado y aceptación de roscas",
+    "it": "Stato superficiale, passivazione e accettazione del filetto",
+    "zh": "表面状态、钝化处理及螺纹验收",
+    "fr": "État de surface, passivation et acceptation du filetage"
+  },
+  "Stainless steel describes several material families. Specify the grade and final condition rather than writing one generic heat-treatment instruction.": {
+    "de": "Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.",
+    "es": "Los inoxidables abarcan varias familias. Especifique grado y estado final, en lugar de una instrucción genérica de tratamiento térmico.",
+    "it": "Gli inox comprendono più famiglie. Specificare grado e stato finale invece di prescrivere un trattamento termico generico.",
+    "zh": "不锈钢包含不同材料体系，热处理要求不能一概而论。应写明具体牌号和最终状态，再确定适用的处理方式。",
+    "fr": "Les inox regroupent plusieurs familles. Préciser nuance et état final plutôt qu’une consigne générique de traitement thermique."
+  },
+  "Heat treatment and coating can alter dimensions or surface condition. Plan precision finishing and final measurement at the appropriate stage.": {
+    "de": "Wärmebehandlung und Beschichtung können Maße oder Oberfläche verändern. Präzisionsnacharbeit und Endmessung in der passenden Prozessstufe planen.",
+    "es": "El tratamiento térmico y los recubrimientos pueden cambiar dimensiones o superficie. Sitúe el acabado de precisión y la medición final en la etapa adecuada.",
+    "it": "Trattamenti termici e rivestimenti possono modificare quote o superficie. Pianificare finitura di precisione e misurazione finale nella fase adatta.",
+    "zh": "热处理和涂覆可能改变尺寸或表面状态，应据此安排精加工和最终检测的工序。",
+    "fr": "Traitement thermique et revêtement peuvent modifier les cotes ou la surface. Prévoir la finition de précision et la mesure finale à l’étape adaptée."
+  },
+  ", review": {
+    "de": ", prüfen Sie",
+    "es": ", evalúe",
+    "it": ", valutare",
+    "zh": "，评估",
+    "fr": ", examiner"
+  },
+  "Agree acceptance and records ↗": {
+    "de": "Abnahme und Nachweise vereinbaren ↗",
+    "es": "Acordar aceptación y registros ↗",
+    "it": "Concordare accettazione e documenti ↗",
+    "zh": "确认验收要求与检验记录 ↗",
+    "fr": "Convenir de l’acceptation et des relevés ↗"
+  },
+  "Material and surface condition": {
+    "de": "Werkstoff- und Oberflächenzustand",
+    "es": "Material y estado superficial",
+    "it": "Materiale e stato superficiale",
+    "zh": "材料与表面状态",
+    "fr": "Matériau et état de surface"
+  },
+  "Agree revision control, sample approval, inspection records, lot labels and packaging before production.": {
+    "de": "Vor Fertigungsbeginn Zeichnungsänderungen, Musterfreigabe, Prüfprotokolle, Loskennzeichnung und Verpackung abstimmen.",
+    "es": "Antes de producir, acuerde control de revisiones, aprobación de muestras, registros, identificación de lotes y embalaje.",
+    "it": "Prima di produrre, concordare gestione revisioni, approvazione campioni, rapporti, identificazione lotti e imballaggio.",
+    "zh": "生产前确认图纸版本管理、样品批准、检验记录、批次标签和包装要求。",
+    "fr": "Avant production, convenir du suivi des révisions, de la validation des échantillons, des relevés, de l’identification des lots et de l’emballage."
+  },
+  "Let’s review your automotive components requirement.": {
+    "de": "Ihre Anforderungen für Automobilkomponenten besprechen.",
+    "es": "Revisemos los requisitos de sus componentes de automóvil.",
+    "it": "Valutiamo i requisiti dei tuoi componenti automotive.",
+    "zh": "沟通您的汽车零部件紧固需求。",
+    "fr": "Étudions vos besoins pour les composants automobiles."
+  },
+  "Material & condition": {
+    "de": "Werkstoff und Zustand",
+    "es": "Material y estado",
+    "it": "Materiale e stato",
+    "zh": "材料与交付状态",
+    "fr": "Matériau et état"
+  },
+  "Agree which features need 100% screening and which use an approved sampling plan. Full dimensional screening does not replace material or destructive test requirements.": {
+    "de": "Festlegen, welche Merkmale zu 100% geprüft werden und welche nach freigegebenem Stichprobenplan. Vollständige Maßsortierung ersetzt keine Werkstoff- oder zerstörenden Prüfungen.",
+    "es": "Acuerde qué características requieren selección al 100% y cuáles un muestreo aprobado. La selección dimensional completa no sustituye los requisitos de material ni los ensayos destructivos.",
+    "it": "Concordare le caratteristiche da controllare al 100% e quelle con campionamento approvato. La selezione dimensionale completa non sostituisce requisiti del materiale o prove distruttive.",
+    "zh": "约定哪些特性需要 100% 全检，哪些按批准的抽样方案检查。尺寸全检不能替代材料验证或破坏性试验。",
+    "fr": "Convenir des caractéristiques contrôlées à 100% et de celles soumises à un échantillonnage approuvé. Le tri dimensionnel intégral ne remplace pas les vérifications matière ou essais destructifs."
+  },
+  "NON-STANDARD BY DESIGN": {
+    "de": "SONDERTEILE NACH ZEICHNUNG",
+    "es": "DISEÑADOS A MEDIDA",
+    "it": "PROGETTATE SU DISEGNO",
+    "zh": "按图定制非标件",
+    "fr": "CONÇUES SUR MESURE"
+  },
+  "Manufacturing non-standard metal screws in Dalang, Dongguan since 2005. From tooling and samples to repeat production, built around your approved drawing.": {
+    "de": "Seit 2005 fertigt ZUFEK Sonderschrauben in Dalang, Dongguan. Werkzeugbau, Bemusterung und Serienfertigung richten sich nach Ihrer freigegebenen Zeichnung.",
+    "es": "Desde 2005 fabricamos tornillos metálicos a medida en Dalang, Dongguan. Utillaje, muestras y producción se realizan a partir de su plano aprobado.",
+    "it": "Dal 2005 produciamo viti metalliche su disegno a Dalang, Dongguan. Attrezzaggio, campioni e produzione seguono il disegno approvato dal cliente.",
+    "zh": "自 2005 年起，我们在东莞大朗从事非标金属螺丝制造。从模具开发、打样到批量生产，均以双方确认的图纸为依据。",
+    "fr": "Depuis 2005, nous fabriquons des vis métalliques sur mesure à Dalang, Dongguan. Outillage, échantillons et production suivent votre plan approuvé."
+  },
+  "Explore custom screw configurations. Final geometry, material and manufacturing feasibility are reviewed against your specification.": {
+    "de": "Entdecken Sie Schraubenbauformen nach Zeichnung. Geometrie, Werkstoff und Herstellbarkeit prüfen wir anhand Ihrer Anforderungen.",
+    "es": "Explore diseños de tornillos a medida. Revisamos geometría, material y viabilidad de fabricación según sus requisitos.",
+    "it": "Scopri le configurazioni di viti su disegno. Geometria, materiale e fattibilità produttiva vengono valutati sui tuoi requisiti.",
+    "zh": "按结构查找合适的非标螺丝。具体尺寸、材料及加工可行性，将结合您的图纸和使用要求评估。",
+    "fr": "Découvrez les configurations de vis sur mesure. Géométrie, matériau et faisabilité sont étudiés selon vos exigences."
+  },
+  "Custom shoulder screw": {
+    "de": "Schulterschraube nach Zeichnung",
+    "es": "Tornillo con hombro a medida",
+    "it": "Vite a spallamento su disegno",
+    "zh": "非标台阶螺丝",
+    "fr": "Vis à épaulement sur mesure"
+  },
+  "Illustrative geometry / not to scale": {
+    "de": "Prinzipskizze / nicht maßstäblich",
+    "es": "Geometría ilustrativa / sin escala",
+    "it": "Geometria illustrativa / non in scala",
+    "zh": "结构示意，不按比例",
+    "fr": "Géométrie illustrative / hors échelle"
+  },
+  "Define the check.": {
+    "de": "Prüfung festlegen.",
+    "es": "Definir el control.",
+    "it": "Definire il controllo.",
+    "zh": "明确检验项目。",
+    "fr": "Définir le contrôle."
+  },
+  "Agree the evidence.": {
+    "de": "Nachweise abstimmen.",
+    "es": "Acordar los registros.",
+    "it": "Concordare i riscontri.",
+    "zh": "约定验收记录。",
+    "fr": "Convenir des justificatifs."
+  },
+  "Review the relevant process ↗": {
+    "de": "Passendes Verfahren ansehen ↗",
+    "es": "Ver el proceso correspondiente ↗",
+    "it": "Consulta il processo pertinente ↗",
+    "zh": "查看对应工艺与检测说明 ↗",
+    "fr": "Voir le procédé correspondant ↗"
+  },
+  "Your drawing. Our next conversation.": {
+    "de": "Ihre Zeichnung. Der nächste technische Austausch.",
+    "es": "Su plano. El inicio de la consulta técnica.",
+    "it": "Il tuo disegno. Il prossimo confronto tecnico.",
+    "zh": "发来图纸，开始技术沟通。",
+    "fr": "Votre plan. Le début de notre échange technique."
+  },
+  "A useful quotation starts with a clear specification. A drawing is the best starting point, but a sample, sketch or assembly description can also help define the next questions.": {
+    "de": "Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.",
+    "es": "Un presupuesto útil requiere especificaciones claras. El plano es el mejor punto de partida, aunque una muestra, croquis o descripción del montaje también ayudan a aclarar lo pendiente.",
+    "it": "Un preventivo utile richiede specifiche chiare. Il disegno è il punto di partenza migliore, ma campioni, schizzi o descrizioni del montaggio aiutano a chiarire i punti aperti.",
+    "zh": "报价是否有参考价值，取决于要求是否说清楚。优先提供图纸；只有样品、草图或装配说明时，也可以先据此梳理还需要确认的参数。",
+    "fr": "Un devis exploitable repose sur des exigences claires. Le plan est le meilleur point de départ ; un échantillon, un croquis ou une description du montage permettent aussi de préciser les points ouverts."
+  },
+  "The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.": {
+    "de": "Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.",
+    "es": "Hombro, rosca y cabeza deben funcionar juntos. Un plano claro define las cotas y las superficies que posicionan, permiten movimiento o sujetan el conjunto.",
+    "it": "Spallamento, filetto e testa devono lavorare insieme. Un disegno chiaro indica quote e superfici che posizionano, consentono movimento o serrano l’assieme.",
+    "zh": "台阶、螺纹和头部需要作为整体设计。图纸不仅要标尺寸，还应说明哪些表面用于定位、转动配合或夹紧。",
+    "fr": "Épaulement, filetage et tête doivent fonctionner ensemble. Un plan clair précise les cotes et les surfaces qui positionnent, permettent le mouvement ou serrent l’assemblage."
+  },
+  "A captive screw is part of a retention system. Review the panel, retaining feature and mating thread together before finalizing the screw drawing.": {
+    "de": "Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.",
+    "es": "Un tornillo cautivo forma parte de un sistema de retención. Revise panel, elemento de retención y rosca complementaria antes de cerrar el plano.",
+    "it": "Una vite imperdibile fa parte di un sistema di ritenuta. Verificare pannello, elemento di ritenuta e filetto accoppiato prima di completare il disegno.",
+    "zh": "松不脱螺丝需要与防脱结构配合使用。确定螺丝图纸前，应同时核对面板、防脱部位和配合螺纹。",
+    "fr": "Une vis imperdable fait partie d’un système de retenue. Examiner panneau, dispositif de retenue et filetage associé avant de finaliser le plan."
+  },
+  "APPLICATION DESIGN STUDIES": {
+    "de": "ANWENDUNGSSTUDIEN",
+    "es": "ESTUDIOS DE DISEÑO APLICADO",
+    "it": "STUDI DI PROGETTAZIONE APPLICATIVA",
+    "zh": "应用方案设计示例",
+    "fr": "ÉTUDES DE CONCEPTION APPLICATIVE"
+  },
+  "Two illustrative projects connect assembly needs with fastener structure, material, processing and an approval plan.": {
+    "de": "Zwei illustrative Studien verbinden Montageanforderungen mit Schraubengeometrie, Werkstoff, Fertigung und Freigabeplan.",
+    "es": "Dos estudios ilustrativos relacionan montaje, geometría del tornillo, material, fabricación y plan de aprobación.",
+    "it": "Due studi illustrativi collegano esigenze di montaggio, geometria della vite, materiale, lavorazione e piano di approvazione.",
+    "zh": "通过两个设计示例，了解如何把装配需求落实到螺丝结构、材料、加工路线和验证计划。",
+    "fr": "Deux études illustratives relient les besoins de montage à la géométrie, au matériau, à la fabrication et au plan de validation."
+  },
+  "Automation pivot and adjustment fixture ↗": {
+    "de": "Automatisierung: Drehpunkt und Einstellvorrichtung ↗",
+    "es": "Pivote y utillaje de ajuste para automatización ↗",
+    "it": "Perno e attrezzatura di regolazione per automazione ↗",
+    "zh": "自动化转轴与调节治具 ↗",
+    "fr": "Pivot et outillage de réglage pour l’automatisation ↗"
+  },
+  "Browse application design studies ↗": {
+    "de": "Anwendungsstudien ansehen ↗",
+    "es": "Ver estudios de diseño aplicado ↗",
+    "it": "Consulta gli studi applicativi ↗",
+    "zh": "查看应用方案设计示例 ↗",
+    "fr": "Voir les études de conception applicative ↗"
+  },
+  "START YOUR NEXT PROJECT": {
+    "de": "IHR NÄCHSTES PROJEKT",
+    "es": "SU PRÓXIMO PROYECTO",
+    "it": "IL TUO PROSSIMO PROGETTO",
+    "zh": "开始沟通您的需求",
+    "fr": "VOTRE PROCHAIN PROJET"
+  },
+  "Typical sampling lead time, including tooling, is approximately 10–15 days. The confirmed schedule follows drawing review and agreement on material, geometry, surface treatment and inspection requirements. Clarify the starting milestone in the quotation. Repeat-production delivery is quoted separately for the quantity and approved route.": {
+    "de": "Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung von Werkstoff, Geometrie, Oberfläche und Prüfung bestätigt. Den Startpunkt im Angebot festlegen; Serienlieferungen werden nach Stückzahl und freigegebener Route separat terminiert.",
+    "es": "El plazo habitual de utillaje y muestras es de aproximadamente 10–15 días. Se confirma tras revisar plano, material, geometría, acabado e inspección. Defina el inicio en la oferta; la entrega de producción se acuerda aparte según cantidad y ruta aprobada.",
+    "it": "Il tempo tipico per attrezzaggio e campioni è di circa 10–15 giorni. Si conferma dopo la verifica di disegno, materiale, geometria, finitura e controlli. Definire l’avvio in offerta; le consegne di produzione sono concordate separatamente in base a quantità e ciclo approvato.",
+    "zh": "含模具的打样周期通常约为 10–15 天，需在图纸评审及材料、结构、表面处理和检验要求确认后落实。报价中应明确起算时间；批量订单的交付周期按数量和批准的工艺路线另行约定。",
+    "fr": "Le délai habituel d’outillage et d’échantillonnage est d’environ 10–15 jours. Il est confirmé après revue du plan, de la matière, de la géométrie, de la finition et des contrôles. Préciser le départ au devis ; la livraison de série est convenue séparément selon quantité et gamme approuvée."
+  },
+  "Include an article introduction.": {
+    "de": "Eine Einleitung für den Artikel ergänzen.",
+    "es": "Incluya una introducción al artículo.",
+    "it": "Inserire un’introduzione all’articolo.",
+    "zh": "请填写文章导语。",
+    "fr": "Ajoutez une introduction à l’article."
+  },
+  "Use sections with a heading and body.": {
+    "de": "Abschnitte mit Überschrift und Text verwenden.",
+    "es": "Utilice secciones con título y contenido.",
+    "it": "Usare sezioni con titolo e contenuto.",
+    "zh": "各章节应包含标题和正文。",
+    "fr": "Utilisez des sections avec un titre et un contenu."
+  },
+  "8.17−8.05=0.12 mm": {
+    "de": "8.17−8.05=0.12 mm",
+    "es": "8.17−8.05=0.12 mm",
+    "it": "8.17−8.05=0.12 mm",
+    "zh": "8.17−8.05=0.12 mm",
+    "fr": "8.17−8.05=0.12 mm"
+  },
+  "8.23−7.95=0.28 mm": {
+    "de": "8.23−7.95=0.28 mm",
+    "es": "8.23−7.95=0.28 mm",
+    "it": "8.23−7.95=0.28 mm",
+    "zh": "8.23−7.95=0.28 mm",
+    "fr": "8.23−7.95=0.28 mm"
+  },
+  "Discuss your custom part": {
+    "de": "Ihr Zeichnungsteil anfragen",
+    "es": "Consultar su pieza a medida",
+    "it": "Richiedi una valutazione del pezzo",
+    "zh": "咨询非标件定制",
+    "fr": "Parlons de votre pièce sur mesure"
+  },
+  "Have a drawing? Let’s review it.": {
+    "de": "Sie haben eine Zeichnung? Wir prüfen Ihre Anfrage.",
+    "es": "¿Tiene un plano? Revisémoslo juntos.",
+    "it": "Hai un disegno? Valutiamolo insieme.",
+    "zh": "有图纸？发来一起评估。",
+    "fr": "Vous avez un plan ? Étudions-le ensemble."
+  },
+  "The details make": {
+    "de": "Die Details machen",
+    "es": "Los detalles marcan",
+    "it": "Sono i dettagli a fare",
+    "zh": "从关键细节",
+    "fr": "Les détails font"
+  },
+  "the difference.": {
+    "de": "den Unterschied.",
+    "es": "la diferencia.",
+    "it": "la differenza.",
+    "zh": "做好每一件。",
+    "fr": "la différence."
+  },
+  "Better questions.": {
+    "de": "Gezielter fragen.",
+    "es": "Preguntas más precisas.",
+    "it": "Domande più mirate.",
+    "zh": "明确关键问题。",
+    "fr": "Des questions plus précises."
+  },
+  "Better specifications.": {
+    "de": "Klarer spezifizieren.",
+    "es": "Especificaciones más claras.",
+    "it": "Specifiche più chiare.",
+    "zh": "把规格说清楚。",
+    "fr": "Des spécifications plus claires."
+  },
+  "A clear drawing makes a better conversation.": {
+    "de": "Eine klare Zeichnung erleichtert die technische Abstimmung.",
+    "es": "Un plano claro facilita la conversación técnica.",
+    "it": "Un disegno chiaro facilita il confronto tecnico.",
+    "zh": "图纸越清楚，技术沟通越高效。",
+    "fr": "Un plan clair facilite les échanges techniques."
+  },
+  "01 / Drawing-led review": {
+    "de": "01 / Technische Prüfung nach Zeichnung",
+    "es": "01 / Revisión técnica del plano",
+    "it": "01 / Valutazione tecnica del disegno",
+    "zh": "01 / 按图评估",
+    "fr": "01 / Revue technique sur plan"
+  },
+  "YOUR DRAWING. OUR STARTING POINT.": {
+    "de": "IHRE ZEICHNUNG. UNSER AUSGANGSPUNKT.",
+    "es": "SU PLANO. NUESTRO PUNTO DE PARTIDA.",
+    "it": "IL TUO DISEGNO. IL NOSTRO PUNTO DI PARTENZA.",
+    "zh": "从您的图纸出发。",
+    "fr": "VOTRE PLAN. NOTRE POINT DE DÉPART."
+  },
+  "Beyond the standard catalog.": {
+    "de": "Wenn Katalogteile nicht passen.",
+    "es": "Cuando el catálogo no basta.",
+    "it": "Quando il catalogo non basta.",
+    "zh": "标准件之外，按需定制。",
+    "fr": "Quand le catalogue ne suffit pas."
+  },
+  "Share your drawing, quantity and application requirements with our team.": {
+    "de": "Senden Sie uns Zeichnung, Stückzahl und Einsatzanforderungen.",
+    "es": "Envíenos su plano, cantidades y requisitos de aplicación.",
+    "it": "Invia disegno, quantità e requisiti applicativi al nostro team.",
+    "zh": "请提供图纸、数量及使用要求，我们会结合实际需求评估。",
+    "fr": "Envoyez-nous votre plan, les quantités et les exigences d’utilisation."
+  },
+  "Explore products": {
+    "de": "Produkte entdecken",
+    "es": "Ver productos",
+    "it": "Scopri i prodotti",
+    "zh": "查看产品系列",
+    "fr": "Découvrir les produits"
+  },
+  "Shoulder fits, thread classes and when grinding matters": {
+    "de": "Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist",
+    "es": "Ajustes del hombro, clases de rosca y cuándo rectificar",
+    "it": "Accoppiamenti dello spallamento, classi del filetto e quando rettificare",
+    "zh": "台阶配合、螺纹公差等级与磨削工艺选择",
+    "fr": "Ajustements d’épaulement, classes de filetage et choix de la rectification"
+  },
+  "Shoulder fits, thread classes and when grinding matters | ZUFEK": {
+    "de": "Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist | ZUFEK",
+    "es": "Ajustes del hombro, clases de rosca y cuándo rectificar | ZUFEK",
+    "it": "Accoppiamenti dello spallamento, classi del filetto e quando rettificare | ZUFEK",
+    "zh": "台阶配合、螺纹公差等级与磨削工艺选择 | ZUFEK",
+    "fr": "Ajustements d’épaulement, classes de filetage et choix de la rectification | ZUFEK"
+  },
+  "Review the fixture shoulder and axial-stack concept": {
+    "de": "Schulter und Axialstapel der Vorrichtung ansehen",
+    "es": "Ver el hombro y el conjunto axial del utillaje",
+    "it": "Esamina spallamento e pacco assiale dell’attrezzatura",
+    "zh": "查看治具中的台阶配合与轴向尺寸链示例",
+    "fr": "Examiner l’épaulement et l’empilage axial de l’outillage"
+  },
+  "Review the fixture shoulder and axial-stack concept | ZUFEK": {
+    "de": "Schulter und Axialstapel der Vorrichtung ansehen | ZUFEK",
+    "es": "Ver el hombro y el conjunto axial del utillaje | ZUFEK",
+    "it": "Esamina spallamento e pacco assiale dell’attrezzatura | ZUFEK",
+    "zh": "查看治具中的台阶配合与轴向尺寸链示例 | ZUFEK",
+    "fr": "Examiner l’épaulement et l’empilage axial de l’outillage | ZUFEK"
+  },
+  "High-strength screw coatings and hydrogen-risk review": {
+    "de": "Beschichtungen hochfester Schrauben und Wasserstoffrisiko",
+    "es": "Recubrimientos y riesgo por hidrógeno en tornillos de alta resistencia",
+    "it": "Rivestimenti e rischio da idrogeno nelle viti ad alta resistenza",
+    "zh": "高强度螺丝的涂层选择与氢脆风险评估",
+    "fr": "Revêtements et risque lié à l’hydrogène des vis à haute résistance"
+  },
+  "High-strength screw coatings and hydrogen-risk review | ZUFEK": {
+    "de": "Beschichtungen hochfester Schrauben und Wasserstoffrisiko | ZUFEK",
+    "es": "Recubrimientos y riesgo por hidrógeno en tornillos de alta resistencia | ZUFEK",
+    "it": "Rivestimenti e rischio da idrogeno nelle viti ad alta resistenza | ZUFEK",
+    "zh": "高强度螺丝的涂层选择与氢脆风险评估 | ZUFEK",
+    "fr": "Revêtements et risque lié à l’hydrogène des vis à haute résistance | ZUFEK"
+  },
+  "Agree acceptance and records": {
+    "de": "Abnahme und Nachweise vereinbaren",
+    "es": "Acordar aceptación y registros",
+    "it": "Concordare accettazione e documenti",
+    "zh": "确认验收要求与检验记录",
+    "fr": "Convenir de l’acceptation et des relevés"
+  },
+  "Agree acceptance and records | ZUFEK": {
+    "de": "Abnahme und Nachweise vereinbaren | ZUFEK",
+    "es": "Acordar aceptación y registros | ZUFEK",
+    "it": "Concordare accettazione e documenti | ZUFEK",
+    "zh": "确认验收要求与检验记录 | ZUFEK",
+    "fr": "Convenir de l’acceptation et des relevés | ZUFEK"
+  },
+  "Review the relevant process": {
+    "de": "Passendes Verfahren ansehen",
+    "es": "Ver el proceso correspondiente",
+    "it": "Consulta il processo pertinente",
+    "zh": "查看对应工艺与检测说明",
+    "fr": "Voir le procédé correspondant"
+  },
+  "Review the relevant process | ZUFEK": {
+    "de": "Passendes Verfahren ansehen | ZUFEK",
+    "es": "Ver el proceso correspondiente | ZUFEK",
+    "it": "Consulta il processo pertinente | ZUFEK",
+    "zh": "查看对应工艺与检测说明 | ZUFEK",
+    "fr": "Voir le procédé correspondant | ZUFEK"
+  },
+  "Automation pivot and adjustment fixture": {
+    "de": "Automatisierung: Drehpunkt und Einstellvorrichtung",
+    "es": "Pivote y utillaje de ajuste para automatización",
+    "it": "Perno e attrezzatura di regolazione per automazione",
+    "zh": "自动化转轴与调节治具",
+    "fr": "Pivot et outillage de réglage pour l’automatisation"
+  },
+  "Automation pivot and adjustment fixture | ZUFEK": {
+    "de": "Automatisierung: Drehpunkt und Einstellvorrichtung | ZUFEK",
+    "es": "Pivote y utillaje de ajuste para automatización | ZUFEK",
+    "it": "Perno e attrezzatura di regolazione per automazione | ZUFEK",
+    "zh": "自动化转轴与调节治具 | ZUFEK",
+    "fr": "Pivot et outillage de réglage pour l’automatisation | ZUFEK"
+  },
+  "Browse application design studies": {
+    "de": "Anwendungsstudien ansehen",
+    "es": "Ver estudios de diseño aplicado",
+    "it": "Consulta gli studi applicativi",
+    "zh": "查看应用方案设计示例",
+    "fr": "Voir les études de conception applicative"
+  },
+  "Browse application design studies | ZUFEK": {
+    "de": "Anwendungsstudien ansehen | ZUFEK",
+    "es": "Ver estudios de diseño aplicado | ZUFEK",
+    "it": "Consulta gli studi applicativi | ZUFEK",
+    "zh": "查看应用方案设计示例 | ZUFEK",
+    "fr": "Voir les études de conception applicative | ZUFEK"
+  },
+  "Custom Screw Manufacturer in Dongguan, China": {
+    "de": "Hersteller für Sonderschrauben in Dongguan",
+    "es": "Fabricante de tornillos a medida en Dongguan",
+    "it": "Produttore di viti su disegno a Dongguan",
+    "zh": "东莞非标螺丝源头制造商",
+    "fr": "Fabricant de vis sur mesure à Dongguan"
+  },
+  "Custom Screw Manufacturer in Dongguan, China | ZUFEK": {
+    "de": "Hersteller für Sonderschrauben in Dongguan | ZUFEK",
+    "es": "Fabricante de tornillos a medida en Dongguan | ZUFEK",
+    "it": "Produttore di viti su disegno a Dongguan | ZUFEK",
+    "zh": "东莞非标螺丝源头制造商 | ZUFEK",
+    "fr": "Fabricant de vis sur mesure à Dongguan | ZUFEK"
+  },
+  "Drawing-defined metal screws from ZUFEK. Compare structures, materials and manufacturing routes, then send your drawing for a quotation.": {
+    "de": "Metallschrauben nach Zeichnung von ZUFEK. Bauformen, Werkstoffe und Fertigungsrouten vergleichen und mit Ihrer Zeichnung ein Angebot anfragen.",
+    "es": "Tornillos metálicos según plano de ZUFEK. Compare diseños, materiales y procesos y envíe su plano para solicitar presupuesto.",
+    "it": "Viti metalliche su disegno ZUFEK. Confronta geometrie, materiali e cicli produttivi e invia il disegno per un preventivo.",
+    "zh": "ZUFEK 按图制造非标金属螺丝。了解产品结构、材料与加工路线，提交图纸获取针对实际需求的报价。",
+    "fr": "Vis métalliques sur plan ZUFEK. Comparez formes, matériaux et gammes de fabrication, puis envoyez votre plan pour un devis."
+  },
+  "Custom Shoulder Screws to Drawing": {
+    "de": "Schulterschrauben nach Zeichnung",
+    "es": "Tornillos con hombro según plano",
+    "it": "Viti a spallamento su disegno",
+    "zh": "台阶螺丝／塞打螺丝定制",
+    "fr": "Vis à épaulement sur plan"
+  },
+  "Custom Shoulder Screws to Drawing | ZUFEK": {
+    "de": "Schulterschrauben nach Zeichnung | ZUFEK",
+    "es": "Tornillos con hombro según plano | ZUFEK",
+    "it": "Viti a spallamento su disegno | ZUFEK",
+    "zh": "台阶螺丝／塞打螺丝定制 | ZUFEK",
+    "fr": "Vis à épaulement sur plan | ZUFEK"
+  },
+  "Specify shoulder diameter, length, bore fit and usable thread. Review a clearance calculation, material options and inspection before requesting a quote.": {
+    "de": "Schulterdurchmesser, Länge, Bohrungspassung und nutzbares Gewinde festlegen. Spielberechnung, Werkstoffe und Prüfung vor der Angebotsanfrage klären.",
+    "es": "Defina diámetro y longitud del hombro, ajuste del taladro y rosca útil. Revise cálculo de juego, materiales e inspección antes de pedir presupuesto.",
+    "it": "Definisci diametro e lunghezza dello spallamento, accoppiamento nel foro e filetto utile. Consulta calcolo del gioco, materiali e controlli prima del preventivo.",
+    "zh": "按图定制台阶螺丝，明确肩轴直径、长度、配合孔和有效螺纹。通过轴向间隙算例、材料选择及检验说明，准备更完整的询价资料。",
+    "fr": "Définissez diamètre et longueur d’épaulement, ajustement de l’alésage et filetage utile. Examinez jeu, matériaux et contrôles avant de demander un devis."
+  },
+  "Custom Hollow & Through-Hole Screws": {
+    "de": "Hohlschrauben mit Durchgangsbohrung",
+    "es": "Tornillos huecos y con taladro pasante",
+    "it": "Viti cave e con foro passante",
+    "zh": "空心通孔螺丝定制",
+    "fr": "Vis creuses et à trou débouchant"
+  },
+  "Custom Hollow & Through-Hole Screws | ZUFEK": {
+    "de": "Hohlschrauben mit Durchgangsbohrung | ZUFEK",
+    "es": "Tornillos huecos y con taladro pasante | ZUFEK",
+    "it": "Viti cave e con foro passante | ZUFEK",
+    "zh": "空心通孔螺丝定制 | ZUFEK",
+    "fr": "Vis creuses et à trou débouchant | ZUFEK"
+  },
+  "Define the bore, remaining wall, burr control and passage requirements for custom hollow screws. Send the drawing and application for review.": {
+    "de": "Bohrung, Restwand, Gratkontrolle und Durchgangsfunktion für Hohlschrauben festlegen. Zeichnung und Anwendung zur technischen Prüfung senden.",
+    "es": "Defina taladro, pared restante, rebabas y función del paso en tornillos huecos. Envíe plano y aplicación para revisión técnica.",
+    "it": "Definisci foro, parete residua, controllo delle bave e funzione del passaggio nelle viti cave. Invia disegno e applicazione per la verifica tecnica.",
+    "zh": "按孔道用途确定中空螺丝的孔径、剩余壁厚、去毛刺和验收要求。提交图纸及应用说明，评估走线、流通或密封连接的制造方案。",
+    "fr": "Définissez alésage, paroi résiduelle, ébavurage et fonction du passage des vis creuses. Envoyez plan et application pour revue technique."
+  },
+  "304 vs 316 Stainless Steel for Custom Screws": {
+    "de": "304 oder 316 für Sonderschrauben?",
+    "es": "Acero inoxidable 304 o 316 para tornillos",
+    "it": "Acciaio inox 304 o 316 per viti su disegno",
+    "zh": "非标螺丝如何选择 304 与 316 不锈钢",
+    "fr": "Inox 304 ou 316 pour les vis sur mesure"
+  },
+  "304 vs 316 Stainless Steel for Custom Screws | ZUFEK": {
+    "de": "304 oder 316 für Sonderschrauben? | ZUFEK",
+    "es": "Acero inoxidable 304 o 316 para tornillos | ZUFEK",
+    "it": "Acciaio inox 304 o 316 per viti su disegno | ZUFEK",
+    "zh": "非标螺丝如何选择 304 与 316 不锈钢 | ZUFEK",
+    "fr": "Inox 304 ou 316 pour les vis sur mesure | ZUFEK"
+  },
+  "Compare 303, 304, 304L, 316 and 316L for custom screws. Separate material grade, finished strength, corrosion exposure and assembly requirements.": {
+    "de": "303, 304, 304L, 316 und 316L für Sonderschrauben vergleichen. Sorte, Endfestigkeit, Korrosionsbelastung und Montageanforderung getrennt festlegen.",
+    "es": "Compare 303, 304, 304L, 316 y 316L para tornillos a medida. Distinga grado, resistencia final, corrosión y requisitos de montaje.",
+    "it": "Confronta 303, 304, 304L, 316 e 316L per viti su disegno. Distingui grado, resistenza finale, corrosione e requisiti di montaggio.",
+    "zh": "比较 303、304、304L、316 和 316L 在非标螺丝中的选用条件，区分材料牌号、成品强度、腐蚀环境及装配要求。",
+    "fr": "Comparez 303, 304, 304L, 316 et 316L pour les vis sur mesure. Distinguez nuance, résistance finale, corrosion et exigences de montage."
+  },
+  "Cold Heading & Secondary CNC Machining": {
+    "de": "Kaltstauchen mit CNC-Nachbearbeitung",
+    "es": "Conformado en frío y mecanizado CNC",
+    "it": "Stampaggio a freddo e riprese CNC",
+    "zh": "冷镦加 CNC 二次精加工",
+    "fr": "Frappe à froid et reprises CNC"
+  },
+  "Cold Heading & Secondary CNC Machining | ZUFEK": {
+    "de": "Kaltstauchen mit CNC-Nachbearbeitung | ZUFEK",
+    "es": "Conformado en frío y mecanizado CNC | ZUFEK",
+    "it": "Stampaggio a freddo e riprese CNC | ZUFEK",
+    "zh": "冷镦加 CNC 二次精加工 | ZUFEK",
+    "fr": "Frappe à froid et reprises CNC | ZUFEK"
+  },
+  "Compare a formed blank plus machining with a turned route. Review tooling, recurring cost, critical features and sample approval for custom screws.": {
+    "de": "Umformrohling mit Nachbearbeitung gegen Drehroute vergleichen. Werkzeugkosten, Stückkosten, Funktionsmerkmale und Musterfreigabe für Sonderschrauben prüfen.",
+    "es": "Compare preforma conformada más mecanizado con torneado. Revise utillaje, costes por pieza, características críticas y aprobación de muestras.",
+    "it": "Confronta grezzo formato più riprese e tornitura. Valuta attrezzaggio, costo per pezzo, quote funzionali e approvazione dei campioni.",
+    "zh": "比较冷镦毛坯加二次加工与直接车削两条路线，结合模具费用、单件成本、功能特征和样品批准，评估非标螺丝量产方案。",
+    "fr": "Comparez ébauche formée avec reprises et tournage. Examinez outillage, coût par pièce, caractéristiques critiques et validation des échantillons."
+  },
+  "Custom Screws for Automotive Components": {
+    "de": "Sonderschrauben für Automobilkomponenten",
+    "es": "Tornillos a medida para componentes de automóvil",
+    "it": "Viti su disegno per componenti automotive",
+    "zh": "汽车零部件非标螺丝定制",
+    "fr": "Vis sur mesure pour composants automobiles"
+  },
+  "Custom Screws for Automotive Components | ZUFEK": {
+    "de": "Sonderschrauben für Automobilkomponenten | ZUFEK",
+    "es": "Tornillos a medida para componentes de automóvil | ZUFEK",
+    "it": "Viti su disegno per componenti automotive | ZUFEK",
+    "zh": "汽车零部件非标螺丝定制 | ZUFEK",
+    "fr": "Vis sur mesure pour composants automobiles | ZUFEK"
+  },
+  "Review custom screws for module covers, brackets and locating interfaces, with drawing control, sample approval and order-specific documentation.": {
+    "de": "Sonderschrauben für Moduldeckel, Halter und Positionierschnittstellen prüfen. Zeichnungsstand, Musterfreigabe und auftragsspezifische Dokumente abstimmen.",
+    "es": "Evalúe tornillos para tapas, soportes e interfaces de posicionamiento, con control de planos, muestras y documentación específica del pedido.",
+    "it": "Valuta viti per coperchi, staffe e interfacce di posizionamento, con controllo disegni, approvazione campioni e documenti d’ordine.",
+    "zh": "围绕模块外壳、支架和定位接口评估非标螺丝，明确图纸版本、样品批准、批次记录及订单所需文件。",
+    "fr": "Étudiez les vis pour couvercles, pattes et interfaces de positionnement, avec suivi des plans, validation des échantillons et documents de commande."
+  },
+  "Custom Screw Inspection & Quality Records": {
+    "de": "Prüfung und Qualitätsnachweise für Sonderschrauben",
+    "es": "Inspección y registros de tornillos a medida",
+    "it": "Controlli e documenti per viti su disegno",
+    "zh": "非标螺丝检验与质量记录",
+    "fr": "Contrôle et dossiers qualité des vis sur mesure"
+  },
+  "Custom Screw Inspection & Quality Records | ZUFEK": {
+    "de": "Prüfung und Qualitätsnachweise für Sonderschrauben | ZUFEK",
+    "es": "Inspección y registros de tornillos a medida | ZUFEK",
+    "it": "Controlli e documenti per viti su disegno | ZUFEK",
+    "zh": "非标螺丝检验与质量记录 | ZUFEK",
+    "fr": "Contrôle et dossiers qualité des vis sur mesure | ZUFEK"
+  },
+  "Connect drawing requirements to dimensional checks, thread gauges, material records and assembly trials. Download inspection-plan templates.": {
+    "de": "Zeichnungsanforderungen mit Maßprüfung, Gewindelehren, Werkstoffnachweisen und Montageversuchen verknüpfen. Prüfplanvorlagen herunterladen.",
+    "es": "Relacione requisitos del plano con medición, calibres de rosca, registros de material y pruebas de montaje. Descargue plantillas de inspección.",
+    "it": "Collega requisiti del disegno a misure, calibri filettati, documenti del materiale e prove di montaggio. Scarica i modelli di controllo.",
+    "zh": "将图纸要求与尺寸检测、螺纹量规、材料记录和装配试验对应起来，下载检验计划示例及空白记录表。",
+    "fr": "Reliez les exigences du plan aux mesures, calibres filetés, dossiers matière et essais d’assemblage. Téléchargez les modèles de contrôle."
+  },
+  "About Us — Custom Fasteners Since 2005": {
+    "de": "Über uns — Sonderschrauben seit 2005",
+    "es": "Quiénes somos — fijaciones a medida desde 2005",
+    "it": "Chi siamo — fissaggi su disegno dal 2005",
+    "zh": "关于我们｜自 2005 年专注非标紧固件",
+    "fr": "À propos — fixations sur mesure depuis 2005"
+  },
+  "About Us — Custom Fasteners Since 2005 | ZUFEK": {
+    "de": "Über uns — Sonderschrauben seit 2005 | ZUFEK",
+    "es": "Quiénes somos — fijaciones a medida desde 2005 | ZUFEK",
+    "it": "Chi siamo — fissaggi su disegno dal 2005 | ZUFEK",
+    "zh": "关于我们｜自 2005 年专注非标紧固件 | ZUFEK",
+    "fr": "À propos — fixations sur mesure depuis 2005 | ZUFEK"
+  },
+  "Meet ZUFEK, a custom metal screw manufacturer in Dalang, Dongguan since 2005. Explore the products, sample process and company contact details.": {
+    "de": "ZUFEK fertigt seit 2005 Sonderschrauben in Dalang, Dongguan. Produkte, Bemusterung und Unternehmenskontakt kennenlernen.",
+    "es": "Conozca ZUFEK, fabricante de tornillos a medida en Dalang, Dongguan, desde 2005. Consulte productos, muestras y datos de contacto.",
+    "it": "Scopri ZUFEK, produttore di viti su disegno a Dalang, Dongguan, dal 2005. Consulta prodotti, campionatura e contatti aziendali.",
+    "zh": "ZUFEK 自 2005 年在东莞大朗从事非标金属螺丝制造。了解产品范围、打样流程、企业背景及联系方式。",
+    "fr": "Découvrez ZUFEK, fabricant de vis sur mesure à Dalang, Dongguan, depuis 2005. Consultez produits, échantillonnage et coordonnées."
+  }
+}

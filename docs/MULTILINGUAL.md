@@ -18,7 +18,9 @@ node scripts/verify-language-preference.mjs
 
 不要直接改生成页面。新增英文内容须补全五份字典；生成器缺少翻译时会报错。检查包括页面覆盖、对应语言链接、规范网址、内链、占位符和技术数值。自动检查不能判定所有语句是否地道。
 
-本轮语境校订在 `translations/quality-review.json`；`scripts/quality-context-review.mjs`维护对应人工审校映射。`node scripts/apply-editorial-review.mjs`最后应用此映射，避免旧审校文件覆盖新版专业术语。修改后运行完整生成、内容台账及六语言验证。`generate-site.mjs --collect-only`仅用于采集新增英文翻译键，不能作为发布构建；随后必须完整生成。技术校订流程见 `docs/CONTENT-QUALITY-IMPROVEMENTS.md`。
+本轮语境校订在 `translations/quality-review.json`；`scripts/quality-context-review.mjs`维护对应人工审校映射。`node scripts/apply-editorial-review.mjs`在旧字典之后应用此映射，再应用采购决策校订，避免旧审校文件覆盖新版专业术语。修改后运行完整生成、内容台账及六语言验证。`generate-site.mjs --collect-only`仅用于采集新增英文翻译键，不能作为发布构建；随后必须完整生成。技术校订流程见 `docs/CONTENT-QUALITY-IMPROVEMENTS.md`。
+
+2026-11-03新增采购决策算例与公共界面语境校订，来源为`scripts/buyer-localization.mjs`，生成记录在`translations/buyer-review.json`。该映射在旧审校层之后应用；更新内容时运行`node scripts/buyer-localization.mjs`，再执行完整生成。见`docs/SEO-IMPROVEMENTS-2026-11-03.md`。询盘产品参数响应保留canonical及表单状态，由不带参数的规范页声明语言对应关系。
 
 ## 语言入口与默认选择
 
@@ -34,6 +36,6 @@ node scripts/verify-language-preference.mjs
 
 ## SEO 与部署
 
-每份译文使用自身 canonical，并提供可用语言的双向 `hreflang`、`x-default`、本地化标题、描述、结构化数据和同语言内链。696个可索引语言页面进入站点地图；法律页面、404和后台遵循原有不索引设置。各语言提供 `llms.txt` 与 `llms-full.txt`。这些措施帮助发现与理解页面，不保证收录、排名或被模型引用。Sites若仍是私有访问，搜索引擎无法公开抓取。
+每份译文使用自身 canonical，并提供可用语言的双向 `hreflang`、`x-default`、本地化标题、描述、结构化数据和同语言内链。当前仓库基线的780个可索引语言页面进入站点地图；生产数据库发布文章会动态加入，不能把仓库数量当成生产总数。公共法律说明页保持`noindex,follow`，404和后台为`noindex,nofollow`。各语言提供 `llms.txt` 与 `llms-full.txt`。这些措施帮助发现与理解页面，不保证收录、排名或被模型引用。Sites若仍是私有访问，搜索引擎无法公开抓取。
 
 Docker使用同一套内容与API；运行时从英文模板及本地字典生成语言页面，避免把所有完整页面同时打入服务。更新仍使用仓库现有 `update.sh`，保留数据库及邮件配置。当前没有自动从Sites导入生产数据的步骤。

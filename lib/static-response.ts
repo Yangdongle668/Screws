@@ -6,6 +6,7 @@ import pages from './runtime-pages.json';
 import {splitLocale,localePath,locales,localizedArticleHtml,updateLanguageLinks,baselineExists} from './i18n/runtime';
 import {sourceArticle} from './translation-api';
 import {crawlResponse} from './seo/response';
+import {requestCrawlHints} from './seo/request-hints.mjs';
 export async function staticResponse(request:Request,path?:string){
  const crawl=await crawlResponse(request);if(crawl)return crawl;
  const u=new URL(request.url),pathname=path??u.pathname;
@@ -32,6 +33,7 @@ export async function staticResponse(request:Request,path?:string){
  }
  if(html&&pathname!==normalized)return Response.redirect(u.origin+normalized+u.search,308);
  if(html&&normalized!=='/admin/')html=await pageOverride(normalized,html);
+ if(html)html=requestCrawlHints(html,request.url);
  const missing=!html||base==='/404/';
  return new Response(html??localizedArticleHtml(pages['/404/'],'/404/',locale,locales),{status:missing?404:200,headers:{'Content-Type':'text/html; charset=utf-8','Content-Language':locale==='zh'?'zh-Hans':locale,'Cache-Control':'public, max-age=60','X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'self' https://chatgpt.com https://*.chatgpt.com https://*.openai.com",...(normalized==='/admin/'?{'Cache-Control':'no-store','X-Robots-Tag':'noindex, nofollow'}:{})}});
 }

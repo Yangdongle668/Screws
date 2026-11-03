@@ -29,12 +29,15 @@ jobs:
         run: |
           node scripts/verify-content.mjs
           node scripts/verify-content-quality.mjs
+          node scripts/verify-buyer-content.mjs
+          node scripts/verify-request-hints.mjs
           node scripts/verify-multilingual.mjs
           node scripts/verify-language-preference.mjs
           node scripts/verify-images.mjs
           node scripts/verify-sector-images.mjs
           node scripts/verify-priorities.mjs
           node scripts/audit-topology.mjs
+          node scripts/audit-buyer-journeys.mjs
           node scripts/audit-seo.mjs
           node scripts/verify-deep-content.mjs
           node scripts/verify-product-services.mjs

@@ -31,11 +31,11 @@ HTML pages are the primary source. This directory lists current indexable public
 
 ## 企业与核心页面
 
-- [中国东莞的非标金属螺丝制造商](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/): ZUFEK自2005起在东莞生产工程图定义的金属螺钉。探索产品、材料和完整路线。加工和取样通常需要 10–15 天，需接受审查。
-- [定制紧固件检验和质量规划](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/quality/): 指定定制紧固件的螺纹测量、尺寸检查、硬度、涂层验证、功能测试和记录。
+- [东莞非标螺丝源头制造商](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/): ZUFEK 按图制造非标金属螺丝。了解产品结构、材料与加工路线，提交图纸获取针对实际需求的报价。
+- [非标螺丝检验与质量记录](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/quality/): 将图纸要求与尺寸检测、螺纹量规、材料记录和装配试验对应起来，下载检验计划示例及空白记录表。
 - [非标金属螺丝的技术资源](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/resources/): 来自ZUFEK的实用定制螺杆设计、采购、材料和质量资源。
 - [定制螺丝技术博客](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/): 阅读非标准金属螺钉的工程制图指南、采购清单以及实用材料和质量注意事项。
-- [关于我们 — ZUFEK，东莞定制紧固件自 2005](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/about/): ZUFEK 成立于东莞大朗2005，为设备和汽车零部件供应链项目提供定制金属螺丝。
+- [关于我们｜自 2005 年专注非标紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/about/): ZUFEK 自 2005 年在东莞大朗从事非标金属螺丝制造。了解产品范围、打样流程、企业背景及联系方式。
 - [索取定制螺丝报价](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/request-a-quote/): 向 ZUFEK 发送您的工程图纸、数量和应用要求，以获得非标金属螺丝报价。
 - [Theo Wan — ZUFEK 技术编辑](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/authors/theo-wan/): 技术文章发表于Theo Wan（万天恩），即ZUFEK定制紧固件指南的编辑笔名。
 - [非标紧固件常见问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/faq/): 在请求图纸定义的金属螺钉之前回答常见的采购和工程问题。具体产品的决策仍遵循批准的图纸、数量和商定的验收要求。
@@ -45,7 +45,7 @@ HTML pages are the primary source. This directory lists current indexable public
 
 - [定制螺丝产品和非标准紧固件类型](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/): 比较台阶螺丝、安全螺钉、空心螺钉、法兰螺钉、拇指螺钉、紧定螺钉和复合螺钉结构。选择一个产品系列，然后审查材料、制造和验收。
 - [根据您的工程图纸定制螺丝 — 工具和样品](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/custom-screws/): 使用 ZUFEK 开发工程图定义的螺钉：重复生产前的几何形状审查、工艺选择、工具、样品和批准。
-- [台阶螺丝／塞打螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/shoulder-screws/): 头部、定位肩部和螺纹部分将紧固与受控间距或运动结合起来。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
+- [台阶螺丝／塞打螺丝定制](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/shoulder-screws/): 按图定制台阶螺丝，明确肩轴直径、长度、配合孔和有效螺纹。通过轴向间隙算例、材料选择及检验说明，准备更完整的询价资料。
 - [防脱螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/captive-screws/): 以固定为导向的螺钉设计。共享配合组件，以便可以一起检查固定功能。将您的工程图纸发送给 ZUFEK 进行审核。
 - [异形头螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/special-head-screws/): 可满足访问、间隙和装配要求的替代头和驱动器几何形状。将您的工程图纸发送给 ZUFEK 进行审核。
 - [主力非标螺丝](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/core-custom-screws/): 台肩式、安全式、中空式、法兰式、手动调节式和紧定螺钉设计满足日常工程要求。探索工程图定义的 ZUFEK 紧固件系列。
@@ -53,7 +53,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [特殊螺纹和刀杆](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/special-thread-screws/): 细牙距、特殊轮廓、改进的尖端以及工程图纸定义的阶梯式或锥形柄。探索工程图定义的 ZUFEK 紧固件系列。
 - [复合结构](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/compound-structure-screws/): 一个定制零件中具有多个定位特征、交叉孔、压入特征和混合螺纹部分。探索工程图定义的 ZUFEK 紧固件系列。
 - [防盗防拆螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/security-screws/): 特殊的驱动接口有助于限制随意接触，同时允许使用经批准的维修工具来操作螺钉。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
-- [空心通孔螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/hollow-screws/): 轴向孔创建穿过螺纹部件的通道，以满足特定应用的路由或流量要求。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
+- [空心通孔螺丝定制](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/hollow-screws/): 按孔道用途确定中空螺丝的孔径、剩余壁厚、去毛刺和验收要求。提交图纸及应用说明，评估走线、流通或密封连接的制造方案。
 - [非标一体法兰螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/flange-screws/): 整体式法兰提供了工程图定义的轴承足迹，无需单独处理的垫圈。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [手拧滚花螺丝与调节螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/knurled-thumb-screws/): 面向抓握的头部支持手动调节，并可选配用于指定装配方法的工具驱动装置。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
 - [非标紧定螺丝／机米螺丝定制｜按图加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/set-screws/): 无头螺纹元件通过指定的尖端传递定位或夹紧动作。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。
@@ -78,16 +78,16 @@ HTML pages are the primary source. This directory lists current indexable public
 
 ## 技术文章
 
-- [定制螺丝询价中应包含哪些内容](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-quotation-checklist/): 有用的报价始于清晰的规格。工程图是最好的起点，但样本、草图或装配描述也可以帮助定义接下来的问题。
-- [台阶螺丝图纸设计与询价指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-screw-drawing-guide/): 肩部、螺纹和头部作为一个几何体一起工作。清晰的工程图不仅说明了尺寸，还说明了哪些表面在装配中定位、旋转或夹紧。
-- [选用松不脱螺丝前需要确认的五个问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/captive-screw-design-questions/): 外加螺钉是固定系统的一部分。在最终确定螺钉工程图之前，检查面板、固定特征和配合螺纹。
+- [定制螺丝询价中应包含哪些内容](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-quotation-checklist/): 报价是否有参考价值，取决于要求是否说清楚。优先提供图纸；只有样品、草图或装配说明时，也可以先据此梳理还需要确认的参数。
+- [台阶螺丝图纸设计与询价指南](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-screw-drawing-guide/): 台阶、螺纹和头部需要作为整体设计。图纸不仅要标尺寸，还应说明哪些表面用于定位、转动配合或夹紧。
+- [选用松不脱螺丝前需要确认的五个问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/captive-screw-design-questions/): 松不脱螺丝需要与防脱结构配合使用。确定螺丝图纸前，应同时核对面板、防脱部位和配合螺纹。
 - [选择定制金属螺钉的材料](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/material-selection-custom-screws/): 材料选择从使用环境和机械要求开始。最佳规格平衡了功能、可制造性、可用性和验证。
 - [哪些因素影响非标螺丝的价格？](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-price-factors/): 定制螺丝报价反映了完整的规格和订单条件。了解成本驱动因素可以使设计评审更加高效。
 - [非标螺丝检测计划怎么制定](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-inspection-plan/): 检验计划应按特性逐项编制。每项要求都要说明验收条件、适用方法、检验工序、抽检或全检范围，以及保留什么记录。下面以台阶螺丝为例，展示如何把图纸要求转成检验记录。
 - [冷镦或 CNC 车削：选择定制螺纹路线](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/cold-heading-vs-cnc-custom-screws/): 围绕几何形状、数量、材料和所需条件选择制造工艺顺序。较低的周期成本并不总能抵消模具或二次加工的影响。
-- [高强度螺丝涂层和氢风险审查](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/high-strength-screw-coatings-hydrogen-risk/): 高强度钢紧固件需要做出涂层决策，同时考虑整个加工过程中的腐蚀和氢暴露。
-- [304、316 和 17-4PH：不同的热处理问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/stainless-screw-heat-treatment-grades/): 不锈钢描述了几种材料系列。指定等级和最终条件，而不是编写一份通用的热处理说明。
-- [台阶配合、螺纹等级与磨削工艺的选择](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-fit-thread-class-grinding/): 轴配合和螺纹公差等级控制不同的接口。在决定如何完成表面之前，先清楚地写下所需的功能。
+- [高强度螺丝的涂层选择与氢脆风险评估](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/high-strength-screw-coatings-hydrogen-risk/): 高强度钢紧固件需要做出涂层决策，同时考虑整个加工过程中的腐蚀和氢暴露。
+- [304、316 和 17-4PH：不同的热处理问题](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/stainless-screw-heat-treatment-grades/): 不锈钢包含不同材料体系，热处理要求不能一概而论。应写明具体牌号和最终状态，再确定适用的处理方式。
+- [台阶配合、螺纹公差等级与磨削工艺选择](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-fit-thread-class-grinding/): 轴配合和螺纹公差等级控制不同的接口。在决定如何完成表面之前，先清楚地写下所需的功能。
 - [防拆螺丝槽型的选型与标注](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/specifying-security-screw-drive/): 安全驱动器名称是一个起点，而不是完整的接口规范。凹槽、匹配工具和可用的装配通道必须一起工作。
 - [空心螺钉孔：询价应包含的详细信息](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/hollow-screw-bore-specification/): 轴向孔改变了制造和检查。有用的空心螺钉规范解释了通道、周围的壁以及孔内的条件。
 - [设计定制法兰螺钉的支撑面](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-flange-bearing-face/): 法兰不仅仅是头部下方的一个较大的圆圈。其支承面、刚度和间隙必须与被夹紧的部件相匹配。
@@ -133,7 +133,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [多工位冷镦成型](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/cold-heading/): 线材通过一系列模具被切割和成型。头部、法兰和一些肩部特征可以集成到可重复的生产路线中。
 - [走心式自动车床与CNC车削](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/cnc-turning/): 棒料车削和车铣操作通过灵活的编程创建工程图特定的步骤、孔和其他细节。
 - [热镦与热锻](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/hot-forging/): 在精加工操作定义最终界面之前，加热的原料可以形成更大或更重的几何形状。
-- [冷镦加二次精加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/hybrid-manufacturing/): 成型毛坯提供了基本形状；选定的加工特征建立关键台阶、面或孔。
+- [冷镦加 CNC 二次精加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/hybrid-manufacturing/): 比较冷镦毛坯加二次加工与直接车削两条路线，结合模具费用、单件成本、功能特征和样品批准，评估非标螺丝量产方案。
 - [搓丝、滚丝、车牙与攻丝](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/threading/): 螺纹牙形、材料和批量条件决定是否适合滚压、切削、磨削或内攻丝工艺。
 - [二次加工与精密加工](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/secondary-machining/): 局部孔、平面、凹槽和成品直径通常会在非标准紧固件中产生功能差异。
 - [材料专用热处理](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/heat-treatment/): 热处理选择遵循合金、所需条件和适用的验收规范。一个顺序不能应用于每个螺钉。
@@ -147,7 +147,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [定制紧固件材料 — 强度和应用](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/): 比较碳钢、10B21、SUS304/316、铝、铜、黄铜和钛的定制螺钉，并提供特定条件的强度参考和应用指南。
 - [碳钢和合金钢 — 定制螺钉强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/carbon-alloy-steel/): 定制紧固件的碳钢和合金钢强度参考、应用注意事项和询价要求。
 - [10B21 硼钢 — 定制螺钉强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/10b21-boron-steel/): 10B21 硼钢强度参考、应用注意事项和定制紧固件的询价要求。
-- [SUS304 和 SUS316 不锈钢 — 定制螺丝强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/stainless-steel-304-316/): SUS304 和 SUS316 定制紧固件的不锈钢强度参考、应用注意事项和询价要求。
+- [非标螺丝如何选择 304 与 316 不锈钢](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/stainless-steel-304-316/): 比较 303、304、304L、316 和 316L 在非标螺丝中的选用条件，区分材料牌号、成品强度、腐蚀环境及装配要求。
 - [铝合金 — 定制螺钉强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/aluminum-alloys/): 定制紧固件的铝合金强度参考、应用注意事项和询价要求。
 - [铜 — 定制螺丝强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/copper/): 定制紧固件的铜强度参考、应用注意事项和询价要求。
 - [黄铜 — 定制螺钉的强度和用途](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/brass/): 定制紧固件的黄铜强度参考、应用注意事项和询价要求。
@@ -156,7 +156,7 @@ HTML pages are the primary source. This directory lists current indexable public
 ## 行业
 
 - [行业 — 按应用分类的定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/): 探索用于汽车零部件、自动化、电子、能源设备、模具、安全、流体控制和机械的ZUFEK定制紧固件。
-- [汽车零部件定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/automotive-components/): 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
+- [汽车零部件非标螺丝定制](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/automotive-components/): 围绕模块外壳、支架和定位接口评估非标螺丝，明确图纸版本、样品批准、批次记录及订单所需文件。
 - [工业自动化定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/industrial-automation/): 台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 - [电子和光学设备定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/electronics-optics/): 为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 - [能源、充电和存储设备定制紧固件](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/energy-equipment/): 为充电、储能及相关设备的外壳、支架、走线结构和连接部位提供非标紧固方案。

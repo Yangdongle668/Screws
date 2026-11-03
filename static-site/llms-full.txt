@@ -31,7 +31,7 @@ HTML pages are the primary source. This directory lists current indexable public
 
 ## Company & core pages
 
-### Custom Metal Screws Manufacturer in Dongguan, China
+### Custom Screw Manufacturer in Dongguan, China
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/
 
 NON-STANDARD BY DESIGN
@@ -206,7 +206,7 @@ Two illustrative projects connect assembly needs with fastener structure, materi
 
 Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Browse application design studies ↗
 
-### Custom Fastener Inspection & Quality Planning
+### Custom Screw Inspection & Quality Records
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/quality/
 
 DRAWING TO ACCEPTANCE
@@ -215,7 +215,7 @@ DRAWING TO ACCEPTANCE
 
 Build the inspection plan around functional features, risk and the acceptance requirements of the actual order.
 
-CCD Vision & Dimensional Inspection
+What an inspection record should let you verify ↓ CCD Vision & Dimensional Inspection
 
 #### Dimensions & geometry
 
@@ -266,6 +266,30 @@ Prepare the inspection plan ↗
 Specify the fit and surface condition rather than assuming one machining method is mandatory. Distinguish shaft fits such as g6/h7 from thread classes such as 6g/6H.
 
 Explore verification methods ↗
+
+#### Product photographs supplied for this website
+
+These reference photographs show visible product forms. They do not establish material grade, dimensions, inspection results or a delivered customer application.
+
+Mixed threaded components and shoulder forms on a display table
+
+Threaded shanks, shoulders and tubular components photographed together
+
+#### What an inspection record should let you verify
+
+Build a traceable chain from each drawing requirement to the method, result and disposition. The downloadable forms below are planning templates; they contain no claimed production measurements.
+
+What an inspection record should let you verify Application What to specify What to check
+
+Dimensional record Part and drawing revision, lot, characteristic, limits, method/instrument identity, coverage and actual result. Distinguish recorded measurements from an agreed pass/fail screening result.
+
+Material or treatment record Material or treatment specification, lot reference and the documents or tests agreed for that requirement. Keep material identity, final hardness/strength and coating evidence distinguishable.
+
+Assembly trial Mating-part revision, installation method, functional criterion, outcome and approver. Record deviations and disposition; a dimensional pass does not establish assembly performance.
+
+For example, CCD screening can evaluate a visible shoulder profile, a thread gauge addresses its specified thread requirement, and a material record addresses a different question again. Agree the relevant methods and any external test arrangements for the order; the template does not assert that every test is performed in-house.
+
+Download the blank inspection worksheet (English) Download the worked inspection-plan example (English)
 
 ### Technical Resources for Custom Metal Screws
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/resources/
@@ -831,7 +855,7 @@ By Theo Wan Read technical guide → Show more articles ↓ No matching articles
 
 These guides support specification discussions. Application-specific engineering and manufacturing requirements need individual review.
 
-### About us — ZUFEK, Dongguan Custom Fasteners Since 2005
+### About Us — Custom Fasteners Since 2005
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/about/
 
 DONGGUAN ZUFEK PRECISION CO., LTD.
@@ -1435,7 +1459,7 @@ Provide the drawing, material, finish and intended assembly. Identify the drawin
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
-### Shoulder & Step Screws to Drawing
+### Custom Shoulder Screws to Drawing
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/shoulder-screws/
 
 CORE CUSTOM SCREWS
@@ -1446,7 +1470,7 @@ A head, a locating shoulder and a threaded section combine fastening with contro
 
 Discuss this custom part ↗ Shoulder & Step Screws
 
-DRAWING-DEFINED FEATURES 01
+Calculate the shoulder clearance from both tolerance limits ↓ DRAWING-DEFINED FEATURES 01
 
 ##### Shoulder diameter & length
 
@@ -1526,33 +1550,23 @@ Explore a proposed assembly, the fastener choices, manufacturing review and samp
 
 Review the fixture shoulder and axial-stack concept ↗
 
-#### Choose the shoulder around its actual function
+#### Calculate the shoulder clearance from both tolerance limits
 
-A locating shoulder, a rotating pivot and a spacing stop impose different requirements. For a pivot, examine the mating bore, running clearance and contact length. For a spacer, the shoulder length controls the clamped stack. For a locating feature, identify the datum axis and the surfaces that establish position. A close diameter tolerance alone does not resolve these different functions.
+For a moving plate, shoulder length must be compared with the complete stack between the seating faces. Include the washer, bushing and plate in that stack; overall screw length does not determine movement clearance.
 
-#### Check the axial stack before tightening
+Assume a shoulder length L of 8.20 ± 0.03 mm and a complete moving stack S of 8.00 ± 0.05 mm. The illustrative required axial clearance is 0.10–0.30 mm. Both dimensions refer to the final supplied condition.
 
-Consider a cover rotating on a shoulder screw. If the shoulder ends below the cover stack, tightening may clamp the moving part. If it projects too far, excessive axial play can remain. Show the complete stack, washers and seating face on the assembly drawing; then dimension the shoulder length against the intended clearance rather than copying the overall screw length. This is an illustrative design review, not a released customer design.
+Shoulder L Moving stack S Clearance L − S Worked example — illustrative inputs, not a released design or measured result.
 
-#### Protect the transition and final fit
+Calculate the shoulder clearance from both tolerance limits Calculation Result
 
-The shoulder-to-thread transition needs enough clearance for the mating part to seat. Specify usable thread engagement separately from the visible threaded length and show any relief. Review straightness, runout and surface texture where these affect motion. If heat treatment or coating follows machining, establish which shoulder dimensions are accepted in the final supplied condition and whether finishing allowance is needed.
+Minimum clearance: shortest shoulder minus thickest stack 8.17−8.05=0.12 mm
 
-#### Select the route and verify the result
+Maximum clearance: longest shoulder minus thinnest stack 8.23−7.95=0.28 mm
 
-CNC turning is a route to review for sample quantities and complex steps. Cold heading followed by local machining can be evaluated for repeat production. Grinding is selected where size, form or surface requirements justify it, rather than assumed from the product name. CCD inspection can screen accessible profiles; datum relationships, surface texture and thread acceptance need their own suitable methods.
+The calculated 0.12–0.28 mm interval lies inside the illustrative requirement. That answers this axial-clearance question only: separately check shoulder-to-bore fit, transition clearance, thread engagement and the effect of the actual assembly and service conditions.
 
-#### Review the route before fixing the quotation
-
-For shoulder & step screws, review Cold Heading + Secondary Machining, Swiss-Type & CNC Turning, Secondary & Precision Operations against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
-
-The drawing review should resolve shoulder diameter & length; thread & transition; precision options. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
-
-#### From drawing to approved samples
-
-Include mating bore details, critical shoulder dimensions, surface texture and required dimensional inspection. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
-
-The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
+Use the drawing checklist to record both interfaces Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -1580,15 +1594,15 @@ A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners 
 
 ENGINEERING GUIDE
 
-##### A practical guide to shoulder screw drawings ↗
-
-The shoulder, thread and head work together as one geometry. A clear drawing explains not only the dimensions, but also which surfaces locate, rotate or clamp in your assembly.
-
-ENGINEERING GUIDE
-
 ##### How to prepare an inspection plan for custom screws ↗
 
 Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
+
+ENGINEERING GUIDE
+
+##### High-strength screw coatings and hydrogen-risk review ↗
+
+A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing.
 
 #### How is a shoulder screw different from a fully threaded bolt?
 
@@ -2155,7 +2169,7 @@ MATERIAL & FINAL CONDITION
 
 A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance.
 
-### Hollow & Through-Hole Screws to Drawing
+### Custom Hollow & Through-Hole Screws
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/hollow-screws/
 
 CORE CUSTOM SCREWS
@@ -2166,7 +2180,7 @@ An axial bore creates a passage through a threaded component for an application-
 
 Discuss this custom part ↗ Hollow & Through-Hole Screws
 
-DRAWING-DEFINED FEATURES 01
+Specify the passage, not just the outside screw ↓ DRAWING-DEFINED FEATURES 01
 
 ##### Bore geometry
 
@@ -2240,33 +2254,21 @@ Can CCD inspect the complete bore? External silhouette inspection cannot establi
 
 Are hollow screws pressure-rated? A through hole does not create a pressure rating. Material, sealing design, service conditions and the required verification must be specified for the application.
 
-#### Begin with the passage function
+#### Specify the passage, not just the outside screw
 
-A cable passage, air passage and sealing connection need different acceptance criteria. For a cable, edge condition and clearance may dominate. A fluid passage may also need an internal finish, cleanliness limit or specified functional test. State the medium and mating components so the bore is reviewed as part of the assembly rather than as an isolated hole.
+A cable feed-through, an air passage and a pressure-retaining connection need different acceptance checks even when the outside screw looks identical. State what passes through the bore and which surfaces perform the sealing or locating function.
 
-#### Dimension the weakest and least accessible features
+Specify the passage, not just the outside screw Application What to specify What to check
 
-Show bore diameter, depth, entry form, intersecting holes and the remaining wall at the thread root. The outer diameter is not the available wall thickness once the thread is cut or formed. Long, small bores and intersecting passages need a machining and inspection review. Define the datum relationship if the bore must remain aligned with a shoulder or sealing feature.
+Cable or tube feed-through Minimum clear bore, entry/exit edge condition and the route through the installed part. Check passage with a suitable gauge or representative item; inspect both edges and intersections for damaging burrs.
 
-#### Control burrs where they can cause failure
+Flow passage Bore size and length, intersecting holes, cleanliness and any specified flow requirement. Check the accessible bore geometry; use a separate agreed cleanliness or flow test when required.
 
-A radial hole crossing an axial bore can leave an internal edge that cannot be judged from an external photograph. State which edges must be broken, whether loose material is permitted and how cleanliness is accepted. An illustrative cable-routing example should check both the finished bore clearance and the edge that contacts the cable; diameter alone is insufficient.
+Sealed connection Medium, pressure/temperature conditions, sealing interface and approved test criteria. Verify sealing geometry and the specified test separately; a through-hole or camera image does not establish pressure suitability.
 
-#### Separate dimensional and functional acceptance
+Review the smallest remaining wall at the thread root and at intersecting holes. Plan how drilling burrs can be removed and checked before a later operation hides them. For internal surfaces, agree a suitable access or inspection method instead of treating external CCD screening as complete bore inspection.
 
-Vision screening can check suitable external features but does not establish the full internal passage. Agree an appropriate bore check and any pressure, flow or leak test with defined conditions. Do not infer a pressure rating from the term hollow screw. Material compatibility, sealing geometry and assembly conditions must be addressed before a functional requirement is released.
-
-#### Review the route before fixing the quotation
-
-For hollow & through-hole screws, review Swiss-Type & CNC Turning, Secondary & Precision Operations, Cleaning, Locking & Assembly against the drawing and quantity. Identify which features can be produced in the initial shape and which require a separate setup. A change to a functional shoulder, bore, drive or thread can change the proposed route as well as the inspection effort.
-
-The drawing review should resolve bore geometry; wall & thread relationship; internal finish. Keep material condition and finishing allowance attached to those requirements. Define the acceptance condition for critical features and approve any proposed dimensional change before comparing samples with the original assembly.
-
-#### From drawing to approved samples
-
-State bore diameter and depth, permitted burrs, cleanliness and any agreed leak or pressure test. A through hole alone does not establish a pressure rating. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
-
-The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
+Connect bore finishing, cleaning and inspection Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -9101,7 +9103,7 @@ DRAWING-DEFINED DESIGN
 
 A drawing-specific T-head engages a matching slot for positioning or clamping.
 
-### Cold Heading + Secondary Machining
+### Cold Heading & Secondary CNC Machining
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/hybrid-manufacturing/
 
 ROUTE 04 / HYBRID
@@ -9110,7 +9112,7 @@ ROUTE 04 / HYBRID
 
 A formed blank provides the basic shape; selected machined features establish critical steps, faces or holes.
 
-Cold Heading + Secondary Machining
+Compare setup cost and recurring cost separately ↓ Cold Heading + Secondary Machining
 
 #### Why combine processes
 
@@ -9166,17 +9168,25 @@ Visual references help explain geometry and finish. Material properties, coating
 
 Process outcome reference; final requirements follow the approved drawing.
 
-#### Inputs and outputs for Cold Heading + Secondary Machining
+#### Compare setup cost and recurring cost separately
 
-The process review begins with Shoulder & Step Screws, Multi-Step & Multi-Shoulder Screws, Double-Ended Shoulder Screws, Custom Flange Screws and the actual drawing, not a generic equipment list. Identify the incoming stock or part condition and the dimensions that must remain controlled at this stage.
+Compare complete routes to the same finished drawing, including secondary machining, treatment, inspection and scrap assumptions. The following currency-unit example demonstrates the calculation; these are invented teaching inputs, not ZUFEK prices.
 
-Use the process topics above to resolve why combine processes; typical feature split; finish-sensitive shoulders; drawing requirements. Record the selected requirements in the order specification. A process name does not establish the resulting tolerance, property class or inspection coverage.
+Compare setup cost and recurring cost separately Route One-time setup F Recurring cost v per part
 
-#### Coordinate the next operation
+Formed blank plus secondary machining 2000 0.08
 
-The next review may involve Secondary & Precision Operations or Material-Specific Heat Treatment. Check which surfaces are used to locate the part, whether the next operation changes dimensions and at what stage final acceptance is measured. Where a requirement cannot be checked after assembly or finishing, agree an intermediate check as well as final verification.
+Turned route 100 0.25
 
-For samples involving tooling, the typical lead time is approximately 10–15 days, subject to drawing review and confirmation of material, finishing and inspection scope. The complete route determines the confirmed schedule; the duration is not a promise for each individual process.
+For a single batch q: total cost = F + v × q. With the illustrative inputs, the equal-cost quantity is (2000 − 100) ÷ (0.25 − 0.08), approximately 11177 parts when rounded up. This is not a universal cold-heading threshold.
+
+At 1000 parts: formed route 2080 units; turned route 350 units.
+
+At 20000 parts: formed route 3600 units; turned route 5100 units.
+
+For repeat orders, spread reusable tooling over the agreed production horizon and identify maintenance or replacement costs separately. A route change still needs sample validation: a turned prototype does not automatically approve the material condition, geometry and surface produced by a later forming route.
+
+Download the route-cost comparison worksheet (English) Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -10341,7 +10351,7 @@ ENGINEERING GUIDE
 
 A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing.
 
-### SUS304 & SUS316 Stainless Steel — Custom Screw Strength & Uses
+### 304 vs 316 Stainless Steel for Custom Screws
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/stainless-steel-304-316/
 
 GRADE / CONDITION / FINAL REQUIREMENT
@@ -10351,6 +10361,8 @@ GRADE / CONDITION / FINAL REQUIREMENT
 Austenitic stainless choices for parts where corrosion exposure, surface condition and the specified fastener strength class need to be considered together.
 
 Material appearance reference; grade and properties require documentation.
+
+Turn the material shortlist into an order requirement ↓
 
 #### Strength reference
 
@@ -10440,17 +10452,21 @@ Use a common set of functional, environmental and acceptance requirements before
 
 Follow the material and strength selection workflow ↗
 
-#### Read the strength data in the right condition
+#### Turn the material shortlist into an order requirement
 
-A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance. A material stock value is not automatically the load rating of a screw or assembled joint. Keep the grade, product form, condition and applicable specification attached to the value when comparing alternatives. Review the thread engagement and mating material independently of the stock tensile figure.
+Choose the grade for the environment, then specify the finished-part requirement. A free-machining knob, a general enclosure screw and a chloride-exposed connection do not justify the same material substitution.
 
-304 and 316 are not precipitation-hardening grades. Review the actual environment rather than assuming any stainless part is corrosion-proof. Consider thread galling, mating metals, cleaning and passivation. Form and final condition affect the mechanical requirements.
+Turn the material shortlist into an order requirement Application What to specify What to check
 
-#### A practical selection and approval sequence
+Machined adjustment knob Review 303 where machining productivity matters and the exposure permits it. Approve corrosion and fabrication suitability before substituting it for 304.
 
-For SUS304 & SUS316 Stainless Steel, first define 304 or 316 grade requirement; finished fastener class where applicable; exposure medium and mating metals; surface condition, passivation and thread acceptance. Compare those requirements with the service environment and the functional geometry. If the starting requirement is only a material family, resolve the grade and condition before comparing final quotations.
+General equipment cover Review 304 with the actual cleaning medium, mating metal and assembly conditions. Specify final strength where applicable and consider thread galling during assembly.
 
-Review the chosen material with Swiss-Type & CNC Turning, Coatings & Surface Treatments, CCD Vision & Dimensional Inspection. Agree what evidence is needed at sample approval and what must accompany repeat batches. A substitute grade or condition requires approval; a similar appearance or nominal strength is not sufficient evidence of interchangeability.
+Chloride-exposed installation Review 316 against concentration, temperature and crevice conditions. Do not infer corrosion-free service, or select 316L solely because it sounds stronger.
+
+In the RFQ, enter the designation standard and grade, final condition or fastener class where applicable, finish, mating material and required documents as separate fields. A stock certificate identifies the supplied material; it does not by itself verify every final-part property or the assembled connection.
+
+Download the material specification worksheet (English)
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -11036,7 +11052,7 @@ Two illustrative projects connect assembly needs with fastener structure, materi
 
 Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Browse application design studies ↗
 
-### Automotive Components Custom Fasteners
+### Custom Screws for Automotive Components
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/automotive-components/
 
 DRAWING & LOT CONTROL
@@ -11046,6 +11062,8 @@ DRAWING & LOT CONTROL
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 Discuss your application ↗ Industry overview
+
+Start the automotive RFQ with the actual joint ↓
 
 #### Repeatable geometry
 
@@ -11083,21 +11101,21 @@ Explore a proposed assembly, the fastener choices, manufacturing review and samp
 
 Automotive module enclosure fastener design study ↗
 
-#### Translate the application into a fastener specification
+#### Start the automotive RFQ with the actual joint
 
-For automotive components, the first task is to connect the fastener geometry with the equipment interface. Repeatable geometry: Define functional shoulders, bearing faces, threads and drive requirements with the mating component. Material and surface condition: Connect final properties, finish, friction and corrosion requirements in one approved specification. Sample and lot documentation: Agree revision control, sample approval, inspection records, lot labels and packaging before production. Explain the environment and service sequence alongside the drawing so the review addresses the installed component.
+An enclosure cover, a painted bracket and a locating interface impose different requirements. Use the rows below to prepare a component-level discussion; they are design-review examples, not evidence of a delivered or OEM-approved project.
 
-Send the component drawing, interface requirements, expected batch quantities and order-specific quality documents. ZUFEK’s automotive experience includes component supply-chain projects associated with Mercedes-Benz and BMW vehicle applications.
+Start the automotive RFQ with the actual joint Application What to specify What to check
 
-#### Select a route around the functional features
+Serviceable module cover Opening sequence, tool access, usable engagement and any captive-retention requirement. Check removal and reassembly with the representative cover, not only the tightened screw.
 
-The relevant product families include Custom Flange Screws, Shoulder & Step Screws, Custom Double-Ended Studs, Security & Tamper-Resistant Screws. These are starting points for a drawing review, not interchangeable parts. Compare Carbon & Alloy Steel, 10B21 Boron Steel, SUS304 & SUS316 Stainless Steel against the actual mechanical and environmental requirements.
+Painted bracket Bearing-face envelope, coating contact, permissible marking and specified tightening conditions. Evaluate seating and coating damage; use the agreed assembly method for any functional trial.
 
-Discuss Multi-Station Cold Heading, Cold Heading + Secondary Machining, CCD Vision & Dimensional Inspection as part of the complete route. Identify sample quantity, critical characteristics, finish and required records before approval. A sector name alone does not imply a project certification or a blanket test scope.
+Locating shoulder Mating bore, datum relationship, axial stack and final coated dimensions. Record dimensional acceptance separately from clamp or motion validation.
 
-#### Plan sample approval and repeat orders
+Before sample release, agree the drawing revision, required submission documents, lot identification and change-approval responsibilities. If the programme requires PPAP, material records or special testing, identify the exact deliverables during quotation rather than assuming that an automotive label includes them.
 
-Typical sampling, including tooling, takes approximately 10–15 days, subject to technical review and confirmation. Confirm the schedule basis, sample acceptance and any mating-part trial in the quotation. Release repeat production against the approved revision and record changes to material, treatment or geometry rather than relying on a previous photograph.
+Review the illustrative module enclosure study Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.
 
 CONNECTED SPECIFICATION TOPICS
 

@@ -1,0 +1,8 @@
+﻿"Illustrative inputs only; currency units, not a ZUFEK quotation"
+"Route","Setup F","Recurring cost v","Quantity q","Total F + v*q"
+"Formed blank + machining","2000","0.08","1000","2080"
+"Turned route","100","0.25","1000","350"
+"Formed blank + machining","2000","0.08","20000","3600"
+"Turned route","100","0.25","20000","5100"
+"Equal-cost quantity (rounded up)","11177"
+"Replace all assumptions; include secondary work, treatment, inspection and expected tooling life."

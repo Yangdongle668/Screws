@@ -22,6 +22,21 @@ let cookie;
 try{
  await start();
  assert.equal((await request('/')).status,200);
+ // Exercise the real shared response path, not just the crawl-hint helper.
+ for(const prefix of ['','/de','/es','/it','/zh','/fr']){
+  const path=prefix+'/request-a-quote/';
+  const base=await(await request(path)).text();
+  assert(base.split('</head>')[0].includes('hreflang='));
+  const variant=await request(path+'?product=shoulder-screws');
+  assert.equal(variant.status,200);
+  const html=await variant.text();
+  assert(html.includes('rel="canonical" href="'+origin+path+'"'));
+  assert(!html.split('</head>')[0].includes('hreflang='));
+  assert(html.includes('id="quote-form"')&&html.includes('value="shoulder-screws"'));
+  assert(html.includes('data-language="de"'));
+  const privacy=await(await request(prefix+'/privacy/')).text();
+  assert(privacy.includes('content="noindex,follow"'));
+ }
  assert.equal((await request('/admin/')).status,303);
  assert.equal((await request('/api/admin/inquiries',{headers:{'oai-authenticated-user-id':'forged','oai-authenticated-user-email':'qa@example.invalid','CF-Connecting-IP':'forged'}})).status,401);
  assert.equal((await request('/auth/login',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded',Origin:'https://other.invalid'},body:new URLSearchParams({email:environment.ADMIN_EMAIL,password})})).status,403);

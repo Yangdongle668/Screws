@@ -31,16 +31,16 @@ HTML pages are the primary source. This directory lists current indexable public
 
 ## Unternehmen & Kernseiten
 
-### Hersteller kundenspezifischer Metallschrauben in Dongguan, China
+### Hersteller für Sonderschrauben in Dongguan
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/
 
-NICHT STANDARD DURCH DESIGN
+SONDERTEILE NACH ZEICHNUNG
 
 ### Hersteller für Sonderschrauben.
 
-DONGGUAN ZUFEK PRECISION CO., LTD. Herstellung von nicht standardmäßigen Metallschrauben in Dalang, Dongguan seit 2005. Von Werkzeugen und Mustern bis hin zur Wiederholungsproduktion, basierend auf Ihrer genehmigten Konstruktionszeichnung.
+DONGGUAN ZUFEK PRECISION CO., LTD. Seit 2005 fertigt ZUFEK Sonderschrauben in Dalang, Dongguan. Werkzeugbau, Bemusterung und Serienfertigung richten sich nach Ihrer freigegebenen Zeichnung.
 
-Besprechen Sie Ihr individuelles Teil ↗ Entdecken Sie Produkte ↗ 01 / Überprüfung anhand technischer Zeichnungen 02 / B2B-Beschaffung NACH IHREN BEDÜRFNISSEN ENTWICKELT ZF—01 Schulter- und Passschrauben
+Ihr Zeichnungsteil anfragen ↗ Produkte entdecken ↗ 01 / Technische Prüfung nach Zeichnung 02 / B2B-Beschaffung NACH IHREN BEDÜRFNISSEN ENTWICKELT ZF—01 Schulter- und Passschrauben
 
 Sicherheits- und manipulationshemmende Schrauben
 
@@ -52,13 +52,13 @@ Rändel- und Einstellschrauben
 
 Kundenspezifische Gewindestifte und Madenschrauben
 
-‹ › Ⅱ Maßgeschneiderte Schulterschraube Anschauliche Geometrie / nicht maßstabsgetreu IHRE Konstruktionszeichnung. UNSER AUSGANGSPUNKT. ENTDECKEN SIE DAS SORTIMENT ↓
+‹ › Ⅱ Schulterschraube nach Zeichnung Prinzipskizze / nicht maßstäblich IHRE ZEICHNUNG. UNSER AUSGANGSPUNKT. ENTDECKEN SIE DAS SORTIMENT ↓
 
 01 / PRODUKTPALETTE
 
-#### Über den Standardkatalog hinaus.
+#### Wenn Katalogteile nicht passen.
 
-Alle Produktfamilien anzeigen ↗ Entdecken Sie benutzerdefinierte Schraubenkonfigurationen. Die endgültige Geometrie, das Material und die Machbarkeit der Herstellung werden anhand Ihrer Spezifikation überprüft.
+Alle Produktfamilien anzeigen ↗ Entdecken Sie Schraubenbauformen nach Zeichnung. Geometrie, Werkstoff und Herstellbarkeit prüfen wir anhand Ihrer Anforderungen.
 
 Gängige Sonderschrauben
 
@@ -116,9 +116,9 @@ Kundenspezifische Befestigungs- und Verbindungsgeometrien für Gerätegehäuse, 
 
 Kaltstauchen mit anschließender Zerspanung
 
-Eine klare technische Zeichnung sorgt für ein besseres Gespräch. 02 / VON DER SPEZIFIKATION ZUR LÖSUNG
+Eine klare Zeichnung erleichtert die technische Abstimmung. 02 / VON DER SPEZIFIKATION ZUR LÖSUNG
 
-#### Die Details machen der Unterschied.
+#### Die Details machen den Unterschied.
 
 Kopfgeometrie. Gewinde-Anforderungen. Eine kritische Schulterdimension. Ihre Bewerbung beginnt mit Details, die ein Standardkatalog möglicherweise nicht abdeckt.
 
@@ -172,90 +172,90 @@ Titansorten werden in Betracht gezogen, wenn Masse, Korrosionseinwirkung und erf
 
 Berührungslose optische Kontrollen von Schraubenlänge, Kopfdurchmesser und sichtbaren Stufenprofilen, kombiniert mit den in der Konstruktionszeichnung geforderten Lehren und Prüfungen.
 
-CCD-Bildverarbeitung und Maßprüfung ↗ Definieren Sie die Prüfung. Stimmen Sie den Beweisen zu. ↗ CCD-Bildverarbeitung und Maßprüfung
+CCD-Bildverarbeitung und Maßprüfung ↗ Prüfung festlegen. Nachweise abstimmen. ↗ CCD-Bildverarbeitung und Maßprüfung
 
 04 / INGENIEURWISSEN
 
-#### Bessere Fragen. Bessere Spezifikationen.
+#### Gezielter fragen. Klarer spezifizieren.
 
 Besuchen Sie den technischen Blog ↗ BESCHAFFUNG 3 MIN. LESEN
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Haltesystems. Überprüfen Sie die Platte, das Halteelement und das Gegengewinde zusammen, bevor Sie die Schraubenkonstruktionszeichnung fertigstellen.
+Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
-ANWENDUNGSDESIGN-STUDIEN
+ANWENDUNGSSTUDIEN
 
 #### Sehen Sie sich die Entscheidungen im Kontext an.
 
-Zwei anschauliche Projekte verbinden Montageanforderungen mit Verbindungselementstruktur, Material, Verarbeitung und einem Genehmigungsplan.
+Zwei illustrative Studien verbinden Montageanforderungen mit Schraubengeometrie, Werkstoff, Fertigung und Freigabeplan.
 
-Automotive-Modulgehäuse ↗ Automatisierungsdreh- und Verstellvorrichtung ↗ Durchsuchen Sie Studien zum Anwendungsdesign ↗
+Automotive-Modulgehäuse ↗ Automatisierung: Drehpunkt und Einstellvorrichtung ↗ Anwendungsstudien ansehen ↗
 
-### Kundenspezifische Inspektion und Qualitätsplanung von Verbindungselementen
+### Prüfung und Qualitätsnachweise für Sonderschrauben
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/quality/
 
 Konstruktionszeichnung bis zur Abnahme
 
-### Definieren Sie die Prüfung. Stimmen Sie den Beweisen zu.
+### Prüfung festlegen. Nachweise abstimmen.
 
 Erstellen Sie den Inspektionsplan anhand der Funktionsmerkmale, des Risikos und der Abnahmeanforderungen des tatsächlichen Auftrags.
 
-CCD-Bildverarbeitung und Maßprüfung
+Was ein Prüfprotokoll nachvollziehbar machen sollte ↓ CCD-Bildverarbeitung und Maßprüfung
 
 #### Abmessungen und Geometrie
 
 Schultern, Längen, Beziehungen zwischen geometrischen Bezugspunkten, Position, Exzentrizität, Rundlauf und Oberflächenrauheit.
 
-Überprüfen Sie den relevanten Prozess ↗
+Passendes Verfahren ansehen ↗
 
 #### Gewindeinspektionsabnahme
 
 Die angegebene Gewindebezeichnung, Passung, nutzbarer Eingriff und entsprechende Gut/Schlecht-Prüfungen.
 
-Überprüfen Sie den relevanten Prozess ↗
+Passendes Verfahren ansehen ↗
 
-#### Material & Zustand
+#### Werkstoff und Zustand
 
 Materialnachweis, spezifizierte HV/HRC Härte-, Festigkeits- und Wärmebehandlungsdokumentation.
 
-Überprüfen Sie den relevanten Prozess ↗
+Passendes Verfahren ansehen ↗
 
 #### Oberfläche & Sauberkeit
 
 Schichtdicke, vereinbarte Korrosionstests, Grate und spezifizierte Sauberkeitsextraktions-/Partikelkriterien.
 
-Überprüfen Sie den relevanten Prozess ↗
+Passendes Verfahren ansehen ↗
 
 #### Funktions- und Fachprüfungen
 
 Drehmoment-, Zug-, Ermüdungs-, Metallographie- oder Wasserstoffbewertung, sofern die Anwendung dies erfordert.
 
-Überprüfen Sie den relevanten Prozess ↗
+Passendes Verfahren ansehen ↗
 
 #### Aufzeichnungen und Genehmigung
 
 Überarbeitung der technischen Zeichnung, vereinbarte Bemusterung, Erstmuster-/Mustergenehmigung, Rückverfolgbarkeit und angeforderte Berichte.
 
-Überprüfen Sie den relevanten Prozess ↗
+Passendes Verfahren ansehen ↗
 
 #### Vollständige Inspektion, wo es gerechtfertigt ist.
 
-Vereinbaren Sie, welche Merkmale eine 100 %-Prüfung erfordern und welche einen genehmigten Probenahmeplan verwenden. Eine volldimensionale Prüfung ersetzt nicht die Anforderungen an Material- oder Zerstörungsprüfungen.
+Festlegen, welche Merkmale zu 100% geprüft werden und welche nach freigegebenem Stichprobenplan. Vollständige Maßsortierung ersetzt keine Werkstoff- oder zerstörenden Prüfungen.
 
 Optische CCD-Maßprüfungen, Gewindelehren und mechanische Prüfungen berücksichtigen unterschiedliche Eigenschaften. Die berührungslose Silhouettenmessung unterstützt zugängliche externe Funktionen; Interne Geometrie und andere Anforderungen erfordern geeignete ergänzende Methoden. Die Verfügbarkeit und etwaige externe Laborvereinbarungen werden im Angebot bestätigt.
 
@@ -266,6 +266,30 @@ Bereiten Sie den Inspektionsplan vor ↗
 Geben Sie die Passform und den Oberflächenzustand an, anstatt davon auszugehen, dass eine Bearbeitungsmethode zwingend erforderlich ist. Unterscheiden Sie Wellenpassungen wie g6/h7 von Gewindeklassen wie 6g/6H.
 
 Entdecken Sie Verifizierungsmethoden ↗
+
+#### Für diese Website bereitgestellte Produktfotos
+
+Diese Referenzfotos zeigen sichtbare Produktformen. Sie legen keine Materialgüte, Abmessungen, Prüfergebnisse oder eine gelieferte Kundenanwendung fest.
+
+Gemischte Gewindeteile und Schulterformen auf einem Ausstellungstisch
+
+Gewindeschäfte, Schultern und Rohrkomponenten zusammen fotografiert
+
+#### Was ein Prüfprotokoll nachvollziehbar machen sollte
+
+Jede Zeichnungsanforderung muss mit Methode, Ergebnis und Entscheidung verknüpft sein. Die herunterladbaren Formulare sind Planungsvorlagen und enthalten keine behaupteten Produktionsmesswerte.
+
+Was ein Prüfprotokoll nachvollziehbar machen sollte Anwendung Festzulegen Zu prüfen
+
+Maßprüfprotokoll Teil und Zeichnungsstand, Los, Merkmal, Grenzwerte, Methode/Gerätekennung, Prüfumfang und tatsächliches Ergebnis. Messwerte von vereinbarten Gut/Schlecht-Sortierergebnissen unterscheiden.
+
+Werkstoff- oder Behandlungsnachweis Werkstoff- oder Behandlungsvorgabe, Losbezug und die dafür vereinbarten Dokumente oder Prüfungen. Materialidentität, endgültige Härte/Festigkeit und Beschichtungsnachweise getrennt halten.
+
+Montageversuch Gegenstückrevision, Montageverfahren, Funktionskriterium, Ergebnis und Freigabeverantwortlicher. Abweichungen und Entscheidung dokumentieren; Maßkonformität belegt keine Montagefunktion.
+
+Beispielsweise kann CCD eine sichtbare Schulterkontur prüfen, eine Gewindelehre die dafür festgelegte Gewindeanforderung und ein Werkstoffnachweis wiederum einen anderen Sachverhalt. Vereinbaren Sie geeignete Methoden und externe Prüfungen für den Auftrag; die Vorlage behauptet keine vollständige interne Prüfausstattung.
+
+Leeres Prüfblatt herunterladen (Englisch) Prüfplanbeispiel herunterladen (Englisch)
 
 ### Technische Ressourcen für kundenspezifische Metallschrauben
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/resources/
@@ -302,19 +326,19 @@ Alle Artikel ↗ BESCHAFFUNG 3 MIN. LESEN
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Haltesystems. Überprüfen Sie die Platte, das Halteelement und das Gegengewinde zusammen, bevor Sie die Schraubenkonstruktionszeichnung fertigstellen.
+Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -342,7 +366,7 @@ Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Mat
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
-##### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -350,11 +374,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN
 
 ##### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -552,13 +576,13 @@ Die Verpackung gehört zum Lieferzustand. Es soll Funktionsflächen schützen, d
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
-ANWENDUNGSDESIGN-STUDIEN
+ANWENDUNGSSTUDIEN
 
 #### Sehen Sie sich die Entscheidungen im Kontext an.
 
-Zwei anschauliche Projekte verbinden Montageanforderungen mit Verbindungselementstruktur, Material, Verarbeitung und einem Genehmigungsplan.
+Zwei illustrative Studien verbinden Montageanforderungen mit Schraubengeometrie, Werkstoff, Fertigung und Freigabeplan.
 
-Automotive-Modulgehäuse ↗ Automatisierungsdreh- und Verstellvorrichtung ↗ Durchsuchen Sie Studien zum Anwendungsdesign ↗
+Automotive-Modulgehäuse ↗ Automatisierung: Drehpunkt und Einstellvorrichtung ↗ Anwendungsstudien ansehen ↗
 
 #### Entdecken Sie die vollständige Spezifikation.
 
@@ -579,19 +603,19 @@ ALLE ARTIKEL BESCHAFFUNG DESIGN & ABMESSUNGEN MATERIALIEN & AUSFÜHRUNGEN QUALIT
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Haltesystems. Überprüfen Sie die Platte, das Halteelement und das Gegengewinde zusammen, bevor Sie die Schraubenkonstruktionszeichnung fertigstellen.
+Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -619,7 +643,7 @@ Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Mat
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
-##### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -627,11 +651,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN
 
 ##### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -831,7 +855,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → Weitere Artikel anzeigen �
 
 Diese Leitfäden unterstützen Spezifikationsdiskussionen. Anwendungsspezifische technische und fertigungstechnische Anforderungen bedürfen einer individuellen Prüfung.
 
-### Über uns – ZUFEK, Dongguan Custom Fasteners seit 2005
+### Über uns — Sonderschrauben seit 2005
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/about/
 
 DONGGUAN ZUFEK PRECISION CO., LTD.
@@ -894,13 +918,13 @@ info@zufek.net ↗ Fügen Sie eine Überarbeitung der technischen Zeichnung, die
 
 Angebot anfordern ↗
 
-ANWENDUNGSDESIGN-STUDIEN
+ANWENDUNGSSTUDIEN
 
 #### Sehen Sie sich die Entscheidungen im Kontext an.
 
-Zwei anschauliche Projekte verbinden Montageanforderungen mit Verbindungselementstruktur, Material, Verarbeitung und einem Genehmigungsplan.
+Zwei illustrative Studien verbinden Montageanforderungen mit Schraubengeometrie, Werkstoff, Fertigung und Freigabeplan.
 
-Automotive-Modulgehäuse ↗ Automatisierungsdreh- und Verstellvorrichtung ↗ Durchsuchen Sie Studien zum Anwendungsdesign ↗
+Automotive-Modulgehäuse ↗ Automatisierung: Drehpunkt und Einstellvorrichtung ↗ Anwendungsstudien ansehen ↗
 
 #### Für diese Website bereitgestellte Produktfotos
 
@@ -912,7 +936,7 @@ Gewindeschäfte, Schultern und Rohrkomponenten zusammen fotografiert
 
 #### Bemusterung, Werkzeugbau und Produktionsplanung
 
-Die typische Vorlaufzeit für die Herstellung von Prototypmustern, einschließlich der Werkzeuge, beträgt etwa 10–15 Tage. Der bestätigte Zeitplan folgt der Prüfung der technischen Zeichnung und der Einigung über Material-, Geometrie-, Oberflächenbehandlungs- und Inspektionsanforderungen. Klären Sie den Startmeilenstein im Angebot. Die Lieferung von Wiederholungsproduktionen wird für die Menge und die genehmigte Route separat angeboten.
+Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung von Werkstoff, Geometrie, Oberfläche und Prüfung bestätigt. Den Startpunkt im Angebot festlegen; Serienlieferungen werden nach Stückzahl und freigegebener Route separat terminiert.
 
 Senden Sie eine überarbeitete technische Zeichnung, eine Mustermenge, das erwartete Bestellvolumen und die beabsichtigte Anwendung. Identifizieren Sie Funktionsabmessungen und erforderliche Dokumente, damit die technische Überprüfung vor der Werkzeug- und Musterfreigabe wichtige Details klären kann.
 
@@ -951,7 +975,7 @@ Wir kümmern uns um die Klärung der Machbarkeit und der Angebotsdetails.
 
 #### Bemusterung, Werkzeugbau und Produktionsplanung
 
-Die typische Vorlaufzeit für die Herstellung von Prototypmustern, einschließlich der Werkzeuge, beträgt etwa 10–15 Tage. Der bestätigte Zeitplan folgt der Prüfung der technischen Zeichnung und der Einigung über Material-, Geometrie-, Oberflächenbehandlungs- und Inspektionsanforderungen. Klären Sie den Startmeilenstein im Angebot. Die Lieferung von Wiederholungsproduktionen wird für die Menge und die genehmigte Route separat angeboten.
+Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung von Werkstoff, Geometrie, Oberfläche und Prüfung bestätigt. Den Startpunkt im Angebot festlegen; Serienlieferungen werden nach Stückzahl und freigegebener Route separat terminiert.
 
 Senden Sie eine überarbeitete technische Zeichnung, eine Mustermenge, das erwartete Bestellvolumen und die beabsichtigte Anwendung. Identifizieren Sie Funktionsabmessungen und erforderliche Dokumente, damit die technische Überprüfung vor der Werkzeug- und Musterfreigabe wichtige Details klären kann.
 
@@ -986,19 +1010,19 @@ Alle 42 Artikel ↗ durchsuchen BESCHAFFUNG 3 MIN. LESEN
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Haltesystems. Überprüfen Sie die Platte, das Halteelement und das Gegengewinde zusammen, bevor Sie die Schraubenkonstruktionszeichnung fertigstellen.
+Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -1026,7 +1050,7 @@ Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Mat
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
-##### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -1034,7 +1058,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN
 
 ##### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → Sehen Sie sich den vollständigen technischen Blog an ↗
 
@@ -1343,7 +1367,7 @@ BESCHAFFUNG 3 MIN. LESEN
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -1361,7 +1385,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN
 
 ##### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -1435,7 +1459,7 @@ Stellen Sie die technische Zeichnung, das Material, die Ausführung und die gepl
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
-### Schulter- und Stufenschrauben gemäß technischer Zeichnung
+### Schulterschrauben nach Zeichnung
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/products/shoulder-screws/
 
 GÄNGIGE SONDERSCHRAUBEN
@@ -1446,7 +1470,7 @@ Kopf, Passschaft und Gewindeabschnitt verbinden die Befestigung mit einer defini
 
 Dieses Zeichnungsteil anfragen ↗ Schulter- und Passschrauben
 
-Konstruktionszeichnung – DEFINIERTE MERKMALE 01
+Axialspiel aus beiden Toleranzgrenzen berechnen ↓ Konstruktionszeichnung – DEFINIERTE MERKMALE 01
 
 ##### Schulterdurchmesser und -länge
 
@@ -1498,7 +1522,7 @@ Automobilkomponenten ↗ Industrielle Automatisierung ↗
 
 #### Nützliche technische Lektüre
 
-Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗ Beschichtungszugabe für Gewinde und Präzisionsschultern ↗ Was die CCD-Sichtprüfung an einer kundenspezifischen Schraube überprüfen kann ↗
+Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ Beschichtungszugabe für Gewinde und Präzisionsschultern ↗ Was die CCD-Sichtprüfung an einer kundenspezifischen Schraube überprüfen kann ↗
 
 #### Schulterschrauben: Konstruktionszeichnung und Abnahmematrix
 
@@ -1506,13 +1530,13 @@ Diese Matrix hilft bei der technischen Abstimmung. Maße und Prüfverfahren werd
 
 Schnittstelle Was zu definieren ist Verifizierungsdiskussion
 
-Aufnahmedurchmesser Durchmessergrenzen, passende Bohrung und akzeptierter Endzustand Das Maß mit einem geeigneten, kalibrierten Messverfahren prüfen; vorgeschriebene Formabweichungen gesondert bewerten.
+Aufnahmedurchmesser Durchmessergrenzen, Gegenbohrung und vereinbarter Endzustand Das Maß mit einem geeigneten, kalibrierten Messverfahren prüfen; vorgeschriebene Formabweichungen gesondert bewerten.
 
-Axiale Schulterlänge Sitzfläche zum Schulterübergang; Stapel und erforderlicher Freiraum Von der Funktionsfläche aus messen; Überprüfen Sie den montierten axialen Zustand
+Axiale Schulterlänge Abstand von der Anlagefläche zum Schulterübergang; Bauteilstapel und Spiel Von der Funktionsfläche messen; Axialverhalten im montierten Zustand prüfen
 
-Beziehung zwischen Schulter und Gewinde Bezugsachse, Übergangsspiel und nutzbares Gewinde Geometriemessung und Gewindemessung separat vereinbaren
+Beziehung zwischen Schulter und Gewinde Bezugsachse, Übergangsspiel und nutzbares Gewinde Geometrieprüfung und Gewindelehrung getrennt vereinbaren
 
-Auflagefläche Oberflächenbeschaffenheit, Behandlungsumfang und Kantenzustand Verwenden Sie die erforderliche Oberflächenmethode. Eine Silhouette legt keine Textur fest
+Auflagefläche Oberflächenbeschaffenheit, Behandlungsbereich und Kantenzustand Verwenden Sie die erforderliche Oberflächenmethode. Eine Silhouette legt keine Textur fest
 
 #### Häufige Fragen zur Spezifikation
 
@@ -1524,35 +1548,25 @@ Muss jede Ansatzschraube geschliffen werden? Nein. Die endgültige Größe, Form
 
 Erkunden Sie eine vorgeschlagene Baugruppe, die Auswahl der Befestigungselemente, die Fertigungsprüfung und den Mustervalidierungsplan. Hierbei handelt es sich um eine illustrative Designstudie ohne Anspruch auf Kundenlieferung oder gemessene Leistung.
 
-Überprüfen Sie das Konzept der Vorrichtungsschulter und des Axialstapels ↗
+Schulter und Axialstapel der Vorrichtung ansehen ↗
 
-#### Wählen Sie die Schulter nach ihrer eigentlichen Funktion
+#### Axialspiel aus beiden Toleranzgrenzen berechnen
 
-Ob der Schaft positioniert, als Drehzapfen dient oder einen Abstand festlegt, führt zu unterschiedlichen Anforderungen. Bei einer Drehstelle sind Gegenbohrung, Laufspiel und Kontaktlänge zu prüfen. Bei einer Distanzfunktion bestimmt die Schulterlänge die axiale Anordnung der Bauteile. Für die Positionierung müssen Bezugsachse und tatsächlich anliegende Flächen festgelegt werden. Eine enge Durchmessertoleranz allein ersetzt diese Funktionsbetrachtung nicht.
+Bei einer beweglichen Platte ist die Schulterlänge mit dem gesamten Bauteilstapel zwischen den Anlageflächen zu vergleichen. Scheibe, Buchse und Platte gehören dazu; die Gesamtlänge der Schraube bestimmt das Bewegungsspiel nicht.
 
-#### Überprüfen Sie den Axialstapel vor dem Festziehen
+Angenommen werden L = 8.20 ± 0.03 mm Schulterlänge und S = 8.00 ± 0.05 mm Gesamtstapelhöhe. Das beispielhafte geforderte Axialspiel beträgt 0.10–0.30 mm. Beide Maße gelten für den endgültigen Lieferzustand.
 
-Stellen Sie sich eine Abdeckung vor, die sich auf einer Ansatzschraube dreht. Wenn die Schulter unterhalb des Abdeckungsstapels endet, kann es beim Anziehen zu einer Klemmung des beweglichen Teils kommen. Bei zu weitem Überstand kann ein zu großes Axialspiel bestehen bleiben. Zeigen Sie den kompletten Stapel, die Unterlegscheiben und die Sitzfläche auf der Montagezeichnung an. Bemaßen Sie dann die Schulterlänge anhand des vorgesehenen Abstands, anstatt die Gesamtlänge der Schraube zu kopieren. Dies ist eine illustrative Designbewertung, kein veröffentlichtes Kundendesign.
+Schulter L Beweglicher Stapel S Spiel L − S Rechenbeispiel — illustrative Annahmen, keine freigegebene Konstruktion oder Messwerte.
 
-#### Schützen Sie den Übergang und die endgültige Passform
+Axialspiel aus beiden Toleranzgrenzen berechnen Berechnung Ergebnis
 
-Der Übergang von der glatten Schulter zum Schraubengewinde benötigt genügend Spiel, damit das Gegenstück sitzt. Geben Sie den nutzbaren Gewindeeingriff im Gegenstück getrennt von der sichtbaren Gewindelänge an und weisen Sie ggf. eine Freistellung aus. Überprüfen Sie Geradheit, Rundlauf und Oberflächenrauheit, wenn diese die Bewegung beeinflussen. Wenn auf die Bearbeitung eine Wärmebehandlung oder Beschichtung folgt, stellen Sie fest, welche Schulterabmessungen im endgültigen Lieferzustand akzeptiert werden und ob eine Schlichtzugabe erforderlich ist.
+Kleinstes Spiel: kürzeste Schulter minus größter Stapel 8.17−8.05=0.12 mm
 
-#### Wählen Sie die Route aus und überprüfen Sie das Ergebnis
+Größtes Spiel: längste Schulter minus kleinster Stapel 8.23−7.95=0.28 mm
 
-Das CNC-Drehen ist eine Methode zur Überprüfung von Mustermengen und komplexen Schritten. Kaltstauchen mit anschließender lokaler Bearbeitung kann für die Wiederholungsproduktion ausgewertet werden. Das Schleifen wird dann gewählt, wenn Größe, Form oder Oberflächenanforderungen dies rechtfertigen, und nicht aus dem Produktnamen abgeleitet. Die CCD-Inspektion kann zugängliche Profile überprüfen. Zusammenhänge zwischen geometrischen Bezugsgrößen, Oberflächenrauheit und Gewindeprüfabnahme bedürfen eigener, geeigneter Methoden.
+Das berechnete Intervall von 0.12–0.28 mm liegt innerhalb der beispielhaften Vorgabe. Damit ist nur diese Axialspielfrage beantwortet. Schulter-Bohrungs-Passung, Übergangsfreiraum, Gewindeeingriff sowie Montage- und Betriebsbedingungen sind gesondert zu prüfen.
 
-#### Fertigungsablauf vor Angebotsfreigabe klären
-
-Überprüfen Sie für Schulter- und Stufenschrauben Kaltstauchen + Sekundärbearbeitung, Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsbearbeitung anhand der technischen Zeichnung und Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
-
-Bei der Überprüfung der technischen Zeichnung sollten Schulterdurchmesser und -länge ermittelt werden. Gewinde & Übergang; Präzisionsoptionen. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
-
-#### Von der Zeichnung zur Musterfreigabe
-
-Berücksichtigen Sie die Details der Passbohrung, kritische Schulterabmessungen, die Oberflächenrauheit und die erforderliche Maßprüfung. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
-
-Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+Beide Schnittstellen mit der Zeichnungscheckliste erfassen Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage nach technischer Prüfung und Bestätigung. Starttermin, Musterabnahme und Serienlieferplan im Angebot vereinbaren.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -1560,19 +1574,19 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
 10B21 ist eine Werkstoffbezeichnung und keine Festigkeitsklasse des fertigen Verbindungselements. Für 10B21-Schrauben lässt sich daher keine einheitliche Zugfestigkeit angeben.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
@@ -1580,15 +1594,15 @@ A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschraub
 
 ENGINEERING-LEITFADEN
 
-##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
-
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
-
-ENGINEERING-LEITFADEN
-
 ##### So erstellen Sie einen Prüfplan für kundenspezifische Schrauben ↗
 
 Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
+
+ENGINEERING-LEITFADEN
+
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
+
+Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
 #### Was unterscheidet eine Schulterschraube von einer Vollgewindeschraube?
 
@@ -1651,7 +1665,7 @@ DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube ↗
 
-Eine unverlierbare Schraube ist Teil eines Haltesystems. Überprüfen Sie die Platte, das Halteelement und das Gegengewinde zusammen, bevor Sie die Schraubenkonstruktionszeichnung fertigstellen.
+Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -1782,19 +1796,19 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
 Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kupfer ↗
 
 Die Kupferfestigkeit variiert erheblich je nach Legierung, Produktform und Härte. Im Folgenden handelt es sich um eine typische Lagerreferenz und nicht um eine Anforderung zur Schraubenabnahme.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Titan und Titanlegierungen ↗
 
@@ -2149,13 +2163,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-### Hohl- und Durchgangsschrauben gemäß technischer Zeichnung
+### Hohlschrauben mit Durchgangsbohrung
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/products/hollow-screws/
 
 GÄNGIGE SONDERSCHRAUBEN
@@ -2166,7 +2180,7 @@ Eine axiale Bohrung führt durch das Gewindeteil und bildet einen anwendungsspez
 
 Dieses Zeichnungsteil anfragen ↗ Hohlschrauben und Schrauben mit Durchgangsbohrung
 
-Konstruktionszeichnung – DEFINIERTE MERKMALE 01
+Den Durchgang spezifizieren, nicht nur die äußere Schraube ↓ Konstruktionszeichnung – DEFINIERTE MERKMALE 01
 
 ##### Bohrungsgeometrie
 
@@ -2230,7 +2244,7 @@ Axialer Durchgang Durchmesser, Tiefe, Ein- und Austrittsgeometrie Vereinbaren Si
 
 Restliche Mauer Bohrungsposition gegenüber dem Gewindegrund und den Außenstufen Überprüfen Sie die Schnitt- und Bezugsbeziehung. Der Außendurchmesser allein reicht nicht aus
 
-Kreuzlochkreuzung Lochposition, innerer Gratzustand und Reinigung Geben Sie den Inspektionszugang und den akzeptablen Kantenzustand an
+Kreuzlochkreuzung Bohrungslage, innere Grate und Reinigung Prüfzugang und zulässigen Kantenzustand festlegen
 
 Funktionale Anforderung Kabelfreiraum oder definierte Flüssigkeitstestbedingungen Testen Sie das passende Kabel oder führen Sie den separat angegebenen Test durch
 
@@ -2240,33 +2254,21 @@ Kann CCD die komplette Bohrung prüfen? Bei der Prüfung der Außensilhouette ka
 
 Sind Hohlschrauben druckfest? Eine Durchgangsbohrung ergibt keine Druckstufe. Material, Dichtungsausführung, Einsatzbedingungen und die erforderlichen Nachweise müssen für den Anwendungsfall spezifiziert werden.
 
-#### Beginnen Sie mit der Durchgangsfunktion
+#### Den Durchgang spezifizieren, nicht nur die äußere Schraube
 
-Ein Kabeldurchgang, ein Luftdurchgang und eine Dichtverbindung erfordern unterschiedliche Akzeptanzkriterien. Bei einem Kabel können Kantenbeschaffenheit und Abstand dominieren. Für einen Flüssigkeitsdurchgang sind unter Umständen auch eine Innenbearbeitung, eine Reinheitsgrenze oder ein spezifizierter Funktionstest erforderlich. Geben Sie das Medium und die passenden Komponenten an, damit die Bohrung als Teil der Baugruppe und nicht als isolierte Bohrung betrachtet wird.
+Kabeldurchführung, Luftkanal und druckhaltende Verbindung brauchen unterschiedliche Abnahmeprüfungen, auch bei gleicher Außenkontur. Geben Sie an, was die Bohrung durchläuft und welche Flächen abdichten oder positionieren.
 
-#### Dimensionieren Sie die schwächsten und am wenigsten zugänglichen Funktionen
+Den Durchgang spezifizieren, nicht nur die äußere Schraube Anwendung Festzulegen Zu prüfen
 
-Zeigen Sie Bohrungsdurchmesser, Tiefe, Eintrittsform, sich schneidende Löcher und die verbleibende Wand am Gewindegrund an. Der Außendurchmesser ist nicht die verfügbare Wandstärke, sobald das Gewinde geschnitten oder geformt ist. Lange, kleine Bohrungen und sich kreuzende Durchgänge erfordern eine Bearbeitungs- und Inspektionsprüfung. Definieren Sie die Bezugsbeziehung, wenn die Bohrung an einer Schulter oder einem Dichtungsmerkmal ausgerichtet bleiben muss.
+Kabel- oder Schlauchdurchführung Lichter Mindestdurchmesser, Ein- und Austrittskanten und Durchgang im eingebauten Zustand. Durchgängigkeit mit geeignetem Prüfdorn oder repräsentativem Gegenstand prüfen; beide Kanten und Bohrungsverschneidungen auf schädliche Grate kontrollieren.
 
-#### Kontrollieren Sie Grate dort, wo sie Fehler verursachen können
+Strömungskanal Bohrungsdurchmesser und -länge, Querbohrungen, Sauberkeit und gegebenenfalls geforderter Durchfluss. Zugängliche Bohrungsgeometrie prüfen; bei Bedarf eine gesondert vereinbarte Sauberkeits- oder Durchflussprüfung durchführen.
 
-Ein radiales Loch, das eine axiale Bohrung kreuzt, kann eine Innenkante hinterlassen, die anhand eines Außenfotos nicht beurteilt werden kann. Geben Sie an, welche Kanten gebrochen werden müssen, ob loses Material erlaubt ist und wie auf Sauberkeit geachtet wird. Anhand eines anschaulichen Kabelführungsbeispiels sollten sowohl der Abstand der fertigen Bohrung als auch die Kante, die das Kabel berührt, überprüft werden. Der Durchmesser allein reicht nicht aus.
+Dichtende Verbindung Medium, Druck- und Temperaturbedingungen, Dichtschnittstelle und freigegebene Prüfkriterien. Dichtgeometrie und vorgeschriebene Prüfung getrennt nachweisen; Durchgangsbohrung oder Kamerabild belegen keine Druckeignung.
 
-#### Getrennte Maß- und Funktionsabnahme
+Prüfen Sie die kleinste Restwand an Gewindegrund und Querbohrungen. Planen Sie Gratentfernung und -kontrolle, bevor ein Folgeschritt den Zugang verdeckt. Vereinbaren Sie für Innenflächen eine geeignete Zugangs- oder Prüfmethode; äußere CCD-Prüfung ist keine vollständige Bohrungsprüfung.
 
-Mit dem Sehscreening können geeignete äußere Merkmale überprüft werden, es wird jedoch nicht der vollständige innere Durchgang festgestellt. Vereinbaren Sie eine entsprechende Bohrungsprüfung und etwaige Druck-, Durchfluss- oder Lecktests mit definierten Bedingungen. Aus dem Begriff Hohlschraube darf keine Druckstufe abgeleitet werden. Bevor eine Funktionsanforderung freigegeben wird, müssen Materialverträglichkeit, Dichtungsgeometrie und Montagebedingungen berücksichtigt werden.
-
-#### Fertigungsablauf vor Angebotsfreigabe klären
-
-Überprüfen Sie für Hohl- und Durchgangslochschrauben Swiss-Type- und CNC-Drehen, Sekundär- und Präzisionsbearbeitung, Reinigung, Verriegelung und Montage anhand der technischen Zeichnung und der Menge. Identifizieren Sie, welche Features in der Ausgangsform hergestellt werden können und welche eine separate Einrichtung erfordern. Eine Änderung an einer Funktionsschulter, Bohrung, einem Antrieb oder einem Gewinde kann sowohl die vorgeschlagene Route als auch den Inspektionsaufwand verändern.
-
-Die Überprüfung der technischen Zeichnung sollte die Bohrungsgeometrie klären; Beziehung zwischen Wand und Gewinde; interne Verarbeitung. Halten Sie die Materialbeschaffenheit und die Endbearbeitungszugabe an diese Anforderungen geknüpft. Definieren Sie die Akzeptanzbedingung für kritische Merkmale und genehmigen Sie alle vorgeschlagenen Maßänderungen, bevor Sie Muster mit der Originalbaugruppe vergleichen.
-
-#### Von der Zeichnung zur Musterfreigabe
-
-Geben Sie Bohrungsdurchmesser und -tiefe, zulässige Grate, Sauberkeit und alle vereinbarten Dichtheits- oder Drucktests an. Eine Durchgangsbohrung allein ergibt noch keinen Druckwert. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
-
-Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+Bohrungsnacharbeit, Reinigung und Prüfung abstimmen Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage nach technischer Prüfung und Bestätigung. Starttermin, Musterabnahme und Serienlieferplan im Angebot vereinbaren.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -2274,19 +2276,19 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
 Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kupfer ↗
 
@@ -2417,13 +2419,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -2498,7 +2500,7 @@ Industrielle Automatisierung ↗ Formen, Werkzeuge und Prüfvorrichtungen ↗
 
 #### Nützliche technische Lektüre
 
-Rändelschrauben: Griffigkeit und Einstellung festlegen ↗ Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗ Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
+Rändelschrauben: Griffigkeit und Einstellung festlegen ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗
 
 #### Rändelschrauben: Griff und Einstellmatrix
 
@@ -2560,19 +2562,19 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
 Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Messing ↗
 
@@ -2697,7 +2699,7 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
@@ -2926,7 +2928,7 @@ Augen- und Gelenkschrauben nach Zeichnung ↗ Kundenspezifische doppelseitige Bo
 
 #### Nützliche technische Lektüre
 
-Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Ringschrauben für Gestänge und Hebevorrichtungen: unterschiedliche Spezifikationsanforderungen ↗
+Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Ringschrauben für Gestänge und Hebevorrichtungen: unterschiedliche Spezifikationsanforderungen ↗
 
 #### Lösen Sie nur gegen eine zugelassene Hebekonstruktion
 
@@ -3005,7 +3007,7 @@ Vierkantschrauben nach Zeichnung ↗ Kundenspezifische doppelseitige Bolzen ↗ 
 
 #### Nützliche technische Lektüre
 
-So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗ Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗
+So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗
 
 #### Innengeometrie und passende Stützen
 
@@ -3351,13 +3353,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kupfer ↗
 
@@ -3426,7 +3428,7 @@ Elektronische und optische Ausrüstung ↗
 
 #### Nützliche technische Lektüre
 
-Gewindelehren und individuelle Schraubenaufnahme ↗ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗
+Gewindelehren und individuelle Schraubenaufnahme ↗ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 #### Pitch, Hub und Verriegelung
 
@@ -3450,13 +3452,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Messing ↗
 
 Die Stärke ändert sich mit der Zusammensetzung und dem Temperament. Das folgende Beispiel enthält veröffentlichte typische H02-Stangendaten und darf nicht auf alle Messingbefestigungen angewendet werden.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Titan und Titanlegierungen ↗
 
@@ -3525,7 +3527,7 @@ Flüssigkeitssteuerung und pneumatische Ausrüstung ↗
 
 #### Nützliche technische Lektüre
 
-Gerollte oder geschnittene Gewinde: Fragen, die in der Ausschreibung geklärt werden müssen ↗ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗
+Gerollte oder geschnittene Gewinde: Fragen, die in der Ausschreibung geklärt werden müssen ↗ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 #### Vollständige Profildefinition
 
@@ -3549,7 +3551,7 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Messing ↗
 
@@ -3640,7 +3642,7 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -4189,7 +4191,7 @@ Flanschschrauben nach Zeichnung ↗ Schrauben mit integriertem Positionierstift 
 
 #### Nützliche technische Lektüre
 
-Kundenspezifische Einpressbolzen: Geben Sie sowohl das Paneel als auch das Befestigungselement an ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗
+Kundenspezifische Einpressbolzen: Geben Sie sowohl das Paneel als auch das Befestigungselement an ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 #### Panelkompatibilität und Einsteckakzeptanz
 
@@ -4218,7 +4220,7 @@ BESCHAFFUNG / 3 MIN. READ
 
 ### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Metallschrauben nach Zeichnung
 
@@ -4294,7 +4296,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 ### Ein praktischer Leitfaden für Schulterschraubenzeichnungen
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Schulter- und Passschrauben
 
@@ -4340,7 +4342,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -4352,7 +4354,7 @@ Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnu
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
-##### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -4364,13 +4366,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -4390,7 +4392,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 ### Fünf Fragen vor der Spezifizierung einer unverlierbaren Schraube
 
-Eine unverlierbare Schraube ist Teil eines Haltesystems. Überprüfen Sie die Platte, das Halteelement und das Gegengewinde zusammen, bevor Sie die Schraubenkonstruktionszeichnung fertigstellen.
+Eine unverlierbare Schraube ist Teil eines Rückhaltesystems. Platte, Rückhaltegeometrie und Gegengewinde gemeinsam prüfen, bevor die Schraubenzeichnung freigegeben wird.
 
 Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Unverlierbare Schrauben
 
@@ -4430,11 +4432,11 @@ DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -4514,7 +4516,7 @@ MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
 ##### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -4526,7 +4528,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → BESCHAFFUNG 3 MIN. LESEN
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden →
 
@@ -4586,7 +4588,7 @@ BESCHAFFUNG 3 MIN. LESEN
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → BESCHAFFUNG 2 MIN. LESEN
 
@@ -4608,13 +4610,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
 Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kupfer ↗
 
@@ -4712,11 +4714,11 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN.
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
-##### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -4728,13 +4730,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -4808,7 +4810,7 @@ Von Theo Wan Lesen Sie den technischen Leitfaden → BESCHAFFUNG 3 MIN. LESEN
 
 ##### Was in einer Anfrage für kundenspezifische Schrauben enthalten sein sollte ↗
 
-Ein sinnvolles Angebot beginnt mit einer klaren Spezifikation. Eine Konstruktionszeichnung ist der beste Ausgangspunkt, aber auch ein Muster, eine Skizze oder eine Montagebeschreibung können bei der Definition der nächsten Fragen hilfreich sein.
+Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -4822,13 +4824,13 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Mehrstufen-Kaltstauchen ↗ Langdrehen und CNC-Drehen ↗ Kaltstauchen mit anschließender Zerspanung ↗
 
-### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos
+### Beschichtungen hochfester Schrauben und Wasserstoffrisiko
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
 
 MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
-### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos
+### Beschichtungen hochfester Schrauben und Wasserstoffrisiko
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -4882,7 +4884,7 @@ Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem 
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -4910,13 +4912,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -4936,7 +4938,7 @@ MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
 ### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Werkstoffspezifische Wärmebehandlung
 
@@ -5012,13 +5014,13 @@ Carpenter 17-4PH Daten
 
 BSSA: Verschleißfestigkeit von rostfreien Stählen
 
-### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens
+### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
-### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens
+### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5068,7 +5070,7 @@ DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
 ##### Ein praktischer Leitfaden für Schulterschraubenzeichnungen ↗
 
-Schulter, Gewinde und Kopf bilden eine einzige Geometrie. Eine klare Konstruktionszeichnung erklärt nicht nur die Abmessungen, sondern auch, welche Flächen Ihre Baugruppe positionieren, drehen oder klemmen.
+Schulter, Gewinde und Kopf müssen zusammenpassen. Eine klare Zeichnung zeigt neben den Maßen, welche Flächen in der Baugruppe positionieren, Bewegung ermöglichen oder klemmen.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -5098,13 +5100,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -5186,7 +5188,7 @@ Eine Einpressverbindung ist abhängig von der Platte, dem Loch und dem Montagevo
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5202,7 +5204,7 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
@@ -5300,13 +5302,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
@@ -5404,13 +5406,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -5480,7 +5482,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5508,13 +5510,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
@@ -5614,7 +5616,7 @@ Unterschiedliche Gewindes an den beiden Enden können ein Schnittstellenproblem 
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5634,7 +5636,7 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
@@ -5710,7 +5712,7 @@ Eine Einpressverbindung ist abhängig von der Platte, dem Loch und dem Montagevo
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5796,7 +5798,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5888,7 +5890,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -5968,7 +5970,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6060,7 +6062,7 @@ Durch die Kombination eines kleinen Fixierstifts mit einer Schraube können sepa
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6140,7 +6142,7 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6168,13 +6170,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kupfer ↗
 
@@ -6336,7 +6338,7 @@ Durch die Kombination eines kleinen Fixierstifts mit einer Schraube können sepa
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6428,7 +6430,7 @@ Eine Verjüngung wirkt gegen eine entsprechende Fläche. Sein Winkel, seine axia
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6606,7 +6608,7 @@ Ein T-Kopf muss in den vorgesehenen Schlitz eindringen, sich darin drehen oder g
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6692,7 +6694,7 @@ Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Mat
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
-##### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -6708,7 +6710,7 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Messing ↗
 
@@ -6790,7 +6792,7 @@ Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Mat
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6870,13 +6872,13 @@ TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen,
 
 MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
-##### Hochfeste Schraubenbeschichtungen und Überprüfung des Wasserstoffrisikos ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -6898,13 +6900,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -6976,7 +6978,7 @@ MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
 ##### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → MATERIALIEN & AUSFÜHRUNGEN 2 MIN. LESEN
 
@@ -7082,13 +7084,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -7186,13 +7188,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
@@ -7370,13 +7372,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -7464,7 +7466,7 @@ Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnu
 
 Von Theo Wan Lesen Sie den technischen Leitfaden → DESIGN & ABMESSUNGEN 2 MIN. LESEN
 
-##### Schaftpassung, Gewindetoleranz und der Einsatz des Schleifens ↗
+##### Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
@@ -7492,13 +7494,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -7772,13 +7774,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Messing ↗
 
 Die Stärke ändert sich mit der Zusammensetzung und dem Temperament. Das folgende Beispiel enthält veröffentlichte typische H02-Stangendaten und darf nicht auf alle Messingbefestigungen angewendet werden.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Titan und Titanlegierungen ↗
 
@@ -7880,13 +7882,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -8795,7 +8797,7 @@ Werkzeuginvestitionen, Chargenmenge, Material, Kopf-Schaft-Verhältnisse und die
 
 Durch Kaltumformung kann ein günstiger Kornfluss und eine Kaltverfestigung erzielt werden. Die endgültigen Eigenschaften hängen immer noch vom Material, der Verformung, der Wärmebehandlung und den überprüften Abnahmeanforderungen ab.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -8823,7 +8825,7 @@ Produktionsökonomie Separate Werkzeuge, Muster, wiederkehrende Mengen und Sekun
 
 Musterfreigabe Identifizieren Sie Produktionsroutenmuster und kritische Formmerkmale Was muss erneut bestätigt werden, wenn ein früher Prototyp bearbeitet wurde?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -8851,13 +8853,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -8914,7 +8916,7 @@ Geben Sie Bohrtiefe, Wandstärke, Beziehungen zwischen geometrischen Bezugspunkt
 
 Der Materialabtrag erhöht die Spanbildung und kann die Stückkosten erhöhen. Ein bearbeitetes Teil ist nicht grundsätzlich schwächer als ein geformtes Teil: Güte, Geometrie, Wärmebehandlung und Belastung bestimmen die Leistung.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -8942,7 +8944,7 @@ Lagerbestand und Endzustand Geben Sie Qualität/Zustand und spätere Behandlung 
 
 Von der Probe bis zur Produktion Identifizieren Sie Routenunterschiede und wiederholte Chargenanforderungen Ist der genehmigte Prototyp repräsentativ für die endgültige Produktionsroute?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -8970,19 +8972,19 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
 Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kupfer ↗
 
@@ -9033,7 +9035,7 @@ Bei der vorgesehenen Belastung sind Radien, Abschnittsübergänge und Materialbe
 
 Berücksichtigen Sie die Materialqualität, die Geometrie, die Menge, die mechanischen Anforderungen und den Umfang aller erforderlichen Tests und Dokumentationen.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9061,7 +9063,7 @@ Materialzustand Geben Sie die Wärmebehandlung und die mechanische Abnahme an We
 
 Belastungsbezogene Anwendung Stellen Sie das genehmigte Design und den nachverfolgbaren Verifizierungsumfang bereit Wenn es sich um Hebevorgänge handelt, wer genehmigt den Entwurf und die entsprechende Bewertung?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9101,7 +9103,7 @@ Konstruktionszeichnung – DEFINIERTES DESIGN
 
 Ein für die Konstruktionszeichnung spezifischer T-Kopf greift zum Positionieren oder Klemmen in einen passenden Schlitz ein.
 
-### Kaltstauchen mit anschließender Zerspanung
+### Kaltstauchen mit CNC-Nachbearbeitung
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/capabilities/hybrid-manufacturing/
 
 ROUTE 04 / HYBRID
@@ -9110,7 +9112,7 @@ ROUTE 04 / HYBRID
 
 Ein umgeformter Rohling liefert die Grundform; Ausgewählte bearbeitete Merkmale bilden kritische Stufen, Flächen oder Löcher.
 
-Kaltstauchen mit anschließender Zerspanung
+Einmalkosten und laufende Stückkosten getrennt vergleichen ↓ Kaltstauchen mit anschließender Zerspanung
 
 #### Warum Prozesse kombinieren?
 
@@ -9122,13 +9124,13 @@ Kopf und Schaft durch Umformen rau; Schulterfinish, Reliefs, Abflachungen oder S
 
 #### Finishempfindliche Schultern
 
-Durch Wärmebehandlung und Beschichtung können sich die Abmessungen oder der Oberflächenzustand verändern. Planen Sie die Präzisionsbearbeitung und Endmessung zum richtigen Zeitpunkt.
+Wärmebehandlung und Beschichtung können Maße oder Oberfläche verändern. Präzisionsnacharbeit und Endmessung in der passenden Prozessstufe planen.
 
 #### Anforderungen an technische Zeichnungen
 
 Identifizieren Sie funktionale Passungen und Beziehungen zwischen geometrischen Daten. Die Ausschreibung sollte kritische Merkmale von Abmessungen unterscheiden und eine größere Fertigungsflexibilität bieten.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9156,7 +9158,7 @@ Komplette Sequenz Gewinde, Behandlung, Veredelung und Beschichtung aufeinander a
 
 Streckenübertragung Vergleichen Sie Muster- und Wiederholungsproduktionsmethoden Welche Merkmale bedürfen einer fertigungsbegleitenden Stichprobenprüfung?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9166,17 +9168,25 @@ Die Bilder veranschaulichen Geometrie und Oberfläche. Werkstoffeigenschaften, B
 
 Beispiel eines Bearbeitungsergebnisses; maßgeblich ist die freigegebene Zeichnung.
 
-#### Ein- und Ausgänge für Kaltstauchen mit anschließender Zerspanung
+#### Einmalkosten und laufende Stückkosten getrennt vergleichen
 
-Die Prozessüberprüfung beginnt mit Schulter- und Stufenschrauben, Mehrstufen- und Mehrschulterschrauben, doppelseitigen Schulterschrauben, kundenspezifischen Flanschschrauben und der eigentlichen Konstruktionszeichnung, nicht einer allgemeinen Ausrüstungsliste. Identifizieren Sie den Zustand des eingehenden Bestands oder Teils und die Abmessungen, die in dieser Phase kontrolliert bleiben müssen.
+Vergleichen Sie vollständige Routen für dieselbe Fertigzeichnung einschließlich Nachbearbeitung, Behandlung, Prüfung und Ausschussannahmen. Das folgende Beispiel in Geldeinheiten erklärt die Rechnung. Es sind erfundene Lehrwerte, keine ZUFEK-Preise.
 
-Verwenden Sie die oben genannten Prozessthemen, um herauszufinden, warum Prozesse kombiniert werden sollten. typische Funktionsaufteilung; abschlussempfindliche Schultern; Anforderungen an technische Zeichnungen. Erfassen Sie die ausgewählten Anforderungen in der Auftragsspezifikation. Ein Prozessname legt nicht die resultierende Toleranz, Eigenschaftsklasse oder Prüfabdeckung fest.
+Einmalkosten und laufende Stückkosten getrennt vergleichen Route Einmalige Einrichtung F Laufende Kosten v je Teil
 
-#### Koordinieren Sie den nächsten Einsatz
+Umformrohling mit Nachbearbeitung 2000 0.08
 
-Die nächste Überprüfung könnte Sekundär- und Präzisionsoperationen oder materialspezifische Wärmebehandlung umfassen. Prüfen Sie, welche Oberflächen zur Positionierung des Teils verwendet werden, ob sich durch den nächsten Arbeitsgang die Abmessungen ändern und in welchem ​​Stadium die Endabnahme erfolgt. Wenn eine Anforderung nach der Montage oder Fertigstellung nicht überprüft werden kann, vereinbaren Sie eine Zwischenprüfung sowie eine Endprüfung.
+Drehroute 100 0.25
 
-Für Proben mit Werkzeugen beträgt die typische Vorlaufzeit etwa 10–15 Tage, vorbehaltlich der Überprüfung der technischen Zeichnung und der Bestätigung von Material, Endbearbeitung und Prüfumfang. Die komplette Route bestimmt den bestätigten Fahrplan; Die Dauer ist kein Versprechen für jeden einzelnen Prozess.
+Für eine Charge q: Gesamtkosten = F + v × q. Mit den Beispielwerten liegt die Kostengleichheit bei (2000 − 100) ÷ (0.25 − 0.08), aufgerundet etwa 11177 Teilen. Das ist keine allgemeine Kaltstauchgrenze.
+
+Bei 1000 Teilen: Umformroute 2080 Einheiten; Drehroute 350 Einheiten.
+
+Bei 20000 Teilen: Umformroute 3600 Einheiten; Drehroute 5100 Einheiten.
+
+Bei Folgeaufträgen wiederverwendbare Werkzeuge auf den vereinbarten Produktionshorizont verteilen und Wartung oder Ersatz getrennt ausweisen. Ein Routenwechsel braucht weiterhin Musterprüfung: Ein gedrehter Prototyp gibt Werkstoffzustand, Geometrie und Oberfläche einer späteren Umformroute nicht automatisch frei.
+
+Arbeitsblatt für den Routenkostenvergleich herunterladen (Englisch) Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage nach technischer Prüfung und Bestätigung. Starttermin, Musterabnahme und Serienlieferplan im Angebot vereinbaren.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -9229,7 +9239,7 @@ Beim Schneiden wird Material abgetragen; Formgewindeschneiden verdrängt ein aus
 
 Definieren Sie Bezeichnung, Klasse, nutzbare Länge, Rundlauf und Spurweite. Rollen kann unter geeigneten Bedingungen das Ermüdungsverhalten verbessern, ist jedoch keine umfassende Festigkeitsgarantie. Überprüfen Sie, ob das Gewinde vor oder nach der Wärmebehandlung auftritt.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9237,7 +9247,7 @@ Schrauben mit Fein- und Feinstgewinde ↗ Spezielle und zusammengesetzte Gewinde
 
 #### Verwandte technische Leitfäden
 
-Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗ Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Stellschraube ↗ So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗
+Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗ Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Stellschraube ↗ So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗
 
 #### Fahren Sie mit dem Vorgang fort
 
@@ -9257,7 +9267,7 @@ Methodenauswahl Überprüfen Sie das Walzen/Umformen, Schneiden oder Gewindeschn
 
 Endabnahme Vereinbaren Sie Stärken, kundenspezifische Profilmethoden und Beschichtungszugabe Ist die Abnahme im Anlieferungszustand definiert und nicht erst vor der Fertigstellung?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9285,13 +9295,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
 Die gleiche Legierung in einem anderen Zustand hat unterschiedliche Eigenschaften. Bei den folgenden Zahlen handelt es sich um Beispiele für spezifiziertes extrudiertes Material, nicht um eine Bewertung der fertigen Schnecke.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Messing ↗
 
@@ -9348,7 +9358,7 @@ Versatzdrehen, abgewinkelte Flächen, Hinterschnitte, Clinchen und kontrollierte
 
 Außen-, Spitzenlos- oder Gewindeschleifen kann den spezifischen Größen-, Oberflächen- und Formanforderungen gerecht werden. Eine Wellentoleranz g6 oder h7 erfordert nicht in jedem Fall spitzenloses Schleifen. Drahterodier- und Laseroperationen werden nur dann überprüft, wenn Geometrie und Wirtschaftlichkeit dies rechtfertigen.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9356,7 +9366,7 @@ Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Rändel- und Einstellschra
 
 #### Verwandte technische Leitfäden
 
-Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗ So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗
+Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗
 
 #### Fahren Sie mit dem Vorgang fort
 
@@ -9376,7 +9386,7 @@ Abschlussarbeit Geben Sie Größe, Form und Flächenbedarf im Endzustand an Ist 
 
 Prozessstandort Identifizieren Sie Oberflächen, die nach früheren Operationen zum Halten verwendet wurden Kann der Aufbau die erforderliche Geometrie beibehalten, ohne das Teil zu beschädigen?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9461,7 +9471,7 @@ BSSA: Edelstahlfamilien
 
 Zimmermann: 17-4PH Materialdaten
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9469,7 +9479,7 @@ Kundenspezifische Gewindestifte und Madenschrauben ↗ Schulter- und Stufenschra
 
 #### Verwandte technische Leitfäden
 
-Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Stellschraube ↗ Gerollte oder geschnittene Gewinde: Fragen, die in der Ausschreibung geklärt werden müssen ↗
+Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Stellschraube ↗ Gerollte oder geschnittene Gewinde: Fragen, die in der Ausschreibung geklärt werden müssen ↗
 
 #### Fahren Sie mit dem Vorgang fort
 
@@ -9489,7 +9499,7 @@ Beweise Geben Sie Härte, andere mechanische Prüfungen und angeforderte Aufzeic
 
 Oberflächenkompatibilität Koordinieren Sie spätere Reinigungs-, Beschichtungs- und Risikokontrollen Schützt die vollständige vorgeschlagene Route den bestellten Endzustand?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9517,13 +9527,13 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
@@ -9580,7 +9590,7 @@ Würth: Wasserstoffversprödung
 
 Fastenal: Anleitung zur Versprödung
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9588,7 +9598,7 @@ Sicherheits- und manipulationshemmende Schrauben ↗ Flanschschrauben nach Zeich
 
 #### Verwandte technische Leitfäden
 
-Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Gestaltung der Auflagefläche einer kundenspezifischen Flanschschraube ↗ So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗
+Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Gestaltung der Auflagefläche einer kundenspezifischen Flanschschraube ↗ So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗
 
 #### Fahren Sie mit dem Vorgang fort
 
@@ -9608,7 +9618,7 @@ Wasserstoff-Rezension Bewerten Sie den Zustand anfälliger Materialien und den g
 
 Akzeptanz Definieren Sie Dicke, Aussehen und etwaige Korrosions-/Reibungstests Sind die Testbedingungen und -kriterien explizit und nicht aus einem Handelsnamen abgeleitet?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9636,19 +9646,19 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kohlenstoff- und legierter Stahl ↗
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Aluminiumlegierungen ↗
 
@@ -9699,7 +9709,7 @@ Nylonflicken und klebstoffbasierte Verschlusssysteme verfügen über unterschied
 
 Unterlegscheiben, O-Ringe, PTFE-Unterlegscheiben oder Federn können nach technischer Zeichnung mitgeliefert werden. Bestätigen Sie Reihenfolge, Retention und Kompatibilität mit Hitze-/Beschichtungsvorgängen. Wo es das gewählte Material und die Oberflächenspezifikation erfordern, wird Wasserstoff-Reliefbacken angewendet.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9727,7 +9737,7 @@ Vormontage Zeigen Sie Unterlegscheiben, Dichtungen oder Federn und deren Halteru
 
 Verpackung Vereinbaren Sie eine Chargentrennung, einen Schutz und eine Kennzeichnung Wie gelangen die freigegebenen Teile in den erforderlichen Zustand zur Montage?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9755,7 +9765,7 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Titan und Titanlegierungen ↗
 
@@ -9810,7 +9820,7 @@ Beschichtungsdicke, spezifizierte Salzsprühtests, Metallographie, Ermüdungs- u
 
 Vereinbaren Sie, welche Merkmale eine 100%-Prüfung, Bemusterung oder Erstmustergenehmigung erhalten. Für den Auftrag werden Geräteverfügbarkeit, externe Laborarbeiten und Reporting bestätigt; Es werden keine unbestätigten Angaben im hauseigenen Labor gemacht.
 
-Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , Rezension Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9818,7 +9828,7 @@ Schulter- und Stufenschrauben ↗ Kundenspezifische Ringschrauben-Designs ↗ Ei
 
 #### Verwandte technische Leitfäden
 
-Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗
+Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗
 
 #### Fahren Sie mit dem Vorgang fort
 
@@ -9838,7 +9848,7 @@ Berichterstattung und Aufzeichnungen Geben Sie die Erstmuster-, Stichproben- ode
 
 Revision und Ablehnung Identifizieren Sie technische Zeichnungs-/Programmrevisionen und lehnen Sie die Disposition ab Wie werden geänderte Anforderungen und Ausschussteile kontrolliert?
 
-Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Aufzeichnung vereinbaren ↗
+Vergleichen Sie komplette Fertigungswege ↗ Material und Endfestigkeit auswählen ↗ Abnahme und Nachweise vereinbaren ↗
 
 NACH DER BEARBEITUNG
 
@@ -9866,19 +9876,19 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### 10B21 Borstahl ↗
 
 10B21 ist eine Werkstoffbezeichnung und keine Festigkeitsklasse des fertigen Verbindungselements. Für 10B21-Schrauben lässt sich daher keine einheitliche Zugfestigkeit angeben.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
 
-MATERIAL & ENDZUSTAND
+WERKSTOFF UND ENDZUSTAND
 
 ##### Kupfer ↗
 
@@ -9989,7 +9999,7 @@ Gewinderollen, Schneiden und Gewindeschneiden ↗ Beschichtungen und Oberfläche
 
 #### Bemusterung, Werkzeugbau und Produktionsplanung
 
-Die typische Vorlaufzeit für die Herstellung von Prototypmustern, einschließlich der Werkzeuge, beträgt etwa 10–15 Tage. Der bestätigte Zeitplan folgt der Prüfung der technischen Zeichnung und der Einigung über Material-, Geometrie-, Oberflächenbehandlungs- und Inspektionsanforderungen. Klären Sie den Startmeilenstein im Angebot. Die Lieferung von Wiederholungsproduktionen wird für die Menge und die genehmigte Route separat angeboten.
+Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung von Werkstoff, Geometrie, Oberfläche und Prüfung bestätigt. Den Startpunkt im Angebot festlegen; Serienlieferungen werden nach Stückzahl und freigegebener Route separat terminiert.
 
 Senden Sie eine überarbeitete technische Zeichnung, eine Mustermenge, das erwartete Bestellvolumen und die beabsichtigte Anwendung. Identifizieren Sie Funktionsabmessungen und erforderliche Dokumente, damit die technische Überprüfung vor der Werkzeug- und Musterfreigabe wichtige Details klären kann.
 
@@ -10214,7 +10224,7 @@ Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. 
 
 ENGINEERING-LEITFADEN
 
-##### Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -10337,11 +10347,11 @@ Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Mat
 
 ENGINEERING-LEITFADEN
 
-##### Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
-### SUS304 und SUS316 Edelstahl – individuelle Schraubenstärke und Einsatzmöglichkeiten
+### 304 oder 316 für Sonderschrauben?
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/materials/stainless-steel-304-316/
 
 STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
@@ -10351,6 +10361,8 @@ STUFE / ZUSTAND / ENDGÜLTIGE ANFORDERUNG
 Auswahl aus austenitischem Edelstahl für Teile, bei denen Korrosionseinwirkung, Oberflächenzustand und die angegebene Festigkeitsklasse des Befestigungselements gemeinsam berücksichtigt werden müssen.
 
 Optische Werkstoffreferenz; Güte und Eigenschaften sind durch Unterlagen nachzuweisen.
+
+Aus der Werkstoffauswahl eine Bestellvorgabe machen ↓
 
 #### Festigkeitsreferenz
 
@@ -10414,7 +10426,7 @@ Fertige Verbindungsklasse, sofern zutreffend
 
 Belichtungsmedium und passende Metalle
 
-Oberflächenzustand, Passivierung und Abnahme der Gewindeinspektion
+Oberflächenzustand, Passivierung und Gewindeabnahme
 
 #### Verwandte Produkte und Herstellungswege
 
@@ -10440,17 +10452,21 @@ Verwenden Sie einen gemeinsamen Satz an Funktions-, Umwelt- und Akzeptanzanforde
 
 Befolgen Sie den Arbeitsablauf zur Material- und Festigkeitsauswahl ↗
 
-#### Lesen Sie die Kraftdaten im richtigen Zustand ab
+#### Aus der Werkstoffauswahl eine Bestellvorgabe machen
 
-A2/A4 Gruppen und Klassen wie 70 oder 80 beschreiben fertige rostfreie Verbindungselemente gemäß der geltenden Spezifikation. SUS304 oder SUS316 allein begründet keine A2-70 oder A4-80 Leistung. Ein Materialbestandswert ist nicht automatisch die Tragzahl einer Schraube oder einer montierten Verbindung. Behalten Sie beim Vergleich von Alternativen die Güteklasse, die Produktform, den Zustand und die geltenden Spezifikationen bei, die dem Wert beigefügt sind. Überprüfen Sie den Gewindeeingriff im Gegenstück und im Gegenstückmaterial unabhängig von der Zugkraftzahl.
+Wählen Sie die Sorte nach der Umgebung und legen Sie anschließend die Fertigteilanforderung fest. Ein gut zerspanbarer Einstellknopf, eine Gehäuseschraube und eine chloridbelastete Verbindung rechtfertigen nicht denselben Werkstoffaustausch.
 
-304 und 316 sind keine ausscheidungshärtenden Sorten. Überprüfen Sie die tatsächliche Umgebung und gehen Sie nicht davon aus, dass rostfreie Teile korrosionsbeständig sind. Berücksichtigen Sie Gewindeverschleiß, Kontaktmetalle, Reinigung und Passivierung. Form und Endzustand beeinflussen die mechanischen Anforderungen.
+Aus der Werkstoffauswahl eine Bestellvorgabe machen Anwendung Festzulegen Zu prüfen
 
-#### Eine praktische Auswahl- und Genehmigungssequenz
+Gedrehter Einstellknopf 303 prüfen, wenn Zerspanbarkeit wichtig ist und die Umgebung dies zulässt. Korrosions- und Verarbeitungseignung vor einem Ersatz von 304 freigeben.
 
-Für SUS304 und SUS316 Edelstahl definieren Sie zunächst die Güteanforderungen 304 oder 316. Klasse der fertigen Verbindungselemente, sofern zutreffend; Belichtungsmedium und Gegenmetalle; Oberflächenzustand, Passivierung und Abnahme der Gewindeinspektion. Vergleichen Sie diese Anforderungen mit der Serviceumgebung und der Funktionsgeometrie. Wenn es sich bei der Ausgangsanforderung nur um eine Materialfamilie handelt, ermitteln Sie die Güteklasse und den Zustand, bevor Sie die endgültigen Angebote vergleichen.
+Allgemeine Geräteabdeckung 304 mit tatsächlichem Reinigungsmedium, Gegenwerkstoff und Montagebedingungen prüfen. Erforderliche Endfestigkeit festlegen und Gewindefressen bei der Montage berücksichtigen.
 
-Überprüfen Sie das ausgewählte Material mit Swiss-Type- und CNC-Drehen, Beschichtungen und Oberflächenbehandlungen, CCD-Vision und Maßprüfung. Vereinbaren Sie, welche Nachweise bei der Probengenehmigung erforderlich sind und welche Wiederholungschargen beiliegen müssen. Eine Ersatznote oder -bedingung bedarf der Genehmigung; ein ähnliches Aussehen oder eine ähnliche Nennstärke sind kein ausreichender Beweis für die Austauschbarkeit.
+Chloridbelastete Installation 316 anhand von Konzentration, Temperatur und Spaltbedingungen bewerten. Korrosionsfreiheit nicht voraussetzen und 316L nicht allein wegen vermeintlich höherer Festigkeit wählen.
+
+Tragen Sie Norm und Sorte, Endzustand beziehungsweise Festigkeitsklasse, Oberfläche, Gegenwerkstoff und Dokumente getrennt in die Anfrage ein. Ein Werkstoffzeugnis identifiziert das gelieferte Material; es bestätigt allein weder jede Fertigteileigenschaft noch die montierte Verbindung.
+
+Werkstoff-Spezifikationsblatt herunterladen (Englisch)
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -10462,7 +10478,7 @@ ENGINEERING-LEITFADEN
 
 ##### 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗
 
-Edelstahl beschreibt mehrere Materialfamilien. Geben Sie die Güteklasse und den Endzustand an, anstatt eine allgemeine Wärmebehandlungsanweisung zu schreiben.
+Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
 ENGINEERING-LEITFADEN
 
@@ -11028,15 +11044,15 @@ Ein Anwendungsetikett ist keine vollständige Spezifikation. Berücksichtigen Si
 
 Entdecken Sie Befestigungsstrukturen ↗ Vergleichen Sie Materialien und Festigkeit ↗ Planabnahme und Aufzeichnungen ↗
 
-ANWENDUNGSDESIGN-STUDIEN
+ANWENDUNGSSTUDIEN
 
 #### Sehen Sie sich die Entscheidungen im Kontext an.
 
-Zwei anschauliche Projekte verbinden Montageanforderungen mit Verbindungselementstruktur, Material, Verarbeitung und einem Genehmigungsplan.
+Zwei illustrative Studien verbinden Montageanforderungen mit Schraubengeometrie, Werkstoff, Fertigung und Freigabeplan.
 
-Automotive-Modulgehäuse ↗ Automatisierungsdreh- und Verstellvorrichtung ↗ Durchsuchen Sie Studien zum Anwendungsdesign ↗
+Automotive-Modulgehäuse ↗ Automatisierung: Drehpunkt und Einstellvorrichtung ↗ Anwendungsstudien ansehen ↗
 
-### Kundenspezifische Verbindungselemente für Automobilkomponenten
+### Sonderschrauben für Automobilkomponenten
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/industries/automotive-components/
 
 technische Zeichnung und Loskontrolle
@@ -11047,17 +11063,19 @@ Kundenspezifische Gewindekomponenten für Halterungen, Gerätemodule und andere 
 
 Besprechen Sie Ihre Bewerbung ↗ Branchenüberblick
 
+Die konkrete Verbindung als Ausgangspunkt der Automotive-Anfrage ↓
+
 #### Wiederholbare Geometrie
 
 Definieren Sie funktionale Schultern, Lagerflächen, Gewinde und Antriebsanforderungen mit der Gegenkomponente.
 
-#### Material- und Oberflächenbeschaffenheit
+#### Werkstoff- und Oberflächenzustand
 
 Verbinden Sie endgültige Eigenschaften, Oberflächen-, Reibungs- und Korrosionsanforderungen in einer genehmigten Spezifikation.
 
 #### Muster- und Chargendokumentation
 
-Vereinbaren Sie vor der Produktion Revisionskontrolle, Mustergenehmigung, Prüfprotokolle, Chargenetiketten und Verpackung.
+Vor Fertigungsbeginn Zeichnungsänderungen, Musterfreigabe, Prüfprotokolle, Loskennzeichnung und Verpackung abstimmen.
 
 #### Relevante Befestigungsstrukturen
 
@@ -11083,21 +11101,21 @@ Erkunden Sie eine vorgeschlagene Baugruppe, die Auswahl der Befestigungselemente
 
 Designstudie für Kfz-Modulgehäusebefestigungen ↗
 
-#### Übersetzen Sie die Anwendung in eine Verbindungselementspezifikation
+#### Die konkrete Verbindung als Ausgangspunkt der Automotive-Anfrage
 
-Bei Automobilkomponenten besteht die erste Aufgabe darin, die Verbindungsgeometrie mit der Geräteschnittstelle zu verbinden. Wiederholbare Geometrie: Definieren Sie funktionale Schultern, Lagerflächen, Gewinde und Antriebsanforderungen mit der Gegenkomponente. Material- und Oberflächenzustand: Verbinden Sie Endeigenschaften, Oberflächen-, Reibungs- und Korrosionsanforderungen in einer genehmigten Spezifikation. Proben- und Chargendokumentation: Vereinbaren Sie vor der Produktion Revisionskontrolle, Probenfreigabe, Prüfprotokolle, Chargenetiketten und Verpackung. Erläutern Sie die Umgebung und den Wartungsablauf zusammen mit der technischen Zeichnung, damit sich die Überprüfung auf die installierte Komponente bezieht.
+Gehäusedeckel, lackierter Halter und Positionierschnittstelle stellen unterschiedliche Anforderungen. Die folgenden Zeilen helfen bei der Bauteilbesprechung; sie sind Konstruktionsbeispiele und kein Nachweis eines gelieferten oder OEM-freigegebenen Projekts.
 
-Senden Sie die Konstruktionszeichnung der Komponenten, die Schnittstellenanforderungen, die erwarteten Chargenmengen und auftragsspezifische Qualitätsdokumente. Die Automobilerfahrung von ZUFEK umfasst Komponenten-Lieferkettenprojekte im Zusammenhang mit Mercedes-Benz- und BMW-Fahrzeuganwendungen.
+Die konkrete Verbindung als Ausgangspunkt der Automotive-Anfrage Anwendung Festzulegen Zu prüfen
 
-#### Wählen Sie eine Route rund um die Funktionsmerkmale
+Wartungsdeckel eines Moduls Öffnungsfolge, Werkzeugzugang, nutzbarer Gewindeeingriff und gegebenenfalls Verliersicherung. Ausbau und Wiedermontage am repräsentativen Deckel prüfen, nicht nur die angezogene Schraube.
 
-Zu den relevanten Produktfamilien gehören kundenspezifische Flanschschrauben, Schulter- und Stufenschrauben, kundenspezifische doppelseitige Bolzen sowie Sicherheits- und manipulationssichere Schrauben. Hierbei handelt es sich um Ausgangspunkte für die Überprüfung einer technischen Zeichnung, nicht um austauschbare Teile. Vergleichen Sie Kohlenstoff- und legierten Stahl, 10B21-Borstahl, SUS304 und SUS316 Edelstahl mit den tatsächlichen mechanischen und Umweltanforderungen.
+Lackierter Halter Auflageflächenkontur, Beschichtungskontakt, zulässige Abdrücke und vorgeschriebene Anziehbedingungen. Sitz und Lackschäden bewerten; Funktionsversuche nach dem vereinbarten Montageverfahren durchführen.
 
-Besprechen Sie Mehrstationen-Kaltstauchen, Kaltstauchen + Sekundärbearbeitung, CCD-Vision und Maßprüfung als Teil der gesamten Route. Identifizieren Sie vor der Genehmigung die Probenmenge, kritische Merkmale, das Finish und die erforderlichen Aufzeichnungen. Ein Sektorname allein impliziert keine Projektzertifizierung oder einen pauschalen Testumfang.
+Positionierschulter Gegenbohrung, Bezugsbeziehung, Axialstapel und endgültige beschichtete Maße. Maßabnahme getrennt von Klemm- oder Bewegungsprüfung dokumentieren.
 
-#### Planen Sie Musterfreigaben und Nachbestellungen
+Vor Musterfreigabe Zeichnungsstand, Vorlageunterlagen, Loskennzeichnung und Zuständigkeit für Änderungen vereinbaren. Falls PPAP, Werkstoffnachweise oder Sonderprüfungen verlangt werden, die konkreten Lieferdokumente im Angebot festlegen; die Branchenbezeichnung schließt sie nicht automatisch ein.
 
-Die typische Musterfertigung, einschließlich der Werkzeuge, dauert etwa 10–15 Tage, vorbehaltlich der technischen Überprüfung und Bestätigung. Bestätigen Sie im Angebot die Zeitplanbasis, die Probenannahme und etwaige Versuche mit passenden Teilen. Geben Sie Wiederholungsproduktionen anhand der genehmigten Revision frei und dokumentieren Sie Änderungen an Material, Behandlung oder Geometrie, anstatt sich auf ein früheres Foto zu verlassen.
+Illustrative Modulgehäusestudie ansehen Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage nach technischer Prüfung und Bestätigung. Starttermin, Musterabnahme und Serienlieferplan im Angebot vereinbaren.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -11113,7 +11131,7 @@ Ein Flansch ist mehr als ein größerer Kreis unter dem Kopf. Seine Auflagefläc
 
 ENGINEERING-LEITFADEN
 
-##### Hochfeste Schraubenbeschichtungen und Wasserstoffrisikoprüfung ↗
+##### Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
@@ -11156,7 +11174,7 @@ Beispiele beschreiben Anwendungsanforderungen. Materialeignung, Produktionsumfan
 
 #### Bereiten Sie eine klarere Projektspezifikation vor.
 
-Mehrstufige Schrauben: Kontrolle der Axialmaßkette ↗ Schulterpassungen, Gewindeklassen und wann es aufs Schleifen ankommt ↗ Vervollständigen Sie die RFQ-Checkliste ↗
+Mehrstufige Schrauben: Kontrolle der Axialmaßkette ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ Vervollständigen Sie die RFQ-Checkliste ↗
 
 #### Befolgen Sie ein vollständiges Anwendungsdesign
 
@@ -11654,7 +11672,7 @@ Ein T-Kopf muss in den vorgesehenen Schlitz eindringen, sich darin drehen oder g
 ### Designstudien für kundenspezifische Verbindungselemente
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/applications/
 
-ANWENDUNGSDESIGN-STUDIEN
+ANWENDUNGSSTUDIEN
 
 ### Befolgen Sie die Anweisungen Ingenieursdiskussion.
 
@@ -11852,7 +11870,7 @@ Rezension Abmessungen der Schulterschraube oder Fragen zum Design unverlierbarer
 
 #### Bemusterung, Werkzeugbau und Produktionsplanung
 
-Die typische Vorlaufzeit für die Herstellung von Prototypmustern, einschließlich der Werkzeuge, beträgt etwa 10–15 Tage. Der bestätigte Zeitplan folgt der Prüfung der technischen Zeichnung und der Einigung über Material-, Geometrie-, Oberflächenbehandlungs- und Inspektionsanforderungen. Klären Sie den Startmeilenstein im Angebot. Die Lieferung von Wiederholungsproduktionen wird für die Menge und die genehmigte Route separat angeboten.
+Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung von Werkstoff, Geometrie, Oberfläche und Prüfung bestätigt. Den Startpunkt im Angebot festlegen; Serienlieferungen werden nach Stückzahl und freigegebener Route separat terminiert.
 
 Senden Sie eine überarbeitete technische Zeichnung, eine Mustermenge, das erwartete Bestellvolumen und die beabsichtigte Anwendung. Identifizieren Sie Funktionsabmessungen und erforderliche Dokumente, damit die technische Überprüfung vor der Werkzeug- und Musterfreigabe wichtige Details klären kann.
 
