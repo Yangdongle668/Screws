@@ -9033,6 +9033,14 @@ El conformado en frío puede proporcionar un flujo de grano favorable y un endur
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
 
+Ejemplo de revisión del plano
+
+#### Estampar en frío un tornillo con brida y huella profunda
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Revise cabeza y huella en sección. Una brida mayor cambia el volumen a desplazar y una huella más profunda deja menos material debajo. Defina transición bajo cabeza y apoyo útil antes de repartir la preforma en etapas. Qué cambia la oferta Separe utillaje de estampación, coste por pieza y mecanizado posterior de huella, hombro o taladro. Consulte qué revisiones cambian el útil y si el estado del alambre y el lote justifican conformar. Cómo aprobar la muestra Use muestras del proceso de conformado previsto. Compruebe ajuste de huella, apoyo y geometría bajo cabeza en la pieza final; acuerde defectos inadmisibles y método. Una muestra torneada puede probar acceso, no calidad de la cabeza estampada. Tornillos con brida a medida ↗ Tornillos de seguridad y antimanipulación ↗ Rodamiento en frío + mecanizado secundario ↗ 10B21 Acero al boro ↗
+
 #### Familias de sujetadores relacionados
 
 Tornillos de hombro y escalón ↗ Tornillos con brida a medida ↗ Tornillos de seguridad y antimanipulación ↗ Pernos de cuello cuadrado a medida ↗
@@ -9093,12 +9101,6 @@ MATERIAL Y ESTADO FINAL
 
 Especifique la clase de propiedad del sujetador terminado, no una resistencia inferida de la calidad en bruto. Las referencias de clases nominales comunes incluyen 8.8, 10.9 y 12.9.
 
-MATERIAL Y ESTADO FINAL
-
-##### 10B21 Acero al boro ↗
-
-10B21 identifica un material, no la clase de resistencia del tornillo terminado. Por tanto, no hay un único valor de resistencia a tracción válido para todos los tornillos de 10B21.
-
 REQUISITOS DE SOLICITUD
 
 ##### Componentes automotrices ↗
@@ -9151,6 +9153,14 @@ Proporcione la profundidad del orificio, el espesor de la pared, las relaciones 
 La eliminación de material aumenta la generación de viruta y puede aumentar el costo unitario. Una pieza mecanizada no es universalmente más débil que una pieza formada: el grado, la geometría, el tratamiento térmico y la carga determinan el rendimiento.
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
+
+Ejemplo de revisión del plano
+
+#### Compruebe la pared restante antes de cotizar un tornillo hueco
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Sección ilustrativa: diámetro exterior mínimo de 7.96 mm y taladro máximo de 4.04 mm dejan 1.96 mm de pared si son concéntricos. Con hasta 0.15 mm de excentricidad local, la pared mínima es (7.96 − 4.04) ÷ 2 − 0.15 = 1.81 mm. No incluye rosca, taladros cruzados ni transiciones. Qué cambia la oferta Indique pared mínima y eje donde importan, no solo diámetros nominales. Taladro largo, corte interrumpido, posición más estricta o segundo amarre pueden cambiar ciclo, acceso de herramienta y método de inspección. Cómo aprobar la muestra Compruebe taladro y exterior con referencias acordadas y sin amarre. Revise por separado intersecciones y rebabas en pasos de cable o fluido. El cálculo comprueba geometría, no presión ni carga admisibles. Tornillos huecos y con taladro pasante ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
 
 #### Familias de sujetadores relacionados
 
@@ -9271,6 +9281,14 @@ Incluya la calidad del stock, la geometría, la cantidad, los requisitos mecáni
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
 
+Ejemplo de revisión del plano
+
+#### Separe la preforma del ojo y la trayectoria final de carga
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso En una pieza de ojo grande, dibuje contacto de pasador o gancho, transición del vástago y apoyo final. Revise línea de partición, recorte y sobremetal para no confundir las superficies finales con el contorno bruto. Qué cambia la oferta Cotice preforma caliente, utillaje, recorte o desoxidado y mecanizado posterior como proceso completo. Defina tratamiento, verificación mecánica y documentos; un ojo grande no acredita aptitud para elevación. Cómo aprobar la muestra Confirme taladro y apoyo finales, trazabilidad de material y tratamiento y verificación mecánica acordada. Para elevación, apruebe diseño aplicable, dirección de carga, marcado y cualificación antes de liberar. Pernos de ojo y articulados a medida ↗ Diseños de cáncamos de elevación a medida ↗ Tratamiento térmico según el material ↗
+
 #### Familias de sujetadores relacionados
 
 Pernos de ojo y articulados a medida ↗ Diseños de cáncamos de elevación a medida ↗ Pernos de cabeza cuadrada a medida ↗
@@ -9365,6 +9383,14 @@ El tratamiento térmico y los recubrimientos pueden cambiar dimensiones o superf
 Identificar ajustes funcionales y relaciones entre datos geométricos. La RFQ debe distinguir las características críticas de las dimensiones con mayor flexibilidad de fabricación.
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
+
+Ejemplo de revisión del plano
+
+#### Pasar de un prototipo torneado de hombro a una preforma conformada
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Fije ajuste hombro-taladro y cara de referencia axial antes del cambio. Defina qué se conforma, qué localiza la segunda operación y dónde debe quedar material suficiente para acabar tras tratamiento o deformación. Qué cambia la oferta Compare ruta completa, con utillaje, manipulación, rechazo de preformas y ajuste final. Si hombro y rosca se hacen en amarres distintos, incluya el control de su relación y no solo dos diámetros. Cómo aprobar la muestra Use muestras de la ruta de serie para verificar tamaño y forma del hombro, longitud axial, rosca y asiento tras acabado. Conserve el prototipo como referencia geométrica y registre qué debe aprobarse de nuevo. Tornillos de hombro y escalón ↗ Estampación en frío multiestación ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
 
 #### Familias de sujetadores relacionados
 
@@ -9474,6 +9500,14 @@ El golpeteo cortado elimina el material; El roscado de forma desplaza un materia
 Definir designación, clase, longitud útil, descentramiento y calibre. Rodar puede mejorar el comportamiento de fatiga en condiciones adecuadas, pero no es una garantía general de resistencia. Revise si el enhebrado se produce antes o después del tratamiento térmico.
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
+
+Ejemplo de revisión del plano
+
+#### El calibre no acredita por sí solo la longitud útil de rosca
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso En una rosca fina corta junto a un hombro, distinga longitud útil de perfil completo, entrada y salida incompleta. Muestre profundidad y chaflán del agujero para que el hombro asiente antes de tocar fondo o filetes incompletos. Qué cambia la oferta Facilite perfil, paso, clase, sentido y estado final. Para laminación, revise preforma, ductilidad y salida de útil; para corte, espacio y ciclo. Incluya recubrimiento y calibres especiales al comparar precios. Cómo aprobar la muestra Use el calibre acordado en estado final y compruebe aparte longitud útil y salida. Pruebe el conjunto aprobado si el asiento importa. El anillo no demuestra por sí solo el acoplamiento disponible ni el asiento. Tornillos de paso fino y extrafino ↗ Espárragos de doble extremo a medida ↗ Recubrimientos y tratamientos superficiales ↗ Inspección dimensional y visión CCD ↗
 
 #### Familias de sujetadores relacionados
 
@@ -9594,6 +9628,14 @@ El rectificado externo, sin centros o de roscas puede adaptarse a requisitos esp
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
 
+Ejemplo de revisión del plano
+
+#### Controle el borde oculto de un taladro intersectante
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Un taladro radial para pasador o alimentación puede abrir al axial. Acote posición desde cara o eje funcional y marque intersección interna aparte de entrada visible. Defina rotura de arista permitida y paso libre juntos. Qué cambia la oferta Muestre si una herramienta llega a la arista interna sin agrandar el paso ni rayar el sello. Amarre, acceso, desbarbado especial y montaje de inspección pueden costar más que taladrar. Cómo aprobar la muestra Acuerde un método que evalúe la unión oculta, como óptica con acceso o corte de una primera muestra cuando proceda. Defina el control en serie aparte. Entrada limpia y diámetro conforme no validan rebabas internas. Tornillos con taladro transversal o en la cabeza ↗ Tornillos huecos y con taladro pasante ↗ Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
+
 #### Familias de sujetadores relacionados
 
 Tornillos huecos y con taladro pasante ↗ Tornillos moleteados de apriete manual y ajuste ↗ Tornillos excéntricos y de cabeza inclinada ↗ Tornillos con taladro transversal o en la cabeza ↗
@@ -9707,6 +9749,14 @@ Carpintero: 17-4PH datos del material
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
 
+Ejemplo de revisión del plano
+
+#### Especifique por separado la superficie de desgaste y el núcleo tenaz
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Para un tope de acero o una zona que forma rosca, identifique superficie de trabajo y requisito de núcleo. Si necesita capa endurecida, defina profundidad, método y ubicación. No sustituya propiedades de núcleo por dureza superficial ni aplique una nota de acero a inox o titanio. Qué cambia la oferta Decida qué cotas se establecen antes y después del tratamiento. Un hombro de precisión puede requerir sobremetal y otra secuencia de control; requisitos de capa o ensayos destructivos pueden afectar lote y plazo. Cómo aprobar la muestra Vincule la evidencia de dureza o capa al lote. Compruebe geometría final y que el material retirado respeta el estado superficial requerido. Si se pide clase final, verifique según su base de aceptación aplicable. Tornillos prisioneros y de fijación a medida ↗ Tornillos de hombro y escalón ↗ Recubrimientos y tratamientos superficiales ↗ Inspección dimensional y visión CCD ↗ Acero al carbono y aleado ↗ 10B21 Acero al boro ↗
+
 #### Familias de sujetadores relacionados
 
 Tornillos prisioneros y de fijación a medida ↗ Tornillos de hombro y escalón ↗ Diseños de cáncamos de elevación a medida ↗
@@ -9761,18 +9811,6 @@ TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 Revise estos temas relacionados para este diseño o ruta. La calidad, el tratamiento, la geometría y la aceptación siguen siendo específicos de los planos de ingeniería.
 
-MATERIAL Y ESTADO FINAL
-
-##### Acero al carbono y aleado ↗
-
-Especifique la clase de propiedad del sujetador terminado, no una resistencia inferida de la calidad en bruto. Las referencias de clases nominales comunes incluyen 8.8, 10.9 y 12.9.
-
-MATERIAL Y ESTADO FINAL
-
-##### 10B21 Acero al boro ↗
-
-10B21 identifica un material, no la clase de resistencia del tornillo terminado. Por tanto, no hay un único valor de resistencia a tracción válido para todos los tornillos de 10B21.
-
 REQUISITOS DE SOLICITUD
 
 ##### Moldes, herramientas y accesorios de prueba ↗
@@ -9825,6 +9863,14 @@ Würth: fragilización por hidrógeno
 Fastenal: orientación sobre la fragilización
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
+
+Ejemplo de revisión del plano
+
+#### Reserve espesor de recubrimiento en un hombro liso
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Ejemplo geométrico: un diámetro liso exterior de 8.000 mm con 0.005 mm de depósito uniforme por lado pasa a 8.010 mm. Use rango y distribución reales para el ajuste. Esta suma bilateral no se aplica directamente al diámetro de paso de la rosca. Qué cambia la oferta Defina sistema, sustrato, zonas cubiertas o enmascaradas, puntos de espesor y requisitos de fricción o corrosión. Incluya preparación y controles de hidrógeno pertinentes; nombre o color no definen el alcance. Cómo aprobar la muestra Acuerde control de espesor y cobertura y verifique por separado ajuste del hombro y rosca. Si la fricción es crítica, pida evidencia para las piezas y el apriete definidos, no solo aspecto o niebla salina. Tornillos de hombro y escalón ↗ Tornillos con brida a medida ↗ Laminado, corte y roscado de rosca ↗ Inspección dimensional y visión CCD ↗ Acero al carbono y aleado ↗
 
 #### Familias de sujetadores relacionados
 
@@ -9882,12 +9928,6 @@ Revise estos temas relacionados para este diseño o ruta. La calidad, el tratami
 
 MATERIAL Y ESTADO FINAL
 
-##### Acero al carbono y aleado ↗
-
-Especifique la clase de propiedad del sujetador terminado, no una resistencia inferida de la calidad en bruto. Las referencias de clases nominales comunes incluyen 8.8, 10.9 y 12.9.
-
-MATERIAL Y ESTADO FINAL
-
 ##### SUS304 y SUS316 Acero inoxidable ↗
 
 Los grupos A2/A4 y las clases como 70 u 80 describen elementos de fijación de acero inoxidable terminados dentro del alcance de la especificación aplicable. Indicar solo SUS304 o SUS316 no acredita prestaciones A2-70 o A4-80.
@@ -9915,6 +9955,12 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 ##### Pernos en U a medida ↗
 
 Un vástago curvado y dos patas roscadas siguen las dimensiones del tubo, marco o componente sujetado.
+
+dibujo de ingeniería-DISEÑO DEFINIDO
+
+##### Pernos de cuello cuadrado a medida ↗
+
+Una cabeza redonda y un cuello cuadrado definido por un dibujo de ingeniería proporcionan una interfaz antirrotación con el componente acoplado.
 
 ### Limpieza, bloqueo y premontaje
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/post-processing/
@@ -9944,6 +9990,14 @@ Los parches de nailon y los sistemas de bloqueo adhesivos tienen diferentes meca
 Se pueden incluir arandelas, juntas tóricas, arandelas de PTFE o resortes mediante plano de ingeniería. Confirme la secuencia, retención y compatibilidad con las operaciones de calentamiento/recubrimiento. El horneado con alivio de hidrógeno se aplica cuando lo requiera el material seleccionado y las especificaciones de acabado.
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
+
+Ejemplo de revisión del plano
+
+#### Ordene limpieza, parche de bloqueo y montaje de juntas
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Para tornillo cautivo con junta o parche, compruebe compatibilidad con limpieza, recubrimiento y calor posteriores. Identifique cara de sellado, retención y posición del parche. Mantenga libres el paso y la rosca útil de residuos. Qué cambia la oferta Cotice la secuencia de entrega: limpiar y secar, aplicar parche o montar arandela/junta, clasificar y embalar. Defina limpieza, par o reutilización por método y condiciones; no pida solo una pieza limpia o bloqueada. Cómo aprobar la muestra Verifique estado final tras todas las operaciones y embalaje protector. Revise retención, orientación de junta y cobertura del parche aparte de la prueba funcional acordada. Registre lote y distinga limpieza técnica de inspección visual de residuos. Tornillos cautivos ↗ Tornillos huecos y con taladro pasante ↗ Recubrimientos y tratamientos superficiales ↗ Inspección dimensional y visión CCD ↗
 
 #### Familias de sujetadores relacionados
 
@@ -10055,6 +10109,14 @@ El espesor del recubrimiento, las pruebas específicas de niebla salina, la meta
 Acuerde qué características recibirán un 100% de selección, muestreo o aprobación del primer artículo. Para el pedido se confirma la disponibilidad del equipo, el trabajo de laboratorio externo y los informes; no se hace ninguna afirmación de laboratorio interno no verificada.
 
 Prepare una especificación completa Utilice el Lista de verificación de solicitudes de presupuesto , evalúe materiales e incluir lo requerido inspección y documentación .
+
+Ejemplo de revisión del plano
+
+#### Use CCD para dimensiones visibles y cubra los puntos ciegos
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Para un tornillo con hombro, identifique longitud, diámetro visible o escalón medible con silueta estable y calibrada. Presente piezas buenas, límite y rechazadas en orientaciones previstas para validar el programa. El contorno no revela taladro interno ni estado del material. Qué cambia la oferta Separe características cribadas por visión de muestreos de rosca, taladro, dureza o capa. Acuerde límites, referencia, muestreo y registros. Selección al 100% exige lista de características cubiertas, no prometer medir todo. Cómo aprobar la muestra Compare resultados cercanos al límite con la referencia, verifique gestión de rechazos y registre revisión de plano y programa. Conserve por separado calibres, rasgos internos y ensayos de material; una marca de conforme no es aceptación completa. Tornillos de hombro y escalón ↗ Tornillos huecos y con taladro pasante ↗ Laminado, corte y roscado de rosca ↗
 
 #### Familias de sujetadores relacionados
 
@@ -10228,6 +10290,14 @@ Verificación dimensional y mecánica acordada.
 Documentos rastreables y aprobación antes del uso previsto de elevación.
 
 Recalcado y forja en caliente ↗ Tratamiento térmico según el material ↗ Inspección dimensional y visión CCD ↗ Pernos de ojo y articulados a medida ↗
+
+Ejemplo de revisión del plano
+
+#### Apruebe la ruta en cada traspaso, no solo al final
+
+Ejemplo de revisión del plano. Confirme proceso, dimensiones y aceptación para su pieza.
+
+Qué determina el proceso Para un tornillo con hombro de ajuste, identifique referencia de preforma, operación que define el apoyo y tratamiento posterior que deforma o añade espesor. Mantenga revisión y estado final en cada traspaso. Qué cambia la oferta Compare rutas con el mismo alcance: cantidad de muestras, utillaje, operaciones posteriores, verificación y registros. Registre qué debe repetirse o aprobarse si cambia grado, acabado, proveedor de preformas o proceso. Cómo aprobar la muestra Registre característica, operación que la establece, fase de verificación y método. Vincule muestra aprobada y lote con la ruta. Si pasa de muestra torneada a serie conformada, revise cada característica afectada antes de aprobar pedidos repetidos. Tornillos de hombro y escalón ↗ Rodamiento en frío + mecanizado secundario ↗ Tipo suizo y CNC Girando ↗ Inspección dimensional y visión CCD ↗
 
 #### Decide la secuencia antes de citar.
 

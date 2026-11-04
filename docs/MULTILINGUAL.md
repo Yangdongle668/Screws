@@ -30,9 +30,11 @@ node scripts/verify-language-preference.mjs
 
 七个行业页（自动化、电子光学、能源设备、流体控制、模具治具、安防设备、通用机械）的用途／接口／验收比较由 `scripts/industry-interface-content.mjs` 维护，五种译文在 `scripts/industry-interface-localization.mjs`。运行 `node scripts/industry-interface-localization.mjs` 后完整生成，或使用常规审校命令；映射写入 `translations/industry-interface-review.json`。行业决策表替换原有通用追加段落，位于相关产品列表之前；保留现有行业总览图片及页面网址。产品、工艺和后续阅读按各行功能关联，前台表格在手机上复用材料选择表的分项展示样式。汽车行业继续使用 `buyer-content.mjs` 中已有的接口矩阵，八个详情页均按各自装配用途组织内容。
 
-## 语言入口与默认选择
-
 七类材料页的选材、加工、验收与常见问题维护在 `scripts/material-selection-content.mjs`，五种译文维护在 `scripts/material-selection-localization.mjs`。新增的牌号比较由同一数据源接入原牌号表，不另做平行表。运行该翻译脚本或常规审校命令，随后完整生成页面和内容清单。`translations/material-selection-review.json` 是审校映射；标题、Meta、强度注释及参考链接名称一并维护。强度数据仍需保留材料状态、产品形态与适用范围，不给新增牌号套用其他材料的数值。
+
+十个工艺详情和完整路线页的审图示例维护在 `scripts/process-review-content.mjs`，五种译文在 `scripts/process-review-localization.mjs`。按工艺分别说明路线决策、报价因素和样品验收；关联的产品、工艺、材料链接随语言切换。运行译文脚本或常规审校命令后完整生成。两项几何算例的条件、单位及结果需与英文同步，不能作为实际设备能力、载荷或检测结果引用。
+
+## 语言入口与默认选择
 
 顶部邮箱旁提供国旗、语言原名和当前项勾选。首次进入英文地址时，优先采用已保存的手动选择，否则按照浏览器语言列表匹配六种支持语言；未匹配保持英文。手动切换保存本机偏好，并保留对应页面、查询参数及锚点。明确访问带语言前缀的链接时保留该语言；站内浏览不反复跳转。搜索爬虫不做客户端自动跳转，全部语言保留可访问网址与 `hreflang`。
 

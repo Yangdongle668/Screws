@@ -9033,6 +9033,14 @@ Durch Kaltumformung kann ein günstiger Kornfluss und eine Kaltverfestigung erzi
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
+Beispiel zur Zeichnungsprüfung
+
+#### Eine Flanschschraube mit tiefem Antrieb kaltstauchen
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Kopf und Antrieb im Schnitt gemeinsam prüfen. Ein größerer Flansch verändert das umzuformende Metallvolumen, ein tieferer Antrieb verringert das Material darunter. Übergang unter Kopf und nutzbare Auflage festlegen, bevor der Rohling auf Umformstufen aufgeteilt wird. Was das Angebot beeinflusst Kosten der Stauchwerkzeuge von Stückkosten und späterer Bearbeitung an Antrieb, Schulter oder Bohrung trennen. Klären, welche Zeichnungsänderung Werkzeugänderungen auslöst und ob Drahtzustand und Losgröße die Umformroute unterstützen. Wie das Muster freigegeben wird Muster aus dem vorgesehenen Umformprozess verwenden. Antriebspassung, Auflage und Geometrie unter Kopf am Fertigteil prüfen; unzulässige Umformfehler und Prüfung vereinbaren. Ein Drehmuster kann den Montagezugang zeigen, aber nicht die Qualität des gestauchten Kopfs. Flanschschrauben nach Zeichnung ↗ Sicherheits- und manipulationshemmende Schrauben ↗ Kaltstauchen mit anschließender Zerspanung ↗ 10B21 Borstahl ↗
+
 #### Verwandte Verbindungselementfamilien
 
 Schulter- und Stufenschrauben ↗ Flanschschrauben nach Zeichnung ↗ Sicherheits- und manipulationshemmende Schrauben ↗ Flachrundschrauben mit Vierkantansatz nach Zeichnung ↗
@@ -9093,12 +9101,6 @@ WERKSTOFF UND ENDZUSTAND
 
 Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
 
-WERKSTOFF UND ENDZUSTAND
-
-##### 10B21 Borstahl ↗
-
-10B21 ist eine Werkstoffbezeichnung und keine Festigkeitsklasse des fertigen Verbindungselements. Für 10B21-Schrauben lässt sich daher keine einheitliche Zugfestigkeit angeben.
-
 BEWERBUNGSVORAUSSETZUNGEN
 
 ##### Automobilkomponenten ↗
@@ -9151,6 +9153,14 @@ Geben Sie Bohrtiefe, Wandstärke, Beziehungen zwischen geometrischen Bezugspunkt
 Der Materialabtrag erhöht die Spanbildung und kann die Stückkosten erhöhen. Ein bearbeitetes Teil ist nicht grundsätzlich schwächer als ein geformtes Teil: Güte, Geometrie, Wärmebehandlung und Belastung bestimmen die Leistung.
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+
+Beispiel zur Zeichnungsprüfung
+
+#### Restwand einer Hohlschraube vor dem Angebot prüfen
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Beispielquerschnitt: Mindestens 7.96 mm außen und höchstens 4.04 mm Bohrung ergeben konzentrisch 1.96 mm radiale Wand. Bei bis zu 0.15 mm Mittenversatz an dieser Stelle gilt (7.96 − 4.04) ÷ 2 − 0.15 = 1.81 mm Mindestwand. Der Kreisquerschnitt berücksichtigt keine Gewinde, Querbohrungen oder Übergänge. Was das Angebot beeinflusst Mindestwand und Bohrungsachse an den entscheidenden Stellen angeben, nicht nur Nenndurchmesser. Lange Bohrung, unterbrochener Schnitt, engere Lagetoleranz oder zweite Aufspannung können Taktzeit, Werkzeugzugang und Prüfverfahren verändern. Wie das Muster freigegeben wird Bohrung und Außenform nach vereinbarten Bezügen und nach dem Ausspannen prüfen. Durchgänge für Kabel oder Medien an Bohrungsverschneidungen und Graten separat kontrollieren. Die Rechnung prüft Geometrie, keine Druck- oder Tragfähigkeit. Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9271,6 +9281,14 @@ Berücksichtigen Sie die Materialqualität, die Geometrie, die Menge, die mechan
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
+Beispiel zur Zeichnungsprüfung
+
+#### Augenrohling und fertigen Lastpfad getrennt beurteilen
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Bei einem großen Augenteil Auge, Bolzen- oder Hakenkontakt, Schaftübergang und fertige Auflage zeichnen. Teilung, Beschnitt und Bearbeitungsaufmaß prüfen, damit fertige Anlageflächen nicht mit der Schmiedekontur verwechselt werden. Was das Angebot beeinflusst Erwärmten Rohling, Werkzeuge, Beschnitt oder Entzunderung und spätere Zerspanung zusammen anbieten lassen. Wärmebehandlung, mechanische Nachweise und Dokumente im Angebot definieren; eine große Öse belegt keine Eignung zum Heben. Wie das Muster freigegeben wird Fertige Bohrungs- und Auflagegeometrie, Werkstoff- und Wärmebehandlungsrückverfolgung und vereinbarte mechanische Nachweise prüfen. Bei Hebeanwendung müssen Konstruktion, Lastrichtung, Kennzeichnung und Qualifikation für den Einsatz freigegeben sein. Augen- und Gelenkschrauben nach Zeichnung ↗ Kundenspezifische Ringschrauben-Designs ↗ Werkstoffspezifische Wärmebehandlung ↗
+
 #### Verwandte Verbindungselementfamilien
 
 Augen- und Gelenkschrauben nach Zeichnung ↗ Kundenspezifische Ringschrauben-Designs ↗ Vierkantschrauben nach Zeichnung ↗
@@ -9365,6 +9383,14 @@ Wärmebehandlung und Beschichtung können Maße oder Oberfläche verändern. Pr�
 Identifizieren Sie funktionale Passungen und Beziehungen zwischen geometrischen Daten. Die Ausschreibung sollte kritische Merkmale von Abmessungen unterscheiden und eine größere Fertigungsflexibilität bieten.
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+
+Beispiel zur Zeichnungsprüfung
+
+#### Vom gedrehten Schultermuster zum Umformrohling wechseln
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Vor dem Wechsel Schulterpassung zur Bohrung und axiale Anlage festlegen. Bestimmen, welche Flächen umgeformt werden, welche die Folgeoperation ausrichten und wo nach Behandlung oder Verzug genügend Aufmaß zum Fertigen bleibt. Was das Angebot beeinflusst Gesamtroute einschließlich Werkzeug, Zwischenhandling, Ausschuss und Passarbeit vergleichen. Werden Schulter und Gewinde in verschiedenen Aufspannungen erzeugt, Aufwand für deren Beziehung berücksichtigen statt nur zwei Durchmesser zu kalkulieren. Wie das Muster freigegeben wird An Serienprozessmustern Schultermaß und Form, axiale Länge, Gewindeabnahme und Sitz nach Finish prüfen. Drehmuster als Geometriereferenz behalten und Merkmale dokumentieren, die nach dem Prozesswechsel erneut freizugeben sind. Schulter- und Stufenschrauben ↗ Mehrstufen-Kaltstauchen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9474,6 +9500,14 @@ Beim Schneiden wird Material abgetragen; Formgewindeschneiden verdrängt ein aus
 Definieren Sie Bezeichnung, Klasse, nutzbare Länge, Rundlauf und Spurweite. Rollen kann unter geeigneten Bedingungen das Ermüdungsverhalten verbessern, ist jedoch keine umfassende Festigkeitsgarantie. Überprüfen Sie, ob das Gewinde vor oder nach der Wärmebehandlung auftritt.
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+
+Beispiel zur Zeichnungsprüfung
+
+#### Lehrenprüfung allein belegt keine nutzbare Einschraublänge
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Bei kurzem Feingewinde neben einer Passschulter nutzbare Vollgewindelänge von Einlauf und unvollständigem Auslauf trennen. Gegenbohrungstiefe und Einführfase zeigen, damit die Schulter aufliegt, bevor die Schraube auf Grund oder unvollständige Gänge trifft. Was das Angebot beeinflusst Profil, Steigung, Toleranzklasse, Richtung und Endzustand angeben. Beim Rollen Rohmaß, Umformbarkeit und Werkzeugauslauf, beim Schneiden Freiraum und Taktzeit prüfen. Beschichtungsaufmaß und Sonderlehren in den Preisvergleich aufnehmen. Wie das Muster freigegeben wird Vereinbarte Lehre im Endzustand verwenden, nutzbare Länge und Auslauf getrennt prüfen. Bei kritischer Anlage die freigegebene Gegenbaugruppe erproben. Eine Ringlehre allein belegt weder Eingriffslänge noch Sitz. Schrauben mit Fein- und Feinstgewinde ↗ Kundenspezifische doppelseitige Bolzen ↗ Beschichtungen und Oberflächenbehandlungen ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9594,6 +9628,14 @@ Außen-, Spitzenlos- oder Gewindeschleifen kann den spezifischen Größen-, Ober
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
+Beispiel zur Zeichnungsprüfung
+
+#### Verdeckte Kante einer Bohrungsverschneidung beherrschen
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Radiale Stift- oder Medienbohrung kann in eine Axialbohrung münden. Lage von Funktionsfläche oder Achse bemaßen und innere Verschneidung getrennt vom sichtbaren Eintritt kennzeichnen. Zulässigen Kantenbruch und Durchgang gemeinsam festlegen. Was das Angebot beeinflusst Prüfen, ob Entgratwerkzeug die Innenkante erreicht, ohne Durchgang zu weiten oder Dichtfläche zu beschädigen. Aufspannung, Zugang, Spezialentgraten und gesonderte Prüfvorrichtung können mehr Aufwand verursachen als das Bohren selbst. Wie das Muster freigegeben wird Ein Verfahren vereinbaren, das die verdeckte Verschneidung tatsächlich bewertet, etwa eine zugängliche optische Prüfung oder bei Bedarf ein aufgeschnittenes Erstmuster. Serienprüfung getrennt definieren. Sauberer Eintritt und passender Durchmesser belegen keine innere Gratfreiheit. Schrauben mit Quer- oder Kopfbohrung ↗ Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Reinigung, Schraubensicherung und Vormontage ↗ CCD-Bildverarbeitung und Maßprüfung ↗
+
 #### Verwandte Verbindungselementfamilien
 
 Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Rändel- und Einstellschrauben ↗ Exzenter- und Schrägkopfschrauben ↗ Schrauben mit Quer- oder Kopfbohrung ↗
@@ -9707,6 +9749,14 @@ Zimmermann: 17-4PH Materialdaten
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
 
+Beispiel zur Zeichnungsprüfung
+
+#### Verschleißfläche und zähen Kern getrennt spezifizieren
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Bei Stahlanschlag oder gewindeformendem Teil Arbeitsfläche und Kernanforderung benennen. Für eine gehärtete Randschicht Tiefenkriterium, Verfahren und Prüfort definieren. Oberflächenhärte nicht als Kernwert behandeln und keine Stahlbehandlung auf Edelstahl- oder Titangüten übertragen. Was das Angebot beeinflusst Festlegen, welche Maße vor und nach der Behandlung entstehen. Präzisionsschultern können Aufmaß und eine andere Prüffolge benötigen; besondere Randschichtvorgaben oder zerstörende Prüfungen können Losgröße und Durchlaufzeit beeinflussen. Wie das Muster freigegeben wird Härte- oder Randschichtnachweis mit dem Behandlungslos verknüpfen. Endgeometrie nach Finish prüfen und sicherstellen, dass Abtrag mit dem geforderten Oberflächenzustand vereinbar ist. Bestellte Fertigteilklasse nach ihrer anwendbaren Abnahmebasis verifizieren. Kundenspezifische Gewindestifte und Madenschrauben ↗ Schulter- und Stufenschrauben ↗ Beschichtungen und Oberflächenbehandlungen ↗ CCD-Bildverarbeitung und Maßprüfung ↗ Kohlenstoff- und legierter Stahl ↗ 10B21 Borstahl ↗
+
 #### Verwandte Verbindungselementfamilien
 
 Kundenspezifische Gewindestifte und Madenschrauben ↗ Schulter- und Stufenschrauben ↗ Kundenspezifische Ringschrauben-Designs ↗
@@ -9761,18 +9811,6 @@ VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. Sorte, Behandlung, Geometrie und Akzeptanz bleiben konstruktionszeichnungsspezifisch.
 
-WERKSTOFF UND ENDZUSTAND
-
-##### Kohlenstoff- und legierter Stahl ↗
-
-Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
-
-WERKSTOFF UND ENDZUSTAND
-
-##### 10B21 Borstahl ↗
-
-10B21 ist eine Werkstoffbezeichnung und keine Festigkeitsklasse des fertigen Verbindungselements. Für 10B21-Schrauben lässt sich daher keine einheitliche Zugfestigkeit angeben.
-
 BEWERBUNGSVORAUSSETZUNGEN
 
 ##### Formen, Werkzeuge und Prüfvorrichtungen ↗
@@ -9825,6 +9863,14 @@ Würth: Wasserstoffversprödung
 Fastenal: Anleitung zur Versprödung
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+
+Beispiel zur Zeichnungsprüfung
+
+#### Beschichtungsdicke an einer glatten Passschulter einplanen
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Geometriebeispiel: Ein glatter Außendurchmesser von 8.000 mm wächst bei gleichmäßig 0.005 mm Schicht je Seite auf 8.010 mm. Für die Passung tatsächliche Dickenspanne und Verteilung prüfen. Die beidseitige Durchmesserrechnung gilt nicht direkt für den Gewindeflankendurchmesser. Was das Angebot beeinflusst Beschichtungssystem, Substratzustand, beschichtete oder maskierte Flächen, Dickenmessorte und Reibungs- oder Korrosionsanforderungen definieren. Vorbehandlung und relevante Wasserstoffrisiken einbeziehen; Name oder Farbe legen den Umfang nicht fest. Wie das Muster freigegeben wird Dicken- und Abdeckungsprüfung vereinbaren, dann Schulterpassung und Gewinde getrennt prüfen. Ist Reibung funktionsentscheidend, Nachweise für die festgelegte Paarung und Anziehbedingungen verlangen statt nur Aussehen oder Salzsprühbefund. Schulter- und Stufenschrauben ↗ Flanschschrauben nach Zeichnung ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ CCD-Bildverarbeitung und Maßprüfung ↗ Kohlenstoff- und legierter Stahl ↗
 
 #### Verwandte Verbindungselementfamilien
 
@@ -9882,12 +9928,6 @@ Sehen Sie sich diese verwandten Themen für diesen Entwurf oder diese Route an. 
 
 WERKSTOFF UND ENDZUSTAND
 
-##### Kohlenstoff- und legierter Stahl ↗
-
-Geben Sie die Eigenschaftsklasse des fertigen Verbindungselements an, nicht eine aus der Rohsorte abgeleitete Festigkeit. Zu den gängigen Nennklassenreferenzen gehören 8.8, 10.9 und 12.9.
-
-WERKSTOFF UND ENDZUSTAND
-
 ##### SUS304 & SUS316 Edelstahl ↗
 
 A2/A4 und Festigkeitsklassen wie 70 oder 80 beschreiben fertige Edelstahlschrauben im Geltungsbereich der jeweiligen Norm. Die Werkstoffangabe SUS304 oder SUS316 allein weist die Eigenschaften A2-70 oder A4-80 nicht nach.
@@ -9915,6 +9955,12 @@ Konstruktionszeichnung – DEFINIERTES DESIGN
 ##### U-Bügel nach Zeichnung ↗
 
 Ein gebogener Schaft und zwei Gewindeschenkel passen sich den Abmessungen des Rohrs, Rahmens oder geklemmten Bauteils an.
+
+Konstruktionszeichnung – DEFINIERTES DESIGN
+
+##### Flachrundschrauben mit Vierkantansatz nach Zeichnung ↗
+
+Ein runder Kopf und ein durch die Konstruktionszeichnung definierter Vierkanthals sorgen für eine verdrehsichere Schnittstelle mit der Gegenkomponente.
 
 ### Reinigung, Schraubensicherung und Vormontage
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/capabilities/post-processing/
@@ -9944,6 +9990,14 @@ Nylonflicken und klebstoffbasierte Verschlusssysteme verfügen über unterschied
 Unterlegscheiben, O-Ringe, PTFE-Unterlegscheiben oder Federn können nach technischer Zeichnung mitgeliefert werden. Bestätigen Sie Reihenfolge, Retention und Kompatibilität mit Hitze-/Beschichtungsvorgängen. Wo es das gewählte Material und die Oberflächenspezifikation erfordern, wird Wasserstoff-Reliefbacken angewendet.
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+
+Beispiel zur Zeichnungsprüfung
+
+#### Reinigung, Sicherungsbeschichtung und Dichtungsmontage richtig einordnen
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Bei unverlierbarer Schraube mit Dichtung oder Sicherungspatch spätere Reinigung, Beschichtung und Erwärmung auf Verträglichkeit prüfen. Dichtfläche, Rückhaltung und Patchposition angeben. Durchgang und nutzbares Gewinde frei von unerwünschten Resten halten. Was das Angebot beeinflusst Lieferfolge einschließlich Reinigen und Trocknen, Patchauftrag oder Scheiben-/Dichtungsmontage, Sortierung und Verpackung kalkulieren. Sauberkeit sowie Drehmoment oder Wiederverwendung über Methode und Bedingungen definieren, statt nur sauber oder gesichert zu bestellen. Wie das Muster freigegeben wird Endzustand nach allen Schritten und Schutzverpackung prüfen. Rückhaltung, Dichtungsausrichtung und Patchabdeckung getrennt vom vereinbarten Funktionstest kontrollieren. Los dokumentieren und technischen Sauberkeitsnachweis von Sichtkontrolle auf Rückstände unterscheiden. Unverlierbare Schrauben ↗ Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Beschichtungen und Oberflächenbehandlungen ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
 #### Verwandte Verbindungselementfamilien
 
@@ -10055,6 +10109,14 @@ Beschichtungsdicke, spezifizierte Salzsprühtests, Metallographie, Ermüdungs- u
 Vereinbaren Sie, welche Merkmale eine 100%-Prüfung, Bemusterung oder Erstmustergenehmigung erhalten. Für den Auftrag werden Geräteverfügbarkeit, externe Laborarbeiten und Reporting bestätigt; Es werden keine unbestätigten Angaben im hauseigenen Labor gemacht.
 
 Bereiten Sie eine vollständige Spezifikation vor Benutzen Sie die RFQ-Checkliste , prüfen Sie Materialien und fügen Sie das Erforderliche hinzu Inspektion und Dokumentation .
+
+Beispiel zur Zeichnungsprüfung
+
+#### Mit CCD sichtbare Maße prüfen und Blindstellen separat abdecken
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Bei einer Schulterschraube Länge, sichtbaren Durchmesser oder Stufe festlegen, die eine stabil präsentierte und kalibrierte Silhouette erfasst. Repräsentative Gut-, Grenz- und Schlechtteile in erwarteter Lage zur Programmprüfung verwenden. Die Kontur zeigt weder Innenbohrung noch Werkstoffzustand. Was das Angebot beeinflusst Optisch sortierte Merkmale von Stichproben für Gewinde, Bohrung, Härte oder Beschichtung trennen. Grenzwerte, Referenzmethode, Stichprobe und Nachweise vereinbaren. 100% Sortierung erfordert eine Merkmalliste statt eines Versprechens, alles zu messen. Wie das Muster freigegeben wird Grenznahe Ergebnisse mit der vereinbarten Referenz vergleichen, Ausschleusung prüfen und Zeichnungs- sowie Programmrevision dokumentieren. Ergebnisse für Gewindelehren, Innenmerkmale und Werkstoffprüfungen getrennt behalten; ein Gut-Signal ist keine vollständige Abnahme. Schulter- und Stufenschrauben ↗ Hohlschrauben und Schrauben mit Durchgangsbohrung ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗
 
 #### Verwandte Verbindungselementfamilien
 
@@ -10228,6 +10290,14 @@ Vereinbarte maßliche und mechanische Überprüfung
 Nachverfolgbare Dokumente und Genehmigung vor dem vorgesehenen Hebeeinsatz
 
 Warmstauchen und Warmumformen ↗ Werkstoffspezifische Wärmebehandlung ↗ CCD-Bildverarbeitung und Maßprüfung ↗ Augen- und Gelenkschrauben nach Zeichnung ↗
+
+Beispiel zur Zeichnungsprüfung
+
+#### Fertigungsfolge an Übergaben und nicht nur am Ende freigeben
+
+Beispiel zur Zeichnungsprüfung. Fertigungsfolge, Maße und Abnahme für das konkrete Teil bestätigen.
+
+Was die Fertigungsfolge bestimmt Für eine Passschulterschraube Rohteilbezug, schulterbildende Operation und spätere Behandlung bestimmen, die die Fläche verzieht oder aufbaut. Gleiche Zeichnungsrevision und Endzustandsanforderung über alle Übergaben beibehalten. Was das Angebot beeinflusst Routen mit gleichem Lieferumfang vergleichen: Mustermenge, Werkzeug, Folgeoperationen, Prüfung und Nachweise. Festhalten, welche Schritte bei Änderung von Güte, Finish, Rohteillieferant oder Fertigungsverfahren zu wiederholen oder neu freizugeben sind. Wie das Muster freigegeben wird Merkmal, erzeugende Operation, Prüfstufe und Abnahmemethode dokumentieren. Freigegebenes Muster und Losnachweise mit der Route verknüpfen. Beim Wechsel von Drehmustern auf geformte Serie betroffene Merkmale vor Wiederholaufträgen einzeln überprüfen. Schulter- und Stufenschrauben ↗ Kaltstauchen mit anschließender Zerspanung ↗ Langdrehen und CNC-Drehen ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
 #### Legen Sie die Reihenfolge fest, bevor Sie zitieren.
 

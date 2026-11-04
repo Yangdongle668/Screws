@@ -4,6 +4,7 @@ import {localePath} from '../lib/i18n/core.mjs';
 import {materialFamilies} from './industry-material-content.mjs';
 import {gradeDetails} from './material-grade-content.mjs';
 import {materialSelectionMetadata} from './material-selection-content.mjs';
+import {processReviews} from './process-review-content.mjs';
 const pages=JSON.parse(fs.readFileSync('lib/generated-pages.json','utf8')),pack=JSON.parse(fs.readFileSync('lib/editorial-corrections.json','utf8'))[0];
 for(const locale of ['en','de','es','it','fr','zh']){const prefix=locale==='en'?'':'/'+locale;for(const slug of ['set-screw-tip-selection','custom-screw-inspection-plan']){const page=pages[prefix+'/blog/'+slug+'/'];assert(page.includes('<caption>'),'Accessible comparison table '+locale);assert(page.includes('quality-table-scroll'));assert(page.includes('/downloads/'));assert(!page.includes('<h3>Technical references</h3><ul></ul>'));}assert(pages[prefix+'/about/'].includes('/photos/sample-display.jpg'));assert(pages[prefix+'/products/custom-screws/'].includes('/photos/stepped-components.jpg'));}
 const en=pages['/blog/set-screw-tip-selection/'];for(const point of ['Flat point','Cone point','Dog point','Cup point'])assert(en.includes(point));assert(en.includes('Concept sketches only'));assert(pages['/blog/custom-screw-inspection-plan/'].includes('not measured results'));assert(pages['/zh/products/shoulder-screws/'].includes('确认检测与验收范围'));assert(!pages['/zh/products/shoulder-screws/'].includes('同意检查范围'));
@@ -28,4 +29,15 @@ for(const material of materialFamilies)for(const locale of ['en','de','es','it',
  for(const process of material.processes)assert(html.includes('href="'+localePath('/capabilities/'+process+'/',locale)+'"'));
 }
 assert(pages['/materials/titanium-alloys/'].includes('895 minimum'));assert(pages['/materials/titanium-alloys/'].includes('828 minimum'));assert(!pages['/materials/titanium-alloys/'].includes('Carpenter minimum specified material data'));
-console.log(JSON.stringify({materialFamiliesReviewed:materialFamilies.length,materialLanguagePages:materialFamilies.length*6,additionalProductInterfaces:interfaces.length,sixLanguageDecisionAids:true,selectionComparison:true,filledInspectionExample:true,downloadableWorksheets:true,referencePhotos:true,noInventedMeasurementResults:true,runoutTermsSeparated:true,contextualTranslations:true}));
+const processTranslations=JSON.parse(fs.readFileSync('translations/process-review.json','utf8'));
+const esc=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+for(const [slug,review]of Object.entries(processReviews))for(const locale of ['en','de','es','it','zh','fr']){
+ const path=localePath('/capabilities/'+slug+'/',locale),html=pages[path],block=html.match(/<section class="section compact process-review"[\s\S]*?<\/section>/)?.[0];assert(block,'Process review '+path);
+ assert.equal((html.match(/id="process-review"/g)||[]).length,1);assert.equal((block.match(/<dd>/g)||[]).length,3);
+ for(const key of ['title','fit','quote','release'])assert(block.includes(esc(locale==='en'?review[key]:processTranslations[review[key]][locale])),'Localized process guidance '+path+' '+key);
+ for(const [area,slugs]of [['products',review.products],['capabilities',review.processes],['materials',review.materials||[]]])for(const target of slugs)assert(block.includes('href="'+localePath('/'+area+'/'+target+'/',locale)+'"'),'Contextual link '+path);
+ if(slug!=='process-routes')assert(html.includes('href="#process-review"'));
+}
+assert(processReviews['cnc-turning'].fit.includes(((7.96-4.04)/2-0.15).toFixed(2)+' mm'));
+assert(processReviews['surface-treatment'].fit.includes((8+2*0.005).toFixed(3)+' mm'));
+console.log(JSON.stringify({processReviewPages:Object.keys(processReviews).length,materialFamiliesReviewed:materialFamilies.length,materialLanguagePages:materialFamilies.length*6,additionalProductInterfaces:interfaces.length,sixLanguageDecisionAids:true,selectionComparison:true,filledInspectionExample:true,downloadableWorksheets:true,referencePhotos:true,noInventedMeasurementResults:true,runoutTermsSeparated:true,contextualTranslations:true}));

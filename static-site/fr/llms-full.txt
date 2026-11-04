@@ -9033,6 +9033,14 @@ Le formage à froid peut fournir un écoulement des grains et un écrouissage fa
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
 
+Exemple de revue du plan
+
+#### Frapper à froid une vis à embase et empreinte profonde
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Examinez ensemble tête et empreinte en coupe. Une embase plus large change le volume à déplacer ; une empreinte plus profonde laisse moins de matière dessous. Définissez raccordement sous tête et appui utile avant de répartir les étapes de formage. Ce qui influe sur le devis Séparez outillage de frappe, coût récurrent et reprises d’empreinte, épaulement ou trou. Demandez quelles révisions nécessitent une modification d’outil et si état du fil et taille du lot justifient le formage. Comment approuver l’échantillon Utilisez des échantillons issus du formage prévu. Vérifiez empreinte, appui et géométrie sous tête sur la pièce finie ; convenez des défauts inadmissibles et du contrôle. Un prototype tourné peut valider l’accès, pas la qualité de la tête frappée. Vis à embase sur mesure ↗ Vis de sécurité et anti-effraction ↗ Frappe à froid et usinage secondaire ↗ Acier au bore 10B21 ↗
+
 #### Familles de fixations associées
 
 Vis à épaulement et à marchepied ↗ Vis à embase sur mesure ↗ Vis de sécurité et anti-effraction ↗ Boulons à tête ronde et collet carré sur mesure ↗
@@ -9093,12 +9101,6 @@ MATÉRIAU ET ÉTAT FINAL
 
 Spécifiez la classe de propriétés de la fixation finie, et non une résistance déduite de la qualité brute. Les références de classe nominale courantes incluent 8.8, 10.9 et 12.9.
 
-MATÉRIAU ET ÉTAT FINAL
-
-##### Acier au bore 10B21 ↗
-
-10B21 désigne une nuance de matériau, et non une classe de résistance de la fixation finie. Il n’existe donc pas de valeur unique de résistance à la traction applicable à toutes les vis en 10B21.
-
 EXIGENCES DE DEMANDE
 
 ##### Composants automobiles ↗
@@ -9151,6 +9153,14 @@ Fournir la profondeur d'alésage, l'épaisseur de paroi, les relations entre les
 L'enlèvement de matière augmente la génération de copeaux et peut augmenter le coût unitaire. Une pièce usinée n’est pas universellement plus faible qu’une pièce formée : la nuance, la géométrie, le traitement thermique et la charge déterminent les performances.
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
+
+Exemple de revue du plan
+
+#### Vérifier la paroi restante avant de chiffrer une vis creuse
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Coupe illustrative : diamètre extérieur minimal de 7.96 mm et alésage maximal de 4.04 mm laissent 1.96 mm de paroi en concentricité. Avec un décalage des centres jusqu’à 0.15 mm, la paroi minimale vaut (7.96 − 4.04) ÷ 2 − 0.15 = 1.81 mm. Ce calcul exclut filetage, trous transversaux et raccordements. Ce qui influe sur le devis Indiquez paroi minimale et axe aux endroits utiles, pas seulement les diamètres nominaux. Alésage long, coupe interrompue, position plus serrée ou seconde prise peuvent modifier cycle, accès outil et contrôle. Comment approuver l’échantillon Contrôlez alésage et extérieur selon les références convenues après débridage. Vérifiez séparément intersections et bavures sur les passages de câbles ou fluides. Le calcul contrôle une géométrie, pas une pression ni une charge admissible. Vis creuses et vis à perçage traversant ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
 
 #### Familles de fixations associées
 
@@ -9271,6 +9281,14 @@ Incluez la qualité du stock, la géométrie, la quantité, les exigences mécan
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
 
+Exemple de revue du plan
+
+#### Distinguer l’ébauche à œil du chemin de charge final
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Pour une grande pièce à œil, dessinez le contact axe ou crochet, la transition de tige et l’appui final. Examinez plan de joint, ébavurage et surépaisseur afin de distinguer appuis finis et contour brut. Ce qui influe sur le devis Chiffrez ensemble ébauche chauffée, outillage, détourage ou décalaminage et usinage ultérieur. Définissez traitement, essais mécaniques et documents ; un grand œil ne prouve pas l’aptitude au levage. Comment approuver l’échantillon Confirmez alésage et appui finis, traçabilité matière et traitement et vérification mécanique convenue. Pour le levage, validez conception applicable, direction de charge, marquage et qualification avant libération. Boulons à œil et articulés sur mesure ↗ Conceptions de boulons à œil de levage sur mesure ↗ Traitement thermique adapté au matériau ↗
+
 #### Familles de fixations associées
 
 Boulons à œil et articulés sur mesure ↗ Conceptions de boulons à œil de levage sur mesure ↗ Boulons à tête carrée sur mesure ↗
@@ -9365,6 +9383,14 @@ Traitement thermique et revêtement peuvent modifier les cotes ou la surface. Pr
 Identifier les ajustements fonctionnels et les relations entre les références géométriques. La demande d'offre doit distinguer les caractéristiques critiques des dimensions offrant une plus grande flexibilité de fabrication.
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
+
+Exemple de revue du plan
+
+#### Passer du prototype tourné à épaulement à une ébauche formée
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Figez l’ajustement épaulement-alésage et l’appui axial avant le transfert. Définissez surfaces formées, références de reprise et surépaisseurs à conserver pour la finition après traitement ou déformation. Ce qui influe sur le devis Comparez le procédé complet, avec outillage, manutention, ébauches rebutées et ajustage final. Si épaulement et filetage sont établis dans des prises différentes, chiffrez la maîtrise de leur relation, pas seulement deux diamètres. Comment approuver l’échantillon Sur des échantillons du procédé série, revérifiez dimensions et forme de l’épaulement, longueur axiale, filetage et appui après finition. Gardez le prototype tourné comme référence et consignez les points à réapprouver. Vis à épaulement et à marchepied ↗ Frappe à froid multiposte ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
 
 #### Familles de fixations associées
 
@@ -9474,6 +9500,14 @@ Le taraudage coupe enlève la matière ; le taraudage en forme déplace un maté
 Définir la désignation, la classe, la longueur utile, le faux-rond et le jaugeage. Le laminage peut améliorer le comportement à la fatigue dans des conditions appropriées, mais ne constitue pas une garantie de résistance globale. Vérifiez si le filetage se produit avant ou après le traitement thermique.
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
+
+Exemple de revue du plan
+
+#### Un calibre conforme ne démontre pas la longueur utile
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Sur un filetage fin court près d’un épaulement, distinguez longueur utile à profil complet, entrée et sortie incomplète. Indiquez profondeur du trou et chanfrein pour que l’épaulement s’appuie avant la butée en fond ou les filets incomplets. Ce qui influe sur le devis Donnez profil, pas, classe, sens et état final. Pour roulage, examinez ébauche, ductilité et sortie d’outil ; pour usinage, dégagement et cycle. Incluez surépaisseur du revêtement et éventuel calibre spécial. Comment approuver l’échantillon Appliquez le calibre convenu à l’état final, puis contrôlez séparément longueur utile et sortie. Essayez l’assemblage approuvé si l’appui est critique. La bague seule ne démontre ni l’engagement disponible ni l’appui. Vis à pas fin et extra-fin ↗ Goujons à double extrémité sur mesure ↗ Revêtements et traitements de surface ↗ Contrôle dimensionnel et vision CCD ↗
 
 #### Familles de fixations associées
 
@@ -9594,6 +9628,14 @@ La rectification externe, sans centre ou de filetage peut répondre à des exige
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
 
+Exemple de revue du plan
+
+#### Maîtriser l’arête cachée d’un trou débouchant dans un alésage
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Un trou radial de goupille ou d’alimentation peut déboucher dans l’alésage axial. Cotez sa position depuis la référence fonctionnelle et distinguez l’intersection intérieure de l’entrée visible. Définissez casse d’arête et passage utile ensemble. Ce qui influe sur le devis Montrez si l’outil atteint l’arête interne sans agrandir le passage ni rayer une portée d’étanchéité. Bridage, accès, ébavurage spécial et montage de contrôle peuvent coûter davantage que le perçage. Comment approuver l’échantillon Convenez d’une méthode qui évalue l’intersection cachée, par exemple contrôle optique accessible ou coupe d’un premier échantillon si approprié. Définissez séparément le contrôle série. Entrée propre et diamètre conforme ne prouvent pas l’absence de bavure interne. Vis à perçage transversal ou à tête percée ↗ Vis creuses et vis à perçage traversant ↗ Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
+
 #### Familles de fixations associées
 
 Vis creuses et vis à perçage traversant ↗ Vis moletées et vis de réglage manuel ↗ Vis excentriques et à tête inclinée ↗ Vis à perçage transversal ou à tête percée ↗
@@ -9707,6 +9749,14 @@ Charpentier : 17-4PH données matérielles
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
 
+Exemple de revue du plan
+
+#### Spécifier séparément surface d’usure et cœur tenace
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Pour une butée en acier ou une zone de formage de filet, identifiez surface travaillante et exigence à cœur. Pour une couche durcie, précisez profondeur, méthode et position. Ne remplacez pas les propriétés à cœur par la dureté de surface ni ne transposez un traitement acier à l’inox ou au titane. Ce qui influe sur le devis Décidez quelles cotes sont établies avant et après traitement. Un épaulement précis peut nécessiter surépaisseur et autre séquence de contrôle ; couche spéciale ou essai destructif peuvent affecter lot et délai. Comment approuver l’échantillon Reliez dureté ou couche au lot de traitement. Contrôlez la géométrie finale et la compatibilité de l’enlèvement de matière avec l’état requis. Si une classe finale est commandée, vérifiez-la selon sa base de réception. Vis sans tête et vis de pression sur mesure ↗ Vis à épaulement et à marchepied ↗ Revêtements et traitements de surface ↗ Contrôle dimensionnel et vision CCD ↗ Acier au carbone et allié ↗ Acier au bore 10B21 ↗
+
 #### Familles de fixations associées
 
 Vis sans tête et vis de pression sur mesure ↗ Vis à épaulement et à marchepied ↗ Conceptions de boulons à œil de levage sur mesure ↗
@@ -9761,18 +9811,6 @@ THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 Consultez ces rubriques connexes pour cette conception ou cet itinéraire. La nuance, le traitement, la géométrie et l'acceptation restent spécifiques aux dessins techniques.
 
-MATÉRIAU ET ÉTAT FINAL
-
-##### Acier au carbone et allié ↗
-
-Spécifiez la classe de propriétés de la fixation finie, et non une résistance déduite de la qualité brute. Les références de classe nominale courantes incluent 8.8, 10.9 et 12.9.
-
-MATÉRIAU ET ÉTAT FINAL
-
-##### Acier au bore 10B21 ↗
-
-10B21 désigne une nuance de matériau, et non une classe de résistance de la fixation finie. Il n’existe donc pas de valeur unique de résistance à la traction applicable à toutes les vis en 10B21.
-
 EXIGENCES DE DEMANDE
 
 ##### Moules, outillage et montages d'essai ↗
@@ -9825,6 +9863,14 @@ Würth : fragilisation par l’hydrogène
 Fastenal : conseils en matière de fragilisation
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
+
+Exemple de revue du plan
+
+#### Prévoir l’épaisseur du revêtement sur un épaulement lisse
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Exemple géométrique : un diamètre extérieur lisse de 8.000 mm avec 0.005 mm de dépôt uniforme de chaque côté devient 8.010 mm. Vérifiez l’ajustement avec la plage et la distribution réelles. Cette estimation bilatérale ne s’applique pas directement au diamètre sur flancs. Ce qui influe sur le devis Définissez système, substrat, surfaces revêtues ou masquées, points d’épaisseur et exigences de friction ou corrosion. Intégrez préparation et maîtrise du risque hydrogène ; nom ou couleur ne définissent pas le périmètre. Comment approuver l’échantillon Convenez du contrôle d’épaisseur et de couverture, puis vérifiez séparément ajustement et filetage. Si la friction est critique, demandez des preuves pour les pièces et le serrage spécifiés, pas seulement aspect ou brouillard salin. Vis à épaulement et à marchepied ↗ Vis à embase sur mesure ↗ Filetage, coupe et taraudage ↗ Contrôle dimensionnel et vision CCD ↗ Acier au carbone et allié ↗
 
 #### Familles de fixations associées
 
@@ -9882,12 +9928,6 @@ Consultez ces rubriques connexes pour cette conception ou cet itinéraire. La nu
 
 MATÉRIAU ET ÉTAT FINAL
 
-##### Acier au carbone et allié ↗
-
-Spécifiez la classe de propriétés de la fixation finie, et non une résistance déduite de la qualité brute. Les références de classe nominale courantes incluent 8.8, 10.9 et 12.9.
-
-MATÉRIAU ET ÉTAT FINAL
-
 ##### SUS304 & SUS316 Acier inoxydable ↗
 
 Les groupes A2/A4 et les classes telles que 70 ou 80 caractérisent les fixations inoxydables finies dans le domaine de la spécification applicable. La seule indication SUS304 ou SUS316 ne démontre pas les propriétés A2-70 ou A4-80.
@@ -9915,6 +9955,12 @@ CONCEPTION DÉFINIE par dessin technique
 ##### Étriers filetés en U sur mesure ↗
 
 Une tige courbée et deux pattes filetées suivent les dimensions du tuyau, du cadre ou du composant serré.
+
+CONCEPTION DÉFINIE par dessin technique
+
+##### Boulons à tête ronde et collet carré sur mesure ↗
+
+Une tête ronde et un col carré défini par le dessin technique fournissent une interface anti-rotation avec le composant d'accouplement.
 
 ### Nettoyage, freinage et préassemblage
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/post-processing/
@@ -9944,6 +9990,14 @@ Les patchs en nylon et les systèmes de verrouillage à base d'adhésif ont des 
 Des rondelles, des joints toriques, des rondelles PTFE ou des ressorts peuvent être inclus par dessin technique. Confirmer la séquence, la rétention et la compatibilité avec les opérations de chauffage/revêtement. La cuisson à l'hydrogène est appliquée lorsque le matériau sélectionné et les spécifications de finition l'exigent.
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
+
+Exemple de revue du plan
+
+#### Ordonner nettoyage, patch de freinage et montage des joints
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Pour une vis imperdable avec joint ou patch, vérifiez la compatibilité des nettoyages, revêtements ou chauffes ultérieurs. Identifiez portée, rétention et position du patch. Gardez passage et filetage utile exempts de résidus indésirables. Ce qui influe sur le devis Chiffrez la séquence livrée : nettoyage et séchage, patch ou montage rondelle/joint, tri et emballage. Définissez propreté, couple ou réutilisation par méthode et conditions, plutôt qu’une pièce simplement propre ou freinée. Comment approuver l’échantillon Vérifiez l’état final après opérations et emballage protecteur. Contrôlez rétention, orientation du joint et couverture du patch séparément de l’essai fonctionnel. Consignez le lot et distinguez propreté technique et contrôle visuel des débris. Vis captives ↗ Vis creuses et vis à perçage traversant ↗ Revêtements et traitements de surface ↗ Contrôle dimensionnel et vision CCD ↗
 
 #### Familles de fixations associées
 
@@ -10055,6 +10109,14 @@ L'épaisseur du revêtement, les essais au brouillard salin spécifiés, la mét
 Convenez des caractéristiques qui font l'objet d'une sélection, d'un échantillonnage ou d'une approbation du premier article 100%. La disponibilité de l'équipement, les travaux de laboratoire externe et les rapports sont confirmés pour la commande ; aucune réclamation non vérifiée en laboratoire interne n'est faite.
 
 Préparer un cahier des charges complet Utilisez le Liste de contrôle de la demande de prix , examiner matériaux et inclure les éléments requis inspection et documentation .
+
+Exemple de revue du plan
+
+#### Utiliser le CCD pour les cotes visibles et couvrir les zones masquées
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Sur une vis à épaulement, identifiez longueur, diamètre visible ou ressaut contrôlable sur une silhouette stable et étalonnée. Présentez des pièces bonnes, limites et rejetées aux orientations prévues pour valider le programme. Le contour ne révèle ni alésage interne ni état matière. Ce qui influe sur le devis Séparez les caractéristiques triées optiquement des contrôles échantillonnés de filetage, alésage, dureté ou revêtement. Convenez limites, référence, prélèvement et enregistrements. Un tri à 100% exige la liste des caractéristiques couvertes. Comment approuver l’échantillon Comparez les résultats proches des limites à la référence, vérifiez le rejet et consignez les révisions plan et programme. Conservez séparément calibres, caractéristiques internes et essais matière ; un signal conforme ne vaut pas réception complète. Vis à épaulement et à marchepied ↗ Vis creuses et vis à perçage traversant ↗ Filetage, coupe et taraudage ↗
 
 #### Familles de fixations associées
 
@@ -10228,6 +10290,14 @@ Vérification dimensionnelle et mécanique agréée
 Documents traçables et approbation avant utilisation prévue du levage
 
 Captage à chaud et forgeage ↗ Traitement thermique adapté au matériau ↗ Contrôle dimensionnel et vision CCD ↗ Boulons à œil et articulés sur mesure ↗
+
+Exemple de revue du plan
+
+#### Valider le procédé aux interfaces, pas seulement en fin de chaîne
+
+Exemple de revue du plan. Confirmez procédé, dimensions et réception pour votre pièce.
+
+Ce qui détermine le procédé Pour une vis à épaulement ajusté, identifiez référence d’ébauche, opération qui établit l’appui et traitement ultérieur susceptible de le déplacer ou épaissir. Conservez révision du plan et état final à chaque transfert. Ce qui influe sur le devis Comparez les procédés sur le même périmètre : quantité d’échantillons, outillage, reprises, vérification et documents. Notez les opérations à répéter ou réapprouver si nuance, finition, source d’ébauche ou procédé change. Comment approuver l’échantillon Consignez caractéristique, opération qui l’établit, étape de vérification et méthode de réception. Reliez échantillon approuvé et lot au procédé. Du prototype tourné à la série formée, réexaminez chaque caractéristique affectée avant les commandes répétées. Vis à épaulement et à marchepied ↗ Frappe à froid et usinage secondaire ↗ Type Suisse & CNC Tournage ↗ Contrôle dimensionnel et vision CCD ↗
 
 #### Décidez de la séquence avant de citer.
 

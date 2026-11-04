@@ -9033,6 +9033,14 @@ La formatura a freddo può fornire un flusso favorevole del grano e un incrudime
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
 
+Esempio di revisione del disegno
+
+#### Stampare a freddo una vite flangiata con impronta profonda
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Valutare testa e impronta in sezione. Una flangia maggiore cambia il volume da spostare e un’impronta profonda riduce il materiale sottostante. Definire raccordo sottotesta e appoggio utile prima di suddividere la formatura. Cosa incide sul preventivo Separare attrezzature di stampaggio, costo unitario e lavorazioni successive di impronta, spallamento o foro. Chiarire quali revisioni richiedono modifiche agli stampi e se stato del filo e lotto sostengono il ciclo. Come approvare il campione Usare campioni dal ciclo previsto. Verificare accoppiamento dell’impronta, appoggio e sottotesta sul finito; concordare difetti inammissibili e controlli. Il prototipo tornito può confermare l’accesso, non la qualità della testa stampata. Viti flangiate su disegno ↗ Viti di sicurezza antimanomissione ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ 10B21 Acciaio al boro ↗
+
 #### Famiglie di elementi di fissaggio correlate
 
 Viti per spalla e gradino ↗ Viti flangiate su disegno ↗ Viti di sicurezza antimanomissione ↗ Bulloni del carrello personalizzati ↗
@@ -9093,12 +9101,6 @@ MATERIALE E STATO FINALE
 
 Specificare la classe di proprietà del dispositivo di fissaggio finito, non la resistenza dedotta dalla qualità grezza. I riferimenti comuni alle classi nominali includono 8.8, 10.9 e 12.9.
 
-MATERIALE E STATO FINALE
-
-##### 10B21 Acciaio al boro ↗
-
-10B21 è una designazione del materiale, non una classe di resistenza della vite finita. Non esiste quindi un unico valore di resistenza a trazione applicabile a tutte le viti in 10B21.
-
 REQUISITI DELL'APPLICAZIONE
 
 ##### Componenti automobilistici ↗
@@ -9151,6 +9153,14 @@ Fornire la profondità del foro, lo spessore della parete, le relazioni tra i ri
 La rimozione del materiale aumenta la generazione di trucioli e può aumentare il costo unitario. Una parte lavorata non è sempre più debole di una parte formata: qualità, geometria, trattamento termico e carico determinano le prestazioni.
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
+
+Esempio di revisione del disegno
+
+#### Verificare la parete residua prima di quotare una vite cava
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Sezione illustrativa: diametro esterno minimo 7.96 mm e foro massimo 4.04 mm lasciano 1.96 mm di parete se concentrici. Con scostamento dei centri fino a 0.15 mm, la parete minima è (7.96 − 4.04) ÷ 2 − 0.15 = 1.81 mm. Il calcolo non include filetti, fori trasversali o raccordi. Cosa incide sul preventivo Indicare parete minima e asse del foro nelle zone funzionali, non solo diametri nominali. Foro lungo, taglio interrotto, posizione più stretta o seconda presa possono cambiare ciclo, accesso utensile e controllo. Come approvare il campione Controllare foro ed esterno sui riferimenti concordati dopo lo sbloccaggio. Verificare separatamente intersezioni e bave nei passaggi di cavi o fluidi. Il calcolo riguarda la geometria, non pressione o portata. Viti cave e con foro passante ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
 
 #### Famiglie di elementi di fissaggio correlate
 
@@ -9271,6 +9281,14 @@ Includere la qualità dello stock, la geometria, la quantità, i requisiti mecca
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
 
+Esempio di revisione del disegno
+
+#### Separare il grezzo ad occhio dal percorso di carico finale
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Per un pezzo ad occhio grande disegnare contatto di perno o gancio, raccordo del gambo e appoggio finito. Valutare linea di divisione, rifilatura e sovrametallo senza confondere le superfici finite con il grezzo. Cosa incide sul preventivo Quotare grezzo riscaldato, attrezzature, rifilatura o rimozione della calamina e lavorazione successiva come ciclo completo. Definire trattamento, verifica meccanica e documenti; un occhio grande non dimostra idoneità al sollevamento. Come approvare il campione Confermare foro e appoggio finiti, tracciabilità di materiale e trattamento e verifica meccanica concordata. Per sollevamento approvare progetto, direzione di carico, marcatura e qualifica prima del rilascio. Bulloni a occhio e articolati su disegno ↗ Progetti di golfari di sollevamento su disegno ↗ Trattamento termico specifico per il materiale ↗
+
 #### Famiglie di elementi di fissaggio correlate
 
 Bulloni a occhio e articolati su disegno ↗ Progetti di golfari di sollevamento su disegno ↗ Bulloni a testa quadra su disegno ↗
@@ -9365,6 +9383,14 @@ Trattamenti termici e rivestimenti possono modificare quote o superficie. Pianif
 Identificare gli adattamenti funzionali e le relazioni tra i riferimenti geometrici. La richiesta di offerta dovrebbe distinguere le caratteristiche critiche dalle dimensioni con maggiore flessibilità di produzione.
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
+
+Esempio di revisione del disegno
+
+#### Passare dal prototipo tornito con spallamento al grezzo formato
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Fissare accoppiamento spallamento-foro e appoggio assiale prima del cambio. Definire superfici formate, riferimenti della ripresa e sovrametallo sufficiente per finitura dopo trattamento o deformazione. Cosa incide sul preventivo Confrontare ciclo completo: attrezzature, movimentazione, scarti dei grezzi e finitura. Se spallamento e filetto nascono in prese diverse, includere il controllo della loro relazione, non solo due diametri. Come approvare il campione Usare campioni di serie per ricontrollare dimensione e forma dello spallamento, lunghezza assiale, filetto e appoggio dopo finitura. Conservare il tornito come riferimento geometrico e registrare le caratteristiche da riapprovare. Viti per spalla e gradino ↗ Rotta a freddo multistazione ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗
 
 #### Famiglie di elementi di fissaggio correlate
 
@@ -9474,6 +9500,14 @@ La maschiatura a taglio rimuove il materiale; la maschiatura della forma sposta 
 Definire designazione, classe, lunghezza utilizzabile, eccentricità e sagomatura. Il rotolamento può migliorare il comportamento a fatica in condizioni adeguate, ma non è una garanzia di resistenza generale. Verificare se la filettatura avviene prima o dopo il trattamento termico.
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
+
+Esempio di revisione del disegno
+
+#### Il calibro non dimostra da solo la lunghezza utile del filetto
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Per un filetto fine corto vicino allo spallamento, distinguere lunghezza utile a profilo completo, imbocco e uscita incompleta. Mostrare profondità e smusso del foro perché lo spallamento appoggi prima del fondo o dei filetti incompleti. Cosa incide sul preventivo Fornire profilo, passo, classe, verso e stato finale. Per rullatura valutare grezzo, duttilità e uscita utensile; per taglio ingombri e ciclo. Includere sovrametallo di rivestimento ed eventuali calibri speciali. Come approvare il campione Usare il calibro concordato nello stato finale e verificare separatamente lunghezza utile e uscita. Provare l’assieme approvato se l’appoggio è critico. Il calibro ad anello non dimostra da solo impegno e appoggio. Viti a passo fine ed extra-fine ↗ Prigionieri a doppia estremità su disegno ↗ Rivestimenti e trattamenti superficiali ↗ Controllo dimensionale e visione CCD ↗
 
 #### Famiglie di elementi di fissaggio correlate
 
@@ -9594,6 +9628,14 @@ La rettifica esterna, senza centri o di filettatura può soddisfare requisiti sp
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
 
+Esempio di revisione del disegno
+
+#### Controllare il bordo nascosto di un foro intersecante
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Un foro radiale di spina o alimentazione può intersecare quello assiale. Quotare posizione da faccia o asse funzionale e distinguere l’intersezione interna dall’entrata visibile. Definire rottura spigolo e passaggio utile insieme. Cosa incide sul preventivo Mostrare se l’utensile raggiunge il bordo interno senza allargare il passaggio o graffiare una tenuta. Presa, accesso, sbavatura speciale e controllo separato possono costare più della foratura. Come approvare il campione Concordare un metodo che valuti l’intersezione nascosta, come ottica con accesso o sezionamento del primo campione se opportuno. Definire a parte il controllo in serie. Entrata pulita e diametro conforme non garantiscono l’accettazione delle bave interne. Viti con foro trasversale o nella testa ↗ Viti cave e con foro passante ↗ Pulizia, chiusura e assemblaggio ↗ Controllo dimensionale e visione CCD ↗
+
 #### Famiglie di elementi di fissaggio correlate
 
 Viti cave e con foro passante ↗ Viti zigrinate e di regolazione ↗ Viti eccentriche e a testa inclinata ↗ Viti con foro trasversale o nella testa ↗
@@ -9707,6 +9749,14 @@ Falegname: 17-4PH dati materiale
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
 
+Esempio di revisione del disegno
+
+#### Specificare separatamente superficie d’usura e cuore tenace
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Per battuta in acciaio o zona autofilettante identificare superficie di lavoro e requisito del cuore. Per uno strato indurito definire profondità, metodo e posizione. Non usare durezza superficiale al posto delle proprietà del cuore o trasferire un trattamento dell’acciaio a inox o titanio. Cosa incide sul preventivo Decidere quote prima e dopo trattamento. Uno spallamento di precisione può richiedere sovrametallo e diversa sequenza di controllo; strati speciali o prove distruttive possono incidere su lotto e tempi. Come approvare il campione Collegare durezza o strato al lotto termico. Controllare geometria finale e compatibilità dell’asportazione con lo stato superficiale richiesto. Verificare l’eventuale classe finale sulla base di accettazione applicabile. Viti di fermo e grani personalizzati ↗ Viti per spalla e gradino ↗ Rivestimenti e trattamenti superficiali ↗ Controllo dimensionale e visione CCD ↗ Acciaio al carbonio e legato ↗ 10B21 Acciaio al boro ↗
+
 #### Famiglie di elementi di fissaggio correlate
 
 Viti di fermo e grani personalizzati ↗ Viti per spalla e gradino ↗ Progetti di golfari di sollevamento su disegno ↗
@@ -9761,18 +9811,6 @@ ARGOMENTI DI SPECIFICA COLLEGATI
 
 Esaminare questi argomenti correlati per questo progetto o percorso. Grado, trattamento, geometria e accettazione rimangono specifici del disegno tecnico.
 
-MATERIALE E STATO FINALE
-
-##### Acciaio al carbonio e legato ↗
-
-Specificare la classe di proprietà del dispositivo di fissaggio finito, non la resistenza dedotta dalla qualità grezza. I riferimenti comuni alle classi nominali includono 8.8, 10.9 e 12.9.
-
-MATERIALE E STATO FINALE
-
-##### 10B21 Acciaio al boro ↗
-
-10B21 è una designazione del materiale, non una classe di resistenza della vite finita. Non esiste quindi un unico valore di resistenza a trazione applicabile a tutte le viti in 10B21.
-
 REQUISITI DELL'APPLICAZIONE
 
 ##### Stampi, attrezzature e dispositivi di prova ↗
@@ -9825,6 +9863,14 @@ Würth: infragilimento da idrogeno
 Fastenal: guida all'infragilimento
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
+
+Esempio di revisione del disegno
+
+#### Considerare lo spessore del rivestimento su uno spallamento liscio
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Esempio geometrico: diametro esterno liscio 8.000 mm con deposito uniforme di 0.005 mm per lato diventa 8.010 mm. Usare intervallo e distribuzione effettivi per l’accoppiamento. La stima bilaterale non vale direttamente per il diametro medio del filetto. Cosa incide sul preventivo Definire sistema, substrato, superfici coperte o mascherate, punti di misura e requisiti di attrito o corrosione. Includere pretrattamento e controlli per l’idrogeno; nome o colore non definiscono il ciclo. Come approvare il campione Concordare spessore e copertura, poi verificare separatamente accoppiamento e filetto. Se l’attrito è critico, richiedere evidenza per abbinamento e serraggio specificati, non solo aspetto o nebbia salina. Viti per spalla e gradino ↗ Viti flangiate su disegno ↗ Rullatura, taglio e maschiatura del filetto ↗ Controllo dimensionale e visione CCD ↗ Acciaio al carbonio e legato ↗
 
 #### Famiglie di elementi di fissaggio correlate
 
@@ -9882,12 +9928,6 @@ Esaminare questi argomenti correlati per questo progetto o percorso. Grado, trat
 
 MATERIALE E STATO FINALE
 
-##### Acciaio al carbonio e legato ↗
-
-Specificare la classe di proprietà del dispositivo di fissaggio finito, non la resistenza dedotta dalla qualità grezza. I riferimenti comuni alle classi nominali includono 8.8, 10.9 e 12.9.
-
-MATERIALE E STATO FINALE
-
 ##### SUS304 & SUS316 Acciaio inossidabile ↗
 
 I gruppi A2/A4 e le classi come 70 o 80 descrivono elementi di fissaggio in acciaio inossidabile finiti secondo la specifica applicabile. La sola indicazione SUS304 o SUS316 non attesta le prestazioni A2-70 o A4-80.
@@ -9915,6 +9955,12 @@ disegno tecnico-DESIGN DEFINITO
 ##### Cavallotti a U su disegno ↗
 
 Un gambo piegato e due gambe filettate seguono le dimensioni del tubo, del telaio o del componente serrato.
+
+disegno tecnico-DESIGN DEFINITO
+
+##### Bulloni del carrello personalizzati ↗
+
+Una testa rotonda e un collo quadrato definito dal disegno tecnico forniscono un'interfaccia antirotazione con il componente di accoppiamento.
 
 ### Pulizia, frenatura e preassemblaggio
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/capabilities/post-processing/
@@ -9944,6 +9990,14 @@ Le toppe in nylon e i sistemi di bloccaggio a base adesiva hanno meccanismi dive
 Rondelle, O-ring, rondelle in PTFE o molle possono essere incluse tramite disegno tecnico. Confermare la sequenza, la ritenzione e la compatibilità con le operazioni di riscaldamento/rivestimento. La cottura con rilascio di idrogeno viene applicata dove richiesto dal materiale selezionato e dalle specifiche di finitura.
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
+
+Esempio di revisione del disegno
+
+#### Ordinare pulizia, frenatura e montaggio delle guarnizioni
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Per vite imperdibile con guarnizione o patch, verificare compatibilità di pulizia, rivestimento e riscaldamento successivi. Identificare tenuta, ritenzione e posizione del patch. Tenere passaggio e filetto utile liberi da residui. Cosa incide sul preventivo Quotare il ciclo consegnato: pulizia e asciugatura, patch o montaggio di rondella/guarnizione, selezione e imballo. Definire pulizia, coppia o riuso con metodo e condizioni; non chiedere solo pezzi puliti o frenati. Come approvare il campione Verificare stato finale dopo tutte le operazioni e imballo protettivo. Controllare ritenzione, orientamento guarnizione e copertura patch separatamente dalla prova funzionale. Registrare lotto e distinguere pulizia tecnica da controllo visivo dei residui. Viti imperdibili ↗ Viti cave e con foro passante ↗ Rivestimenti e trattamenti superficiali ↗ Controllo dimensionale e visione CCD ↗
 
 #### Famiglie di elementi di fissaggio correlate
 
@@ -10055,6 +10109,14 @@ Lo spessore del rivestimento, i test specifici in nebbia salina, la metallografi
 Concordare quali caratteristiche ricevono il 100% di screening, campionamento o approvazione del primo articolo. Per l'ordine sono confermati la disponibilità dell'attrezzatura, il lavoro di laboratorio esterno e la reportistica; non viene fatta alcuna dichiarazione di laboratorio interna non verificata.
 
 Preparare una specifica completa Usa il Lista di controllo della richiesta di offerta , valutare materiali e includere quanto richiesto ispezione e documentazione .
+
+Esempio di revisione del disegno
+
+#### Usare CCD per quote visibili e coprire le zone non osservabili
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Per una vite con spallamento, individuare lunghezza, diametro o gradino visibili con sagoma stabile e calibrata. Presentare pezzi conformi, al limite e scartati negli orientamenti previsti per verificare il programma. Il profilo non mostra foro interno o stato del materiale. Cosa incide sul preventivo Separare caratteristiche selezionate otticamente dai controlli a campione di filetto, foro, durezza o rivestimento. Concordare limiti, riferimento, campionamento e registri. La selezione al 100% richiede un elenco delle caratteristiche, non la promessa di misurare tutto. Come approvare il campione Confrontare risultati vicini ai limiti con il riferimento, verificare gestione scarti e registrare revisioni di disegno e programma. Conservare separatamente calibri, caratteristiche interne e prove del materiale; un segnale OK non equivale ad accettazione completa. Viti per spalla e gradino ↗ Viti cave e con foro passante ↗ Rullatura, taglio e maschiatura del filetto ↗
 
 #### Famiglie di elementi di fissaggio correlate
 
@@ -10228,6 +10290,14 @@ Verifica dimensionale e meccanica concordata
 Documenti tracciabili e approvazione prima dell'uso previsto per il sollevamento
 
 Stampaggio a caldo e forgiatura ↗ Trattamento termico specifico per il materiale ↗ Controllo dimensionale e visione CCD ↗ Bulloni a occhio e articolati su disegno ↗
+
+Esempio di revisione del disegno
+
+#### Approvare il ciclo nei passaggi, non solo a fine produzione
+
+Esempio di revisione del disegno. Confermare ciclo, quote e accettazione per il pezzo effettivo.
+
+Cosa determina il ciclo Per una vite con spallamento di precisione, identificare riferimento del grezzo, operazione che stabilisce l’appoggio e trattamento che può deformarlo o aumentarne la quota. Mantenere revisione e stato finale in ogni passaggio. Cosa incide sul preventivo Confrontare cicli con lo stesso perimetro: campioni, attrezzature, riprese, verifica e documenti. Registrare cosa ripetere o riapprovare se cambiano grado, finitura, fornitore dei grezzi o metodo produttivo. Come approvare il campione Registrare caratteristica, operazione che la stabilisce, fase di verifica e metodo di accettazione. Collegare campione approvato e lotto al ciclo. Nel passaggio da tornito a serie formata, riesaminare ogni caratteristica prima di approvare riordini. Viti per spalla e gradino ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Swiss Type e CNC Tornitura ↗ Controllo dimensionale e visione CCD ↗
 
 #### Decidi la sequenza prima di citare.
 
