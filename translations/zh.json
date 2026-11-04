@@ -4610,5 +4610,16 @@
   "Trial installation and verify push-out and torque-out as agreed.": "试压铆并按约定检查推出力与抗转扭矩。",
   "Specify square neck width, height and corner clearance": "标明方颈对边、高度和角部避空",
   "Check head seating and anti-rotation in the finished panel.": "在成品板件上检查头部贴合及防转。",
-  "Prepare the RFQ": "准备询价资料"
+  "Prepare the RFQ": "准备询价资料",
+  "Shoulder bolt reference photograph": "台阶螺栓参考实拍",
+  "Hex head, smooth shoulder and short threaded end": "六角头、光杆肩轴和短螺纹端",
+  "DIN 610 geometry reference from Wikimedia Commons.": "来自维基共享资源的 DIN 610 外形参考。",
+  "ARFISA Representaciones, SCP": "ARFISA Representaciones, SCP",
+  "CC BY-SA 3.0": "CC BY-SA 3.0",
+  "Open product menu": "展开产品菜单",
+  "Compare manufacturing routes": "比较制造路线",
+  "Keep a serviceable cover seated without interference or blind-hole bottoming.": "让可拆检盖板可靠贴合，避免法兰干涉或螺丝顶到盲孔底。",
+  "Check flange seating, usable thread engagement and access with the intended service tool.": "检查法兰贴合、有效旋合长度，并用指定维护工具试装。",
+  "Retain a moving plate while preserving pivot clearance and a separately adjustable stop.": "固定活动板，同时保留转轴间隙，并让限位位置能单独调节。",
+  "Measure the finished shoulder and trial movement, axial clearance and stop adjustment in the assembly.": "测量最终状态的肩轴，并在装配中检查转动、轴向间隙和限位调节。"
 }

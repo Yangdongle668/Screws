@@ -293,7 +293,7 @@ For each characteristic, agree the method, stage, coverage and record. Keep indi
 
 Record the affected requirement, proposed disposition and approval before release. If the drawing, route or finish changes, identify which checks and sample approvals must be repeated.
 
-Build a characteristic-by-characteristic inspection plan ↗
+Build a characteristic-by-characteristic inspection plan ↗ Shoulder & Step Screws Download a blank inspection worksheet (English)
 
 #### What an inspection record should let you verify
 
@@ -319,6 +319,26 @@ THE KNOWLEDGE CENTER
 ### Good parts begin with good questions.
 
 Practical reading for engineers and sourcing teams preparing non-standard screw requirements.
+
+#### A clearer RFQ. A more useful reply.
+
+Work through the checklist below before submitting. If a detail is not yet known, tell us what still needs to be resolved.
+
+#### Custom fastener drawing review: a practical release checklist
+
+A step-by-step drawing review for custom screw RFQs: controlled definition, mating interfaces, critical features, final condition and release evidence.
+
+#### Grade, condition and joint. Make the choice together.
+
+A material name is the beginning of a specification. The required finished properties, environment and assembly determine whether it is suitable.
+
+#### Choosing a manufacturing route for a custom screw
+
+Compare cold heading, CNC turning, hybrid and hot-forged routes using geometry, quantity, tooling, secondary work and final acceptance.
+
+#### Building a custom fastener inspection and acceptance plan
+
+Build a characteristic-by-characteristic acceptance plan with suitable methods, inspection frequency, records and deviation handling.
 
 #### Engineering Guides
 
@@ -962,7 +982,7 @@ Allow approximately 10–15 days for tooling and sampling, subject to technical 
 
 Use the approved sample and drawing revision to agree order quantity, lot identification, required documents and delivery. Monthly capacity is approximately several million parts across the product mix; allocation and timing depend on the actual route and order.
 
-Prepare the sample approval requirements ↗
+Prepare the sample approval requirements ↗ Quality planning Application design studies
 
 ### Request a Custom Screw Quote
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/request-a-quote/
@@ -1095,7 +1115,7 @@ Answers to common purchasing and engineering questions before requesting drawing
 
 #### Drawings and quotations
 
-What information is needed for a useful custom screw quotation? Send the current drawing revision, quantity and expected repeat demand, application, required material and surface condition, critical dimensions and inspection or document requirements. Include the mating-part relationship when the screw locates, pivots, retains or seals with another component. If information is not yet fixed, identify the open questions rather than let each supplier make a different assumption.
+RFQ checklist Request a quote What information is needed for a useful custom screw quotation? Send the current drawing revision, quantity and expected repeat demand, application, required material and surface condition, critical dimensions and inspection or document requirements. Include the mating-part relationship when the screw locates, pivots, retains or seals with another component. If information is not yet fixed, identify the open questions rather than let each supplier make a different assumption.
 
 Can you work from a sample or a photograph? A sample or clear photograph can help start a discussion, but it does not establish hidden geometry, material condition, tolerances or performance requirements. The team must clarify those details and confirm a controlled drawing or specification before production. A similar external appearance is not evidence that two parts will be interchangeable in the intended assembly.
 
@@ -1103,7 +1123,7 @@ Is there one minimum order quantity for every custom part? No single quantity is
 
 #### Samples and manufacturing
 
-How long do tooling and samples normally take? Tooling and sampling are typically discussed at approximately 10–15 days, subject to drawing review and confirmation of the sample specification. Material availability, special treatment and required verification can affect the agreed schedule. Confirm the start milestone in the quotation. Repeat-production delivery is quoted separately and is not automatically the same as the sampling period.
+Process route examples How long do tooling and samples normally take? Tooling and sampling are typically discussed at approximately 10–15 days, subject to drawing review and confirmation of the sample specification. Material availability, special treatment and required verification can affect the agreed schedule. Confirm the start milestone in the quotation. Repeat-production delivery is quoted separately and is not automatically the same as the sampling period.
 
 Should a custom screw be cold headed or CNC turned? The route depends on the drawing, material, quantity and final acceptance requirements. Turning can be reviewed for complex geometry and flexible development quantities; forming or a hybrid route can be evaluated for suitable repeat-production programmes. Ask for route assumptions and a complete comparison including tooling, secondary operations, treatment and inspection. Neither process name alone proves a finished part will meet its requirements.
 
@@ -1111,7 +1131,7 @@ Can the geometry change after sample approval? Changes should follow a controlle
 
 #### Materials and surface treatment
 
-Does a material grade establish the finished screw strength? A raw material designation is not, by itself, the complete finished-property requirement. Grade, material condition, manufacturing route and relevant treatment must be considered with the actual specification. State the required finished properties and evidence separately from the raw grade. Do not assume that every screw described with the same material family has the same delivered strength or service suitability.
+Materials Coatings & Surface Treatments Does a material grade establish the finished screw strength? A raw material designation is not, by itself, the complete finished-property requirement. Grade, material condition, manufacturing route and relevant treatment must be considered with the actual specification. State the required finished properties and evidence separately from the raw grade. Do not assume that every screw described with the same material family has the same delivered strength or service suitability.
 
 Can I request a different material if availability changes? An alternative can be reviewed, but it must be approved against the actual interface and requirements. Compare the material condition, finished properties, treatment, dimensions, manufacturing route and documentation. A familiar cross-reference or a higher nominal strength does not automatically establish equivalence. Keep approved alternatives and any limitations identifiable on the drawing, order or deviation record.
 
@@ -1119,7 +1139,7 @@ Which coating should I choose for outdoor equipment? The correct review needs th
 
 #### Inspection and acceptance
 
-Does CCD inspection check every property of a screw? No. A suitable vision setup can check accessible dimensions and visible profiles within its agreed scope. It does not independently establish material strength, coating chemistry, hidden geometry or every three-dimensional relationship. Thread gauges, dimensional measurements, material or treatment records and any required assembly checks should be selected for the actual drawing and failure risks.
+Quality planning Building a custom fastener inspection and acceptance plan Does CCD inspection check every property of a screw? No. A suitable vision setup can check accessible dimensions and visible profiles within its agreed scope. It does not independently establish material strength, coating chemistry, hidden geometry or every three-dimensional relationship. Thread gauges, dimensional measurements, material or treatment records and any required assembly checks should be selected for the actual drawing and failure risks.
 
 Are all custom screws inspected on every characteristic on every piece? Inspection scope and frequency must be agreed. First-article checks, lot sampling and every-piece sorting answer different needs. If every-piece checking is required, name the characteristic, method and criteria. Do not interpret an optical sort of selected external features as proof that every property of every part has been measured.
 
@@ -1179,6 +1199,24 @@ THE CUSTOM FASTENER RANGE
 ### Custom screw products. Find the right structure.
 
 From everyday shoulder screws to compound threaded components, explore the functional features that matter to your application.
+
+#### Find a product family
+
+##### Core Custom Screws
+
+Shoulder, security, hollow, flange, hand-adjustment and set screw designs for daily engineering requirements.
+
+##### Special Heads & Functional Bolts
+
+T-heads, eyes, rings, U-bends, square heads and other geometries shaped around mounting and adjustment.
+
+##### Special Threads & Shanks
+
+Fine pitches, special profiles, modified tips and stepped or tapered shanks defined by the drawing.
+
+##### Compound Structures
+
+Multiple locating features, cross holes, press-in features and mixed threaded sections in one custom part.
 
 Find a product family 24 detailed product families
 
@@ -1500,7 +1538,41 @@ A head, a locating shoulder and a threaded section combine fastening with contro
 
 Discuss this custom part ↗ Shoulder & Step Screws
 
-Calculate the shoulder clearance from both tolerance limits ↓ DRAWING-DEFINED FEATURES 01
+Calculate the shoulder clearance from both tolerance limits ↓
+
+#### Check the bore fit separately from the axial clearance
+
+The shoulder-to-bore interface guides movement; the distance between the seating faces controls the axial stack. Define both in the finished condition rather than treating a thread fit as the locating fit.
+
+1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
+
+Shoulder and mating bore: specify the two limits, the reference axis and any functional surface requirement.
+
+Seating and transition: show the mating chamfer or counterbore so the incomplete thread or relief does not prevent seating.
+
+After finishing: identify the surfaces affected by treatment or coating and the stage at which the final fit is checked.
+
+Read the clearance calculation below alongside these interfaces. A satisfactory axial gap does not by itself establish the bore fit or the required geometric relationship.
+
+#### Calculate the shoulder clearance from both tolerance limits
+
+For a moving plate, shoulder length must be compared with the complete stack between the seating faces. Include the washer, bushing and plate in that stack; overall screw length does not determine movement clearance.
+
+Assume a shoulder length L of 8.20 ± 0.03 mm and a complete moving stack S of 8.00 ± 0.05 mm. The illustrative required axial clearance is 0.10–0.30 mm. Both dimensions refer to the final supplied condition.
+
+Shoulder L Moving stack S Clearance L − S Worked example — illustrative inputs, not a released design or measured result.
+
+Calculate the shoulder clearance from both tolerance limits Calculation Result
+
+Minimum clearance: shortest shoulder minus thickest stack 8.17−8.05=0.12 mm
+
+Maximum clearance: longest shoulder minus thinnest stack 8.23−7.95=0.28 mm
+
+The calculated 0.12–0.28 mm interval lies inside the illustrative requirement. That answers this axial-clearance question only: separately check shoulder-to-bore fit, transition clearance, thread engagement and the effect of the actual assembly and service conditions.
+
+Use the drawing checklist to record both interfaces Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.
+
+DRAWING-DEFINED FEATURES 01
 
 ##### Shoulder diameter & length
 
@@ -1580,37 +1652,11 @@ Explore a proposed assembly, the fastener choices, manufacturing review and samp
 
 Review the fixture shoulder and axial-stack concept ↗
 
-#### Check the bore fit separately from the axial clearance
+#### Shoulder bolt reference photograph
 
-The shoulder-to-bore interface guides movement; the distance between the seating faces controls the axial stack. Define both in the finished condition rather than treating a thread fit as the locating fit.
+DIN 610 geometry reference from Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
-1 2 3 Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.
-
-Shoulder and mating bore: specify the two limits, the reference axis and any functional surface requirement.
-
-Seating and transition: show the mating chamfer or counterbore so the incomplete thread or relief does not prevent seating.
-
-After finishing: identify the surfaces affected by treatment or coating and the stage at which the final fit is checked.
-
-Read the clearance calculation below alongside these interfaces. A satisfactory axial gap does not by itself establish the bore fit or the required geometric relationship.
-
-#### Calculate the shoulder clearance from both tolerance limits
-
-For a moving plate, shoulder length must be compared with the complete stack between the seating faces. Include the washer, bushing and plate in that stack; overall screw length does not determine movement clearance.
-
-Assume a shoulder length L of 8.20 ± 0.03 mm and a complete moving stack S of 8.00 ± 0.05 mm. The illustrative required axial clearance is 0.10–0.30 mm. Both dimensions refer to the final supplied condition.
-
-Shoulder L Moving stack S Clearance L − S Worked example — illustrative inputs, not a released design or measured result.
-
-Calculate the shoulder clearance from both tolerance limits Calculation Result
-
-Minimum clearance: shortest shoulder minus thickest stack 8.17−8.05=0.12 mm
-
-Maximum clearance: longest shoulder minus thinnest stack 8.23−7.95=0.28 mm
-
-The calculated 0.12–0.28 mm interval lies inside the illustrative requirement. That answers this axial-clearance question only: separately check shoulder-to-bore fit, transition clearance, thread engagement and the effect of the actual assembly and service conditions.
-
-Use the drawing checklist to record both interfaces Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.
+Drawing and sample checks Quality planning Building a custom fastener inspection and acceptance plan
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -1901,6 +1947,22 @@ PRODUCT FAMILY COLLECTION
 
 Shoulder, security, hollow, flange, hand-adjustment and set screw designs for daily engineering requirements.
 
+#### Drawing and sample checks
+
+Products Application What to specify What to check
+
+Shoulder & Step Screws A head, a locating shoulder and a threaded section combine fastening with controlled spacing or movement. Include mating bore details, critical shoulder dimensions, surface texture and required dimensional inspection. Read the clearance calculation below alongside these interfaces. A satisfactory axial gap does not by itself establish the bore fit or the required geometric relationship.
+
+Security & Tamper-Resistant Screws Special drive interfaces help restrict casual access while allowing an approved service tool to operate the screw. Provide the drive drawing or matching tool specification. Tamper resistance depends on tool availability and the complete assembly; it is not absolute security. Keep drive acceptance and access acceptance separate. A pin-in profile can restrict casual access, but the profile alone does not establish a security rating.
+
+Hollow & Through-Hole Screws An axial bore creates a passage through a threaded component for an application-specific routing or flow requirement. State bore diameter and depth, permitted burrs, cleanliness and any agreed leak or pressure test. A through hole alone does not establish a pressure rating. External CCD screening can support visible profile checks. Verify inaccessible bore features with a suitable separate method, and use the application matrix below to distinguish cable, flow and sealing requirements.
+
+Custom Flange Screws An integral flange provides a drawing-defined bearing footprint without a separately handled washer. Include the mating material and bearing-face requirements. A larger flange does not automatically prevent surface damage. Record which faces may contact and which must remain clear. Where marking, preload or repeated service matters, agree an assembly trial for the actual surface system instead of inferring performance from flange diameter.
+
+Knurled Thumb & Adjustment Screws A grip-oriented head supports manual adjustment, with optional tool drive for the specified assembly method. Specify head grip, adjustment travel and any required locking method. Hand grip alone is not a calibrated tightening torque. For sample approval, identify the mating support and contact part, trial the agreed adjustment sequence and record position and contact condition. Hand operation is not a measured tightening procedure; specify a separate method where controlled torque is required.
+
+Custom Set Screws & Grub Screws Headless threaded components transfer a locating or clamping action through a specified tip. State tip geometry, mating surface, drive and expected function. Clamping performance depends on the full assembly. Review repeated adjustment and retention on the actual joint. Point geometry and screw diameter alone do not provide a universal holding-force or tightening-torque value.
+
 Core Custom Screws
 
 ##### Shoulder & Step Screws ↗
@@ -1961,6 +2023,22 @@ PRODUCT FAMILY COLLECTION
 ### Special Heads & Functional Bolts
 
 T-heads, eyes, rings, U-bends, square heads and other geometries shaped around mounting and adjustment.
+
+#### Drawing and sample checks
+
+Products Application What to specify What to check
+
+Custom T-Slot Bolts A drawing-specific T-head engages a matching slot for positioning or clamping. Provide slot cross-section and insertion method; do not select from head appearance alone. Send the slot section and the open-to-clamped assembly sequence with the bolt drawing. Sample checks should distinguish entry, turning where intended and final seating. Nominal profile size alone does not establish interchangeable head geometry or a clamping-load rating.
+
+Custom Eye & Articulating Bolts An eye or fork-style end connects a threaded shank to a pin or articulating joint. State force direction and intended use. Any lifting application needs an approved load-rated design and agreed verification, not simply an eye-shaped head. Trial travel and interference in the mating joint.
+
+Custom Lifting Eye Bolt Designs Drawing-defined ring and shank geometries for engineering review of lifting-related requirements. Supply the approved load case and applicable standard. Custom geometry is not a certified working-load rating; use only after qualified design and verification. Verify the required qualification and traceability before release.
+
+Custom U-Bolts A bent shank and two threaded legs follow the dimensions of the pipe, frame or clamped component. Provide the clamped cross-section and load requirements. Material, bend process and coating must be reviewed together. Trial both legs and confirm even seating.
+
+Custom Square Head Bolts A square tool interface or captured head supports application-specific access and anti-rotation needs. Show the wrench access or retaining pocket and required mechanical properties. Verify seating and anti-rotation in the actual pocket.
+
+Custom Carriage Bolts A round head and drawing-defined square neck provide an anti-rotation interface with the mating component. Provide the mating-hole geometry and bearing material; neck engagement is part of the anti-rotation design. Check head seating and anti-rotation in the finished panel.
 
 Special Heads & Functional Bolts
 
@@ -2035,6 +2113,20 @@ PRODUCT FAMILY COLLECTION
 
 Fine pitches, special profiles, modified tips and stepped or tapered shanks defined by the drawing.
 
+#### Drawing and sample checks
+
+Products Application What to specify What to check
+
+Fine & Extra-Fine Pitch Screws Drawing-defined fine pitches support adjustment and engagement requirements where a standard selection does not fit. Fine pitch alone does not guarantee resistance to loosening. Specify locking and vibration requirements separately. Gauge after finishing and verify seating before bottoming.
+
+Special & Compound Thread Profiles Trapezoidal, buttress, high-low and compound thread arrangements require an explicit profile and matching part. Self-locking depends on geometry, friction and operating conditions. Do not assume every trapezoidal or buttress thread is self-locking. Agree a profile check and a separate functional trial.
+
+Modified-Tip Self-Tapping Screws Slotted, cut or relieved ends can be specified around the actual material and hole condition. Cutting tips can generate chips. Debris and breakthrough control must be demonstrated in the actual assembly. Trial installation in representative material and check the agreed torque limits.
+
+Reduced & Variable Shank Screws A reduced or stepped shank introduces a deliberate change in section between functional features. A reduced shank does not automatically prevent cracking. Supply load and fatigue requirements for design review. Verify final geometry and agree mechanical verification for the reduced section.
+
+Tapered Shank & Cone Screws A defined taper or conical surface establishes a locating, contact or sealing interface with a matching component. Sealing performance requires a matched design and verification; a taper alone does not establish leak tightness. Check contact and seated depth in the matching seat.
+
 Special Threads & Shanks
 
 ##### Fine & Extra-Fine Pitch Screws ↗
@@ -2089,6 +2181,20 @@ PRODUCT FAMILY COLLECTION
 ### Compound Structures
 
 Multiple locating features, cross holes, press-in features and mixed threaded sections in one custom part.
+
+#### Drawing and sample checks
+
+Products Application What to specify What to check
+
+Screws with Integral Locating Pins A local pin or locating extension combines a screw connection with a drawing-defined positioning feature. Provide the mating hole and assembly direction. Confirm which feature locates and which provides the clamp. Verify alignment and insertion with the locating hole.
+
+Double-Ended Shoulder Screws Two threaded ends and a larger central shoulder combine connection and axial location in one part. Include both mating components and explain which end is installed first. Trial each end and verify the assembled axial stack.
+
+Cross-Drilled & Head-Hole Screws A radial or transverse hole provides a specified passage for a pin, wire or other assembly element. State the intended retention method and load requirements; a cross hole alone does not establish secure retention. Check the internal intersection and pin or passage clearance.
+
+Multi-Step & Multi-Shoulder Screws Several diameters and locating faces fit a more complex stack of mating components. Use a datum-based drawing and identify the surfaces that actually locate or carry load. Check diameters and axial distances after finishing.
+
+Custom Clinch Screws & Studs Drawing-specific press-in features can combine a threaded component with a sheet-metal attachment interface. Provide the panel specification and acceptance tests. Do not assume a custom feature shares the ratings of a branded standard clinch part. Trial installation and verify push-out and torque-out as agreed.
 
 Compound Structures
 
@@ -9090,6 +9196,20 @@ THE COMPLETE MANUFACTURING CHAIN
 
 Select a forming route, define the functional operations and agree the final material, surface and inspection condition.
 
+#### Compare manufacturing routes
+
+Decision What drives the route What changes the quotation How to release the sample
+
+Multi-Station Cold Heading Repeated screw geometries and production volumes that justify dedicated tooling. Head volume, material formability and extrusion limits guide the die sequence. Separate the cost of heading tools from recurring pieces and any later recess, shoulder or hole machining. Ask which revision changes would require a tool change and whether the proposed wire condition and batch size support the formed route. Use samples from the intended forming route. Confirm the recess fit, flange seating and under-head geometry on the finished part, and agree what forming defects are unacceptable and how they will be checked. A turned mock-up can prove assembly access without proving formed-head quality.
+
+Swiss-Type & CNC Turning Prototypes, varied geometries, small batches and parts with several machined features. Actual batch economics depend on cycle time, stock and setup. Identify the minimum wall and bore axis where they matter, rather than only giving nominal diameters. A long bore, interrupted cut, tighter position requirement or second workholding setup can change cycle time, tool access and the inspection method. Check bore and outer geometry in the agreed datums and after release from the fixture. Separately verify hole intersections and burrs where a cable or fluid passes. The section calculation is a geometry check, not a pressure or load rating.
+
+Hot Heading & Forging Large heads, eye forms and substantial sections may suit hot forging. There is no universal M24 changeover; material, equipment and shape determine the practical route. Quote the heated blank, tooling, trimming or scale removal and later machining as a complete route. Define any treatment, mechanical verification and document scope at quotation; a large eye shape does not by itself establish suitability for lifting. Confirm finished bore and seat geometry, material and treatment traceability and the agreed mechanical verification. If the part is intended for lifting, the applicable design, load direction, marking and qualification must be approved for that use before release.
+
+Cold Heading + Secondary Machining Integrate repeated bulk geometry through forming, then machine the features that need a different tool path or control. Tooling and machining must be evaluated together. Compare the complete route, including tooling, handling between operations, rejected blanks and final fitting work. If the shoulder and thread are established in different setups, include the work needed to control their relationship rather than pricing only two diameters. Use production-route samples to recheck shoulder size and form, axial length, thread acceptance and seating in the mating assembly after finishing. Preserve the turned prototype as a geometry reference; record which characteristics require fresh approval after the route change.
+
+Choosing a manufacturing route for a custom screw
+
 01 / CHOOSE THE ROOT ROUTE
 
 #### Four ways to start.
@@ -10388,6 +10508,18 @@ ILLUSTRATIVE PROCESS PLANNING
 ### Three complete routes. Defined by the drawing.
 
 Use these examples to discuss the full chain. They are not fixed instructions: thread timing, heat treatment, grinding and coatings require material- and application-specific approval.
+
+#### Compare manufacturing routes
+
+Decision What drives the route What changes the quotation How to release the sample
+
+Cold Heading + Secondary Machining Integrate repeated bulk geometry through forming, then machine the features that need a different tool path or control. Tooling and machining must be evaluated together. Compare the complete route, including tooling, handling between operations, rejected blanks and final fitting work. If the shoulder and thread are established in different setups, include the work needed to control their relationship rather than pricing only two diameters. Use production-route samples to recheck shoulder size and form, axial length, thread acceptance and seating in the mating assembly after finishing. Preserve the turned prototype as a geometry reference; record which characteristics require fresh approval after the route change.
+
+Hot Heading & Forging Large heads, eye forms and substantial sections may suit hot forging. There is no universal M24 changeover; material, equipment and shape determine the practical route. Quote the heated blank, tooling, trimming or scale removal and later machining as a complete route. Define any treatment, mechanical verification and document scope at quotation; a large eye shape does not by itself establish suitability for lifting. Confirm finished bore and seat geometry, material and treatment traceability and the agreed mechanical verification. If the part is intended for lifting, the applicable design, load direction, marking and qualification must be approved for that use before release.
+
+Swiss-Type & CNC Turning Prototypes, varied geometries, small batches and parts with several machined features. Actual batch economics depend on cycle time, stock and setup. Identify the minimum wall and bore axis where they matter, rather than only giving nominal diameters. A long bore, interrupted cut, tighter position requirement or second workholding setup can change cycle time, tool access and the inspection method. Check bore and outer geometry in the agreed datums and after release from the fixture. Separately verify hole intersections and burrs where a cable or fluid passes. The section calculation is a geometry check, not a pressure or load rating.
+
+Choosing a manufacturing route for a custom screw
 
 PROCESS ROUTE
 
@@ -12392,6 +12524,14 @@ APPLICATION DESIGN STUDIES
 
 These proposed projects show a clear path from an assembly need to a fastener specification. They are not delivered customer case histories or measured test results.
 
+#### Drawing and sample checks
+
+Application Decision Product structures What to check
+
+Automotive Module Enclosure: Custom Flange Screw Design Study Keep a serviceable cover seated without interference or blind-hole bottoming. Custom Flange Screws Security & Tamper-Resistant Screws Check flange seating, usable thread engagement and access with the intended service tool.
+
+Automation Fixture: Shoulder Screw & Adjustment Design Study Retain a moving plate while preserving pivot clearance and a separately adjustable stop. Shoulder & Step Screws Knurled Thumb & Adjustment Screws Measure the finished shoulder and trial movement, axial clearance and stop adjustment in the assembly.
+
 Application concept visualization · not a customer installation or dimensioned drawing
 
 ILLUSTRATIVE APPLICATION DESIGN
@@ -13015,6 +13155,10 @@ Drawing preparation, material selection and drive references for custom fastener
 
 Work through the checklist below before submitting. If a detail is not yet known, tell us what still needs to be resolved.
 
+#### Custom fastener drawing review: a practical release checklist
+
+A step-by-step drawing review for custom screw RFQs: controlled definition, mating interfaces, critical features, final condition and release evidence.
+
 #### Grade, condition and joint. Make the choice together.
 
 A material name is the beginning of a specification. The required finished properties, environment and assembly determine whether it is suitable.
@@ -13022,10 +13166,6 @@ A material name is the beginning of a specification. The required finished prope
 #### The right recess. The matching tool.
 
 Specify the actual interface and available assembly access. A drive name or visual resemblance is not a complete tool-fit definition.
-
-#### Custom fastener drawing review: a practical release checklist
-
-A step-by-step drawing review for custom screw RFQs: controlled definition, mating interfaces, critical features, final condition and release evidence.
 
 #### Choosing a manufacturing route for a custom screw
 

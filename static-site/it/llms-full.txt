@@ -293,7 +293,7 @@ Per ogni caratteristica concordare metodo, fase, copertura e registrazione. Dist
 
 Registrare requisito interessato, trattamento proposto e approvazione prima del rilascio. Se cambiano disegno, ciclo o finitura, individuare quali controlli e approvazioni dei campioni ripetere.
 
-Preparare il piano di controllo per caratteristica ↗
+Preparare il piano di controllo per caratteristica ↗ Viti a spallamento e a gradini Scarica un foglio di lavoro di ispezione vuoto (inglese)
 
 #### Cosa deve consentire di verificare un rapporto di controllo
 
@@ -319,6 +319,26 @@ IL CENTRO DELLA CONOSCENZA
 ### Iniziano le parti belle con buone domande.
 
 Lettura pratica per ingegneri e team di approvvigionamento che preparano requisiti di viti non standard.
+
+#### Una richiesta di offerta più chiara. Una risposta più utile.
+
+Segui la lista di controllo qui sotto prima di inviare. Se non è ancora noto un dettaglio, comunicaci cosa deve ancora essere risolto.
+
+#### Revisione del disegno di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio
+
+Una revisione dettagliata dei disegni per le richieste di offerta di viti personalizzate: definizione controllata, interfacce di accoppiamento, caratteristiche critiche, condizioni finali e prove di rilascio.
+
+#### Grado, condizione e giunto. Fate la scelta insieme.
+
+Il nome di un materiale è l'inizio di una specifica. Le proprietà finite, l'ambiente e l'assemblaggio richiesti determinano se è adatto.
+
+#### Scelta di un percorso di produzione per una vite personalizzata
+
+Confronta i percorsi di stampaggio a freddo, tornitura CNC, ibridi e forgiati a caldo utilizzando geometria, quantità, attrezzature, lavoro secondario e accettazione finale.
+
+#### Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio
+
+Costruire un piano di accettazione caratteristica per caratteristica con metodi, frequenza di ispezione, registrazioni e gestione delle deviazioni adeguati.
 
 #### Guide tecniche
 
@@ -962,7 +982,7 @@ Prevedere circa 10–15 giorni per stampi e campioni, previa valutazione tecnica
 
 Con campione e revisione del disegno approvati, concordare quantità, identificazione del lotto, documenti e consegna. La capacità mensile è di alcuni milioni di pezzi nell’insieme dei prodotti; pianificazione e tempi dipendono dal ciclo e dall’ordine.
 
-Preparare i requisiti di approvazione dei campioni ↗
+Preparare i requisiti di approvazione dei campioni ↗ Pianificazione della qualità Studi di progettazione applicativa
 
 ### Richiedi un preventivo personalizzato per viti
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/request-a-quote/
@@ -1095,7 +1115,7 @@ Risposte alle domande comuni di acquisto e progettazione prima di richiedere vit
 
 #### Disegni e citazioni
 
-Quali informazioni sono necessarie per un utile preventivo personalizzato per viti? Invia la revisione del disegno corrente, la quantità e la domanda di ripetizione prevista, l'applicazione, il materiale richiesto e le condizioni della superficie, le dimensioni critiche e i requisiti di ispezione o documentazione. Includere la relazione della parte di accoppiamento quando la vite si posiziona, ruota, trattiene o sigilla con un altro componente. Se le informazioni non sono ancora stabilite, identificare le domande aperte anziché lasciare che ciascun fornitore faccia un'ipotesi diversa.
+Lista di controllo della richiesta di offerta Richiedi un preventivo Quali informazioni sono necessarie per un utile preventivo personalizzato per viti? Invia la revisione del disegno corrente, la quantità e la domanda di ripetizione prevista, l'applicazione, il materiale richiesto e le condizioni della superficie, le dimensioni critiche e i requisiti di ispezione o documentazione. Includere la relazione della parte di accoppiamento quando la vite si posiziona, ruota, trattiene o sigilla con un altro componente. Se le informazioni non sono ancora stabilite, identificare le domande aperte anziché lasciare che ciascun fornitore faccia un'ipotesi diversa.
 
 Puoi lavorare partendo da un campione o da una fotografia? Un campione o una fotografia chiara possono aiutare ad avviare una discussione, ma non stabiliscono la geometria nascosta, le condizioni dei materiali, le tolleranze o i requisiti prestazionali. Il team deve chiarire tali dettagli e confermare un disegno o una specifica controllata prima della produzione. Un aspetto esterno simile non costituisce prova che due parti saranno intercambiabili nell'assieme previsto.
 
@@ -1103,7 +1123,7 @@ Esiste una quantità minima d'ordine per ogni parte personalizzata? Non viene pr
 
 #### Campioni e produzione
 
-Quanto tempo impiegano normalmente gli strumenti e i campioni? L'attrezzatura e il campionamento vengono generalmente discussi intorno ai 10–15 giorni, soggetti alla revisione del disegno e alla conferma delle specifiche del campione. La disponibilità dei materiali, i trattamenti speciali e le verifiche richieste possono influenzare il programma concordato. Conferma la tappa iniziale nel preventivo. La consegna per produzione ripetuta viene quotata separatamente e non corrisponde automaticamente al periodo di campionatura.
+Esempi di percorsi di processo Quanto tempo impiegano normalmente gli strumenti e i campioni? L'attrezzatura e il campionamento vengono generalmente discussi intorno ai 10–15 giorni, soggetti alla revisione del disegno e alla conferma delle specifiche del campione. La disponibilità dei materiali, i trattamenti speciali e le verifiche richieste possono influenzare il programma concordato. Conferma la tappa iniziale nel preventivo. La consegna per produzione ripetuta viene quotata separatamente e non corrisponde automaticamente al periodo di campionatura.
 
 Una vite personalizzata deve essere battuta a freddo o tornita CNC? Il percorso dipende dal disegno, dal materiale, dalla quantità e dai requisiti di accettazione finale. La tornitura può essere rivista per geometrie complesse e quantità di sviluppo flessibili; la formatura o un percorso ibrido possono essere valutati per idonei programmi di produzione ripetuta. Richiedi ipotesi sul percorso e un confronto completo comprensivo di attrezzature, operazioni secondarie, trattamento e ispezione. Nessuno dei due processi, da solo, dimostra che il pezzo finito soddisferà i propri requisiti.
 
@@ -1111,7 +1131,7 @@ La geometria può cambiare dopo l'approvazione del campione? Le modifiche dovreb
 
 #### Materiali e trattamento superficiale
 
-La qualità del materiale determina la resistenza della vite finita? La designazione di una materia prima non costituisce di per sé il requisito completo della proprietà finita. Grado, condizione del materiale, percorso di produzione e relativo trattamento devono essere considerati insieme alle specifiche effettive. Dichiarare le proprietà finite richieste e le prove separatamente dal grado grezzo. Non dare per scontato che ogni vite descritta con la stessa famiglia di materiali abbia la stessa resistenza consegnata o idoneità al servizio.
+Materiali Rivestimenti e trattamenti superficiali La qualità del materiale determina la resistenza della vite finita? La designazione di una materia prima non costituisce di per sé il requisito completo della proprietà finita. Grado, condizione del materiale, percorso di produzione e relativo trattamento devono essere considerati insieme alle specifiche effettive. Dichiarare le proprietà finite richieste e le prove separatamente dal grado grezzo. Non dare per scontato che ogni vite descritta con la stessa famiglia di materiali abbia la stessa resistenza consegnata o idoneità al servizio.
 
 Posso richiedere un materiale diverso se cambia la disponibilità? Un'alternativa può essere esaminata, ma deve essere approvata rispetto all'interfaccia e ai requisiti effettivi. Confronta le condizioni del materiale, le proprietà finite, il trattamento, le dimensioni, il percorso di produzione e la documentazione. Un riferimento incrociato familiare o una resistenza nominale più elevata non stabiliscono automaticamente l'equivalenza. Conservare le alternative approvate e qualsiasi limitazione identificabile nel registro del disegno, dell'ordine o della deviazione.
 
@@ -1119,7 +1139,7 @@ Quale rivestimento dovrei scegliere per le attrezzature da esterno? La revisione
 
 #### Ispezione e accettazione
 
-L'ispezione CCD verifica ogni proprietà di una vite? No. Una configurazione di visione adeguata può controllare le dimensioni accessibili e i profili visibili nell'ambito concordato. Non stabilisce in modo indipendente la resistenza del materiale, la chimica del rivestimento, la geometria nascosta o ogni relazione tridimensionale. I calibri per filettature, le misurazioni dimensionali, i registri dei materiali o dei trattamenti e tutti i controlli di assemblaggio richiesti devono essere selezionati in base al disegno effettivo e ai rischi di guasto.
+Pianificazione della qualità Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio L'ispezione CCD verifica ogni proprietà di una vite? No. Una configurazione di visione adeguata può controllare le dimensioni accessibili e i profili visibili nell'ambito concordato. Non stabilisce in modo indipendente la resistenza del materiale, la chimica del rivestimento, la geometria nascosta o ogni relazione tridimensionale. I calibri per filettature, le misurazioni dimensionali, i registri dei materiali o dei trattamenti e tutti i controlli di assemblaggio richiesti devono essere selezionati in base al disegno effettivo e ai rischi di guasto.
 
 Tutte le viti personalizzate vengono ispezionate in ogni caratteristica di ogni pezzo? L'ambito e la frequenza dell'ispezione devono essere concordati. Il controllo del primo articolo, il campionamento dei lotti e la cernita per ogni pezzo rispondono alle diverse esigenze. Se è richiesto il controllo di ogni pezzo, indicare la caratteristica, il metodo e i criteri. Non interpretare un tipo ottico di caratteristiche esterne selezionate come prova che ogni proprietà di ogni parte è stata misurata.
 
@@ -1179,6 +1199,24 @@ LA GAMMA DI FISSAGGI PERSONALIZZATI
 ### Prodotti per viti personalizzati. Trova la struttura giusta.
 
 Dalle viti con spallamento di uso quotidiano ai componenti filettati composti, esplora le caratteristiche funzionali che contano per la tua applicazione.
+
+#### Trova una famiglia di prodotti
+
+##### Principali viti speciali
+
+Design a spalla, di sicurezza, cavi, a flangia, con regolazione manuale e con viti di fissaggio per le esigenze ingegneristiche quotidiane.
+
+##### Teste Speciali e Bulloni Funzionali
+
+Teste a T, occhielli, anelli, curve a U, teste quadrate e altre geometrie modellate per il montaggio e la regolazione.
+
+##### Filetti e gambi speciali
+
+Passi fini, profili speciali, punte modificate e gambi gradini o rastremati definiti dal disegno tecnico.
+
+##### Strutture composte
+
+Molteplici funzioni di posizionamento, fori trasversali, funzioni di inserimento a pressione e sezioni filettate miste in un'unica parte personalizzata.
 
 Trova una famiglia di prodotti 24 dettaglio famiglie prodotto
 
@@ -1500,7 +1538,41 @@ Testa, tratto liscio di posizionamento e parte filettata consentono di fissare i
 
 Richiedi questa parte su disegno ↗ Viti a spallamento e a gradini
 
-Calcolare il gioco assiale ai due estremi di tolleranza ↓ disegno tecnico-CARATTERISTICHE DEFINITE 01
+Calcolare il gioco assiale ai due estremi di tolleranza ↓
+
+#### Verificare separatamente accoppiamento del gambo e gioco assiale
+
+L’accoppiamento tra gambo calibrato e foro guida il movimento; la distanza tra le facce d’appoggio determina la catena assiale. Definire entrambi nello stato finale di fornitura, senza confondere l’accoppiamento filettato con quello di guida.
+
+1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
+
+Gambo e foro: indicare i limiti delle due quote, l’asse di riferimento e gli eventuali requisiti funzionali della superficie.
+
+Appoggio e transizione: mostrare smusso o lamatura del componente accoppiato, evitando interferenze del filetto incompleto o dello scarico.
+
+Dopo la finitura: identificare le superfici interessate dal trattamento o rivestimento e la fase di controllo dell’accoppiamento finale.
+
+Leggere il calcolo del gioco riportato sotto insieme a queste interfacce. Un gioco assiale corretto non verifica da solo l’accoppiamento nel foro o la relazione geometrica richiesta.
+
+#### Calcolare il gioco assiale ai due estremi di tolleranza
+
+Per una piastra mobile, confrontare la lunghezza dello spallamento con l’intero pacco fra le superfici di appoggio. Includere rondella, boccola e piastra: la lunghezza totale della vite non determina il gioco.
+
+Si assumano uno spallamento L di 8.20 ± 0.03 mm e un pacco completo S di 8.00 ± 0.05 mm. Il gioco assiale richiesto nell’esempio è 0.10–0.30 mm. Entrambe le quote si riferiscono allo stato finale di fornitura.
+
+Spallamento L Pacco mobile S Gioco L − S Esempio di calcolo: dati illustrativi, non un progetto approvato né risultati misurati.
+
+Calcolare il gioco assiale ai due estremi di tolleranza Calcolo Risultato
+
+Gioco minimo: spallamento minimo meno pacco massimo 8.17−8.05=0.12 mm
+
+Gioco massimo: spallamento massimo meno pacco minimo 8.23−7.95=0.28 mm
+
+L’intervallo calcolato di 0.12–0.28 mm rientra nel requisito dell’esempio. Risolve soltanto il gioco assiale: verificare separatamente accoppiamento spallamento-foro, transizione, impegno della filettatura e condizioni effettive di montaggio ed esercizio.
+
+Registrare entrambe le interfacce nella lista di controllo del disegno Attrezzaggio e campionatura richiedono in genere circa 10–15 giorni dopo verifica tecnica e conferma. Concordare in offerta avvio, accettazione dei campioni e consegne di produzione.
+
+disegno tecnico-CARATTERISTICHE DEFINITE 01
 
 ##### Diametro e lunghezza della spalla
 
@@ -1580,37 +1652,11 @@ Esplora un assemblaggio proposto, le scelte di fissaggio, la revisione della pro
 
 Esamina spallamento e pacco assiale dell’attrezzatura ↗
 
-#### Verificare separatamente accoppiamento del gambo e gioco assiale
+#### Foto di riferimento di un bullone con spallamento
 
-L’accoppiamento tra gambo calibrato e foro guida il movimento; la distanza tra le facce d’appoggio determina la catena assiale. Definire entrambi nello stato finale di fornitura, senza confondere l’accoppiamento filettato con quello di guida.
+Riferimento geometrico DIN 610 da Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
-1 2 3 Schema delle interfacce, non in scala. Quote e accettazione seguono il disegno approvato dell’assieme.
-
-Gambo e foro: indicare i limiti delle due quote, l’asse di riferimento e gli eventuali requisiti funzionali della superficie.
-
-Appoggio e transizione: mostrare smusso o lamatura del componente accoppiato, evitando interferenze del filetto incompleto o dello scarico.
-
-Dopo la finitura: identificare le superfici interessate dal trattamento o rivestimento e la fase di controllo dell’accoppiamento finale.
-
-Leggere il calcolo del gioco riportato sotto insieme a queste interfacce. Un gioco assiale corretto non verifica da solo l’accoppiamento nel foro o la relazione geometrica richiesta.
-
-#### Calcolare il gioco assiale ai due estremi di tolleranza
-
-Per una piastra mobile, confrontare la lunghezza dello spallamento con l’intero pacco fra le superfici di appoggio. Includere rondella, boccola e piastra: la lunghezza totale della vite non determina il gioco.
-
-Si assumano uno spallamento L di 8.20 ± 0.03 mm e un pacco completo S di 8.00 ± 0.05 mm. Il gioco assiale richiesto nell’esempio è 0.10–0.30 mm. Entrambe le quote si riferiscono allo stato finale di fornitura.
-
-Spallamento L Pacco mobile S Gioco L − S Esempio di calcolo: dati illustrativi, non un progetto approvato né risultati misurati.
-
-Calcolare il gioco assiale ai due estremi di tolleranza Calcolo Risultato
-
-Gioco minimo: spallamento minimo meno pacco massimo 8.17−8.05=0.12 mm
-
-Gioco massimo: spallamento massimo meno pacco minimo 8.23−7.95=0.28 mm
-
-L’intervallo calcolato di 0.12–0.28 mm rientra nel requisito dell’esempio. Risolve soltanto il gioco assiale: verificare separatamente accoppiamento spallamento-foro, transizione, impegno della filettatura e condizioni effettive di montaggio ed esercizio.
-
-Registrare entrambe le interfacce nella lista di controllo del disegno Attrezzaggio e campionatura richiedono in genere circa 10–15 giorni dopo verifica tecnica e conferma. Concordare in offerta avvio, accettazione dei campioni e consegne di produzione.
+Disegno e verifica dei campioni Pianificazione della qualità Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -1901,6 +1947,22 @@ COLLEZIONE FAMIGLIA DI PRODOTTI
 
 Design a spalla, di sicurezza, cavi, a flangia, con regolazione manuale e con viti di fissaggio per le esigenze ingegneristiche quotidiane.
 
+#### Disegno e verifica dei campioni
+
+Prodotti Applicazione Cosa specificare Cosa verificare
+
+Viti a spallamento e a gradini Testa, tratto liscio di posizionamento e parte filettata consentono di fissare i componenti e di definirne distanza, posizione o movimento. Includere i dettagli del foro di accoppiamento, le dimensioni critiche della spalla, la ruvidità della superficie e l'ispezione dimensionale richiesta. Leggere il calcolo del gioco riportato sotto insieme a queste interfacce. Un gioco assiale corretto non verifica da solo l’accoppiamento nel foro o la relazione geometrica richiesta.
+
+Viti di sicurezza antimanomissione Le impronte speciali ostacolano lo smontaggio con utensili comuni, mantenendo la possibilità di intervento con l’utensile di manutenzione previsto. Fornire il disegno tecnico dell'azionamento o le specifiche dello strumento corrispondente. La resistenza alla manomissione dipende dalla disponibilità dell'utensile e dall'assemblaggio completo; non è una sicurezza assoluta. Separare accettazione dell’impronta e verifica dell’accesso. Un profilo con perno può limitare lo smontaggio occasionale, ma non determina da solo una classe di sicurezza.
+
+Viti cave e con foro passante Un foro assiale attraversa il componente filettato e crea il passaggio richiesto dall’applicazione, ad esempio per cavi o fluidi. Indicare il diametro e la profondità del foro, le bave consentite, la pulizia e qualsiasi prova di tenuta o pressione concordata. Un foro passante da solo non stabilisce una valutazione della pressione. Il controllo CCD esterno può verificare il profilo visibile. Per le parti interne non accessibili usare un metodo separato adeguato; la matrice seguente distingue passaggio cavi, flusso e tenuta.
+
+Viti flangiate su disegno La flangia integrata offre la superficie di appoggio definita a disegno, senza dover montare una rondella separata. Includere i requisiti del materiale di accoppiamento e della superficie del cuscinetto. Una flangia più grande non previene automaticamente i danni alla superficie. Registrare quali facce devono toccare e quali devono restare libere. Se contano impronte, precarico o manutenzione ripetuta, concordare una prova sul sistema superficiale reale senza dedurre le prestazioni dal diametro della flangia.
+
+Viti zigrinate manuali e di regolazione La testa facilita la presa e la regolazione manuale; se richiesto dal montaggio, può essere prevista anche un’impronta per utensile. Specificare l'impugnatura della testa, la corsa di regolazione e l'eventuale metodo di bloccaggio richiesto. La sola impugnatura non costituisce una coppia di serraggio calibrata. Per approvare i campioni, identificare supporto e contatto, provare la sequenza concordata e registrare posizione e stato del contatto. L’azionamento manuale non misura il serraggio: specificare un metodo distinto quando serve coppia controllata.
+
+Grani e viti senza testa su disegno Questi elementi filettati senza testa agiscono sul componente di contatto attraverso l’estremità prevista, per posizionarlo o bloccarlo. Indicare la geometria della punta, la superficie di accoppiamento, la guida e la funzione prevista. Le prestazioni di bloccaggio dipendono dall'intero assemblaggio. Valutare regolazioni ripetute e tenuta sull’unione reale. Geometria della punta e diametro non forniscono da soli un valore universale di forza di ritegno o coppia di serraggio.
+
 Principali viti speciali
 
 ##### Viti a spallamento e a gradini ↗
@@ -1961,6 +2023,22 @@ COLLEZIONE FAMIGLIA DI PRODOTTI
 ### Teste Speciali e Bulloni Funzionali
 
 Teste a T, occhielli, anelli, curve a U, teste quadrate e altre geometrie modellate per il montaggio e la regolazione.
+
+#### Disegno e verifica dei campioni
+
+Prodotti Applicazione Cosa specificare Cosa verificare
+
+Bulloni per cave a T su disegno Una testa a T specifica per il disegno tecnico si innesta in una fessura corrispondente per il posizionamento o il bloccaggio. Fornire la sezione trasversale della fessura e il metodo di inserimento; non selezionare solo dall'aspetto della testa. Inviare sezione della cava e sequenza da aperto a serrato insieme al disegno. Distinguere inserimento, rotazione prevista e appoggio finale nei controlli. La misura nominale del profilato non dimostra intercambiabilità della testa o capacità di serraggio.
+
+Bulloni a occhio e articolati su disegno Un'estremità a occhiello o a forcella collega un gambo filettato a un perno o un giunto articolato. Direzione della forza statale e destinazione d'uso. Qualsiasi applicazione di sollevamento necessita di un progetto di carico nominale approvato e di una verifica concordata, non semplicemente di una testa a forma di occhio. Verificare corsa e interferenze.
+
+Progetti di golfari di sollevamento su disegno geometrie dell'anello e del gambo definite dal disegno tecnico per la revisione tecnica dei requisiti relativi al sollevamento. Fornire il caso di carico approvato e lo standard applicabile. La geometria personalizzata non è una valutazione del carico di lavoro certificata; utilizzare solo dopo progettazione e verifica qualificate. Verificare qualifica e tracciabilità prima del rilascio.
+
+Cavallotti a U su disegno Un gambo piegato e due gambe filettate seguono le dimensioni del tubo, del telaio o del componente serrato. Fornire la sezione trasversale bloccata e i requisiti di carico. Materiale, processo di piegatura e rivestimento devono essere esaminati insieme. Provare entrambe le gambe e l’appoggio uniforme.
+
+Bulloni a testa quadra su disegno Un'interfaccia utensile quadrata o una testa catturata supporta le esigenze di accesso e antirotazione specifiche dell'applicazione. Mostrare l'accesso alla chiave o la tasca di fissaggio e le proprietà meccaniche richieste. Verificare appoggio e antirotazione.
+
+Bulloni a testa tonda con quadro sottotesta su disegno Una testa rotonda e un collo quadrato definito dal disegno tecnico forniscono un'interfaccia antirotazione con il componente di accoppiamento. Fornire la geometria del foro di accoppiamento e il materiale del cuscinetto; l'innesto del collo fa parte del design antirotazione. Verificare appoggio e antirotazione nel pannello finito.
 
 Teste Speciali e Bulloni Funzionali
 
@@ -2035,6 +2113,20 @@ COLLEZIONE FAMIGLIA DI PRODOTTI
 
 Passi fini, profili speciali, punte modificate e gambi gradini o rastremati definiti dal disegno tecnico.
 
+#### Disegno e verifica dei campioni
+
+Prodotti Applicazione Cosa specificare Cosa verificare
+
+Viti a passo fine ed extrafine I passi fini definiti dal disegno tecnico supportano i requisiti di regolazione e impegno laddove una selezione standard non si adatta. Il passo fine da solo non garantisce la resistenza all'allentamento. Specificare separatamente i requisiti di bloccaggio e vibrazione. Calibrare dopo finitura e verificare appoggio prima del fondo.
+
+Profili di filettatura speciali e combinati Le disposizioni trapezoidali, a contrafforte, alto-basso e con filettatura composta richiedono un profilo esplicito e una parte corrispondente. L'autobloccaggio dipende dalla geometria, dall'attrito e dalle condizioni operative. Non dare per scontato che ogni filettatura trapezoidale o di contrafforte sia autobloccante. Concordare controllo profilo e prova funzionale separati.
+
+Viti autofilettanti con punta modificata È possibile specificare le estremità scanalate, tagliate o scaricate in base al materiale effettivo e alle condizioni del foro. Le punte da taglio possono generare trucioli. Il controllo dei detriti e degli sfondamenti deve essere dimostrato nell'assemblaggio vero e proprio. Provare montaggio e limiti di coppia concordati.
+
+Viti con gambo ridotto o a diametro variabile Un gambo ridotto o gradinato introduce un cambiamento deliberato nella sezione tra le caratteristiche funzionali. Un gambo ridotto non impedisce automaticamente la rottura. Fornire i requisiti di carico e fatica per la revisione del progetto. Verificare geometria e concordare prova della sezione ridotta.
+
+Viti a gambo conico e viti coniche Una superficie rastremata o conica definita stabilisce un'interfaccia di posizionamento, contatto o sigillatura con un componente corrispondente. Le prestazioni di tenuta richiedono una progettazione e una verifica adeguate; una rastremazione da sola non garantisce la tenuta alle perdite. Verificare contatto e profondità di appoggio.
+
 Filetti e gambi speciali
 
 ##### Viti a passo fine ed extrafine ↗
@@ -2089,6 +2181,20 @@ COLLEZIONE FAMIGLIA DI PRODOTTI
 ### Strutture composte
 
 Molteplici funzioni di posizionamento, fori trasversali, funzioni di inserimento a pressione e sezioni filettate miste in un'unica parte personalizzata.
+
+#### Disegno e verifica dei campioni
+
+Prodotti Applicazione Cosa specificare Cosa verificare
+
+Viti con perno di posizionamento integrato Un perno locale o un'estensione di posizionamento combina una connessione a vite con una funzione di posizionamento definita dal disegno tecnico. Fornire il foro di accoppiamento e la direzione di montaggio. Confermare quale funzione individua e quale fornisce il morsetto. Verificare allineamento e inserimento.
+
+Viti a spallamento con due estremità filettate Due estremità filettate e uno spallamento centrale più grande uniscono collegamento e posizionamento assiale in un unico pezzo. Includere entrambi i componenti di accoppiamento e spiegare quale estremità viene installata per prima. Provare i due lati e verificare la catena assiale.
+
+Viti con foro trasversale o nella testa Un foro radiale o trasversale fornisce un passaggio specifico per un perno, un filo o un altro elemento di assemblaggio. Dichiarare il metodo di ritenzione previsto e i requisiti di carico; un foro trasversale da solo non garantisce una ritenzione sicura. Controllare intersezione interna e passaggio o gioco perno.
+
+Viti a più gradini e spallamenti Diversi diametri e facce di posizionamento si adattano a una pila più complessa di componenti accoppiati. Utilizzare un disegno tecnico basato su dati e identificare le superfici che effettivamente posizionano o trasportano il carico. Verificare diametri e distanze assiali dopo finitura.
+
+Viti e prigionieri autoaggancianti su disegno le funzionalità di pressatura specifiche del disegno tecnico possono combinare un componente filettato con un'interfaccia di fissaggio in lamiera. Fornire le specifiche del pannello e i test di accettazione. Non dare per scontato che una caratteristica personalizzata condivida le valutazioni di una parte di ribaditura standard di marca. Provare l’inserimento e verificare estrazione e resistenza alla rotazione concordate.
 
 Strutture composte
 
@@ -9090,6 +9196,20 @@ LA CATENA PRODUTTIVA COMPLETA
 
 Selezionare un percorso di formatura, definire le operazioni funzionali e concordare il materiale finale, la superficie e le condizioni di ispezione.
 
+#### Confrontare i cicli di produzione
+
+Decisione Cosa determina il ciclo Cosa incide sul preventivo Come approvare il campione
+
+Stampaggio a freddo multistazione Geometrie delle viti ripetute e volumi di produzione che giustificano attrezzature dedicate. Il volume della testa, la formabilità del materiale e i limiti di estrusione guidano la sequenza dello stampo. Separare attrezzature di stampaggio, costo unitario e lavorazioni successive di impronta, spallamento o foro. Chiarire quali revisioni richiedono modifiche agli stampi e se stato del filo e lotto sostengono il ciclo. Usare campioni dal ciclo previsto. Verificare accoppiamento dell’impronta, appoggio e sottotesta sul finito; concordare difetti inammissibili e controlli. Il prototipo tornito può confermare l’accesso, non la qualità della testa stampata.
+
+Tornitura a fantina mobile e CNC Prototipi, geometrie varie, piccoli lotti e particolari con molteplici lavorazioni. L'economia effettiva del lotto dipende dal tempo di ciclo, dalle scorte e dalla configurazione. Indicare parete minima e asse del foro nelle zone funzionali, non solo diametri nominali. Foro lungo, taglio interrotto, posizione più stretta o seconda presa possono cambiare ciclo, accesso utensile e controllo. Controllare foro ed esterno sui riferimenti concordati dopo lo sbloccaggio. Verificare separatamente intersezioni e bave nei passaggi di cavi o fluidi. Il calcolo riguarda la geometria, non pressione o portata.
+
+Ricalcatura e forgiatura a caldo Teste grandi, forme degli occhi e sezioni consistenti possono essere adatte alla forgiatura a caldo. Non esiste una commutazione universale M24; materiale, attrezzatura e forma determinano il percorso pratico. Quotare grezzo riscaldato, attrezzature, rifilatura o rimozione della calamina e lavorazione successiva come ciclo completo. Definire trattamento, verifica meccanica e documenti; un occhio grande non dimostra idoneità al sollevamento. Confermare foro e appoggio finiti, tracciabilità di materiale e trattamento e verifica meccanica concordata. Per sollevamento approvare progetto, direzione di carico, marcatura e qualifica prima del rilascio.
+
+Stampaggio a freddo e lavorazioni meccaniche secondarie Integra la geometria di massa ripetuta attraverso la formatura, quindi lavora le caratteristiche che richiedono un percorso utensile o un controllo diverso. L'attrezzatura e la lavorazione devono essere valutate insieme. Confrontare ciclo completo: attrezzature, movimentazione, scarti dei grezzi e finitura. Se spallamento e filetto nascono in prese diverse, includere il controllo della loro relazione, non solo due diametri. Usare campioni di serie per ricontrollare dimensione e forma dello spallamento, lunghezza assiale, filetto e appoggio dopo finitura. Conservare il tornito come riferimento geometrico e registrare le caratteristiche da riapprovare.
+
+Scelta di un percorso di produzione per una vite personalizzata
+
 01 / SCEGLI IL PERCORSO RADICE
 
 #### Quattro modi per iniziare.
@@ -10388,6 +10508,18 @@ PIANIFICAZIONE DEL PROCESSO ILLUSTRATIVO
 ### Tre percorsi completi. Definito dal disegno tecnico.
 
 Utilizzare questi esempi per discutere l'intera catena. Non si tratta di istruzioni fisse: la fasatura della filettatura, il trattamento termico, la rettifica e i rivestimenti richiedono l'approvazione specifica del materiale e dell'applicazione.
+
+#### Confrontare i cicli di produzione
+
+Decisione Cosa determina il ciclo Cosa incide sul preventivo Come approvare il campione
+
+Stampaggio a freddo e lavorazioni meccaniche secondarie Integra la geometria di massa ripetuta attraverso la formatura, quindi lavora le caratteristiche che richiedono un percorso utensile o un controllo diverso. L'attrezzatura e la lavorazione devono essere valutate insieme. Confrontare ciclo completo: attrezzature, movimentazione, scarti dei grezzi e finitura. Se spallamento e filetto nascono in prese diverse, includere il controllo della loro relazione, non solo due diametri. Usare campioni di serie per ricontrollare dimensione e forma dello spallamento, lunghezza assiale, filetto e appoggio dopo finitura. Conservare il tornito come riferimento geometrico e registrare le caratteristiche da riapprovare.
+
+Ricalcatura e forgiatura a caldo Teste grandi, forme degli occhi e sezioni consistenti possono essere adatte alla forgiatura a caldo. Non esiste una commutazione universale M24; materiale, attrezzatura e forma determinano il percorso pratico. Quotare grezzo riscaldato, attrezzature, rifilatura o rimozione della calamina e lavorazione successiva come ciclo completo. Definire trattamento, verifica meccanica e documenti; un occhio grande non dimostra idoneità al sollevamento. Confermare foro e appoggio finiti, tracciabilità di materiale e trattamento e verifica meccanica concordata. Per sollevamento approvare progetto, direzione di carico, marcatura e qualifica prima del rilascio.
+
+Tornitura a fantina mobile e CNC Prototipi, geometrie varie, piccoli lotti e particolari con molteplici lavorazioni. L'economia effettiva del lotto dipende dal tempo di ciclo, dalle scorte e dalla configurazione. Indicare parete minima e asse del foro nelle zone funzionali, non solo diametri nominali. Foro lungo, taglio interrotto, posizione più stretta o seconda presa possono cambiare ciclo, accesso utensile e controllo. Controllare foro ed esterno sui riferimenti concordati dopo lo sbloccaggio. Verificare separatamente intersezioni e bave nei passaggi di cavi o fluidi. Il calcolo riguarda la geometria, non pressione o portata.
+
+Scelta di un percorso di produzione per una vite personalizzata
 
 PERCORSO DEL PROCESSO
 
@@ -12392,6 +12524,14 @@ STUDI DI PROGETTAZIONE APPLICATIVA
 
 Questi progetti proposti mostrano un percorso chiaro da un'esigenza di assemblaggio a una specifica di fissaggio. Non vengono forniti case histories dei clienti o risultati di test misurati.
 
+#### Disegno e verifica dei campioni
+
+Applicazione Decisione Strutture di prodotto Cosa verificare
+
+Involucro per moduli automobilistici: studio di progettazione di viti con flangia personalizzata Far appoggiare il coperchio ispezionabile senza interferenze né battuta nel foro cieco. Viti flangiate su disegno Viti di sicurezza antimanomissione Verificare appoggio della flangia, impegno utile e accesso con l’utensile previsto.
+
+Dispositivo di automazione: studio di progettazione di viti a spalla e regolazione Trattenere una piastra mobile mantenendo gioco di rotazione e battuta regolabile separatamente. Viti a spallamento e a gradini Viti zigrinate manuali e di regolazione Misurare lo spallamento finito e provare movimento, gioco assiale e regolazione nell’assieme.
+
 Visualizzazione del concetto di applicazione · non un'installazione del cliente o un disegno tecnico quotato
 
 DESIGN ILLUSTRATIVO DELL'APPLICAZIONE
@@ -13015,6 +13155,10 @@ Guide a disegni, scelta dei materiali e impronte per richiedere fissaggi su dise
 
 Segui la lista di controllo qui sotto prima di inviare. Se non è ancora noto un dettaglio, comunicaci cosa deve ancora essere risolto.
 
+#### Revisione del disegno di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio
+
+Una revisione dettagliata dei disegni per le richieste di offerta di viti personalizzate: definizione controllata, interfacce di accoppiamento, caratteristiche critiche, condizioni finali e prove di rilascio.
+
 #### Grado, condizione e giunto. Fate la scelta insieme.
 
 Il nome di un materiale è l'inizio di una specifica. Le proprietà finite, l'ambiente e l'assemblaggio richiesti determinano se è adatto.
@@ -13022,10 +13166,6 @@ Il nome di un materiale è l'inizio di una specifica. Le proprietà finite, l'am
 #### La giusta pausa. Lo strumento di abbinamento.
 
 Specificare l'interfaccia effettiva e l'accesso all'assembly disponibile. Il nome di un'unità o la somiglianza visiva non costituiscono una definizione completa di idoneità allo strumento.
-
-#### Revisione del disegno di elementi di fissaggio personalizzati: una pratica lista di controllo per il rilascio
-
-Una revisione dettagliata dei disegni per le richieste di offerta di viti personalizzate: definizione controllata, interfacce di accoppiamento, caratteristiche critiche, condizioni finali e prove di rilascio.
 
 #### Scelta di un percorso di produzione per una vite personalizzata
 

@@ -11,6 +11,18 @@ export function registerDeepContent({add,heading,crumb,origin,pages}){
  const schema={'@context':'https://schema.org','@type':a.kind==='insights'?'BlogPosting':'TechArticle','@id':origin+a.path+'#article',headline:a.title,description:a.description,image:[origin+'/images/'+a.image+'.webp'],datePublished:'2026-10-30',dateModified:'2026-10-30',inLanguage:'en',mainEntityOfPage:{'@id':origin+a.path+'#webpage'},author:{'@type':'Organization','@id':origin+'/authors/theo-wan/#editorial',name:'Theo Wan',url:origin+'/authors/theo-wan/',description:'Editorial pen name for ZUFEK Technical Editorial'},publisher:{'@id':origin+'/#organization'},about:a.related.map(url=>({'@id':origin+url+(url.startsWith('/products/')?'#manufacturing-service':'#webpage')})),citation:a.sources.map(([name,url])=>({'@type':'CreativeWork',name,url}))};
  add(a.path,a.title,a.description,body,{schema});
  }
- const faq=fs.readFileSync(new URL('./content/faq.md',import.meta.url),'utf8').trim().split(/\r?\n\s*\r?\n/);const questions=[];let html='';for(let i=2;i<faq.length;i++){const b=faq[i];if(b.startsWith('## '))html+='<h2>'+escape(b.slice(3))+'</h2>';else if(b.startsWith('### ')){questions.push({'@type':'Question',name:b.slice(4),acceptedAnswer:{'@type':'Answer',text:faq[i+1]}});html+='<details class="faq-item"><summary>'+escape(b.slice(4))+'</summary><p>'+escape(faq[++i]).replaceAll('info@zufek.net','<a href="mailto:info@zufek.net">info@zufek.net</a>')+'</p></details>';}}
+ const faq=fs.readFileSync(new URL('./content/faq.md',import.meta.url),'utf8').trim().split(/\r?\n\s*\r?\n/);const questions=[];
+ const faqLinks={
+  'Drawings and quotations':[['/guides/rfq-checklist/','RFQ checklist'],['/request-a-quote/','Request a quote']],
+  'Samples and manufacturing':[['/capabilities/process-routes/','Process route examples']],
+  'Materials and surface treatment':[['/materials/','Materials'],['/capabilities/surface-treatment/','Coatings & Surface Treatments']],
+  'Inspection and acceptance':[['/quality/','Quality planning'],['/guides/inspection-acceptance-plan/','Building a custom fastener inspection and acceptance plan']],
+ };
+ let html='';for(let i=2;i<faq.length;i++){const b=faq[i];if(b.startsWith('## ')){
+ const title=b.slice(3);
+ html+='<h2>'+escape(title)+'</h2>';
+ const links=faqLinks[title];
+ if(links)html+='<div class="related-links">'+links.map(([url,label])=>'<a href="'+url+'">'+escape(label)+'</a>').join('')+'</div>';
+ }else if(b.startsWith('### ')){questions.push({'@type':'Question',name:b.slice(4),acceptedAnswer:{'@type':'Answer',text:faq[i+1]}});html+='<details class="faq-item"><summary>'+escape(b.slice(4))+'</summary><p>'+escape(faq[++i]).replaceAll('info@zufek.net','<a href="mailto:info@zufek.net">info@zufek.net</a>')+'</p></details>';}}
  add('/faq/','Custom fastener FAQ',faq[1],crumb([['Resources','/resources/'],['Custom fastener FAQ']])+heading('TECHNICAL INSIGHTS','Custom fastener FAQ',faq[1])+'<section class="section compact faq-content">'+html+'<p><a href="/guides/rfq-checklist/">RFQ checklist</a> · <a href="/request-a-quote/">Request a quote</a></p></section>',{schema:{'@context':'https://schema.org','@type':'FAQPage','@id':origin+'/faq/#faq',inLanguage:'en',mainEntity:questions}});
 }

@@ -293,7 +293,7 @@ Acuerde método, etapa, cobertura y registro para cada característica. Distinga
 
 Registre el requisito afectado, la disposición propuesta y su aprobación antes de liberar. Si cambia el plano, la ruta o el acabado, identifique qué controles y aprobaciones de muestra deben repetirse.
 
-Crear un plan de inspección por características ↗
+Crear un plan de inspección por características ↗ Tornillos de hombro y escalonados Descargue una hoja de trabajo de inspección en blanco (inglés)
 
 #### Qué debe permitir verificar un registro de inspección
 
@@ -319,6 +319,26 @@ EL CENTRO DEL CONOCIMIENTO
 ### Comienzan las buenas partes con buenas preguntas.
 
 Lectura práctica para ingenieros y equipos de abastecimiento que preparan requisitos de tornillos no estándar.
+
+#### Una solicitud de cotización más clara. Una respuesta más útil.
+
+Revise la lista de verificación a continuación antes de enviarla. Si aún no se conoce algún detalle, cuéntanos qué queda por resolver.
+
+#### Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación
+
+Una revisión de planos paso a paso para solicitudes de cotización de tornillos personalizados: definición controlada, interfaces de acoplamiento, características críticas, condición final y evidencia de liberación.
+
+#### Grado, estado y articulación. Tomen la decisión juntos.
+
+El nombre de un material es el comienzo de una especificación. Las propiedades de acabado requeridas, el entorno y el montaje determinan si es adecuado.
+
+#### Elegir una ruta de fabricación para un tornillo personalizado
+
+Compare rutas de rumbo en frío, torneado CNC, híbrido y forjado en caliente utilizando geometría, cantidad, herramientas, trabajo secundario y aceptación final.
+
+#### Elaboración de un plan personalizado de inspección y aceptación de sujetadores
+
+Construya un plan de aceptación característica por característica con métodos, frecuencia de inspección, registros y manejo de desviaciones adecuados.
 
 #### Guías de ingeniería
 
@@ -962,7 +982,7 @@ Prevea aproximadamente 10–15 días para utillaje y muestras, sujetos a revisi�
 
 Con la muestra y la revisión del plano aprobadas, acuerde cantidad, identificación de lote, documentos y entrega. La capacidad mensual es de varios millones de piezas entre distintos productos; la asignación y los plazos dependen de la ruta y del pedido.
 
-Preparar los requisitos de aprobación de muestras ↗
+Preparar los requisitos de aprobación de muestras ↗ Planificación de la calidad Estudios de diseño de aplicaciones.
 
 ### Solicite una cotización de tornillos personalizados
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/request-a-quote/
@@ -1095,7 +1115,7 @@ Respuestas a preguntas comunes sobre compras e ingeniería antes de solicitar to
 
 #### Dibujos y citas.
 
-¿Qué información se necesita para una cotización útil de tornillos personalizados? Envíe la revisión del dibujo actual, la cantidad y la demanda repetida esperada, la aplicación, el material requerido y la condición de la superficie, las dimensiones críticas y los requisitos de inspección o documentación. Incluya la relación entre piezas cuando el tornillo localiza, gira, retiene o sella con otro componente. Si la información aún no está fijada, identifique las preguntas abiertas en lugar de dejar que cada proveedor haga una suposición diferente.
+Lista de verificación de solicitudes de presupuesto Solicitar presupuesto ¿Qué información se necesita para una cotización útil de tornillos personalizados? Envíe la revisión del dibujo actual, la cantidad y la demanda repetida esperada, la aplicación, el material requerido y la condición de la superficie, las dimensiones críticas y los requisitos de inspección o documentación. Incluya la relación entre piezas cuando el tornillo localiza, gira, retiene o sella con otro componente. Si la información aún no está fijada, identifique las preguntas abiertas en lugar de dejar que cada proveedor haga una suposición diferente.
 
 ¿Se puede trabajar a partir de una muestra o una fotografía? Una muestra o una fotografía clara pueden ayudar a iniciar una discusión, pero no establecen geometría oculta, condición del material, tolerancias o requisitos de rendimiento. El equipo debe aclarar esos detalles y confirmar un dibujo o especificación controlada antes de la producción. Una apariencia externa similar no es evidencia de que dos partes serán intercambiables en el ensamblaje previsto.
 
@@ -1103,7 +1123,7 @@ Respuestas a preguntas comunes sobre compras e ingeniería antes de solicitar to
 
 #### Muestras y fabricación.
 
-¿Cuánto tiempo tardan normalmente las herramientas y las muestras? Las herramientas y el muestreo generalmente se analizan aproximadamente en 10–15 días, sujeto a la revisión del dibujo y la confirmación de la especificación de la muestra. La disponibilidad de materiales, el trato especial y la verificación requerida pueden afectar el cronograma acordado. Confirme el hito de inicio en la cotización. La entrega de producción repetida se cotiza por separado y no coincide automáticamente con el período de muestreo.
+Ejemplos de rutas de proceso ¿Cuánto tiempo tardan normalmente las herramientas y las muestras? Las herramientas y el muestreo generalmente se analizan aproximadamente en 10–15 días, sujeto a la revisión del dibujo y la confirmación de la especificación de la muestra. La disponibilidad de materiales, el trato especial y la verificación requerida pueden afectar el cronograma acordado. Confirme el hito de inicio en la cotización. La entrega de producción repetida se cotiza por separado y no coincide automáticamente con el período de muestreo.
 
 ¿Un tornillo personalizado debe tener cabeza fría o girarse CNC? La ruta depende del dibujo, material, cantidad y requisitos de aceptación final. El torneado se puede revisar para detectar geometrías complejas y cantidades de desarrollo flexibles; Se puede evaluar el formado o una ruta híbrida para programas adecuados de repetición de producción. Solicite supuestos de ruta y una comparación completa que incluya herramientas, operaciones secundarias, tratamiento e inspección. Ninguno de los nombres del proceso demuestra por sí solo que una pieza terminada cumplirá con sus requisitos.
 
@@ -1111,7 +1131,7 @@ Respuestas a preguntas comunes sobre compras e ingeniería antes de solicitar to
 
 #### Materiales y tratamiento superficial.
 
-¿La calidad del material establece la resistencia del tornillo terminado? La designación de materia prima no es, por sí sola, el requisito completo de propiedad terminada. El grado, la condición del material, la ruta de fabricación y el tratamiento relevante deben considerarse con las especificaciones reales. Indique las propiedades terminadas requeridas y la evidencia por separado de la calidad en bruto. No asuma que todos los tornillos descritos con la misma familia de materiales tienen la misma resistencia o idoneidad para el servicio.
+Materiales Recubrimientos y tratamientos superficiales ¿La calidad del material establece la resistencia del tornillo terminado? La designación de materia prima no es, por sí sola, el requisito completo de propiedad terminada. El grado, la condición del material, la ruta de fabricación y el tratamiento relevante deben considerarse con las especificaciones reales. Indique las propiedades terminadas requeridas y la evidencia por separado de la calidad en bruto. No asuma que todos los tornillos descritos con la misma familia de materiales tienen la misma resistencia o idoneidad para el servicio.
 
 ¿Puedo solicitar un material diferente si cambia la disponibilidad? Se puede revisar una alternativa, pero debe aprobarse según la interfaz y los requisitos reales. Compare el estado del material, propiedades de acabado, tratamiento, dimensiones, ruta de fabricación y documentación. Una referencia cruzada familiar o una resistencia nominal superior no establecen automáticamente la equivalencia. Mantenga las alternativas aprobadas y cualquier limitación identificable en el registro de dibujo, orden o desviación.
 
@@ -1119,7 +1139,7 @@ Respuestas a preguntas comunes sobre compras e ingeniería antes de solicitar to
 
 #### Inspección y aceptación
 
-¿La inspección CCD verifica todas las propiedades de un tornillo? No. Una configuración de visión adecuada puede comprobar las dimensiones accesibles y los perfiles visibles dentro del alcance acordado. No establece de forma independiente la resistencia del material, la química del recubrimiento, la geometría oculta ni todas las relaciones tridimensionales. Los calibres de rosca, las medidas dimensionales, los registros de materiales o tratamientos y cualquier verificación de ensamblaje requerida deben seleccionarse para los riesgos reales de dibujo y falla.
+Planificación de la calidad Elaboración de un plan personalizado de inspección y aceptación de sujetadores ¿La inspección CCD verifica todas las propiedades de un tornillo? No. Una configuración de visión adecuada puede comprobar las dimensiones accesibles y los perfiles visibles dentro del alcance acordado. No establece de forma independiente la resistencia del material, la química del recubrimiento, la geometría oculta ni todas las relaciones tridimensionales. Los calibres de rosca, las medidas dimensionales, los registros de materiales o tratamientos y cualquier verificación de ensamblaje requerida deben seleccionarse para los riesgos reales de dibujo y falla.
 
 ¿Se inspeccionan todos los tornillos personalizados en cada característica de cada pieza? Se debe acordar el alcance y la frecuencia de la inspección. Los controles del primer artículo, el muestreo de lotes y la clasificación de cada pieza responden a diferentes necesidades. Si se requiere verificación de cada pieza, indique la característica, el método y los criterios. No interprete un tipo óptico de características externas seleccionadas como prueba de que se han medido todas las propiedades de cada pieza.
 
@@ -1179,6 +1199,24 @@ LA GAMA DE FIJACIONES PERSONALIZADAS
 ### Productos de tornillos personalizados. Encuentra la estructura adecuada.
 
 Desde tornillos de hombro cotidianos hasta componentes roscados compuestos, explore las características funcionales que son importantes para su aplicación.
+
+#### Encuentre una familia de productos
+
+##### Tornillos especiales principales
+
+Diseños de hombro, seguridad, hueco, brida, ajuste manual y tornillo de fijación para los requisitos de ingeniería diarios.
+
+##### Cabezas especiales y pernos funcionales
+
+Cabezas en T, ojos, anillos, curvas en U, cabezas cuadradas y otras geometrías conformadas alrededor del montaje y ajuste.
+
+##### Roscas y mangos especiales
+
+Pasos finos, perfiles especiales, puntas modificadas y mangos escalonados o cónicos definidos por plano de ingeniería.
+
+##### Estructuras compuestas
+
+Múltiples funciones de ubicación, orificios transversales, funciones de presión y secciones roscadas mixtas en una pieza personalizada.
 
 Encuentre una familia de productos 24 familias de productos detalladas
 
@@ -1500,7 +1538,41 @@ La cabeza, el tramo liso de posicionamiento y la zona roscada permiten fijar la 
 
 Consultar esta pieza a medida ↗ Tornillos de hombro y escalonados
 
-Calcular el juego axial con ambos extremos de tolerancia ↓ dibujo de ingeniería-CARACTERÍSTICAS DEFINIDAS 01
+Calcular el juego axial con ambos extremos de tolerancia ↓
+
+#### Comprobar por separado el ajuste del hombro y la holgura axial
+
+El hombro y el taladro guían el movimiento; la distancia entre las caras de apoyo determina la cadena axial. Defina ambas interfaces en el estado final de suministro, sin tratar el ajuste de rosca como ajuste de guiado.
+
+1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
+
+Hombro y taladro: indique los límites de ambas cotas, el eje de referencia y los requisitos funcionales de superficie.
+
+Apoyo y transición: muestre el chaflán o alojamiento de la pieza acoplada para que el filete incompleto o la garganta no impidan el asiento.
+
+Tras el acabado: identifique las superficies afectadas por el tratamiento o recubrimiento y cuándo se comprobará el ajuste final.
+
+Revise el cálculo de holgura de abajo junto con estas interfaces. Una holgura axial correcta no confirma por sí sola el ajuste del taladro ni la relación geométrica exigida.
+
+#### Calcular el juego axial con ambos extremos de tolerancia
+
+En una placa móvil, compare la longitud del hombro con todo el conjunto entre las caras de apoyo. Incluya arandela, casquillo y placa; la longitud total del tornillo no determina el juego.
+
+Suponga una longitud de hombro L de 8.20 ± 0.03 mm y un espesor total S de 8.00 ± 0.05 mm. El juego axial requerido en el ejemplo es 0.10–0.30 mm. Ambas cotas corresponden al estado final de suministro.
+
+Hombro L Conjunto móvil S Juego L − S Ejemplo resuelto: datos ilustrativos, no un diseño aprobado ni resultados medidos.
+
+Calcular el juego axial con ambos extremos de tolerancia Cálculo Resultado
+
+Juego mínimo: hombro más corto menos conjunto más grueso 8.17−8.05=0.12 mm
+
+Juego máximo: hombro más largo menos conjunto más delgado 8.23−7.95=0.28 mm
+
+El intervalo calculado de 0.12–0.28 mm cumple la condición ilustrativa. Solo resuelve el juego axial: revise por separado el ajuste hombro-taladro, la transición, el engrane de rosca y las condiciones reales de montaje y servicio.
+
+Documentar ambas interfaces con la lista del plano La preparación de utillaje y muestras suele requerir aproximadamente 10–15 días tras revisión técnica y confirmación. Acuerde en la oferta inicio, aceptación de muestras y calendario de producción.
+
+dibujo de ingeniería-CARACTERÍSTICAS DEFINIDAS 01
 
 ##### Diámetro y longitud del hombro
 
@@ -1580,37 +1652,11 @@ Explore un ensamblaje propuesto, las opciones de sujetadores, una revisión de f
 
 Ver el hombro y el conjunto axial del utillaje ↗
 
-#### Comprobar por separado el ajuste del hombro y la holgura axial
+#### Fotografía de referencia de un perno con hombro
 
-El hombro y el taladro guían el movimiento; la distancia entre las caras de apoyo determina la cadena axial. Defina ambas interfaces en el estado final de suministro, sin tratar el ajuste de rosca como ajuste de guiado.
+Referencia geométrica DIN 610 de Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
-1 2 3 Esquema de interfaces, no a escala. Las cotas y la aceptación se definen en el plano aprobado del conjunto.
-
-Hombro y taladro: indique los límites de ambas cotas, el eje de referencia y los requisitos funcionales de superficie.
-
-Apoyo y transición: muestre el chaflán o alojamiento de la pieza acoplada para que el filete incompleto o la garganta no impidan el asiento.
-
-Tras el acabado: identifique las superficies afectadas por el tratamiento o recubrimiento y cuándo se comprobará el ajuste final.
-
-Revise el cálculo de holgura de abajo junto con estas interfaces. Una holgura axial correcta no confirma por sí sola el ajuste del taladro ni la relación geométrica exigida.
-
-#### Calcular el juego axial con ambos extremos de tolerancia
-
-En una placa móvil, compare la longitud del hombro con todo el conjunto entre las caras de apoyo. Incluya arandela, casquillo y placa; la longitud total del tornillo no determina el juego.
-
-Suponga una longitud de hombro L de 8.20 ± 0.03 mm y un espesor total S de 8.00 ± 0.05 mm. El juego axial requerido en el ejemplo es 0.10–0.30 mm. Ambas cotas corresponden al estado final de suministro.
-
-Hombro L Conjunto móvil S Juego L − S Ejemplo resuelto: datos ilustrativos, no un diseño aprobado ni resultados medidos.
-
-Calcular el juego axial con ambos extremos de tolerancia Cálculo Resultado
-
-Juego mínimo: hombro más corto menos conjunto más grueso 8.17−8.05=0.12 mm
-
-Juego máximo: hombro más largo menos conjunto más delgado 8.23−7.95=0.28 mm
-
-El intervalo calculado de 0.12–0.28 mm cumple la condición ilustrativa. Solo resuelve el juego axial: revise por separado el ajuste hombro-taladro, la transición, el engrane de rosca y las condiciones reales de montaje y servicio.
-
-Documentar ambas interfaces con la lista del plano La preparación de utillaje y muestras suele requerir aproximadamente 10–15 días tras revisión técnica y confirmación. Acuerde en la oferta inicio, aceptación de muestras y calendario de producción.
+Plano y verificación de muestras Planificación de la calidad Elaboración de un plan personalizado de inspección y aceptación de sujetadores
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -1901,6 +1947,22 @@ COLECCIÓN FAMILIAR DE PRODUCTOS
 
 Diseños de hombro, seguridad, hueco, brida, ajuste manual y tornillo de fijación para los requisitos de ingeniería diarios.
 
+#### Plano y verificación de muestras
+
+Productos Aplicación Qué especificar Qué comprobar
+
+Tornillos de hombro y escalonados La cabeza, el tramo liso de posicionamiento y la zona roscada permiten fijar la pieza y, a la vez, controlar su posición, separación o movimiento. Incluya detalles del orificio de acoplamiento, dimensiones críticas del hombro, rugosidad de la superficie e inspección dimensional requerida. Revise el cálculo de holgura de abajo junto con estas interfaces. Una holgura axial correcta no confirma por sí sola el ajuste del taladro ni la relación geométrica exigida.
+
+Tornillos de seguridad y antimanipulación Las huellas especiales dificultan el desmontaje con herramientas comunes, pero permiten intervenir con la herramienta de mantenimiento prevista. Proporcione el dibujo de ingeniería del variador o la especificación de la herramienta correspondiente. La resistencia a la manipulación depende de la disponibilidad de la herramienta y del conjunto completo; No es seguridad absoluta. Separe la aceptación de la huella y la del acceso. Un perfil con tetón puede dificultar la manipulación casual, pero por sí solo no establece una clasificación de seguridad.
+
+Tornillos huecos y con taladro pasante Un taladro axial atraviesa la pieza roscada para crear el paso que requiera la aplicación, por ejemplo para cables o fluidos. Indique el diámetro y la profundidad del orificio, las rebabas permitidas, la limpieza y cualquier prueba de presión o fuga acordada. Un orificio pasante por sí solo no establece una clasificación de presión. El cribado CCD exterior puede comprobar el perfil visible. Verifique las características interiores inaccesibles con otro método adecuado y use la matriz siguiente para distinguir paso de cables, caudal y sellado.
+
+Tornillos con brida a medida La brida integrada proporciona la superficie de apoyo definida en el plano y evita manipular una arandela por separado. Incluya los requisitos del material de acoplamiento y de la cara del rodamiento. Una brida más grande no previene automáticamente el daño a la superficie. Registre qué caras deben contactar y cuáles deben quedar libres. Si importan las marcas, la precarga o el mantenimiento repetido, acuerde una prueba del sistema superficial real en lugar de deducir el rendimiento del diámetro de brida.
+
+Tornillos moleteados de apriete manual y ajuste La cabeza facilita el agarre para regular a mano. Si el montaje lo requiere, puede incorporar una huella para herramienta. Especifique el agarre del cabezal, el recorrido de ajuste y cualquier método de bloqueo requerido. La empuñadura por sí sola no constituye un par de apriete calibrado. Para aprobar muestras, identifique soporte y contacto, pruebe la secuencia acordada y registre posición y estado del contacto. El accionamiento manual no mide el apriete; defina otro método si se exige un par controlado.
+
+Tornillos prisioneros y de fijación a medida Estas piezas roscadas sin cabeza actúan sobre el componente de contacto mediante una punta definida para posicionarlo o sujetarlo. Indique la geometría de la punta, la superficie de contacto, el accionamiento y la función esperada. El rendimiento de sujeción depende del conjunto completo. Revise el ajuste repetido y la retención en la unión real. La geometría de punta y el diámetro del tornillo no proporcionan una fuerza de retención ni un par de apriete universales.
+
 Tornillos especiales principales
 
 ##### Tornillos de hombro y escalonados ↗
@@ -1961,6 +2023,22 @@ COLECCIÓN FAMILIAR DE PRODUCTOS
 ### Cabezas especiales y pernos funcionales
 
 Cabezas en T, ojos, anillos, curvas en U, cabezas cuadradas y otras geometrías conformadas alrededor del montaje y ajuste.
+
+#### Plano y verificación de muestras
+
+Productos Aplicación Qué especificar Qué comprobar
+
+Pernos para ranura en T a medida Una cabeza en T específica del dibujo de ingeniería encaja en una ranura correspondiente para posicionamiento o sujeción. Proporcionar sección transversal de ranura y método de inserción; No seleccione únicamente por la apariencia de la cabeza. Envíe sección de ranura y secuencia de montaje junto al plano del perno. Distinga inserción, giro previsto y asiento final en las muestras. El tamaño nominal del perfil no demuestra intercambiabilidad de cabezas ni capacidad de apriete.
+
+Pernos de ojo y articulados a medida Un extremo estilo ojo o horquilla conecta un vástago roscado a un pasador o junta articulada. Dirección de la fuerza estatal y uso previsto. Cualquier aplicación de elevación necesita un diseño con capacidad de carga aprobada y una verificación acordada, no simplemente una cabeza con forma de ojo. Pruebe movimiento e interferencias.
+
+Diseños de cáncamos de elevación a medida Geometrías de vástago y anillo definidas por planos de ingeniería para la revisión de ingeniería de los requisitos relacionados con la elevación. Suministre el caso de carga aprobado y la norma aplicable. La geometría personalizada no es una clasificación de carga de trabajo certificada; Úselo solo después de un diseño y verificación calificados. Verifique cualificación y trazabilidad antes de liberar.
+
+Pernos en U a medida Un vástago curvado y dos patas roscadas siguen las dimensiones del tubo, marco o componente sujetado. Proporcione la sección transversal sujeta y los requisitos de carga. El material, el proceso de plegado y el recubrimiento deben revisarse juntos. Pruebe ambas patas y el apoyo uniforme.
+
+Pernos de cabeza cuadrada a medida Una interfaz de herramienta cuadrada o un cabezal capturado respalda las necesidades de acceso y antirrotación específicas de la aplicación. Muestre el acceso a la llave o el bolsillo de retención y las propiedades mecánicas requeridas. Verifique asiento y antirrotación.
+
+Pernos de cuello cuadrado a medida Una cabeza redonda y un cuello cuadrado definido por un dibujo de ingeniería proporcionan una interfaz antirrotación con el componente acoplado. Proporcionar la geometría del orificio de acoplamiento y el material del cojinete; El compromiso del cuello es parte del diseño antirotación. Verifique asiento y antirrotación en el panel acabado.
 
 Cabezas especiales y pernos funcionales
 
@@ -2035,6 +2113,20 @@ COLECCIÓN FAMILIAR DE PRODUCTOS
 
 Pasos finos, perfiles especiales, puntas modificadas y mangos escalonados o cónicos definidos por plano de ingeniería.
 
+#### Plano y verificación de muestras
+
+Productos Aplicación Qué especificar Qué comprobar
+
+Tornillos de paso fino y extrafino Los pasos finos definidos por dibujos de ingeniería admiten requisitos de ajuste y compromiso donde una selección estándar no encaja. La brea fina por sí sola no garantiza resistencia al aflojamiento. Especifique los requisitos de bloqueo y vibración por separado. Calibre tras el acabado y compruebe asiento antes del fondo.
+
+Perfiles de rosca especiales y combinados Las disposiciones de rosca trapezoidal, de contrafuerte, alta-baja y compuesta requieren un perfil explícito y una pieza coincidente. El autobloqueo depende de la geometría, la fricción y las condiciones de funcionamiento. No asuma que todas las roscas trapezoidales o de contrafuerte son autoblocantes. Acuerde control de perfil y prueba funcional separados.
+
+Tornillos autorroscantes con punta modificada Los extremos ranurados, cortados o aliviados se pueden especificar según el material real y la condición del orificio. Las puntas de corte pueden generar virutas. El control de escombros y avance debe demostrarse en el montaje real. Pruebe montaje y límites de par acordados.
+
+Tornillos de vástago reducido o variable Un mango reducido o escalonado introduce un cambio deliberado en la sección entre características funcionales. Un mango reducido no evita automáticamente el agrietamiento. Suministrar requisitos de carga y fatiga para revisión de diseño. Verifique geometría y acuerde ensayo de la sección reducida.
+
+Tornillos de vástago cónico y de cono Una superficie cónica o cónica definida establece una interfaz de localización, contacto o sellado con un componente correspondiente. El rendimiento del sellado requiere un diseño y una verificación combinados; un cono por sí solo no establece la estanqueidad. Compruebe contacto y profundidad de asiento.
+
 Roscas y mangos especiales
 
 ##### Tornillos de paso fino y extrafino ↗
@@ -2089,6 +2181,20 @@ COLECCIÓN FAMILIAR DE PRODUCTOS
 ### Estructuras compuestas
 
 Múltiples funciones de ubicación, orificios transversales, funciones de presión y secciones roscadas mixtas en una pieza personalizada.
+
+#### Plano y verificación de muestras
+
+Productos Aplicación Qué especificar Qué comprobar
+
+Tornillos con pasador de posicionamiento integrado Un pasador local o una extensión de posicionamiento combinan una conexión por tornillo con una característica de posicionamiento definida por un plano de ingeniería. Proporcione el orificio de acoplamiento y la dirección de montaje. Confirme qué característica ubica y cuál proporciona la abrazadera. Verifique alineación e inserción.
+
+Tornillos de hombro con dos extremos roscados Dos extremos roscados y un hombro central más grande combinan conexión y ubicación axial en una sola pieza. Incluya ambos componentes coincidentes y explique qué extremo se instala primero. Pruebe los extremos y verifique la cadena axial.
+
+Tornillos con taladro transversal o en la cabeza Un orificio radial o transversal proporciona un paso específico para un pasador, alambre u otro elemento de ensamblaje. Indique el método de retención previsto y los requisitos de carga; un orificio transversal por sí solo no establece una retención segura. Revise intersección interna y paso o holgura del pasador.
+
+Tornillos de múltiples escalones y hombros Varios diámetros y caras de ubicación se adaptan a una pila más compleja de componentes acoplados. Utilice un dibujo de ingeniería basado en datos de referencia e identifique las superficies que realmente ubican o soportan la carga. Verifique diámetros y distancias axiales tras el acabado.
+
+Tornillos y espárragos de inserción a presión a medida Las funciones de inserción a presión específicas de los dibujos de ingeniería pueden combinar un componente roscado con una interfaz de fijación de chapa metálica. Proporcionar las especificaciones del panel y las pruebas de aceptación. No asuma que una característica personalizada comparte las calificaciones de una pieza de cierre estándar de marca. Pruebe la inserción y verifique expulsión y par de giro acordados.
 
 Estructuras compuestas
 
@@ -9090,6 +9196,20 @@ LA CADENA DE FABRICACIÓN COMPLETA
 
 Seleccione una ruta de encofrado, defina las operaciones funcionales y acuerde el material final, la superficie y las condiciones de inspección.
 
+#### Comparar rutas de fabricación
+
+decisión Qué determina el proceso Qué cambia la oferta Cómo aprobar la muestra
+
+Estampación en frío multiestación Geometrías de tornillos repetidas y volúmenes de producción que justifican herramientas dedicadas. El volumen del cabezal, la formabilidad del material y los límites de extrusión guían la secuencia del troquel. Separe utillaje de estampación, coste por pieza y mecanizado posterior de huella, hombro o taladro. Consulte qué revisiones cambian el útil y si el estado del alambre y el lote justifican conformar. Use muestras del proceso de conformado previsto. Compruebe ajuste de huella, apoyo y geometría bajo cabeza en la pieza final; acuerde defectos inadmisibles y método. Una muestra torneada puede probar acceso, no calidad de la cabeza estampada.
+
+Torneado de cabezal móvil y CNC Prototipos, geometrías variadas, pequeños lotes y piezas con varias características de mecanizado. La economía real del lote depende del tiempo del ciclo, el stock y la configuración. Indique pared mínima y eje donde importan, no solo diámetros nominales. Taladro largo, corte interrumpido, posición más estricta o segundo amarre pueden cambiar ciclo, acceso de herramienta y método de inspección. Compruebe taladro y exterior con referencias acordadas y sin amarre. Revise por separado intersecciones y rebabas en pasos de cable o fluido. El cálculo comprueba geometría, no presión ni carga admisibles.
+
+Recalcado y forja en caliente Las cabezas grandes, las formas de los ojos y las secciones sustanciales pueden ser adecuadas para la forja en caliente. No existe un cambio universal M24; El material, el equipamiento y la forma determinan el recorrido práctico. Cotice preforma caliente, utillaje, recorte o desoxidado y mecanizado posterior como proceso completo. Defina tratamiento, verificación mecánica y documentos; un ojo grande no acredita aptitud para elevación. Confirme taladro y apoyo finales, trazabilidad de material y tratamiento y verificación mecánica acordada. Para elevación, apruebe diseño aplicable, dirección de carga, marcado y cualificación antes de liberar.
+
+Estampación en frío y mecanizado secundario Integre geometría masiva repetida mediante el conformado y luego mecanice las características que necesitan una trayectoria o control de herramienta diferente. El utillaje y el mecanizado deben evaluarse juntos. Compare ruta completa, con utillaje, manipulación, rechazo de preformas y ajuste final. Si hombro y rosca se hacen en amarres distintos, incluya el control de su relación y no solo dos diámetros. Use muestras de la ruta de serie para verificar tamaño y forma del hombro, longitud axial, rosca y asiento tras acabado. Conserve el prototipo como referencia geométrica y registre qué debe aprobarse de nuevo.
+
+Elegir una ruta de fabricación para un tornillo personalizado
+
 01 / ELIGE LA RUTA RAÍZ
 
 #### Cuatro maneras de empezar.
@@ -10388,6 +10508,18 @@ PLANIFICACIÓN DE PROCESO ILUSTRATIVA
 ### Tres rutas completas. Definido por el dibujo de ingeniería.
 
 Utilice estos ejemplos para analizar la cadena completa. No son instrucciones fijas: la sincronización de roscas, el tratamiento térmico, el esmerilado y los recubrimientos requieren aprobación específica del material y de la aplicación.
+
+#### Comparar rutas de fabricación
+
+decisión Qué determina el proceso Qué cambia la oferta Cómo aprobar la muestra
+
+Estampación en frío y mecanizado secundario Integre geometría masiva repetida mediante el conformado y luego mecanice las características que necesitan una trayectoria o control de herramienta diferente. El utillaje y el mecanizado deben evaluarse juntos. Compare ruta completa, con utillaje, manipulación, rechazo de preformas y ajuste final. Si hombro y rosca se hacen en amarres distintos, incluya el control de su relación y no solo dos diámetros. Use muestras de la ruta de serie para verificar tamaño y forma del hombro, longitud axial, rosca y asiento tras acabado. Conserve el prototipo como referencia geométrica y registre qué debe aprobarse de nuevo.
+
+Recalcado y forja en caliente Las cabezas grandes, las formas de los ojos y las secciones sustanciales pueden ser adecuadas para la forja en caliente. No existe un cambio universal M24; El material, el equipamiento y la forma determinan el recorrido práctico. Cotice preforma caliente, utillaje, recorte o desoxidado y mecanizado posterior como proceso completo. Defina tratamiento, verificación mecánica y documentos; un ojo grande no acredita aptitud para elevación. Confirme taladro y apoyo finales, trazabilidad de material y tratamiento y verificación mecánica acordada. Para elevación, apruebe diseño aplicable, dirección de carga, marcado y cualificación antes de liberar.
+
+Torneado de cabezal móvil y CNC Prototipos, geometrías variadas, pequeños lotes y piezas con varias características de mecanizado. La economía real del lote depende del tiempo del ciclo, el stock y la configuración. Indique pared mínima y eje donde importan, no solo diámetros nominales. Taladro largo, corte interrumpido, posición más estricta o segundo amarre pueden cambiar ciclo, acceso de herramienta y método de inspección. Compruebe taladro y exterior con referencias acordadas y sin amarre. Revise por separado intersecciones y rebabas en pasos de cable o fluido. El cálculo comprueba geometría, no presión ni carga admisibles.
+
+Elegir una ruta de fabricación para un tornillo personalizado
 
 RUTA DEL PROCESO
 
@@ -12392,6 +12524,14 @@ ESTUDIOS DE DISEÑO APLICADO
 
 Estos proyectos propuestos muestran un camino claro desde una necesidad de ensamblaje hasta una especificación de sujetadores. No se entregan historias de casos de clientes ni resultados de pruebas medidos.
 
+#### Plano y verificación de muestras
+
+Aplicación decisión Estructuras de productos Qué comprobar
+
+Gabinete del módulo automotriz: estudio de diseño de tornillo de brida personalizado Asentar una tapa reparable sin interferencias ni fondo de agujero. Tornillos con brida a medida Tornillos de seguridad y antimanipulación Compruebe apoyo, acoplamiento útil y acceso con la herramienta de servicio prevista.
+
+Accesorio de automatización: estudio de diseño de ajuste y tornillo de hombro Retener una placa móvil con holgura de giro y un tope ajustable por separado. Tornillos de hombro y escalonados Tornillos moleteados de apriete manual y ajuste Mida el hombro acabado y pruebe movimiento, holgura axial y ajuste del tope en el conjunto.
+
 Visualización del concepto de aplicación · no es un plano de instalación del cliente ni un plano de ingeniería acotado
 
 DISEÑO DE APLICACIÓN ILUSTRATIVA
@@ -13015,6 +13155,10 @@ Guías de planos, selección de materiales y accionamientos para solicitar fijac
 
 Revise la lista de verificación a continuación antes de enviarla. Si aún no se conoce algún detalle, cuéntanos qué queda por resolver.
 
+#### Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación
+
+Una revisión de planos paso a paso para solicitudes de cotización de tornillos personalizados: definición controlada, interfaces de acoplamiento, características críticas, condición final y evidencia de liberación.
+
 #### Grado, estado y articulación. Tomen la decisión juntos.
 
 El nombre de un material es el comienzo de una especificación. Las propiedades de acabado requeridas, el entorno y el montaje determinan si es adecuado.
@@ -13022,10 +13166,6 @@ El nombre de un material es el comienzo de una especificación. Las propiedades 
 #### El receso correcto. La herramienta de combinación.
 
 Especifique la interfaz real y el acceso al ensamblaje disponible. El nombre de una unidad o el parecido visual no es una definición completa de ajuste de herramienta.
-
-#### Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación
-
-Una revisión de planos paso a paso para solicitudes de cotización de tornillos personalizados: definición controlada, interfaces de acoplamiento, características críticas, condición final y evidencia de liberación.
 
 #### Elegir una ruta de fabricación para un tornillo personalizado
 

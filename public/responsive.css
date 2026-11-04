@@ -76,6 +76,7 @@ body:not(.admin-page) :where(input,select,textarea){min-width:0;max-width:100%}
  .upload-box{max-width:100%;overflow-wrap:anywhere}
  .responsive-table table{font-size:13px}.responsive-table :where(th,td){overflow-wrap:anywhere;min-width:100px}
  .table-scroll :where(th,td),.material-table :where(th,td){overflow-wrap:normal}
+ .table-scroll th[scope="row"]>a{display:block}
  .quick-actions{padding:8px 12px calc(8px + env(safe-area-inset-bottom));gap:8px}
  .quick-actions .btn{min-width:0;min-height:44px;font-size:13px;padding:11px 10px;gap:8px}
  body:not(.admin-page){padding-bottom:calc(76px + env(safe-area-inset-bottom))}body:has(#quote-form){padding-bottom:0}

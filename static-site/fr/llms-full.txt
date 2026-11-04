@@ -293,7 +293,7 @@ Pour chaque caractéristique, convenez de la méthode, de l’étape, de la couv
 
 Consignez avant libération l’exigence concernée, la décision proposée et son approbation. Si le plan, la gamme ou la finition change, identifiez les contrôles et approbations d’échantillons à renouveler.
 
-Construire un plan de contrôle par caractéristique ↗
+Construire un plan de contrôle par caractéristique ↗ Vis à épaulement et vis étagées Téléchargez une feuille de travail d'inspection vierge (anglais)
 
 #### Ce qu’un relevé de contrôle doit permettre de vérifier
 
@@ -319,6 +319,26 @@ LE CENTRE DE CONNAISSANCES
 ### Les bonnes parties commencent avec de bonnes questions.
 
 Lecture pratique destinée aux ingénieurs et aux équipes d'approvisionnement qui préparent les exigences en matière de vis non standard.
+
+#### Un appel d’offres plus clair. Une réponse plus utile.
+
+Parcourez la liste de contrôle ci-dessous avant de soumettre. Si un détail n'est pas encore connu, dites-nous ce qui reste à résoudre.
+
+#### Examen des dessins de fixations personnalisés : une liste de contrôle pratique pour la publication
+
+Un examen étape par étape des dessins pour les appels d'offres de vis personnalisées : définition contrôlée, interfaces de raccordement, caractéristiques critiques, état final et preuves de libération.
+
+#### Grade, état et joint. Faites le choix ensemble.
+
+Un nom de matériau est le début d'une spécification. Les propriétés finies requises, l'environnement et l'assemblage déterminent s'il est adapté.
+
+#### Choisir une voie de fabrication pour une vis sur mesure
+
+Comparez les itinéraires de frappe à froid, de tournage CNC, hybrides et forgés à chaud en utilisant la géométrie, la quantité, l'outillage, le travail secondaire et l'acceptation finale.
+
+#### Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
+
+Élaborez un plan d'acceptation caractéristique par caractéristique avec des méthodes, une fréquence d'inspection, des enregistrements et une gestion des écarts appropriés.
 
 #### Guides techniques
 
@@ -962,7 +982,7 @@ Prévoyez environ 10–15 jours pour l’outillage et les échantillons, sous r�
 
 À partir de l’échantillon et de l’indice du plan approuvés, convenez de la quantité, de l’identification du lot, des documents et de la livraison. La capacité mensuelle est de plusieurs millions de pièces, tous produits confondus ; l’allocation et les délais dépendent de la gamme et de la commande.
 
-Préparer les exigences d’approbation des échantillons ↗
+Préparer les exigences d’approbation des échantillons ↗ Planification de la qualité Etudes de conception d'applications
 
 ### Demander un devis de vis personnalisé
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/request-a-quote/
@@ -1095,7 +1115,7 @@ Réponses aux questions courantes d'achat et d'ingénierie avant de demander des
 
 #### Dessins et citations
 
-Quelles informations sont nécessaires pour un devis de vis personnalisé utile ? Envoyez la révision actuelle du dessin, la quantité et la demande répétée attendue, l'application, l'état des matériaux et de la surface requis, les dimensions critiques et les exigences d'inspection ou de document. Incluez la relation entre les pièces d'accouplement lorsque la vis se localise, pivote, retient ou scelle avec un autre composant. Si les informations ne sont pas encore figées, identifiez les questions ouvertes plutôt que de laisser chaque fournisseur formuler une hypothèse différente.
+Liste de contrôle de la demande de prix Demander un devis Quelles informations sont nécessaires pour un devis de vis personnalisé utile ? Envoyez la révision actuelle du dessin, la quantité et la demande répétée attendue, l'application, l'état des matériaux et de la surface requis, les dimensions critiques et les exigences d'inspection ou de document. Incluez la relation entre les pièces d'accouplement lorsque la vis se localise, pivote, retient ou scelle avec un autre composant. Si les informations ne sont pas encore figées, identifiez les questions ouvertes plutôt que de laisser chaque fournisseur formuler une hypothèse différente.
 
 Pouvez-vous travailler à partir d’un échantillon ou d’une photographie ? Un échantillon ou une photographie claire peut aider à démarrer une discussion, mais il n'établit pas la géométrie cachée, l'état des matériaux, les tolérances ou les exigences de performance. L'équipe doit clarifier ces détails et confirmer un dessin ou une spécification contrôlé avant la production. Une apparence extérieure similaire ne constitue pas une preuve que deux pièces seront interchangeables dans l’assemblage prévu.
 
@@ -1103,7 +1123,7 @@ Y a-t-il une quantité minimum de commande pour chaque pièce personnalisée ? A
 
 #### Échantillons et fabrication
 
-Combien de temps prennent normalement les outils et les échantillons ? L'outillage et l'échantillonnage sont généralement discutés environ 10–15 jours, sous réserve de l'examen des dessins et de la confirmation des spécifications de l'échantillon. La disponibilité du matériel, le traitement spécial et la vérification requise peuvent affecter le calendrier convenu. Confirmez l'étape de départ dans l'offre. La livraison pour une production répétée est indiquée séparément et n'est pas automatiquement la même que la période d'échantillonnage.
+Exemples d'itinéraires de processus Combien de temps prennent normalement les outils et les échantillons ? L'outillage et l'échantillonnage sont généralement discutés environ 10–15 jours, sous réserve de l'examen des dessins et de la confirmation des spécifications de l'échantillon. La disponibilité du matériel, le traitement spécial et la vérification requise peuvent affecter le calendrier convenu. Confirmez l'étape de départ dans l'offre. La livraison pour une production répétée est indiquée séparément et n'est pas automatiquement la même que la période d'échantillonnage.
 
 Une vis personnalisée doit-elle être à tête froide ou tournée CNC ? L'itinéraire dépend des exigences du dessin, du matériau, de la quantité et de l'acceptation finale. Le tournage peut être révisé pour une géométrie complexe et des quantités de développement flexibles ; la formation ou une voie hybride peut être évaluée pour des programmes de production répétés appropriés. Demandez des hypothèses d'itinéraire et une comparaison complète comprenant l'outillage, les opérations secondaires, le traitement et l'inspection. Ni le nom du processus, ni le nom du processus ne prouvent à lui seul qu’une pièce finie répondra à ses exigences.
 
@@ -1111,7 +1131,7 @@ La géométrie peut-elle changer après l'approbation de l'échantillon ? Les mo
 
 #### Matériaux et traitement de surface
 
-La qualité du matériau détermine-t-elle la résistance de la vis finie ? La désignation d’une matière première ne constitue pas, en soi, une exigence complète en matière de propriété finie. La qualité, l'état du matériau, le mode de fabrication et le traitement pertinent doivent être pris en compte avec les spécifications réelles. Indiquez les propriétés finies requises et les preuves séparément de la qualité brute. Ne présumez pas que chaque vis décrite avec la même famille de matériaux a la même résistance ou la même aptitude au service.
+Matériaux Revêtements et traitements de surface La qualité du matériau détermine-t-elle la résistance de la vis finie ? La désignation d’une matière première ne constitue pas, en soi, une exigence complète en matière de propriété finie. La qualité, l'état du matériau, le mode de fabrication et le traitement pertinent doivent être pris en compte avec les spécifications réelles. Indiquez les propriétés finies requises et les preuves séparément de la qualité brute. Ne présumez pas que chaque vis décrite avec la même famille de matériaux a la même résistance ou la même aptitude au service.
 
 Puis-je demander un matériau différent si la disponibilité change ? Une alternative peut être examinée, mais elle doit être approuvée par rapport à l’interface et aux exigences réelles. Comparez l'état du matériau, les propriétés finies, le traitement, les dimensions, l'itinéraire de fabrication et la documentation. Une référence croisée familière ou une résistance nominale plus élevée n’établit pas automatiquement l’équivalence. Conservez les alternatives approuvées et toutes les limitations identifiables sur le dessin, la commande ou l’enregistrement des écarts.
 
@@ -1119,7 +1139,7 @@ Quel revêtement choisir pour un équipement extérieur ? L'examen correct néce
 
 #### Contrôle et acceptation
 
-L'inspection CCD vérifie-t-elle toutes les propriétés d'une vis ? Non. Une configuration de vision appropriée peut vérifier les dimensions accessibles et les profils visibles dans le cadre convenu. Il n’établit pas de manière indépendante la résistance des matériaux, la chimie du revêtement, la géométrie cachée ou toute relation tridimensionnelle. Les calibres de filetage, les mesures dimensionnelles, les enregistrements de matériaux ou de traitements et toutes les vérifications d'assemblage requises doivent être sélectionnés en fonction du dessin réel et des risques de défaillance.
+Planification de la qualité Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé L'inspection CCD vérifie-t-elle toutes les propriétés d'une vis ? Non. Une configuration de vision appropriée peut vérifier les dimensions accessibles et les profils visibles dans le cadre convenu. Il n’établit pas de manière indépendante la résistance des matériaux, la chimie du revêtement, la géométrie cachée ou toute relation tridimensionnelle. Les calibres de filetage, les mesures dimensionnelles, les enregistrements de matériaux ou de traitements et toutes les vérifications d'assemblage requises doivent être sélectionnés en fonction du dessin réel et des risques de défaillance.
 
 Toutes les vis personnalisées sont-elles inspectées sur chaque caractéristique de chaque pièce ? L’étendue et la fréquence des inspections doivent être convenues. Le contrôle premier article, l'échantillonnage des lots et le tri pièce par pièce répondent à différents besoins. Si une vérification de chaque pièce est requise, nommez la caractéristique, la méthode et les critères. N'interprètez pas une sorte de tri optique de caractéristiques externes sélectionnées comme une preuve que chaque propriété de chaque pièce a été mesurée.
 
@@ -1179,6 +1199,24 @@ LA GAMME DE FIXATIONS SUR MESURE
 ### Produits de vis personnalisés. Trouvez la bonne structure.
 
 Des vis à épaulement quotidiennes aux composants filetés composés, explorez les caractéristiques fonctionnelles importantes pour votre application.
+
+#### Trouver une famille de produits
+
+##### Principales vis spéciales
+
+Conceptions à épaulement, de sécurité, creuses, à bride, à réglage manuel et à vis de réglage pour les exigences d'ingénierie quotidiennes.
+
+##### Têtes spéciales et boulons fonctionnels
+
+Têtes en T, œillets, anneaux, coudes en U, têtes carrées et autres géométries façonnées autour du montage et du réglage.
+
+##### Fils et tiges spéciaux
+
+Pas fins, profils spéciaux, pointes modifiées et queues étagées ou coniques définies par le dessin technique.
+
+##### Structures composées
+
+Plusieurs fonctionnalités de positionnement, trous transversaux, fonctionnalités d'insertion et sections filetées mixtes dans une seule pièce personnalisée.
 
 Trouver une famille de produits 24 familles de produits détaillées
 
@@ -1500,7 +1538,41 @@ La tête, la portée lisse de positionnement et la partie filetée assurent la f
 
 Demander cette pièce sur mesure ↗ Vis à épaulement et vis étagées
 
-Calculer le jeu axial aux deux limites de tolérance ↓ CARACTÉRISTIQUES DÉFINIES par dessin technique 01
+Calculer le jeu axial aux deux limites de tolérance ↓
+
+#### Vérifier séparément l’ajustement dans l’alésage et le jeu axial
+
+L’épaulement et l’alésage guident le mouvement ; la distance entre les faces d’appui définit la chaîne axiale. Précisez les deux dans l’état final de livraison, sans assimiler l’ajustement du filetage à celui du guidage.
+
+1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
+
+Épaulement et alésage : indiquez les limites des deux cotes, l’axe de référence et les exigences fonctionnelles de surface.
+
+Appui et transition : représentez le chanfrein ou le lamage de la pièce en regard pour éviter toute interférence du filet incomplet ou du dégagement.
+
+Après finition : identifiez les surfaces affectées par le traitement ou le revêtement et l’étape de contrôle de l’ajustement final.
+
+Lisez le calcul du jeu ci-dessous avec ces interfaces. Un jeu axial satisfaisant ne valide à lui seul ni l’ajustement dans l’alésage ni la relation géométrique requise.
+
+#### Calculer le jeu axial aux deux limites de tolérance
+
+Pour une plaque mobile, comparer la longueur de l’épaulement à l’empilage complet entre les faces d’appui. Inclure rondelle, bague et plaque : la longueur totale de la vis ne détermine pas le jeu.
+
+Supposons une longueur d’épaulement L de 8.20 ± 0.03 mm et un empilage complet S de 8.00 ± 0.05 mm. Le jeu axial demandé dans cet exemple est de 0.10–0.30 mm. Les deux cotes concernent l’état final livré.
+
+Épaulement L Empilage mobile S Jeu L − S Exemple de calcul : données illustratives, ni conception approuvée ni résultats mesurés.
+
+Calculer le jeu axial aux deux limites de tolérance Calcul Résultat
+
+Jeu minimal : épaulement le plus court moins empilage maximal 8.17−8.05=0.12 mm
+
+Jeu maximal : épaulement le plus long moins empilage minimal 8.23−7.95=0.28 mm
+
+L’intervalle calculé de 0.12–0.28 mm respecte l’exigence illustrative. Il ne répond qu’à la question du jeu axial : vérifier séparément l’ajustement épaulement-alésage, le dégagement de transition, l’engagement du filetage et les conditions réelles de montage et de service.
+
+Documenter les deux interfaces avec la liste de contrôle du plan L’outillage et les échantillons demandent généralement environ 10–15 jours après revue technique et confirmation. Convenir au devis du point de départ, de l’acceptation des échantillons et du calendrier de série.
+
+CARACTÉRISTIQUES DÉFINIES par dessin technique 01
 
 ##### Diamètre et longueur des épaules
 
@@ -1580,37 +1652,11 @@ Explorez un assemblage proposé, les choix de fixations, l'examen de la fabricat
 
 Examiner l’épaulement et l’empilage axial de l’outillage ↗
 
-#### Vérifier séparément l’ajustement dans l’alésage et le jeu axial
+#### Photo de référence d’une vis ajustée
 
-L’épaulement et l’alésage guident le mouvement ; la distance entre les faces d’appui définit la chaîne axiale. Précisez les deux dans l’état final de livraison, sans assimiler l’ajustement du filetage à celui du guidage.
+Référence géométrique DIN 610 issue de Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
-1 2 3 Schéma des interfaces, sans échelle. Les cotes et la réception suivent le plan d’ensemble approuvé.
-
-Épaulement et alésage : indiquez les limites des deux cotes, l’axe de référence et les exigences fonctionnelles de surface.
-
-Appui et transition : représentez le chanfrein ou le lamage de la pièce en regard pour éviter toute interférence du filet incomplet ou du dégagement.
-
-Après finition : identifiez les surfaces affectées par le traitement ou le revêtement et l’étape de contrôle de l’ajustement final.
-
-Lisez le calcul du jeu ci-dessous avec ces interfaces. Un jeu axial satisfaisant ne valide à lui seul ni l’ajustement dans l’alésage ni la relation géométrique requise.
-
-#### Calculer le jeu axial aux deux limites de tolérance
-
-Pour une plaque mobile, comparer la longueur de l’épaulement à l’empilage complet entre les faces d’appui. Inclure rondelle, bague et plaque : la longueur totale de la vis ne détermine pas le jeu.
-
-Supposons une longueur d’épaulement L de 8.20 ± 0.03 mm et un empilage complet S de 8.00 ± 0.05 mm. Le jeu axial demandé dans cet exemple est de 0.10–0.30 mm. Les deux cotes concernent l’état final livré.
-
-Épaulement L Empilage mobile S Jeu L − S Exemple de calcul : données illustratives, ni conception approuvée ni résultats mesurés.
-
-Calculer le jeu axial aux deux limites de tolérance Calcul Résultat
-
-Jeu minimal : épaulement le plus court moins empilage maximal 8.17−8.05=0.12 mm
-
-Jeu maximal : épaulement le plus long moins empilage minimal 8.23−7.95=0.28 mm
-
-L’intervalle calculé de 0.12–0.28 mm respecte l’exigence illustrative. Il ne répond qu’à la question du jeu axial : vérifier séparément l’ajustement épaulement-alésage, le dégagement de transition, l’engagement du filetage et les conditions réelles de montage et de service.
-
-Documenter les deux interfaces avec la liste de contrôle du plan L’outillage et les échantillons demandent généralement environ 10–15 jours après revue technique et confirmation. Convenir au devis du point de départ, de l’acceptation des échantillons et du calendrier de série.
+Plan et contrôle des échantillons Planification de la qualité Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -1901,6 +1947,22 @@ COLLECTION FAMILLE DE PRODUITS
 
 Conceptions à épaulement, de sécurité, creuses, à bride, à réglage manuel et à vis de réglage pour les exigences d'ingénierie quotidiennes.
 
+#### Plan et contrôle des échantillons
+
+Produits Application À spécifier À vérifier
+
+Vis à épaulement et vis étagées La tête, la portée lisse de positionnement et la partie filetée assurent la fixation tout en définissant un espacement ou un mouvement. Incluez les détails de l'alésage d'accouplement, les dimensions critiques de l'épaulement, la rugosité de la surface et l'inspection dimensionnelle requise. Lisez le calcul du jeu ci-dessous avec ces interfaces. Un jeu axial satisfaisant ne valide à lui seul ni l’ajustement dans l’alésage ni la relation géométrique requise.
+
+Vis de sécurité et anti-effraction Les empreintes spéciales limitent le démontage avec des outils courants, tout en permettant l’intervention avec l’outil de maintenance prévu. Fournissez le dessin technique du variateur ou les spécifications de l’outil correspondant. L'inviolabilité dépend de la disponibilité de l'outil et de l'assemblage complet ; ce n'est pas une sécurité absolue. Distinguez réception de l’empreinte et vérification de l’accès. Un profil avec téton peut limiter les démontages non autorisés courants, sans établir à lui seul un niveau de sécurité.
+
+Vis creuses et vis à perçage traversant Un perçage axial traverse la pièce filetée pour former un passage adapté à l’application, par exemple pour un câble ou un fluide. Indiquez le diamètre et la profondeur de l'alésage, les bavures autorisées, la propreté et tout test de fuite ou de pression convenu. Un trou traversant à lui seul n’établit pas une pression nominale. Le contrôle CCD extérieur peut vérifier le profil visible. Contrôlez les caractéristiques internes inaccessibles par une méthode complémentaire adaptée ; la matrice ci-dessous distingue passage de câbles, écoulement et étanchéité.
+
+Vis à embase sur mesure L’embase intégrée fournit la surface d’appui définie sur le plan, sans avoir à monter une rondelle séparée. Incluez les exigences en matière de matériau d'accouplement et de face d'appui. Une bride plus grande n’empêche pas automatiquement les dommages superficiels. Consignez les faces autorisées au contact et celles devant rester dégagées. Si les marques, la précharge ou la maintenance répétée sont importantes, convenez d’un essai avec le système de surface réel plutôt que de déduire les performances du diamètre d’embase.
+
+Vis moletées et vis de réglage manuel La tête facilite la prise en main pour le réglage manuel. Une empreinte d’outil peut être ajoutée selon le mode de montage prévu. Spécifiez la prise de la tête, la course de réglage et toute méthode de verrouillage requise. La poignée seule ne constitue pas un couple de serrage calibré. Pour approuver les échantillons, identifiez support et pièce de contact, essayez la séquence convenue et consignez position et contact. La manœuvre manuelle ne mesure pas le serrage ; prévoyez une méthode distincte si un couple contrôlé est requis.
+
+Vis sans tête et vis de pression sur mesure Ces éléments filetés sans tête agissent sur la pièce en contact par une extrémité définie, afin de la positionner ou de la bloquer. Indiquer la géométrie de la pointe, la surface de contact, l'entraînement et la fonction attendue. Les performances de serrage dépendent de l'assemblage complet. Vérifiez les réglages répétés et le maintien sur l’assemblage réel. La forme de l’extrémité et le diamètre de vis ne donnent pas à eux seuls une valeur universelle de force de maintien ou de couple de serrage.
+
 Principales vis spéciales
 
 ##### Vis à épaulement et vis étagées ↗
@@ -1961,6 +2023,22 @@ COLLECTION FAMILLE DE PRODUITS
 ### Têtes spéciales et boulons fonctionnels
 
 Têtes en T, œillets, anneaux, coudes en U, têtes carrées et autres géométries façonnées autour du montage et du réglage.
+
+#### Plan et contrôle des échantillons
+
+Produits Application À spécifier À vérifier
+
+Boulons pour rainures en T sur mesure Une tête en T spécifique au dessin technique s'engage dans une fente correspondante pour le positionnement ou le serrage. Fournir la section transversale de la fente et la méthode d'insertion ; ne faites pas votre choix uniquement en fonction de l'apparence de la tête. Envoyez section de rainure et séquence de montage avec le plan du boulon. Distinguez insertion, rotation prévue et appui final dans les contrôles. La taille nominale du profilé ne prouve ni interchangeabilité de tête ni capacité de bridage.
+
+Boulons à œil et articulés sur mesure Une extrémité de type œil ou fourche relie une tige filetée à une goupille ou à un joint articulé. Indiquer la direction de la force et l’utilisation prévue. Toute application de levage nécessite une conception de charge nominale approuvée et une vérification convenue, et pas simplement une tête en forme d'œil. Vérifier mouvement et interférences.
+
+Conceptions de boulons à œil de levage sur mesure géométries d'anneaux et de tiges définies par des dessins techniques pour l'examen technique des exigences liées au levage. Fournir le cas de charge approuvé et la norme applicable. La géométrie personnalisée ne constitue pas une charge de travail certifiée ; utiliser uniquement après une conception et une vérification qualifiées. Vérifier qualification et traçabilité avant libération.
+
+Étriers filetés en U sur mesure Une tige courbée et deux pattes filetées suivent les dimensions du tuyau, du cadre ou du composant serré. Fournissez les exigences de section transversale serrée et de charge. Le matériau, le processus de pliage et le revêtement doivent être examinés ensemble. Essayer les deux branches et vérifier l’appui uniforme.
+
+Boulons à tête carrée sur mesure Une interface d'outil carrée ou une tête capturée prend en charge les besoins d'accès et d'anti-rotation spécifiques à l'application. Montrer l'accès à la clé ou la poche de retenue et les propriétés mécaniques requises. Vérifier appui et antirotation dans le logement.
+
+Boulons à tête ronde et collet carré sur mesure Une tête ronde et un col carré défini par le dessin technique fournissent une interface anti-rotation avec le composant d'accouplement. Fournir la géométrie du trou d'accouplement et le matériau du roulement ; l'engagement du cou fait partie de la conception anti-rotation. Vérifier appui et antirotation dans le panneau fini.
 
 Têtes spéciales et boulons fonctionnels
 
@@ -2035,6 +2113,20 @@ COLLECTION FAMILLE DE PRODUITS
 
 Pas fins, profils spéciaux, pointes modifiées et queues étagées ou coniques définies par le dessin technique.
 
+#### Plan et contrôle des échantillons
+
+Produits Application À spécifier À vérifier
+
+Vis à pas fin et extra-fin Les pas fins définis par les dessins techniques prennent en charge les exigences d'ajustement et d'engagement là où une sélection standard ne convient pas. Le pas fin ne garantit pas à lui seul la résistance au desserrage. Spécifiez séparément les exigences en matière de verrouillage et de vibration. Calibrer après finition et vérifier l’appui avant la butée en fond.
+
+Profils de filetage spéciaux et combinés Les dispositions de filetage trapézoïdal, contrefort, haut-bas et composé nécessitent un profil explicite et une pièce correspondante. L'autoblocage dépend de la géométrie, du frottement et des conditions de fonctionnement. Ne présumez pas que chaque filetage trapézoïdal ou contrefort est autobloquant. Convenir de contrôles distincts du profil et de la fonction.
+
+Vis autotaraudeuses à pointe modifiée Les extrémités fendues, coupées ou soulagées peuvent être spécifiées autour du matériau réel et de l'état du trou. Les pointes coupantes peuvent générer des copeaux. Le contrôle des débris et des percées doit être démontré dans l’assemblage lui-même. Essayer la pose et vérifier les limites de couple convenues.
+
+Vis à tige réduite ou à diamètre variable Une tige réduite ou étagée introduit un changement délibéré de section entre les caractéristiques fonctionnelles. Une tige réduite n’empêche pas automatiquement les fissures. Exigences de charge et de fatigue pour la revue de conception. Vérifier géométrie et convenir de l’essai de la section réduite.
+
+Vis à tige conique et vis coniques Une surface conique ou conique définie établit une interface de positionnement, de contact ou d'étanchéité avec un composant correspondant. Les performances d'étanchéité nécessitent une conception et une vérification adaptées ; un cône à lui seul n’assure pas l’étanchéité. Vérifier contact et profondeur d’appui.
+
 Fils et tiges spéciaux
 
 ##### Vis à pas fin et extra-fin ↗
@@ -2089,6 +2181,20 @@ COLLECTION FAMILLE DE PRODUITS
 ### Structures composées
 
 Plusieurs fonctionnalités de positionnement, trous transversaux, fonctionnalités d'insertion et sections filetées mixtes dans une seule pièce personnalisée.
+
+#### Plan et contrôle des échantillons
+
+Produits Application À spécifier À vérifier
+
+Vis avec pion de positionnement intégré Une broche locale ou une extension de positionnement combine une connexion vissée avec une fonction de positionnement définie par un dessin technique. Précisez le trou de raccordement et le sens d’assemblage. Confirmez quelle fonctionnalité localise et laquelle fournit la pince. Vérifier alignement et insertion dans le trou.
+
+Vis à épaulement à deux extrémités filetées Deux extrémités filetées et un épaulement central plus grand combinent connexion et positionnement axial en une seule pièce. Incluez les deux composants correspondants et expliquez quelle extrémité est installée en premier. Essayer chaque extrémité et vérifier la chaîne axiale.
+
+Vis à perçage transversal ou à tête percée Un trou radial ou transversal fournit un passage spécifié pour une broche, un fil ou un autre élément d'assemblage. Indiquer la méthode de rétention prévue et les exigences de charge ; un trou transversal à lui seul n’établit pas une rétention sûre. Vérifier intersection interne et passage ou jeu du pion.
+
+Vis à plusieurs étages et épaulements Plusieurs diamètres et faces de positionnement s'adaptent à un empilement plus complexe de composants d'accouplement. Utilisez un dessin technique basé sur des données et identifiez les surfaces qui localisent ou supportent réellement la charge. Vérifier diamètres et distances axiales après finition.
+
+Vis et goujons à sertir sur mesure Les fonctionnalités d'insertion spécifiques aux dessins techniques peuvent combiner un composant fileté avec une interface de fixation en tôle. Fournir les spécifications du panneau et les tests d’acceptation. Ne présumez pas qu’une fonctionnalité personnalisée partage les notes d’une pièce à clin standard de marque. Essayer le sertissage et vérifier effort d’expulsion et couple de rotation convenus.
 
 Structures composées
 
@@ -9090,6 +9196,20 @@ LA CHAÎNE DE FABRICATION COMPLÈTE
 
 Sélectionnez un itinéraire de formage, définissez les opérations fonctionnelles et convenez du matériau final, de la surface et de l'état d'inspection.
 
+#### Comparer les procédés de fabrication
+
+Décision Ce qui détermine le procédé Ce qui influe sur le devis Comment approuver l’échantillon
+
+Frappe à froid multiposte Géométries de vis répétées et volumes de production qui justifient un outillage dédié. Le volume de la tête, la formabilité du matériau et les limites d'extrusion guident la séquence de matrice. Séparez outillage de frappe, coût récurrent et reprises d’empreinte, épaulement ou trou. Demandez quelles révisions nécessitent une modification d’outil et si état du fil et taille du lot justifient le formage. Utilisez des échantillons issus du formage prévu. Vérifiez empreinte, appui et géométrie sous tête sur la pièce finie ; convenez des défauts inadmissibles et du contrôle. Un prototype tourné peut valider l’accès, pas la qualité de la tête frappée.
+
+Décolletage à poupée mobile et tournage CNC Prototypes, géométries variées, petites séries et pièces avec plusieurs caractéristiques usinées. La rentabilité réelle des lots dépend du temps de cycle, du stock et de la configuration. Indiquez paroi minimale et axe aux endroits utiles, pas seulement les diamètres nominaux. Alésage long, coupe interrompue, position plus serrée ou seconde prise peuvent modifier cycle, accès outil et contrôle. Contrôlez alésage et extérieur selon les références convenues après débridage. Vérifiez séparément intersections et bavures sur les passages de câbles ou fluides. Le calcul contrôle une géométrie, pas une pression ni une charge admissible.
+
+Refoulement et forgeage à chaud Les grandes têtes, les formes d'oeil et les sections substantielles peuvent convenir au forgeage à chaud. Il n’existe pas de changement universel M24 ; le matériau, l'équipement et la forme déterminent l'itinéraire pratique. Chiffrez ensemble ébauche chauffée, outillage, détourage ou décalaminage et usinage ultérieur. Définissez traitement, essais mécaniques et documents ; un grand œil ne prouve pas l’aptitude au levage. Confirmez alésage et appui finis, traçabilité matière et traitement et vérification mécanique convenue. Pour le levage, validez conception applicable, direction de charge, marquage et qualification avant libération.
+
+Frappe à froid et usinage secondaire Intégrez une géométrie globale répétée via le formage, puis usinez les fonctionnalités qui nécessitent une trajectoire d'outil ou un contrôle différent. L'outillage et l'usinage doivent être évalués ensemble. Comparez le procédé complet, avec outillage, manutention, ébauches rebutées et ajustage final. Si épaulement et filetage sont établis dans des prises différentes, chiffrez la maîtrise de leur relation, pas seulement deux diamètres. Sur des échantillons du procédé série, revérifiez dimensions et forme de l’épaulement, longueur axiale, filetage et appui après finition. Gardez le prototype tourné comme référence et consignez les points à réapprouver.
+
+Choisir une voie de fabrication pour une vis sur mesure
+
 01 / CHOISISSEZ L'ITINÉRAIRE RACINE
 
 #### Quatre façons de commencer.
@@ -10388,6 +10508,18 @@ PLANIFICATION DE PROCESSUS ILLUSTRATIVE
 ### Trois parcours complets. Défini par le dessin technique.
 
 Utilisez ces exemples pour discuter de la chaîne complète. Il ne s'agit pas d'instructions fixes : le calage du filetage, le traitement thermique, le meulage et les revêtements nécessitent une approbation spécifique au matériau et à l'application.
+
+#### Comparer les procédés de fabrication
+
+Décision Ce qui détermine le procédé Ce qui influe sur le devis Comment approuver l’échantillon
+
+Frappe à froid et usinage secondaire Intégrez une géométrie globale répétée via le formage, puis usinez les fonctionnalités qui nécessitent une trajectoire d'outil ou un contrôle différent. L'outillage et l'usinage doivent être évalués ensemble. Comparez le procédé complet, avec outillage, manutention, ébauches rebutées et ajustage final. Si épaulement et filetage sont établis dans des prises différentes, chiffrez la maîtrise de leur relation, pas seulement deux diamètres. Sur des échantillons du procédé série, revérifiez dimensions et forme de l’épaulement, longueur axiale, filetage et appui après finition. Gardez le prototype tourné comme référence et consignez les points à réapprouver.
+
+Refoulement et forgeage à chaud Les grandes têtes, les formes d'oeil et les sections substantielles peuvent convenir au forgeage à chaud. Il n’existe pas de changement universel M24 ; le matériau, l'équipement et la forme déterminent l'itinéraire pratique. Chiffrez ensemble ébauche chauffée, outillage, détourage ou décalaminage et usinage ultérieur. Définissez traitement, essais mécaniques et documents ; un grand œil ne prouve pas l’aptitude au levage. Confirmez alésage et appui finis, traçabilité matière et traitement et vérification mécanique convenue. Pour le levage, validez conception applicable, direction de charge, marquage et qualification avant libération.
+
+Décolletage à poupée mobile et tournage CNC Prototypes, géométries variées, petites séries et pièces avec plusieurs caractéristiques usinées. La rentabilité réelle des lots dépend du temps de cycle, du stock et de la configuration. Indiquez paroi minimale et axe aux endroits utiles, pas seulement les diamètres nominaux. Alésage long, coupe interrompue, position plus serrée ou seconde prise peuvent modifier cycle, accès outil et contrôle. Contrôlez alésage et extérieur selon les références convenues après débridage. Vérifiez séparément intersections et bavures sur les passages de câbles ou fluides. Le calcul contrôle une géométrie, pas une pression ni une charge admissible.
+
+Choisir une voie de fabrication pour une vis sur mesure
 
 ITINÉRAIRE DU PROCESSUS
 
@@ -12392,6 +12524,14 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/app
 
 Ces projets proposés montrent un chemin clair entre un besoin d'assemblage et une spécification de fixation. Il ne s'agit pas d'historiques de cas clients ni de résultats de tests mesurés.
 
+#### Plan et contrôle des échantillons
+
+Application Décision Structures de produits À vérifier
+
+Boîtier de module automobile : étude de conception de vis à bride personnalisée Asseoir un couvercle démontable sans interférence ni butée en fond de trou. Vis à embase sur mesure Vis de sécurité et anti-effraction Vérifier appui de la collerette, engagement utile et accès avec l’outil prévu.
+
+Luminaire d'automatisation : étude de conception de vis à épaulement et de réglage Retenir une plaque mobile avec le jeu de pivotement et une butée réglable séparément. Vis à épaulement et vis étagées Vis moletées et vis de réglage manuel Mesurer l’épaulement fini et vérifier mouvement, jeu axial et réglage de la butée en montage.
+
 Visualisation du concept d'application · il ne s'agit pas d'une installation client ni d'un dessin technique coté
 
 CONCEPTION D'APPLICATIONS ILLUSTRATIVES
@@ -13015,6 +13155,10 @@ Guides de préparation des plans, de choix des matériaux et des empreintes pour
 
 Parcourez la liste de contrôle ci-dessous avant de soumettre. Si un détail n'est pas encore connu, dites-nous ce qui reste à résoudre.
 
+#### Examen des dessins de fixations personnalisés : une liste de contrôle pratique pour la publication
+
+Un examen étape par étape des dessins pour les appels d'offres de vis personnalisées : définition contrôlée, interfaces de raccordement, caractéristiques critiques, état final et preuves de libération.
+
 #### Grade, état et joint. Faites le choix ensemble.
 
 Un nom de matériau est le début d'une spécification. Les propriétés finies requises, l'environnement et l'assemblage déterminent s'il est adapté.
@@ -13022,10 +13166,6 @@ Un nom de matériau est le début d'une spécification. Les propriétés finies 
 #### La bonne niche. L'outil de correspondance.
 
 Spécifiez l’interface réelle et l’accès à l’assembly disponible. Un nom de lecteur ou une ressemblance visuelle ne constitue pas une définition complète d’ajustement d’outil.
-
-#### Examen des dessins de fixations personnalisés : une liste de contrôle pratique pour la publication
-
-Un examen étape par étape des dessins pour les appels d'offres de vis personnalisées : définition contrôlée, interfaces de raccordement, caractéristiques critiques, état final et preuves de libération.
 
 #### Choisir une voie de fabrication pour une vis sur mesure
 
