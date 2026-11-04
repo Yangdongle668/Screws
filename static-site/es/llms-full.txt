@@ -1463,6 +1463,14 @@ Componentes roscados mixtos y formas de hombros en una mesa de exhibición
 
 Vástagos roscados, hombros y componentes tubulares fotografiados juntos
 
+#### Plano y verificación de muestras
+
+Defina interfaz y acabado final
+
+Pruebe el tornillo acabado en su contraparte.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Comience con la interfaz que un tornillo estándar no puede satisfacer
 
 Utilice esta ruta cuando el requisito combine características o no se ajuste a una sola familia de productos. Identifique el motivo de la personalización: accionamiento inaccesible, cara de rodamiento inusual, roscas mixtas, paso interno o varios pasos de localización. Separe las interfaces esenciales de las dimensiones que se pueden discutir durante la revisión de la capacidad de fabricación.
@@ -1822,6 +1830,14 @@ Por Theo Wan Leer guía técnica →
 
 ¿Cómo se acuerda el alcance de la calidad? Defina las características críticas y las necesidades de documentación durante la revisión. Vea nuestro enfoque de planificación de calidad .
 
+#### Plano y verificación de muestras
+
+Acote alojamiento y espacio de herramienta
+
+Compruebe acceso y asiento.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Definir por qué la cabeza necesita cambiar
 
 Un cabezal especial puede solucionar el acceso a herramientas, una cavidad capturada, un espacio libre bajo o una cara de apoyo particular. Identifique esa función en el plano de ingeniería de ensamblaje. Una forma de cabeza seleccionada sólo por su apariencia puede pasar por alto la superficie o el espacio libre que realmente controla la instalación.
@@ -1929,6 +1945,14 @@ El volumen, el material y las características funcionales determinan cómo se p
 
 Rodamiento en frío + mecanizado secundario ↗ Tipo suizo y CNC Girando ↗ Operaciones secundarias y de precisión ↗ Estampación en frío multiestación ↗ Recubrimientos y tratamientos superficiales ↗ Limpieza, bloqueo y premontaje ↗
 
+#### Plano y verificación de muestras
+
+Identifique centrado, apriete o paso
+
+Verifique la función con la contraparte.
+
+Preparar la solicitud Planificación de la calidad
+
 ### Cabezas especiales y pernos funcionales
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/special-head-bolts/
 
@@ -1994,6 +2018,14 @@ El volumen, el material y las características funcionales determinan cómo se p
 
 Estampación en frío multiestación ↗ Recalcado y forja en caliente ↗ Operaciones secundarias y de precisión ↗ Tipo suizo y CNC Girando ↗ Inspección dimensional y visión CCD ↗ Tratamiento térmico según el material ↗
 
+#### Plano y verificación de muestras
+
+Acote el antirrotación y el apoyo
+
+Compruebe asiento y giro al apretar.
+
+Preparar la solicitud Planificación de la calidad
+
 ### Roscas y mangos especiales
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/special-thread-screws/
 
@@ -2041,6 +2073,14 @@ El volumen, el material y las características funcionales determinan cómo se p
 
 Laminado, corte y roscado de rosca ↗ Tipo suizo y CNC Girando ↗ Inspección dimensional y visión CCD ↗ Estampación en frío multiestación ↗ Operaciones secundarias y de precisión ↗ Tratamiento térmico según el material ↗
 
+#### Plano y verificación de muestras
+
+Indique perfil, paso y contrarrosca
+
+Verifique rosca final y acoplamiento útil por separado.
+
+Preparar la solicitud Planificación de la calidad
+
 ### Estructuras compuestas
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/compound-structure-screws/
 
@@ -2087,6 +2127,14 @@ Geometría de retención Estado del panel
 El volumen, el material y las características funcionales determinan cómo se produce el diseño.
 
 Tipo suizo y CNC Girando ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗ Rodamiento en frío + mecanizado secundario ↗ Laminado, corte y roscado de rosca ↗ Limpieza, bloqueo y premontaje ↗
+
+#### Plano y verificación de muestras
+
+Refiera agujero, escalón y rosca a datums funcionales
+
+Verifique su relación tras el acabado.
+
+Preparar la solicitud Planificación de la calidad
 
 ### Tornillos de seguridad y resistentes a manipulaciones según plano de ingeniería
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/security-screws/
@@ -2993,6 +3041,14 @@ Maquinaria y equipo en general ↗
 
 Armellas para varillaje y elevación: diferentes especificaciones necesarias ↗ Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco ↗ Espárragos de doble extremo: prevención de errores de montaje con roscas mixtas ↗
 
+#### Plano y verificación de muestras
+
+Muestre contacto del pasador y recorrido angular
+
+Pruebe movimiento e interferencias.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Conexión y articulación de pasadores.
 
 Dimensione el orificio del ojo contra el pasador de acoplamiento, el ligamento restante y la articulación disponible. Muestra la dirección de la carga y la interferencia cercana a través del movimiento. Una argolla de varillaje y un componente de elevación aprobado tienen requisitos de verificación diferentes; La forma de los ojos no establece una carga de trabajo.
@@ -3072,6 +3128,14 @@ Pernos de ojo y articulados a medida ↗ Espárragos de doble extremo a medida �
 
 Recubrimientos y riesgo por hidrógeno en tornillos de alta resistencia ↗ 304, 316 y 17-4PH: diferentes preguntas sobre tratamientos térmicos ↗ Armellas para varillaje y elevación: diferentes especificaciones necesarias ↗
 
+#### Plano y verificación de muestras
+
+Indique configuración de elevación aprobada y dirección de carga
+
+Verifique cualificación y trazabilidad antes de liberar.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Suelte sólo contra un diseño de elevación aprobado
 
 Proporcione las direcciones de carga permitidas, el encaje de la rosca en la pieza acoplada, la disposición de los asientos y los requisitos de verificación aplicables. Las condiciones de carga angular e instalación pertenecen a la revisión del diseño. No libere un anillo personalizado para su elevación basándose únicamente en la conformidad dimensional; el diseño aprobado y la verificación trazable acordada son esenciales.
@@ -3150,6 +3214,14 @@ Pernos de cabeza cuadrada a medida ↗ Espárragos de doble extremo a medida ↗
 #### Lectura técnica útil
 
 Cómo dimensionar un perno en U personalizado ↗ Ajustes del hombro, clases de rosca y cuándo rectificar ↗ Tornillos moleteados: especificación de agarre y ajuste ↗
+
+#### Plano y verificación de muestras
+
+Acote separación de patas, curva y asiento
+
+Pruebe ambas patas y el apoyo uniforme.
+
+Preparar la solicitud Planificación de la calidad
 
 #### Geometría interior y soportes de acoplamiento.
 
@@ -3232,6 +3304,14 @@ Maquinaria y equipo en general ↗
 
 Cómo especificar un tornillo a prueba de manipulaciones ↗ Ajuste del perno con ranura en T: qué medir antes de realizar el pedido ↗ Armellas para varillaje y elevación: diferentes especificaciones necesarias ↗
 
+#### Plano y verificación de muestras
+
+Acote ancho de cabeza, holgura de esquinas y profundidad
+
+Verifique asiento y antirrotación.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Acceso a herramientas o ubicación del cabezal capturado
 
 Decide si el cuadrado se acciona con una llave o se guarda en un bolsillo. El primero necesita espacio libre para herramientas; el segundo necesita ajuste de bolsillo, acceso de inserción y contacto antirrotación controlado. Indique la forma de la esquina y la transición debajo de la cabeza de modo que una dimensión transversal aparentemente correcta no oculte una interferencia.
@@ -3310,6 +3390,14 @@ Tornillos con brida a medida ↗ Pernos de cabeza cuadrada a medida ↗ Pernos p
 #### Lectura técnica útil
 
 Pernos de cuello cuadrado a medida: especificando el cuello cuadrado ↗ Diseño de la cara de apoyo de un tornillo con brida personalizado ↗ Cómo dimensionar un perno en U personalizado ↗
+
+#### Plano y verificación de muestras
+
+Indique ancho, altura y holgura del cuello cuadrado
+
+Verifique asiento y antirrotación en el panel acabado.
+
+Preparar la solicitud Planificación de la calidad
 
 #### Compromiso con cuello cuadrado
 
@@ -3604,6 +3692,14 @@ Equipos electrónicos y ópticos ↗
 
 Calibres de rosca y aceptación de tornillos personalizados ↗ Espárragos de doble extremo: prevención de errores de montaje con roscas mixtas ↗ Ajustes del hombro, clases de rosca y cuándo rectificar ↗
 
+#### Plano y verificación de muestras
+
+Defina paso, clase y longitud de perfil completo
+
+Calibre tras el acabado y compruebe asiento antes del fondo.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Paso, recorrido y bloqueo
 
 Relacione el paso con el ajuste previsto, teniendo en cuenta el ajuste de la rosca coincidente y el enganche disponible. El paso fino no establece por sí solo la precisión del posicionamiento ni la resistencia a las vibraciones. Indique la aceptación de la geometría de contacto, el recorrido, el bloqueo y la inspección de roscas como requisitos separados.
@@ -3703,6 +3799,14 @@ Control de fluidos y equipos neumáticos ↗
 
 Hilos enrollados o cortados: dudas a resolver en la RFQ ↗ Espárragos de doble extremo: prevención de errores de montaje con roscas mixtas ↗ Ajustes del hombro, clases de rosca y cuándo rectificar ↗
 
+#### Plano y verificación de muestras
+
+Facilite perfil asociado y base de medición
+
+Acuerde control de perfil y prueba funcional separados.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Definición completa del perfil
 
 Especifique el paso, la forma del flanco, los diámetros mayor y menor, la dirección y cualquier requisito de conicidad o avance. Una etiqueta como trapezoidal o contrafuerte no es un dibujo de ingeniería completo. Acuerde el componente de acoplamiento y el enfoque de calibre antes de la producción, especialmente cuando un calibre estándar no sea adecuado para el perfil personalizado.
@@ -3793,6 +3897,14 @@ Perfiles de rosca especiales y compuestos ↗ Tornillos con brida a medida ↗ T
 #### Lectura técnica útil
 
 Cómo especificar un tornillo a prueba de manipulaciones ↗ Ajuste del perno con ranura en T: qué medir antes de realizar el pedido ↗ Pernos de remachado personalizados: especifique el panel y el sujetador ↗
+
+#### Plano y verificación de muestras
+
+Defina agujero piloto, material y espacio de punta
+
+Pruebe montaje y límites de par acordados.
+
+Preparar la solicitud Planificación de la calidad
 
 #### Acción de la punta en el sustrato real.
 
@@ -3885,6 +3997,14 @@ Tornillos de hombro y escalón ↗ Espárragos de doble extremo a medida ↗ Tor
 
 Tornillos de mango reducido: por qué hay que prestar atención a las transiciones ↗ Tornillos de varios pasos: control de la cadena de dimensiones axiales ↗ Del prototipo a la producción: mantener alineadas las especificaciones del tornillo ↗
 
+#### Plano y verificación de muestras
+
+Acote diámetro mínimo y radios de transición
+
+Verifique geometría y acuerde ensayo de la sección reducida.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Transiciones y sección mínima
 
 Dimensione la sección reducida y ambas transiciones con respecto a las superficies funcionales. Explique si proporciona holgura, un comportamiento elástico particular o una característica de ensamblaje. Un vástago más pequeño cambia la trayectoria de la carga; La geometría por sí sola no puede fundamentar una afirmación de fatiga o reducción de tensiones sin la evaluación de diseño pertinente.
@@ -3965,6 +4085,14 @@ Control de fluidos y equipos neumáticos ↗
 #### Lectura técnica útil
 
 Tornillos cónicos: definición del asiento de acoplamiento ↗ Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco ↗ Pasadores de localización integrales: puntos de referencia de pasador y tornillo de coordinación ↗
+
+#### Plano y verificación de muestras
+
+Acote conicidad y diámetro en un plano definido
+
+Compruebe contacto y profundidad de asiento.
+
+Preparar la solicitud Planificación de la calidad
 
 #### Contacto cónico y posición de asiento.
 
@@ -4047,6 +4175,14 @@ Automatización Industrial ↗
 
 Pasadores de localización integrales: puntos de referencia de pasador y tornillo de coordinación ↗ Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco ↗ Tornillos cónicos: definición del asiento de acoplamiento ↗
 
+#### Plano y verificación de muestras
+
+Refiera posición del pasador al datum de montaje
+
+Verifique alineación e inserción.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Relación entre pasador, rosca y hombro.
 
 Muestre el diámetro, la proyección y la posición del pasador en relación con el punto de referencia de ubicación, no solo con el contorno general. Revise el recorrido de montaje para que el pasador pueda encajar antes de que el tornillo alcance su posición de asiento. La función de localización y la retención del rosca necesitan controles de aceptación independientes.
@@ -4125,6 +4261,14 @@ Espárragos de doble extremo a medida ↗ Tornillos de hombro y escalón ↗ Tor
 #### Lectura técnica útil
 
 Torneado en frío o CNC: elegir una ruta de tornillo personalizada ↗ Tornillos moleteados: especificación de agarre y ajuste ↗ Cono, plano, perro o copa: elegir una punta de tornillo prisionero ↗
+
+#### Plano y verificación de muestras
+
+Identifique ambos extremos y caras de apoyo
+
+Pruebe los extremos y verifique la cadena axial.
+
+Preparar la solicitud Planificación de la calidad
 
 #### Dos articulaciones que comparten un cuerpo de localización.
 
@@ -4207,6 +4351,14 @@ Control de fluidos y equipos neumáticos ↗
 
 Orificios cruzados en tornillos: planificación del control e inspección de rebabas ↗ Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización ↗ Tornillos moleteados: especificación de agarre y ajuste ↗
 
+#### Plano y verificación de muestras
+
+Ubique el taladro transversal desde eje y cara funcionales
+
+Revise intersección interna y paso o holgura del pasador.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Posición del agujero y bordes de intersección.
 
 Especifique el diámetro del orificio y su posición axial y angular a partir de un dato funcional. Explique si se necesita un pasador, un alambre de bloqueo o un conducto de flujo. Inspeccione la intersección y el estado del borde según sea necesario; una entrada de orificio externo no establece que la salida interna esté libre de rebabas dañinas.
@@ -4288,6 +4440,14 @@ Automatización Industrial ↗ Moldes, herramientas y accesorios de prueba ↗
 
 Tornillos de varios pasos: control de la cadena de dimensiones axiales ↗ Muestreo e inspección 100%: elegir la cobertura adecuada ↗ Torneado en frío o CNC: elegir una ruta de tornillo personalizada ↗
 
+#### Plano y verificación de muestras
+
+Acote escalones desde la cara de asiento
+
+Verifique diámetros y distancias axiales tras el acabado.
+
+Preparar la solicitud Planificación de la calidad
+
 #### Cadena de dimensiones y estrategia de referencia.
 
 Identifique qué paso ubica cada componente de acoplamiento. Considere la pila axial total y evite dejar la distancia de control como una acumulación involuntaria de dimensiones no relacionadas. Acordar los diámetros, descentramiento o relación coaxial realmente necesarios para el montaje y el estado en el que se aceptan.
@@ -4366,6 +4526,14 @@ Tornillos con brida a medida ↗ Tornillos con pasador de posicionamiento integr
 #### Lectura técnica útil
 
 Pernos de remachado personalizados: especifique el panel y el sujetador ↗ Ajuste del perno con ranura en T: qué medir antes de realizar el pedido ↗ Ajustes del hombro, clases de rosca y cuándo rectificar ↗
+
+#### Plano y verificación de muestras
+
+Indique material, espesor y agujero
+
+Pruebe la inserción y verifique expulsión y par de giro acordados.
+
+Preparar la solicitud Planificación de la calidad
 
 #### Compatibilidad del panel y aceptación de inserción.
 

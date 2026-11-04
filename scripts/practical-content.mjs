@@ -1,3 +1,4 @@
+import {productInterfaceHtml} from './product-interface-notes.mjs';
 // Buyer-facing engineering examples. They are neither released designs nor factory test records.
 export const practicalCopy={
  diagramNote:'Interface sketch — not to scale. Dimensions and acceptance follow the approved assembly drawing.',
@@ -154,6 +155,7 @@ export const companyPhoto=()=>`<figure class="quality-company-photo"><img src="/
 const card=(title,text)=>`<article><h3>${c(title)}</h3><p>${c(text)}</p></article>`;
 export function practicalSection(url){
  const kind=products[url.split('/')[2]];
+ if(url.startsWith('/products/')&&!kind)return productInterfaceHtml(url.split('/')[2]);
  if(url.startsWith('/products/')&&kind)return `<section class="section compact engineering-depth practical-section" id="practical-interface"><h2>${c(kind+'Title')}</h2><p>${c(kind+'Intro')}</p>${diagram(kind)}<ol class="practical-legend">${(kind==='set'?['One','Two','Three','Four']:['One','Two','Three']).map(n=>`<li>${c(kind+n)}</li>`).join('')}</ol><p>${c(kind+'Outcome')}</p>${readings[kind]?`<a class="text-link" href="${readings[kind]}">${c(kind+'Next')}<span aria-hidden="true"> ↗</span></a>`:''}</section>`;
  if(url==='/about/')return `<section class="section compact practical-section" id="sample-planning"><h2>${c('companyTitle')}</h2><p>${c('companyIntro')}</p><div class="practical-steps">${card('companyReviewTitle','companyReview')}${card('companySampleTitle','companySample')}${card('companyRepeatTitle','companyRepeat')}</div><a class="text-link" href="/blog/first-article-custom-screw-approval/">${c('companyNext')}<span aria-hidden="true"> ↗</span></a></section>`;
  if(url==='/quality/')return `<section class="section compact practical-section" id="release-checkpoints"><h2>${c('qualityTitle')}</h2><p>${c('qualityIntro')}</p><div class="practical-steps">${card('qualityOneTitle','qualityOne')}${card('qualityTwoTitle','qualityTwo')}${card('qualityThreeTitle','qualityThree')}</div><a class="text-link" href="/blog/custom-screw-inspection-plan/">${c('qualityNext')}<span aria-hidden="true"> ↗</span></a></section>`;

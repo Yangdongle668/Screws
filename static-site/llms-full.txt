@@ -1463,6 +1463,14 @@ Mixed threaded components and shoulder forms on a display table
 
 Threaded shanks, shoulders and tubular components photographed together
 
+#### Drawing and sample checks
+
+Specify the mating interface and final finish
+
+Trial the finished screw in the mating part.
+
+Prepare the RFQ Quality planning
+
 #### Start with the interface a standard screw cannot satisfy
 
 Use this route when the requirement combines features or does not fit a single product family. Identify the reason for customization: inaccessible drive, unusual bearing face, mixed threads, internal passage or several locating steps. Separate essential interfaces from dimensions that can be discussed during manufacturability review.
@@ -1822,6 +1830,14 @@ Are material and finish options pre-approved? No. Available options must be conf
 
 How is quality scope agreed? Define critical features and documentation needs during review. See our quality planning approach .
 
+#### Drawing and sample checks
+
+Dimension the head pocket and driver envelope
+
+Trial tool insertion and full seating.
+
+Prepare the RFQ Quality planning
+
 #### Define why the head needs to change
 
 A special head may solve tool access, a captured pocket, a low clearance envelope or a particular bearing face. Identify that function on the assembly drawing. A head shape selected only for appearance can miss the surface or clearance that actually controls installation.
@@ -1929,6 +1945,14 @@ Volume, material and functional features determine how the design is produced.
 
 Cold Heading + Secondary Machining ↗ Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ Multi-Station Cold Heading ↗ Coatings & Surface Treatments ↗ Cleaning, Locking & Assembly ↗
 
+#### Drawing and sample checks
+
+Identify whether the screw locates, clamps or allows passage
+
+Verify that function with the mating part.
+
+Prepare the RFQ Quality planning
+
 ### Special Heads & Functional Bolts
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/special-head-bolts/
 
@@ -1994,6 +2018,14 @@ Volume, material and functional features determine how the design is produced.
 
 Multi-Station Cold Heading ↗ Hot Heading & Forging ↗ Secondary & Precision Operations ↗ Swiss-Type & CNC Turning ↗ CCD Vision & Dimensional Inspection ↗ Material-Specific Heat Treatment ↗
 
+#### Drawing and sample checks
+
+Dimension the anti-rotation feature and bearing face
+
+Check seating and rotation during tightening.
+
+Prepare the RFQ Quality planning
+
 ### Special Threads & Shanks
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/special-thread-screws/
 
@@ -2041,6 +2073,14 @@ Volume, material and functional features determine how the design is produced.
 
 Thread Rolling, Cutting & Tapping ↗ Swiss-Type & CNC Turning ↗ CCD Vision & Dimensional Inspection ↗ Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗ Material-Specific Heat Treatment ↗
 
+#### Drawing and sample checks
+
+Specify profile, pitch and mating thread
+
+Verify the finished thread and usable engagement separately.
+
+Prepare the RFQ Quality planning
+
 ### Compound Structures
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/compound-structure-screws/
 
@@ -2087,6 +2127,14 @@ Retention geometry Panel condition
 Volume, material and functional features determine how the design is produced.
 
 Swiss-Type & CNC Turning ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗ Cold Heading + Secondary Machining ↗ Thread Rolling, Cutting & Tapping ↗ Cleaning, Locking & Assembly ↗
+
+#### Drawing and sample checks
+
+Reference the bore, step and thread to functional datums
+
+Check their relationship after finishing.
+
+Prepare the RFQ Quality planning
 
 ### Security & Tamper-Resistant Screws to Drawing
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/security-screws/
@@ -2993,6 +3041,14 @@ General Machinery & Equipment ↗
 
 Eye bolts for linkages and lifting: different specification needs ↗ Eccentric screw drawings: making the offset unambiguous ↗ Double-ended studs: preventing mixed-thread assembly errors ↗
 
+#### Drawing and sample checks
+
+Show the pin contact and articulation envelope
+
+Trial travel and interference in the mating joint.
+
+Prepare the RFQ Quality planning
+
 #### Pin connection and articulation
 
 Dimension the eye hole against the mating pin, the remaining ligament and the available articulation. Show load direction and nearby interference through the movement. A linkage eye and an approved lifting component have different verification requirements; eye shape does not establish a working load.
@@ -3072,6 +3128,14 @@ Custom Eye & Articulating Bolts ↗ Custom Double-Ended Studs ↗ Custom Square 
 
 High-strength screw coatings and hydrogen-risk review ↗ 304, 316 and 17-4PH: different heat-treatment questions ↗ Eye bolts for linkages and lifting: different specification needs ↗
 
+#### Drawing and sample checks
+
+Identify the approved lifting configuration and load direction
+
+Verify the required qualification and traceability before release.
+
+Prepare the RFQ Quality planning
+
 #### Release only against an approved lifting design
 
 Provide the permitted load directions, thread engagement, seating arrangement and applicable verification requirements. Angular loading and installation conditions belong in the design review. Do not release a custom ring for lifting on the basis of dimensional conformity alone; the approved design and agreed traceable verification are essential.
@@ -3150,6 +3214,14 @@ Custom Square Head Bolts ↗ Custom Double-Ended Studs ↗ Custom Flange Screws 
 #### Useful technical reading
 
 How to dimension a custom U-bolt ↗ Shoulder fits, thread classes and when grinding matters ↗ Knurled thumb screws: specifying grip and adjustment ↗
+
+#### Drawing and sample checks
+
+Dimension leg spacing, bend and saddle together
+
+Trial both legs and confirm even seating.
+
+Prepare the RFQ Quality planning
 
 #### Inside geometry and mating supports
 
@@ -3232,6 +3304,14 @@ General Machinery & Equipment ↗
 
 How to specify a tamper-resistant screw drive ↗ T-slot bolt fit: what to measure before ordering ↗ Eye bolts for linkages and lifting: different specification needs ↗
 
+#### Drawing and sample checks
+
+Dimension head width, corner clearance and pocket depth
+
+Verify seating and anti-rotation in the actual pocket.
+
+Prepare the RFQ Quality planning
+
 #### Tool access or captured-head location
 
 Decide whether the square is driven by a wrench or restrained in a pocket. The first needs tool clearance; the second needs pocket fit, insertion access and controlled anti-rotation contact. State the corner form and under-head transition so an apparently correct across-flat dimension does not hide an interference.
@@ -3310,6 +3390,14 @@ Custom Flange Screws ↗ Custom Square Head Bolts ↗ Custom T-Slot Bolts ↗
 #### Useful technical reading
 
 Custom carriage bolts: specifying the square neck ↗ Designing the bearing face of a custom flange screw ↗ How to dimension a custom U-bolt ↗
+
+#### Drawing and sample checks
+
+Specify square neck width, height and corner clearance
+
+Check head seating and anti-rotation in the finished panel.
+
+Prepare the RFQ Quality planning
 
 #### Square-neck engagement
 
@@ -3604,6 +3692,14 @@ Electronics & Optical Equipment ↗
 
 Thread gauges and custom screw acceptance ↗ Double-ended studs: preventing mixed-thread assembly errors ↗ Shoulder fits, thread classes and when grinding matters ↗
 
+#### Drawing and sample checks
+
+Define pitch, thread class and full-form length
+
+Gauge after finishing and verify seating before bottoming.
+
+Prepare the RFQ Quality planning
+
 #### Pitch, travel and locking
 
 Relate pitch to the intended adjustment, while considering the mating thread fit and available engagement. Fine pitch does not by itself establish positioning accuracy or vibration resistance. State contact geometry, travel, locking and thread acceptance as separate requirements.
@@ -3703,6 +3799,14 @@ Fluid Control & Pneumatic Equipment ↗
 
 Rolled or cut threads: questions to resolve in the RFQ ↗ Double-ended studs: preventing mixed-thread assembly errors ↗ Shoulder fits, thread classes and when grinding matters ↗
 
+#### Drawing and sample checks
+
+Provide the mating profile and measurement basis
+
+Agree a profile check and a separate functional trial.
+
+Prepare the RFQ Quality planning
+
 #### Complete profile definition
 
 Specify pitch, flank form, major and minor diameters, handedness and any taper or lead requirement. A label such as trapezoidal or buttress is not a complete drawing. Agree the mating component and gauging approach before production, especially where a standard gauge is not suitable for the custom profile.
@@ -3793,6 +3897,14 @@ Special & Compound Thread Profiles ↗ Custom Flange Screws ↗ Security & Tampe
 #### Useful technical reading
 
 How to specify a tamper-resistant screw drive ↗ T-slot bolt fit: what to measure before ordering ↗ Custom clinch studs: specify the panel as well as the fastener ↗
+
+#### Drawing and sample checks
+
+Specify pilot hole, mating material and tip clearance
+
+Trial installation in representative material and check the agreed torque limits.
+
+Prepare the RFQ Quality planning
 
 #### Tip action in the real substrate
 
@@ -3885,6 +3997,14 @@ Shoulder & Step Screws ↗ Custom Double-Ended Studs ↗ Multi-Step & Multi-Shou
 
 Reduced-shank screws: why transitions need attention ↗ Multi-step screws: controlling the axial dimension chain ↗ From prototype to production: keeping the screw specification aligned ↗
 
+#### Drawing and sample checks
+
+Dimension the minimum neck diameter and transition radii
+
+Verify final geometry and agree mechanical verification for the reduced section.
+
+Prepare the RFQ Quality planning
+
 #### Transitions and minimum section
 
 Dimension the reduced section and both transitions relative to the functional surfaces. Explain whether it provides clearance, a particular elastic behavior or an assembly feature. A smaller shank changes the load path; geometry alone cannot substantiate a fatigue or stress-reduction claim without the relevant design assessment.
@@ -3965,6 +4085,14 @@ Fluid Control & Pneumatic Equipment ↗
 #### Useful technical reading
 
 Tapered screws: defining the mating seat ↗ Eccentric screw drawings: making the offset unambiguous ↗ Integral locating pins: coordinating pin and screw datums ↗
+
+#### Drawing and sample checks
+
+Dimension the taper and reference diameter at a defined plane
+
+Check contact and seated depth in the matching seat.
+
+Prepare the RFQ Quality planning
 
 #### Taper contact and seating position
 
@@ -4047,6 +4175,14 @@ Industrial Automation ↗
 
 Integral locating pins: coordinating pin and screw datums ↗ Eccentric screw drawings: making the offset unambiguous ↗ Tapered screws: defining the mating seat ↗
 
+#### Drawing and sample checks
+
+Reference pin position to the mounting datum
+
+Verify alignment and insertion with the locating hole.
+
+Prepare the RFQ Quality planning
+
 #### Relationship of pin to thread and shoulder
 
 Show pin diameter, projection and position relative to the locating datum, not only to the overall outline. Review the assembly path so the pin can engage before the screw reaches its seated condition. The locating function and thread retention need independent acceptance checks.
@@ -4125,6 +4261,14 @@ Custom Double-Ended Studs ↗ Shoulder & Step Screws ↗ Multi-Step & Multi-Shou
 #### Useful technical reading
 
 Cold heading or CNC turning: choosing a custom screw route ↗ Knurled thumb screws: specifying grip and adjustment ↗ Cone, flat, dog or cup: choosing a set-screw tip ↗
+
+#### Drawing and sample checks
+
+Identify both thread ends and the shoulder seating faces
+
+Trial each end and verify the assembled axial stack.
+
+Prepare the RFQ Quality planning
 
 #### Two joints sharing one locating body
 
@@ -4207,6 +4351,14 @@ Fluid Control & Pneumatic Equipment ↗
 
 Cross holes in screws: planning burr control and inspection ↗ Hollow screw bores: the details an RFQ should include ↗ Knurled thumb screws: specifying grip and adjustment ↗
 
+#### Drawing and sample checks
+
+Locate the cross-hole from the functional axis and face
+
+Check the internal intersection and pin or passage clearance.
+
+Prepare the RFQ Quality planning
+
 #### Hole position and intersecting edges
 
 Specify hole diameter and its axial and angular position from a functional datum. Explain whether it takes a pin, locking wire or a flow passage. Inspect the intersection and edge condition as required; an external hole entrance does not establish that the internal exit is free of a harmful burr.
@@ -4288,6 +4440,14 @@ Industrial Automation ↗ Molds, Tooling & Test Fixtures ↗
 
 Multi-step screws: controlling the axial dimension chain ↗ Sampling and 100% inspection: choosing the right coverage ↗ Cold heading or CNC turning: choosing a custom screw route ↗
 
+#### Drawing and sample checks
+
+Dimension the locating steps from the seating face
+
+Check diameters and axial distances after finishing.
+
+Prepare the RFQ Quality planning
+
 #### Dimension chain and datum strategy
 
 Identify which step locates each mating component. Consider the total axial stack and avoid leaving the controlling distance as an unintended accumulation of unrelated dimensions. Agree the diameters, runout or coaxial relationship actually needed for the assembly and the condition in which they are accepted.
@@ -4366,6 +4526,14 @@ Custom Flange Screws ↗ Screws with Integral Locating Pins ↗ Special Head Scr
 #### Useful technical reading
 
 Custom clinch studs: specify the panel as well as the fastener ↗ T-slot bolt fit: what to measure before ordering ↗ Shoulder fits, thread classes and when grinding matters ↗
+
+#### Drawing and sample checks
+
+Specify panel material, thickness and prepared hole
+
+Trial installation and verify push-out and torque-out as agreed.
+
+Prepare the RFQ Quality planning
 
 #### Panel compatibility and insertion acceptance
 

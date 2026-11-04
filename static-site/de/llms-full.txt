@@ -1463,6 +1463,14 @@ Gemischte Gewindeteile und Schulterformen auf einem Ausstellungstisch
 
 Gewindeschäfte, Schultern und Rohrkomponenten zusammen fotografiert
 
+#### Zeichnung und Musterprüfung
+
+Gegenstück und Endoberfläche festlegen
+
+Fertigteil im Gegenstück erproben.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Beginnen Sie mit der Schnittstelle, die eine Standardschraube nicht erfüllen kann
 
 Verwenden Sie diesen Weg, wenn die Anforderung Funktionen kombiniert oder nicht zu einer einzelnen Produktfamilie passt. Identifizieren Sie den Grund für die Anpassung: unzugänglicher Antrieb, ungewöhnliche Lagerfläche, gemischte Gewinde, interner Durchgang oder mehrere Positionierungsstufen. Trennen Sie wesentliche Schnittstellen von Dimensionen, die bei der Herstellbarkeitsprüfung besprochen werden können.
@@ -1822,6 +1830,14 @@ Sind Material- und Oberflächenoptionen vorab genehmigt? Nein. Die verfügbaren 
 
 Wie wird der Qualitätsumfang vereinbart? Definieren Sie während der Überprüfung kritische Funktionen und Dokumentationsanforderungen. Sehen Sie sich unsere an Qualitätsplanungsansatz .
 
+#### Zeichnung und Musterprüfung
+
+Kopftasche und Werkzeugraum bemaßen
+
+Werkzeugeingriff und Kopfauflage erproben.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Definieren Sie, warum der Kopf verändert werden muss
 
 Ein spezieller Kopf kann den Werkzeugzugang, eine erfasste Tasche, einen Umschlag mit geringem Spiel oder eine bestimmte Lagerfläche lösen. Identifizieren Sie diese Funktion in der Montagezeichnung. Eine Kopfform, die nur aus optischen Gründen ausgewählt wird, kann die Oberfläche oder den Freiraum verfehlen, der tatsächlich die Installation steuert.
@@ -1929,6 +1945,14 @@ Volumen, Material und funktionale Merkmale bestimmen, wie das Design entsteht.
 
 Kaltstauchen mit anschließender Zerspanung ↗ Langdrehen und CNC-Drehen ↗ Sekundär- und Präzisionsbearbeitung ↗ Mehrstufen-Kaltstauchen ↗ Beschichtungen und Oberflächenbehandlungen ↗ Reinigung, Schraubensicherung und Vormontage ↗
 
+#### Zeichnung und Musterprüfung
+
+Positionierung, Klemmung oder Durchgang festlegen
+
+Funktion am Gegenstück prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 ### Spezialköpfe und Funktionsbolzen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/products/special-head-bolts/
 
@@ -1994,6 +2018,14 @@ Volumen, Material und funktionale Merkmale bestimmen, wie das Design entsteht.
 
 Mehrstufen-Kaltstauchen ↗ Warmstauchen und Warmumformen ↗ Sekundär- und Präzisionsbearbeitung ↗ Langdrehen und CNC-Drehen ↗ CCD-Bildverarbeitung und Maßprüfung ↗ Werkstoffspezifische Wärmebehandlung ↗
 
+#### Zeichnung und Musterprüfung
+
+Verdrehsicherung und Auflage bemaßen
+
+Sitz und Drehung beim Anziehen prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 ### Spezialgewinde und -schäfte
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/products/special-thread-screws/
 
@@ -2041,6 +2073,14 @@ Volumen, Material und funktionale Merkmale bestimmen, wie das Design entsteht.
 
 Gewinderollen, Schneiden und Gewindeschneiden ↗ Langdrehen und CNC-Drehen ↗ CCD-Bildverarbeitung und Maßprüfung ↗ Mehrstufen-Kaltstauchen ↗ Sekundär- und Präzisionsbearbeitung ↗ Werkstoffspezifische Wärmebehandlung ↗
 
+#### Zeichnung und Musterprüfung
+
+Profil, Steigung und Gegengewinde angeben
+
+Fertiggewinde und nutzbaren Eingriff getrennt prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 ### Zusammengesetzte Strukturen
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/products/compound-structure-screws/
 
@@ -2087,6 +2127,14 @@ Retentionsgeometrie Zustand des Panels
 Volumen, Material und funktionale Merkmale bestimmen, wie das Design entsteht.
 
 Langdrehen und CNC-Drehen ↗ Sekundär- und Präzisionsbearbeitung ↗ CCD-Bildverarbeitung und Maßprüfung ↗ Kaltstauchen mit anschließender Zerspanung ↗ Gewinderollen, Schneiden und Gewindeschneiden ↗ Reinigung, Schraubensicherung und Vormontage ↗
+
+#### Zeichnung und Musterprüfung
+
+Bohrung, Absatz und Gewinde auf Funktionsbezüge beziehen
+
+Lagebeziehung nach der Endbearbeitung prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
 
 ### Sicherheits- und manipulationssichere Schrauben gemäß technischer Zeichnung
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/products/security-screws/
@@ -2993,6 +3041,14 @@ Allgemeine Maschinen und Geräte ↗
 
 Ringschrauben für Gestänge und Hebevorrichtungen: unterschiedliche Spezifikationsanforderungen ↗ Zeichnungen von Exzenterschrauben: Den Versatz eindeutig machen ↗ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗
 
+#### Zeichnung und Musterprüfung
+
+Bolzenkontakt und Schwenkraum darstellen
+
+Bewegung und Kollision am Gelenk prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Stiftverbindung und Artikulation
 
 Bemaßen Sie das Augenloch anhand des passenden Stifts, des verbleibenden Bandes und der verfügbaren Artikulation. Zeigen Sie die Lastrichtung und die in der Nähe befindlichen Störungen durch die Bewegung an. Für eine Verbindungsöse und eine zugelassene Hebekomponente gelten unterschiedliche Überprüfungsanforderungen. Die Augenform stellt keine Arbeitsbelastung dar.
@@ -3072,6 +3128,14 @@ Augen- und Gelenkschrauben nach Zeichnung ↗ Kundenspezifische doppelseitige Bo
 
 Beschichtungen hochfester Schrauben und Wasserstoffrisiko ↗ 304, 316 und 17-4PH: unterschiedliche Fragen zur Wärmebehandlung ↗ Ringschrauben für Gestänge und Hebevorrichtungen: unterschiedliche Spezifikationsanforderungen ↗
 
+#### Zeichnung und Musterprüfung
+
+Freigegebene Hebeanordnung und Lastrichtung angeben
+
+Qualifikation und Rückverfolgbarkeit vor Freigabe prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Lösen Sie nur gegen eine zugelassene Hebekonstruktion
 
 Geben Sie die zulässigen Belastungsrichtungen, den Gewindeeingriff im Gegenstück, die Sitzanordnung und die geltenden Überprüfungsanforderungen an. Winkelbelastungen und Einbaubedingungen gehören in die Designprüfung. Geben Sie einen kundenspezifischen Ring nicht allein aufgrund der Maßhaltigkeit zum Heben frei; Wesentlich sind das genehmigte Design und die vereinbarte rückverfolgbare Verifizierung.
@@ -3150,6 +3214,14 @@ Vierkantschrauben nach Zeichnung ↗ Kundenspezifische doppelseitige Bolzen ↗ 
 #### Nützliche technische Lektüre
 
 So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗
+
+#### Zeichnung und Musterprüfung
+
+Schenkelabstand, Bogen und Sattel gemeinsam bemaßen
+
+Beide Schenkel und gleichmäßige Auflage prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
 
 #### Innengeometrie und passende Stützen
 
@@ -3232,6 +3304,14 @@ Allgemeine Maschinen und Geräte ↗
 
 So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ Ringschrauben für Gestänge und Hebevorrichtungen: unterschiedliche Spezifikationsanforderungen ↗
 
+#### Zeichnung und Musterprüfung
+
+Kopfbreite, Eckfreiraum und Taschentiefe bemaßen
+
+Sitz und Verdrehsicherung in der Tasche prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Werkzeugzugang oder Standort des erfassten Kopfes
 
 Entscheiden Sie, ob der Vierkant mit einem Schraubenschlüssel angetrieben oder in einer Tasche gehalten wird. Der erste benötigt Werkzeugfreiraum; Der zweite benötigt eine passgenaue Passform, Zugang zum Einführen und einen kontrollierten Anti-Rotations-Kontakt. Geben Sie die Eckform und den Unterkopfübergang an, damit ein scheinbar korrektes Quermaß keine Überschneidung verbirgt.
@@ -3310,6 +3390,14 @@ Flanschschrauben nach Zeichnung ↗ Vierkantschrauben nach Zeichnung ↗ T-Nuten
 #### Nützliche technische Lektüre
 
 Flachrundschrauben mit Vierkantansatz nach Zeichnung: Angabe des Vierkanthalses ↗ Gestaltung der Auflagefläche einer kundenspezifischen Flanschschraube ↗ So dimensionieren Sie einen kundenspezifischen U-Bolzen ↗
+
+#### Zeichnung und Musterprüfung
+
+Vierkantbreite, Höhe und Eckfreiraum angeben
+
+Kopfauflage und Verdrehsicherung am Fertigblech prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
 
 #### Quadratischer Halsausschnitt
 
@@ -3604,6 +3692,14 @@ Elektronische und optische Ausrüstung ↗
 
 Gewindelehren und individuelle Schraubenaufnahme ↗ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
+#### Zeichnung und Musterprüfung
+
+Steigung, Toleranzklasse und Vollgewindelänge festlegen
+
+Nach Beschichtung lehren und Anlage vor Grundkontakt prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Pitch, Hub und Verriegelung
 
 Beziehen Sie die Steigung auf die beabsichtigte Einstellung und berücksichtigen Sie dabei die Passung des Gegengewindes und den verfügbaren Eingriff. Eine Feinteilung alleine bestimmt nicht die Positionierungsgenauigkeit oder Vibrationsfestigkeit. Geben Sie Kontaktgeometrie, Hub, Verriegelung und Abnahme der Gewindeprüfung als separate Anforderungen an.
@@ -3703,6 +3799,14 @@ Flüssigkeitssteuerung und pneumatische Ausrüstung ↗
 
 Gerollte oder geschnittene Gewinde: Fragen, die in der Ausschreibung geklärt werden müssen ↗ Doppelte Bolzen: Vermeidung von Montagefehlern mit gemischten Gewinden ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
 
+#### Zeichnung und Musterprüfung
+
+Gegenprofil und Messgrundlage liefern
+
+Profilprüfung und Funktionsversuch getrennt vereinbaren.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Vollständige Profildefinition
 
 Geben Sie Steigung, Flankenform, Haupt- und Nebendurchmesser, Händigkeit und eventuelle Konizitäts- oder Steigungsanforderungen an. Eine Beschriftung wie „Trapez“ oder „Stützpfeiler“ ist keine vollständige Konstruktionszeichnung. Vereinbaren Sie vor der Produktion die passende Komponente und den Messansatz, insbesondere wenn eine Standardlehre nicht für das kundenspezifische Profil geeignet ist.
@@ -3793,6 +3897,14 @@ Spezielle und zusammengesetzte Gewindeprofile ↗ Flanschschrauben nach Zeichnun
 #### Nützliche technische Lektüre
 
 So spezifizieren Sie einen manipulationssicheren Schraubenantrieb ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ Kundenspezifische Einpressbolzen: Geben Sie sowohl das Paneel als auch das Befestigungselement an ↗
+
+#### Zeichnung und Musterprüfung
+
+Kernloch, Gegenwerkstoff und Spitzenfreiraum angeben
+
+Einschrauben im Musterwerkstoff und vereinbarte Drehmomentgrenzen prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
 
 #### Spitzenwirkung im realen Untergrund
 
@@ -3885,6 +3997,14 @@ Schulter- und Stufenschrauben ↗ Kundenspezifische doppelseitige Bolzen ↗ Mul
 
 Schrauben mit reduziertem Schaft: Warum Übergänge Aufmerksamkeit erfordern ↗ Mehrstufige Schrauben: Kontrolle der Axialmaßkette ↗ Vom Prototyp bis zur Produktion: Einhaltung der Schraubenspezifikation ↗
 
+#### Zeichnung und Musterprüfung
+
+Mindestdurchmesser und Übergangsradien bemaßen
+
+Endgeometrie prüfen und mechanischen Nachweis für den reduzierten Querschnitt vereinbaren.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Übergänge und Mindestabschnitt
 
 Bemaßen Sie den reduzierten Abschnitt und beide Übergänge relativ zu den Funktionsflächen. Erklären Sie, ob es Spiel, ein besonderes elastisches Verhalten oder eine Montagefunktion bietet. Ein kleinerer Schaft verändert den Lastpfad; Die Geometrie allein kann ohne die entsprechende Designbewertung keinen Anspruch auf Ermüdungs- oder Spannungsreduzierung begründen.
@@ -3965,6 +4085,14 @@ Flüssigkeitssteuerung und pneumatische Ausrüstung ↗
 #### Nützliche technische Lektüre
 
 Konische Schrauben: Definition des passenden Sitzes ↗ Zeichnungen von Exzenterschrauben: Den Versatz eindeutig machen ↗ Integrierte Fixierstifte: Koordinierende Stift- und Schraubenbezugspunkte ↗
+
+#### Zeichnung und Musterprüfung
+
+Kegel und Bezugsdurchmesser an definierter Ebene bemaßen
+
+Kontakt und Sitztiefe im Gegenkegel prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
 
 #### Kegelkontakt und Sitzposition
 
@@ -4047,6 +4175,14 @@ Industrielle Automatisierung ↗
 
 Integrierte Fixierstifte: Koordinierende Stift- und Schraubenbezugspunkte ↗ Zeichnungen von Exzenterschrauben: Den Versatz eindeutig machen ↗ Konische Schrauben: Definition des passenden Sitzes ↗
 
+#### Zeichnung und Musterprüfung
+
+Stiftlage auf Montagebezug beziehen
+
+Ausrichtung und Einführen in die Passbohrung prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Verhältnis von Stift zu Gewinde und Schulter
 
 Zeigen Sie Stiftdurchmesser, Vorsprung und Position relativ zum Positionierungsbezugspunkt an, nicht nur zum Gesamtumriss. Überprüfen Sie den Montagepfad, damit der Stift einrasten kann, bevor die Schraube ihren festen Sitz erreicht. Die Ortungsfunktion und die Gewindehaltung bedürfen einer unabhängigen Abnahmeprüfung.
@@ -4125,6 +4261,14 @@ Kundenspezifische doppelseitige Bolzen ↗ Schulter- und Stufenschrauben ↗ Mul
 #### Nützliche technische Lektüre
 
 Kaltstauchen oder CNC-Drehen: Auswahl einer benutzerdefinierten Schraubenroute ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗ Kegelförmig, flach, hundeförmig oder becherförmig: Wählen Sie eine Spitze mit Stellschraube ↗
+
+#### Zeichnung und Musterprüfung
+
+Beide Gewindeenden und Schulterauflagen kennzeichnen
+
+Beide Enden und axiale Maßkette prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
 
 #### Zwei Gelenke teilen sich einen Positionierungskörper
 
@@ -4207,6 +4351,14 @@ Flüssigkeitssteuerung und pneumatische Ausrüstung ↗
 
 Querlöcher in Schrauben: Gratkontrolle und Inspektion planen ↗ Hohlschraubenbohrungen: Die Details, die eine Ausschreibung enthalten sollte ↗ Rändelschrauben: Griffigkeit und Einstellung festlegen ↗
 
+#### Zeichnung und Musterprüfung
+
+Querbohrung von Funktionsachse und Fläche bemaßen
+
+Innenkante und Stift- oder Durchgangsfreiraum prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Lochposition und Schnittkanten
 
 Geben Sie den Lochdurchmesser sowie seine axiale und Winkelposition anhand eines funktionalen Bezugspunkts an. Erklären Sie, ob es sich um einen Stift, einen Sicherungsdraht oder einen Strömungskanal handelt. Überprüfen Sie nach Bedarf den Kreuzungs- und Kantenzustand; Ein äußerer Locheingang stellt nicht sicher, dass der innere Ausgang frei von schädlichen Graten ist.
@@ -4288,6 +4440,14 @@ Industrielle Automatisierung ↗ Formen, Werkzeuge und Prüfvorrichtungen ↗
 
 Mehrstufige Schrauben: Kontrolle der Axialmaßkette ↗ Probenahme und 100%-Inspektion: Auswahl der richtigen Abdeckung ↗ Kaltstauchen oder CNC-Drehen: Auswahl einer benutzerdefinierten Schraubenroute ↗
 
+#### Zeichnung und Musterprüfung
+
+Passabsätze von der Auflage aus bemaßen
+
+Durchmesser und axiale Abstände im Endzustand prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
+
 #### Maßketten- und Bezugsstrategie
 
 Identifizieren Sie, welcher Schritt die einzelnen passenden Komponenten lokalisiert. Berücksichtigen Sie den gesamten axialen Stapel und vermeiden Sie, dass der Kontrollabstand eine unbeabsichtigte Anhäufung unabhängiger Dimensionen darstellt. Vereinbaren Sie die für die Baugruppe tatsächlich benötigten Durchmesser, Rundlaufabweichungen oder Koaxialbeziehungen sowie den Zustand, in dem sie akzeptiert werden.
@@ -4366,6 +4526,14 @@ Flanschschrauben nach Zeichnung ↗ Schrauben mit integriertem Positionierstift 
 #### Nützliche technische Lektüre
 
 Kundenspezifische Einpressbolzen: Geben Sie sowohl das Paneel als auch das Befestigungselement an ↗ Passform der T-Nut-Schraube: Was vor der Bestellung gemessen werden muss ↗ Schulterpassungen, Gewindetoleranzen und wann Schleifen sinnvoll ist ↗
+
+#### Zeichnung und Musterprüfung
+
+Blechwerkstoff, Dicke und Vorloch angeben
+
+Einpressen erproben und Ausdrückkraft sowie Verdrehmoment wie vereinbart prüfen.
+
+Anfrage vorbereiten Qualitätsplanung
 
 #### Panelkompatibilität und Einsteckakzeptanz
 

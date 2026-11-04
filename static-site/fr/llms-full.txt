@@ -1463,6 +1463,14 @@ Composants filetés mixtes et formes d'épaule sur une table d'affichage
 
 Tiges filetées, épaulements et composants tubulaires photographiés ensemble
 
+#### Plan et contrôle des échantillons
+
+Définir interface et finition
+
+Essayer la vis finie dans la pièce associée.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Commencez par l'interface qu'une vis standard ne peut pas satisfaire
 
 Utilisez cette voie lorsque l’exigence combine des fonctionnalités ou ne correspond pas à une seule famille de produits. Identifiez la raison de la personnalisation : entraînement inaccessible, face d'appui inhabituelle, filetages mixtes, passage interne ou plusieurs étapes de repérage. Séparez les interfaces essentielles des dimensions qui peuvent être discutées lors de l’examen de fabricabilité.
@@ -1822,6 +1830,14 @@ Les options de matériaux et de finition sont-elles pré-approuvées ? Non. Les 
 
 Comment le périmètre de qualité est-il convenu ? Définir les fonctionnalités critiques et les besoins en documentation lors de l’examen. Voir notre approche de planification de la qualité .
 
+#### Plan et contrôle des échantillons
+
+Coter logement de tête et accès outil
+
+Vérifier engagement et appui.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Définir pourquoi la tête doit changer
 
 Une tête spéciale peut résoudre l'accès à l'outil, une poche capturée, une enveloppe à faible jeu ou une face d'appui particulière. Identifiez cette fonction sur le dessin technique d’assemblage. Une forme de tête sélectionnée uniquement pour son apparence peut manquer la surface ou l'espace qui contrôle réellement l'installation.
@@ -1929,6 +1945,14 @@ Les caractéristiques de volume, de matériaux et de fonctionnalité déterminen
 
 Frappe à froid et usinage secondaire ↗ Type Suisse & CNC Tournage ↗ Opérations secondaires et de précision ↗ Frappe à froid multiposte ↗ Revêtements et traitements de surface ↗ Nettoyage, freinage et préassemblage ↗
 
+#### Plan et contrôle des échantillons
+
+Identifier centrage, serrage ou passage
+
+Vérifier la fonction avec la pièce associée.
+
+Préparer la demande de prix Planification de la qualité
+
 ### Têtes spéciales et boulons fonctionnels
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/special-head-bolts/
 
@@ -1994,6 +2018,14 @@ Les caractéristiques de volume, de matériaux et de fonctionnalité déterminen
 
 Frappe à froid multiposte ↗ Captage à chaud et forgeage ↗ Opérations secondaires et de précision ↗ Type Suisse & CNC Tournage ↗ Contrôle dimensionnel et vision CCD ↗ Traitement thermique adapté au matériau ↗
 
+#### Plan et contrôle des échantillons
+
+Coter antirotation et appui
+
+Contrôler appui et rotation au serrage.
+
+Préparer la demande de prix Planification de la qualité
+
 ### Fils et tiges spéciaux
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/special-thread-screws/
 
@@ -2041,6 +2073,14 @@ Les caractéristiques de volume, de matériaux et de fonctionnalité déterminen
 
 Filetage, coupe et taraudage ↗ Type Suisse & CNC Tournage ↗ Contrôle dimensionnel et vision CCD ↗ Frappe à froid multiposte ↗ Opérations secondaires et de précision ↗ Traitement thermique adapté au matériau ↗
 
+#### Plan et contrôle des échantillons
+
+Spécifier profil, pas et taraudage associé
+
+Vérifier séparément filetage fini et engagement utile.
+
+Préparer la demande de prix Planification de la qualité
+
 ### Structures composées
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/compound-structure-screws/
 
@@ -2087,6 +2127,14 @@ Géométrie de rétention État du panneau
 Les caractéristiques de volume, de matériaux et de fonctionnalité déterminent la manière dont le design est réalisé.
 
 Type Suisse & CNC Tournage ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗ Frappe à froid et usinage secondaire ↗ Filetage, coupe et taraudage ↗ Nettoyage, freinage et préassemblage ↗
+
+#### Plan et contrôle des échantillons
+
+Relier trou, ressaut et filetage aux références fonctionnelles
+
+Contrôler leur relation après finition.
+
+Préparer la demande de prix Planification de la qualité
 
 ### Vis de sécurité et inviolables selon le dessin technique
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/security-screws/
@@ -2993,6 +3041,14 @@ Machines et équipements généraux ↗
 
 Boulons à œil pour liaisons et levage : différents besoins en matière de spécifications ↗ Dessins de vis excentriques : rendre le décalage sans ambiguïté ↗ Goujons à double extrémité : éviter les erreurs d'assemblage avec filetage mixte ↗
 
+#### Plan et contrôle des échantillons
+
+Montrer contact de l’axe et débattement
+
+Vérifier mouvement et interférences.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Connexion et articulation des broches
 
 Dimensionnez le trou pour l’œil par rapport à la broche d’accouplement, au ligament restant et à l’articulation disponible. Afficher la direction de la charge et les interférences à proximité lors du mouvement. Un œillet de liaison et un composant de levage approuvé ont des exigences de vérification différentes ; la forme des yeux n’établit pas de charge de travail.
@@ -3072,6 +3128,14 @@ Boulons à œil et articulés sur mesure ↗ Goujons à double extrémité sur m
 
 Revêtements et risque lié à l’hydrogène des vis à haute résistance ↗ 304, 316 et 17-4PH : différentes questions sur le traitement thermique ↗ Boulons à œil pour liaisons et levage : différents besoins en matière de spécifications ↗
 
+#### Plan et contrôle des échantillons
+
+Indiquer configuration de levage approuvée et direction de charge
+
+Vérifier qualification et traçabilité avant libération.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Libération uniquement contre une conception de levage approuvée
 
 Fournir les directions de charge autorisées, l'engagement du filetage dans la pièce d'accouplement, la disposition des sièges et les exigences de vérification applicables. Les conditions de chargement angulaire et d'installation font partie de la revue de conception. Ne libérez pas un anneau personnalisé pour le levage sur la seule base de la conformité dimensionnelle ; la conception approuvée et la vérification traçable convenue sont essentielles.
@@ -3150,6 +3214,14 @@ Boulons à tête carrée sur mesure ↗ Goujons à double extrémité sur mesure
 #### Lecture technique utile
 
 Comment dimensionner un boulon en U personnalisé ↗ Ajustements d’épaulement, classes de filetage et choix de la rectification ↗ Vis moletées : spécification de la poignée et du réglage ↗
+
+#### Plan et contrôle des échantillons
+
+Coter entraxe des branches, courbe et selle
+
+Essayer les deux branches et vérifier l’appui uniforme.
+
+Préparer la demande de prix Planification de la qualité
 
 #### Géométrie intérieure et supports d'accouplement
 
@@ -3232,6 +3304,14 @@ Machines et équipements généraux ↗
 
 Comment spécifier un entraînement à vis inviolable ↗ Ajustement des boulons à rainure en T : que mesurer avant de commander ↗ Boulons à œil pour liaisons et levage : différents besoins en matière de spécifications ↗
 
+#### Plan et contrôle des échantillons
+
+Coter largeur de tête, jeu aux angles et profondeur
+
+Vérifier appui et antirotation dans le logement.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Accès à l'outil ou emplacement de la tête capturée
 
 Décidez si le carré est entraîné par une clé ou retenu dans une poche. Le premier nécessite un dégagement d’outil ; le second nécessite un ajustement de poche, un accès à l'insertion et un contact anti-rotation contrôlé. Indiquez la forme du coin et la transition sous la tête afin qu'une dimension transversale apparemment correcte ne cache pas une interférence.
@@ -3310,6 +3390,14 @@ Vis à embase sur mesure ↗ Boulons à tête carrée sur mesure ↗ Boulons pou
 #### Lecture technique utile
 
 Boulons de carrosserie sur mesure : spécification du col carré ↗ Conception de la face d'appui d'une vis à bride personnalisée ↗ Comment dimensionner un boulon en U personnalisé ↗
+
+#### Plan et contrôle des échantillons
+
+Spécifier largeur, hauteur et jeu du carré
+
+Vérifier appui et antirotation dans le panneau fini.
+
+Préparer la demande de prix Planification de la qualité
 
 #### Fiançailles à col carré
 
@@ -3604,6 +3692,14 @@ Vis moletées et vis de réglage manuel ↗ Vis sans tête et vis de pression su
 
 Jauges de filetage et acceptation de vis personnalisées ↗ Goujons à double extrémité : éviter les erreurs d'assemblage avec filetage mixte ↗ Ajustements d’épaulement, classes de filetage et choix de la rectification ↗
 
+#### Plan et contrôle des échantillons
+
+Définir pas, classe et longueur à profil complet
+
+Calibrer après finition et vérifier l’appui avant la butée en fond.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Pas, déplacement et verrouillage
 
 Reliez le pas au réglage prévu, tout en tenant compte de l'ajustement du filetage correspondant et de l'engagement disponible. Un pas fin n'établit pas en soi la précision du positionnement ou la résistance aux vibrations. Indiquer la géométrie des contacts, la course, le verrouillage et l'acceptation de l'inspection du filetage comme exigences distinctes.
@@ -3703,6 +3799,14 @@ Contrôle des fluides et équipements pneumatiques ↗
 
 Fils roulés ou coupés : questions à résoudre dans l'appel d'offres ↗ Goujons à double extrémité : éviter les erreurs d'assemblage avec filetage mixte ↗ Ajustements d’épaulement, classes de filetage et choix de la rectification ↗
 
+#### Plan et contrôle des échantillons
+
+Fournir profil associé et base de mesure
+
+Convenir de contrôles distincts du profil et de la fonction.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Définition complète du profil
 
 Spécifiez le pas, la forme des flancs, les diamètres majeurs et mineurs, la maniabilité et toute exigence de conicité ou d'avance. Une étiquette telle que trapézoïdale ou contrefort ne constitue pas un dessin technique complet. Convenez du composant d'accouplement et de l'approche de calibrage avant la production, en particulier lorsqu'un calibre standard ne convient pas au profil personnalisé.
@@ -3793,6 +3897,14 @@ Profils de filetage spéciaux et composés ↗ Vis à embase sur mesure ↗ Vis 
 #### Lecture technique utile
 
 Comment spécifier un entraînement à vis inviolable ↗ Ajustement des boulons à rainure en T : que mesurer avant de commander ↗ Goujons à clincher sur mesure : préciser le panneau ainsi que la fixation ↗
+
+#### Plan et contrôle des échantillons
+
+Spécifier avant-trou, matière et dégagement de pointe
+
+Essayer la pose et vérifier les limites de couple convenues.
+
+Préparer la demande de prix Planification de la qualité
 
 #### Action de la pointe dans le substrat réel
 
@@ -3885,6 +3997,14 @@ Vis à épaulement et à marchepied ↗ Goujons à double extrémité sur mesure
 
 Vis à tige réduite : pourquoi les transitions nécessitent une attention particulière ↗ Vis multi-étapes : contrôle de la chaîne de cotes axiales ↗ Du prototype à la production : maintenir les spécifications des vis alignées ↗
 
+#### Plan et contrôle des échantillons
+
+Coter diamètre minimal et rayons de raccordement
+
+Vérifier géométrie et convenir de l’essai de la section réduite.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Transitions et section minimale
 
 Dimensionnez la section réduite et les deux transitions par rapport aux surfaces fonctionnelles. Expliquez s'il apporte un jeu, un comportement élastique particulier ou une fonction d'assemblage. Une tige plus petite modifie le chemin de charge ; la géométrie à elle seule ne peut pas justifier une allégation de fatigue ou de réduction des contraintes sans l'évaluation de conception pertinente.
@@ -3965,6 +4085,14 @@ Contrôle des fluides et équipements pneumatiques ↗
 #### Lecture technique utile
 
 Vis coniques : définition du siège d'accouplement ↗ Dessins de vis excentriques : rendre le décalage sans ambiguïté ↗ Goupilles de positionnement intégrées : coordonnées des références des goupilles et des vis ↗
+
+#### Plan et contrôle des échantillons
+
+Coter conicité et diamètre dans un plan défini
+
+Vérifier contact et profondeur d’appui.
+
+Préparer la demande de prix Planification de la qualité
 
 #### Contact conique et position assise
 
@@ -4047,6 +4175,14 @@ Automatisation industrielle ↗
 
 Goupilles de positionnement intégrées : coordonnées des références des goupilles et des vis ↗ Dessins de vis excentriques : rendre le décalage sans ambiguïté ↗ Vis coniques : définition du siège d'accouplement ↗
 
+#### Plan et contrôle des échantillons
+
+Référencer la position du pion au montage
+
+Vérifier alignement et insertion dans le trou.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Relation entre la goupille, le filetage et l'épaulement
 
 Affichez le diamètre de la broche, la projection et la position par rapport à la référence de localisation, et pas seulement au contour général. Examinez le chemin d'assemblage afin que la goupille puisse s'engager avant que la vis n'atteigne sa position en place. La fonction de localisation et la rétention du fil nécessitent des contrôles d'acceptation indépendants.
@@ -4125,6 +4261,14 @@ Goujons à double extrémité sur mesure ↗ Vis à épaulement et à marchepied
 #### Lecture technique utile
 
 Frappe à froid ou tournage CNC : choisir un tracé de vis personnalisé ↗ Vis moletées : spécification de la poignée et du réglage ↗ Cône, plat, chien ou cupule : choisir un embout à vis ↗
+
+#### Plan et contrôle des échantillons
+
+Identifier les deux filetages et faces d’appui
+
+Essayer chaque extrémité et vérifier la chaîne axiale.
+
+Préparer la demande de prix Planification de la qualité
 
 #### Deux articulations partageant un corps de localisation
 
@@ -4207,6 +4351,14 @@ Contrôle des fluides et équipements pneumatiques ↗
 
 Trous transversaux dans les vis : planification du contrôle des bavures et inspection ↗ Alésages de vis creuses : les détails qu'une demande de prix doit inclure ↗ Vis moletées : spécification de la poignée et du réglage ↗
 
+#### Plan et contrôle des échantillons
+
+Positionner le trou transversal depuis axe et face fonctionnels
+
+Vérifier intersection interne et passage ou jeu du pion.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Position du trou et bords qui se croisent
 
 Spécifiez le diamètre du trou et sa position axiale et angulaire à partir d'une référence fonctionnelle. Expliquez s'il faut une goupille, un fil de verrouillage ou un passage d'écoulement. Inspecter l'intersection et l'état des bords, au besoin ; une entrée de trou externe ne garantit pas que la sortie interne est exempte de bavures nuisibles.
@@ -4288,6 +4440,14 @@ Automatisation industrielle ↗ Moules, outillage et montages d'essai ↗
 
 Vis multi-étapes : contrôle de la chaîne de cotes axiales ↗ Échantillonnage et contrôle 100% : choisir la bonne couverture ↗ Frappe à froid ou tournage CNC : choisir un tracé de vis personnalisé ↗
 
+#### Plan et contrôle des échantillons
+
+Coter les ressauts depuis la face d’appui
+
+Vérifier diamètres et distances axiales après finition.
+
+Préparer la demande de prix Planification de la qualité
+
 #### Chaîne de cotes et stratégie de référence
 
 Identifiez quelle étape localise chaque composant d’accouplement. Considérez l'empilement axial total et évitez de laisser la distance de contrôle comme une accumulation involontaire de dimensions non liées. Convenir des diamètres, du faux-rond ou du rapport coaxial réellement nécessaires à l'assemblage et de la condition dans laquelle ils sont acceptés.
@@ -4366,6 +4526,14 @@ Vis à embase sur mesure ↗ Vis avec goupilles de positionnement intégrées �
 #### Lecture technique utile
 
 Goujons à clincher sur mesure : préciser le panneau ainsi que la fixation ↗ Ajustement des boulons à rainure en T : que mesurer avant de commander ↗ Ajustements d’épaulement, classes de filetage et choix de la rectification ↗
+
+#### Plan et contrôle des échantillons
+
+Préciser matière, épaisseur et trou
+
+Essayer le sertissage et vérifier effort d’expulsion et couple de rotation convenus.
+
+Préparer la demande de prix Planification de la qualité
 
 #### Compatibilité des panneaux et acceptation de l'insertion
 

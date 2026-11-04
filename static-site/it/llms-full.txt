@@ -1463,6 +1463,14 @@ Componenti filettati misti e forme di spalla su un tavolo espositivo
 
 Gambi filettati, spallamenti e componenti tubolari fotografati insieme
 
+#### Disegno e verifica dei campioni
+
+Definire interfaccia e finitura
+
+Provare la vite finita nel componente accoppiato.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Inizia con l'interfaccia che una vite standard non può soddisfare
 
 Utilizzare questo percorso quando il requisito combina funzionalità o non si adatta a un'unica famiglia di prodotti. Identificare il motivo della personalizzazione: azionamento inaccessibile, superficie del cuscinetto insolita, filettature miste, passaggio interno o diversi gradini di posizionamento. Separare le interfacce essenziali dalle dimensioni che possono essere discusse durante la revisione della producibilità.
@@ -1822,6 +1830,14 @@ Le opzioni di materiale e finitura sono pre-approvate? No. Le opzioni disponibil
 
 Come viene concordato l'ambito di qualità? Definire le caratteristiche critiche e le esigenze di documentazione durante la revisione. Vedi il nostro approccio di pianificazione della qualità .
 
+#### Disegno e verifica dei campioni
+
+Quotare sede della testa e spazio utensile
+
+Verificare accesso e appoggio.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Definisci perché la testa deve cambiare
 
 Una testa speciale può risolvere l'accesso all'utensile, una tasca bloccata, un inviluppo con gioco ridotto o una particolare faccia del cuscinetto. Identificare tale funzione nel disegno tecnico dell'assieme. Una forma della testa selezionata solo per l'aspetto può non avere la superficie o lo spazio che effettivamente controlla l'installazione.
@@ -1929,6 +1945,14 @@ Volume, materiale e caratteristiche funzionali determinano il modo in cui viene 
 
 Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Swiss Type e CNC Tornitura ↗ Lavorazioni secondarie e di precisione ↗ Rotta a freddo multistazione ↗ Rivestimenti e trattamenti superficiali ↗ Pulizia, chiusura e assemblaggio ↗
 
+#### Disegno e verifica dei campioni
+
+Identificare centraggio, serraggio o passaggio
+
+Verificare la funzione con la controparte.
+
+Preparare la richiesta Pianificazione della qualità
+
 ### Teste Speciali e Bulloni Funzionali
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/products/special-head-bolts/
 
@@ -1994,6 +2018,14 @@ Volume, materiale e caratteristiche funzionali determinano il modo in cui viene 
 
 Rotta a freddo multistazione ↗ Stampaggio a caldo e forgiatura ↗ Lavorazioni secondarie e di precisione ↗ Swiss Type e CNC Tornitura ↗ Controllo dimensionale e visione CCD ↗ Trattamento termico specifico per il materiale ↗
 
+#### Disegno e verifica dei campioni
+
+Quotare antirotazione e appoggio
+
+Verificare sede e rotazione al serraggio.
+
+Preparare la richiesta Pianificazione della qualità
+
 ### Filetti e gambi speciali
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/products/special-thread-screws/
 
@@ -2041,6 +2073,14 @@ Volume, materiale e caratteristiche funzionali determinano il modo in cui viene 
 
 Rullatura, taglio e maschiatura del filetto ↗ Swiss Type e CNC Tornitura ↗ Controllo dimensionale e visione CCD ↗ Rotta a freddo multistazione ↗ Lavorazioni secondarie e di precisione ↗ Trattamento termico specifico per il materiale ↗
 
+#### Disegno e verifica dei campioni
+
+Specificare profilo, passo e controfiletto
+
+Verificare separatamente filetto finito e impegno utile.
+
+Preparare la richiesta Pianificazione della qualità
+
 ### Strutture composte
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/products/compound-structure-screws/
 
@@ -2087,6 +2127,14 @@ Geometria della ritenzione Condizioni del pannello
 Volume, materiale e caratteristiche funzionali determinano il modo in cui viene prodotto il design.
 
 Swiss Type e CNC Tornitura ↗ Lavorazioni secondarie e di precisione ↗ Controllo dimensionale e visione CCD ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗ Rullatura, taglio e maschiatura del filetto ↗ Pulizia, chiusura e assemblaggio ↗
+
+#### Disegno e verifica dei campioni
+
+Riferire foro, gradino e filetto ai riferimenti funzionali
+
+Verificarne la relazione dopo finitura.
+
+Preparare la richiesta Pianificazione della qualità
 
 ### Viti di sicurezza e antimanomissione secondo il disegno tecnico
 Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/products/security-screws/
@@ -2993,6 +3041,14 @@ Macchinari e attrezzature generali ↗
 
 Golfari per collegamenti e sollevamento: diverse esigenze specifiche ↗ Disegni delle viti eccentriche: rendere inequivocabile l'offset ↗ Prigionieri a doppia estremità: prevengono errori di assemblaggio di filetti misti ↗
 
+#### Disegno e verifica dei campioni
+
+Mostrare contatto del perno e ingombro di articolazione
+
+Verificare corsa e interferenze.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Collegamento e articolazione dei perni
 
 Dimensionare il foro dell'occhio rispetto al perno di accoppiamento, al legamento rimanente e all'articolazione disponibile. Mostra la direzione del carico e le interferenze nelle vicinanze attraverso il movimento. Un occhiello di collegamento e un componente di sollevamento omologato hanno requisiti di verifica diversi; la forma degli occhi non stabilisce un carico di lavoro.
@@ -3072,6 +3128,14 @@ Bulloni a occhio e articolati su disegno ↗ Prigionieri a doppia estremità su 
 
 Rivestimenti e rischio da idrogeno nelle viti ad alta resistenza ↗ 304, 316 e 17-4PH: diverse domande sul trattamento termico ↗ Golfari per collegamenti e sollevamento: diverse esigenze specifiche ↗
 
+#### Disegno e verifica dei campioni
+
+Indicare configurazione di sollevamento approvata e direzione di carico
+
+Verificare qualifica e tracciabilità prima del rilascio.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Rilasciare solo in presenza di un progetto di sollevamento approvato
 
 Fornire le direzioni di carico consentite, l'impegno della filettatura nella parte di accoppiamento, la disposizione dei sedili e i requisiti di verifica applicabili. Le condizioni di carico angolare e di installazione rientrano nella revisione del progetto. Non rilasciare un anello di sollevamento personalizzato sulla base della sola conformità dimensionale; la progettazione approvata e la verifica tracciabile concordata sono essenziali.
@@ -3150,6 +3214,14 @@ Bulloni a testa quadra su disegno ↗ Prigionieri a doppia estremità su disegno
 #### Lettura tecnica utile
 
 Come quotare un cavallotto personalizzato ↗ Accoppiamenti dello spallamento, classi del filetto e quando rettificare ↗ Viti zigrinate: specifica presa e regolazione ↗
+
+#### Disegno e verifica dei campioni
+
+Quotare interasse, curva e sella
+
+Provare entrambe le gambe e l’appoggio uniforme.
+
+Preparare la richiesta Pianificazione della qualità
 
 #### Geometria interna e supporti di accoppiamento
 
@@ -3232,6 +3304,14 @@ Macchinari e attrezzature generali ↗
 
 Come specificare un azionamento a vite antimanomissione ↗ Montaggio bullone con scanalatura a T: cosa misurare prima di ordinare ↗ Golfari per collegamenti e sollevamento: diverse esigenze specifiche ↗
 
+#### Disegno e verifica dei campioni
+
+Quotare larghezza testa, gioco agli angoli e profondità sede
+
+Verificare appoggio e antirotazione.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Accesso allo strumento o posizione della testa catturata
 
 Decidi se il quadrato viene guidato da una chiave inglese o trattenuto in una tasca. Il primo richiede l'autorizzazione dell'utensile; il secondo necessita di tascabilità, accesso per l'inserimento e contatto antirotazione controllato. Indicare la forma dell'angolo e la transizione sotto la testa in modo che una dimensione trasversale apparentemente corretta non nasconda un'interferenza.
@@ -3310,6 +3390,14 @@ Viti flangiate su disegno ↗ Bulloni a testa quadra su disegno ↗ Bulloni per 
 #### Lettura tecnica utile
 
 Bulloni a carrello personalizzati: specificando il collo quadrato ↗ Progettazione della superficie portante di una vite flangiata personalizzata ↗ Come quotare un cavallotto personalizzato ↗
+
+#### Disegno e verifica dei campioni
+
+Specificare larghezza, altezza e gioco del quadro
+
+Verificare appoggio e antirotazione nel pannello finito.
+
+Preparare la richiesta Pianificazione della qualità
 
 #### Fidanzamento con scollo quadrato
 
@@ -3604,6 +3692,14 @@ Elettronica e apparecchiature ottiche ↗
 
 Calibri per filettature e accettazione di viti personalizzate ↗ Prigionieri a doppia estremità: prevengono errori di assemblaggio di filetti misti ↗ Accoppiamenti dello spallamento, classi del filetto e quando rettificare ↗
 
+#### Disegno e verifica dei campioni
+
+Definire passo, classe e lunghezza a profilo completo
+
+Calibrare dopo finitura e verificare appoggio prima del fondo.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Passo, corsa e bloccaggio
 
 Correlare il passo alla regolazione prevista, considerando l'adattamento della filettatura di accoppiamento e l'impegno disponibile. Il passo fine non stabilisce di per sé la precisione del posizionamento o la resistenza alle vibrazioni. Indicare la geometria del contatto, la corsa, il bloccaggio e l'accettazione dell'ispezione della filettatura come requisiti separati.
@@ -3703,6 +3799,14 @@ Controllo dei fluidi e apparecchiature pneumatiche ↗
 
 Fili laminati o tagliati: domande da risolvere nella richiesta di offerta ↗ Prigionieri a doppia estremità: prevengono errori di assemblaggio di filetti misti ↗ Accoppiamenti dello spallamento, classi del filetto e quando rettificare ↗
 
+#### Disegno e verifica dei campioni
+
+Fornire profilo accoppiato e base di misura
+
+Concordare controllo profilo e prova funzionale separati.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Definizione completa del profilo
 
 Specificare il passo, la forma del fianco, i diametri maggiori e minori, la mano ed eventuali requisiti di conicità o piombo. Un'etichetta come quella trapezoidale o a contrafforte non è un disegno tecnico completo. Concordare il componente di accoppiamento e l'approccio di misurazione prima della produzione, soprattutto laddove un calibro standard non è adatto al profilo personalizzato.
@@ -3793,6 +3897,14 @@ Profili filettati speciali e compositi ↗ Viti flangiate su disegno ↗ Viti di
 #### Lettura tecnica utile
 
 Come specificare un azionamento a vite antimanomissione ↗ Montaggio bullone con scanalatura a T: cosa misurare prima di ordinare ↗ Perni di fissaggio personalizzati: specificare il pannello e il dispositivo di fissaggio ↗
+
+#### Disegno e verifica dei campioni
+
+Specificare preforo, materiale e spazio punta
+
+Provare montaggio e limiti di coppia concordati.
+
+Preparare la richiesta Pianificazione della qualità
 
 #### Azione della punta nel substrato reale
 
@@ -3885,6 +3997,14 @@ Viti per spalla e gradino ↗ Prigionieri a doppia estremità su disegno ↗ Vit
 
 Viti a gambo ridotto: perché le transizioni necessitano di attenzione ↗ Viti multi-step: controllo della catena dimensionale assiale ↗ Dal prototipo alla produzione: mantenere allineate le specifiche della vite ↗
 
+#### Disegno e verifica dei campioni
+
+Quotare diametro minimo e raggi di raccordo
+
+Verificare geometria e concordare prova della sezione ridotta.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Transizioni e sezione minima
 
 Quotare la sezione ridotta ed entrambe le transizioni rispetto alle superfici funzionali. Spiegare se fornisce gioco, un particolare comportamento elastico o una caratteristica di assemblaggio. Un gambo più piccolo modifica il percorso del carico; la geometria da sola non può comprovare una richiesta di riduzione della fatica o delle sollecitazioni senza la relativa valutazione del progetto.
@@ -3965,6 +4085,14 @@ Controllo dei fluidi e apparecchiature pneumatiche ↗
 #### Lettura tecnica utile
 
 Viti coniche: definizione della sede di accoppiamento ↗ Disegni delle viti eccentriche: rendere inequivocabile l'offset ↗ Perni di posizionamento integrati: perno di coordinamento e riferimenti a vite ↗
+
+#### Disegno e verifica dei campioni
+
+Quotare conicità e diametro su un piano definito
+
+Verificare contatto e profondità di appoggio.
+
+Preparare la richiesta Pianificazione della qualità
 
 #### Contatto conico e posizione di seduta
 
@@ -4047,6 +4175,14 @@ Automazione Industriale ↗
 
 Perni di posizionamento integrati: perno di coordinamento e riferimenti a vite ↗ Disegni delle viti eccentriche: rendere inequivocabile l'offset ↗ Viti coniche: definizione della sede di accoppiamento ↗
 
+#### Disegno e verifica dei campioni
+
+Riferire la posizione del perno al riferimento di montaggio
+
+Verificare allineamento e inserimento.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Rapporto tra perno, filetto e spalla
 
 Mostra il diametro, la proiezione e la posizione del perno rispetto al datum di posizionamento, non solo al contorno generale. Rivedere il percorso di assemblaggio in modo che il perno possa agganciarsi prima che la vite raggiunga la sua posizione in sede. La funzione di localizzazione e la ritenzione del filetto necessitano di controlli di accettazione indipendenti.
@@ -4125,6 +4261,14 @@ Prigionieri a doppia estremità su disegno ↗ Viti per spalla e gradino ↗ Vit
 #### Lettura tecnica utile
 
 Intestazione a freddo o tornitura CNC: scelta di un percorso personalizzato della vite ↗ Viti zigrinate: specifica presa e regolazione ↗ Cono, piatto, cane o coppa: scegli la punta con vite di fissaggio ↗
+
+#### Disegno e verifica dei campioni
+
+Identificare entrambe le estremità e gli appoggi
+
+Provare i due lati e verificare la catena assiale.
+
+Preparare la richiesta Pianificazione della qualità
 
 #### Due giunti che condividono un unico corpo di posizionamento
 
@@ -4207,6 +4351,14 @@ Controllo dei fluidi e apparecchiature pneumatiche ↗
 
 Fori trasversali nelle viti: pianificazione del controllo e dell'ispezione delle bave ↗ Fori per viti cave: i dettagli che una richiesta di offerta dovrebbe includere ↗ Viti zigrinate: specifica presa e regolazione ↗
 
+#### Disegno e verifica dei campioni
+
+Quotare il foro trasversale da asse e faccia funzionali
+
+Controllare intersezione interna e passaggio o gioco perno.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Posizione dei fori e bordi intersecanti
 
 Specificare il diametro del foro e la sua posizione assiale e angolare da un dato funzionale. Spiegare se è necessario un perno, un filo di bloccaggio o un passaggio di flusso. Ispezionare l'intersezione e le condizioni dei bordi come richiesto; un foro di ingresso esterno non dimostra che l'uscita interna sia esente da bava dannosa.
@@ -4288,6 +4440,14 @@ Automazione Industriale ↗ Stampi, attrezzature e dispositivi di prova ↗
 
 Viti multi-step: controllo della catena dimensionale assiale ↗ Campionamento e ispezione al 100%: scegliere la giusta copertura ↗ Intestazione a freddo o tornitura CNC: scelta di un percorso personalizzato della vite ↗
 
+#### Disegno e verifica dei campioni
+
+Quotare i gradini dalla faccia di appoggio
+
+Verificare diametri e distanze assiali dopo finitura.
+
+Preparare la richiesta Pianificazione della qualità
+
 #### Catena di dimensioni e strategia di riferimento
 
 Identificare quale passaggio individua ciascun componente di accoppiamento. Considerare lo stack assiale totale ed evitare di lasciare la distanza di controllo come un accumulo involontario di dimensioni non correlate. Concordare i diametri, la concentricità o il rapporto coassiale effettivamente necessari per il montaggio e la condizione in cui vengono accettati.
@@ -4366,6 +4526,14 @@ Viti flangiate su disegno ↗ Viti con perno di posizionamento integrato ↗ Vit
 #### Lettura tecnica utile
 
 Perni di fissaggio personalizzati: specificare il pannello e il dispositivo di fissaggio ↗ Montaggio bullone con scanalatura a T: cosa misurare prima di ordinare ↗ Accoppiamenti dello spallamento, classi del filetto e quando rettificare ↗
+
+#### Disegno e verifica dei campioni
+
+Specificare materiale, spessore e foro
+
+Provare l’inserimento e verificare estrazione e resistenza alla rotazione concordate.
+
+Preparare la richiesta Pianificazione della qualità
 
 #### Compatibilità del pannello e accettazione dell'inserimento
 
