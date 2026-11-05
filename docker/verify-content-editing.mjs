@@ -1,3 +1,4 @@
+import { randomUUID } from "node:crypto";
 import assert from "node:assert/strict";
 import fs from "node:fs/promises";
 import os from "node:os";
@@ -195,6 +196,85 @@ try {
     },
   });
   assert.equal(bad.status, 400);
+  // A partial response must survive ten failed follow-ups and a process restart.
+  await service.close();
+  let partialCalls = 0;
+  const sourceFields = (await get("@cookie", "en")).fields
+    .filter((f) => f.kind === "text")
+    .slice(0, 2)
+    .map((f) => ({ key: f.key, text: f.source, label: f.label }));
+  const targetRevision = (await get("@cookie", "fr")).revision;
+  const jobId = randomUUID();
+  await db
+    .prepare(
+      "INSERT INTO content_translation_jobs(id,scope,locale,source,target_revision,state,created_at,updated_at) VALUES (?,'@cookie','fr',?,?,'queued',?,?)",
+    )
+    .bind(
+      jobId,
+      JSON.stringify(sourceFields),
+      targetRevision,
+      new Date().toISOString(),
+      new Date().toISOString(),
+    )
+    .run();
+  service = await createContentService({
+    db,
+    render,
+    translateFields: async (fields) => {
+      partialCalls++;
+      if (partialCalls === 1)
+        return {
+          translations: [{ id: fields[0].key, text: "Recovered first field" }],
+        };
+      assert.equal(fields.length, 1);
+      assert.equal(fields[0].key, sourceFields[1].key);
+      return {};
+    },
+  });
+  await service.tick();
+  const failed = await db
+    .prepare("SELECT * FROM content_translation_jobs WHERE id=?")
+    .bind(jobId)
+    .first();
+  assert.equal(failed.state, "failed");
+  assert.equal(partialCalls, 11);
+  assert.equal(
+    JSON.parse(failed.result)[sourceFields[0].key],
+    "Recovered first field",
+  );
+  await service.close();
+  service = await createContentService({
+    db,
+    render,
+    translateFields: async (fields) => {
+      assert.equal(fields.length, 1);
+      assert.equal(fields[0].key, sourceFields[1].key);
+      return {
+        data: { translations: { [fields[0].key]: "Recovered second field" } },
+      };
+    },
+  });
+  assert.equal(
+    (
+      await post("content-job-retry", {
+        scope: "@cookie",
+        locale: "fr",
+        revision: targetRevision,
+        id: jobId,
+      })
+    ).status,
+    200,
+  );
+  await service.tick();
+  assert.equal(
+    (
+      await db
+        .prepare("SELECT state FROM content_translation_jobs WHERE id=?")
+        .bind(jobId)
+        .first()
+    ).state,
+    "complete",
+  );
   console.log(
     "PASS drafts, publish, preview, escaping, cookie controls, locale isolation, restart, history restore, queued translations, six-language publish, page scope, JSON-LD and URL validation",
   );

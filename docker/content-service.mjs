@@ -1,3 +1,4 @@
+import { normalizeContentTranslations } from "./content-translation.mjs";
 import { randomUUID } from "node:crypto";
 import {
   editableFields,
@@ -408,25 +409,62 @@ export async function createContentService({ db, render, translateFields }) {
         let size = 0;
         while (
           pending.length &&
-          batch.length < 25 &&
+          batch.length < 10 &&
           (size < 6000 || !batch.length)
         ) {
           const f = pending.shift();
           batch.push(f);
           size += f.text.length;
         }
-        const translated = await translateFields(batch, job.locale);
-        for (const f of batch) {
-          if (typeof translated[f.key] !== "string")
-            throw Error("模型遗漏了翻译字段，可重试继续");
-          result[f.key] = translated[f.key];
+        let remaining = batch;
+        let failedAttempts = 0,
+          singleField = false;
+        while (remaining.length && failedAttempts < 10 && !closed) {
+          // Smaller requests recover missing fields without paying to translate completed fields again.
+          const requestFields = singleField ? remaining.slice(0, 1) : remaining;
+          const previousRemaining = remaining.length;
+          const translated = normalizeContentTranslations(
+            await translateFields(requestFields, job.locale),
+            requestFields,
+          );
+          for (const field of requestFields) {
+            if (Object.hasOwn(translated, field.key))
+              result[field.key] = translated[field.key];
+          }
+          remaining = remaining.filter(
+            (field) => !Object.hasOwn(result, field.key),
+          );
+          failedAttempts =
+            remaining.length < previousRemaining ? 0 : failedAttempts + 1;
+          singleField = true;
+          await db
+            .prepare(
+              "UPDATE content_translation_jobs SET result=?,error=?,updated_at=? WHERE id=?",
+            )
+            .bind(
+              JSON.stringify(result),
+              "已完成 " +
+                Object.keys(result).length +
+                "/" +
+                source.length +
+                " 个字段" +
+                (remaining.length
+                  ? "，正在补译 " + remaining.length + " 项"
+                  : ""),
+              new Date().toISOString(),
+              job.id,
+            )
+            .run();
         }
-        await db
-          .prepare(
-            "UPDATE content_translation_jobs SET result=?,updated_at=? WHERE id=?",
-          )
-          .bind(JSON.stringify(result), new Date().toISOString(), job.id)
-          .run();
+        if (remaining.length && !closed)
+          throw Error(
+            "已保留完成的译文；10次补译后仍缺少字段：" +
+              remaining
+                .map((field) => field.label || field.key)
+                .slice(0, 4)
+                .join("、") +
+              "。可从已完成部分重试",
+          );
       }
       if (closed) return;
       const current = await row(job.scope, job.locale);
@@ -447,7 +485,7 @@ export async function createContentService({ db, render, translateFields }) {
       );
       await db
         .prepare(
-          "UPDATE content_translation_jobs SET state='complete',updated_at=? WHERE id=?",
+          "UPDATE content_translation_jobs SET state='complete',error='',updated_at=? WHERE id=?",
         )
         .bind(new Date().toISOString(), job.id)
         .run();
