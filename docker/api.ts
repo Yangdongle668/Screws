@@ -15,3 +15,6 @@ export {backupResponse} from '../lib/backup-api';
 export {validate as validateArticle} from '../lib/editorial-api';
 
 export {applyEditorialCorrections,correctionFingerprint} from '../lib/editorial-corrections';
+
+export {editableFields,patchEditable} from '../lib/content-html';
+export {default as contentPages} from '../lib/runtime-pages.json';

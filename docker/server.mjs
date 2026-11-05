@@ -1,3 +1,4 @@
+import {createContentService} from './content-service.mjs';
 import {createMediaService} from './media-service.mjs';
 import {createAIWorkerPool} from './ai-worker-pool.mjs';
 import {createPAAService} from './paa-service.mjs';
@@ -43,6 +44,9 @@ const insights=await createInsights({db,secret:process.env.SESSION_SECRET,captur
 await insights.cleanup();
 const recovery=await createInquiryRecovery({directory:path.join(data,'inquiry-emergency'),secret:Buffer.from(process.env.MAIL_CONFIG_KEY,'base64'),allowedProducts:new Set([...api.inquiryProducts.map(p=>p.slug),'other']),submit:api.submitInquiry,recordSaved:insights.attach});
 const media=await createMediaService({db,data,publicRoot,index:JSON.parse(await fsp.readFile('dist/docker/media-index.json','utf8'))});
+const contentAI=await createAIService({db,data,workerMode:true});
+const content=await createContentService({db,render:pathname=>api.staticResponse(new Request(new URL(pathname,buildOrigin))),translateFields:contentAI.translateFields});
+const contentTimer=setInterval(()=>void content.tick().catch(()=>{}),2000);contentTimer.unref();
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
 const types={'.jpg':'image/jpeg','.jpeg':'image/jpeg','.csv':'text/csv; charset=utf-8','.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
@@ -68,6 +72,7 @@ async function handle(request,clientIp){
  }
  if(authenticated){request.headers.set('oai-authenticated-user-id','docker-admin');request.headers.set('oai-authenticated-user-email',email);}
  if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();const action=url.pathname.split('/').at(-1);
+ if(action.startsWith('content-'))return content.handle(request,action);
  if(action.startsWith('media-'))return media.handle(request,action);
  if(action.startsWith('paa-'))return paa.handle(request,action);
  if(action==='inquiries'&&request.method==='GET')return insights.handle(request,'crm-inquiries');
@@ -117,7 +122,8 @@ const server=http.createServer(async(incoming,outgoing)=>{
   let length=0;const chunks=[];for await(const chunk of incoming){length+=chunk.length;if(length>limit){outgoing.writeHead(413);outgoing.end('Request too large');return;}chunks.push(chunk);}
   const request=new Request(target,{method:incoming.method,headers,...(!['GET','HEAD'].includes(incoming.method)?{body:Buffer.concat(chunks)}:{})});
   let response=await handle(request,ip);
-  if(target.pathname==='/admin/'&&response.status===200){const headers=new Headers(response.headers);headers.delete('Content-Length');response=new Response((await response.text()).replace('</body>','<script src="/media-admin.js" defer></script></body>'),{status:200,headers});}
+  if(target.pathname==='/admin/'&&response.status===200){const headers=new Headers(response.headers);headers.delete('Content-Length');response=new Response((await response.text()).replace('</body>','<script src="/media-admin.js" defer></script><script src="/content-admin.js" defer></script></body>'),{status:200,headers});}
+  response=await content.transform(response,target.pathname);
   response=await media.transform(response,target.pathname);
   if(request.method==='GET'&&response.status===200&&(response.headers.get('Content-Type')||'').includes('text/html')&&!target.pathname.startsWith('/admin')&&!target.pathname.startsWith('/auth')&&!target.pathname.startsWith('/api')&&!target.pathname.startsWith('/sign')&&!authenticatedRequest(request)){outgoing.once('finish',()=>void insights.record(request,ip).catch(()=>console.error('Traffic recording deferred.')));}
   // Rewrite only public documents, never inquiry/API data, for domain-free HTTP
@@ -130,4 +136,4 @@ const server=http.createServer(async(incoming,outgoing)=>{
 server.requestTimeout=35000;server.headersTimeout=10000;server.keepAliveTimeout=5000;
 server.listen(Number(process.env.PORT||3000),process.env.HOST||'0.0.0.0',()=>console.log('ZUFEK production server ready.'));
 let shuttingDown=false;
-for(const signal of ['SIGINT','SIGTERM'])process.on(signal,async()=>{if(shuttingDown)return;shuttingDown=true;setTimeout(()=>process.exit(1),20000).unref();clearInterval(timer);clearInterval(aiTimer);clearInterval(paaTimer);paa.close();await ai.close();server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});});
+for(const signal of ['SIGINT','SIGTERM'])process.on(signal,async()=>{if(shuttingDown)return;shuttingDown=true;setTimeout(()=>process.exit(1),20000).unref();clearInterval(contentTimer);const contentShutdown=content.close();await contentAI.close();await contentShutdown;clearInterval(timer);clearInterval(aiTimer);clearInterval(paaTimer);paa.close();await ai.close();server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});});
