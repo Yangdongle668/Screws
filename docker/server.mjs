@@ -1,3 +1,4 @@
+import {createMediaService} from './media-service.mjs';
 import {createAIWorkerPool} from './ai-worker-pool.mjs';
 import {createPAAService} from './paa-service.mjs';
 import {publicAddress} from './ai-network.mjs';
@@ -41,6 +42,7 @@ const countryForIP=ip=>{try{if(!publicAddress(ip))return 'Unknown';const country
 const insights=await createInsights({db,secret:process.env.SESSION_SECRET,captureFullIP:true,countryForIP,mailConfig:api.loadMailConfig,retryMail:api.retryNotifications});
 await insights.cleanup();
 const recovery=await createInquiryRecovery({directory:path.join(data,'inquiry-emergency'),secret:Buffer.from(process.env.MAIL_CONFIG_KEY,'base64'),allowedProducts:new Set([...api.inquiryProducts.map(p=>p.slug),'other']),submit:api.submitInquiry,recordSaved:insights.attach});
+const media=await createMediaService({db,data,publicRoot,index:JSON.parse(await fsp.readFile('dist/docker/media-index.json','utf8'))});
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
 const types={'.jpg':'image/jpeg','.jpeg':'image/jpeg','.csv':'text/csv; charset=utf-8','.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
@@ -66,6 +68,7 @@ async function handle(request,clientIp){
  }
  if(authenticated){request.headers.set('oai-authenticated-user-id','docker-admin');request.headers.set('oai-authenticated-user-email',email);}
  if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();const action=url.pathname.split('/').at(-1);
+ if(action.startsWith('media-'))return media.handle(request,action);
  if(action.startsWith('paa-'))return paa.handle(request,action);
  if(action==='inquiries'&&request.method==='GET')return insights.handle(request,'crm-inquiries');
  if(action.startsWith('traffic-')||action.startsWith('crm-'))return insights.handle(request,action);
@@ -80,6 +83,7 @@ if(url.pathname.split('/').at(-1).startsWith('ai-'))return ai.handle(request,url
  if(url.pathname.startsWith('/api/'))return new Response('Not found',{status:404});
  if(!['GET','HEAD'].includes(request.method))return new Response('Method not allowed',{status:405});
  if(url.pathname==='/admin'||url.pathname.startsWith('/admin/')){if(!authenticated)return redirect('/auth/login');}
+ const mediaFile=await media.serve(request);if(mediaFile)return mediaFile;
  const crawl=await api.crawlResponse(request);if(crawl)return crawl;
  let relative;try{relative=decodeURIComponent(url.pathname);}catch{return new Response('Bad path',{status:400});}
  if(relative.includes('\\')||relative.includes('\0')||relative.split('/').some(x=>x.startsWith('.')))return new Response('Not found',{status:404});
@@ -113,6 +117,8 @@ const server=http.createServer(async(incoming,outgoing)=>{
   let length=0;const chunks=[];for await(const chunk of incoming){length+=chunk.length;if(length>limit){outgoing.writeHead(413);outgoing.end('Request too large');return;}chunks.push(chunk);}
   const request=new Request(target,{method:incoming.method,headers,...(!['GET','HEAD'].includes(incoming.method)?{body:Buffer.concat(chunks)}:{})});
   let response=await handle(request,ip);
+  if(target.pathname==='/admin/'&&response.status===200){const headers=new Headers(response.headers);headers.delete('Content-Length');response=new Response((await response.text()).replace('</body>','<script src="/media-admin.js" defer></script></body>'),{status:200,headers});}
+  response=await media.transform(response,target.pathname);
   if(request.method==='GET'&&response.status===200&&(response.headers.get('Content-Type')||'').includes('text/html')&&!target.pathname.startsWith('/admin')&&!target.pathname.startsWith('/auth')&&!target.pathname.startsWith('/api')&&!target.pathname.startsWith('/sign')&&!authenticatedRequest(request)){outgoing.once('finish',()=>void insights.record(request,ip).catch(()=>console.error('Traffic recording deferred.')));}
   // Rewrite only public documents, never inquiry/API data, for domain-free HTTP
   // access and for canonical links in saved article HTML on the same build.

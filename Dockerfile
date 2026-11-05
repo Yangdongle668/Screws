@@ -4,6 +4,9 @@ COPY package.json package-lock.json .npmrc ./
 RUN npm ci --no-audit --no-fund
 COPY smtp-bridge/package.json smtp-bridge/package-lock.json ./smtp-bridge/
 RUN cd smtp-bridge && npm ci --no-audit --no-fund
+COPY docker/media-package.json /opt/zufek-media/package.json
+COPY docker/media-package-lock.json /opt/zufek-media/package-lock.json
+RUN cd /opt/zufek-media && npm ci --omit=dev --no-audit --no-fund
 COPY . .
 ARG PUBLIC_URL
 ENV PUBLIC_URL=${PUBLIC_URL} ZUFEK_DOCKER_BUILD=1
@@ -13,6 +16,7 @@ FROM node:24-alpine AS runtime
 WORKDIR /app
 ENV NODE_ENV=production PORT=3000 DATA_DIRECTORY=/data
 RUN apk add --no-cache chromium ca-certificates font-freefont
+COPY --from=build --chown=node:node /opt/zufek-media /opt/zufek-media
 COPY --from=build --chown=node:node /app/dist/docker ./dist/docker
 COPY --from=build --chown=node:node /app/docker ./docker
 COPY --from=build --chown=node:node /app/lib/article-path.mjs ./lib/article-path.mjs
