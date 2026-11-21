@@ -74,3 +74,7 @@ Verification: `node docker/verify-ai-stream-recovery.mjs` plus the existing AI s
 ## Stray closing brackets in model JSON (2026-11-21)
 
 A frequent malformed response closes the root object one bracket early and then continues with more keys (`..."]},"proposedLedgerTransition":{...}`), reported as `Unexpected non-whitespace character after JSON`. The model-based repair could never pass the verbatim preservation check for this case, so each occurrence cost an extra call and still failed. Local recovery now removes up to three stray or mismatched closing brackets outside strings and re-validates the result before any model repair is attempted; keys and values are not altered. Verification: `node docker/verify-ai-json-stray.mjs`.
+
+## Translation link alignment (2026-11-21)
+
+Translations failed with `译文修改了来源或内链网址` / `译文修改了正文中的链接` when the model prefixed internal paths with a language directory (`/de/products/...`), reordered the related links or normalized a source URL. Each failure discarded the translation, so every retry paid for the whole language again. Source URLs and related-link paths now come from the approved English article: the server restores them, keeps translated labels matched by URL or position, and returns language-prefixed body links to their approved paths (links are localized at render time). Any other link change, and any number or standard-identifier change, is still rejected. Repairs are recorded per language in the publication details (`translationRepairs`). Verification: `node docker/verify-translation-links.mjs`.
