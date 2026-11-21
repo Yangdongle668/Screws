@@ -4685,5 +4685,14 @@
   "Show tool access: head clearance, approach angle and any surrounding walls.": "Montrez l’accès de l’outil : dégagement de tête, angle d’approche et parois voisines.",
   "Give the tightening method and torque range so the recess and material can be reviewed together.": "Indiquez la méthode de serrage et la plage de couple pour examiner ensemble l’empreinte et la matière.",
   "Note how plating or coating is treated in the recess, because build-up can change tool fit.": "Précisez le traitement du revêtement dans l’empreinte, car une surépaisseur peut modifier l’ajustement de l’outil.",
-  "Agree how the recess is inspected, for example with a go/no-go gauge or the service tool.": "Convenez du contrôle de l’empreinte, par exemple avec un calibre entre/n’entre pas ou l’outil de service."
+  "Agree how the recess is inspected, for example with a go/no-go gauge or the service tool.": "Convenez du contrôle de l’empreinte, par exemple avec un calibre entre/n’entre pas ou l’outil de service.",
+  "Phone / WhatsApp": "Téléphone / WhatsApp",
+  "WhatsApp": "WhatsApp",
+  "Working hours: 08:00–17:30 China time (UTC+8)": "Horaires : 08:00–17:30 heure de Chine (UTC+8)",
+  "Theo Wan — Engineering Lead": "Theo Wan — Responsable ingénierie",
+  "Technical articles by Theo Wan (万天恩), engineering lead at ZUFEK, on custom fastener specifications, manufacturing routes, inspection and procurement.": "Articles techniques de Theo Wan (万天恩), responsable ingénierie chez ZUFEK, sur la spécification, les gammes de fabrication, le contrôle et l’achat de fixations spéciales.",
+  "ZUFEK ENGINEERING": "INGÉNIERIE ZUFEK",
+  "Theo Wan leads engineering at ZUFEK and writes the company’s practical guides on custom fastener specifications, manufacturing choices, inspection and procurement.": "Theo Wan dirige l’ingénierie de ZUFEK et rédige les guides pratiques de l’entreprise sur la spécification, les choix de fabrication, le contrôle et l’achat de fixations spéciales.",
+  "Each guide focuses on information engineers and buyers can use to prepare drawings, compare manufacturing options and agree acceptance requirements.": "Chaque guide se concentre sur des informations utiles aux ingénieurs et acheteurs pour préparer les plans, comparer les options de fabrication et convenir des exigences d’acceptation.",
+  "Theo Wan — Engineering Lead | ZUFEK": "Theo Wan — Responsable ingénierie | ZUFEK"
 }

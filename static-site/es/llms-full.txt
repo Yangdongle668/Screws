@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1006,7 +1007,9 @@ CONTACTO DIRECTO DE INGENIERÍA
 
 #### ¿Prefieres correo electrónico?
 
-info@zufek.net ↗ Incluya una revisión del dibujo de ingeniería, la cantidad y una breve descripción de la aplicación.
+info@zufek.net ↗ Teléfono / WhatsApp +86 190 6634 8320 · WhatsApp Horario: 08:00–17:30 hora de China (UTC+8)
+
+Incluya una revisión del dibujo de ingeniería, la cantidad y una breve descripción de la aplicación.
 
 ##### ¿Qué pasa después?
 
@@ -1026,14 +1029,14 @@ Envíe una revisión del dibujo de ingeniería, la cantidad de muestra, el volum
 
 Prepare la lista de verificación de RFQ ↗ Comparar rutas de fabricación completas ↗
 
-### Theo Wan — ZUFEK Editorial técnica
+### Theo Wan — Responsable de ingeniería
 Source: https://zufek.net/es/authors/theo-wan/
 
-TW ZUFEK EDITORIAL TÉCNICO
+TW INGENIERÍA ZUFEK
 
 ### Theo Wan 万天恩
 
-Theo Wan es el seudónimo editorial utilizado para las guías prácticas de ZUFEK sobre especificaciones de sujetadores personalizados, opciones de fabricación, inspección y adquisición.
+Theo Wan dirige la ingeniería de ZUFEK y escribe las guías prácticas de la empresa sobre especificación, elección de fabricación, inspección y compra de fijaciones especiales.
 
 #### Enfoque de los artículos
 
@@ -1043,7 +1046,7 @@ Los artículos proporcionan orientación técnica y de compras general. El dise�
 
 #### Enfoque editorial
 
-Publicado bajo un seudónimo editorial. Cada guía se centra en información que los ingenieros y los compradores pueden utilizar para preparar dibujos, comparar opciones de fabricación y acordar requisitos de aceptación.
+Cada guía se centra en información que ingenieros y compradores pueden usar para preparar planos, comparar opciones de fabricación y acordar requisitos de aceptación.
 
 Las fuentes están vinculadas cuando es útil. Los ejemplos de especificaciones ilustran un punto de discusión y no se presentan como historias de casos de clientes o resultados de pruebas.
 

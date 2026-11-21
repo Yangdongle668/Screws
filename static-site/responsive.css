@@ -156,3 +156,11 @@ body:not(.admin-page) main :where(a,button,li,h1,h2,h3,p){min-width:0}
  .cookie-notice .button-row>button:last-child{grid-column:auto}
  .cookie-notice .btn{min-height:40px;padding:6px 4px;font-size:11px;line-height:1.2;white-space:normal;text-align:center;justify-content:center}
 }
+
+/* Direct phone / WhatsApp contact */
+.topbar-phone{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.topbar-phone b{font-weight:600;color:#fff}
+.footer-contact{font-size:13px;line-height:1.7;margin:12px 0 0}
+.footer-contact a{white-space:nowrap}
+@media(max-width:760px){.topbar-phone span{display:none}}
+@media(max-width:420px){.topbar-phone{display:none}}

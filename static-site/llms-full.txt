@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1006,7 +1007,9 @@ DIRECT ENGINEERING CONTACT
 
 #### Prefer email?
 
-info@zufek.net ↗ Include a drawing revision, quantity and a short description of the application.
+info@zufek.net ↗ Phone / WhatsApp +86 190 6634 8320 · WhatsApp Working hours: 08:00–17:30 China time (UTC+8)
+
+Include a drawing revision, quantity and a short description of the application.
 
 ##### What happens next?
 
@@ -1026,14 +1029,14 @@ Send a drawing revision, sample quantity, expected order volume and the intended
 
 Prepare the RFQ checklist ↗ Compare complete manufacturing routes ↗
 
-### Theo Wan — ZUFEK Technical Editorial
+### Theo Wan — Engineering Lead
 Source: https://zufek.net/authors/theo-wan/
 
-TW ZUFEK TECHNICAL EDITORIAL
+TW ZUFEK ENGINEERING
 
 ### Theo Wan 万天恩
 
-Theo Wan is the editorial pen name used for ZUFEK’s practical guides on custom fastener specifications, manufacturing choices, inspection and procurement.
+Theo Wan leads engineering at ZUFEK and writes the company’s practical guides on custom fastener specifications, manufacturing choices, inspection and procurement.
 
 #### Focus of the articles
 
@@ -1043,7 +1046,7 @@ Articles provide general technical and purchasing guidance. Application-specific
 
 #### Editorial approach
 
-Published under an editorial pen name. Each guide focuses on information engineers and buyers can use to prepare drawings, compare manufacturing options and agree acceptance requirements.
+Each guide focuses on information engineers and buyers can use to prepare drawings, compare manufacturing options and agree acceptance requirements.
 
 Sources are linked where useful. Specification examples illustrate a discussion point and are not presented as customer case histories or test results.
 

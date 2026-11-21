@@ -28,7 +28,7 @@ for(const a of [...expandedArticles,...processArticles]){
  for(const p of a.processes)assert(pages['/capabilities/'+p+'/'],'Missing process '+a.slug);
 }
 const about=pages['/about/'];for(const phrase of ['2005','Dalang','Dongguan','Millions of parts','Mercedes-Benz','BMW','vehicle applications served through component supply-chain projects'])assert(about.includes(phrase),'Company statement '+phrase);
-assert(pages['/authors/theo-wan/'].includes('editorial pen name'));
+assert(pages['/authors/theo-wan/'].includes('Engineering Lead')&&!pages['/authors/theo-wan/'].includes('editorial pen name used'));
 const reached=new Set(['/']),pending=['/'];while(pending.length){const u=pending.shift();for(const m of pages[u].matchAll(/href="(\/[^"#?]*)(?:[?#][^"]*)?"/g))if(pages[m[1]]&&!reached.has(m[1])){reached.add(m[1]);pending.push(m[1]);}}
 for(const u of Object.keys(pages))if(!['/404/','/admin/'].includes(u)&&!u.endsWith('/404/'))assert(reached.has(u),'Orphan page '+u);
 console.log(JSON.stringify({pages:Object.keys(pages).length,blogArticles:blogPages.length,newArticles:expandedArticles.length+processArticles.length,visibleAuthors:true,authorSchema:true,companyFacts:true,internalLinks:true,reachableFromHome:true},null,2));

@@ -4685,5 +4685,14 @@
   "Show tool access: head clearance, approach angle and any surrounding walls.": "Werkzeugzugang zeigen: Freiraum am Kopf, Ansatzwinkel und umgebende Wände.",
   "Give the tightening method and torque range so the recess and material can be reviewed together.": "Anzugsverfahren und Drehmomentbereich angeben, damit Antrieb und Werkstoff gemeinsam geprüft werden.",
   "Note how plating or coating is treated in the recess, because build-up can change tool fit.": "Angeben, wie Beschichtung im Antrieb behandelt wird, da Schichtaufbau die Werkzeugpassung verändern kann.",
-  "Agree how the recess is inspected, for example with a go/no-go gauge or the service tool.": "Prüfung des Antriebs vereinbaren, z. B. mit Gut-/Schlecht-Lehre oder dem Servicewerkzeug."
+  "Agree how the recess is inspected, for example with a go/no-go gauge or the service tool.": "Prüfung des Antriebs vereinbaren, z. B. mit Gut-/Schlecht-Lehre oder dem Servicewerkzeug.",
+  "Phone / WhatsApp": "Telefon / WhatsApp",
+  "WhatsApp": "WhatsApp",
+  "Working hours: 08:00–17:30 China time (UTC+8)": "Arbeitszeit: 08:00–17:30 chinesische Zeit (UTC+8)",
+  "Theo Wan — Engineering Lead": "Theo Wan — Leiter Technik",
+  "Technical articles by Theo Wan (万天恩), engineering lead at ZUFEK, on custom fastener specifications, manufacturing routes, inspection and procurement.": "Fachartikel von Theo Wan (万天恩), Leiter Technik bei ZUFEK, zu Spezifikation, Fertigungswegen, Prüfung und Beschaffung von Sonderverbindungselementen.",
+  "ZUFEK ENGINEERING": "ZUFEK TECHNIK",
+  "Theo Wan leads engineering at ZUFEK and writes the company’s practical guides on custom fastener specifications, manufacturing choices, inspection and procurement.": "Theo Wan leitet die Technik bei ZUFEK und schreibt die praxisnahen Leitfäden des Unternehmens zu Spezifikation, Fertigungswahl, Prüfung und Beschaffung von Sonderverbindungselementen.",
+  "Each guide focuses on information engineers and buyers can use to prepare drawings, compare manufacturing options and agree acceptance requirements.": "Jeder Leitfaden konzentriert sich auf Informationen, mit denen Ingenieure und Einkäufer Zeichnungen vorbereiten, Fertigungsoptionen vergleichen und Abnahmeanforderungen vereinbaren.",
+  "Theo Wan — Engineering Lead | ZUFEK": "Theo Wan — Leiter Technik | ZUFEK"
 }

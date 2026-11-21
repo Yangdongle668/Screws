@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1006,7 +1007,9 @@ Source: https://zufek.net/zh/request-a-quote/
 
 #### 更喜欢电子邮件？
 
-info@zufek.net↗ 包括工程图修订、数量和应用程序的简短描述。
+info@zufek.net↗ 电话 / WhatsApp +86 190 6634 8320 · WhatsApp 工作时间：08:00–17:30（北京时间，UTC+8）
+
+包括工程图修订、数量和应用程序的简短描述。
 
 ##### 接下来会发生什么？
 
@@ -1026,14 +1029,14 @@ info@zufek.net↗ 包括工程图修订、数量和应用程序的简短描述�
 
 准备询价清单 ↗ 比较完整的制造路线 ↗
 
-### Theo Wan — ZUFEK 技术编辑
+### 万天恩 — 工程负责人
 Source: https://zufek.net/zh/authors/theo-wan/
 
-TW ZUFEK 技术社论
+TW ZUFEK 工程部
 
 ### Theo Wan 万天恩
 
-Theo Wan 是 ZUFEK 关于定制紧固件规格、制造选择、检查和采购实用指南的编辑笔名。
+万天恩（Theo Wan）负责 ZUFEK 的工程工作，并撰写公司关于非标紧固件规格、加工方式选择、检验和采购的实用指南。
 
 #### 文章重点
 
@@ -1043,7 +1046,7 @@ Theo Wan 是 ZUFEK 关于定制紧固件规格、制造选择、检查和采购�
 
 #### 编辑方法
 
-以编辑笔名发表。每份指南都重点介绍工程师和买家可以用来准备图纸、比较制造选项和商定验收要求的信息。
+每篇指南都聚焦工程师和采购人员可直接使用的信息：准备图纸、比较加工方案、约定验收要求。
 
 有用的地方都链接了来源。规范示例说明了讨论点，并不以客户案例历史或测试结果的形式呈现。
 

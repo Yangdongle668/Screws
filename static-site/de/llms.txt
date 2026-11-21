@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -40,7 +41,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Technischer Blog zu kundenspezifischen Schrauben](https://zufek.net/de/blog/): Lesen Sie technische Zeichnungsleitfäden, Beschaffungschecklisten und praktische Material- und Qualitätsüberlegungen für nicht standardmäßige Metallschrauben.
 - [Über uns — Sonderschrauben seit 2005](https://zufek.net/de/about/): ZUFEK fertigt seit 2005 Sonderschrauben in Dalang, Dongguan. Produkte, Bemusterung und Unternehmenskontakt kennenlernen.
 - [Fordern Sie ein individuelles Schraubenangebot an](https://zufek.net/de/request-a-quote/): Senden Sie ZUFEK Ihre technische Zeichnung, Menge und Anwendungsanforderungen für ein nicht standardmäßiges Angebot für Metallschrauben.
-- [Theo Wan — ZUFEK Technischer Leitartikel](https://zufek.net/de/authors/theo-wan/): Technische Artikel veröffentlicht unter Theo Wan (万天恩), dem redaktionellen Pseudonym für ZUFEK maßgeschneiderte Verbindungsführungen.
+- [Theo Wan — Leiter Technik](https://zufek.net/de/authors/theo-wan/): Fachartikel von Theo Wan (万天恩), Leiter Technik bei ZUFEK, zu Spezifikation, Fertigungswegen, Prüfung und Beschaffung von Sonderverbindungselementen.
 - [Häufig gestellte Fragen zu kundenspezifischen Verbindungselementen](https://zufek.net/de/faq/): Antworten auf häufige Einkaufs- und Technikfragen vor der Anfrage nach Metallschrauben nach Zeichnung. Endgültige Entscheidungen folgen der freigegebenen Zeichnung.
 - [Branchenwissen](https://zufek.net/de/industry-insights/): Branchenentwicklungen und ihre Bedeutung für Sonderschrauben.
 

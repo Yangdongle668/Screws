@@ -203,3 +203,9 @@
 3. **Organization `sameAs`**：LinkedIn、Google 商家资料、行业目录等真实链接。
 4. **信任信号**：工厂 / 设备 / 检测实拍、电话或 WhatsApp、实际持有的认证。
 5. **作者署名**：如有愿意署名的工程或品质负责人，提供姓名与属实的职务。
+
+### 第二轮（2026-11-21）
+- www.zufek.net：网站绑定 www 并 301 到主域名（服务器侧，已从外部确认路径保留）。
+- 联系方式：顶栏、页脚、询盘页加入电话 / WhatsApp +86 190 6634 8320 和工作时间 08:00–17:30（UTC+8）；手机底部快捷按钮由“Email us”改为 WhatsApp；Organization 结构化数据加入 `telephone`；llms.txt 同步。工作日尚未确认，暂未写入 `openingHoursSpecification`。
+- 作者：Theo Wan（万天恩）由笔名改为 ZUFEK 工程负责人，作者页与文章结构化数据改为 `Person`（`jobTitle: Engineering Lead`），未添加学历、证书或年限。
+- 工厂实拍：不使用网络图片冒充自家工厂，需自行拍摄。
