@@ -49,7 +49,7 @@ const content=await createContentService({db,render:pathname=>api.staticResponse
 const contentTimer=setInterval(()=>void content.tick().catch(()=>{}),2000);contentTimer.unref();
 const attempts=new Map();
 const cookie=request=>{const name=sessionCookieName(new URL(request.url));return (request.headers.get('cookie')||'').split(';').map(x=>x.trim()).find(x=>x.startsWith(name+'='))?.slice(name.length+1);};
-const types={'.jpg':'image/jpeg','.jpeg':'image/jpeg','.csv':'text/csv; charset=utf-8','.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
+const types={'.woff2':'font/woff2','.jpg':'image/jpeg','.jpeg':'image/jpeg','.csv':'text/csv; charset=utf-8','.xsl':'application/xslt+xml; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8','.ico':'image/x-icon','.json':'application/json; charset=utf-8'};
 const redirect=(url,extra={})=>new Response(null,{status:303,headers:{Location:url,'Cache-Control':'no-store',...extra}});
 const authenticatedRequest=request=>session.valid(cookie(request));
 const denied=()=>Response.json({error:'Authentication required'},{status:401,headers:{'Cache-Control':'no-store','X-Robots-Tag':'noindex'}});
@@ -93,7 +93,7 @@ if(url.pathname.split('/').at(-1).startsWith('ai-'))return ai.handle(request,url
  let relative;try{relative=decodeURIComponent(url.pathname);}catch{return new Response('Bad path',{status:400});}
  if(relative.includes('\\')||relative.includes('\0')||relative.split('/').some(x=>x.startsWith('.')))return new Response('Not found',{status:404});
  const filename=path.resolve(publicRoot,'.'+relative);
- if(filename.startsWith(publicRoot+path.sep)){try{const stat=await fsp.stat(filename);if(stat.isFile()){const ext=path.extname(filename).toLowerCase();return new Response(Readable.toWeb(fs.createReadStream(filename)),{headers:{'Content-Type':types[ext]||'application/octet-stream','Cache-Control':ext==='.webp'?'public, max-age=86400':'public, max-age=300','X-Content-Type-Options':'nosniff'}});}}catch(error){if(error.code!=='ENOENT'&&error.code!=='ENOTDIR')throw error;}}
+ if(filename.startsWith(publicRoot+path.sep)){try{const stat=await fsp.stat(filename);if(stat.isFile()){const ext=path.extname(filename).toLowerCase();return new Response(Readable.toWeb(fs.createReadStream(filename)),{headers:{'Content-Type':types[ext]||'application/octet-stream','Cache-Control':ext==='.woff2'||(url.searchParams.has('v')&&(ext==='.css'||ext==='.js'))?'public, max-age=31536000, immutable':ext==='.webp'?'public, max-age=86400':'public, max-age=300','X-Content-Type-Options':'nosniff'}});}}catch(error){if(error.code!=='ENOENT'&&error.code!=='ENOTDIR')throw error;}}
  const page=await api.staticResponse(request);
  if(api.splitLocale(url.pathname).path==='/privacy/'||url.pathname==='/admin/'){
   let html=await page.text();

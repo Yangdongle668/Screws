@@ -1,0 +1,317 @@
+{
+  "Automation Fixture Shoulder Screw Design Study": {
+    "de": "Automatisierungsvorrichtung: Designstudie Schulterschraube",
+    "es": "Utillaje de automatización: estudio de tornillo con hombro",
+    "it": "Attrezzatura di automazione: studio vite a spallamento",
+    "fr": "Outillage d’automatisation : étude de vis à épaulement",
+    "zh": "自动化治具台阶螺丝设计示例"
+  },
+  "Automotive Enclosure Flange Screw Design Study": {
+    "de": "Fahrzeug-Modulgehäuse: Designstudie Flanschschraube",
+    "es": "Carcasa de módulo automotriz: estudio de tornillo con brida",
+    "it": "Involucro modulo auto: studio vite flangiata",
+    "fr": "Boîtier de module automobile : étude de vis à embase",
+    "zh": "汽车模块壳体法兰螺丝设计示例"
+  },
+  "Custom Clinch Studs: Specify the Panel Too": {
+    "de": "Einpressbolzen: auch das Blech spezifizieren",
+    "es": "Espárragos de inserción: especifique también la chapa",
+    "it": "Prigionieri a pressione: specificare anche la lamiera",
+    "fr": "Goujons à sertir : spécifier aussi la tôle",
+    "zh": "压铆螺柱：同时明确板材要求"
+  },
+  "Eye Bolts for Linkages vs Lifting: Specification": {
+    "de": "Augenschrauben für Gelenke oder Heben: Spezifikation",
+    "es": "Cáncamos para articulación o elevación: especificación",
+    "it": "Golfari per snodi o sollevamento: specifica",
+    "fr": "Vis à œil pour articulation ou levage : spécification",
+    "zh": "吊环螺栓：连接与起吊的规格差异"
+  },
+  "First-Article Approval for Custom Screws": {
+    "de": "Erstmusterfreigabe für Sonderschrauben",
+    "es": "Aprobación de primera muestra de tornillos especiales",
+    "it": "Approvazione del primo campione di viti speciali",
+    "fr": "Validation du premier article pour vis spéciales",
+    "zh": "非标螺丝首件确认"
+  },
+  "Nickel Plating vs Stainless Passivation in an RFQ": {
+    "de": "Vernickeln oder Edelstahl-Passivieren in der Anfrage",
+    "es": "Niquelado o pasivado de inoxidable en la RFQ",
+    "it": "Nichelatura o passivazione dell’inox nella RFQ",
+    "fr": "Nickelage ou passivation inox dans la demande de devis",
+    "zh": "询价中的镀镍与不锈钢钝化"
+  },
+  "Pre-Applied Locking Patches: What the Drawing Says": {
+    "de": "Vorbeschichtete Schraubensicherung: Angaben der Zeichnung",
+    "es": "Parche de bloqueo preaplicado: qué indica el plano",
+    "it": "Frenafiletti preapplicato: cosa indica il disegno",
+    "fr": "Frein-filet pré-appliqué : ce que le plan doit indiquer",
+    "zh": "预涂防松胶：图纸应写明什么"
+  },
+  "Prototype to Production: Keeping Screw Specs Aligned": {
+    "de": "Vom Prototyp zur Serie: Schraubenspezifikation halten",
+    "es": "Del prototipo a la serie: mantener la especificación",
+    "it": "Dal prototipo alla serie: mantenere la specifica",
+    "fr": "Du prototype à la série : garder la spécification",
+    "zh": "从样件到量产：保持螺丝规格一致"
+  },
+  "Custom Fastener Drawing Review Checklist": {
+    "de": "Checkliste Zeichnungsprüfung für Sonderverbindungselemente",
+    "es": "Lista de revisión de planos de fijaciones especiales",
+    "it": "Checklist revisione disegni per fissaggi speciali",
+    "fr": "Check-list de revue de plan pour fixations spéciales",
+    "zh": "非标紧固件图纸评审清单"
+  },
+  "Prototype to Repeat Production: Screw Handover Guide": {
+    "de": "Vom Prototyp zur Serie: Leitfaden zur Schraubenübergabe",
+    "es": "Del prototipo a la serie: guía de transferencia",
+    "it": "Dal prototipo alla serie: guida al passaggio",
+    "fr": "Du prototype à la série : guide de transfert",
+    "zh": "从样件到批量生产：螺丝转产指南"
+  },
+  "How to Specify a Fastener Surface Treatment": {
+    "de": "Oberflächenbehandlung für Verbindungselemente spezifizieren",
+    "es": "Cómo especificar el tratamiento superficial de fijaciones",
+    "it": "Come specificare il trattamento superficiale dei fissaggi",
+    "fr": "Spécifier le traitement de surface d’une fixation",
+    "zh": "如何规定紧固件表面处理"
+  },
+  "Locating & Pivot Fasteners for Factory Automation": {
+    "de": "Positionier- und Drehpunktschrauben für die Automation",
+    "es": "Fijaciones de posicionado y pivote para automatización",
+    "it": "Fissaggi di posizionamento e perno per l’automazione",
+    "fr": "Fixations de positionnement et pivot pour l’automatisation",
+    "zh": "工厂自动化中的定位与转轴紧固件"
+  },
+  "Battery Storage Equipment: Fastener Interfaces": {
+    "de": "Batteriespeicher: Schnittstellen von Verbindungselementen",
+    "es": "Almacenamiento de baterías: interfaces de fijación",
+    "it": "Accumulo a batteria: interfacce dei fissaggi",
+    "fr": "Stockage par batteries : interfaces de fixation",
+    "zh": "储能设备的紧固件接口"
+  },
+  "Data-Centre Cooling & Service-Access Fasteners": {
+    "de": "Rechenzentrum: Schrauben für Kühlung und Servicezugang",
+    "es": "Centros de datos: fijaciones para refrigeración y servicio",
+    "it": "Data center: fissaggi per raffreddamento e manutenzione",
+    "fr": "Datacenters : fixations pour refroidissement et maintenance",
+    "zh": "数据中心冷却与维护通道紧固件"
+  },
+  "EV Charging Enclosure Fastener Specifications": {
+    "de": "Ladestationsgehäuse: Spezifikation der Verbindungselemente",
+    "es": "Envolventes de recarga VE: especificación de fijaciones",
+    "it": "Involucri di ricarica VE: specifica dei fissaggi",
+    "fr": "Boîtiers de recharge VE : spécification des fixations",
+    "zh": "电动汽车充电桩壳体紧固件规格"
+  },
+  "Fastener Material Supply Risk: Qualified Alternatives": {
+    "de": "Werkstoff-Lieferrisiko: qualifizierte Alternativen",
+    "es": "Riesgo de suministro de material: alternativas cualificadas",
+    "it": "Rischio di fornitura del materiale: alternative qualificate",
+    "fr": "Risque d’approvisionnement matière : alternatives qualifiées",
+    "zh": "紧固件材料供应风险与替代料认可"
+  },
+  "Repairability Rules: What Fastener Buyers Should Define": {
+    "de": "Reparierbarkeit: was Einkäufer von Schrauben festlegen sollten",
+    "es": "Reparabilidad: qué deben definir los compradores de fijaciones",
+    "it": "Riparabilità: cosa devono definire gli acquirenti di fissaggi",
+    "fr": "Réparabilité : ce que les acheteurs de fixations doivent définir",
+    "zh": "可维修性要求：紧固件采购应提前明确什么"
+  },
+  "A carriage bolt’s square neck is a functional anti-rotation feature. Match it to the mating hole and supporting material instead of treating it as cosmetic.": {
+    "de": "Der Vierkantansatz einer Schlossschraube ist ein funktionaler Verdrehschutz. Er wird auf Gegenbohrung und Trägerwerkstoff abgestimmt, nicht als Kosmetik behandelt.",
+    "es": "El cuello cuadrado de un perno de carrocería es un antigiro funcional. Ajústelo al agujero y al material de apoyo; no es un detalle estético.",
+    "it": "Il sottotesta quadro di una vite a testa tonda è un antirotazione funzionale. Va adattato al foro e al materiale di supporto, non trattato come estetica.",
+    "fr": "Le collet carré d’une vis à tête bombée est un anti-rotation fonctionnel. Adaptez-le au trou et au matériau support au lieu de le traiter comme esthétique.",
+    "zh": "马车螺栓的方颈是功能性的防转结构，应与配合孔和支撑材料匹配，而不是外观细节。"
+  },
+  "Camera-based (CCD) inspection can check visible screw features when the image, setup and program match the requirement. It is one part of an acceptance plan.": {
+    "de": "Kamerabasierte (CCD-)Prüfung erfasst sichtbare Schraubenmerkmale, wenn Bild, Aufbau und Programm zur Anforderung passen – als Teil eines Abnahmeplans.",
+    "es": "La inspección por cámara (CCD) verifica rasgos visibles del tornillo si imagen, montaje y programa encajan con el requisito; es parte del plan de aceptación.",
+    "it": "L’ispezione con telecamera (CCD) verifica caratteristiche visibili della vite se immagine, setup e programma corrispondono al requisito: è parte del piano di accettazione.",
+    "fr": "Le contrôle par caméra (CCD) vérifie les caractéristiques visibles d’une vis si image, réglage et programme répondent à l’exigence ; il s’inscrit dans un plan d’acceptation.",
+    "zh": "CCD视觉检测可检查螺丝的可见特征，前提是成像、设置和程序与要求匹配；它只是完整验收方案的一部分。"
+  },
+  "Cleanliness is a technical requirement when contamination affects the assembly. Define what is removed, how it is measured and how it is protected.": {
+    "de": "Sauberkeit wird zur technischen Anforderung, wenn Verunreinigungen die Baugruppe beeinflussen. Festlegen, was entfernt, wie gemessen und wie geschützt wird.",
+    "es": "La limpieza es un requisito técnico cuando la contaminación afecta al conjunto. Defina qué se elimina, cómo se mide y cómo se protege.",
+    "it": "La pulizia è un requisito tecnico quando la contaminazione influisce sull’assieme. Definire cosa rimuovere, come misurarlo e come proteggerlo.",
+    "fr": "La propreté devient une exigence technique quand la contamination affecte l’assemblage. Définissez ce qui est retiré, comment le mesurer et le protéger.",
+    "zh": "当污染会影响装配时，清洁度就是技术要求：明确需去除什么、如何测量以及如何保护清洁状态。"
+  },
+  "Build a custom screw inspection plan one characteristic at a time: acceptance condition, method, stage, coverage and retained evidence, with worked rows.": {
+    "de": "Prüfplan für Sonderschrauben Merkmal für Merkmal: Abnahmekriterium, Methode, Prüfstufe, Umfang und Nachweis – mit durchgerechneten Beispielzeilen.",
+    "es": "Plan de inspección de tornillos especiales por característica: criterio, método, etapa, cobertura y evidencia, con filas de ejemplo.",
+    "it": "Piano di controllo per viti speciali caratteristica per caratteristica: criterio, metodo, fase, copertura ed evidenze, con righe di esempio.",
+    "fr": "Plan de contrôle de vis spéciales caractéristique par caractéristique : critère, méthode, étape, couverture et preuves, avec lignes d’exemple.",
+    "zh": "按特性逐项建立非标螺丝检验计划：验收条件、方法、检验阶段、覆盖范围和保留记录，并附示例行。"
+  },
+  "A useful custom screw quotation starts with a clear specification. A drawing is best, but a sample, sketch or assembly description also helps.": {
+    "de": "Ein brauchbares Angebot für Sonderschrauben beginnt mit einer klaren Spezifikation. Ideal ist eine Zeichnung; Muster, Skizze oder Baugruppenbeschreibung helfen ebenfalls.",
+    "es": "Una buena cotización de tornillos especiales parte de una especificación clara. Lo ideal es un plano, pero una muestra, un boceto o una descripción también ayudan.",
+    "it": "Un’offerta utile per viti speciali parte da una specifica chiara. L’ideale è un disegno, ma anche campione, schizzo o descrizione dell’assieme aiutano.",
+    "fr": "Un devis utile de vis spéciales part d’une spécification claire. Un plan est idéal, mais un échantillon, un croquis ou une description d’assemblage aident aussi.",
+    "zh": "有用的非标螺丝报价始于清晰规格。最好提供图纸；样品、草图或装配说明也有帮助。"
+  },
+  "Different threads at each end solve an interface problem but add an identification risk. Make each end clear on the drawing, inspection plan and packaging.": {
+    "de": "Unterschiedliche Gewinde an beiden Enden lösen ein Schnittstellenproblem, bergen aber Verwechslungsgefahr. Jedes Ende in Zeichnung, Prüfplan und Verpackung kennzeichnen.",
+    "es": "Roscas distintas en cada extremo resuelven una interfaz pero añaden riesgo de confusión. Identifique cada extremo en plano, plan de inspección y embalaje.",
+    "it": "Filetti diversi alle due estremità risolvono un’interfaccia ma aggiungono rischio di scambio. Identificare ogni estremità su disegno, piano di controllo e imballo.",
+    "fr": "Des filetages différents aux deux extrémités résolvent une interface mais créent un risque d’erreur. Identifiez chaque côté sur plan, plan de contrôle et emballage.",
+    "zh": "两端不同螺纹解决了接口问题，却带来混装风险。应在图纸、检验计划和包装上明确区分两端。"
+  },
+  "Repeat orders should repeat the approved specification, not an old email. Simple revision control keeps drawings, samples and inspection records aligned.": {
+    "de": "Wiederholaufträge sollen die freigegebene Spezifikation wiederholen, nicht eine alte E-Mail. Einfache Revisionslenkung hält Zeichnung, Muster und Prüfnachweise im Einklang.",
+    "es": "Los pedidos repetidos deben repetir la especificación aprobada, no un correo antiguo. Un control de revisiones sencillo alinea planos, muestras y registros.",
+    "it": "Gli ordini ripetuti devono ripetere la specifica approvata, non una vecchia e-mail. Un semplice controllo revisioni allinea disegni, campioni e registrazioni.",
+    "fr": "Les commandes répétées doivent reprendre la spécification approuvée, pas un ancien e-mail. Un contrôle de révision simple aligne plans, échantillons et enregistrements.",
+    "zh": "返单应沿用已批准的规格，而不是旧邮件。简单的版本控制可让图纸、样品和检验记录保持一致。"
+  },
+  "First-article approval links the approved drawing with the evidence needed before production: sample identity, revision and acceptance scope.": {
+    "de": "Die Erstmusterfreigabe verbindet die freigegebene Zeichnung mit den Nachweisen vor der Serie: Musteridentität, Revisionsstand und Abnahmeumfang.",
+    "es": "La aprobación de primera muestra une el plano aprobado con la evidencia previa a la serie: identidad de la muestra, revisión y alcance de aceptación.",
+    "it": "L’approvazione del primo campione collega il disegno approvato alle evidenze prima della serie: identità del campione, revisione e ambito di accettazione.",
+    "fr": "La validation du premier article relie le plan approuvé aux preuves requises avant la série : identité de l’échantillon, révision et périmètre d’acceptation.",
+    "zh": "首件确认把已批准图纸与量产前所需证据联系起来：样品标识、图纸版本和验收范围。"
+  },
+  "A prototype proves geometry, not the production route. Plan the transition so approved function and acceptance survive the change of manufacturing method.": {
+    "de": "Ein Prototyp bestätigt die Geometrie, nicht den Serienweg. Den Übergang so planen, dass Funktion und Abnahme den Wechsel des Fertigungsverfahrens überstehen.",
+    "es": "Un prototipo valida la geometría, no la ruta de serie. Planifique la transición para que función y aceptación se mantengan al cambiar el proceso.",
+    "it": "Un prototipo conferma la geometria, non il ciclo di serie. Pianificare la transizione perché funzione e accettazione restino valide al cambio di processo.",
+    "fr": "Un prototype valide la géométrie, pas la gamme de série. Planifiez la transition pour que fonction et acceptation survivent au changement de procédé.",
+    "zh": "样件验证的是几何形状，而不是量产工艺路线。应规划好转产，使已批准的功能和验收要求在更换加工方式后仍然成立。"
+  },
+  "Thread rolling or cutting is a process choice; thread geometry and acceptance are product requirements. A complete RFQ states both clearly.": {
+    "de": "Gewinderollen oder -schneiden ist eine Verfahrenswahl; Gewindegeometrie und Abnahme sind Produktanforderungen. Eine vollständige Anfrage nennt beides.",
+    "es": "Laminar o tallar la rosca es una elección de proceso; geometría y aceptación de la rosca son requisitos del producto. Una RFQ completa indica ambos.",
+    "it": "Rullatura o taglio del filetto è una scelta di processo; geometria e accettazione sono requisiti di prodotto. Una RFQ completa li indica entrambi.",
+    "fr": "Rouler ou tailler un filetage est un choix de procédé ; géométrie et acceptation sont des exigences produit. Une demande complète précise les deux.",
+    "zh": "滚丝还是车丝是工艺选择；螺纹几何和验收是产品要求。完整的询价应同时写清两者。"
+  },
+  "Inspection coverage should follow each characteristic and the acceptance plan. “Full inspection” alone leaves the method, features and evidence undefined.": {
+    "de": "Der Prüfumfang folgt Merkmal und Abnahmeplan. „100 % Prüfung“ allein lässt Methode, Merkmale und Nachweise offen.",
+    "es": "La cobertura de inspección debe seguir cada característica y el plan de aceptación. «Inspección al 100 %» por sí sola deja indefinidos método, rasgos y evidencia.",
+    "it": "La copertura dei controlli deve seguire ogni caratteristica e il piano di accettazione. «Controllo al 100 %» da solo lascia indefiniti metodo, caratteristiche ed evidenze.",
+    "fr": "La couverture du contrôle suit chaque caractéristique et le plan d’acceptation. « Contrôle à 100 % » seul laisse méthode, caractéristiques et preuves indéfinies.",
+    "zh": "检验覆盖范围应按特性和验收计划确定。只写“全检”，方法、特性和证据仍未定义。"
+  },
+  "Tightening instructions belong to the joint, not the screw diameter. Friction, bearing surfaces and assembly method link tightening torque to clamp load.": {
+    "de": "Anzugsvorgaben gehören zur Verbindung, nicht zum Schraubendurchmesser. Reibung, Auflageflächen und Montageverfahren verknüpfen Anzugsmoment und Klemmkraft.",
+    "es": "Las instrucciones de apriete pertenecen a la unión, no al diámetro. Fricción, superficies de apoyo y método de montaje relacionan par y fuerza de apriete.",
+    "it": "Le istruzioni di serraggio appartengono al giunto, non al diametro. Attrito, superfici di appoggio e metodo di montaggio legano coppia e forza di serraggio.",
+    "fr": "Les consignes de serrage relèvent de l’assemblage, pas du diamètre. Frottement, surfaces d’appui et méthode lient couple de serrage et effort de serrage.",
+    "zh": "拧紧要求属于连接副，而非仅由螺丝直径决定。摩擦、支承面和装配方法共同决定拧紧扭矩与夹紧力的关系。"
+  },
+  "Answers to common purchasing and engineering questions before requesting drawing-defined metal screws. Final decisions follow the approved drawing.": {
+    "de": "Antworten auf häufige Einkaufs- und Technikfragen vor der Anfrage nach Metallschrauben nach Zeichnung. Endgültige Entscheidungen folgen der freigegebenen Zeichnung.",
+    "es": "Respuestas a preguntas habituales de compras e ingeniería antes de solicitar tornillos metálicos según plano. Las decisiones finales siguen el plano aprobado.",
+    "it": "Risposte alle domande frequenti di acquisti e ingegneria prima di richiedere viti metalliche su disegno. Le decisioni finali seguono il disegno approvato.",
+    "fr": "Réponses aux questions fréquentes d’achat et d’ingénierie avant de demander des vis métalliques sur plan. Les décisions finales suivent le plan approuvé.",
+    "zh": "询价按图定制金属螺丝前的常见采购与工程问题解答。最终决定以批准图纸为准。"
+  },
+  "Automation Fixture Shoulder Screw Design Study | ZUFEK": {
+    "de": "Automatisierungsvorrichtung: Designstudie Schulterschraube | ZUFEK",
+    "es": "Utillaje de automatización: estudio de tornillo con hombro | ZUFEK",
+    "it": "Attrezzatura di automazione: studio vite a spallamento | ZUFEK",
+    "fr": "Outillage d’automatisation : étude de vis à épaulement | ZUFEK",
+    "zh": "自动化治具台阶螺丝设计示例 | ZUFEK"
+  },
+  "Automotive Enclosure Flange Screw Design Study | ZUFEK": {
+    "de": "Fahrzeug-Modulgehäuse: Designstudie Flanschschraube | ZUFEK",
+    "es": "Carcasa de módulo automotriz: estudio de tornillo con brida | ZUFEK",
+    "it": "Involucro modulo auto: studio vite flangiata | ZUFEK",
+    "fr": "Boîtier de module automobile : étude de vis à embase | ZUFEK",
+    "zh": "汽车模块壳体法兰螺丝设计示例 | ZUFEK"
+  },
+  "Custom Clinch Studs: Specify the Panel Too | ZUFEK": {
+    "de": "Einpressbolzen: auch das Blech spezifizieren | ZUFEK",
+    "es": "Espárragos de inserción: especifique también la chapa | ZUFEK",
+    "it": "Prigionieri a pressione: specificare anche la lamiera | ZUFEK",
+    "fr": "Goujons à sertir : spécifier aussi la tôle | ZUFEK",
+    "zh": "压铆螺柱：同时明确板材要求 | ZUFEK"
+  },
+  "Eye Bolts for Linkages vs Lifting: Specification | ZUFEK": {
+    "de": "Augenschrauben für Gelenke oder Heben: Spezifikation | ZUFEK",
+    "es": "Cáncamos para articulación o elevación: especificación | ZUFEK",
+    "it": "Golfari per snodi o sollevamento: specifica | ZUFEK",
+    "fr": "Vis à œil pour articulation ou levage : spécification | ZUFEK",
+    "zh": "吊环螺栓：连接与起吊的规格差异 | ZUFEK"
+  },
+  "First-Article Approval for Custom Screws | ZUFEK": {
+    "de": "Erstmusterfreigabe für Sonderschrauben | ZUFEK",
+    "es": "Aprobación de primera muestra de tornillos especiales | ZUFEK",
+    "it": "Approvazione del primo campione di viti speciali | ZUFEK",
+    "fr": "Validation du premier article pour vis spéciales | ZUFEK",
+    "zh": "非标螺丝首件确认 | ZUFEK"
+  },
+  "Nickel Plating vs Stainless Passivation in an RFQ | ZUFEK": {
+    "de": "Vernickeln oder Edelstahl-Passivieren in der Anfrage | ZUFEK",
+    "es": "Niquelado o pasivado de inoxidable en la RFQ | ZUFEK",
+    "it": "Nichelatura o passivazione dell’inox nella RFQ | ZUFEK",
+    "fr": "Nickelage ou passivation inox dans la demande de devis | ZUFEK",
+    "zh": "询价中的镀镍与不锈钢钝化 | ZUFEK"
+  },
+  "Pre-Applied Locking Patches: What the Drawing Says | ZUFEK": {
+    "de": "Vorbeschichtete Schraubensicherung: Angaben der Zeichnung | ZUFEK",
+    "es": "Parche de bloqueo preaplicado: qué indica el plano | ZUFEK",
+    "it": "Frenafiletti preapplicato: cosa indica il disegno | ZUFEK",
+    "fr": "Frein-filet pré-appliqué : ce que le plan doit indiquer | ZUFEK",
+    "zh": "预涂防松胶：图纸应写明什么 | ZUFEK"
+  },
+  "Prototype to Production: Keeping Screw Specs Aligned | ZUFEK": {
+    "de": "Vom Prototyp zur Serie: Schraubenspezifikation halten | ZUFEK",
+    "es": "Del prototipo a la serie: mantener la especificación | ZUFEK",
+    "it": "Dal prototipo alla serie: mantenere la specifica | ZUFEK",
+    "fr": "Du prototype à la série : garder la spécification | ZUFEK",
+    "zh": "从样件到量产：保持螺丝规格一致 | ZUFEK"
+  },
+  "Custom Fastener Drawing Review Checklist | ZUFEK": {
+    "de": "Checkliste Zeichnungsprüfung für Sonderverbindungselemente | ZUFEK",
+    "es": "Lista de revisión de planos de fijaciones especiales | ZUFEK",
+    "it": "Checklist revisione disegni per fissaggi speciali | ZUFEK",
+    "fr": "Check-list de revue de plan pour fixations spéciales | ZUFEK",
+    "zh": "非标紧固件图纸评审清单 | ZUFEK"
+  },
+  "Prototype to Repeat Production: Screw Handover Guide | ZUFEK": {
+    "de": "Vom Prototyp zur Serie: Leitfaden zur Schraubenübergabe | ZUFEK",
+    "es": "Del prototipo a la serie: guía de transferencia | ZUFEK",
+    "it": "Dal prototipo alla serie: guida al passaggio | ZUFEK",
+    "fr": "Du prototype à la série : guide de transfert | ZUFEK",
+    "zh": "从样件到批量生产：螺丝转产指南 | ZUFEK"
+  },
+  "How to Specify a Fastener Surface Treatment | ZUFEK": {
+    "de": "Oberflächenbehandlung für Verbindungselemente spezifizieren | ZUFEK",
+    "es": "Cómo especificar el tratamiento superficial de fijaciones | ZUFEK",
+    "it": "Come specificare il trattamento superficiale dei fissaggi | ZUFEK",
+    "fr": "Spécifier le traitement de surface d’une fixation | ZUFEK",
+    "zh": "如何规定紧固件表面处理 | ZUFEK"
+  },
+  "Locating & Pivot Fasteners for Factory Automation | ZUFEK": {
+    "de": "Positionier- und Drehpunktschrauben für die Automation | ZUFEK",
+    "es": "Fijaciones de posicionado y pivote para automatización | ZUFEK",
+    "it": "Fissaggi di posizionamento e perno per l’automazione | ZUFEK",
+    "fr": "Fixations de positionnement et pivot pour l’automatisation | ZUFEK",
+    "zh": "工厂自动化中的定位与转轴紧固件 | ZUFEK"
+  },
+  "Battery Storage Equipment: Fastener Interfaces | ZUFEK": {
+    "de": "Batteriespeicher: Schnittstellen von Verbindungselementen | ZUFEK",
+    "es": "Almacenamiento de baterías: interfaces de fijación | ZUFEK",
+    "it": "Accumulo a batteria: interfacce dei fissaggi | ZUFEK",
+    "fr": "Stockage par batteries : interfaces de fixation | ZUFEK",
+    "zh": "储能设备的紧固件接口 | ZUFEK"
+  },
+  "Data-Centre Cooling & Service-Access Fasteners | ZUFEK": {
+    "de": "Rechenzentrum: Schrauben für Kühlung und Servicezugang | ZUFEK",
+    "es": "Centros de datos: fijaciones para refrigeración y servicio | ZUFEK",
+    "it": "Data center: fissaggi per raffreddamento e manutenzione | ZUFEK",
+    "fr": "Datacenters : fixations pour refroidissement et maintenance | ZUFEK",
+    "zh": "数据中心冷却与维护通道紧固件 | ZUFEK"
+  },
+  "EV Charging Enclosure Fastener Specifications | ZUFEK": {
+    "de": "Ladestationsgehäuse: Spezifikation der Verbindungselemente | ZUFEK",
+    "es": "Envolventes de recarga VE: especificación de fijaciones | ZUFEK",
+    "it": "Involucri di ricarica VE: specifica dei fissaggi | ZUFEK",
+    "fr": "Boîtiers de recharge VE : spécification des fixations | ZUFEK",
+    "zh": "电动汽车充电桩壳体紧固件规格 | ZUFEK"
+  }
+}

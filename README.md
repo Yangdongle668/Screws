@@ -30,7 +30,7 @@ npm run dev
 | `lib/`、`app/`、`worker/` | 服务端路由、询盘、文章、统计、SMTP 设置与备份 |
 | `drizzle/` | 数据库迁移，不含客户记录 |
 | `smtp-bridge/` | 可独立部署到 Linux/Docker 的 SMTP 转接服务 |
-| `site-content.config.json` | 规范网址，正式域名尚待确定 |
+| `site-content.config.json` | 规范网址（正式域名 https://zufek.net；Docker 构建时以 `PUBLIC_URL` 为准） |
 | `.openai/hosting.json` | 已有 Sites 项目与数据库/文件绑定声明 |
 
 ## 提交前检查
