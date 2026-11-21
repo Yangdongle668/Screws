@@ -54,6 +54,7 @@ jobs:
           node docker/verify-translation-links.mjs
           node docker/verify-translation-numbers.mjs
           node docker/verify-writing-style-memo.mjs
+          node docker/verify-article-studio.mjs
           node docker/verify-ai-optional-sources.mjs
           node docker/verify-ai-article-contract.mjs
           node docker/verify-ai-research-quality.mjs
@@ -117,5 +118,6 @@ jobs:
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-publishing.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-autoflow.mjs
           docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-ai-article-types.mjs
+          docker run --rm --network none --entrypoint node zufek-ci:${{ github.sha }} docker/verify-studio-publish.mjs
       - name: Test production container without external services
         run: docker run --rm --entrypoint node zufek-ci:${{ github.sha }} docker/verify-runtime.mjs
