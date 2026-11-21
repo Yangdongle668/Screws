@@ -2,6 +2,7 @@ import {createContentService} from './content-service.mjs';
 import {createMediaService} from './media-service.mjs';
 import {createAIWorkerPool} from './ai-worker-pool.mjs';
 import {createPAAService} from './paa-service.mjs';
+import {createGSCService} from './gsc-service.mjs';
 import {publicAddress} from './ai-network.mjs';
 import {createInsights} from './insights.mjs';
 import {createInquiryRecovery} from './inquiry-recovery.mjs';
@@ -37,7 +38,7 @@ const editorialCorrections=await api.applyEditorialCorrections().catch(error=>{c
 const aiPool=createAIWorkerPool({db,data,editorialAction:aiEditorial});
 const ai=await createAIService({db,data,executor:aiPool,normalizeArticle:api.validateArticle,editorialAction:aiEditorial,saveArticle:(request,body)=>api.adminAPI(new Request(new URL('/api/admin/article-save',request.url),{method:'POST',headers:request.headers,body:JSON.stringify(body)}),'article-save')});
 aiPool.setWake(()=>ai.tick());
-const paa=await createPAAService({db,data});
+const paa=await createPAAService({db,data});const gsc=await createGSCService({db});
 const geoReader=new api.CountryReader(gunzipSync(fs.readFileSync(path.join(root,'docker/geoip/country.mmdb.gz'))));
 const countryForIP=ip=>{try{if(!publicAddress(ip))return 'Unknown';const country=geoReader.get(ip)?.country?.iso_code;return /^[A-Z]{2}$/.test(country||'')?country:'Unknown';}catch{return 'Unknown';}};
 const insights=await createInsights({db,secret:process.env.SESSION_SECRET,captureFullIP:true,countryForIP,mailConfig:api.loadMailConfig,retryMail:api.retryNotifications});
@@ -74,7 +75,7 @@ async function handle(request,clientIp){
  if(url.pathname.startsWith('/api/admin/')){if(!authenticated)return denied();const action=url.pathname.split('/').at(-1);
  if(action.startsWith('content-'))return content.handle(request,action);
  if(action.startsWith('media-'))return media.handle(request,action);
- if(action.startsWith('paa-'))return paa.handle(request,action);
+ if(action.startsWith('paa-'))return paa.handle(request,action);  if(action.startsWith('gsc-'))return gsc.handle(request,action);
  if(action==='inquiries'&&request.method==='GET')return insights.handle(request,'crm-inquiries');
  if(action.startsWith('traffic-')||action.startsWith('crm-'))return insights.handle(request,action);
  if(action==='backup'&&request.method==='GET')return api.backupResponse(['traffic_hits','crm_profiles']);
@@ -107,7 +108,7 @@ let mailRunning=false;
 async function retryMail(){if(mailRunning)return;mailRunning=true;try{await api.retryNotifications(5);}catch{console.error('Mail retry deferred; inquiry records remain saved.');}finally{mailRunning=false;}}
 const timer=setInterval(()=>{void retryMail();void recovery.replay();void insights.cleanup().catch(()=>{});},60000);timer.unref();
 void recovery.replay();
-const paaTimer=setInterval(()=>void paa.tick().catch(()=>console.error('PAA scheduler deferred; inspect the authenticated task log.')),60000);paaTimer.unref();
+const paaTimer=setInterval(()=>{void paa.tick().catch(()=>console.error('PAA scheduler deferred; inspect the authenticated task log.'));void gsc.tick().catch(()=>{});},60000);paaTimer.unref();
 void paa.tick().catch(()=>console.error('PAA scheduler start deferred.'));
 const aiTimer=setInterval(()=>void ai.tick().catch(()=>console.error('AI scheduler deferred; inspect the authenticated task log.')),60000);aiTimer.unref();
 void ai.tick().catch(()=>console.error('AI scheduler start deferred.'));
@@ -136,4 +137,4 @@ const server=http.createServer(async(incoming,outgoing)=>{
 server.requestTimeout=35000;server.headersTimeout=10000;server.keepAliveTimeout=5000;
 server.listen(Number(process.env.PORT||3000),process.env.HOST||'0.0.0.0',()=>console.log('ZUFEK production server ready.'));
 let shuttingDown=false;
-for(const signal of ['SIGINT','SIGTERM'])process.on(signal,async()=>{if(shuttingDown)return;shuttingDown=true;setTimeout(()=>process.exit(1),20000).unref();clearInterval(contentTimer);const contentShutdown=content.close();await contentAI.close();await contentShutdown;clearInterval(timer);clearInterval(aiTimer);clearInterval(paaTimer);paa.close();await ai.close();server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});});
+for(const signal of ['SIGINT','SIGTERM'])process.on(signal,async()=>{if(shuttingDown)return;shuttingDown=true;setTimeout(()=>process.exit(1),20000).unref();clearInterval(contentTimer);const contentShutdown=content.close();await contentAI.close();await contentShutdown;clearInterval(timer);clearInterval(aiTimer);clearInterval(paaTimer);paa.close();gsc.close();await ai.close();server.close(()=>{smtp.close(()=>{db.close();process.exit(0);});});});

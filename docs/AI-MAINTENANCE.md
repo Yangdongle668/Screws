@@ -62,3 +62,11 @@ OUTLINE may request INSUFFICIENT_EVIDENCE with missingEvidence and targeted rese
 External references are optional for all article types, including industry insights. Technical blogs, guides and ordinary updates skip external research and normally publish with sources:[] and article.sources:[]. Industry insights may enable insightResearch in the panel (default false); research failures or empty responses do not block qualitative writing. No search request is made when this option is off. Unknown references are omitted from the optional reference list and recorded in task referenceNotes rather than used as an article-generation gate. Missing JSON fields, broken destinations and invalid article structure remain validation errors.
 
 Approved company facts, existing full page content and general engineering knowledge guide writing. Unsupported precise figures, invented current events, credentials and measured customer results remain prohibited. A source-only HOLD is reconsidered once with a narrower qualitative scope. SEO scoring no longer allocates points by citation count; it evaluates applicability and decision support instead.
+
+## Stream completion and interrupted output (2026-11-21)
+
+- A streamed response that has delivered a `finish_reason` is treated as complete even if the gateway omits the final `[DONE]` marker or closes the connection immediately afterwards. Previously such complete, already-billed responses were discarded as `STREAM_INTERRUPTED`.
+- When a stream is interrupted (total or idle timeout, dropped connection, cancellation) the text received so far is saved as the call's raw output file, so it can be inspected instead of lost. For DRAFT, the same safe recovery used for length cut-offs applies: only when the full article body is present and just the optional metadata tail is missing. Otherwise the call still fails and no text is invented.
+- The model-based JSON syntax repair (`JSON_RECOVERY`) is skipped for responses longer than 24,000 characters, because echoing a long response costs as much as generating it again and rarely passes the verbatim-preservation check. Shorter repairs request an output budget sized to the response rather than the full output limit.
+
+Verification: `node docker/verify-ai-stream-recovery.mjs` plus the existing AI suite.
