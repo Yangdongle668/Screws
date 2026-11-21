@@ -146,3 +146,13 @@ body:not(.admin-page) main :where(a,button,li,h1,h2,h3,p){min-width:0}
  .material-finder-table :where(th,td){display:block;min-width:0;width:auto;border:0;padding:12px 16px}
  .material-finder-table th{background:var(--soft)}.material-mobile-label{display:block;color:var(--muted);margin-bottom:4px}
 }
+
+/* Compact mobile consent bar: keep the first screen visible while choices stay one tap away. */
+@media(max-width:760px){
+ .cookie-notice{left:0;right:0;bottom:calc(70px + env(safe-area-inset-bottom));max-width:none;max-height:none;overflow:visible;padding:12px 16px 14px;border-width:1px 0;box-shadow:0 -6px 24px #102c371f}
+ .cookie-notice strong{font-size:14px}
+ .cookie-notice p{font-size:12px;line-height:1.45;margin:4px 0 10px}
+ .cookie-notice .button-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+ .cookie-notice .button-row>button:last-child{grid-column:auto}
+ .cookie-notice .btn{min-height:40px;padding:6px 4px;font-size:11px;line-height:1.2;white-space:normal;text-align:center;justify-content:center}
+}

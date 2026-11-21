@@ -17,13 +17,13 @@ Source audit, not a search-engine indexing or rich-result validation.
     "CollectionPage": 30,
     "Service": 162,
     "BlogPosting": 288,
+    "FAQPage": 78,
     "ProfilePage": 6,
-    "TechArticle": 30,
-    "FAQPage": 6
+    "TechArticle": 30
   },
   "sitemapSections": 8,
   "sitemapURLs": 780,
-  "descriptionOver200": 192
+  "descriptionOver200": 70
 }
 ```
 
