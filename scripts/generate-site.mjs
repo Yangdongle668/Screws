@@ -163,7 +163,7 @@ mkdirSync('public',{recursive:true});
 console.log(`Generated ${Object.keys(pages).length} static HTML pages.`);
 writeFileSync('public/article-audit-ui.js','(()=>{'+readFileSync('lib/article-audit.mjs','utf8').replace(/^export /gm,'')+'window.ZufekArticleAudit={gradeArticle,assessWritingStyle};})();');
 writeFileSync('public/editor-markdown.js','(()=>{'+readFileSync('lib/safe-markdown.mjs','utf8').replace(/^export /gm,'')+'window.ZufekMarkdown=renderSafeMarkdown;})();');
-for(const asset of ['editorial-rich.js','editor-markdown.js','article-audit-ui.js','paa-admin.js','responsive.css','insights-admin.js','ai-admin.js','sitemap.xsl','site.css','crawl-xml.css','seo-settings.js','home-carousel.js','site.js','i18n.js','editorial-translations.js','admin.js','admin-locale.js','admin-map.js','admin-world.svg','admin-world-attribution.txt','mail-settings.js','editorial.js','favicon.svg','favicon.ico','favicon-32.png','favicon-48.png','favicon-180.png'])copyFileSync('public/'+asset,'static-site/'+asset);
+for(const asset of ['editorial-rich.js','editor-markdown.js','article-audit-ui.js','paa-admin.js','gsc-admin.js','responsive.css','insights-admin.js','ai-admin.js','sitemap.xsl','site.css','crawl-xml.css','seo-settings.js','home-carousel.js','site.js','i18n.js','editorial-translations.js','admin.js','admin-locale.js','admin-map.js','admin-world.svg','admin-world-attribution.txt','mail-settings.js','editorial.js','favicon.svg','favicon.ico','favicon-32.png','favicon-48.png','favicon-180.png'])copyFileSync('public/'+asset,'static-site/'+asset);
 cpSync('public/images','static-site/images',{recursive:true});
 
 cpSync('public/brand','static-site/brand',{recursive:true});cpSync('public/fonts','static-site/fonts',{recursive:true});
