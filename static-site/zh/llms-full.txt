@@ -19,23 +19,23 @@
 HTML pages are the primary source. This directory lists current indexable public content; drafts, withdrawn translations and private inquiry records are excluded. llms.txt is an optional navigation aid, not an indexing, ranking or citation guarantee. Full text follows the same public publication state.
 
 ## Resource map
-- [Sitemap index](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap_index.xml)
-- [Robots policy](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/robots.txt)
-- [Language homepage](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/)
-- [Compact directory](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/llms.txt)
+- [Sitemap index](https://zufek.net/sitemap_index.xml)
+- [Robots policy](https://zufek.net/robots.txt)
+- [Language homepage](https://zufek.net/zh/)
+- [Compact directory](https://zufek.net/zh/llms.txt)
 
 ## Language editions
-- [English](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/llms.txt)
-- [Deutsch](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/llms.txt)
-- [Español](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/llms.txt)
-- [Italiano](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/llms.txt)
-- [中文](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/llms.txt)
-- [Français](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/llms.txt)
+- [English](https://zufek.net/llms.txt)
+- [Deutsch](https://zufek.net/de/llms.txt)
+- [Español](https://zufek.net/es/llms.txt)
+- [Italiano](https://zufek.net/it/llms.txt)
+- [中文](https://zufek.net/zh/llms.txt)
+- [Français](https://zufek.net/fr/llms.txt)
 
 ## 企业与核心页面
 
 ### 东莞非标螺丝源头制造商
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/
+Source: https://zufek.net/zh/
 
 按图定制非标件
 
@@ -212,7 +212,7 @@ CCD视觉尺寸检测 ↗ 明确检验项目。 约定验收记录。 ↗ CCD �
 汽车模块外壳 ↗ 自动化转轴与调节治具 ↗ 查看应用方案设计示例 ↗
 
 ### 非标螺丝检验与质量记录
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/quality/
+Source: https://zufek.net/zh/quality/
 
 工程图验收
 
@@ -315,7 +315,7 @@ CCD 光学尺寸检测、螺纹量规和机械测试针对不同的特性。非�
 下载空白检验记录表（英文） 下载检验计划填写示例（英文）
 
 ### 非标金属螺丝的技术资源
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/resources/
+Source: https://zufek.net/zh/resources/
 
 知识中心
 
@@ -632,7 +632,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 特殊驱动接口指南 ↗ 完整的制造路线示例 ↗ 按家庭选择材料↗
 
 ### 定制螺丝技术博客
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/
+Source: https://zufek.net/zh/blog/
 
 技术见解
 
@@ -899,7 +899,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 这些指南支持规范讨论。特定于应用的工程和制造要求需要单独审查。
 
 ### 关于我们｜自 2005 年专注非标紧固件
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/about/
+Source: https://zufek.net/zh/about/
 
 DONGGUAN ZUFEK PRECISION CO., LTD.
 
@@ -988,7 +988,7 @@ info@zufek.net↗ 包括与您的应用相关的工程图纸修订、数量、�
 准备样品批准要求 ↗ 品质策划 应用设计研究
 
 ### 索取定制螺丝报价
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/request-a-quote/
+Source: https://zufek.net/zh/request-a-quote/
 
 让我们从您的要求开始
 
@@ -1027,7 +1027,7 @@ info@zufek.net↗ 包括工程图修订、数量和应用程序的简短描述�
 准备询价清单 ↗ 比较完整的制造路线 ↗
 
 ### Theo Wan — ZUFEK 技术编辑
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/authors/theo-wan/
+Source: https://zufek.net/zh/authors/theo-wan/
 
 TW ZUFEK 技术社论
 
@@ -1108,7 +1108,7 @@ Theo Wan 是 ZUFEK 关于定制紧固件规格、制造选择、检查和采购�
 作者：Theo Wan 阅读技术指南 → 查看完整的技术博客 ↗
 
 ### 非标紧固件常见问题
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/faq/
+Source: https://zufek.net/zh/faq/
 
 技术见解
 
@@ -1159,7 +1159,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/faq
 询价清单 · 获取报价
 
 ### 行业观察
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/
+Source: https://zufek.net/zh/industry-insights/
 
 技术见解
 
@@ -1195,7 +1195,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 ## 产品
 
 ### 定制螺丝产品和非标准紧固件类型
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/
+Source: https://zufek.net/zh/products/
 
 定制紧固件系列
 
@@ -1378,7 +1378,7 @@ T头宽度与厚度 颈部与防转 特殊头和功能螺栓
 制造路线和操作 ↗ 材料系列和饰面 ↗ 驱动器接口指南 ↗
 
 ### 根据您的工程图纸定制螺丝 — 工具和样品
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/custom-screws/
+Source: https://zufek.net/zh/products/custom-screws/
 
 围绕您的工程图构建
 
@@ -1527,7 +1527,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 台阶螺丝／塞打螺丝定制
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/shoulder-screws/
+Source: https://zufek.net/zh/products/shoulder-screws/
 
 主力非标螺丝
 
@@ -1702,7 +1702,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 先核对完整的轴向装配尺寸链，包括垫片和配合座面。台阶应按设计要求落座，同时保留规定的运动间隙。图纸上应说明装配关系与公差叠加；仅给出台阶公称长度，无法确定最终间隙。
 
 ### 防脱螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/captive-screws/
+Source: https://zufek.net/zh/products/captive-screws/
 
 专为保留而设计
 
@@ -1807,7 +1807,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 ### 异形头螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/special-head-screws/
+Source: https://zufek.net/zh/products/special-head-screws/
 
 特定于应用的几何形状
 
@@ -1930,7 +1930,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 ### 主力非标螺丝
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/core-custom-screws/
+Source: https://zufek.net/zh/products/core-custom-screws/
 
 产品系列
 
@@ -2007,7 +2007,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 准备询价资料 品质策划
 
 ### 特殊头和功能螺栓
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/special-head-bolts/
+Source: https://zufek.net/zh/products/special-head-bolts/
 
 产品系列
 
@@ -2096,7 +2096,7 @@ T头宽度与厚度 颈部与防转 特殊头和功能螺栓
 准备询价资料 品质策划
 
 ### 特殊螺纹和刀杆
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/special-thread-screws/
+Source: https://zufek.net/zh/products/special-thread-screws/
 
 产品系列
 
@@ -2165,7 +2165,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 准备询价资料 品质策划
 
 ### 复合结构
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/compound-structure-screws/
+Source: https://zufek.net/zh/products/compound-structure-screws/
 
 产品系列
 
@@ -2234,7 +2234,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 准备询价资料 品质策划
 
 ### 防盗防拆螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/security-screws/
+Source: https://zufek.net/zh/products/security-screws/
 
 主力非标螺丝
 
@@ -2379,7 +2379,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件成品要求。只注明SUS304或SUS316牌号，并不能证明成品已经达到A2-70或A4-80。
 
 ### 空心通孔螺丝定制
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/hollow-screws/
+Source: https://zufek.net/zh/products/hollow-screws/
 
 主力非标螺丝
 
@@ -2518,7 +2518,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 铜的强度随合金、产品形状和状态的不同而变化很大。以下是典型的库存参考，而不是螺丝验收要求。
 
 ### 非标一体法兰螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/flange-screws/
+Source: https://zufek.net/zh/products/flange-screws/
 
 主力非标螺丝
 
@@ -2675,7 +2675,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 预装螺钉作为小组件提供。垫圈、固位方法和部件顺序需要与螺钉本身相同的控制。
 
 ### 手拧滚花螺丝与调节螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/knurled-thumb-screws/
+Source: https://zufek.net/zh/products/knurled-thumb-screws/
 
 主力非标螺丝
 
@@ -2834,7 +2834,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 强度随成分和脾气而变化。下面的示例是已发布的典型 H02 杆数据，不得应用于所有黄铜紧固件。
 
 ### 非标紧定螺丝／机米螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/set-screws/
+Source: https://zufek.net/zh/products/set-screws/
 
 主力非标螺丝
 
@@ -2977,7 +2977,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 应注明紧固件成品所需的性能等级，不能只凭原材料牌号推定强度。常见的公称等级包括8.8、10.9和12.9。
 
 ### 非标T型槽螺栓定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/t-slot-bolts/
+Source: https://zufek.net/zh/products/t-slot-bolts/
 
 特殊头和功能螺栓
 
@@ -3074,7 +3074,7 @@ T 型槽螺栓配合：订购前需要测量什么 ↗ 如何指定防篡改螺�
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 非标活节螺栓定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/eye-bolts/
+Source: https://zufek.net/zh/products/eye-bolts/
 
 特殊头和功能螺栓
 
@@ -3163,7 +3163,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 非标吊环螺栓设计定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/lifting-eye-bolts/
+Source: https://zufek.net/zh/products/lifting-eye-bolts/
 
 特殊头和功能螺栓
 
@@ -3250,7 +3250,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 非标U型螺栓定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/u-bolts/
+Source: https://zufek.net/zh/products/u-bolts/
 
 特殊头和功能螺栓
 
@@ -3337,7 +3337,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 非标方头螺栓定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/square-head-bolts/
+Source: https://zufek.net/zh/products/square-head-bolts/
 
 特殊头和功能螺栓
 
@@ -3426,7 +3426,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 非标马车螺栓定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/carriage-bolts/
+Source: https://zufek.net/zh/products/carriage-bolts/
 
 特殊头和功能螺栓
 
@@ -3513,7 +3513,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 偏心螺丝与斜头螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/eccentric-screws/
+Source: https://zufek.net/zh/products/eccentric-screws/
 
 特殊头和功能螺栓
 
@@ -3610,7 +3610,7 @@ A B 1 2 3 接口结构示意，不按比例绘制。尺寸与验收要求以批�
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 非标双头螺柱定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/double-ended-studs/
+Source: https://zufek.net/zh/products/double-ended-studs/
 
 特殊头和功能螺栓
 
@@ -3725,7 +3725,7 @@ B 端：采用这一端独立的螺纹与最终表面验收要求，约定不损
 铜的强度随合金、产品形状和状态的不同而变化很大。以下是典型的库存参考，而不是螺丝验收要求。
 
 ### 细牙与超细牙螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/fine-thread-screws/
+Source: https://zufek.net/zh/products/fine-thread-screws/
 
 特殊螺纹和柄
 
@@ -3832,7 +3832,7 @@ M3 × 0.35、M4 × 0.5仅为规格示例，不代表所有规格均可供货或�
 商业纯级2和Ti-6Al-4V是不同的材料。等级、产品形状和状况必须伴随任何强度值。
 
 ### 特殊牙型与复合螺纹定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/special-thread-profiles/
+Source: https://zufek.net/zh/products/special-thread-profiles/
 
 特殊螺纹和柄
 
@@ -3933,7 +3933,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 强度随成分和脾气而变化。下面的示例是已发布的典型 H02 杆数据，不得应用于所有黄铜紧固件。
 
 ### 割尾、削尾自攻螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/modified-tip-self-tapping-screws/
+Source: https://zufek.net/zh/products/modified-tip-self-tapping-screws/
 
 特殊螺纹和柄
 
@@ -4032,7 +4032,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 10B21是材料牌号，不是成品强度等级。不同加工及热处理状态的10B21螺丝，不能套用同一个抗拉强度值。
 
 ### 缩杆与变径螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/reduced-shank-screws/
+Source: https://zufek.net/zh/products/reduced-shank-screws/
 
 特殊螺纹和柄
 
@@ -4119,7 +4119,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 锥杆与锥度螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/tapered-screws/
+Source: https://zufek.net/zh/products/tapered-screws/
 
 特殊螺纹和柄
 
@@ -4208,7 +4208,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 一体定位销螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/locating-pin-screws/
+Source: https://zufek.net/zh/products/locating-pin-screws/
 
 复合结构
 
@@ -4297,7 +4297,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 双头台阶螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/double-ended-shoulder-screws/
+Source: https://zufek.net/zh/products/double-ended-shoulder-screws/
 
 复合结构
 
@@ -4384,7 +4384,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 横孔与头部带孔螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/cross-drilled-screws/
+Source: https://zufek.net/zh/products/cross-drilled-screws/
 
 复合结构
 
@@ -4473,7 +4473,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 多台阶螺丝定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/multi-step-screws/
+Source: https://zufek.net/zh/products/multi-step-screws/
 
 复合结构
 
@@ -4562,7 +4562,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 含模具的打样周期通常约为10–15天，具体在图纸审核并确认样品要求后约定。材料供应、特殊处理和检测要求可能影响交期，报价中应说明起算时间。样品批准和批量交货是两个不同阶段。
 
 ### 非标压铆螺丝与螺柱定制｜按图加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/products/custom-clinch-fasteners/
+Source: https://zufek.net/zh/products/custom-clinch-fasteners/
 
 复合结构
 
@@ -4652,7 +4652,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/pro
 ## 工程指南
 
 ### 定制螺丝询价清单
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/rfq-checklist/
+Source: https://zufek.net/zh/guides/rfq-checklist/
 
 可打印的采购工作表
 
@@ -4699,7 +4699,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/gui
 准备询价清单 ↗ 比较完整的制造路线 ↗
 
 ### 特殊驱动槽与防拆槽型选型指南
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/drive-types/
+Source: https://zufek.net/zh/guides/drive-types/
 
 驱动器接口指南
 
@@ -4748,7 +4748,7 @@ Y型/三翼式 命名接口可以有不同的刀片配置文件 提供准确的�
 防盗防拆螺丝 ↗ 手拧滚花螺丝与调节螺丝 ↗ 特殊头螺丝 ↗ 非标紧定螺丝／机米螺丝 ↗ 多工位冷镦成型 ↗ 二次和精密加工 ↗
 
 ### 定制螺杆材料和强度选择工作流程
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/material-strength-selection/
+Source: https://zufek.net/zh/guides/material-strength-selection/
 
 材料选择工作流程
 
@@ -4795,7 +4795,7 @@ BSSA：不锈钢的耐磨损性 ↗ 解释了为什么配合对和接触条件�
 材料族和源数据 ↗ 钢材成品强度等级 ↗ SUS304 和 SUS316 条件 ↗ 涂料和氢风险审查 ↗ 选材篇↗ 准备询价 ↗
 
 ### 非标紧固件图纸评审清单
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/drawing-review-release-checklist/
+Source: https://zufek.net/zh/guides/drawing-review-release-checklist/
 Last modified: 2026-10-30
 
 工程指南
@@ -4859,7 +4859,7 @@ NASA 紧固件设计手册，1990：一般设计背景
 更清晰的询价。更有用的回复。 台阶螺丝／塞打螺丝 非标紧固件检验与验收计划编制指南
 
 ### 非标螺丝加工工艺路线选择指南
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/manufacturing-route-selection/
+Source: https://zufek.net/zh/guides/manufacturing-route-selection/
 Last modified: 2026-10-30
 
 工程指南
@@ -4923,7 +4923,7 @@ NASA 紧固件设计手册，1990：一般设计背景
 三个完整的路线。由图纸定义。 多工位冷镦成型 走心式自动车床与CNC车削 从样品到批量生产：非标紧固件分阶段审批与交接指南
 
 ### 如何规定紧固件表面处理
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/surface-treatment-specification/
+Source: https://zufek.net/zh/guides/surface-treatment-specification/
 Last modified: 2026-10-30
 
 工程指南
@@ -4989,7 +4989,7 @@ ISO 10683：已发布的锌片系统范围
 涂层与表面处理 命名材料。定义其性能。 非标紧固件检验与验收计划编制指南
 
 ### 非标紧固件检验与验收计划编制指南
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/inspection-acceptance-plan/
+Source: https://zufek.net/zh/guides/inspection-acceptance-plan/
 Last modified: 2026-10-30
 
 工程指南
@@ -5059,7 +5059,7 @@ ISO 3269：发布的范围和适用性限制
 CCD视觉尺寸检测 定义检查。同意证据。 非标紧固件图纸评审：从询价到生产放行的检查清单
 
 ### 从样件到批量生产：螺丝转产指南
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/prototype-production-handover/
+Source: https://zufek.net/zh/guides/prototype-production-handover/
 Last modified: 2026-10-30
 
 工程指南
@@ -5129,7 +5129,7 @@ NASA 紧固件设计手册，1990：一般设计背景
 更清晰的询价。更有用的回复。 非标螺丝加工工艺路线选择指南 非标紧固件检验与验收计划编制指南
 
 ### 工程指南
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/guides/
+Source: https://zufek.net/zh/guides/
 
 技术见解
 
@@ -5173,7 +5173,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/gui
 ## 加工工艺
 
 ### 定制紧固件制造路线和流程
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/
+Source: https://zufek.net/zh/capabilities/
 
 完整的制造链
 
@@ -5278,7 +5278,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 从材料开始↗
 
 ### 多工位冷镦成型
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/cold-heading/
+Source: https://zufek.net/zh/capabilities/cold-heading/
 
 路线 01 / 成型
 
@@ -5399,7 +5399,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 通过方头提供扳手操作面，或与配套凹槽配合实现防转和限位。
 
 ### 走心式自动车床与CNC车削
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/cnc-turning/
+Source: https://zufek.net/zh/capabilities/cnc-turning/
 
 路线 02 / 棒材加工
 
@@ -5526,7 +5526,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 由头部、定位光杆和螺纹段组成，既能紧固零件，也能用于定位、限位或转动配合。
 
 ### 热镦与热锻
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/hot-forging/
+Source: https://zufek.net/zh/capabilities/hot-forging/
 
 路线 03 / 加热成型
 
@@ -5629,7 +5629,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 按实际槽截面定制T型头，使其在配套槽内实现定位或夹紧。
 
 ### 冷镦加 CNC 二次精加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/hybrid-manufacturing/
+Source: https://zufek.net/zh/capabilities/hybrid-manufacturing/
 
 路线 04 / 混合
 
@@ -5746,7 +5746,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 在功能部位之间设置缩径或变径杆部，以满足特定的截面和装配要求。
 
 ### 搓丝、滚丝、车牙与攻丝
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/threading/
+Source: https://zufek.net/zh/capabilities/threading/
 
 进程/螺纹生成
 
@@ -5873,7 +5873,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 按被夹持管材、框架或零件的截面尺寸，定制弯曲杆部及两侧螺纹。
 
 ### 二次加工与精密加工
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/secondary-machining/
+Source: https://zufek.net/zh/capabilities/secondary-machining/
 
 工艺/功能特点
 
@@ -5988,7 +5988,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/cap
 通过特殊槽型限制使用普通工具随意拆卸，同时保留配套工具的安装和维护通道。
 
 ### 材料专用热处理
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/heat-treatment/
+Source: https://zufek.net/zh/capabilities/heat-treatment/
 
 工艺/材料状况
 
@@ -6103,7 +6103,7 @@ BSSA：不锈钢系列
 结合被连接材料和底孔条件，可按图设计开槽、割尾或削尾等端部。
 
 ### 涂层与表面处理
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/surface-treatment/
+Source: https://zufek.net/zh/capabilities/surface-treatment/
 
 工艺/表面系统
 
@@ -6236,7 +6236,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 圆头下方设置按图定制的方颈，与配合孔共同实现防转。
 
 ### 清洗、防松与预装配
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/post-processing/
+Source: https://zufek.net/zh/capabilities/post-processing/
 
 过程/最终条件
 
@@ -6351,7 +6351,7 @@ CCD视觉尺寸检测 ↗ 涂层与表面处理 ↗
 通过径向或横向孔，为销轴、锁线或其他装配件提供穿入通道。
 
 ### CCD视觉尺寸检测
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/inspection/
+Source: https://zufek.net/zh/capabilities/inspection/
 
 流程/验收
 
@@ -6486,7 +6486,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 通过杆端圆孔或叉形结构，将螺纹杆与销轴或铰接部件连接。
 
 ### 定制螺丝制造路线示例
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/capabilities/process-routes/
+Source: https://zufek.net/zh/capabilities/process-routes/
 
 说明性流程规划
 
@@ -6602,7 +6602,7 @@ CNC 或走心式车削
 ## 材料
 
 ### 定制紧固件材料 — 强度和应用
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/
+Source: https://zufek.net/zh/materials/
 
 材料、强度和应用
 
@@ -6731,7 +6731,7 @@ SUS304 & SUS316 不锈钢 ISO 3506 性能等级 70 参考 700 最小值 450 最�
 遵循材料和强度选择工作流程 ↗
 
 ### 碳钢与合金钢螺丝：牌号、状态与强度
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/carbon-alloy-steel/
+Source: https://zufek.net/zh/materials/carbon-alloy-steel/
 
 牌号／状态／成品要求
 
@@ -6868,7 +6868,7 @@ Ovako：C45 等级和变体 ↗
 涂层属于尺寸计划。最终的配合必须在客户收到的情况下进行评估，而不仅仅是在表面处理之前。
 
 ### 10B21 硼钢螺丝：冷镦、热处理与成品性能
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/10b21-boron-steel/
+Source: https://zufek.net/zh/materials/10b21-boron-steel/
 
 牌号／状态／成品要求
 
@@ -6995,7 +6995,7 @@ Bossard：钢紧固件性能等级 ↗
 高强度钢紧固件需要做出涂层决策，同时考虑整个加工过程中的腐蚀和氢暴露。
 
 ### 不锈钢螺丝选材：304、316 与材料状态
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/stainless-steel-304-316/
+Source: https://zufek.net/zh/materials/stainless-steel-304-316/
 
 牌号／状态／成品要求
 
@@ -7156,7 +7156,7 @@ Carpenter：17-4PH 不同状态的加工资料 ↗
 光亮的外观并不代表表面经过处理。在选择电镀、钝化或其他处理之前，请指定基材和所需的表面功能。
 
 ### 铝合金螺丝：6061、6082 与 7075 如何选择
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/aluminum-alloys/
+Source: https://zufek.net/zh/materials/aluminum-alloys/
 
 牌号／状态／成品要求
 
@@ -7293,7 +7293,7 @@ Kaiser：7075 状态对比（管材数据） ↗
 原型可以建立有用的几何形状，而无需定义最终的生产路线。规划过渡，以便批准的功能和验收要求能够在制造方法的变化中继续存在。
 
 ### 铜螺丝与螺柱：牌号、状态及导电接触
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/copper/
+Source: https://zufek.net/zh/materials/copper/
 
 牌号／状态／成品要求
 
@@ -7424,7 +7424,7 @@ C12200 — 磷脱氧铜 独立的磷脱氧铜牌号。 按设计规定的制造�
 当污染影响装配时，清洁度就成为一项技术要求。定义需要去除的内容、测量方式以及如何保护清洁状态。
 
 ### 黄铜螺丝：C36000、CW614N 与牌号选择
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/brass/
+Source: https://zufek.net/zh/materials/brass/
 
 牌号／状态／成品要求
 
@@ -7563,7 +7563,7 @@ Wieland：黄铜牌号与产品系列 ↗
 材料选择从使用环境和机械要求开始。最佳规格平衡了功能、可制造性、可用性和验证。
 
 ### 钛螺丝：Grade 2、Grade 5 与 Grade 23 对比
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/materials/titanium-alloys/
+Source: https://zufek.net/zh/materials/titanium-alloys/
 
 牌号／状态／成品要求
 
@@ -7701,7 +7701,7 @@ Titanium Engineers：退火态 Ti-6Al-4V 原材料参考 ↗
 ## 行业
 
 ### 行业 — 按应用分类的定制紧固件
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/
+Source: https://zufek.net/zh/industries/
 
 以应用为中心的定制紧固件
 
@@ -7772,7 +7772,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 汽车模块外壳 ↗ 自动化转轴与调节治具 ↗ 查看应用方案设计示例 ↗
 
 ### 汽车零部件非标螺丝定制
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/automotive-components/
+Source: https://zufek.net/zh/industries/automotive-components/
 
 工程制图和批次控制
 
@@ -7855,7 +7855,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 高强度钢紧固件需要做出涂层决策，同时考虑整个加工过程中的腐蚀和氢暴露。
 
 ### 工业自动化非标螺丝：转动、定位与调节
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/industrial-automation/
+Source: https://zufek.net/zh/industries/industrial-automation/
 
 定位和移动接口
 
@@ -7952,7 +7952,7 @@ CCD视觉尺寸检测 ↗
 涂层属于尺寸计划。最终的配合必须在客户收到的情况下进行评估，而不仅仅是在表面处理之前。
 
 ### 电子与光学组件非标螺丝：空间、调节与接触
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/electronics-optics/
+Source: https://zufek.net/zh/industries/electronics-optics/
 
 紧凑且可调节的部件
 
@@ -8043,7 +8043,7 @@ SUS304 & SUS316 不锈钢 ↗ 铝合金 ↗ 黄铜 ↗ 钛及钛合金 ↗
 应明确整个孔道、最小剩余壁厚、内部边缘及验收方法。评审截面时，要同时考虑螺纹牙底几何和内孔偏心。
 
 ### 充电与储能设备非标螺丝：外壳、孔道与连接
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/energy-equipment/
+Source: https://zufek.net/zh/industries/energy-equipment/
 
 外壳和连接细节
 
@@ -8134,7 +8134,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 应明确整个孔道、最小剩余壁厚、内部边缘及验收方法。评审截面时，要同时考虑螺纹牙底几何和内孔偏心。
 
 ### 模具与测试治具非标螺丝：定位、止挡与夹紧
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/molds-fixtures/
+Source: https://zufek.net/zh/industries/molds-fixtures/
 
 步骤、停止和调整
 
@@ -8225,7 +8225,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/ind
 多个肩部可以定位多个部件。清晰的尺寸方案解释了哪些轴向距离控制装配以及哪些是其他尺寸的结果。
 
 ### 安防与门禁设备防拆螺丝：槽型、保持与维护
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/security-equipment/
+Source: https://zufek.net/zh/industries/security-equipment/
 
 驱动器接口和服务访问
 
@@ -8316,7 +8316,7 @@ SUS304 & SUS316 不锈钢 ↗ 碳钢及合金钢 ↗
 涂层系列名称并不定义完整的供应表面。定制紧固件询价应将涂层系统与配合、摩擦和验收要求联系起来。
 
 ### 流体设备中空螺丝：固定、通流与密封
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/fluid-control/
+Source: https://zufek.net/zh/industries/fluid-control/
 
 孔、边缘和清洁度
 
@@ -8407,7 +8407,7 @@ SUS304 & SUS316 不锈钢 ↗ 黄铜 ↗ 钛及钛合金 ↗
 当污染影响装配时，清洁度就成为一项技术要求。定义需要去除的内容、测量方式以及如何保护清洁状态。
 
 ### 机械装配非标螺柱与紧固件：接口、安装及验收
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industries/general-machinery/
+Source: https://zufek.net/zh/industries/general-machinery/
 
 安装、连杆和定制接头
 
@@ -8501,7 +8501,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 ## 应用设计示例
 
 ### 定制紧固件应用设计研究
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/applications/
+Source: https://zufek.net/zh/applications/
 
 应用方案设计示例
 
@@ -8534,7 +8534,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/app
 一个说明性的枢轴夹具项目，连接肩部配合、轴向堆叠、调整、路线选择、CCD 限制和样品批准。
 
 ### 汽车模块壳体法兰螺丝设计示例
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/applications/automotive-module-enclosure/
+Source: https://zufek.net/zh/applications/automotive-module-enclosure/
 
 示例性应用程序设计
 
@@ -8611,7 +8611,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/app
 第一篇文章定制螺丝批准 ↗ 螺纹台肩涂层余量 ↗ 高强度螺丝涂层氢风险 ↗ 行业要求 ↗ 询价清单 ↗
 
 ### 自动化治具台阶螺丝设计示例
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/applications/automation-pivot-fixture/
+Source: https://zufek.net/zh/applications/automation-pivot-fixture/
 
 示例性应用程序设计
 
@@ -8691,7 +8691,7 @@ Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/app
 ## 技术文章
 
 ### 定制螺丝询价中应包含哪些内容
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-quotation-checklist/
+Source: https://zufek.net/zh/blog/custom-screw-quotation-checklist/
 Last modified: 2026-10-29
 
 采购 / 3 最小阅读量
@@ -8767,7 +8767,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 作者：Theo Wan 阅读技术指南 →
 
 ### 台阶螺丝图纸设计与询价指南
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-screw-drawing-guide/
+Source: https://zufek.net/zh/blog/shoulder-screw-drawing-guide/
 Last modified: 2026-11-03
 
 设计和尺寸 / 3 最小读数
@@ -8873,7 +8873,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 选用松不脱螺丝前需要确认的五个问题
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/captive-screw-design-questions/
+Source: https://zufek.net/zh/blog/captive-screw-design-questions/
 Last modified: 2026-11-03
 
 设计和尺寸 / 2 最小读数
@@ -8959,7 +8959,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 特殊防拆槽型及异形头螺丝可用于检修面板、防护罩和安防设备。
 
 ### 选择定制金属螺钉的材料
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/material-selection-custom-screws/
+Source: https://zufek.net/zh/blog/material-selection-custom-screws/
 Last modified: 2026-10-29
 
 材料和表面处理 / 2 最小阅读量
@@ -9031,7 +9031,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 作者：Theo Wan 阅读技术指南 →
 
 ### 哪些因素影响非标螺丝的价格？
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-price-factors/
+Source: https://zufek.net/zh/blog/custom-screw-price-factors/
 Last modified: 2026-10-29
 
 采购 / 2 最小阅读量
@@ -9127,7 +9127,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ### 非标螺丝检测计划怎么制定
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-inspection-plan/
+Source: https://zufek.net/zh/blog/custom-screw-inspection-plan/
 Last modified: 2026-11-02
 
 质量 / 2 最小读数
@@ -9247,7 +9247,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 冷镦或 CNC 车削：选择定制螺纹路线
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/cold-heading-vs-cnc-custom-screws/
+Source: https://zufek.net/zh/blog/cold-heading-vs-cnc-custom-screws/
 Last modified: 2026-10-29
 
 制造 / 2 最小阅读
@@ -9323,7 +9323,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 多工位冷镦成型 ↗ 走心式自动车床与CNC车削 ↗ 冷镦加二次精加工 ↗
 
 ### 高强度螺丝的涂层选择与氢脆风险评估
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/high-strength-screw-coatings-hydrogen-risk/
+Source: https://zufek.net/zh/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
 
 材料和表面处理 / 2 最小阅读量
@@ -9429,7 +9429,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 304、316 和 17-4PH：不同的热处理问题
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/stainless-screw-heat-treatment-grades/
+Source: https://zufek.net/zh/blog/stainless-screw-heat-treatment-grades/
 Last modified: 2026-10-29
 
 材料和表面处理 / 2 最小阅读量
@@ -9513,7 +9513,7 @@ BSSA不锈钢的选择原则
 BSSA：不锈钢的耐磨损性
 
 ### 台阶配合、螺纹公差等级与磨削工艺选择
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/shoulder-fit-thread-class-grinding/
+Source: https://zufek.net/zh/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -9617,7 +9617,7 @@ ISO 公制螺纹公差
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 防拆螺丝槽型的选型与标注
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/specifying-security-screw-drive/
+Source: https://zufek.net/zh/blog/specifying-security-screw-drive/
 Last modified: 2026-11-03
 
 设计和尺寸 / 3 最小读数
@@ -9725,7 +9725,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 空心螺钉孔：询价应包含的详细信息
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/hollow-screw-bore-specification/
+Source: https://zufek.net/zh/blog/hollow-screw-bore-specification/
 Last modified: 2026-11-03
 
 设计和尺寸 / 3 最小读数
@@ -9839,7 +9839,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ### 设计定制法兰螺钉的支撑面
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-flange-bearing-face/
+Source: https://zufek.net/zh/blog/custom-flange-bearing-face/
 Last modified: 2026-11-03
 
 设计和尺寸 / 2 最小读数
@@ -9953,7 +9953,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 滚花翼形螺钉：指定握持和调节
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/knurled-thumb-screw-grip-design/
+Source: https://zufek.net/zh/blog/knurled-thumb-screw-grip-design/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10057,7 +10057,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ### 圆锥形、扁平形、爪形或杯形：选择紧定螺钉尖端
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/set-screw-tip-selection/
+Source: https://zufek.net/zh/blog/set-screw-tip-selection/
 Last modified: 2026-11-03
 
 设计和尺寸 / 3 最小读数
@@ -10187,7 +10187,7 @@ Unbrako：固定螺钉点几何形状
 台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 ### T 型槽螺栓配合：订购前需要测量什么
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/t-slot-bolt-head-fit/
+Source: https://zufek.net/zh/blog/t-slot-bolt-head-fit/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10279,7 +10279,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 台阶螺丝、限位件和螺纹定位件可用于模具机构、工装治具及测试夹具。
 
 ### 吊环螺栓：连接与起吊的规格差异
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/eye-bolt-linkage-vs-lifting/
+Source: https://zufek.net/zh/blog/eye-bolt-linkage-vs-lifting/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10371,7 +10371,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 为机架、安装支架、连杆和通用机械总成提供异形螺丝、螺柱及连接件。
 
 ### 如何确定定制 U 型螺栓的尺寸
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/u-bolt-bend-and-leg-dimensions/
+Source: https://zufek.net/zh/blog/u-bolt-bend-and-leg-dimensions/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10451,7 +10451,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 二次和精密加工 ↗ 螺纹滚压、切削和攻丝 ↗ 涂层与表面处理 ↗
 
 ### 非标马车螺栓：指定方颈
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/carriage-bolt-square-neck/
+Source: https://zufek.net/zh/blog/carriage-bolt-square-neck/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10531,7 +10531,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 多工位冷镦成型 ↗ 螺纹滚压、切削和攻丝 ↗ CCD视觉尺寸检测 ↗
 
 ### 偏心螺钉图纸：使偏移明确
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/eccentric-screw-datum-drawing/
+Source: https://zufek.net/zh/blog/eccentric-screw-datum-drawing/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10623,7 +10623,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ### 双头螺柱：防止混合螺纹装配错误
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/double-ended-stud-thread-identification/
+Source: https://zufek.net/zh/blog/double-ended-stud-thread-identification/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10727,7 +10727,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 缩径螺钉：为什么需要注意过渡
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/reduced-shank-transition-design/
+Source: https://zufek.net/zh/blog/reduced-shank-transition-design/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10807,7 +10807,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 走心式自动车床与CNC车削 ↗ 冷镦加二次精加工 ↗ CCD视觉尺寸检测 ↗
 
 ### 锥形螺钉：定义配合座
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/tapered-screw-mating-seat/
+Source: https://zufek.net/zh/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10899,7 +10899,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 ### 整体式定位销：协调销和螺钉基准
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/integral-locating-pin-position/
+Source: https://zufek.net/zh/blog/integral-locating-pin-position/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -10991,7 +10991,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ### 多级螺钉：控制轴向尺寸链
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/multi-step-screw-dimension-chain/
+Source: https://zufek.net/zh/blog/multi-step-screw-dimension-chain/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -11083,7 +11083,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ### 压铆螺柱：同时明确板材要求
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/clinch-stud-panel-requirements/
+Source: https://zufek.net/zh/blog/clinch-stud-panel-requirements/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -11163,7 +11163,7 @@ T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需
 多工位冷镦成型 ↗ 二次和精密加工 ↗ CCD视觉尺寸检测 ↗
 
 ### 滚压或切削螺纹：询价中需要解决的问题
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/rolled-vs-cut-thread-rfq/
+Source: https://zufek.net/zh/blog/rolled-vs-cut-thread-rfq/
 Last modified: 2026-10-29
 
 制造 / 2 最小阅读
@@ -11261,7 +11261,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 ### 螺钉中的交叉孔：规划毛刺控制和检查
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/cross-hole-burr-control/
+Source: https://zufek.net/zh/blog/cross-hole-burr-control/
 Last modified: 2026-10-29
 
 制造 / 2 最小阅读
@@ -11353,7 +11353,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 中空、横孔及锥度结构可用于气路通道、工装夹具和流体连接部位。
 
 ### 螺纹和精密轴肩的涂层余量
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/coating-allowance-thread-shoulder/
+Source: https://zufek.net/zh/blog/coating-allowance-thread-shoulder/
 Last modified: 2026-10-29
 
 材料和表面处理 / 2 最小阅读量
@@ -11457,7 +11457,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 询价中的镀镍与不锈钢钝化
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/nickel-plating-vs-stainless-passivation/
+Source: https://zufek.net/zh/blog/nickel-plating-vs-stainless-passivation/
 Last modified: 2026-10-29
 
 材料和表面处理 / 2 最小阅读量
@@ -11537,7 +11537,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 涂层与表面处理 ↗ 清洗、防松与预装配 ↗ CCD视觉尺寸检测 ↗
 
 ### 锌片涂层定制螺丝的规格
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/zinc-flake-coating-specification/
+Source: https://zufek.net/zh/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
 
 材料和表面处理 / 2 最小阅读量
@@ -11641,7 +11641,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 技术清洁度：编写有用的紧固件要求
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-fastener-technical-cleanliness/
+Source: https://zufek.net/zh/blog/custom-fastener-technical-cleanliness/
 Last modified: 2026-10-29
 
 质量 / 2 最小读数
@@ -11745,7 +11745,7 @@ A2/A4及70、80等等级用于描述适用规范范围内的不锈钢紧固件�
 为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ### 预涂防松胶：图纸应写明什么
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/pre-applied-locking-patch-rfq/
+Source: https://zufek.net/zh/blog/pre-applied-locking-patch-rfq/
 Last modified: 2026-10-29
 
 采购 / 2 最小阅读量
@@ -11825,7 +11825,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 清洗、防松与预装配 ↗ 螺纹滚压、切削和攻丝 ↗ CCD视觉尺寸检测 ↗
 
 ### 预装垫圈螺钉：指定全套
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/preassembled-washer-screw-specification/
+Source: https://zufek.net/zh/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
 
 采购 / 2 最小阅读量
@@ -11929,7 +11929,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### CCD 视觉检查可以检查定制螺丝的哪些内容
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/ccd-screw-dimension-inspection/
+Source: https://zufek.net/zh/blog/ccd-screw-dimension-inspection/
 Last modified: 2026-10-29
 
 质量 / 3 最小读数
@@ -12051,7 +12051,7 @@ KEYENCE：视觉照明和轮廓检查
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 非标螺丝首件确认
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/first-article-custom-screw-approval/
+Source: https://zufek.net/zh/blog/first-article-custom-screw-approval/
 Last modified: 2026-10-29
 
 质量 / 2 最小读数
@@ -12131,7 +12131,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 CCD视觉尺寸检测 ↗ 清洗、防松与预装配 ↗
 
 ### 抽样和100%检验：选择正确的覆盖范围
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/sampling-vs-full-fastener-inspection/
+Source: https://zufek.net/zh/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
 
 质量 / 2 最小读数
@@ -12223,7 +12223,7 @@ CCD视觉尺寸检测 ↗ 清洗、防松与预装配 ↗
 台阶螺丝、定位件和调节螺丝可用于导向机构、定位工位及自动化设备。
 
 ### 螺纹量规和定制螺钉验收
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/thread-gauge-acceptance-plan/
+Source: https://zufek.net/zh/blog/thread-gauge-acceptance-plan/
 Last modified: 2026-10-29
 
 质量 / 2 最小读数
@@ -12331,7 +12331,7 @@ ISO：公制螺纹公差系统
 为小型外壳、光学调节机构和精密模块提供按图定制的紧固件。
 
 ### 为什么定制螺钉需要的不仅仅是通用扭矩值
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/tightening-torque-friction-custom-screws/
+Source: https://zufek.net/zh/blog/tightening-torque-friction-custom-screws/
 Last modified: 2026-10-29
 
 设计和尺寸 / 2 最小读数
@@ -12439,7 +12439,7 @@ Bossard：参考预载和拧紧信息
 为汽车支架、电子模块及其他零部件总成提供按图定制的螺丝与螺纹连接件。
 
 ### 从样件到量产：保持螺丝规格一致
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/prototype-to-production-fasteners/
+Source: https://zufek.net/zh/blog/prototype-to-production-fasteners/
 Last modified: 2026-10-29
 
 采购 / 2 最小阅读量
@@ -12519,7 +12519,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 走心式自动车床与CNC车削 ↗ 冷镦加二次精加工 ↗ CCD视觉尺寸检测 ↗
 
 ### 重复定制紧固件订单的工程图修订控制
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/drawing-revision-custom-fastener-orders/
+Source: https://zufek.net/zh/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
 
 采购 / 2 最小阅读量
@@ -12599,7 +12599,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 CCD视觉尺寸检测 ↗ 清洗、防松与预装配 ↗
 
 ### 定制螺丝订单的包装和批次可追溯性
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/blog/custom-screw-packaging-lot-traceability/
+Source: https://zufek.net/zh/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
 
 采购 / 2 最小阅读量
@@ -12679,7 +12679,7 @@ TW Theo Wan ZUFEK 技术编辑·工程制图、制造和采购指南。
 清洗、防松与预装配 ↗ CCD视觉尺寸检测 ↗
 
 ### 电动汽车充电桩壳体紧固件规格
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/ev-charging-enclosure-fasteners/
+Source: https://zufek.net/zh/industry-insights/ev-charging-enclosure-fasteners/
 Last modified: 2026-10-30
 
 行业观察
@@ -12761,7 +12761,7 @@ IEA Global EV Outlook 2026
 能源、充电和存储设备 防盗防拆螺丝 非标一体法兰螺丝 紧固件表面处理要求：明确功能、配合与验收依据
 
 ### 工厂自动化中的定位与转轴紧固件
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/automation-locating-pivot-fasteners/
+Source: https://zufek.net/zh/industry-insights/automation-locating-pivot-fasteners/
 Last modified: 2026-10-30
 
 行业观察
@@ -12849,7 +12849,7 @@ IFR 世界机器人报告
 工业自动化 台阶螺丝／塞打螺丝 手拧滚花螺丝与调节螺丝 非标紧固件检验与验收计划编制指南
 
 ### 储能设备的紧固件接口
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/battery-storage-fastener-interfaces/
+Source: https://zufek.net/zh/industry-insights/battery-storage-fastener-interfaces/
 Last modified: 2026-10-30
 
 行业观察
@@ -12937,7 +12937,7 @@ IEA 电池和安全能源转型
 能源、充电和存储设备 碳钢及合金钢 清洗、防松与预装配 非标紧固件图纸评审：从询价到生产放行的检查清单
 
 ### 数据中心冷却与维护通道紧固件
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/data-centre-cooling-service-fasteners/
+Source: https://zufek.net/zh/industry-insights/data-centre-cooling-service-fasteners/
 Last modified: 2026-10-30
 
 行业观察
@@ -13025,7 +13025,7 @@ IEA 能源与人工智能
 电子及光学设备 将自攻螺钉固定到您的图纸上。 空心通孔螺丝 从样品到批量生产：非标紧固件分阶段审批与交接指南
 
 ### 可维修性要求：紧固件采购应提前明确什么
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/repairability-product-information-fasteners/
+Source: https://zufek.net/zh/industry-insights/repairability-product-information-fasteners/
 Last modified: 2026-10-30
 
 行业观察
@@ -13121,7 +13121,7 @@ Theo Wan · 2026-10-30 了解政策背景而不发明普遍义务 定义预期�
 将自攻螺钉固定到您的图纸上。 防盗防拆螺丝 从样品到批量生产：非标紧固件分阶段审批与交接指南 常见问题解答
 
 ### 紧固件材料供应风险与替代料认可
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/industry-insights/material-supply-risk-qualified-alternatives/
+Source: https://zufek.net/zh/industry-insights/material-supply-risk-qualified-alternatives/
 Last modified: 2026-10-30
 
 行业观察

@@ -19,23 +19,23 @@
 HTML pages are the primary source. This directory lists current indexable public content; drafts, withdrawn translations and private inquiry records are excluded. llms.txt is an optional navigation aid, not an indexing, ranking or citation guarantee. Full text follows the same public publication state.
 
 ## Resource map
-- [Sitemap index](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap_index.xml)
-- [Robots policy](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/robots.txt)
-- [Language homepage](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/)
-- [Compact directory](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/llms.txt)
+- [Sitemap index](https://zufek.net/sitemap_index.xml)
+- [Robots policy](https://zufek.net/robots.txt)
+- [Language homepage](https://zufek.net/)
+- [Compact directory](https://zufek.net/llms.txt)
 
 ## Language editions
-- [English](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/llms.txt)
-- [Deutsch](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/llms.txt)
-- [Español](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/llms.txt)
-- [Italiano](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/llms.txt)
-- [中文](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/llms.txt)
-- [Français](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/llms.txt)
+- [English](https://zufek.net/llms.txt)
+- [Deutsch](https://zufek.net/de/llms.txt)
+- [Español](https://zufek.net/es/llms.txt)
+- [Italiano](https://zufek.net/it/llms.txt)
+- [中文](https://zufek.net/zh/llms.txt)
+- [Français](https://zufek.net/fr/llms.txt)
 
 ## Company & core pages
 
 ### Custom Screw Manufacturer in Dongguan, China
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/
+Source: https://zufek.net/
 
 NON-STANDARD BY DESIGN
 
@@ -212,7 +212,7 @@ Two illustrative projects connect assembly needs with fastener structure, materi
 Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Browse application design studies ↗
 
 ### Custom Screw Inspection & Quality Records
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/quality/
+Source: https://zufek.net/quality/
 
 DRAWING TO ACCEPTANCE
 
@@ -315,7 +315,7 @@ For example, CCD screening can evaluate a visible shoulder profile, a thread gau
 Download the blank inspection worksheet (English) Download the worked inspection-plan example (English)
 
 ### Technical Resources for Custom Metal Screws
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/resources/
+Source: https://zufek.net/resources/
 
 THE KNOWLEDGE CENTER
 
@@ -632,7 +632,7 @@ Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Brow
 Special drive interface guide ↗ Complete manufacturing route examples ↗ Material selection by family ↗
 
 ### Custom Screw Technical Blog
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/
+Source: https://zufek.net/blog/
 
 TECHNICAL INSIGHTS
 
@@ -899,7 +899,7 @@ By Theo Wan Read technical guide → Show more articles ↓ No matching articles
 These guides support specification discussions. Application-specific engineering and manufacturing requirements need individual review.
 
 ### About Us — Custom Fasteners Since 2005
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/about/
+Source: https://zufek.net/about/
 
 DONGGUAN ZUFEK PRECISION CO., LTD.
 
@@ -988,7 +988,7 @@ Use the approved sample and drawing revision to agree order quantity, lot identi
 Prepare the sample approval requirements ↗ Quality planning Application design studies
 
 ### Request a Custom Screw Quote
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/request-a-quote/
+Source: https://zufek.net/request-a-quote/
 
 LET’S START WITH YOUR REQUIREMENT
 
@@ -1027,7 +1027,7 @@ Send a drawing revision, sample quantity, expected order volume and the intended
 Prepare the RFQ checklist ↗ Compare complete manufacturing routes ↗
 
 ### Theo Wan — ZUFEK Technical Editorial
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/authors/theo-wan/
+Source: https://zufek.net/authors/theo-wan/
 
 TW ZUFEK TECHNICAL EDITORIAL
 
@@ -1108,7 +1108,7 @@ Stainless steel describes several material families. Specify the grade and final
 By Theo Wan Read technical guide → View the complete technical blog ↗
 
 ### Custom fastener FAQ
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/faq/
+Source: https://zufek.net/faq/
 
 TECHNICAL INSIGHTS
 
@@ -1159,7 +1159,7 @@ Where should I send a drawing or follow up an inquiry? Use the request-a-quote f
 RFQ checklist · Request a quote
 
 ### Industry Insights
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/
+Source: https://zufek.net/industry-insights/
 
 TECHNICAL INSIGHTS
 
@@ -1195,7 +1195,7 @@ Qualify alternative fastener materials through final properties, manufacturabili
 ## Products
 
 ### Custom Screw Products & Non-Standard Fastener Types
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/
+Source: https://zufek.net/products/
 
 THE CUSTOM FASTENER RANGE
 
@@ -1378,7 +1378,7 @@ TURN DESIGN INTENT INTO A QUOTATION
 Manufacturing routes & operations ↗ Material families & finishes ↗ Drive interface guide ↗
 
 ### Custom Screws from Your Drawing — Tooling & Samples
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/custom-screws/
+Source: https://zufek.net/products/custom-screws/
 
 BUILT AROUND YOUR DRAWING
 
@@ -1527,7 +1527,7 @@ Provide the drawing, material, finish and intended assembly. Identify the drawin
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom Shoulder Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/shoulder-screws/
+Source: https://zufek.net/products/shoulder-screws/
 
 CORE CUSTOM SCREWS
 
@@ -1702,7 +1702,7 @@ A shoulder screw has an unthreaded bearing or locating section between its head 
 Review the complete axial stack, including washers and the mating seat. The shoulder must seat as intended while preserving the specified movement clearance. Show the assembly and tolerance stack on the drawing; nominal shoulder length alone cannot establish the final clearance.
 
 ### Captive Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/captive-screws/
+Source: https://zufek.net/products/captive-screws/
 
 DESIGNED FOR RETENTION
 
@@ -1807,7 +1807,7 @@ APPLICATION REQUIREMENTS
 Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment.
 
 ### Special Head Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/special-head-screws/
+Source: https://zufek.net/products/special-head-screws/
 
 APPLICATION-SPECIFIC GEOMETRY
 
@@ -1930,7 +1930,7 @@ APPLICATION REQUIREMENTS
 Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment.
 
 ### Core Custom Screws
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/core-custom-screws/
+Source: https://zufek.net/products/core-custom-screws/
 
 PRODUCT FAMILY COLLECTION
 
@@ -2007,7 +2007,7 @@ Verify that function with the mating part.
 Prepare the RFQ Quality planning
 
 ### Special Heads & Functional Bolts
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/special-head-bolts/
+Source: https://zufek.net/products/special-head-bolts/
 
 PRODUCT FAMILY COLLECTION
 
@@ -2096,7 +2096,7 @@ Check seating and rotation during tightening.
 Prepare the RFQ Quality planning
 
 ### Special Threads & Shanks
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/special-thread-screws/
+Source: https://zufek.net/products/special-thread-screws/
 
 PRODUCT FAMILY COLLECTION
 
@@ -2165,7 +2165,7 @@ Verify the finished thread and usable engagement separately.
 Prepare the RFQ Quality planning
 
 ### Compound Structures
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/compound-structure-screws/
+Source: https://zufek.net/products/compound-structure-screws/
 
 PRODUCT FAMILY COLLECTION
 
@@ -2234,7 +2234,7 @@ Check their relationship after finishing.
 Prepare the RFQ Quality planning
 
 ### Security & Tamper-Resistant Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/security-screws/
+Source: https://zufek.net/products/security-screws/
 
 CORE CUSTOM SCREWS
 
@@ -2379,7 +2379,7 @@ MATERIAL & FINAL CONDITION
 A2/A4 groups and classes such as 70 or 80 describe finished stainless fasteners under the applicable specification. SUS304 or SUS316 alone does not establish A2-70 or A4-80 performance.
 
 ### Custom Hollow & Through-Hole Screws
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/hollow-screws/
+Source: https://zufek.net/products/hollow-screws/
 
 CORE CUSTOM SCREWS
 
@@ -2518,7 +2518,7 @@ MATERIAL & FINAL CONDITION
 Copper strength varies substantially with alloy, product form and temper. The following is a typical stock reference, not a screw acceptance requirement.
 
 ### Custom Flange Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/flange-screws/
+Source: https://zufek.net/products/flange-screws/
 
 CORE CUSTOM SCREWS
 
@@ -2675,7 +2675,7 @@ ENGINEERING GUIDE
 A preassembled screw is supplied as a small assembly. The washer, retention method and component sequence need the same control as the screw itself.
 
 ### Knurled Thumb & Adjustment Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/knurled-thumb-screws/
+Source: https://zufek.net/products/knurled-thumb-screws/
 
 CORE CUSTOM SCREWS
 
@@ -2834,7 +2834,7 @@ MATERIAL & FINAL CONDITION
 Strength changes with composition and temper. The example below is published typical H02 rod data and must not be applied to all brass fasteners.
 
 ### Custom Set Screws & Grub Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/set-screws/
+Source: https://zufek.net/products/set-screws/
 
 CORE CUSTOM SCREWS
 
@@ -2977,7 +2977,7 @@ MATERIAL & FINAL CONDITION
 Specify the finished fastener property class, not a strength inferred from the raw grade. Common nominal class references include 8.8, 10.9 and 12.9.
 
 ### Custom T-Slot Bolts to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/t-slot-bolts/
+Source: https://zufek.net/products/t-slot-bolts/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3074,7 +3074,7 @@ Provide slot cross-section and insertion method; do not select from head appeara
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom Eye & Articulating Bolts to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/eye-bolts/
+Source: https://zufek.net/products/eye-bolts/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3163,7 +3163,7 @@ State force direction and intended use. Any lifting application needs an approve
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom Lifting Eye Bolt Designs to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/lifting-eye-bolts/
+Source: https://zufek.net/products/lifting-eye-bolts/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3250,7 +3250,7 @@ Supply the approved load case and applicable standard. Custom geometry is not a 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom U-Bolts to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/u-bolts/
+Source: https://zufek.net/products/u-bolts/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3337,7 +3337,7 @@ Provide the clamped cross-section and load requirements. Material, bend process 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom Square Head Bolts to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/square-head-bolts/
+Source: https://zufek.net/products/square-head-bolts/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3426,7 +3426,7 @@ Show the wrench access or retaining pocket and required mechanical properties. I
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom Carriage Bolts to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/carriage-bolts/
+Source: https://zufek.net/products/carriage-bolts/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3513,7 +3513,7 @@ Provide the mating-hole geometry and bearing material; neck engagement is part o
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Eccentric & Angled Head Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/eccentric-screws/
+Source: https://zufek.net/products/eccentric-screws/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3610,7 +3610,7 @@ Provide an assembly view, datum scheme and required adjustment range. Identify t
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom Double-Ended Studs to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/double-ended-studs/
+Source: https://zufek.net/products/double-ended-studs/
 
 SPECIAL HEADS & FUNCTIONAL BOLTS
 
@@ -3725,7 +3725,7 @@ MATERIAL & FINAL CONDITION
 Copper strength varies substantially with alloy, product form and temper. The following is a typical stock reference, not a screw acceptance requirement.
 
 ### Fine & Extra-Fine Pitch Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/fine-thread-screws/
+Source: https://zufek.net/products/fine-thread-screws/
 
 SPECIAL THREADS & SHANKS
 
@@ -3832,7 +3832,7 @@ MATERIAL & FINAL CONDITION
 Commercially pure Grade 2 and Ti-6Al-4V are different materials. Grade, product form and condition must accompany any strength value.
 
 ### Special & Compound Thread Profiles to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/special-thread-profiles/
+Source: https://zufek.net/products/special-thread-profiles/
 
 SPECIAL THREADS & SHANKS
 
@@ -3933,7 +3933,7 @@ MATERIAL & FINAL CONDITION
 Strength changes with composition and temper. The example below is published typical H02 rod data and must not be applied to all brass fasteners.
 
 ### Modified-Tip Self-Tapping Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/modified-tip-self-tapping-screws/
+Source: https://zufek.net/products/modified-tip-self-tapping-screws/
 
 SPECIAL THREADS & SHANKS
 
@@ -4032,7 +4032,7 @@ MATERIAL & FINAL CONDITION
 10B21 is a grade designation, not a finished strength class. There is no single tensile strength that applies to every 10B21 screw.
 
 ### Reduced & Variable Shank Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/reduced-shank-screws/
+Source: https://zufek.net/products/reduced-shank-screws/
 
 SPECIAL THREADS & SHANKS
 
@@ -4119,7 +4119,7 @@ A reduced shank does not automatically prevent cracking. Supply load and fatigue
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Tapered Shank & Cone Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/tapered-screws/
+Source: https://zufek.net/products/tapered-screws/
 
 SPECIAL THREADS & SHANKS
 
@@ -4208,7 +4208,7 @@ Sealing performance requires a matched design and verification; a taper alone do
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Screws with Integral Locating Pins to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/locating-pin-screws/
+Source: https://zufek.net/products/locating-pin-screws/
 
 COMPOUND STRUCTURES
 
@@ -4297,7 +4297,7 @@ Provide the mating hole and assembly direction. Confirm which feature locates an
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Double-Ended Shoulder Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/double-ended-shoulder-screws/
+Source: https://zufek.net/products/double-ended-shoulder-screws/
 
 COMPOUND STRUCTURES
 
@@ -4384,7 +4384,7 @@ Include both mating components and explain which end is installed first. Identif
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Cross-Drilled & Head-Hole Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/cross-drilled-screws/
+Source: https://zufek.net/products/cross-drilled-screws/
 
 COMPOUND STRUCTURES
 
@@ -4473,7 +4473,7 @@ State the intended retention method and load requirements; a cross hole alone do
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Multi-Step & Multi-Shoulder Screws to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/multi-step-screws/
+Source: https://zufek.net/products/multi-step-screws/
 
 COMPOUND STRUCTURES
 
@@ -4562,7 +4562,7 @@ Use a datum-based drawing and identify the surfaces that actually locate or carr
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
 ### Custom Clinch Screws & Studs to Drawing
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/products/custom-clinch-fasteners/
+Source: https://zufek.net/products/custom-clinch-fasteners/
 
 COMPOUND STRUCTURES
 
@@ -4652,7 +4652,7 @@ The typical sampling lead time, including tooling, is approximately 10–15 days
 ## Engineering guides
 
 ### Custom Screw RFQ Checklist
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/rfq-checklist/
+Source: https://zufek.net/guides/rfq-checklist/
 
 PRINTABLE PROCUREMENT WORKSHEET
 
@@ -4699,7 +4699,7 @@ Send a drawing revision, sample quantity, expected order volume and the intended
 Prepare the RFQ checklist ↗ Compare complete manufacturing routes ↗
 
 ### Special Screw Drive & Security Recess Guide
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/drive-types/
+Source: https://zufek.net/guides/drive-types/
 
 DRIVE INTERFACE GUIDE
 
@@ -4748,7 +4748,7 @@ Agree how the recess is inspected, for example with a go/no-go gauge or the serv
 Security & Tamper-Resistant Screws ↗ Knurled Thumb & Adjustment Screws ↗ Special Head Screws ↗ Custom Set Screws & Grub Screws ↗ Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗
 
 ### Custom Screw Material & Strength Selection Workflow
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/material-strength-selection/
+Source: https://zufek.net/guides/material-strength-selection/
 
 MATERIAL SELECTION WORKFLOW
 
@@ -4795,7 +4795,7 @@ BSSA: galling resistance of stainless steels ↗ explains why the mating pair an
 Material families and source data ↗ Steel finished strength classes ↗ SUS304 and SUS316 conditions ↗ Coatings and hydrogen-risk review ↗ Material selection article ↗ Prepare the RFQ ↗
 
 ### Custom Fastener Drawing Review Checklist
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/drawing-review-release-checklist/
+Source: https://zufek.net/guides/drawing-review-release-checklist/
 Last modified: 2026-10-30
 
 Engineering Guides
@@ -4859,7 +4859,7 @@ NASA Fastener Design Manual, 1990: general design background
 A clearer RFQ. A more useful reply. Shoulder & Step Screws Building a custom fastener inspection and acceptance plan
 
 ### Choosing a manufacturing route for a custom screw
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/manufacturing-route-selection/
+Source: https://zufek.net/guides/manufacturing-route-selection/
 Last modified: 2026-10-30
 
 Engineering Guides
@@ -4923,7 +4923,7 @@ NASA Fastener Design Manual, 1990: general design background
 Three complete routes. Defined by the drawing. Multi-Station Cold Heading Swiss-Type & CNC Turning From prototype screw to repeat production: a stage-gate handover guide
 
 ### How to Specify a Fastener Surface Treatment
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/surface-treatment-specification/
+Source: https://zufek.net/guides/surface-treatment-specification/
 Last modified: 2026-10-30
 
 Engineering Guides
@@ -4989,7 +4989,7 @@ ISO 10683: published scope for zinc-flake systems
 Coatings & Surface Treatments Name the material. Define its performance. Building a custom fastener inspection and acceptance plan
 
 ### Building a custom fastener inspection and acceptance plan
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/inspection-acceptance-plan/
+Source: https://zufek.net/guides/inspection-acceptance-plan/
 Last modified: 2026-10-30
 
 Engineering Guides
@@ -5059,7 +5059,7 @@ ISO 3269: published scope and applicability limitations
 CCD Vision & Dimensional Inspection Define the check. Agree the evidence. Custom fastener drawing review: a practical release checklist
 
 ### Prototype to Repeat Production: Screw Handover Guide
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/prototype-production-handover/
+Source: https://zufek.net/guides/prototype-production-handover/
 Last modified: 2026-10-30
 
 Engineering Guides
@@ -5129,7 +5129,7 @@ NASA Fastener Design Manual, 1990: general design background
 A clearer RFQ. A more useful reply. Choosing a manufacturing route for a custom screw Building a custom fastener inspection and acceptance plan
 
 ### Engineering Guides
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/guides/
+Source: https://zufek.net/guides/
 
 TECHNICAL INSIGHTS
 
@@ -5173,7 +5173,7 @@ Use stage gates to move from geometry samples to approved repeat production, pre
 ## Manufacturing processes
 
 ### Custom Fastener Manufacturing Routes & Processes
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/
+Source: https://zufek.net/capabilities/
 
 THE COMPLETE MANUFACTURING CHAIN
 
@@ -5278,7 +5278,7 @@ Process coverage is reviewed for the actual part. Equipment ownership, partner o
 Start with the material ↗
 
 ### Multi-Station Cold Heading
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/cold-heading/
+Source: https://zufek.net/capabilities/cold-heading/
 
 ROUTE 01 / FORMING
 
@@ -5399,7 +5399,7 @@ DRAWING-DEFINED DESIGN
 A square tool interface or captured head supports application-specific access and anti-rotation needs.
 
 ### Swiss-Type & CNC Turning
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/cnc-turning/
+Source: https://zufek.net/capabilities/cnc-turning/
 
 ROUTE 02 / BAR MACHINING
 
@@ -5526,7 +5526,7 @@ DRAWING-DEFINED DESIGN
 A head, a locating shoulder and a threaded section combine fastening with controlled spacing or movement.
 
 ### Hot Heading & Forging
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/hot-forging/
+Source: https://zufek.net/capabilities/hot-forging/
 
 ROUTE 03 / HEATED FORMING
 
@@ -5629,7 +5629,7 @@ DRAWING-DEFINED DESIGN
 A drawing-specific T-head engages a matching slot for positioning or clamping.
 
 ### Cold Heading & Secondary CNC Machining
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/hybrid-manufacturing/
+Source: https://zufek.net/capabilities/hybrid-manufacturing/
 
 ROUTE 04 / HYBRID
 
@@ -5746,7 +5746,7 @@ DRAWING-DEFINED DESIGN
 A reduced or stepped shank introduces a deliberate change in section between functional features.
 
 ### Thread Rolling, Cutting & Tapping
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/threading/
+Source: https://zufek.net/capabilities/threading/
 
 PROCESS / THREAD GENERATION
 
@@ -5873,7 +5873,7 @@ DRAWING-DEFINED DESIGN
 A bent shank and two threaded legs follow the dimensions of the pipe, frame or clamped component.
 
 ### Secondary & Precision Operations
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/secondary-machining/
+Source: https://zufek.net/capabilities/secondary-machining/
 
 PROCESS / FUNCTIONAL FEATURES
 
@@ -5988,7 +5988,7 @@ DRAWING-DEFINED DESIGN
 Special drive interfaces help restrict casual access while allowing an approved service tool to operate the screw.
 
 ### Material-Specific Heat Treatment
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/heat-treatment/
+Source: https://zufek.net/capabilities/heat-treatment/
 
 PROCESS / MATERIAL CONDITION
 
@@ -6103,7 +6103,7 @@ DRAWING-DEFINED DESIGN
 Slotted, cut or relieved ends can be specified around the actual material and hole condition.
 
 ### Coatings & Surface Treatments
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/surface-treatment/
+Source: https://zufek.net/capabilities/surface-treatment/
 
 PROCESS / SURFACE SYSTEM
 
@@ -6236,7 +6236,7 @@ DRAWING-DEFINED DESIGN
 A round head and drawing-defined square neck provide an anti-rotation interface with the mating component.
 
 ### Cleaning, Locking & Assembly
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/post-processing/
+Source: https://zufek.net/capabilities/post-processing/
 
 PROCESS / FINAL CONDITION
 
@@ -6351,7 +6351,7 @@ DRAWING-DEFINED DESIGN
 A radial or transverse hole provides a specified passage for a pin, wire or other assembly element.
 
 ### CCD Vision & Dimensional Inspection
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/inspection/
+Source: https://zufek.net/capabilities/inspection/
 
 PROCESS / ACCEPTANCE
 
@@ -6486,7 +6486,7 @@ DRAWING-DEFINED DESIGN
 An eye or fork-style end connects a threaded shank to a pin or articulating joint.
 
 ### Custom Screw Manufacturing Route Examples
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/capabilities/process-routes/
+Source: https://zufek.net/capabilities/process-routes/
 
 ILLUSTRATIVE PROCESS PLANNING
 
@@ -6602,7 +6602,7 @@ Prepare the RFQ checklist ↗ Compare complete manufacturing routes ↗
 ## Materials
 
 ### Custom Fastener Materials — Strength & Applications
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/
+Source: https://zufek.net/materials/
 
 MATERIALS, STRENGTH & APPLICATIONS
 
@@ -6731,7 +6731,7 @@ Use a common set of functional, environmental and acceptance requirements before
 Follow the material and strength selection workflow ↗
 
 ### Carbon and Alloy Steel Screws: Grades & Strength
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/carbon-alloy-steel/
+Source: https://zufek.net/materials/carbon-alloy-steel/
 
 GRADE / CONDITION / FINAL REQUIREMENT
 
@@ -6868,7 +6868,7 @@ ENGINEERING GUIDE
 A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment.
 
 ### 10B21 Boron Steel Screws: Forming & Final Properties
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/10b21-boron-steel/
+Source: https://zufek.net/materials/10b21-boron-steel/
 
 GRADE / CONDITION / FINAL REQUIREMENT
 
@@ -6995,7 +6995,7 @@ ENGINEERING GUIDE
 A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing.
 
 ### 304 vs 316 Stainless Screws: Grades & Conditions
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/stainless-steel-304-316/
+Source: https://zufek.net/materials/stainless-steel-304-316/
 
 GRADE / CONDITION / FINAL REQUIREMENT
 
@@ -7156,7 +7156,7 @@ ENGINEERING GUIDE
 A bright appearance does not identify a surface process. Specify the substrate and required surface function before choosing between plating, passivation or another treatment.
 
 ### Aluminum Screws: 6061, 6082 & 7075 Selection
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/aluminum-alloys/
+Source: https://zufek.net/materials/aluminum-alloys/
 
 GRADE / CONDITION / FINAL REQUIREMENT
 
@@ -7293,7 +7293,7 @@ ENGINEERING GUIDE
 A prototype can establish useful geometry without defining the final production route. Plan the transition so the approved function and acceptance requirements survive the change in manufacturing method.
 
 ### Copper Screws & Studs: Grade, Temper & Contact
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/copper/
+Source: https://zufek.net/materials/copper/
 
 GRADE / CONDITION / FINAL REQUIREMENT
 
@@ -7424,7 +7424,7 @@ ENGINEERING GUIDE
 Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected.
 
 ### Brass Screws: C36000, CW614N & Alloy Selection
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/brass/
+Source: https://zufek.net/materials/brass/
 
 GRADE / CONDITION / FINAL REQUIREMENT
 
@@ -7563,7 +7563,7 @@ ENGINEERING GUIDE
 Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification.
 
 ### Titanium Screws: Grade 2 vs Grade 5 vs Grade 23
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/materials/titanium-alloys/
+Source: https://zufek.net/materials/titanium-alloys/
 
 GRADE / CONDITION / FINAL REQUIREMENT
 
@@ -7701,7 +7701,7 @@ A sample is most useful when its identity, revision and acceptance scope are cle
 ## Industries
 
 ### Industries — Custom Fasteners by Application
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/
+Source: https://zufek.net/industries/
 
 APPLICATION-FOCUSED CUSTOM FASTENERS
 
@@ -7772,7 +7772,7 @@ Two illustrative projects connect assembly needs with fastener structure, materi
 Automotive module enclosure ↗ Automation pivot and adjustment fixture ↗ Browse application design studies ↗
 
 ### Custom Screws for Automotive Components
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/automotive-components/
+Source: https://zufek.net/industries/automotive-components/
 
 DRAWING & LOT CONTROL
 
@@ -7855,7 +7855,7 @@ ENGINEERING GUIDE
 A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing.
 
 ### Custom Fasteners for Industrial Automation
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/industrial-automation/
+Source: https://zufek.net/industries/industrial-automation/
 
 LOCATING & MOVING INTERFACES
 
@@ -7952,7 +7952,7 @@ ENGINEERING GUIDE
 A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment.
 
 ### Custom Screws for Electronics & Optical Assemblies
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/electronics-optics/
+Source: https://zufek.net/industries/electronics-optics/
 
 COMPACT & ADJUSTABLE PARTS
 
@@ -8043,7 +8043,7 @@ ENGINEERING GUIDE
 Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 ### Custom Fasteners for Charging & Energy Equipment
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/energy-equipment/
+Source: https://zufek.net/industries/energy-equipment/
 
 ENCLOSURE & CONNECTION DETAILS
 
@@ -8134,7 +8134,7 @@ ENGINEERING GUIDE
 Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
 ### Custom Screws for Molds, Tooling & Test Fixtures
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/molds-fixtures/
+Source: https://zufek.net/industries/molds-fixtures/
 
 STEPS, STOPS & ADJUSTMENT
 
@@ -8225,7 +8225,7 @@ ENGINEERING GUIDE
 Several shoulders can locate several components. A clear dimension scheme explains which axial distances control the assembly and which are consequences of other dimensions.
 
 ### Tamper-Resistant Screws for Security & Access Equipment
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/security-equipment/
+Source: https://zufek.net/industries/security-equipment/
 
 DRIVE INTERFACE & SERVICE ACCESS
 
@@ -8316,7 +8316,7 @@ ENGINEERING GUIDE
 A coating-family name does not define the complete supplied surface. Custom fastener RFQs should connect the coating system with fit, friction and acceptance requirements.
 
 ### Hollow Screws & Fasteners for Fluid Equipment
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/fluid-control/
+Source: https://zufek.net/industries/fluid-control/
 
 BORES, EDGES & CLEANLINESS
 
@@ -8407,7 +8407,7 @@ ENGINEERING GUIDE
 Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected.
 
 ### Custom Studs & Fasteners for Machinery Assemblies
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industries/general-machinery/
+Source: https://zufek.net/industries/general-machinery/
 
 MOUNTING, LINKAGES & CUSTOM JOINTS
 
@@ -8501,7 +8501,7 @@ A T-head must enter, turn or slide inside the intended slot while retaining the 
 ## Application design studies
 
 ### Custom Fastener Application Design Studies
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/applications/
+Source: https://zufek.net/applications/
 
 APPLICATION DESIGN STUDIES
 
@@ -8534,7 +8534,7 @@ ILLUSTRATIVE APPLICATION DESIGN
 An illustrative pivot-fixture project connecting shoulder fits, axial stack, adjustment, route selection, CCD limits and sample approval.
 
 ### Automotive Enclosure Flange Screw Design Study
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/applications/automotive-module-enclosure/
+Source: https://zufek.net/applications/automotive-module-enclosure/
 
 ILLUSTRATIVE APPLICATION DESIGN
 
@@ -8611,7 +8611,7 @@ Multi-Station Cold Heading ↗ Thread Rolling, Cutting & Tapping ↗ Coatings & 
 first article custom screw approval ↗ coating allowance thread shoulder ↗ high strength screw coatings hydrogen risk ↗ Industry requirements ↗ RFQ checklist ↗
 
 ### Automation Fixture Shoulder Screw Design Study
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/applications/automation-pivot-fixture/
+Source: https://zufek.net/applications/automation-pivot-fixture/
 
 ILLUSTRATIVE APPLICATION DESIGN
 
@@ -8691,7 +8691,7 @@ shoulder screw drawing guide ↗ shoulder fit thread class grinding ↗ ccd scre
 ## Technical articles
 
 ### What to include in a custom screw RFQ
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-screw-quotation-checklist/
+Source: https://zufek.net/blog/custom-screw-quotation-checklist/
 Last modified: 2026-10-29
 
 PROCUREMENT / 3 MIN READ
@@ -8767,7 +8767,7 @@ Repeat orders should repeat the approved specification, not the ambiguities of a
 By Theo Wan Read technical guide →
 
 ### A practical guide to shoulder screw drawings
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/shoulder-screw-drawing-guide/
+Source: https://zufek.net/blog/shoulder-screw-drawing-guide/
 Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 3 MIN READ
@@ -8873,7 +8873,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Five questions before specifying a captive screw
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/captive-screw-design-questions/
+Source: https://zufek.net/blog/captive-screw-design-questions/
 Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -8959,7 +8959,7 @@ APPLICATION REQUIREMENTS
 Special-drive and custom-head fasteners for access panels, protective housings and serviceable security equipment.
 
 ### Choosing material for a custom metal screw
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/material-selection-custom-screws/
+Source: https://zufek.net/blog/material-selection-custom-screws/
 Last modified: 2026-10-29
 
 MATERIALS & FINISHES / 2 MIN READ
@@ -9031,7 +9031,7 @@ A useful quotation starts with a clear specification. A drawing is the best star
 By Theo Wan Read technical guide →
 
 ### What affects the price of a non-standard screw?
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-screw-price-factors/
+Source: https://zufek.net/blog/custom-screw-price-factors/
 Last modified: 2026-10-29
 
 PROCUREMENT / 2 MIN READ
@@ -9127,7 +9127,7 @@ APPLICATION REQUIREMENTS
 Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.
 
 ### How to prepare an inspection plan for custom screws
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-screw-inspection-plan/
+Source: https://zufek.net/blog/custom-screw-inspection-plan/
 Last modified: 2026-11-02
 
 QUALITY / 2 MIN READ
@@ -9247,7 +9247,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Cold heading or CNC turning: choosing a custom screw route
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/cold-heading-vs-cnc-custom-screws/
+Source: https://zufek.net/blog/cold-heading-vs-cnc-custom-screws/
 Last modified: 2026-10-29
 
 MANUFACTURING / 2 MIN READ
@@ -9323,7 +9323,7 @@ By Theo Wan Read technical guide →
 Multi-Station Cold Heading ↗ Swiss-Type & CNC Turning ↗ Cold Heading + Secondary Machining ↗
 
 ### High-strength screw coatings and hydrogen-risk review
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/high-strength-screw-coatings-hydrogen-risk/
+Source: https://zufek.net/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
 
 MATERIALS & FINISHES / 2 MIN READ
@@ -9429,7 +9429,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### 304, 316 and 17-4PH: different heat-treatment questions
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/stainless-screw-heat-treatment-grades/
+Source: https://zufek.net/blog/stainless-screw-heat-treatment-grades/
 Last modified: 2026-10-29
 
 MATERIALS & FINISHES / 2 MIN READ
@@ -9513,7 +9513,7 @@ Carpenter 17-4PH data
 BSSA: galling resistance of stainless steels
 
 ### Shoulder fits, thread classes and when grinding matters
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/shoulder-fit-thread-class-grinding/
+Source: https://zufek.net/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -9617,7 +9617,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### How to specify a tamper-resistant screw drive
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/specifying-security-screw-drive/
+Source: https://zufek.net/blog/specifying-security-screw-drive/
 Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 3 MIN READ
@@ -9725,7 +9725,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Hollow screw bores: the details an RFQ should include
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/hollow-screw-bore-specification/
+Source: https://zufek.net/blog/hollow-screw-bore-specification/
 Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 3 MIN READ
@@ -9839,7 +9839,7 @@ APPLICATION REQUIREMENTS
 Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.
 
 ### Designing the bearing face of a custom flange screw
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-flange-bearing-face/
+Source: https://zufek.net/blog/custom-flange-bearing-face/
 Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -9953,7 +9953,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Knurled thumb screws: specifying grip and adjustment
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/knurled-thumb-screw-grip-design/
+Source: https://zufek.net/blog/knurled-thumb-screw-grip-design/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10057,7 +10057,7 @@ APPLICATION REQUIREMENTS
 Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.
 
 ### Cone, flat, dog or cup: choosing a set-screw tip
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/set-screw-tip-selection/
+Source: https://zufek.net/blog/set-screw-tip-selection/
 Last modified: 2026-11-03
 
 DESIGN & DIMENSIONS / 3 MIN READ
@@ -10187,7 +10187,7 @@ APPLICATION REQUIREMENTS
 Custom shoulder screws, stops and threaded locating components for mold-related mechanisms, jigs and test fixtures.
 
 ### T-slot bolt fit: what to measure before ordering
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/t-slot-bolt-head-fit/
+Source: https://zufek.net/blog/t-slot-bolt-head-fit/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10279,7 +10279,7 @@ APPLICATION REQUIREMENTS
 Custom shoulder screws, stops and threaded locating components for mold-related mechanisms, jigs and test fixtures.
 
 ### Eye Bolts for Linkages vs Lifting: Specification
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/eye-bolt-linkage-vs-lifting/
+Source: https://zufek.net/blog/eye-bolt-linkage-vs-lifting/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10371,7 +10371,7 @@ APPLICATION REQUIREMENTS
 Special heads, studs and connection geometries for machine frames, brackets, custom linkages and equipment assemblies.
 
 ### How to dimension a custom U-bolt
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/u-bolt-bend-and-leg-dimensions/
+Source: https://zufek.net/blog/u-bolt-bend-and-leg-dimensions/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10451,7 +10451,7 @@ By Theo Wan Read technical guide →
 Secondary & Precision Operations ↗ Thread Rolling, Cutting & Tapping ↗ Coatings & Surface Treatments ↗
 
 ### Custom carriage bolts: specifying the square neck
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/carriage-bolt-square-neck/
+Source: https://zufek.net/blog/carriage-bolt-square-neck/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10531,7 +10531,7 @@ By Theo Wan Read technical guide →
 Multi-Station Cold Heading ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗
 
 ### Eccentric screw drawings: making the offset unambiguous
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/eccentric-screw-datum-drawing/
+Source: https://zufek.net/blog/eccentric-screw-datum-drawing/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10623,7 +10623,7 @@ APPLICATION REQUIREMENTS
 Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.
 
 ### Double-ended studs: preventing mixed-thread assembly errors
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/double-ended-stud-thread-identification/
+Source: https://zufek.net/blog/double-ended-stud-thread-identification/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10727,7 +10727,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Reduced-shank screws: why transitions need attention
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/reduced-shank-transition-design/
+Source: https://zufek.net/blog/reduced-shank-transition-design/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10807,7 +10807,7 @@ By Theo Wan Read technical guide →
 Swiss-Type & CNC Turning ↗ Cold Heading + Secondary Machining ↗ CCD Vision & Dimensional Inspection ↗
 
 ### Tapered screws: defining the mating seat
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/tapered-screw-mating-seat/
+Source: https://zufek.net/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10899,7 +10899,7 @@ APPLICATION REQUIREMENTS
 Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces.
 
 ### Integral locating pins: coordinating pin and screw datums
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/integral-locating-pin-position/
+Source: https://zufek.net/blog/integral-locating-pin-position/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -10991,7 +10991,7 @@ APPLICATION REQUIREMENTS
 Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.
 
 ### Multi-step screws: controlling the axial dimension chain
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/multi-step-screw-dimension-chain/
+Source: https://zufek.net/blog/multi-step-screw-dimension-chain/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -11083,7 +11083,7 @@ APPLICATION REQUIREMENTS
 Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.
 
 ### Custom Clinch Studs: Specify the Panel Too
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/clinch-stud-panel-requirements/
+Source: https://zufek.net/blog/clinch-stud-panel-requirements/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -11163,7 +11163,7 @@ By Theo Wan Read technical guide →
 Multi-Station Cold Heading ↗ Secondary & Precision Operations ↗ CCD Vision & Dimensional Inspection ↗
 
 ### Rolled or cut threads: questions to resolve in the RFQ
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/rolled-vs-cut-thread-rfq/
+Source: https://zufek.net/blog/rolled-vs-cut-thread-rfq/
 Last modified: 2026-10-29
 
 MANUFACTURING / 2 MIN READ
@@ -11261,7 +11261,7 @@ APPLICATION REQUIREMENTS
 Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces.
 
 ### Cross holes in screws: planning burr control and inspection
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/cross-hole-burr-control/
+Source: https://zufek.net/blog/cross-hole-burr-control/
 Last modified: 2026-10-29
 
 MANUFACTURING / 2 MIN READ
@@ -11353,7 +11353,7 @@ APPLICATION REQUIREMENTS
 Hollow, cross-drilled and taper-related custom components for application-specific passages, fixtures and connection interfaces.
 
 ### Coating allowance for threads and precision shoulders
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/coating-allowance-thread-shoulder/
+Source: https://zufek.net/blog/coating-allowance-thread-shoulder/
 Last modified: 2026-10-29
 
 MATERIALS & FINISHES / 2 MIN READ
@@ -11457,7 +11457,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Nickel Plating vs Stainless Passivation in an RFQ
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/nickel-plating-vs-stainless-passivation/
+Source: https://zufek.net/blog/nickel-plating-vs-stainless-passivation/
 Last modified: 2026-10-29
 
 MATERIALS & FINISHES / 2 MIN READ
@@ -11537,7 +11537,7 @@ By Theo Wan Read technical guide →
 Coatings & Surface Treatments ↗ Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗
 
 ### What to specify for a zinc-flake coated custom screw
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/zinc-flake-coating-specification/
+Source: https://zufek.net/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
 
 MATERIALS & FINISHES / 2 MIN READ
@@ -11641,7 +11641,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Technical cleanliness: writing a useful fastener requirement
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-fastener-technical-cleanliness/
+Source: https://zufek.net/blog/custom-fastener-technical-cleanliness/
 Last modified: 2026-10-29
 
 QUALITY / 2 MIN READ
@@ -11745,7 +11745,7 @@ APPLICATION REQUIREMENTS
 Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.
 
 ### Pre-Applied Locking Patches: What the Drawing Says
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/pre-applied-locking-patch-rfq/
+Source: https://zufek.net/blog/pre-applied-locking-patch-rfq/
 Last modified: 2026-10-29
 
 PROCUREMENT / 2 MIN READ
@@ -11825,7 +11825,7 @@ By Theo Wan Read technical guide →
 Cleaning, Locking & Assembly ↗ Thread Rolling, Cutting & Tapping ↗ CCD Vision & Dimensional Inspection ↗
 
 ### Preassembled washer screws: specify the complete set
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/preassembled-washer-screw-specification/
+Source: https://zufek.net/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
 
 PROCUREMENT / 2 MIN READ
@@ -11929,7 +11929,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### What CCD vision inspection can check on a custom screw
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/ccd-screw-dimension-inspection/
+Source: https://zufek.net/blog/ccd-screw-dimension-inspection/
 Last modified: 2026-10-29
 
 QUALITY / 3 MIN READ
@@ -12051,7 +12051,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### First-Article Approval for Custom Screws
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/first-article-custom-screw-approval/
+Source: https://zufek.net/blog/first-article-custom-screw-approval/
 Last modified: 2026-10-29
 
 QUALITY / 2 MIN READ
@@ -12131,7 +12131,7 @@ By Theo Wan Read technical guide →
 CCD Vision & Dimensional Inspection ↗ Cleaning, Locking & Assembly ↗
 
 ### Sampling and 100% inspection: choosing the right coverage
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/sampling-vs-full-fastener-inspection/
+Source: https://zufek.net/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
 
 QUALITY / 2 MIN READ
@@ -12223,7 +12223,7 @@ APPLICATION REQUIREMENTS
 Shoulder, step and adjustment fasteners for guided mechanisms, positioning stations and automation equipment.
 
 ### Thread gauges and custom screw acceptance
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/thread-gauge-acceptance-plan/
+Source: https://zufek.net/blog/thread-gauge-acceptance-plan/
 Last modified: 2026-10-29
 
 QUALITY / 2 MIN READ
@@ -12331,7 +12331,7 @@ APPLICATION REQUIREMENTS
 Drawing-defined fasteners for compact housings, optical adjustment mechanisms and precision module assemblies.
 
 ### Why a custom screw needs more than a generic torque value
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/tightening-torque-friction-custom-screws/
+Source: https://zufek.net/blog/tightening-torque-friction-custom-screws/
 Last modified: 2026-10-29
 
 DESIGN & DIMENSIONS / 2 MIN READ
@@ -12439,7 +12439,7 @@ APPLICATION REQUIREMENTS
 Custom threaded components for brackets, equipment modules and other drawing-defined automotive component assemblies.
 
 ### Prototype to Production: Keeping Screw Specs Aligned
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/prototype-to-production-fasteners/
+Source: https://zufek.net/blog/prototype-to-production-fasteners/
 Last modified: 2026-10-29
 
 PROCUREMENT / 2 MIN READ
@@ -12519,7 +12519,7 @@ By Theo Wan Read technical guide →
 Swiss-Type & CNC Turning ↗ Cold Heading + Secondary Machining ↗ CCD Vision & Dimensional Inspection ↗
 
 ### Drawing revision control for repeat custom fastener orders
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/drawing-revision-custom-fastener-orders/
+Source: https://zufek.net/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
 
 PROCUREMENT / 2 MIN READ
@@ -12599,7 +12599,7 @@ By Theo Wan Read technical guide →
 CCD Vision & Dimensional Inspection ↗ Cleaning, Locking & Assembly ↗
 
 ### Packaging and lot traceability for custom screw orders
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/blog/custom-screw-packaging-lot-traceability/
+Source: https://zufek.net/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
 
 PROCUREMENT / 2 MIN READ
@@ -12679,7 +12679,7 @@ By Theo Wan Read technical guide →
 Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗
 
 ### EV Charging Enclosure Fastener Specifications
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/ev-charging-enclosure-fasteners/
+Source: https://zufek.net/industry-insights/ev-charging-enclosure-fasteners/
 Last modified: 2026-10-30
 
 Industry Insights
@@ -12761,7 +12761,7 @@ IEA Global EV Outlook 2026
 Energy, Charging & Storage Equipment Security & Tamper-Resistant Screws Custom Flange Screws Specifying a fastener surface treatment without leaving the interface undefined
 
 ### Locating & Pivot Fasteners for Factory Automation
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/automation-locating-pivot-fasteners/
+Source: https://zufek.net/industry-insights/automation-locating-pivot-fasteners/
 Last modified: 2026-10-30
 
 Industry Insights
@@ -12849,7 +12849,7 @@ IFR World Robotics reporting
 Industrial Automation Shoulder & Step Screws Knurled Thumb & Adjustment Screws Building a custom fastener inspection and acceptance plan
 
 ### Battery Storage Equipment: Fastener Interfaces
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/battery-storage-fastener-interfaces/
+Source: https://zufek.net/industry-insights/battery-storage-fastener-interfaces/
 Last modified: 2026-10-30
 
 Industry Insights
@@ -12937,7 +12937,7 @@ IEA Batteries and Secure Energy Transitions
 Energy, Charging & Storage Equipment Carbon & Alloy Steel Cleaning, Locking & Assembly Custom fastener drawing review: a practical release checklist
 
 ### Data-Centre Cooling & Service-Access Fasteners
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/data-centre-cooling-service-fasteners/
+Source: https://zufek.net/industry-insights/data-centre-cooling-service-fasteners/
 Last modified: 2026-10-30
 
 Industry Insights
@@ -13025,7 +13025,7 @@ IEA Energy and AI
 Electronics & Optical Equipment Captive Screws to your drawing. Hollow & Through-Hole Screws From prototype screw to repeat production: a stage-gate handover guide
 
 ### Repairability Rules: What Fastener Buyers Should Define
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/repairability-product-information-fasteners/
+Source: https://zufek.net/industry-insights/repairability-product-information-fasteners/
 Last modified: 2026-10-30
 
 Industry Insights
@@ -13121,7 +13121,7 @@ Ecodesign for Sustainable Products Regulation framework
 Captive Screws to your drawing. Security & Tamper-Resistant Screws From prototype screw to repeat production: a stage-gate handover guide faq
 
 ### Fastener Material Supply Risk: Qualified Alternatives
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/industry-insights/material-supply-risk-qualified-alternatives/
+Source: https://zufek.net/industry-insights/material-supply-risk-qualified-alternatives/
 Last modified: 2026-10-30
 
 Industry Insights

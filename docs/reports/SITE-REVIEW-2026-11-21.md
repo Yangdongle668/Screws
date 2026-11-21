@@ -163,3 +163,43 @@
 3. 收集真实工厂素材与联系方式，改写作者署名，llms.txt 去品牌名并拆分（P1，GEO/信任）。
 4. 每周 1–2 篇带一线经验的文章替代批量发布；建立 AI 搜索可见性基线（P2）。
 5. 架构收敛（P2）。
+
+---
+
+## 七、执行记录（2026-11-21）
+
+### 已完成
+| 项目 | 处理 |
+|---|---|
+| 字体未加载 | 自托管 Manrope、DM Sans 可变字体（OFL，`public/fonts/`），`font-display: swap` 并预加载 |
+| 手机 Cookie 弹窗遮挡首屏 | 改为紧凑底部条，三个按钮一行，六语言均已检查 |
+| 静态资源缓存 | CSS/JS 链接带内容哈希 `?v=`；Docker 对带版本的 CSS/JS 和字体返回一年 `immutable` 缓存 |
+| 标题过长 | 文章类页面标题超过 52 字符时不再追加 “ \| ZUFEK”；17 个超长标题新增搜索标题（`scripts/seo-overrides.mjs`，五语译文在 `scripts/seo-overrides-localization.mjs`），页面 H1 不变 |
+| 描述过长 | 13 个页面新增精简描述；产品描述超过 160 字符时只保留首句 |
+| FAQPage 结构化数据 | 从页面中纯文本问答自动生成，覆盖 7 个材料页和 5 个产品页（同一问题只在首个页面标注） |
+| llms.txt | 去掉否定句中的整车品牌名；补充产品、工艺路线、材料的正面事实；`llms-full.txt` 按公司、产品、指南、工艺、材料、行业、示例、文章排序 |
+| 薄页面 | RFQ 清单增加“每项的作用 / 未确定时怎么填”对照表；驱动类型指南增加“如何把驱动写进图纸”（ISO 10664、ISO 4757 等）；均含五语译文 |
+| 重复免责语 | 删除产品模板中两句与规格清单重复的说明 |
+| 规范域名配置 | `site-content.config.json` 改为 `https://zufek.net`，静态导出与线上一致 |
+| package 名称 | 改为 `zufek-website` |
+
+校验：14 个内容 / SEO / 多语言校验脚本、`tsc --noEmit`、`npm run build`、`node docker/build.mjs` + `node docker/verify-runtime.mjs` 全部通过。
+
+### 更正
+- **关键词蚕食（原 SEO P1-3）**：复核后，`core-custom-screws`、`special-head-bolts`、`special-thread-screws` 是分类汇总页，与对应详情页是正常的层级关系；`eye-bolts`（活节连接）与 `lifting-eye-bolts`（起吊）用途不同。无需合并或重定向。
+- **字体**：标题实际使用 Manrope，正文为 DM Sans，两者此前都未加载。
+
+### 有意未做
+- **修改已发布文章的日期**：不把发布日期改早。伪造发布时间属于误导，搜索引擎也已记录首次抓取时间，改动反而有被判为操纵的风险。后台已按周（技术文章）和每月 1、15 日（行业洞察）排期发布，今后的节奏会自然分散；`dateModified` 应只在实质修订时更新。
+- **删除 `components/ui/` 与相关依赖**：这是 Sites 发布工具的初始模板（`components.json`、eslint 配置、connector 预览依赖它），在本环境无法完整验证 Sites 发布流程，保留。
+
+### 需要你提供或在服务器上处理
+1. **www 证书与 301 跳转**（你自己处理）。
+2. **反向代理重复的 Cache-Control 头**：OpenResty/Nginx 在上游已有 `Cache-Control` 时又追加了 `no-cache`。去掉对这些路径的 `add_header Cache-Control ...`，或改为仅在上游没有该头时设置，例如：
+   ```nginx
+   map $upstream_http_cache_control $cc_fallback { "" "no-cache"; default ""; }
+   add_header Cache-Control $cc_fallback;
+   ```
+3. **Organization `sameAs`**：LinkedIn、Google 商家资料、行业目录等真实链接。
+4. **信任信号**：工厂 / 设备 / 检测实拍、电话或 WhatsApp、实际持有的认证。
+5. **作者署名**：如有愿意署名的工程或品质负责人，提供姓名与属实的职务。

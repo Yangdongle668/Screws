@@ -19,23 +19,23 @@
 HTML pages are the primary source. This directory lists current indexable public content; drafts, withdrawn translations and private inquiry records are excluded. llms.txt is an optional navigation aid, not an indexing, ranking or citation guarantee. Full text follows the same public publication state.
 
 ## Resource map
-- [Sitemap index](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap_index.xml)
-- [Robots policy](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/robots.txt)
-- [Language homepage](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/)
-- [Compact directory](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/llms.txt)
+- [Sitemap index](https://zufek.net/sitemap_index.xml)
+- [Robots policy](https://zufek.net/robots.txt)
+- [Language homepage](https://zufek.net/fr/)
+- [Compact directory](https://zufek.net/fr/llms.txt)
 
 ## Language editions
-- [English](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/llms.txt)
-- [Deutsch](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/llms.txt)
-- [Español](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/llms.txt)
-- [Italiano](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/llms.txt)
-- [中文](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/llms.txt)
-- [Français](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/llms.txt)
+- [English](https://zufek.net/llms.txt)
+- [Deutsch](https://zufek.net/de/llms.txt)
+- [Español](https://zufek.net/es/llms.txt)
+- [Italiano](https://zufek.net/it/llms.txt)
+- [中文](https://zufek.net/zh/llms.txt)
+- [Français](https://zufek.net/fr/llms.txt)
 
 ## Entreprise et pages principales
 
 ### Fabricant de vis sur mesure à Dongguan
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/
+Source: https://zufek.net/fr/
 
 CONÇUES SUR MESURE
 
@@ -212,7 +212,7 @@ Deux études illustratives relient les besoins de montage à la géométrie, au 
 Boîtier de module automobile ↗ Pivot et outillage de réglage pour l’automatisation ↗ Voir les études de conception applicative ↗
 
 ### Contrôle et dossiers qualité des vis sur mesure
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/quality/
+Source: https://zufek.net/fr/quality/
 
 dessin technique À L'ACCEPTATION
 
@@ -315,7 +315,7 @@ Par exemple, le CCD peut évaluer le profil visible d’un épaulement, un calib
 Télécharger la fiche de contrôle vierge (anglais) Télécharger l’exemple de plan de contrôle (anglais)
 
 ### Ressources techniques pour les vis à métaux personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/resources/
+Source: https://zufek.net/fr/resources/
 
 LE CENTRE DE CONNAISSANCES
 
@@ -632,7 +632,7 @@ Boîtier de module automobile ↗ Pivot et outillage de réglage pour l’automa
 Guide d'interface spécial variateur ↗ Exemples complets d'itinéraires de fabrication ↗ Sélection des matériaux par famille ↗
 
 ### Blog technique sur les vis personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/
+Source: https://zufek.net/fr/blog/
 
 APERÇU TECHNIQUE
 
@@ -899,7 +899,7 @@ Par Theo Wan Lire le guide technique → Afficher plus d'articles ↓ Aucun arti
 Ces guides soutiennent les discussions sur les spécifications. Les exigences d’ingénierie et de fabrication spécifiques à l’application nécessitent un examen individuel.
 
 ### À propos — fixations sur mesure depuis 2005
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/about/
+Source: https://zufek.net/fr/about/
 
 DONGGUAN ZUFEK PRECISION CO., LTD.
 
@@ -988,7 +988,7 @@ Prévoyez environ 10–15 jours pour l’outillage et les échantillons, sous r�
 Préparer les exigences d’approbation des échantillons ↗ Planification de la qualité Etudes de conception d'applications
 
 ### Demander un devis de vis personnalisé
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/request-a-quote/
+Source: https://zufek.net/fr/request-a-quote/
 
 COMMENÇONS PAR VOTRE BESOIN
 
@@ -1027,7 +1027,7 @@ Envoyez une révision du dessin technique, la quantité d’échantillon, le vol
 Préparer la liste de contrôle de la RFQ ↗ Comparez les itinéraires de fabrication complets ↗
 
 ### Theo Wan — ZUFEK Éditorial technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/authors/theo-wan/
+Source: https://zufek.net/fr/authors/theo-wan/
 
 TW ZUFEK ÉDITORIAL TECHNIQUE
 
@@ -1108,7 +1108,7 @@ Les inox regroupent plusieurs familles. Préciser nuance et état final plutôt 
 Par Theo Wan Lire le guide technique → Voir le blog technique complet ↗
 
 ### FAQ sur les fixations personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/faq/
+Source: https://zufek.net/fr/faq/
 
 APERÇU TECHNIQUE
 
@@ -1159,7 +1159,7 @@ Où dois-je envoyer un dessin ou donner suite à une demande ? Utilisez le formu
 Liste de contrôle de la demande de prix · Demander un devis
 
 ### Analyses sectorielles
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/
+Source: https://zufek.net/fr/industry-insights/
 
 APERÇU TECHNIQUE
 
@@ -1195,7 +1195,7 @@ Qualifier des matériaux de fixation alternatifs grâce à leurs propriétés fi
 ## Produits
 
 ### Produits de vis personnalisés et types de fixations non standard
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/
+Source: https://zufek.net/fr/products/
 
 LA GAMME DE FIXATIONS SUR MESURE
 
@@ -1378,7 +1378,7 @@ TRANSFORMEZ L'INTENTION DE CONCEPTION EN CITATION
 Itinéraires et opérations de fabrication ↗ Familles de matériaux & finitions ↗ Guide de l'interface du lecteur ↗
 
 ### Vis personnalisées à partir de votre dessin technique — Outillage et échantillons
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/custom-screws/
+Source: https://zufek.net/fr/products/custom-screws/
 
 CONSTRUIT AUTOUR DE VOTRE dessin technique
 
@@ -1527,7 +1527,7 @@ Fournir le dessin technique, le matériau, la finition et l’assemblage prévu.
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis à épaulement sur plan
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/shoulder-screws/
+Source: https://zufek.net/fr/products/shoulder-screws/
 
 PRINCIPALES VIS SPÉCIALES
 
@@ -1702,7 +1702,7 @@ Une vis à épaulement comporte une partie lisse entre la tête et le filetage, 
 Vérifiez toute la chaîne axiale, y compris les rondelles et la face d’appui. L’épaulement doit porter comme prévu tout en conservant le jeu de mouvement demandé. Indiquez le montage et la chaîne de tolérances sur le plan : la longueur nominale seule ne détermine pas le jeu final.
 
 ### Vis captives selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/captive-screws/
+Source: https://zufek.net/fr/products/captive-screws/
 
 CONÇU POUR LA RÉTENTION
 
@@ -1807,7 +1807,7 @@ EXIGENCES DE DEMANDE
 Fixations à entraînement spécial et à tête personnalisée pour panneaux d'accès, boîtiers de protection et équipements de sécurité réparables.
 
 ### Vis à tête spéciale selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/special-head-screws/
+Source: https://zufek.net/fr/products/special-head-screws/
 
 GÉOMÉTRIE SPÉCIFIQUE À L'APPLICATION
 
@@ -1930,7 +1930,7 @@ EXIGENCES DE DEMANDE
 Fixations à entraînement spécial et à tête personnalisée pour panneaux d'accès, boîtiers de protection et équipements de sécurité réparables.
 
 ### Principales vis spéciales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/core-custom-screws/
+Source: https://zufek.net/fr/products/core-custom-screws/
 
 COLLECTION FAMILLE DE PRODUITS
 
@@ -2007,7 +2007,7 @@ Vérifier la fonction avec la pièce associée.
 Préparer la demande de prix Planification de la qualité
 
 ### Têtes spéciales et boulons fonctionnels
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/special-head-bolts/
+Source: https://zufek.net/fr/products/special-head-bolts/
 
 COLLECTION FAMILLE DE PRODUITS
 
@@ -2096,7 +2096,7 @@ Contrôler appui et rotation au serrage.
 Préparer la demande de prix Planification de la qualité
 
 ### Fils et tiges spéciaux
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/special-thread-screws/
+Source: https://zufek.net/fr/products/special-thread-screws/
 
 COLLECTION FAMILLE DE PRODUITS
 
@@ -2165,7 +2165,7 @@ Vérifier séparément filetage fini et engagement utile.
 Préparer la demande de prix Planification de la qualité
 
 ### Structures composées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/compound-structure-screws/
+Source: https://zufek.net/fr/products/compound-structure-screws/
 
 COLLECTION FAMILLE DE PRODUITS
 
@@ -2234,7 +2234,7 @@ Contrôler leur relation après finition.
 Préparer la demande de prix Planification de la qualité
 
 ### Vis de sécurité et inviolables selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/security-screws/
+Source: https://zufek.net/fr/products/security-screws/
 
 PRINCIPALES VIS SPÉCIALES
 
@@ -2379,7 +2379,7 @@ MATÉRIAU ET ÉTAT FINAL
 Les groupes A2/A4 et les classes telles que 70 ou 80 caractérisent les fixations inoxydables finies dans le domaine de la spécification applicable. La seule indication SUS304 ou SUS316 ne démontre pas les propriétés A2-70 ou A4-80.
 
 ### Vis creuses et à trou débouchant
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/hollow-screws/
+Source: https://zufek.net/fr/products/hollow-screws/
 
 PRINCIPALES VIS SPÉCIALES
 
@@ -2518,7 +2518,7 @@ MATÉRIAU ET ÉTAT FINAL
 La résistance du cuivre varie considérablement en fonction de l'alliage, de la forme du produit et de son état. Ce qui suit est une référence de stock typique et non une exigence d'acceptation des vis.
 
 ### Vis à bride personnalisées selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/flange-screws/
+Source: https://zufek.net/fr/products/flange-screws/
 
 PRINCIPALES VIS SPÉCIALES
 
@@ -2675,7 +2675,7 @@ GUIDE D'INGÉNIERIE
 Une vis préassemblée est fournie sous forme de petit assemblage. La rondelle, la méthode de rétention et la séquence des composants nécessitent le même contrôle que la vis elle-même.
 
 ### Pouce moleté et vis de réglage selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/knurled-thumb-screws/
+Source: https://zufek.net/fr/products/knurled-thumb-screws/
 
 PRINCIPALES VIS SPÉCIALES
 
@@ -2834,7 +2834,7 @@ MATÉRIAU ET ÉTAT FINAL
 La force change avec la composition et le tempérament. L'exemple ci-dessous est des données de tige typiques H02 publiées et ne doit pas être appliqué à toutes les fixations en laiton.
 
 ### Vis de réglage personnalisées et vis sans tête selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/set-screws/
+Source: https://zufek.net/fr/products/set-screws/
 
 PRINCIPALES VIS SPÉCIALES
 
@@ -2977,7 +2977,7 @@ MATÉRIAU ET ÉTAT FINAL
 Spécifiez la classe de propriétés de la fixation finie, et non une résistance déduite de la qualité brute. Les références de classe nominale courantes incluent 8.8, 10.9 et 12.9.
 
 ### Boulons à rainure en T personnalisés selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/t-slot-bolts/
+Source: https://zufek.net/fr/products/t-slot-bolts/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3074,7 +3074,7 @@ Fournir la section transversale de la fente et la méthode d'insertion ; ne fait
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Boulons à œil et articulés personnalisés selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/eye-bolts/
+Source: https://zufek.net/fr/products/eye-bolts/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3163,7 +3163,7 @@ Indiquer la direction de la force et l’utilisation prévue. Toute application 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Conceptions personnalisées de boulons à œil de levage selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/lifting-eye-bolts/
+Source: https://zufek.net/fr/products/lifting-eye-bolts/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3250,7 +3250,7 @@ Fournir le cas de charge approuvé et la norme applicable. La géométrie person
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Boulons en U personnalisés selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/u-bolts/
+Source: https://zufek.net/fr/products/u-bolts/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3337,7 +3337,7 @@ Fournissez les exigences de section transversale serrée et de charge. Le matér
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Boulons à tête carrée personnalisés selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/square-head-bolts/
+Source: https://zufek.net/fr/products/square-head-bolts/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3426,7 +3426,7 @@ Montrer l'accès à la clé ou la poche de retenue et les propriétés mécaniqu
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Boulons de carrosserie personnalisés selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/carriage-bolts/
+Source: https://zufek.net/fr/products/carriage-bolts/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3513,7 +3513,7 @@ Fournir la géométrie du trou d'accouplement et le matériau du roulement ; l'e
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis à tête excentrique et coudée selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/eccentric-screws/
+Source: https://zufek.net/fr/products/eccentric-screws/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3610,7 +3610,7 @@ Fournissez une vue d’assemblage, un schéma de référence et une plage de ré
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Goujons personnalisés à double extrémité selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/double-ended-studs/
+Source: https://zufek.net/fr/products/double-ended-studs/
 
 TÊTES SPÉCIALES ET BOULONS FONCTIONNELS
 
@@ -3725,7 +3725,7 @@ MATÉRIAU ET ÉTAT FINAL
 La résistance du cuivre varie considérablement en fonction de l'alliage, de la forme du produit et de son état. Ce qui suit est une référence de stock typique et non une exigence d'acceptation des vis.
 
 ### Vis à pas fin et extra-fin selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/fine-thread-screws/
+Source: https://zufek.net/fr/products/fine-thread-screws/
 
 FILETAGES ET TIGES SPÉCIAUX
 
@@ -3832,7 +3832,7 @@ MATÉRIAU ET ÉTAT FINAL
 Les qualités commercialement pures 2 et Ti-6Al-4V sont des matériaux différents. La qualité, la forme et l'état du produit doivent accompagner toute valeur de résistance.
 
 ### Profils de filetage spéciaux et composés selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/special-thread-profiles/
+Source: https://zufek.net/fr/products/special-thread-profiles/
 
 FILETAGES ET TIGES SPÉCIAUX
 
@@ -3933,7 +3933,7 @@ MATÉRIAU ET ÉTAT FINAL
 La force change avec la composition et le tempérament. L'exemple ci-dessous est des données de tige typiques H02 publiées et ne doit pas être appliqué à toutes les fixations en laiton.
 
 ### Vis autotaraudeuses à pointe modifiée selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/modified-tip-self-tapping-screws/
+Source: https://zufek.net/fr/products/modified-tip-self-tapping-screws/
 
 FILETAGES ET TIGES SPÉCIAUX
 
@@ -4032,7 +4032,7 @@ MATÉRIAU ET ÉTAT FINAL
 10B21 désigne une nuance de matériau, et non une classe de résistance de la fixation finie. Il n’existe donc pas de valeur unique de résistance à la traction applicable à toutes les vis en 10B21.
 
 ### Vis à tige réduite et variable selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/reduced-shank-screws/
+Source: https://zufek.net/fr/products/reduced-shank-screws/
 
 FILETAGES ET TIGES SPÉCIAUX
 
@@ -4119,7 +4119,7 @@ Une tige réduite n’empêche pas automatiquement les fissures. Exigences de ch
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis à tige conique et à cône selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/tapered-screws/
+Source: https://zufek.net/fr/products/tapered-screws/
 
 FILETAGES ET TIGES SPÉCIAUX
 
@@ -4208,7 +4208,7 @@ Les performances d'étanchéité nécessitent une conception et une vérificatio
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis avec goupilles de positionnement intégrées au dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/locating-pin-screws/
+Source: https://zufek.net/fr/products/locating-pin-screws/
 
 STRUCTURES COMPOSÉES
 
@@ -4297,7 +4297,7 @@ Précisez le trou de raccordement et le sens d’assemblage. Confirmez quelle fo
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis à épaulement à double extrémité selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/double-ended-shoulder-screws/
+Source: https://zufek.net/fr/products/double-ended-shoulder-screws/
 
 STRUCTURES COMPOSÉES
 
@@ -4384,7 +4384,7 @@ Incluez les deux composants correspondants et expliquez quelle extrémité est i
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis à perçage cruciforme et à tête cylindrique selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/cross-drilled-screws/
+Source: https://zufek.net/fr/products/cross-drilled-screws/
 
 STRUCTURES COMPOSÉES
 
@@ -4473,7 +4473,7 @@ Indiquer la méthode de rétention prévue et les exigences de charge ; un trou 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis multi-étapes et multi-épaules selon dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/multi-step-screws/
+Source: https://zufek.net/fr/products/multi-step-screws/
 
 STRUCTURES COMPOSÉES
 
@@ -4562,7 +4562,7 @@ Utilisez un dessin technique basé sur des données et identifiez les surfaces q
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
 ### Vis et goujons à clincher personnalisés selon le dessin technique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/products/custom-clinch-fasteners/
+Source: https://zufek.net/fr/products/custom-clinch-fasteners/
 
 STRUCTURES COMPOSÉES
 
@@ -4652,7 +4652,7 @@ La réalisation des échantillons, outillage compris, prend généralement envir
 ## Guides techniques
 
 ### Liste de contrôle de la demande de prix pour vis personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/rfq-checklist/
+Source: https://zufek.net/fr/guides/rfq-checklist/
 
 FEUILLE DE TRAVAIL D'APPROVISIONNEMENT IMPRIMABLE
 
@@ -4699,7 +4699,7 @@ Envoyez une révision du dessin technique, la quantité d’échantillon, le vol
 Préparer la liste de contrôle de la RFQ ↗ Comparez les itinéraires de fabrication complets ↗
 
 ### Guide d'entraînement à vis spécial et d'encastrement de sécurité
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/drive-types/
+Source: https://zufek.net/fr/guides/drive-types/
 
 GUIDE DE L'INTERFACE DU DISQUE
 
@@ -4748,7 +4748,7 @@ Convenez du contrôle de l’empreinte, par exemple avec un calibre entre/n’en
 Vis de sécurité et anti-effraction ↗ Vis moletées et vis de réglage manuel ↗ Vis à tête spéciale ↗ Vis sans tête et vis de pression sur mesure ↗ Frappe à froid multiposte ↗ Opérations secondaires et de précision ↗
 
 ### Flux de travail personnalisé de sélection des matériaux et de la résistance des vis
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/material-strength-selection/
+Source: https://zufek.net/fr/guides/material-strength-selection/
 
 FLUX DE TRAVAIL DE SÉLECTION DES MATÉRIAUX
 
@@ -4795,7 +4795,7 @@ BSSA : résistance au grippage des aciers inoxydables ↗ explique pourquoi le c
 Familles de matériaux et données sources ↗ Classes de résistance de l'acier fini ↗ Conditions SUS304 et SUS316 ↗ Examen des risques liés aux revêtements et à l’hydrogène ↗ Article sur la sélection des matériaux ↗ Préparer la demande de prix ↗
 
 ### Check-list de revue de plan pour fixations spéciales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/drawing-review-release-checklist/
+Source: https://zufek.net/fr/guides/drawing-review-release-checklist/
 Last modified: 2026-10-30
 
 Guides techniques
@@ -4859,7 +4859,7 @@ NASA Fastener Design Manual, 1990 : contexte général de conception
 Un appel d’offres plus clair. Une réponse plus utile. Vis à épaulement et vis étagées Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
 
 ### Choisir une voie de fabrication pour une vis sur mesure
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/manufacturing-route-selection/
+Source: https://zufek.net/fr/guides/manufacturing-route-selection/
 Last modified: 2026-10-30
 
 Guides techniques
@@ -4923,7 +4923,7 @@ NASA Fastener Design Manual, 1990 : contexte général de conception
 Trois parcours complets. Défini par le dessin. Frappe à froid multiposte Décolletage à poupée mobile et tournage CNC Du prototype de vis à la production répétée : un guide de passation des portes de l'étape
 
 ### Spécifier le traitement de surface d’une fixation
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/surface-treatment-specification/
+Source: https://zufek.net/fr/guides/surface-treatment-specification/
 Last modified: 2026-10-30
 
 Guides techniques
@@ -4989,7 +4989,7 @@ ISO 10683 : périmètre publié pour les systèmes zinc-flacons
 Revêtements et traitements de surface Nommez le matériau. Définir ses performances. Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
 
 ### Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/inspection-acceptance-plan/
+Source: https://zufek.net/fr/guides/inspection-acceptance-plan/
 Last modified: 2026-10-30
 
 Guides techniques
@@ -5059,7 +5059,7 @@ ISO 3269 : limites de portée et d'applicabilité publiées
 Contrôle dimensionnel et vision CCD Définir le chèque. Acceptez les preuves. Examen des dessins de fixations personnalisés : une liste de contrôle pratique pour la publication
 
 ### Du prototype à la série : guide de transfert
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/prototype-production-handover/
+Source: https://zufek.net/fr/guides/prototype-production-handover/
 Last modified: 2026-10-30
 
 Guides techniques
@@ -5129,7 +5129,7 @@ NASA Fastener Design Manual, 1990 : contexte général de conception
 Un appel d’offres plus clair. Une réponse plus utile. Choisir une voie de fabrication pour une vis sur mesure Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
 
 ### Guides techniques
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/guides/
+Source: https://zufek.net/fr/guides/
 
 APERÇU TECHNIQUE
 
@@ -5173,7 +5173,7 @@ Utilisez les étapes pour passer des échantillons géométriques à la producti
 ## Procédés de fabrication
 
 ### Itinéraires et processus de fabrication de fixations personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/
+Source: https://zufek.net/fr/capabilities/
 
 LA CHAÎNE DE FABRICATION COMPLÈTE
 
@@ -5278,7 +5278,7 @@ La couverture du processus est revue pour la pièce réelle. La propriété de l
 Commencez par le matériel ↗
 
 ### Frappe à froid multiposte
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/cold-heading/
+Source: https://zufek.net/fr/capabilities/cold-heading/
 
 ITINÉRAIRE 01 / FORMAGE
 
@@ -5399,7 +5399,7 @@ CONCEPTION DÉFINIE par dessin technique
 Une interface d'outil carrée ou une tête capturée prend en charge les besoins d'accès et d'anti-rotation spécifiques à l'application.
 
 ### Décolletage à poupée mobile et tournage CNC
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/cnc-turning/
+Source: https://zufek.net/fr/capabilities/cnc-turning/
 
 ITINÉRAIRE 02 / USINAGE BARRE
 
@@ -5526,7 +5526,7 @@ CONCEPTION DÉFINIE par dessin technique
 La tête, la portée lisse de positionnement et la partie filetée assurent la fixation tout en définissant un espacement ou un mouvement.
 
 ### Refoulement et forgeage à chaud
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/hot-forging/
+Source: https://zufek.net/fr/capabilities/hot-forging/
 
 ITINÉRAIRE 03 / FORMAGE CHAUFFÉ
 
@@ -5629,7 +5629,7 @@ CONCEPTION DÉFINIE par dessin technique
 Une tête en T spécifique au dessin technique s'engage dans une fente correspondante pour le positionnement ou le serrage.
 
 ### Frappe à froid et reprises CNC
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/hybrid-manufacturing/
+Source: https://zufek.net/fr/capabilities/hybrid-manufacturing/
 
 ITINÉRAIRE 04 / HYBRIDE
 
@@ -5746,7 +5746,7 @@ CONCEPTION DÉFINIE par dessin technique
 Une tige réduite ou étagée introduit un changement délibéré de section entre les caractéristiques fonctionnelles.
 
 ### Roulage, usinage des filets et taraudage
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/threading/
+Source: https://zufek.net/fr/capabilities/threading/
 
 PROCÉDÉ / GÉNÉRATION DE FIL
 
@@ -5873,7 +5873,7 @@ CONCEPTION DÉFINIE par dessin technique
 Une tige courbée et deux pattes filetées suivent les dimensions du tuyau, du cadre ou du composant serré.
 
 ### Opérations secondaires et de précision
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/secondary-machining/
+Source: https://zufek.net/fr/capabilities/secondary-machining/
 
 PROCESSUS / CARACTÉRISTIQUES FONCTIONNELLES
 
@@ -5988,7 +5988,7 @@ CONCEPTION DÉFINIE par dessin technique
 Les empreintes spéciales limitent le démontage avec des outils courants, tout en permettant l’intervention avec l’outil de maintenance prévu.
 
 ### Traitement thermique adapté au matériau
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/heat-treatment/
+Source: https://zufek.net/fr/capabilities/heat-treatment/
 
 PROCÉDÉ / ÉTAT DU MATÉRIEL
 
@@ -6103,7 +6103,7 @@ CONCEPTION DÉFINIE par dessin technique
 Les extrémités fendues, coupées ou soulagées peuvent être spécifiées autour du matériau réel et de l'état du trou.
 
 ### Revêtements et traitements de surface
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/surface-treatment/
+Source: https://zufek.net/fr/capabilities/surface-treatment/
 
 PROCÉDÉ / SYSTÈME DE SURFACE
 
@@ -6236,7 +6236,7 @@ CONCEPTION DÉFINIE par dessin technique
 Une tête ronde et un col carré défini par le dessin technique fournissent une interface anti-rotation avec le composant d'accouplement.
 
 ### Nettoyage, freinage et préassemblage
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/post-processing/
+Source: https://zufek.net/fr/capabilities/post-processing/
 
 PROCÉDÉ / CONDITION FINALE
 
@@ -6351,7 +6351,7 @@ CONCEPTION DÉFINIE par dessin technique
 Un trou radial ou transversal fournit un passage spécifié pour une broche, un fil ou un autre élément d'assemblage.
 
 ### Contrôle dimensionnel et vision CCD
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/inspection/
+Source: https://zufek.net/fr/capabilities/inspection/
 
 PROCESSUS / ACCEPTATION
 
@@ -6486,7 +6486,7 @@ CONCEPTION DÉFINIE par dessin technique
 Une extrémité de type œil ou fourche relie une tige filetée à une goupille ou à un joint articulé.
 
 ### Exemples d'itinéraires de fabrication de vis personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/capabilities/process-routes/
+Source: https://zufek.net/fr/capabilities/process-routes/
 
 PLANIFICATION DE PROCESSUS ILLUSTRATIVE
 
@@ -6602,7 +6602,7 @@ Préparer la liste de contrôle de la RFQ ↗ Comparez les itinéraires de fabri
 ## Matériaux
 
 ### Matériaux de fixation personnalisés — Résistance et applications
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/
+Source: https://zufek.net/fr/materials/
 
 MATÉRIAUX, RÉSISTANCE ET APPLICATIONS
 
@@ -6731,7 +6731,7 @@ Utilisez un ensemble commun d’exigences fonctionnelles, environnementales et d
 Suivez le workflow de sélection des matériaux et de la résistance ↗
 
 ### Vis en acier au carbone et allié : nuances et résistance
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/carbon-alloy-steel/
+Source: https://zufek.net/fr/materials/carbon-alloy-steel/
 
 GRADE / CONDITION / EXIGENCE FINALE
 
@@ -6868,7 +6868,7 @@ GUIDE D'INGÉNIERIE
 Un revêtement appartient au plan dimensionnel. L'ajustement final doit être évalué dans l'état dans lequel le client reçoit, et pas seulement avant le traitement de surface.
 
 ### Vis en acier au bore 10B21 : formage et propriétés finales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/10b21-boron-steel/
+Source: https://zufek.net/fr/materials/10b21-boron-steel/
 
 GRADE / CONDITION / EXIGENCE FINALE
 
@@ -6995,7 +6995,7 @@ GUIDE D'INGÉNIERIE
 Une fixation en acier à haute résistance nécessite une décision de revêtement qui prend en compte à la fois la corrosion et l'exposition à l'hydrogène tout au long du traitement.
 
 ### 304 ou 316 : nuances et états des vis inoxydables
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/stainless-steel-304-316/
+Source: https://zufek.net/fr/materials/stainless-steel-304-316/
 
 GRADE / CONDITION / EXIGENCE FINALE
 
@@ -7156,7 +7156,7 @@ GUIDE D'INGÉNIERIE
 Un aspect brillant n’identifie pas un processus de surface. Précisez le substrat et la fonction de surface requise avant de choisir entre le placage, la passivation ou un autre traitement.
 
 ### Vis en aluminium : choisir entre 6061, 6082 et 7075
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/aluminum-alloys/
+Source: https://zufek.net/fr/materials/aluminum-alloys/
 
 GRADE / CONDITION / EXIGENCE FINALE
 
@@ -7293,7 +7293,7 @@ GUIDE D'INGÉNIERIE
 Un prototype peut établir une géométrie utile sans définir l’itinéraire de production final. Planifiez la transition de manière à ce que les fonctions approuvées et les exigences d'acceptation survivent au changement de méthode de fabrication.
 
 ### Vis et goujons en cuivre : nuance, état et contact
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/copper/
+Source: https://zufek.net/fr/materials/copper/
 
 GRADE / CONDITION / EXIGENCE FINALE
 
@@ -7424,7 +7424,7 @@ GUIDE D'INGÉNIERIE
 La propreté devient une exigence technique lorsqu'une contamination peut affecter l'assemblage. Définissez ce qui doit être retiré, comment cela est mesuré et comment l'état de propreté est protégé.
 
 ### Vis en laiton : C36000, CW614N et choix de nuance
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/brass/
+Source: https://zufek.net/fr/materials/brass/
 
 GRADE / CONDITION / EXIGENCE FINALE
 
@@ -7563,7 +7563,7 @@ GUIDE D'INGÉNIERIE
 La sélection des matériaux commence par l'environnement de service et les exigences mécaniques. Les meilleures spécifications équilibrent la fonction, la fabricabilité, la disponibilité et la vérification.
 
 ### Vis en titane : Grade 2, Grade 5 et Grade 23
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/materials/titanium-alloys/
+Source: https://zufek.net/fr/materials/titanium-alloys/
 
 GRADE / CONDITION / EXIGENCE FINALE
 
@@ -7701,7 +7701,7 @@ Un échantillon est plus utile lorsque son identité, sa révision et sa portée
 ## Secteurs
 
 ### Industries — Fixations personnalisées par application
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/
+Source: https://zufek.net/fr/industries/
 
 FIXATIONS PERSONNALISÉES AXÉES SUR L'APPLICATION
 
@@ -7772,7 +7772,7 @@ Deux études illustratives relient les besoins de montage à la géométrie, au 
 Boîtier de module automobile ↗ Pivot et outillage de réglage pour l’automatisation ↗ Voir les études de conception applicative ↗
 
 ### Vis sur mesure pour composants automobiles
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/automotive-components/
+Source: https://zufek.net/fr/industries/automotive-components/
 
 dessin technique et CONTRÔLE DE LOT
 
@@ -7855,7 +7855,7 @@ GUIDE D'INGÉNIERIE
 Une fixation en acier à haute résistance nécessite une décision de revêtement qui prend en compte à la fois la corrosion et l'exposition à l'hydrogène tout au long du traitement.
 
 ### Fixations sur mesure pour l’automatisation industrielle
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/industrial-automation/
+Source: https://zufek.net/fr/industries/industrial-automation/
 
 LOCALISATION ET DÉPLACEMENT DES INTERFACES
 
@@ -7952,7 +7952,7 @@ GUIDE D'INGÉNIERIE
 Un revêtement appartient au plan dimensionnel. L'ajustement final doit être évalué dans l'état dans lequel le client reçoit, et pas seulement avant le traitement de surface.
 
 ### Vis sur mesure pour électronique et optique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/electronics-optics/
+Source: https://zufek.net/fr/industries/electronics-optics/
 
 PIÈCES COMPACTES ET RÉGLABLES
 
@@ -8043,7 +8043,7 @@ GUIDE D'INGÉNIERIE
 Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 ### Fixations pour équipements de recharge et d’énergie
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/energy-equipment/
+Source: https://zufek.net/fr/industries/energy-equipment/
 
 DÉTAILS DU BOÎTIER ET DE LA CONNEXION
 
@@ -8134,7 +8134,7 @@ GUIDE D'INGÉNIERIE
 Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
 ### Vis sur mesure pour moules, outillages et bancs d’essai
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/molds-fixtures/
+Source: https://zufek.net/fr/industries/molds-fixtures/
 
 ÉTAPES, ARRÊTS ET RÉGLAGES
 
@@ -8225,7 +8225,7 @@ GUIDE D'INGÉNIERIE
 Plusieurs épaulements permettent de localiser plusieurs composants. Un schéma dimensionnel clair explique quelles distances axiales contrôlent l'assemblage et lesquelles sont les conséquences d'autres dimensions.
 
 ### Vis inviolables pour équipements de sécurité et d’accès
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/security-equipment/
+Source: https://zufek.net/fr/industries/security-equipment/
 
 INTERFACE DU DISQUE ET ACCÈS AU SERVICE
 
@@ -8316,7 +8316,7 @@ GUIDE D'INGÉNIERIE
 Un nom de famille de revêtements ne définit pas la surface complète fournie. Les demandes de prix sur les fixations personnalisées doivent relier le système de revêtement aux exigences d’ajustement, de friction et d’acceptation.
 
 ### Vis creuses et fixations pour équipements de fluides
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/fluid-control/
+Source: https://zufek.net/fr/industries/fluid-control/
 
 ALÉSAGES, BORDS ET PROPRETÉ
 
@@ -8407,7 +8407,7 @@ GUIDE D'INGÉNIERIE
 La propreté devient une exigence technique lorsqu'une contamination peut affecter l'assemblage. Définissez ce qui doit être retiré, comment cela est mesuré et comment l'état de propreté est protégé.
 
 ### Goujons et fixations sur mesure pour machines
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industries/general-machinery/
+Source: https://zufek.net/fr/industries/general-machinery/
 
 MONTAGE, LIENS ET JOINTS PERSONNALISÉS
 
@@ -8501,7 +8501,7 @@ Une tête en T doit entrer, tourner ou glisser à l'intérieur de la fente prév
 ## Études d’application
 
 ### Études de conception d'applications de fixations personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/applications/
+Source: https://zufek.net/fr/applications/
 
 ÉTUDES DE CONCEPTION APPLICATIVE
 
@@ -8534,7 +8534,7 @@ CONCEPTION D'APPLICATIONS ILLUSTRATIVES
 Un projet illustratif de fixation à pivot reliant les ajustements d'épaulement, l'empilement axial, l'ajustement, la sélection d'itinéraire, les limites CCD et l'approbation des échantillons.
 
 ### Boîtier de module automobile : étude de vis à embase
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/applications/automotive-module-enclosure/
+Source: https://zufek.net/fr/applications/automotive-module-enclosure/
 
 CONCEPTION D'APPLICATIONS ILLUSTRATIVES
 
@@ -8611,7 +8611,7 @@ Frappe à froid multiposte ↗ Filetage, coupe et taraudage ↗ Revêtements et 
 premier article approbation de vis personnalisée ↗ surépaisseur de revêtement épaulement du filetage ↗ revêtements de vis à haute résistance risque d'hydrogène ↗ Exigences de l'industrie ↗ Liste de contrôle de la demande de prix ↗
 
 ### Outillage d’automatisation : étude de vis à épaulement
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/applications/automation-pivot-fixture/
+Source: https://zufek.net/fr/applications/automation-pivot-fixture/
 
 CONCEPTION D'APPLICATIONS ILLUSTRATIVES
 
@@ -8691,7 +8691,7 @@ guide de dessin technique de vis à épaulement ↗ meulage de classe de filetag
 ## Articles techniques
 
 ### Que faut-il inclure dans une demande de prix pour vis personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-screw-quotation-checklist/
+Source: https://zufek.net/fr/blog/custom-screw-quotation-checklist/
 Last modified: 2026-10-29
 
 ACHATS / 3 LECTURE MIN
@@ -8767,7 +8767,7 @@ Les commandes répétées doivent répéter les spécifications approuvées, et 
 Par Theo Wan Lire le guide technique →
 
 ### Un guide pratique des dessins de vis à épaulement
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/shoulder-screw-drawing-guide/
+Source: https://zufek.net/fr/blog/shoulder-screw-drawing-guide/
 Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
@@ -8873,7 +8873,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Cinq questions avant de spécifier une vis imperdable
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/captive-screw-design-questions/
+Source: https://zufek.net/fr/blog/captive-screw-design-questions/
 Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -8959,7 +8959,7 @@ EXIGENCES DE DEMANDE
 Fixations à entraînement spécial et à tête personnalisée pour panneaux d'accès, boîtiers de protection et équipements de sécurité réparables.
 
 ### Choisir le matériau pour une vis à métal sur mesure
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/material-selection-custom-screws/
+Source: https://zufek.net/fr/blog/material-selection-custom-screws/
 Last modified: 2026-10-29
 
 MATÉRIAUX & FINITIONS / 2 LECTURE MIN
@@ -9031,7 +9031,7 @@ Un devis exploitable repose sur des exigences claires. Le plan est le meilleur p
 Par Theo Wan Lire le guide technique →
 
 ### Qu'est-ce qui affecte le prix d'une vis non standard ?
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-screw-price-factors/
+Source: https://zufek.net/fr/blog/custom-screw-price-factors/
 Last modified: 2026-10-29
 
 ACHATS / 2 LECTURE MIN
@@ -9127,7 +9127,7 @@ EXIGENCES DE DEMANDE
 fixations définies par des dessins techniques pour boîtiers compacts, mécanismes de réglage optique et assemblages de modules de précision.
 
 ### Comment préparer un plan d'inspection pour des vis personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-screw-inspection-plan/
+Source: https://zufek.net/fr/blog/custom-screw-inspection-plan/
 Last modified: 2026-11-02
 
 QUALITÉ / 2 LECTURE MIN
@@ -9247,7 +9247,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Frappe à froid ou tournage CNC : choisir un tracé de vis personnalisé
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/cold-heading-vs-cnc-custom-screws/
+Source: https://zufek.net/fr/blog/cold-heading-vs-cnc-custom-screws/
 Last modified: 2026-10-29
 
 FABRICATION / 2 LECTURE MIN
@@ -9323,7 +9323,7 @@ Par Theo Wan Lire le guide technique →
 Frappe à froid multiposte ↗ Type Suisse & CNC Tournage ↗ Frappe à froid et usinage secondaire ↗
 
 ### Revêtements et risque lié à l’hydrogène des vis à haute résistance
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/high-strength-screw-coatings-hydrogen-risk/
+Source: https://zufek.net/fr/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
 
 MATÉRIAUX & FINITIONS / 2 LECTURE MIN
@@ -9429,7 +9429,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### 304, 316 et 17-4PH : différentes questions sur le traitement thermique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/stainless-screw-heat-treatment-grades/
+Source: https://zufek.net/fr/blog/stainless-screw-heat-treatment-grades/
 Last modified: 2026-10-29
 
 MATÉRIAUX & FINITIONS / 2 LECTURE MIN
@@ -9513,7 +9513,7 @@ Données du charpentier 17-4PH
 BSSA : résistance au grippage des aciers inoxydables
 
 ### Ajustements d’épaulement, classes de filetage et choix de la rectification
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/shoulder-fit-thread-class-grinding/
+Source: https://zufek.net/fr/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -9617,7 +9617,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Comment spécifier un entraînement à vis inviolable
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/specifying-security-screw-drive/
+Source: https://zufek.net/fr/blog/specifying-security-screw-drive/
 Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
@@ -9725,7 +9725,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Alésages de vis creuses : les détails qu'une demande de prix doit inclure
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/hollow-screw-bore-specification/
+Source: https://zufek.net/fr/blog/hollow-screw-bore-specification/
 Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
@@ -9839,7 +9839,7 @@ EXIGENCES DE DEMANDE
 fixations définies par des dessins techniques pour boîtiers compacts, mécanismes de réglage optique et assemblages de modules de précision.
 
 ### Conception de la face d'appui d'une vis à bride personnalisée
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-flange-bearing-face/
+Source: https://zufek.net/fr/blog/custom-flange-bearing-face/
 Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -9953,7 +9953,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Vis moletées : spécification de la poignée et du réglage
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/knurled-thumb-screw-grip-design/
+Source: https://zufek.net/fr/blog/knurled-thumb-screw-grip-design/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10057,7 +10057,7 @@ EXIGENCES DE DEMANDE
 Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, postes de positionnement et équipements d'automatisation.
 
 ### Cône, plat, chien ou coupelle : choisir un embout à vis
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/set-screw-tip-selection/
+Source: https://zufek.net/fr/blog/set-screw-tip-selection/
 Last modified: 2026-11-03
 
 CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
@@ -10187,7 +10187,7 @@ EXIGENCES DE DEMANDE
 Vis à épaulement personnalisées, butées et composants de positionnement filetés pour mécanismes, gabarits et dispositifs de test liés aux moules.
 
 ### Ajustement des boulons à rainure en T : que mesurer avant de commander
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/t-slot-bolt-head-fit/
+Source: https://zufek.net/fr/blog/t-slot-bolt-head-fit/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10279,7 +10279,7 @@ EXIGENCES DE DEMANDE
 Vis à épaulement personnalisées, butées et composants de positionnement filetés pour mécanismes, gabarits et dispositifs de test liés aux moules.
 
 ### Vis à œil pour articulation ou levage : spécification
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/eye-bolt-linkage-vs-lifting/
+Source: https://zufek.net/fr/blog/eye-bolt-linkage-vs-lifting/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10371,7 +10371,7 @@ EXIGENCES DE DEMANDE
 Têtes, goujons et géométries de connexion spéciaux pour bâtis de machines, supports, liaisons personnalisées et assemblages d'équipements.
 
 ### Comment dimensionner un boulon en U personnalisé
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/u-bolt-bend-and-leg-dimensions/
+Source: https://zufek.net/fr/blog/u-bolt-bend-and-leg-dimensions/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10451,7 +10451,7 @@ Par Theo Wan Lire le guide technique →
 Opérations secondaires et de précision ↗ Filetage, coupe et taraudage ↗ Revêtements et traitements de surface ↗
 
 ### Boulons à tête ronde et collet carré sur mesure : spécification du col carré
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/carriage-bolt-square-neck/
+Source: https://zufek.net/fr/blog/carriage-bolt-square-neck/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10531,7 +10531,7 @@ Par Theo Wan Lire le guide technique →
 Frappe à froid multiposte ↗ Filetage, coupe et taraudage ↗ Contrôle dimensionnel et vision CCD ↗
 
 ### Dessins de vis excentriques : rendre le décalage sans ambiguïté
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/eccentric-screw-datum-drawing/
+Source: https://zufek.net/fr/blog/eccentric-screw-datum-drawing/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10623,7 +10623,7 @@ EXIGENCES DE DEMANDE
 fixations définies par des dessins techniques pour boîtiers compacts, mécanismes de réglage optique et assemblages de modules de précision.
 
 ### Goujons à double extrémité : éviter les erreurs d'assemblage de filetage mixte
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/double-ended-stud-thread-identification/
+Source: https://zufek.net/fr/blog/double-ended-stud-thread-identification/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10727,7 +10727,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Vis à tige réduite : pourquoi les transitions nécessitent une attention particulière
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/reduced-shank-transition-design/
+Source: https://zufek.net/fr/blog/reduced-shank-transition-design/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10807,7 +10807,7 @@ Par Theo Wan Lire le guide technique →
 Type Suisse & CNC Tournage ↗ Frappe à froid et usinage secondaire ↗ Contrôle dimensionnel et vision CCD ↗
 
 ### Vis coniques : définition du siège d'accouplement
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/tapered-screw-mating-seat/
+Source: https://zufek.net/fr/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10899,7 +10899,7 @@ EXIGENCES DE DEMANDE
 Composants personnalisés creux, percés en croix et coniques pour les passages, les fixations et les interfaces de connexion spécifiques aux applications.
 
 ### Goupilles de positionnement intégrées : coordonnées des références des goupilles et des vis
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/integral-locating-pin-position/
+Source: https://zufek.net/fr/blog/integral-locating-pin-position/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -10991,7 +10991,7 @@ EXIGENCES DE DEMANDE
 Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, postes de positionnement et équipements d'automatisation.
 
 ### Vis multi-étapes : contrôle de la chaîne de cotes axiales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/multi-step-screw-dimension-chain/
+Source: https://zufek.net/fr/blog/multi-step-screw-dimension-chain/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -11083,7 +11083,7 @@ EXIGENCES DE DEMANDE
 Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, postes de positionnement et équipements d'automatisation.
 
 ### Goujons à sertir : spécifier aussi la tôle
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/clinch-stud-panel-requirements/
+Source: https://zufek.net/fr/blog/clinch-stud-panel-requirements/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -11163,7 +11163,7 @@ Par Theo Wan Lire le guide technique →
 Frappe à froid multiposte ↗ Opérations secondaires et de précision ↗ Contrôle dimensionnel et vision CCD ↗
 
 ### Fils roulés ou coupés : questions à résoudre dans l'appel d'offres
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/rolled-vs-cut-thread-rfq/
+Source: https://zufek.net/fr/blog/rolled-vs-cut-thread-rfq/
 Last modified: 2026-10-29
 
 FABRICATION / 2 LECTURE MIN
@@ -11261,7 +11261,7 @@ EXIGENCES DE DEMANDE
 Composants personnalisés creux, percés en croix et coniques pour les passages, les fixations et les interfaces de connexion spécifiques aux applications.
 
 ### Trous transversaux dans les vis : planification du contrôle des bavures et inspection
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/cross-hole-burr-control/
+Source: https://zufek.net/fr/blog/cross-hole-burr-control/
 Last modified: 2026-10-29
 
 FABRICATION / 2 LECTURE MIN
@@ -11353,7 +11353,7 @@ EXIGENCES DE DEMANDE
 Composants personnalisés creux, percés en croix et coniques pour les passages, les fixations et les interfaces de connexion spécifiques aux applications.
 
 ### Surépaisseur de revêtement pour filetages et épaulements de précision
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/coating-allowance-thread-shoulder/
+Source: https://zufek.net/fr/blog/coating-allowance-thread-shoulder/
 Last modified: 2026-10-29
 
 MATÉRIAUX & FINITIONS / 2 LECTURE MIN
@@ -11457,7 +11457,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Nickelage ou passivation inox dans la demande de devis
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/nickel-plating-vs-stainless-passivation/
+Source: https://zufek.net/fr/blog/nickel-plating-vs-stainless-passivation/
 Last modified: 2026-10-29
 
 MATÉRIAUX & FINITIONS / 2 LECTURE MIN
@@ -11537,7 +11537,7 @@ Par Theo Wan Lire le guide technique →
 Revêtements et traitements de surface ↗ Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
 
 ### Que spécifier pour une vis personnalisée à revêtement en flocons de zinc
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/zinc-flake-coating-specification/
+Source: https://zufek.net/fr/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
 
 MATÉRIAUX & FINITIONS / 2 LECTURE MIN
@@ -11641,7 +11641,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Propreté technique : rédiger une exigence utile en matière de fixation
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-fastener-technical-cleanliness/
+Source: https://zufek.net/fr/blog/custom-fastener-technical-cleanliness/
 Last modified: 2026-10-29
 
 QUALITÉ / 2 LECTURE MIN
@@ -11745,7 +11745,7 @@ EXIGENCES DE DEMANDE
 fixations définies par des dessins techniques pour boîtiers compacts, mécanismes de réglage optique et assemblages de modules de précision.
 
 ### Frein-filet pré-appliqué : ce que le plan doit indiquer
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/pre-applied-locking-patch-rfq/
+Source: https://zufek.net/fr/blog/pre-applied-locking-patch-rfq/
 Last modified: 2026-10-29
 
 ACHATS / 2 LECTURE MIN
@@ -11825,7 +11825,7 @@ Par Theo Wan Lire le guide technique →
 Nettoyage, freinage et préassemblage ↗ Filetage, coupe et taraudage ↗ Contrôle dimensionnel et vision CCD ↗
 
 ### Vis rondelles préassemblées : préciser le jeu complet
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/preassembled-washer-screw-specification/
+Source: https://zufek.net/fr/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
 
 ACHATS / 2 LECTURE MIN
@@ -11929,7 +11929,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Ce que l'inspection visuelle CCD peut vérifier sur une vis personnalisée
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/ccd-screw-dimension-inspection/
+Source: https://zufek.net/fr/blog/ccd-screw-dimension-inspection/
 Last modified: 2026-10-29
 
 QUALITÉ / 3 LECTURE MIN
@@ -12051,7 +12051,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Validation du premier article pour vis spéciales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/first-article-custom-screw-approval/
+Source: https://zufek.net/fr/blog/first-article-custom-screw-approval/
 Last modified: 2026-10-29
 
 QUALITÉ / 2 LECTURE MIN
@@ -12131,7 +12131,7 @@ Par Theo Wan Lire le guide technique →
 Contrôle dimensionnel et vision CCD ↗ Nettoyage, freinage et préassemblage ↗
 
 ### Échantillonnage et contrôle 100% : choisir la bonne couverture
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/sampling-vs-full-fastener-inspection/
+Source: https://zufek.net/fr/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
 
 QUALITÉ / 2 LECTURE MIN
@@ -12223,7 +12223,7 @@ EXIGENCES DE DEMANDE
 Fixations d'épaulement, de marche et de réglage pour mécanismes guidés, postes de positionnement et équipements d'automatisation.
 
 ### Jauges de filetage et acceptation de vis personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/thread-gauge-acceptance-plan/
+Source: https://zufek.net/fr/blog/thread-gauge-acceptance-plan/
 Last modified: 2026-10-29
 
 QUALITÉ / 2 LECTURE MIN
@@ -12331,7 +12331,7 @@ EXIGENCES DE DEMANDE
 fixations définies par des dessins techniques pour boîtiers compacts, mécanismes de réglage optique et assemblages de modules de précision.
 
 ### Pourquoi une vis personnalisée a besoin de plus qu'une valeur de couple générique
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/tightening-torque-friction-custom-screws/
+Source: https://zufek.net/fr/blog/tightening-torque-friction-custom-screws/
 Last modified: 2026-10-29
 
 CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
@@ -12439,7 +12439,7 @@ EXIGENCES DE DEMANDE
 Composants filetés personnalisés pour supports, modules d'équipement et autres assemblages de composants automobiles définis par des dessins techniques.
 
 ### Du prototype à la série : garder la spécification
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/prototype-to-production-fasteners/
+Source: https://zufek.net/fr/blog/prototype-to-production-fasteners/
 Last modified: 2026-10-29
 
 ACHATS / 2 LECTURE MIN
@@ -12519,7 +12519,7 @@ Par Theo Wan Lire le guide technique →
 Type Suisse & CNC Tournage ↗ Frappe à froid et usinage secondaire ↗ Contrôle dimensionnel et vision CCD ↗
 
 ### contrôle de révision des dessins techniques pour les commandes répétées de fixations personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/drawing-revision-custom-fastener-orders/
+Source: https://zufek.net/fr/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
 
 ACHATS / 2 LECTURE MIN
@@ -12599,7 +12599,7 @@ Par Theo Wan Lire le guide technique →
 Contrôle dimensionnel et vision CCD ↗ Nettoyage, freinage et préassemblage ↗
 
 ### Conditionnement et traçabilité des lots pour les commandes de vis personnalisées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/blog/custom-screw-packaging-lot-traceability/
+Source: https://zufek.net/fr/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
 
 ACHATS / 2 LECTURE MIN
@@ -12679,7 +12679,7 @@ Par Theo Wan Lire le guide technique →
 Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
 
 ### Boîtiers de recharge VE : spécification des fixations
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/ev-charging-enclosure-fasteners/
+Source: https://zufek.net/fr/industry-insights/ev-charging-enclosure-fasteners/
 Last modified: 2026-10-30
 
 Analyses sectorielles
@@ -12761,7 +12761,7 @@ IEA Global EV Outlook 2026
 Équipements d'énergie, de recharge et de stockage Vis de sécurité et anti-effraction Vis à embase sur mesure Spécification d'un traitement de surface de fixation sans laisser l'interface indéfinie
 
 ### Fixations de positionnement et pivot pour l’automatisation
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/automation-locating-pivot-fasteners/
+Source: https://zufek.net/fr/industry-insights/automation-locating-pivot-fasteners/
 Last modified: 2026-10-30
 
 Analyses sectorielles
@@ -12849,7 +12849,7 @@ Rapport IFR World Robotics
 Automatisation industrielle Vis à épaulement et vis étagées Vis moletées et vis de réglage manuel Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
 
 ### Stockage par batteries : interfaces de fixation
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/battery-storage-fastener-interfaces/
+Source: https://zufek.net/fr/industry-insights/battery-storage-fastener-interfaces/
 Last modified: 2026-10-30
 
 Analyses sectorielles
@@ -12937,7 +12937,7 @@ Batteries AIE et transitions énergétiques sécurisées
 Équipements d'énergie, de recharge et de stockage Acier au carbone et allié Nettoyage, freinage et préassemblage Examen des dessins de fixations personnalisés : une liste de contrôle pratique pour la publication
 
 ### Datacenters : fixations pour refroidissement et maintenance
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/data-centre-cooling-service-fasteners/
+Source: https://zufek.net/fr/industry-insights/data-centre-cooling-service-fasteners/
 Last modified: 2026-10-30
 
 Analyses sectorielles
@@ -13025,7 +13025,7 @@ AIE Énergie et IA
 Équipement électronique et optique Vis captives à votre dessin. Vis creuses et vis à perçage traversant Du prototype de vis à la production répétée : un guide de passation des portes de l'étape
 
 ### Réparabilité : ce que les acheteurs de fixations doivent définir
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/repairability-product-information-fasteners/
+Source: https://zufek.net/fr/industry-insights/repairability-product-information-fasteners/
 Last modified: 2026-10-30
 
 Analyses sectorielles
@@ -13121,7 +13121,7 @@ Cadre réglementaire sur l'écoconception pour les produits durables
 Vis captives à votre dessin. Vis de sécurité et anti-effraction Du prototype de vis à la production répétée : un guide de passation des portes de l'étape FAQ
 
 ### Risque d’approvisionnement matière : alternatives qualifiées
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/industry-insights/material-supply-risk-qualified-alternatives/
+Source: https://zufek.net/fr/industry-insights/material-supply-risk-qualified-alternatives/
 Last modified: 2026-10-30
 
 Analyses sectorielles

@@ -19,23 +19,23 @@
 HTML pages are the primary source. This directory lists current indexable public content; drafts, withdrawn translations and private inquiry records are excluded. llms.txt is an optional navigation aid, not an indexing, ranking or citation guarantee. Full text follows the same public publication state.
 
 ## Resource map
-- [Sitemap index](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap_index.xml)
-- [Robots policy](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/robots.txt)
-- [Language homepage](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/)
-- [Compact directory](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/llms.txt)
+- [Sitemap index](https://zufek.net/sitemap_index.xml)
+- [Robots policy](https://zufek.net/robots.txt)
+- [Language homepage](https://zufek.net/es/)
+- [Compact directory](https://zufek.net/es/llms.txt)
 
 ## Language editions
-- [English](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/llms.txt)
-- [Deutsch](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/de/llms.txt)
-- [Español](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/llms.txt)
-- [Italiano](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/it/llms.txt)
-- [中文](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/zh/llms.txt)
-- [Français](https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/fr/llms.txt)
+- [English](https://zufek.net/llms.txt)
+- [Deutsch](https://zufek.net/de/llms.txt)
+- [Español](https://zufek.net/es/llms.txt)
+- [Italiano](https://zufek.net/it/llms.txt)
+- [中文](https://zufek.net/zh/llms.txt)
+- [Français](https://zufek.net/fr/llms.txt)
 
 ## Empresa y páginas principales
 
 ### Fabricante de tornillos a medida en Dongguan
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/
+Source: https://zufek.net/es/
 
 DISEÑADOS A MEDIDA
 
@@ -212,7 +212,7 @@ Dos estudios ilustrativos relacionan montaje, geometría del tornillo, material,
 Caja de módulo automotriz ↗ Pivote y utillaje de ajuste para automatización ↗ Ver estudios de diseño aplicado ↗
 
 ### Inspección y registros de tornillos a medida
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/quality/
+Source: https://zufek.net/es/quality/
 
 dibujo de ingenieria A LA ACEPTACION
 
@@ -315,7 +315,7 @@ Por ejemplo, CCD puede evaluar el perfil visible del hombro, un calibre de rosca
 Descargar la hoja de inspección en blanco (inglés) Descargar el ejemplo de plan de inspección (inglés)
 
 ### Recursos técnicos para tornillos metálicos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/resources/
+Source: https://zufek.net/es/resources/
 
 EL CENTRO DEL CONOCIMIENTO
 
@@ -632,7 +632,7 @@ Caja de módulo automotriz ↗ Pivote y utillaje de ajuste para automatización 
 Guía de interfaz de unidad especial ↗ Ejemplos completos de rutas de fabricación ↗ Selección de materiales por familia ↗
 
 ### Blog técnico de tornillos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/
+Source: https://zufek.net/es/blog/
 
 INFORMACIONES TÉCNICAS
 
@@ -899,7 +899,7 @@ Por Theo Wan Leer guía técnica → Mostrar más artículos ↓ No hay artícul
 Estas guías respaldan las discusiones sobre especificaciones. Los requisitos de ingeniería y fabricación específicos de la aplicación necesitan una revisión individual.
 
 ### Quiénes somos — fijaciones a medida desde 2005
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/about/
+Source: https://zufek.net/es/about/
 
 DONGGUAN ZUFEK PRECISION CO., LTD.
 
@@ -988,7 +988,7 @@ Con la muestra y la revisión del plano aprobadas, acuerde cantidad, identificac
 Preparar los requisitos de aprobación de muestras ↗ Planificación de la calidad Estudios de diseño de aplicaciones.
 
 ### Solicite una cotización de tornillos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/request-a-quote/
+Source: https://zufek.net/es/request-a-quote/
 
 COMENCEMOS CON SU REQUISITO
 
@@ -1027,7 +1027,7 @@ Envíe una revisión del dibujo de ingeniería, la cantidad de muestra, el volum
 Prepare la lista de verificación de RFQ ↗ Comparar rutas de fabricación completas ↗
 
 ### Theo Wan — ZUFEK Editorial técnica
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/authors/theo-wan/
+Source: https://zufek.net/es/authors/theo-wan/
 
 TW ZUFEK EDITORIAL TÉCNICO
 
@@ -1108,7 +1108,7 @@ Los inoxidables abarcan varias familias. Especifique grado y estado final, en lu
 Por Theo Wan Leer guía técnica → Ver el blog técnico completo ↗
 
 ### Preguntas frecuentes sobre sujetadores personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/faq/
+Source: https://zufek.net/es/faq/
 
 INFORMACIONES TÉCNICAS
 
@@ -1159,7 +1159,7 @@ Planificación de la calidad Elaboración de un plan personalizado de inspecció
 Lista de verificación de solicitudes de presupuesto · Solicitar presupuesto
 
 ### Perspectivas del sector
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/
+Source: https://zufek.net/es/industry-insights/
 
 INFORMACIONES TÉCNICAS
 
@@ -1195,7 +1195,7 @@ Calificar materiales de fijación alternativos a través de propiedades finales,
 ## Productos
 
 ### Productos de tornillos personalizados y tipos de sujetadores no estándar
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/
+Source: https://zufek.net/es/products/
 
 LA GAMA DE FIJACIONES PERSONALIZADAS
 
@@ -1378,7 +1378,7 @@ CONVIERTE LA INTENCIÓN DEL DISEÑO EN UNA COTIZACIÓN
 Rutas y operaciones de fabricación ↗ Familias de materiales y acabados ↗ Guía de interfaz de unidad ↗
 
 ### Tornillos personalizados a partir de su dibujo de ingeniería: herramientas y muestras
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/custom-screws/
+Source: https://zufek.net/es/products/custom-screws/
 
 CONSTRUIDO ALREDEDOR DE SU dibujo de ingeniería
 
@@ -1527,7 +1527,7 @@ Proporcionar el plano de ingeniería, material, acabado y montaje previsto. Iden
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos con hombro según plano
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/shoulder-screws/
+Source: https://zufek.net/es/products/shoulder-screws/
 
 TORNILLOS ESPECIALES PRINCIPALES
 
@@ -1702,7 +1702,7 @@ El tornillo de hombro tiene un tramo liso entre la cabeza y la rosca para giro, 
 Revise toda la cadena axial, incluidas arandelas y superficie de asiento. El hombro debe apoyar según el diseño y conservar la holgura de movimiento especificada. Indique el montaje y la acumulación de tolerancias en el plano; la longitud nominal por sí sola no determina la holgura final.
 
 ### Tornillos cautivos según dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/captive-screws/
+Source: https://zufek.net/es/products/captive-screws/
 
 DISEÑADO PARA LA RETENCIÓN
 
@@ -1807,7 +1807,7 @@ REQUISITOS DE SOLICITUD
 Sujetadores de accionamiento especial y cabeza personalizada para paneles de acceso, carcasas protectoras y equipos de seguridad reparables.
 
 ### Tornillos de cabeza especial según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/special-head-screws/
+Source: https://zufek.net/es/products/special-head-screws/
 
 GEOMETRÍA ESPECÍFICA DE LA APLICACIÓN
 
@@ -1930,7 +1930,7 @@ REQUISITOS DE SOLICITUD
 Sujetadores de accionamiento especial y cabeza personalizada para paneles de acceso, carcasas protectoras y equipos de seguridad reparables.
 
 ### Tornillos especiales principales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/core-custom-screws/
+Source: https://zufek.net/es/products/core-custom-screws/
 
 COLECCIÓN FAMILIAR DE PRODUCTOS
 
@@ -2007,7 +2007,7 @@ Verifique la función con la contraparte.
 Preparar la solicitud Planificación de la calidad
 
 ### Cabezas especiales y pernos funcionales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/special-head-bolts/
+Source: https://zufek.net/es/products/special-head-bolts/
 
 COLECCIÓN FAMILIAR DE PRODUCTOS
 
@@ -2096,7 +2096,7 @@ Compruebe asiento y giro al apretar.
 Preparar la solicitud Planificación de la calidad
 
 ### Roscas y mangos especiales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/special-thread-screws/
+Source: https://zufek.net/es/products/special-thread-screws/
 
 COLECCIÓN FAMILIAR DE PRODUCTOS
 
@@ -2165,7 +2165,7 @@ Verifique rosca final y acoplamiento útil por separado.
 Preparar la solicitud Planificación de la calidad
 
 ### Estructuras compuestas
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/compound-structure-screws/
+Source: https://zufek.net/es/products/compound-structure-screws/
 
 COLECCIÓN FAMILIAR DE PRODUCTOS
 
@@ -2234,7 +2234,7 @@ Verifique su relación tras el acabado.
 Preparar la solicitud Planificación de la calidad
 
 ### Tornillos de seguridad y resistentes a manipulaciones según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/security-screws/
+Source: https://zufek.net/es/products/security-screws/
 
 TORNILLOS ESPECIALES PRINCIPALES
 
@@ -2379,7 +2379,7 @@ MATERIAL Y ESTADO FINAL
 Los grupos A2/A4 y las clases como 70 u 80 describen elementos de fijación de acero inoxidable terminados dentro del alcance de la especificación aplicable. Indicar solo SUS304 o SUS316 no acredita prestaciones A2-70 o A4-80.
 
 ### Tornillos huecos y con taladro pasante
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/hollow-screws/
+Source: https://zufek.net/es/products/hollow-screws/
 
 TORNILLOS ESPECIALES PRINCIPALES
 
@@ -2518,7 +2518,7 @@ MATERIAL Y ESTADO FINAL
 La resistencia del cobre varía sustancialmente según la aleación, la forma del producto y el temperamento. La siguiente es una referencia de stock típica, no un requisito de aceptación de tornillos.
 
 ### Tornillos de brida personalizados según dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/flange-screws/
+Source: https://zufek.net/es/products/flange-screws/
 
 TORNILLOS ESPECIALES PRINCIPALES
 
@@ -2675,7 +2675,7 @@ GUÍA DE INGENIERÍA
 Se suministra un tornillo premontado como un conjunto pequeño. La arandela, el método de retención y la secuencia de los componentes necesitan el mismo control que el propio tornillo.
 
 ### Tornillos de ajuste y pulgar moleteados según dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/knurled-thumb-screws/
+Source: https://zufek.net/es/products/knurled-thumb-screws/
 
 TORNILLOS ESPECIALES PRINCIPALES
 
@@ -2834,7 +2834,7 @@ MATERIAL Y ESTADO FINAL
 La fuerza cambia con la composición y el temperamento. El siguiente ejemplo son datos de varilla típicos publicados H02 y no deben aplicarse a todos los sujetadores de latón.
 
 ### Tornillos de fijación y tornillos prisioneros personalizados según el dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/set-screws/
+Source: https://zufek.net/es/products/set-screws/
 
 TORNILLOS ESPECIALES PRINCIPALES
 
@@ -2977,7 +2977,7 @@ MATERIAL Y ESTADO FINAL
 Especifique la clase de propiedad del sujetador terminado, no una resistencia inferida de la calidad en bruto. Las referencias de clases nominales comunes incluyen 8.8, 10.9 y 12.9.
 
 ### Pernos con ranura en T personalizados según el dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/t-slot-bolts/
+Source: https://zufek.net/es/products/t-slot-bolts/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3074,7 +3074,7 @@ Proporcionar sección transversal de ranura y método de inserción; No seleccio
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Pernos articulados y de ojo personalizados para dibujos de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/eye-bolts/
+Source: https://zufek.net/es/products/eye-bolts/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3163,7 +3163,7 @@ Dirección de la fuerza estatal y uso previsto. Cualquier aplicación de elevaci
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Diseños de cáncamos de elevación personalizados según dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/lifting-eye-bolts/
+Source: https://zufek.net/es/products/lifting-eye-bolts/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3250,7 +3250,7 @@ Suministre el caso de carga aprobado y la norma aplicable. La geometría persona
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Pernos en U personalizados según el dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/u-bolts/
+Source: https://zufek.net/es/products/u-bolts/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3337,7 +3337,7 @@ Proporcione la sección transversal sujeta y los requisitos de carga. El materia
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Pernos de cabeza cuadrada personalizados según dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/square-head-bolts/
+Source: https://zufek.net/es/products/square-head-bolts/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3426,7 +3426,7 @@ Muestre el acceso a la llave o el bolsillo de retención y las propiedades mecá
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Pernos de carro personalizados según el plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/carriage-bolts/
+Source: https://zufek.net/es/products/carriage-bolts/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3513,7 +3513,7 @@ Proporcionar la geometría del orificio de acoplamiento y el material del cojine
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos de cabeza excéntrica y angulada según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/eccentric-screws/
+Source: https://zufek.net/es/products/eccentric-screws/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3610,7 +3610,7 @@ Proporcione una vista de ensamblaje, un esquema de referencia y el rango de ajus
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Pernos de doble extremo personalizados según dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/double-ended-studs/
+Source: https://zufek.net/es/products/double-ended-studs/
 
 CABEZAS ESPECIALES Y TORNILLOS FUNCIONALES
 
@@ -3725,7 +3725,7 @@ MATERIAL Y ESTADO FINAL
 La resistencia del cobre varía sustancialmente según la aleación, la forma del producto y el temperamento. La siguiente es una referencia de stock típica, no un requisito de aceptación de tornillos.
 
 ### Tornillos de paso fino y extrafino según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/fine-thread-screws/
+Source: https://zufek.net/es/products/fine-thread-screws/
 
 HILOS Y ESPÁRRAGOS ESPECIALES
 
@@ -3832,7 +3832,7 @@ MATERIAL Y ESTADO FINAL
 El grado 2 comercialmente puro y el Ti-6Al-4V son materiales diferentes. El grado, la forma y la condición del producto deben acompañar cualquier valor de resistencia.
 
 ### Perfiles de rosca especiales y compuestos según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/special-thread-profiles/
+Source: https://zufek.net/es/products/special-thread-profiles/
 
 HILOS Y ESPÁRRAGOS ESPECIALES
 
@@ -3933,7 +3933,7 @@ MATERIAL Y ESTADO FINAL
 La fuerza cambia con la composición y el temperamento. El siguiente ejemplo son datos de varilla típicos publicados H02 y no deben aplicarse a todos los sujetadores de latón.
 
 ### Tornillos autorroscantes de punta modificada según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/modified-tip-self-tapping-screws/
+Source: https://zufek.net/es/products/modified-tip-self-tapping-screws/
 
 HILOS Y ESPÁRRAGOS ESPECIALES
 
@@ -4032,7 +4032,7 @@ MATERIAL Y ESTADO FINAL
 10B21 identifica un material, no la clase de resistencia del tornillo terminado. Por tanto, no hay un único valor de resistencia a tracción válido para todos los tornillos de 10B21.
 
 ### Tornillos de mango reducido y variable según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/reduced-shank-screws/
+Source: https://zufek.net/es/products/reduced-shank-screws/
 
 HILOS Y ESPÁRRAGOS ESPECIALES
 
@@ -4119,7 +4119,7 @@ Un mango reducido no evita automáticamente el agrietamiento. Suministrar requis
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos cónicos y de vástago cónico según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/tapered-screws/
+Source: https://zufek.net/es/products/tapered-screws/
 
 HILOS Y ESPÁRRAGOS ESPECIALES
 
@@ -4208,7 +4208,7 @@ El rendimiento del sellado requiere un diseño y una verificación combinados; u
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos con pasadores de ubicación integrales según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/locating-pin-screws/
+Source: https://zufek.net/es/products/locating-pin-screws/
 
 ESTRUCTURAS COMPUESTAS
 
@@ -4297,7 +4297,7 @@ Proporcione el orificio de acoplamiento y la dirección de montaje. Confirme qu�
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos con resalte de doble extremo según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/double-ended-shoulder-screws/
+Source: https://zufek.net/es/products/double-ended-shoulder-screws/
 
 ESTRUCTURAS COMPUESTAS
 
@@ -4384,7 +4384,7 @@ Incluya ambos componentes coincidentes y explique qué extremo se instala primer
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos con perforación cruzada y con orificio de cabeza según plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/cross-drilled-screws/
+Source: https://zufek.net/es/products/cross-drilled-screws/
 
 ESTRUCTURAS COMPUESTAS
 
@@ -4473,7 +4473,7 @@ Indique el método de retención previsto y los requisitos de carga; un orificio
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos de varios pasos y de múltiples hombros según el plano de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/multi-step-screws/
+Source: https://zufek.net/es/products/multi-step-screws/
 
 ESTRUCTURAS COMPUESTAS
 
@@ -4562,7 +4562,7 @@ Utilice un dibujo de ingeniería basado en datos de referencia e identifique las
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
 ### Tornillos y pernos de remachado personalizados según el dibujo de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/products/custom-clinch-fasteners/
+Source: https://zufek.net/es/products/custom-clinch-fasteners/
 
 ESTRUCTURAS COMPUESTAS
 
@@ -4652,7 +4652,7 @@ El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 1
 ## Guías técnicas
 
 ### Lista de verificación de RFQ de tornillos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/rfq-checklist/
+Source: https://zufek.net/es/guides/rfq-checklist/
 
 HOJA DE TRABAJO DE ADQUISICIONES IMPRIMIBLE
 
@@ -4699,7 +4699,7 @@ Envíe una revisión del dibujo de ingeniería, la cantidad de muestra, el volum
 Prepare la lista de verificación de RFQ ↗ Comparar rutas de fabricación completas ↗
 
 ### Guía especial para tornillos y huecos de seguridad
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/drive-types/
+Source: https://zufek.net/es/guides/drive-types/
 
 GUÍA DE INTERFAZ DE CONDUCCIÓN
 
@@ -4748,7 +4748,7 @@ Acuerde cómo se inspecciona el hueco, por ejemplo con calibre pasa/no pasa o co
 Tornillos de seguridad y antimanipulación ↗ Tornillos moleteados de apriete manual y ajuste ↗ Tornillos de cabeza especial ↗ Tornillos prisioneros y de fijación a medida ↗ Estampación en frío multiestación ↗ Operaciones secundarias y de precisión ↗
 
 ### Flujo de trabajo de selección de resistencia y material de tornillo personalizado
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/material-strength-selection/
+Source: https://zufek.net/es/guides/material-strength-selection/
 
 FLUJO DE TRABAJO DE SELECCIÓN DE MATERIALES
 
@@ -4795,7 +4795,7 @@ BSSA: resistencia al irritamiento de los aceros inoxidables ↗ explica por qué
 Familias de materiales y datos fuente ↗ Clases de resistencia del acabado de acero ↗ Condiciones SUS304 y SUS316 ↗ Recubrimientos y revisión del riesgo de hidrógeno ↗ Artículo de selección de materiales ↗ Preparar la solicitud de cotización ↗
 
 ### Lista de revisión de planos de fijaciones especiales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/drawing-review-release-checklist/
+Source: https://zufek.net/es/guides/drawing-review-release-checklist/
 Last modified: 2026-10-30
 
 Guías de ingeniería
@@ -4859,7 +4859,7 @@ Manual de diseño de sujetadores de la NASA, 1990: antecedentes generales de dis
 Una solicitud de cotización más clara. Una respuesta más útil. Tornillos de hombro y escalonados Elaboración de un plan personalizado de inspección y aceptación de sujetadores
 
 ### Elegir una ruta de fabricación para un tornillo personalizado
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/manufacturing-route-selection/
+Source: https://zufek.net/es/guides/manufacturing-route-selection/
 Last modified: 2026-10-30
 
 Guías de ingeniería
@@ -4923,7 +4923,7 @@ Manual de diseño de sujetadores de la NASA, 1990: antecedentes generales de dis
 Tres rutas completas. Definido por el dibujo. Estampación en frío multiestación Torneado de cabezal móvil y CNC Del prototipo de tornillo a la repetición de la producción: una guía de entrega del escenario
 
 ### Cómo especificar el tratamiento superficial de fijaciones
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/surface-treatment-specification/
+Source: https://zufek.net/es/guides/surface-treatment-specification/
 Last modified: 2026-10-30
 
 Guías de ingeniería
@@ -4989,7 +4989,7 @@ ISO 10683: alcance publicado para sistemas de escamas de zinc
 Recubrimientos y tratamientos superficiales Nombra el material. Definir su desempeño. Elaboración de un plan personalizado de inspección y aceptación de sujetadores
 
 ### Elaboración de un plan personalizado de inspección y aceptación de sujetadores
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/inspection-acceptance-plan/
+Source: https://zufek.net/es/guides/inspection-acceptance-plan/
 Last modified: 2026-10-30
 
 Guías de ingeniería
@@ -5059,7 +5059,7 @@ ISO 3269: alcance publicado y limitaciones de aplicabilidad
 Inspección dimensional y visión CCD Defina el cheque. Acepta la evidencia. Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación
 
 ### Del prototipo a la serie: guía de transferencia
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/prototype-production-handover/
+Source: https://zufek.net/es/guides/prototype-production-handover/
 Last modified: 2026-10-30
 
 Guías de ingeniería
@@ -5129,7 +5129,7 @@ Manual de diseño de sujetadores de la NASA, 1990: antecedentes generales de dis
 Una solicitud de cotización más clara. Una respuesta más útil. Elegir una ruta de fabricación para un tornillo personalizado Elaboración de un plan personalizado de inspección y aceptación de sujetadores
 
 ### Guías de ingeniería
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/guides/
+Source: https://zufek.net/es/guides/
 
 INFORMACIONES TÉCNICAS
 
@@ -5173,7 +5173,7 @@ Utilice puertas de etapa para pasar de muestras de geometría a producción repe
 ## Procesos de fabricación
 
 ### Rutas y procesos de fabricación de sujetadores personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/
+Source: https://zufek.net/es/capabilities/
 
 LA CADENA DE FABRICACIÓN COMPLETA
 
@@ -5278,7 +5278,7 @@ La cobertura del proceso se revisa para la parte real. La propiedad del equipo, 
 Empieza con el material ↗
 
 ### Estampación en frío multiestación
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/cold-heading/
+Source: https://zufek.net/es/capabilities/cold-heading/
 
 RUTA 01 / FORMANDO
 
@@ -5399,7 +5399,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Una interfaz de herramienta cuadrada o un cabezal capturado respalda las necesidades de acceso y antirrotación específicas de la aplicación.
 
 ### Torneado de cabezal móvil y CNC
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/cnc-turning/
+Source: https://zufek.net/es/capabilities/cnc-turning/
 
 RUTA 02 / MECANIZADO DE BARRAS
 
@@ -5526,7 +5526,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 La cabeza, el tramo liso de posicionamiento y la zona roscada permiten fijar la pieza y, a la vez, controlar su posición, separación o movimiento.
 
 ### Recalcado y forja en caliente
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/hot-forging/
+Source: https://zufek.net/es/capabilities/hot-forging/
 
 RUTA 03 / FORMADO CALENTADO
 
@@ -5629,7 +5629,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Una cabeza en T específica del dibujo de ingeniería encaja en una ranura correspondiente para posicionamiento o sujeción.
 
 ### Conformado en frío y mecanizado CNC
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/hybrid-manufacturing/
+Source: https://zufek.net/es/capabilities/hybrid-manufacturing/
 
 RUTA 04 / HÍBRIDA
 
@@ -5746,7 +5746,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Un mango reducido o escalonado introduce un cambio deliberado en la sección entre características funcionales.
 
 ### Laminado, corte y roscado interior
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/threading/
+Source: https://zufek.net/es/capabilities/threading/
 
 PROCESO / GENERACIÓN DE HILO
 
@@ -5873,7 +5873,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Un vástago curvado y dos patas roscadas siguen las dimensiones del tubo, marco o componente sujetado.
 
 ### Operaciones secundarias y de precisión
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/secondary-machining/
+Source: https://zufek.net/es/capabilities/secondary-machining/
 
 PROCESO / CARACTERÍSTICAS FUNCIONALES
 
@@ -5988,7 +5988,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Las huellas especiales dificultan el desmontaje con herramientas comunes, pero permiten intervenir con la herramienta de mantenimiento prevista.
 
 ### Tratamiento térmico según el material
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/heat-treatment/
+Source: https://zufek.net/es/capabilities/heat-treatment/
 
 PROCESO / CONDICIÓN DEL MATERIAL
 
@@ -6103,7 +6103,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Los extremos ranurados, cortados o aliviados se pueden especificar según el material real y la condición del orificio.
 
 ### Recubrimientos y tratamientos superficiales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/surface-treatment/
+Source: https://zufek.net/es/capabilities/surface-treatment/
 
 PROCESO / SISTEMA DE SUPERFICIE
 
@@ -6236,7 +6236,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Una cabeza redonda y un cuello cuadrado definido por un dibujo de ingeniería proporcionan una interfaz antirrotación con el componente acoplado.
 
 ### Limpieza, bloqueo y premontaje
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/post-processing/
+Source: https://zufek.net/es/capabilities/post-processing/
 
 PROCESO / CONDICIÓN FINAL
 
@@ -6351,7 +6351,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Un orificio radial o transversal proporciona un paso específico para un pasador, alambre u otro elemento de ensamblaje.
 
 ### Inspección dimensional y visión CCD
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/inspection/
+Source: https://zufek.net/es/capabilities/inspection/
 
 PROCESO / ACEPTACIÓN
 
@@ -6486,7 +6486,7 @@ dibujo de ingeniería-DISEÑO DEFINIDO
 Un extremo estilo ojo o horquilla conecta un vástago roscado a un pasador o junta articulada.
 
 ### Ejemplos de rutas de fabricación de tornillos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/capabilities/process-routes/
+Source: https://zufek.net/es/capabilities/process-routes/
 
 PLANIFICACIÓN DE PROCESO ILUSTRATIVA
 
@@ -6602,7 +6602,7 @@ Prepare la lista de verificación de RFQ ↗ Comparar rutas de fabricación comp
 ## Materiales
 
 ### Materiales de fijación personalizados: resistencia y aplicaciones
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/
+Source: https://zufek.net/es/materials/
 
 MATERIALES, RESISTENCIA Y APLICACIONES
 
@@ -6731,7 +6731,7 @@ Utilice un conjunto común de requisitos funcionales, ambientales y de aceptaci�
 Siga el flujo de trabajo de selección de materiales y resistencias ↗
 
 ### Tornillos de acero al carbono y aleado: grados y resistencia
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/carbon-alloy-steel/
+Source: https://zufek.net/es/materials/carbon-alloy-steel/
 
 CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
@@ -6868,7 +6868,7 @@ GUÍA DE INGENIERÍA
 Un revestimiento pertenece al plano dimensional. El ajuste final debe evaluarse en las condiciones que recibe el cliente, no sólo antes del tratamiento superficial.
 
 ### Tornillos de acero al boro 10B21: conformado y propiedades finales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/10b21-boron-steel/
+Source: https://zufek.net/es/materials/10b21-boron-steel/
 
 CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
@@ -6995,7 +6995,7 @@ GUÍA DE INGENIERÍA
 Un sujetador de acero de alta resistencia necesita una decisión de recubrimiento que considere tanto la corrosión como la exposición al hidrógeno durante todo el procesamiento.
 
 ### 304 frente a 316: grados y estados para tornillos inoxidables
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/stainless-steel-304-316/
+Source: https://zufek.net/es/materials/stainless-steel-304-316/
 
 CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
@@ -7156,7 +7156,7 @@ GUÍA DE INGENIERÍA
 Una apariencia brillante no identifica un proceso superficial. Especifique el sustrato y la función superficial requerida antes de elegir entre enchapado, pasivación u otro tratamiento.
 
 ### Tornillos de aluminio: selección de 6061, 6082 y 7075
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/aluminum-alloys/
+Source: https://zufek.net/es/materials/aluminum-alloys/
 
 CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
@@ -7293,7 +7293,7 @@ GUÍA DE INGENIERÍA
 Un prototipo puede establecer una geometría útil sin definir la ruta de producción final. Planifique la transición para que la función aprobada y los requisitos de aceptación sobrevivan al cambio en el método de fabricación.
 
 ### Tornillos y espárragos de cobre: grado, estado y contacto
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/copper/
+Source: https://zufek.net/es/materials/copper/
 
 CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
@@ -7424,7 +7424,7 @@ GUÍA DE INGENIERÍA
 La limpieza se convierte en un requisito técnico cuando la contaminación puede afectar al conjunto. Defina qué es necesario eliminar, cómo se mide y cómo se protege la condición de limpieza.
 
 ### Tornillos de latón: C36000, CW614N y selección de aleación
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/brass/
+Source: https://zufek.net/es/materials/brass/
 
 CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
@@ -7563,7 +7563,7 @@ GUÍA DE INGENIERÍA
 La selección de materiales comienza con el entorno de servicio y los requisitos mecánicos. La mejor especificación equilibra la función, la capacidad de fabricación, la disponibilidad y la verificación.
 
 ### Tornillos de titanio: Grade 2, Grade 5 y Grade 23
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/materials/titanium-alloys/
+Source: https://zufek.net/es/materials/titanium-alloys/
 
 CALIFICACIÓN / CONDICIÓN / REQUISITO FINAL
 
@@ -7701,7 +7701,7 @@ Una muestra es más útil cuando su identidad, alcance de revisión y aceptació
 ## Sectores
 
 ### Industrias: sujetadores personalizados por aplicación
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/
+Source: https://zufek.net/es/industries/
 
 SUJETADORES PERSONALIZADOS CENTRADOS EN LA APLICACIÓN
 
@@ -7772,7 +7772,7 @@ Dos estudios ilustrativos relacionan montaje, geometría del tornillo, material,
 Caja de módulo automotriz ↗ Pivote y utillaje de ajuste para automatización ↗ Ver estudios de diseño aplicado ↗
 
 ### Tornillos a medida para componentes de automóvil
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/automotive-components/
+Source: https://zufek.net/es/industries/automotive-components/
 
 dibujo de ingenieria y CONTROL DE LOTES
 
@@ -7855,7 +7855,7 @@ GUÍA DE INGENIERÍA
 Un sujetador de acero de alta resistencia necesita una decisión de recubrimiento que considere tanto la corrosión como la exposición al hidrógeno durante todo el procesamiento.
 
 ### Fijaciones a medida para automatización industrial
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/industrial-automation/
+Source: https://zufek.net/es/industries/industrial-automation/
 
 LOCALIZAR Y MOVER INTERFACES
 
@@ -7952,7 +7952,7 @@ GUÍA DE INGENIERÍA
 Un revestimiento pertenece al plano dimensional. El ajuste final debe evaluarse en las condiciones que recibe el cliente, no sólo antes del tratamiento superficial.
 
 ### Tornillos a medida para electrónica y óptica
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/electronics-optics/
+Source: https://zufek.net/es/industries/electronics-optics/
 
 PIEZAS COMPACTAS Y AJUSTABLES
 
@@ -8043,7 +8043,7 @@ GUÍA DE INGENIERÍA
 Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 ### Fijaciones para equipos de recarga y energía
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/energy-equipment/
+Source: https://zufek.net/es/industries/energy-equipment/
 
 DETALLES DE CAJA Y CONEXIÓN
 
@@ -8134,7 +8134,7 @@ GUÍA DE INGENIERÍA
 Especifique el taladro completo, la pared mínima, los bordes internos y el método de aceptación. Considere la raíz de rosca y el descentramiento del taladro.
 
 ### Tornillos a medida para moldes, utillajes y pruebas
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/molds-fixtures/
+Source: https://zufek.net/es/industries/molds-fixtures/
 
 PASOS, PARADAS Y AJUSTE
 
@@ -8225,7 +8225,7 @@ GUÍA DE INGENIERÍA
 Varios hombros pueden ubicar varios componentes. Un esquema de dimensiones claro explica qué distancias axiales controlan el montaje y cuáles son consecuencias de otras dimensiones.
 
 ### Tornillos antimanipulación para equipos de seguridad y acceso
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/security-equipment/
+Source: https://zufek.net/es/industries/security-equipment/
 
 INTERFAZ DE CONDUCCIÓN Y ACCESO AL SERVICIO
 
@@ -8316,7 +8316,7 @@ GUÍA DE INGENIERÍA
 El nombre de una familia de revestimientos no define la superficie completa suministrada. Las solicitudes de cotización de sujetadores personalizados deben conectar el sistema de recubrimiento con los requisitos de ajuste, fricción y aceptación.
 
 ### Tornillos huecos y fijaciones para equipos de fluidos
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/fluid-control/
+Source: https://zufek.net/es/industries/fluid-control/
 
 AGUJEROS, BORDES Y LIMPIEZA
 
@@ -8407,7 +8407,7 @@ GUÍA DE INGENIERÍA
 La limpieza se convierte en un requisito técnico cuando la contaminación puede afectar al conjunto. Defina qué es necesario eliminar, cómo se mide y cómo se protege la condición de limpieza.
 
 ### Espárragos y fijaciones a medida para maquinaria
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industries/general-machinery/
+Source: https://zufek.net/es/industries/general-machinery/
 
 MONTAJE, VÍNCULOS Y JUNTAS PERSONALIZADAS
 
@@ -8501,7 +8501,7 @@ Un cabezal en T debe entrar, girar o deslizarse dentro de la ranura prevista man
 ## Estudios de aplicación
 
 ### Estudios de diseño de aplicaciones de sujetadores personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/applications/
+Source: https://zufek.net/es/applications/
 
 ESTUDIOS DE DISEÑO APLICADO
 
@@ -8534,7 +8534,7 @@ DISEÑO DE APLICACIÓN ILUSTRATIVA
 Un proyecto ilustrativo de fijación de pivote que conecta ajustes de hombro, apilamiento axial, ajuste, selección de ruta, límites de CCD y aprobación de muestras.
 
 ### Carcasa de módulo automotriz: estudio de tornillo con brida
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/applications/automotive-module-enclosure/
+Source: https://zufek.net/es/applications/automotive-module-enclosure/
 
 DISEÑO DE APLICACIÓN ILUSTRATIVA
 
@@ -8611,7 +8611,7 @@ Estampación en frío multiestación ↗ Laminado, corte y roscado de rosca ↗ 
 Aprobación de tornillos personalizados del primer artículo ↗ margen de recubrimiento hombro de rosca ↗ Recubrimientos para tornillos de alta resistencia riesgo de hidrógeno ↗ Requisitos de la industria ↗ Lista de verificación de solicitudes de presupuesto ↗
 
 ### Utillaje de automatización: estudio de tornillo con hombro
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/applications/automation-pivot-fixture/
+Source: https://zufek.net/es/applications/automation-pivot-fixture/
 
 DISEÑO DE APLICACIÓN ILUSTRATIVA
 
@@ -8691,7 +8691,7 @@ guía de dibujo de ingeniería de tornillos de hombro ↗ rectificado de clase d
 ## Artículos técnicos
 
 ### Qué incluir en una solicitud de cotización de tornillos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-screw-quotation-checklist/
+Source: https://zufek.net/es/blog/custom-screw-quotation-checklist/
 Last modified: 2026-10-29
 
 ADQUISICIONES / 3 LECTURA MÍNIMA
@@ -8767,7 +8767,7 @@ Los pedidos repetidos deben repetir las especificaciones aprobadas, no las ambig
 Por Theo Wan Leer guía técnica →
 
 ### Una guía práctica para los dibujos de tornillos de hombro.
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/shoulder-screw-drawing-guide/
+Source: https://zufek.net/es/blog/shoulder-screw-drawing-guide/
 Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
@@ -8873,7 +8873,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Cinco preguntas antes de especificar un tornillo cautivo
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/captive-screw-design-questions/
+Source: https://zufek.net/es/blog/captive-screw-design-questions/
 Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -8959,7 +8959,7 @@ REQUISITOS DE SOLICITUD
 Sujetadores de accionamiento especial y cabeza personalizada para paneles de acceso, carcasas protectoras y equipos de seguridad reparables.
 
 ### Elegir material para un tornillo de metal personalizado
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/material-selection-custom-screws/
+Source: https://zufek.net/es/blog/material-selection-custom-screws/
 Last modified: 2026-10-29
 
 MATERIALES Y ACABADOS / 2 LECTURA MIN
@@ -9031,7 +9031,7 @@ Un presupuesto útil requiere especificaciones claras. El plano es el mejor punt
 Por Theo Wan Leer guía técnica →
 
 ### ¿Qué afecta el precio de un tornillo no estándar?
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-screw-price-factors/
+Source: https://zufek.net/es/blog/custom-screw-price-factors/
 Last modified: 2026-10-29
 
 ADQUISICIONES / 2 LECTURA MÍNIMA
@@ -9127,7 +9127,7 @@ REQUISITOS DE SOLICITUD
 sujetadores definidos por planos de ingeniería para carcasas compactas, mecanismos de ajuste óptico y conjuntos de módulos de precisión.
 
 ### Cómo preparar un plan de inspección para tornillos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-screw-inspection-plan/
+Source: https://zufek.net/es/blog/custom-screw-inspection-plan/
 Last modified: 2026-11-02
 
 CALIDAD / 2 LECTURA MÍNIMA
@@ -9247,7 +9247,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Torneado en frío o CNC: elección de una ruta de tornillo personalizada
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/cold-heading-vs-cnc-custom-screws/
+Source: https://zufek.net/es/blog/cold-heading-vs-cnc-custom-screws/
 Last modified: 2026-10-29
 
 FABRICACIÓN / 2 LECTURA MIN
@@ -9323,7 +9323,7 @@ Por Theo Wan Leer guía técnica →
 Estampación en frío multiestación ↗ Tipo suizo y CNC Girando ↗ Rodamiento en frío + mecanizado secundario ↗
 
 ### Recubrimientos y riesgo por hidrógeno en tornillos de alta resistencia
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/high-strength-screw-coatings-hydrogen-risk/
+Source: https://zufek.net/es/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
 
 MATERIALES Y ACABADOS / 2 LECTURA MIN
@@ -9429,7 +9429,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### 304, 316 y 17-4PH: diferentes preguntas sobre tratamientos térmicos
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/stainless-screw-heat-treatment-grades/
+Source: https://zufek.net/es/blog/stainless-screw-heat-treatment-grades/
 Last modified: 2026-10-29
 
 MATERIALES Y ACABADOS / 2 LECTURA MIN
@@ -9513,7 +9513,7 @@ Carpintero 17-4PH datos
 BSSA: resistencia al irritamiento de los aceros inoxidables
 
 ### Ajustes del hombro, clases de rosca y cuándo rectificar
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/shoulder-fit-thread-class-grinding/
+Source: https://zufek.net/es/blog/shoulder-fit-thread-class-grinding/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -9617,7 +9617,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Cómo especificar un tornillo a prueba de manipulaciones
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/specifying-security-screw-drive/
+Source: https://zufek.net/es/blog/specifying-security-screw-drive/
 Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
@@ -9725,7 +9725,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Orificios huecos para tornillos: los detalles que debe incluir una solicitud de cotización
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/hollow-screw-bore-specification/
+Source: https://zufek.net/es/blog/hollow-screw-bore-specification/
 Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
@@ -9839,7 +9839,7 @@ REQUISITOS DE SOLICITUD
 sujetadores definidos por planos de ingeniería para carcasas compactas, mecanismos de ajuste óptico y conjuntos de módulos de precisión.
 
 ### Diseño de la cara de apoyo de un tornillo de brida personalizado
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-flange-bearing-face/
+Source: https://zufek.net/es/blog/custom-flange-bearing-face/
 Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -9953,7 +9953,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Tornillos moleteados: especificación de agarre y ajuste
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/knurled-thumb-screw-grip-design/
+Source: https://zufek.net/es/blog/knurled-thumb-screw-grip-design/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10057,7 +10057,7 @@ REQUISITOS DE SOLICITUD
 Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de posicionamiento y equipos de automatización.
 
 ### Cono, plano, perro o copa: elegir una punta de tornillo prisionero
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/set-screw-tip-selection/
+Source: https://zufek.net/es/blog/set-screw-tip-selection/
 Last modified: 2026-11-03
 
 DISEÑO Y DIMENSIONES / 3 LECTURA MÍNIMA
@@ -10187,7 +10187,7 @@ REQUISITOS DE SOLICITUD
 Tornillos de hombro, topes y componentes de localización roscados personalizados para mecanismos, plantillas y accesorios de prueba relacionados con moldes.
 
 ### Ajuste del perno con ranura en T: qué medir antes de realizar el pedido
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/t-slot-bolt-head-fit/
+Source: https://zufek.net/es/blog/t-slot-bolt-head-fit/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10279,7 +10279,7 @@ REQUISITOS DE SOLICITUD
 Tornillos de hombro, topes y componentes de localización roscados personalizados para mecanismos, plantillas y accesorios de prueba relacionados con moldes.
 
 ### Cáncamos para articulación o elevación: especificación
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/eye-bolt-linkage-vs-lifting/
+Source: https://zufek.net/es/blog/eye-bolt-linkage-vs-lifting/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10371,7 +10371,7 @@ REQUISITOS DE SOLICITUD
 Cabezales, pernos y geometrías de conexión especiales para bastidores de máquinas, soportes, varillajes personalizados y conjuntos de equipos.
 
 ### Cómo dimensionar un perno en U personalizado
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/u-bolt-bend-and-leg-dimensions/
+Source: https://zufek.net/es/blog/u-bolt-bend-and-leg-dimensions/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10451,7 +10451,7 @@ Por Theo Wan Leer guía técnica →
 Operaciones secundarias y de precisión ↗ Laminado, corte y roscado de rosca ↗ Recubrimientos y tratamientos superficiales ↗
 
 ### Pernos de cuello cuadrado a medida: especificando el cuello cuadrado
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/carriage-bolt-square-neck/
+Source: https://zufek.net/es/blog/carriage-bolt-square-neck/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10531,7 +10531,7 @@ Por Theo Wan Leer guía técnica →
 Estampación en frío multiestación ↗ Laminado, corte y roscado de rosca ↗ Inspección dimensional y visión CCD ↗
 
 ### Dibujos de tornillos excéntricos: hacer que el desplazamiento sea inequívoco
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/eccentric-screw-datum-drawing/
+Source: https://zufek.net/es/blog/eccentric-screw-datum-drawing/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10623,7 +10623,7 @@ REQUISITOS DE SOLICITUD
 sujetadores definidos por planos de ingeniería para carcasas compactas, mecanismos de ajuste óptico y conjuntos de módulos de precisión.
 
 ### Espárragos de doble extremo: evitando errores de montaje con roscas mixtas
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/double-ended-stud-thread-identification/
+Source: https://zufek.net/es/blog/double-ended-stud-thread-identification/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10727,7 +10727,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Tornillos de mango reducido: por qué hay que prestar atención a las transiciones
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/reduced-shank-transition-design/
+Source: https://zufek.net/es/blog/reduced-shank-transition-design/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10807,7 +10807,7 @@ Por Theo Wan Leer guía técnica →
 Tipo suizo y CNC Girando ↗ Rodamiento en frío + mecanizado secundario ↗ Inspección dimensional y visión CCD ↗
 
 ### Tornillos cónicos: definición del asiento de acoplamiento
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/tapered-screw-mating-seat/
+Source: https://zufek.net/es/blog/tapered-screw-mating-seat/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10899,7 +10899,7 @@ REQUISITOS DE SOLICITUD
 Componentes personalizados huecos, con perforaciones transversales y cónicos para pasajes, accesorios e interfaces de conexión para aplicaciones específicas.
 
 ### Pasadores de localización integrales: referencias de pasador y tornillo de coordinación
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/integral-locating-pin-position/
+Source: https://zufek.net/es/blog/integral-locating-pin-position/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -10991,7 +10991,7 @@ REQUISITOS DE SOLICITUD
 Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de posicionamiento y equipos de automatización.
 
 ### Tornillos de varios pasos: control de la cadena de dimensiones axiales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/multi-step-screw-dimension-chain/
+Source: https://zufek.net/es/blog/multi-step-screw-dimension-chain/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -11083,7 +11083,7 @@ REQUISITOS DE SOLICITUD
 Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de posicionamiento y equipos de automatización.
 
 ### Espárragos de inserción: especifique también la chapa
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/clinch-stud-panel-requirements/
+Source: https://zufek.net/es/blog/clinch-stud-panel-requirements/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -11163,7 +11163,7 @@ Por Theo Wan Leer guía técnica →
 Estampación en frío multiestación ↗ Operaciones secundarias y de precisión ↗ Inspección dimensional y visión CCD ↗
 
 ### Hilos enrollados o cortados: cuestiones a resolver en la RFQ
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/rolled-vs-cut-thread-rfq/
+Source: https://zufek.net/es/blog/rolled-vs-cut-thread-rfq/
 Last modified: 2026-10-29
 
 FABRICACIÓN / 2 LECTURA MIN
@@ -11261,7 +11261,7 @@ REQUISITOS DE SOLICITUD
 Componentes personalizados huecos, con perforaciones transversales y cónicos para pasajes, accesorios e interfaces de conexión para aplicaciones específicas.
 
 ### Orificios cruzados en tornillos: planificación del control e inspección de rebabas
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/cross-hole-burr-control/
+Source: https://zufek.net/es/blog/cross-hole-burr-control/
 Last modified: 2026-10-29
 
 FABRICACIÓN / 2 LECTURA MIN
@@ -11353,7 +11353,7 @@ REQUISITOS DE SOLICITUD
 Componentes personalizados huecos, con perforaciones transversales y cónicos para pasajes, accesorios e interfaces de conexión para aplicaciones específicas.
 
 ### Margen de recubrimiento para roscas y hombros de precisión
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/coating-allowance-thread-shoulder/
+Source: https://zufek.net/es/blog/coating-allowance-thread-shoulder/
 Last modified: 2026-10-29
 
 MATERIALES Y ACABADOS / 2 LECTURA MIN
@@ -11457,7 +11457,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Niquelado o pasivado de inoxidable en la RFQ
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/nickel-plating-vs-stainless-passivation/
+Source: https://zufek.net/es/blog/nickel-plating-vs-stainless-passivation/
 Last modified: 2026-10-29
 
 MATERIALES Y ACABADOS / 2 LECTURA MIN
@@ -11537,7 +11537,7 @@ Por Theo Wan Leer guía técnica →
 Recubrimientos y tratamientos superficiales ↗ Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
 
 ### Qué especificar para un tornillo personalizado recubierto con escamas de zinc
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/zinc-flake-coating-specification/
+Source: https://zufek.net/es/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
 
 MATERIALES Y ACABADOS / 2 LECTURA MIN
@@ -11641,7 +11641,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Limpieza técnica: redacción de un requisito de fijación útil
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-fastener-technical-cleanliness/
+Source: https://zufek.net/es/blog/custom-fastener-technical-cleanliness/
 Last modified: 2026-10-29
 
 CALIDAD / 2 LECTURA MÍNIMA
@@ -11745,7 +11745,7 @@ REQUISITOS DE SOLICITUD
 sujetadores definidos por planos de ingeniería para carcasas compactas, mecanismos de ajuste óptico y conjuntos de módulos de precisión.
 
 ### Parche de bloqueo preaplicado: qué indica el plano
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/pre-applied-locking-patch-rfq/
+Source: https://zufek.net/es/blog/pre-applied-locking-patch-rfq/
 Last modified: 2026-10-29
 
 ADQUISICIONES / 2 LECTURA MÍNIMA
@@ -11825,7 +11825,7 @@ Por Theo Wan Leer guía técnica →
 Limpieza, bloqueo y premontaje ↗ Laminado, corte y roscado de rosca ↗ Inspección dimensional y visión CCD ↗
 
 ### Tornillos arandela premontados: especificar el juego completo
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/preassembled-washer-screw-specification/
+Source: https://zufek.net/es/blog/preassembled-washer-screw-specification/
 Last modified: 2026-10-29
 
 ADQUISICIONES / 2 LECTURA MÍNIMA
@@ -11929,7 +11929,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Qué puede comprobar la inspección visual CCD en un tornillo personalizado
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/ccd-screw-dimension-inspection/
+Source: https://zufek.net/es/blog/ccd-screw-dimension-inspection/
 Last modified: 2026-10-29
 
 CALIDAD / 3 LECTURA MÍNIMA
@@ -12051,7 +12051,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Aprobación de primera muestra de tornillos especiales
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/first-article-custom-screw-approval/
+Source: https://zufek.net/es/blog/first-article-custom-screw-approval/
 Last modified: 2026-10-29
 
 CALIDAD / 2 LECTURA MÍNIMA
@@ -12131,7 +12131,7 @@ Por Theo Wan Leer guía técnica →
 Inspección dimensional y visión CCD ↗ Limpieza, bloqueo y premontaje ↗
 
 ### Muestreo e inspección 100%: elegir la cobertura adecuada
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/sampling-vs-full-fastener-inspection/
+Source: https://zufek.net/es/blog/sampling-vs-full-fastener-inspection/
 Last modified: 2026-10-29
 
 CALIDAD / 2 LECTURA MÍNIMA
@@ -12223,7 +12223,7 @@ REQUISITOS DE SOLICITUD
 Fijaciones de hombro, escalón y ajuste para mecanismos guiados, estaciones de posicionamiento y equipos de automatización.
 
 ### Calibres de rosca y aceptación de tornillos personalizados
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/thread-gauge-acceptance-plan/
+Source: https://zufek.net/es/blog/thread-gauge-acceptance-plan/
 Last modified: 2026-10-29
 
 CALIDAD / 2 LECTURA MÍNIMA
@@ -12331,7 +12331,7 @@ REQUISITOS DE SOLICITUD
 sujetadores definidos por planos de ingeniería para carcasas compactas, mecanismos de ajuste óptico y conjuntos de módulos de precisión.
 
 ### Por qué un tornillo personalizado necesita más que un valor de torque genérico
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/tightening-torque-friction-custom-screws/
+Source: https://zufek.net/es/blog/tightening-torque-friction-custom-screws/
 Last modified: 2026-10-29
 
 DISEÑO Y DIMENSIONES / 2 LECTURA MÍNIMA
@@ -12439,7 +12439,7 @@ REQUISITOS DE SOLICITUD
 Componentes roscados personalizados para soportes, módulos de equipos y otros conjuntos de componentes automotrices definidos por planos de ingeniería.
 
 ### Del prototipo a la serie: mantener la especificación
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/prototype-to-production-fasteners/
+Source: https://zufek.net/es/blog/prototype-to-production-fasteners/
 Last modified: 2026-10-29
 
 ADQUISICIONES / 2 LECTURA MÍNIMA
@@ -12519,7 +12519,7 @@ Por Theo Wan Leer guía técnica →
 Tipo suizo y CNC Girando ↗ Rodamiento en frío + mecanizado secundario ↗ Inspección dimensional y visión CCD ↗
 
 ### Control de revisión de planos de ingeniería para pedidos repetidos de sujetadores personalizados.
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/drawing-revision-custom-fastener-orders/
+Source: https://zufek.net/es/blog/drawing-revision-custom-fastener-orders/
 Last modified: 2026-10-29
 
 ADQUISICIONES / 2 LECTURA MÍNIMA
@@ -12599,7 +12599,7 @@ Por Theo Wan Leer guía técnica →
 Inspección dimensional y visión CCD ↗ Limpieza, bloqueo y premontaje ↗
 
 ### Embalaje y trazabilidad de lotes para pedidos de tornillos personalizados.
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/blog/custom-screw-packaging-lot-traceability/
+Source: https://zufek.net/es/blog/custom-screw-packaging-lot-traceability/
 Last modified: 2026-10-29
 
 ADQUISICIONES / 2 LECTURA MÍNIMA
@@ -12679,7 +12679,7 @@ Por Theo Wan Leer guía técnica →
 Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
 
 ### Envolventes de recarga VE: especificación de fijaciones
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/ev-charging-enclosure-fasteners/
+Source: https://zufek.net/es/industry-insights/ev-charging-enclosure-fasteners/
 Last modified: 2026-10-30
 
 Perspectivas del sector
@@ -12761,7 +12761,7 @@ IEA Global EV Outlook 2026
 Equipos de energía, carga y almacenamiento Tornillos de seguridad y antimanipulación Tornillos con brida a medida Especificación de un tratamiento de superficie de sujetador sin dejar la interfaz sin definir
 
 ### Fijaciones de posicionado y pivote para automatización
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/automation-locating-pivot-fasteners/
+Source: https://zufek.net/es/industry-insights/automation-locating-pivot-fasteners/
 Last modified: 2026-10-30
 
 Perspectivas del sector
@@ -12849,7 +12849,7 @@ Informes de IFR World Robotics
 Automatización Industrial Tornillos de hombro y escalonados Tornillos moleteados de apriete manual y ajuste Elaboración de un plan personalizado de inspección y aceptación de sujetadores
 
 ### Almacenamiento de baterías: interfaces de fijación
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/battery-storage-fastener-interfaces/
+Source: https://zufek.net/es/industry-insights/battery-storage-fastener-interfaces/
 Last modified: 2026-10-30
 
 Perspectivas del sector
@@ -12937,7 +12937,7 @@ Baterías de la AIE y transiciones energéticas seguras
 Equipos de energía, carga y almacenamiento Acero al carbono y aleado Limpieza, bloqueo y premontaje Revisión de dibujos de sujetadores personalizados: una práctica lista de verificación de liberación
 
 ### Centros de datos: fijaciones para refrigeración y servicio
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/data-centre-cooling-service-fasteners/
+Source: https://zufek.net/es/industry-insights/data-centre-cooling-service-fasteners/
 Last modified: 2026-10-30
 
 Perspectivas del sector
@@ -13025,7 +13025,7 @@ Energía e IA de la AIE
 Equipos electrónicos y ópticos Tornillos cautivos a tu dibujo. Tornillos huecos y con taladro pasante Del prototipo de tornillo a la repetición de la producción: una guía de entrega del escenario
 
 ### Reparabilidad: qué deben definir los compradores de fijaciones
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/repairability-product-information-fasteners/
+Source: https://zufek.net/es/industry-insights/repairability-product-information-fasteners/
 Last modified: 2026-10-30
 
 Perspectivas del sector
@@ -13121,7 +13121,7 @@ Marco normativo sobre ecodiseño para productos sostenibles
 Tornillos cautivos a tu dibujo. Tornillos de seguridad y antimanipulación Del prototipo de tornillo a la repetición de la producción: una guía de entrega del escenario preguntas frecuentes
 
 ### Riesgo de suministro de material: alternativas cualificadas
-Source: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/es/industry-insights/material-supply-risk-qualified-alternatives/
+Source: https://zufek.net/es/industry-insights/material-supply-risk-qualified-alternatives/
 Last modified: 2026-10-30
 
 Perspectivas del sector

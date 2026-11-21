@@ -16,4 +16,4 @@ Disallow: /*/404/
 # Crawl rules do not replace authentication.
 
 # Sitemap index
-Sitemap: https://precision-custom-fasteners-yang.boldshrew261.chatgpt.site/sitemap_index.xml
+Sitemap: https://zufek.net/sitemap_index.xml
