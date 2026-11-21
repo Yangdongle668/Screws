@@ -1,0 +1,212 @@
+{
+  "What each item tells us": {
+    "de": "Was jeder Punkt uns sagt",
+    "es": "Qué nos indica cada punto",
+    "it": "Cosa ci dice ogni voce",
+    "fr": "Ce que chaque point nous apprend",
+    "zh": "每一项告诉我们什么"
+  },
+  "Each line answers a question that otherwise comes back as a follow-up email. If something is still open, say so; a marked gap is more useful than a guess.": {
+    "de": "Jede Zeile beantwortet eine Frage, die sonst als Rückfrage per E-Mail käme. Ist etwas noch offen, sagen Sie es; eine markierte Lücke hilft mehr als eine Vermutung.",
+    "es": "Cada línea responde a una pregunta que, si falta, vuelve como correo de seguimiento. Si algo sigue abierto, indíquelo: un hueco marcado es más útil que una suposición.",
+    "it": "Ogni riga risponde a una domanda che altrimenti tornerebbe come e-mail di chiarimento. Se qualcosa è ancora aperto, ditelo: una lacuna segnalata è più utile di un’ipotesi.",
+    "fr": "Chaque ligne répond à une question qui reviendrait sinon par e-mail. Si un point reste ouvert, dites-le : un manque signalé est plus utile qu’une supposition.",
+    "zh": "每一项都对应一个问题，缺少时往往需要再发邮件追问。尚未确定的内容请直接注明——标出的空缺比猜测更有用。"
+  },
+  "Checklist item": {
+    "de": "Checklistenpunkt",
+    "es": "Punto de la lista",
+    "it": "Voce della checklist",
+    "fr": "Point de la check-list",
+    "zh": "清单项目"
+  },
+  "Why it matters": {
+    "de": "Warum es wichtig ist",
+    "es": "Por qué importa",
+    "it": "Perché è importante",
+    "fr": "Pourquoi c’est important",
+    "zh": "为什么重要"
+  },
+  "If it is not final yet": {
+    "de": "Wenn es noch nicht feststeht",
+    "es": "Si aún no está definido",
+    "it": "Se non è ancora definitivo",
+    "fr": "Si ce n’est pas encore figé",
+    "zh": "尚未确定时怎么做"
+  },
+  "Ties the quotation, samples and later orders to one controlled revision.": {
+    "de": "Bindet Angebot, Muster und spätere Aufträge an einen gelenkten Revisionsstand.",
+    "es": "Vincula la cotización, las muestras y los pedidos posteriores a una revisión controlada.",
+    "it": "Collega offerta, campioni e ordini successivi a un’unica revisione controllata.",
+    "fr": "Relie le devis, les échantillons et les commandes suivantes à une seule révision maîtrisée.",
+    "zh": "让报价、样品和后续订单对应同一个受控图纸版本。"
+  },
+  "Send the current sketch or sample photos and mark them as preliminary.": {
+    "de": "Aktuelle Skizze oder Musterfotos senden und als vorläufig kennzeichnen.",
+    "es": "Envíe el boceto actual o fotos de la muestra y márquelos como preliminares.",
+    "it": "Inviate lo schizzo attuale o foto del campione e indicateli come preliminari.",
+    "fr": "Envoyez le croquis actuel ou des photos d’échantillon en les marquant comme provisoires.",
+    "zh": "发送当前草图或样品照片，并注明为初步资料。"
+  },
+  "Sets the blank size, the forming or turning route and the thread gauges.": {
+    "de": "Legt Rohlingsgröße, Umform- oder Drehweg und die Gewindelehren fest.",
+    "es": "Define el tamaño del tocho, la ruta de conformado o torneado y los calibres de rosca.",
+    "it": "Determina la dimensione del grezzo, il ciclo di stampaggio o tornitura e i calibri del filetto.",
+    "fr": "Détermine la taille du lopin, la gamme de frappe ou de décolletage et les calibres de filetage.",
+    "zh": "决定坯料尺寸、冷镦或车削路线以及螺纹量规。"
+  },
+  "Give the nominal size and thread, and mark the dimensions that are still open.": {
+    "de": "Nenngröße und Gewinde angeben und noch offene Maße kennzeichnen.",
+    "es": "Indique el tamaño nominal y la rosca, y marque las cotas aún abiertas.",
+    "it": "Indicate dimensione nominale e filetto e segnate le quote ancora aperte.",
+    "fr": "Indiquez la taille nominale et le filetage, et signalez les cotes encore ouvertes.",
+    "zh": "给出公称规格和螺纹，并标出仍未确定的尺寸。"
+  },
+  "Shows which features control function, and therefore cost and inspection effort.": {
+    "de": "Zeigt, welche Merkmale die Funktion bestimmen – und damit Kosten und Prüfaufwand.",
+    "es": "Muestra qué rasgos controlan la función y, por tanto, el coste y el esfuerzo de inspección.",
+    "it": "Mostra quali caratteristiche governano la funzione e quindi costo e impegno di controllo.",
+    "fr": "Montre quelles caractéristiques pilotent la fonction, donc le coût et l’effort de contrôle.",
+    "zh": "说明哪些特征决定功能，从而决定成本和检验工作量。"
+  },
+  "Describe the mating parts and how the screw is assembled or serviced.": {
+    "de": "Gegenstücke beschreiben und wie die Schraube montiert oder gewartet wird.",
+    "es": "Describa las piezas de acoplamiento y cómo se monta o mantiene el tornillo.",
+    "it": "Descrivete le parti accoppiate e come la vite viene montata o manutenuta.",
+    "fr": "Décrivez les pièces associées et la façon dont la vis est montée ou entretenue.",
+    "zh": "说明配合零件以及螺丝的装配或维护方式。"
+  },
+  "Determines forming behaviour, heat treatment and available stock.": {
+    "de": "Bestimmt Umformverhalten, Wärmebehandlung und verfügbares Vormaterial.",
+    "es": "Determina el comportamiento en el conformado, el tratamiento térmico y el material disponible.",
+    "it": "Determina comportamento allo stampaggio, trattamento termico e materiale disponibile.",
+    "fr": "Détermine le comportement à la frappe, le traitement thermique et la matière disponible.",
+    "zh": "决定成形性能、热处理方式和可用原材料。"
+  },
+  "Describe the environment, loading and contact metals so options can be proposed.": {
+    "de": "Umgebung, Belastung und Kontaktwerkstoffe beschreiben, damit Optionen vorgeschlagen werden können.",
+    "es": "Describa el entorno, las cargas y los metales en contacto para poder proponer opciones.",
+    "it": "Descrivete ambiente, carichi e metalli a contatto, così da poter proporre opzioni.",
+    "fr": "Décrivez l’environnement, les charges et les métaux en contact pour que des options soient proposées.",
+    "zh": "说明使用环境、受力情况和接触金属，以便提出可选方案。"
+  },
+  "Coating thickness and friction affect thread fit, shoulder size and tightening.": {
+    "de": "Schichtdicke und Reibung beeinflussen Gewindepassung, Schulterdurchmesser und Anzug.",
+    "es": "El espesor del recubrimiento y la fricción afectan al ajuste de la rosca, al hombro y al apriete.",
+    "it": "Spessore del rivestimento e attrito influiscono su accoppiamento del filetto, spallamento e serraggio.",
+    "fr": "L’épaisseur du revêtement et le frottement influencent l’ajustement du filetage, l’épaulement et le serrage.",
+    "zh": "涂层厚度和摩擦会影响螺纹配合、台阶尺寸和拧紧。"
+  },
+  "State the purpose of the finish (corrosion, appearance or friction) and any customer standard.": {
+    "de": "Zweck der Oberfläche (Korrosion, Optik oder Reibung) und eventuelle Kundennorm nennen.",
+    "es": "Indique la finalidad del acabado (corrosión, aspecto o fricción) y cualquier norma del cliente.",
+    "it": "Indicate lo scopo della finitura (corrosione, aspetto o attrito) ed eventuali norme del cliente.",
+    "fr": "Indiquez le but de la finition (corrosion, aspect ou frottement) et toute norme client.",
+    "zh": "说明表面处理的目的（防腐、外观或摩擦）以及客户标准。"
+  },
+  "Decides whether tooling is justified and which route is economical.": {
+    "de": "Entscheidet, ob sich Werkzeug lohnt und welcher Fertigungsweg wirtschaftlich ist.",
+    "es": "Decide si el utillaje se justifica y qué ruta resulta económica.",
+    "it": "Decide se l’attrezzatura è giustificata e quale ciclo è economico.",
+    "fr": "Décide si l’outillage se justifie et quelle gamme est économique.",
+    "zh": "决定是否值得开模以及哪条工艺路线更经济。"
+  },
+  "Give an expected range, for example samples now and an estimated annual volume.": {
+    "de": "Eine erwartete Spanne angeben, z. B. jetzt Muster und ein geschätztes Jahresvolumen.",
+    "es": "Indique un rango esperado, por ejemplo muestras ahora y un volumen anual estimado.",
+    "it": "Indicate un intervallo atteso, ad esempio campioni ora e un volume annuo stimato.",
+    "fr": "Donnez une fourchette, par exemple des échantillons maintenant et un volume annuel estimé.",
+    "zh": "给出预计范围，例如当前样品数量和预估年用量。"
+  },
+  "Defines the evidence that ships with samples and production lots.": {
+    "de": "Legt fest, welche Nachweise mit Mustern und Serienlosen geliefert werden.",
+    "es": "Define la evidencia que acompaña a las muestras y a los lotes de producción.",
+    "it": "Definisce le evidenze che accompagnano campioni e lotti di produzione.",
+    "fr": "Définit les preuves qui accompagnent les échantillons et les lots de série.",
+    "zh": "明确样品和量产批次随货提供哪些证据。"
+  },
+  "Tell us which records your quality team normally requires.": {
+    "de": "Teilen Sie mit, welche Aufzeichnungen Ihre Qualitätsabteilung üblicherweise verlangt.",
+    "es": "Indíquenos qué registros suele exigir su equipo de calidad.",
+    "it": "Indicateci quali registrazioni richiede di solito il vostro reparto qualità.",
+    "fr": "Indiquez-nous les enregistrements que votre service qualité exige habituellement.",
+    "zh": "告诉我们贵司质量部门通常要求哪些记录。"
+  },
+  "Affects packaging, shipping method and the schedule we confirm.": {
+    "de": "Beeinflusst Verpackung, Versandart und den Terminplan, den wir bestätigen.",
+    "es": "Afecta al embalaje, al medio de envío y al plazo que confirmamos.",
+    "it": "Influisce su imballo, modalità di spedizione e tempi che confermiamo.",
+    "fr": "Influence l’emballage, le mode d’expédition et le planning que nous confirmons.",
+    "zh": "影响包装、运输方式以及我们确认的交期。"
+  },
+  "Give target dates for samples and for the first production lot.": {
+    "de": "Zieltermine für Muster und für das erste Serienlos angeben.",
+    "es": "Indique fechas objetivo para las muestras y para el primer lote de producción.",
+    "it": "Indicate le date obiettivo per i campioni e per il primo lotto di produzione.",
+    "fr": "Indiquez les dates cibles pour les échantillons et pour le premier lot de série.",
+    "zh": "给出样品和首批量产的目标日期。"
+  },
+  "Put the drive on the drawing.": {
+    "de": "Den Antrieb in die Zeichnung aufnehmen.",
+    "es": "Lleve el accionamiento al plano.",
+    "it": "Riportate l’impronta sul disegno.",
+    "fr": "Mettez l’empreinte sur le plan.",
+    "zh": "把驱动形式写进图纸。"
+  },
+  "A drive name alone rarely defines tool fit. These inputs let the recess be reviewed together with the head geometry, material and finish.": {
+    "de": "Ein Antriebsname allein definiert die Werkzeugpassung selten. Mit diesen Angaben lässt sich der Antrieb zusammen mit Kopfgeometrie, Werkstoff und Oberfläche prüfen.",
+    "es": "El nombre del accionamiento rara vez define el ajuste de la herramienta. Con estos datos, el hueco se revisa junto con la geometría de la cabeza, el material y el acabado.",
+    "it": "Il nome dell’impronta raramente definisce l’accoppiamento con l’utensile. Con questi dati l’impronta si valuta insieme a geometria della testa, materiale e finitura.",
+    "fr": "Le nom d’une empreinte définit rarement l’ajustement de l’outil. Ces données permettent d’examiner l’empreinte avec la géométrie de tête, la matière et la finition.",
+    "zh": "仅凭驱动名称很难定义工具配合。提供以下信息，才能把驱动槽与头部几何、材料和表面处理一起评审。"
+  },
+  "Name the drive family and size, and cite the standard where one applies, for example ISO 10664 for hexalobular recesses or ISO 4757 for cross recesses.": {
+    "de": "Antriebsart und Größe nennen und, wo zutreffend, die Norm angeben, z. B. ISO 10664 für Innensechsrund oder ISO 4757 für Kreuzschlitze.",
+    "es": "Indique el tipo y tamaño del accionamiento y cite la norma aplicable, por ejemplo ISO 10664 para hexalobular o ISO 4757 para cruciforme.",
+    "it": "Indicate tipo e dimensione dell’impronta e la norma applicabile, ad esempio ISO 10664 per esalobata o ISO 4757 per impronta a croce.",
+    "fr": "Indiquez le type et la taille d’empreinte et la norme applicable, par exemple ISO 10664 pour l’hexalobulaire ou ISO 4757 pour l’empreinte cruciforme.",
+    "zh": "注明驱动类型和规格，并在适用时引用标准，例如梅花槽 ISO 10664、十字槽 ISO 4757。"
+  },
+  "For a special or security drive, supply the recess drawing or the tool reference used on your assembly line.": {
+    "de": "Bei Sonder- oder Sicherheitsantrieben die Antriebszeichnung oder die an Ihrer Montagelinie verwendete Werkzeugreferenz beilegen.",
+    "es": "Para accionamientos especiales o de seguridad, aporte el plano del hueco o la referencia de herramienta usada en su línea de montaje.",
+    "it": "Per impronte speciali o di sicurezza, fornite il disegno dell’impronta o il riferimento dell’utensile usato in linea di montaggio.",
+    "fr": "Pour une empreinte spéciale ou de sécurité, fournissez le plan de l’empreinte ou la référence d’outil utilisée sur votre ligne.",
+    "zh": "特殊或防盗驱动请提供驱动槽图纸，或贵司装配线所用工具的型号。"
+  },
+  "State the minimum recess depth or penetration gauge where engagement matters for tightening.": {
+    "de": "Mindesttiefe des Antriebs oder Eindringlehre angeben, wenn der Eingriff für den Anzug wichtig ist.",
+    "es": "Indique la profundidad mínima del hueco o el calibre de penetración cuando el encaje sea importante para el apriete.",
+    "it": "Indicate la profondità minima dell’impronta o il calibro di penetrazione quando l’innesto conta per il serraggio.",
+    "fr": "Indiquez la profondeur minimale d’empreinte ou le calibre de pénétration lorsque l’engagement compte pour le serrage.",
+    "zh": "若啮合深度影响拧紧，请注明驱动槽最小深度或插入量规要求。"
+  },
+  "Show tool access: head clearance, approach angle and any surrounding walls.": {
+    "de": "Werkzeugzugang zeigen: Freiraum am Kopf, Ansatzwinkel und umgebende Wände.",
+    "es": "Muestre el acceso de la herramienta: espacio en la cabeza, ángulo de entrada y paredes cercanas.",
+    "it": "Mostrate l’accesso dell’utensile: spazio attorno alla testa, angolo di approccio e pareti vicine.",
+    "fr": "Montrez l’accès de l’outil : dégagement de tête, angle d’approche et parois voisines.",
+    "zh": "标出工具操作空间：头部周围间隙、进入角度和周边壁面。"
+  },
+  "Give the tightening method and torque range so the recess and material can be reviewed together.": {
+    "de": "Anzugsverfahren und Drehmomentbereich angeben, damit Antrieb und Werkstoff gemeinsam geprüft werden.",
+    "es": "Indique el método de apriete y el rango de par para revisar juntos el hueco y el material.",
+    "it": "Indicate metodo di serraggio e intervallo di coppia per valutare insieme impronta e materiale.",
+    "fr": "Indiquez la méthode de serrage et la plage de couple pour examiner ensemble l’empreinte et la matière.",
+    "zh": "给出拧紧方式和扭矩范围，以便同时评审驱动槽与材料。"
+  },
+  "Note how plating or coating is treated in the recess, because build-up can change tool fit.": {
+    "de": "Angeben, wie Beschichtung im Antrieb behandelt wird, da Schichtaufbau die Werkzeugpassung verändern kann.",
+    "es": "Indique cómo se trata el recubrimiento dentro del hueco, porque la acumulación puede alterar el ajuste de la herramienta.",
+    "it": "Indicate come è trattato il rivestimento nell’impronta, perché l’accumulo può cambiare l’accoppiamento con l’utensile.",
+    "fr": "Précisez le traitement du revêtement dans l’empreinte, car une surépaisseur peut modifier l’ajustement de l’outil.",
+    "zh": "注明驱动槽内电镀或涂层的处理要求，因为堆积会改变工具配合。"
+  },
+  "Agree how the recess is inspected, for example with a go/no-go gauge or the service tool.": {
+    "de": "Prüfung des Antriebs vereinbaren, z. B. mit Gut-/Schlecht-Lehre oder dem Servicewerkzeug.",
+    "es": "Acuerde cómo se inspecciona el hueco, por ejemplo con calibre pasa/no pasa o con la herramienta de servicio.",
+    "it": "Concordate come si controlla l’impronta, ad esempio con calibro passa/non passa o con l’utensile di servizio.",
+    "fr": "Convenez du contrôle de l’empreinte, par exemple avec un calibre entre/n’entre pas ou l’outil de service.",
+    "zh": "约定驱动槽的检验方式，例如通止规或实际维修工具。"
+  }
+}

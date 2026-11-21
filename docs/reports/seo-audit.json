@@ -57,7 +57,7 @@
       "description": "Develop a drawing-defined screw with ZUFEK: geometry review, process selection, tooling, samples and approval before repeat production.",
       "titleCharacters": 59,
       "descriptionCharacters": 135,
-      "bodyWords": 1050,
+      "bodyWords": 1031,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -87,7 +87,7 @@
       "description": "Retention-oriented screw designs. Share the mating assembly so the retaining features can be reviewed together. Send your drawing to ZUFEK for review.",
       "titleCharacters": 33,
       "descriptionCharacters": 150,
-      "bodyWords": 722,
+      "bodyWords": 703,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -102,7 +102,7 @@
       "description": "Alternative head and drive geometries for access, clearance and assembly requirements. Send your drawing to ZUFEK for review.",
       "titleCharacters": 38,
       "descriptionCharacters": 125,
-      "bodyWords": 733,
+      "bodyWords": 714,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -803,7 +803,7 @@
       "description": "Prepare your drawing, material, finish, quantity and inspection requirements using the ZUFEK custom screw RFQ checklist.",
       "titleCharacters": 34,
       "descriptionCharacters": 120,
-      "bodyWords": 207,
+      "bodyWords": 477,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1405,7 +1405,7 @@
       "description": "Compare pin-in six-lobe, Y-type, pentalobe, spanner, triangular, square and combination screw drive specification requirements.",
       "titleCharacters": 51,
       "descriptionCharacters": 127,
-      "bodyWords": 256,
+      "bodyWords": 402,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2082,7 +2082,7 @@
       "description": "Entwickeln Sie mit ZUFEK eine in der Konstruktionszeichnung definierte Schraube: Überprüfung der Geometrie, Prozessauswahl, Werkzeuge, Muster und Genehmigung vor der erneuten Produktion.",
       "titleCharacters": 94,
       "descriptionCharacters": 186,
-      "bodyWords": 1056,
+      "bodyWords": 1036,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2097,7 +2097,7 @@
       "description": "Desarrolle un tornillo definido por un plano de ingeniería con ZUFEK: revisión de geometría, selección de procesos, herramientas, muestras y aprobación antes de repetir la producción.",
       "titleCharacters": 93,
       "descriptionCharacters": 183,
-      "bodyWords": 1276,
+      "bodyWords": 1250,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2112,7 +2112,7 @@
       "description": "Sviluppa una vite definita dal disegno tecnico con ZUFEK: revisione della geometria, selezione del processo, attrezzature, campioni e approvazione prima della ripetizione della produzione.",
       "titleCharacters": 73,
       "descriptionCharacters": 188,
-      "bodyWords": 1213,
+      "bodyWords": 1187,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2127,7 +2127,7 @@
       "description": "使用 ZUFEK 开发工程图定义的螺钉：重复生产前的几何形状审查、工艺选择、工具、样品和批准。",
       "titleCharacters": 28,
       "descriptionCharacters": 47,
-      "bodyWords": 176,
+      "bodyWords": 174,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2142,7 +2142,7 @@
       "description": "Développez une vis définie par un dessin technique avec ZUFEK : examen de la géométrie, sélection du processus, outillage, échantillons et approbation avant de répéter la production.",
       "titleCharacters": 89,
       "descriptionCharacters": 182,
-      "bodyWords": 1310,
+      "bodyWords": 1279,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2232,7 +2232,7 @@
       "description": "Retentionsorientierte Schraubenkonstruktionen. Geben Sie die passende Baugruppe frei, damit die Haltemerkmale gemeinsam überprüft werden können. Senden Sie Ihre technische Zeichnung zur Überprüfung an ZUFEK.",
       "titleCharacters": 58,
       "descriptionCharacters": 207,
-      "bodyWords": 750,
+      "bodyWords": 730,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2247,7 +2247,7 @@
       "description": "Diseños de tornillos orientados a la retención. Comparta el conjunto de acoplamiento para que las características de retención se puedan revisar juntas. Envíe su dibujo de ingeniería a ZUFEK para su revisión.",
       "titleCharacters": 53,
       "descriptionCharacters": 208,
-      "bodyWords": 908,
+      "bodyWords": 882,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2262,7 +2262,7 @@
       "description": "Progettazioni di viti orientate alla ritenzione. Condividere l'assieme di accoppiamento in modo che le funzioni di fissaggio possano essere riviste insieme. Invia il tuo disegno tecnico a ZUFEK per la revisione.",
       "titleCharacters": 43,
       "descriptionCharacters": 211,
-      "bodyWords": 851,
+      "bodyWords": 825,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2277,7 +2277,7 @@
       "description": "以固定为导向的螺钉设计。共享配合组件，以便可以一起检查固定功能。将您的工程图纸发送给 ZUFEK 进行审核。",
       "titleCharacters": 19,
       "descriptionCharacters": 54,
-      "bodyWords": 89,
+      "bodyWords": 87,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2292,7 +2292,7 @@
       "description": "Conceptions de vis orientées rétention. Partagez l'assemblage de raccordement afin que les fonctions de retenue puissent être examinées ensemble. Envoyez votre dessin technique à ZUFEK pour examen.",
       "titleCharacters": 43,
       "descriptionCharacters": 197,
-      "bodyWords": 909,
+      "bodyWords": 878,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2307,7 +2307,7 @@
       "description": "Alternative Kopf- und Antriebsgeometrien für Zugangs-, Freiraum- und Montageanforderungen. Senden Sie Ihre technische Zeichnung zur Überprüfung an ZUFEK.",
       "titleCharacters": 54,
       "descriptionCharacters": 153,
-      "bodyWords": 755,
+      "bodyWords": 735,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2322,7 +2322,7 @@
       "description": "Geometrías alternativas de cabezal y accionamiento para requisitos de acceso, espacio libre y montaje. Envíe su dibujo de ingeniería a ZUFEK para su revisión.",
       "titleCharacters": 62,
       "descriptionCharacters": 158,
-      "bodyWords": 931,
+      "bodyWords": 905,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2337,7 +2337,7 @@
       "description": "Geometrie alternative della testa e dell'azionamento per requisiti di accesso, spazio libero e assemblaggio. Invia il tuo disegno tecnico a ZUFEK per la revisione.",
       "titleCharacters": 46,
       "descriptionCharacters": 163,
-      "bodyWords": 873,
+      "bodyWords": 847,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2352,7 +2352,7 @@
       "description": "可满足访问、间隙和装配要求的替代头和驱动器几何形状。将您的工程图纸发送给 ZUFEK 进行审核。",
       "titleCharacters": 20,
       "descriptionCharacters": 48,
-      "bodyWords": 101,
+      "bodyWords": 99,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2367,7 +2367,7 @@
       "description": "Géométries alternatives de tête et d'entraînement pour répondre aux exigences d'accès, de dégagement et d'assemblage. Envoyez votre dessin technique à ZUFEK pour examen.",
       "titleCharacters": 50,
       "descriptionCharacters": 169,
-      "bodyWords": 922,
+      "bodyWords": 891,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5812,7 +5812,7 @@
       "description": "Bereiten Sie Ihre technischen Zeichnungs-, Material-, Oberflächen-, Mengen- und Prüfanforderungen mithilfe der ZUFEK-Checkliste für individuelle Schraubenanfragen vor.",
       "titleCharacters": 53,
       "descriptionCharacters": 167,
-      "bodyWords": 197,
+      "bodyWords": 427,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5826,7 +5826,7 @@
       "description": "Prepare sus requisitos de inspección, material, acabado, cantidad y planos de ingeniería utilizando la lista de verificación de RFQ de tornillos personalizados de ZUFEK.",
       "titleCharacters": 64,
       "descriptionCharacters": 169,
-      "bodyWords": 263,
+      "bodyWords": 583,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5840,7 +5840,7 @@
       "description": "Prepara il disegno tecnico, i materiali, la finitura, la quantità e i requisiti di ispezione utilizzando la lista di controllo RFQ per viti personalizzate ZUFEK.",
       "titleCharacters": 78,
       "descriptionCharacters": 161,
-      "bodyWords": 266,
+      "bodyWords": 556,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5854,7 +5854,7 @@
       "description": "使用 ZUFEK 定制螺钉询价清单准备您的工程图纸、材料、表面处理、数量和检验要求。",
       "titleCharacters": 16,
       "descriptionCharacters": 42,
-      "bodyWords": 42,
+      "bodyWords": 71,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5868,7 +5868,7 @@
       "description": "Préparez vos exigences en matière de dessin technique, de matériaux, de finition, de quantité et d'inspection à l'aide de la liste de contrôle RFQ pour vis personnalisées ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 177,
-      "bodyWords": 265,
+      "bodyWords": 575,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -8822,7 +8822,7 @@
       "description": "Vergleichen Sie die Spezifikationsanforderungen für Sechskant-, Y-Typ-, Pentalobe-, Schraubenschlüssel-, Dreikant-, Vierkant- und Kombinationsschraubenantriebe.",
       "titleCharacters": 74,
       "descriptionCharacters": 160,
-      "bodyWords": 240,
+      "bodyWords": 360,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -8836,7 +8836,7 @@
       "description": "Compare los requisitos de las especificaciones de accionamiento por tornillo de seis lóbulos, tipo Y, pentalobe, llave inglesa, triangular, cuadrado y combinado.",
       "titleCharacters": 58,
       "descriptionCharacters": 161,
-      "bodyWords": 319,
+      "bodyWords": 490,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -8850,7 +8850,7 @@
       "description": "Confronta i requisiti delle specifiche delle viti a sei lobi, a Y, pentalobe, a chiave, triangolari, quadrate e combinate.",
       "titleCharacters": 80,
       "descriptionCharacters": 122,
-      "bodyWords": 286,
+      "bodyWords": 426,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -8864,7 +8864,7 @@
       "description": "比较插销式六瓣、Y 型、五瓣、扳手、三角形、方形和组合螺丝传动规格要求。",
       "titleCharacters": 22,
       "descriptionCharacters": 36,
-      "bodyWords": 54,
+      "bodyWords": 67,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -8878,7 +8878,7 @@
       "description": "Comparez les exigences des spécifications d'entraînement à vis à six lobes, de type Y, pentalobe, à clé, triangulaire, carrée et combinée.",
       "titleCharacters": 72,
       "descriptionCharacters": 138,
-      "bodyWords": 316,
+      "bodyWords": 465,
       "types": [
         "Organization",
         "BreadcrumbList",

@@ -1386,9 +1386,7 @@ COSTRUITO INTORNO AL TUO disegno tecnico
 
 Design di viti non standard con requisiti di testa, azionamento, filettatura e lunghezza definiti dalla vostra applicazione.
 
-Richiedi una revisione del disegno tecnico ↗ Famiglia di prodotti illustrativa. Le specifiche finali e la disponibilità richiedono conferma.
-
-Viti metalliche su disegno
+Richiedi una revisione del disegno tecnico ↗ Viti metalliche su disegno
 
 #### Definisci la parte che si adatta.
 
@@ -1419,8 +1417,6 @@ Finitura superficiale Requisiti di rivestimento e accettazione dello stato
 Quantità e tempistiche Confermato in fase di preventivo
 
 Verifica Concordare l'ambito dell'ispezione prima di ordinare
-
-Non è implicita alcuna richiesta universale su dimensioni, tolleranza, materiale o tempi di consegna.
 
 LETTURA TECNICA CORRELATA
 
@@ -1714,9 +1710,7 @@ PROGETTATO PER LA RITENZIONE
 
 Progettazioni di viti orientate alla ritenzione. Condividere l'assieme di accoppiamento in modo che le funzioni di fissaggio possano essere riviste insieme.
 
-Richiedi una revisione del disegno tecnico ↗ Famiglia di prodotti illustrativa. Le specifiche finali e la disponibilità richiedono conferma.
-
-Viti imperdibili
+Richiedi una revisione del disegno tecnico ↗ Viti imperdibili
 
 #### Definisci la parte che si adatta.
 
@@ -1747,8 +1741,6 @@ Finitura superficiale Requisiti di rivestimento e accettazione dello stato
 Quantità e tempistiche Confermato in fase di preventivo
 
 Verifica Concordare l'ambito dell'ispezione prima di ordinare
-
-Non è implicita alcuna richiesta universale su dimensioni, tolleranza, materiale o tempi di consegna.
 
 LETTURA TECNICA CORRELATA
 
@@ -1823,9 +1815,7 @@ GEOMETRIA SPECIFICA PER L'APPLICAZIONE
 
 Geometrie alternative della testa e dell'azionamento per requisiti di accesso, spazio libero e assemblaggio.
 
-Richiedi una revisione del disegno tecnico ↗ Famiglia di prodotti illustrativa. Le specifiche finali e la disponibilità richiedono conferma.
-
-Viti a testa speciale
+Richiedi una revisione del disegno tecnico ↗ Viti a testa speciale
 
 #### Definisci la parte che si adatta.
 
@@ -1856,8 +1846,6 @@ Finitura superficiale Requisiti di rivestimento e accettazione dello stato
 Quantità e tempistiche Confermato in fase di preventivo
 
 Verifica Concordare l'ambito dell'ispezione prima di ordinare
-
-Non è implicita alcuna richiesta universale su dimensioni, tolleranza, materiale o tempi di consegna.
 
 LETTURA TECNICA CORRELATA
 
@@ -4680,6 +4668,28 @@ Il nostro Guida alla preparazione della richiesta di offerta spiega perché ques
 
 Recensione dimensioni della vite a spalla o domande sulla progettazione delle viti imperdibili per considerazioni specifiche sul prodotto.
 
+#### Cosa ci dice ogni voce
+
+Ogni riga risponde a una domanda che altrimenti tornerebbe come e-mail di chiarimento. Se qualcosa è ancora aperto, ditelo: una lacuna segnalata è più utile di un’ipotesi.
+
+Voce della checklist Perché è importante Se non è ancora definitivo
+
+disegno o schizzo tecnico, numero e revisione del disegno tecnico Collega offerta, campioni e ordini successivi a un’unica revisione controllata. Inviate lo schizzo attuale o foto del campione e indicateli come preliminari.
+
+Unità, dimensioni complessive e specifiche della filettatura Determina la dimensione del grezzo, il ciclo di stampaggio o tornitura e i calibri del filetto. Indicate dimensione nominale e filetto e segnate le quote ancora aperte.
+
+Caratteristiche critiche, tolleranze e assemblaggio di accoppiamento Mostra quali caratteristiche governano la funzione e quindi costo e impegno di controllo. Descrivete le parti accoppiate e come la vite viene montata o manutenuta.
+
+Requisiti del tipo di materiale o dell'applicazione Determina comportamento allo stampaggio, trattamento termico e materiale disponibile. Descrivete ambiente, carichi e metalli a contatto, così da poter proporre opzioni.
+
+Finitura superficiale ed eventuali requisiti di accettazione Spessore del rivestimento e attrito influiscono su accoppiamento del filetto, spallamento e serraggio. Indicate lo scopo della finitura (corrosione, aspetto o attrito) ed eventuali norme del cliente.
+
+Quantità di prototipi e quantità di produzione Decide se l’attrezzatura è giustificata e quale ciclo è economico. Indicate un intervallo atteso, ad esempio campioni ora e un volume annuo stimato.
+
+Approvazione del campione e documentazione di ispezione Definisce le evidenze che accompagnano campioni e lotti di produzione. Indicateci quali registrazioni richiede di solito il vostro reparto qualità.
+
+Destinazione e data di consegna richiesta Influisce su imballo, modalità di spedizione e tempi che confermiamo. Indicate le date obiettivo per i campioni e per il primo lotto di produzione.
+
 #### Campionatura, attrezzaggio e pianificazione della produzione
 
 Il tempo tipico per attrezzaggio e campioni è di circa 10–15 giorni. Si conferma dopo la verifica di disegno, materiale, geometria, finitura e controlli. Definire l’avvio in offerta; le consegne di produzione sono concordate separatamente in base a quantità e ciclo approvato.
@@ -4714,6 +4724,24 @@ Azionamento combinato Due geometrie di azionamento definite in una testa Mostra 
 Impugnatura zigrinata Motivo dritto o a rombi per il funzionamento manuale Dimensioni dell'impugnatura e se è necessaria una presa aggiuntiva
 
 Le unità antimanomissione scoraggiano l'accesso occasionale; non garantiscono che un elemento di fissaggio non possa essere rimosso. La capacità di coppia e il comportamento della camma dipendono dal profilo, dall'utensile, dal materiale e dall'impegno effettivi.
+
+#### Riportate l’impronta sul disegno.
+
+Il nome dell’impronta raramente definisce l’accoppiamento con l’utensile. Con questi dati l’impronta si valuta insieme a geometria della testa, materiale e finitura.
+
+Indicate tipo e dimensione dell’impronta e la norma applicabile, ad esempio ISO 10664 per esalobata o ISO 4757 per impronta a croce.
+
+Per impronte speciali o di sicurezza, fornite il disegno dell’impronta o il riferimento dell’utensile usato in linea di montaggio.
+
+Indicate la profondità minima dell’impronta o il calibro di penetrazione quando l’innesto conta per il serraggio.
+
+Mostrate l’accesso dell’utensile: spazio attorno alla testa, angolo di approccio e pareti vicine.
+
+Indicate metodo di serraggio e intervallo di coppia per valutare insieme impronta e materiale.
+
+Indicate come è trattato il rivestimento nell’impronta, perché l’accumulo può cambiare l’accoppiamento con l’utensile.
+
+Concordate come si controlla l’impronta, ad esempio con calibro passa/non passa o con l’utensile di servizio.
 
 #### Applicare l'interfaccia alla parte.
 

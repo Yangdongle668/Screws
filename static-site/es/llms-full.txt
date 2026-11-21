@@ -1386,9 +1386,7 @@ CONSTRUIDO ALREDEDOR DE SU dibujo de ingeniería
 
 Diseños de tornillos no estándar con requisitos de cabeza, accionamiento, rosca y longitud definidos por su aplicación.
 
-Solicite una revisión de dibujo de ingeniería ↗ Familia de productos ilustrativa. Las especificaciones finales y la disponibilidad requieren confirmación.
-
-Tornillos metálicos a medida
+Solicite una revisión de dibujo de ingeniería ↗ Tornillos metálicos a medida
 
 #### Defina la pieza que encaja.
 
@@ -1419,8 +1417,6 @@ Acabado superficial Requisitos estatales de recubrimiento y aceptación.
 Cantidad y tiempo Confirmado durante la cotización
 
 Verificación Acordar el alcance de la inspección antes de realizar el pedido
-
-No se implica ninguna afirmación sobre tamaño, tolerancia, material o plazo de entrega universales.
 
 LECTURA TÉCNICA RELACIONADA
 
@@ -1714,9 +1710,7 @@ DISEÑADO PARA LA RETENCIÓN
 
 Diseños de tornillos orientados a la retención. Comparta el conjunto de acoplamiento para que las características de retención se puedan revisar juntas.
 
-Solicite una revisión de dibujo de ingeniería ↗ Familia de productos ilustrativa. Las especificaciones finales y la disponibilidad requieren confirmación.
-
-Tornillos cautivos
+Solicite una revisión de dibujo de ingeniería ↗ Tornillos cautivos
 
 #### Defina la pieza que encaja.
 
@@ -1747,8 +1741,6 @@ Acabado superficial Requisitos estatales de recubrimiento y aceptación.
 Cantidad y tiempo Confirmado durante la cotización
 
 Verificación Acordar el alcance de la inspección antes de realizar el pedido
-
-No se implica ninguna afirmación sobre tamaño, tolerancia, material o plazo de entrega universales.
 
 LECTURA TÉCNICA RELACIONADA
 
@@ -1823,9 +1815,7 @@ GEOMETRÍA ESPECÍFICA DE LA APLICACIÓN
 
 Geometrías alternativas de cabezal y accionamiento para requisitos de acceso, espacio libre y montaje.
 
-Solicite una revisión de dibujo de ingeniería ↗ Familia de productos ilustrativa. Las especificaciones finales y la disponibilidad requieren confirmación.
-
-Tornillos de cabeza especial
+Solicite una revisión de dibujo de ingeniería ↗ Tornillos de cabeza especial
 
 #### Defina la pieza que encaja.
 
@@ -1856,8 +1846,6 @@ Acabado superficial Requisitos estatales de recubrimiento y aceptación.
 Cantidad y tiempo Confirmado durante la cotización
 
 Verificación Acordar el alcance de la inspección antes de realizar el pedido
-
-No se implica ninguna afirmación sobre tamaño, tolerancia, material o plazo de entrega universales.
 
 LECTURA TÉCNICA RELACIONADA
 
@@ -4680,6 +4668,28 @@ Nuestro Guía de preparación de RFQ explica por qué estos detalles son importa
 
 Revisión dimensiones del tornillo de hombro o preguntas sobre el diseño de tornillos cautivos para consideraciones específicas del producto.
 
+#### Qué nos indica cada punto
+
+Cada línea responde a una pregunta que, si falta, vuelve como correo de seguimiento. Si algo sigue abierto, indíquelo: un hueco marcado es más útil que una suposición.
+
+Punto de la lista Por qué importa Si aún no está definido
+
+dibujo o croquis de ingeniería, número y revisión del dibujo de ingeniería Vincula la cotización, las muestras y los pedidos posteriores a una revisión controlada. Envíe el boceto actual o fotos de la muestra y márquelos como preliminares.
+
+Unidades, dimensiones generales y especificación de rosca. Define el tamaño del tocho, la ruta de conformado o torneado y los calibres de rosca. Indique el tamaño nominal y la rosca, y marque las cotas aún abiertas.
+
+Características críticas, tolerancias y ensamblaje de acoplamiento. Muestra qué rasgos controlan la función y, por tanto, el coste y el esfuerzo de inspección. Describa las piezas de acoplamiento y cómo se monta o mantiene el tornillo.
+
+Requisitos de aplicación o grado del material Determina el comportamiento en el conformado, el tratamiento térmico y el material disponible. Describa el entorno, las cargas y los metales en contacto para poder proponer opciones.
+
+Acabado superficial y cualquier requisito de aceptación. El espesor del recubrimiento y la fricción afectan al ajuste de la rosca, al hombro y al apriete. Indique la finalidad del acabado (corrosión, aspecto o fricción) y cualquier norma del cliente.
+
+Cantidad de prototipo y cantidad de producción. Decide si el utillaje se justifica y qué ruta resulta económica. Indique un rango esperado, por ejemplo muestras ahora y un volumen anual estimado.
+
+Documentación de inspección y aprobación de muestras. Define la evidencia que acompaña a las muestras y a los lotes de producción. Indíquenos qué registros suele exigir su equipo de calidad.
+
+Destino y fecha de entrega solicitada Afecta al embalaje, al medio de envío y al plazo que confirmamos. Indique fechas objetivo para las muestras y para el primer lote de producción.
+
 #### Muestreo, utillaje y planificación de la producción.
 
 El plazo habitual de utillaje y muestras es de aproximadamente 10–15 días. Se confirma tras revisar plano, material, geometría, acabado e inspección. Defina el inicio en la oferta; la entrega de producción se acuerda aparte según cantidad y ruta aprobada.
@@ -4714,6 +4724,24 @@ Accionamiento combinado Dos geometrías de accionamiento definidas en un cabezal
 Empuñadura moleteada Patrón recto o de diamante para operación manual Dimensiones de agarre y si se necesita un casquillo adicional
 
 Las unidades resistentes a manipulaciones desalientan el acceso casual; no garantizan que no se pueda quitar un sujetador. La capacidad de torsión y el comportamiento de la leva dependen del perfil, la herramienta, el material y el compromiso reales.
+
+#### Lleve el accionamiento al plano.
+
+El nombre del accionamiento rara vez define el ajuste de la herramienta. Con estos datos, el hueco se revisa junto con la geometría de la cabeza, el material y el acabado.
+
+Indique el tipo y tamaño del accionamiento y cite la norma aplicable, por ejemplo ISO 10664 para hexalobular o ISO 4757 para cruciforme.
+
+Para accionamientos especiales o de seguridad, aporte el plano del hueco o la referencia de herramienta usada en su línea de montaje.
+
+Indique la profundidad mínima del hueco o el calibre de penetración cuando el encaje sea importante para el apriete.
+
+Muestre el acceso de la herramienta: espacio en la cabeza, ángulo de entrada y paredes cercanas.
+
+Indique el método de apriete y el rango de par para revisar juntos el hueco y el material.
+
+Indique cómo se trata el recubrimiento dentro del hueco, porque la acumulación puede alterar el ajuste de la herramienta.
+
+Acuerde cómo se inspecciona el hueco, por ejemplo con calibre pasa/no pasa o con la herramienta de servicio.
 
 #### Aplicar la interfaz a la pieza.
 

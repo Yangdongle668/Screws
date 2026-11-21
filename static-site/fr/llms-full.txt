@@ -1386,9 +1386,7 @@ CONSTRUIT AUTOUR DE VOTRE dessin technique
 
 Conceptions de vis non standard avec des exigences en matière de tête, d'entraînement, de filetage et de longueur définies par votre application.
 
-Demander une révision de dessins techniques ↗ Famille de produits illustrative. Les spécifications finales et la disponibilité nécessitent une confirmation.
-
-Vis métalliques sur mesure
+Demander une révision de dessins techniques ↗ Vis métalliques sur mesure
 
 #### Définissez la pièce qui convient.
 
@@ -1419,8 +1417,6 @@ Finition superficielle Exigences de revêtement et d’acceptation de l’État
 Quantité et délais Confirmé lors du devis
 
 Vérification Convenez de la portée de l'inspection avant de commander
-
-Aucune réclamation universelle en matière de taille, de tolérance, de matériau ou de délai de livraison n’est implicite.
 
 LECTURE TECHNIQUE CONNEXE
 
@@ -1714,9 +1710,7 @@ CONÇU POUR LA RÉTENTION
 
 Conceptions de vis orientées rétention. Partagez l'assemblage de raccordement afin que les fonctions de retenue puissent être examinées ensemble.
 
-Demander une révision de dessins techniques ↗ Famille de produits illustrative. Les spécifications finales et la disponibilité nécessitent une confirmation.
-
-Vis imperdables
+Demander une révision de dessins techniques ↗ Vis imperdables
 
 #### Définissez la pièce qui convient.
 
@@ -1747,8 +1741,6 @@ Finition superficielle Exigences de revêtement et d’acceptation de l’État
 Quantité et délais Confirmé lors du devis
 
 Vérification Convenez de la portée de l'inspection avant de commander
-
-Aucune réclamation universelle en matière de taille, de tolérance, de matériau ou de délai de livraison n’est implicite.
 
 LECTURE TECHNIQUE CONNEXE
 
@@ -1823,9 +1815,7 @@ GÉOMÉTRIE SPÉCIFIQUE À L'APPLICATION
 
 Géométries alternatives de tête et d'entraînement pour répondre aux exigences d'accès, de dégagement et d'assemblage.
 
-Demander une révision de dessins techniques ↗ Famille de produits illustrative. Les spécifications finales et la disponibilité nécessitent une confirmation.
-
-Vis à tête spéciale
+Demander une révision de dessins techniques ↗ Vis à tête spéciale
 
 #### Définissez la pièce qui convient.
 
@@ -1856,8 +1846,6 @@ Finition superficielle Exigences de revêtement et d’acceptation de l’État
 Quantité et délais Confirmé lors du devis
 
 Vérification Convenez de la portée de l'inspection avant de commander
-
-Aucune réclamation universelle en matière de taille, de tolérance, de matériau ou de délai de livraison n’est implicite.
 
 LECTURE TECHNIQUE CONNEXE
 
@@ -4680,6 +4668,28 @@ Notre Guide de préparation des appels d'offres explique pourquoi ces détails s
 
 Examen dimensions des vis à épaulement ou questions de conception de vis imperdables pour des considérations spécifiques au produit.
 
+#### Ce que chaque point nous apprend
+
+Chaque ligne répond à une question qui reviendrait sinon par e-mail. Si un point reste ouvert, dites-le : un manque signalé est plus utile qu’une supposition.
+
+Point de la check-list Pourquoi c’est important Si ce n’est pas encore figé
+
+dessin ou croquis technique, numéro du dessin technique et révision Relie le devis, les échantillons et les commandes suivantes à une seule révision maîtrisée. Envoyez le croquis actuel ou des photos d’échantillon en les marquant comme provisoires.
+
+Unités, dimensions hors tout et spécification du filetage Détermine la taille du lopin, la gamme de frappe ou de décolletage et les calibres de filetage. Indiquez la taille nominale et le filetage, et signalez les cotes encore ouvertes.
+
+Caractéristiques critiques, tolérances et assemblage d'accouplement Montre quelles caractéristiques pilotent la fonction, donc le coût et l’effort de contrôle. Décrivez les pièces associées et la façon dont la vis est montée ou entretenue.
+
+Qualité du matériau ou exigences d'application Détermine le comportement à la frappe, le traitement thermique et la matière disponible. Décrivez l’environnement, les charges et les métaux en contact pour que des options soient proposées.
+
+Finition de surface et toutes exigences d'acceptation L’épaisseur du revêtement et le frottement influencent l’ajustement du filetage, l’épaulement et le serrage. Indiquez le but de la finition (corrosion, aspect ou frottement) et toute norme client.
+
+Quantité de prototype et quantité de production Décide si l’outillage se justifie et quelle gamme est économique. Donnez une fourchette, par exemple des échantillons maintenant et un volume annuel estimé.
+
+Exemple de documentation d’approbation et d’inspection Définit les preuves qui accompagnent les échantillons et les lots de série. Indiquez-nous les enregistrements que votre service qualité exige habituellement.
+
+Destination et date de livraison demandée Influence l’emballage, le mode d’expédition et le planning que nous confirmons. Indiquez les dates cibles pour les échantillons et pour le premier lot de série.
+
 #### Échantillonnage, outillage et planification de la production
 
 Le délai habituel d’outillage et d’échantillonnage est d’environ 10–15 jours. Il est confirmé après revue du plan, de la matière, de la géométrie, de la finition et des contrôles. Préciser le départ au devis ; la livraison de série est convenue séparément selon quantité et gamme approuvée.
@@ -4714,6 +4724,24 @@ Entraînement combiné Deux géométries d'entraînement définies dans une seul
 Poignée moletée Modèle droit ou en losange pour un fonctionnement manuel Dimensions de la poignée et si une douille supplémentaire est nécessaire
 
 Les disques inviolables découragent les accès occasionnels ; ils ne garantissent pas qu'une attache ne puisse pas être retirée. La capacité de couple et le comportement de sortie de came dépendent du profil, de l'outil, du matériau et de l'engagement réels.
+
+#### Mettez l’empreinte sur le plan.
+
+Le nom d’une empreinte définit rarement l’ajustement de l’outil. Ces données permettent d’examiner l’empreinte avec la géométrie de tête, la matière et la finition.
+
+Indiquez le type et la taille d’empreinte et la norme applicable, par exemple ISO 10664 pour l’hexalobulaire ou ISO 4757 pour l’empreinte cruciforme.
+
+Pour une empreinte spéciale ou de sécurité, fournissez le plan de l’empreinte ou la référence d’outil utilisée sur votre ligne.
+
+Indiquez la profondeur minimale d’empreinte ou le calibre de pénétration lorsque l’engagement compte pour le serrage.
+
+Montrez l’accès de l’outil : dégagement de tête, angle d’approche et parois voisines.
+
+Indiquez la méthode de serrage et la plage de couple pour examiner ensemble l’empreinte et la matière.
+
+Précisez le traitement du revêtement dans l’empreinte, car une surépaisseur peut modifier l’ajustement de l’outil.
+
+Convenez du contrôle de l’empreinte, par exemple avec un calibre entre/n’entre pas ou l’outil de service.
 
 #### Appliquez l'interface à la pièce.
 

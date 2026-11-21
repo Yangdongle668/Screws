@@ -1386,9 +1386,7 @@ BUILT AROUND YOUR DRAWING
 
 Non-standard screw designs with head, drive, thread and length requirements defined by your application.
 
-Request a drawing review ↗ Illustrative product family. Final specifications and availability require confirmation.
-
-Custom Metal Screws
+Request a drawing review ↗ Custom Metal Screws
 
 #### Define the part that fits.
 
@@ -1419,8 +1417,6 @@ Surface finish State coating and acceptance requirements
 Quantity & timing Confirmed during quotation
 
 Verification Agree inspection scope before ordering
-
-No universal size, tolerance, material or lead-time claim is implied.
 
 RELATED TECHNICAL READING
 
@@ -1714,9 +1710,7 @@ DESIGNED FOR RETENTION
 
 Retention-oriented screw designs. Share the mating assembly so the retaining features can be reviewed together.
 
-Request a drawing review ↗ Illustrative product family. Final specifications and availability require confirmation.
-
-Captive Screws
+Request a drawing review ↗ Captive Screws
 
 #### Define the part that fits.
 
@@ -1747,8 +1741,6 @@ Surface finish State coating and acceptance requirements
 Quantity & timing Confirmed during quotation
 
 Verification Agree inspection scope before ordering
-
-No universal size, tolerance, material or lead-time claim is implied.
 
 RELATED TECHNICAL READING
 
@@ -1823,9 +1815,7 @@ APPLICATION-SPECIFIC GEOMETRY
 
 Alternative head and drive geometries for access, clearance and assembly requirements.
 
-Request a drawing review ↗ Illustrative product family. Final specifications and availability require confirmation.
-
-Special Head Screws
+Request a drawing review ↗ Special Head Screws
 
 #### Define the part that fits.
 
@@ -1856,8 +1846,6 @@ Surface finish State coating and acceptance requirements
 Quantity & timing Confirmed during quotation
 
 Verification Agree inspection scope before ordering
-
-No universal size, tolerance, material or lead-time claim is implied.
 
 RELATED TECHNICAL READING
 
@@ -4680,6 +4668,28 @@ Our RFQ preparation guide explains why these details matter.
 
 Review shoulder screw dimensions or captive screw design questions for product-specific considerations.
 
+#### What each item tells us
+
+Each line answers a question that otherwise comes back as a follow-up email. If something is still open, say so; a marked gap is more useful than a guess.
+
+Checklist item Why it matters If it is not final yet
+
+Drawing or sketch, drawing number and revision Ties the quotation, samples and later orders to one controlled revision. Send the current sketch or sample photos and mark them as preliminary.
+
+Units, overall dimensions and thread specification Sets the blank size, the forming or turning route and the thread gauges. Give the nominal size and thread, and mark the dimensions that are still open.
+
+Critical features, tolerances and mating assembly Shows which features control function, and therefore cost and inspection effort. Describe the mating parts and how the screw is assembled or serviced.
+
+Material grade or application requirements Determines forming behaviour, heat treatment and available stock. Describe the environment, loading and contact metals so options can be proposed.
+
+Surface finish and any acceptance requirements Coating thickness and friction affect thread fit, shoulder size and tightening. State the purpose of the finish (corrosion, appearance or friction) and any customer standard.
+
+Prototype quantity and production quantity Decides whether tooling is justified and which route is economical. Give an expected range, for example samples now and an estimated annual volume.
+
+Sample approval and inspection documentation Defines the evidence that ships with samples and production lots. Tell us which records your quality team normally requires.
+
+Destination and requested delivery date Affects packaging, shipping method and the schedule we confirm. Give target dates for samples and for the first production lot.
+
 #### Sampling, tooling and production planning
 
 Typical sampling lead time, including tooling, is approximately 10–15 days. The confirmed schedule follows drawing review and agreement on material, geometry, surface treatment and inspection requirements. Clarify the starting milestone in the quotation. Repeat-production delivery is quoted separately for the quantity and approved route.
@@ -4714,6 +4724,24 @@ Combination drive Two defined drive geometries in one head Show both interfaces 
 Knurled hand grip Straight or diamond pattern for manual operation Grip dimensions and whether an additional socket is needed
 
 Tamper-resistant drives discourage casual access; they do not guarantee that a fastener cannot be removed. Torque capacity and cam-out behavior depend on the actual profile, tool, material and engagement.
+
+#### Put the drive on the drawing.
+
+A drive name alone rarely defines tool fit. These inputs let the recess be reviewed together with the head geometry, material and finish.
+
+Name the drive family and size, and cite the standard where one applies, for example ISO 10664 for hexalobular recesses or ISO 4757 for cross recesses.
+
+For a special or security drive, supply the recess drawing or the tool reference used on your assembly line.
+
+State the minimum recess depth or penetration gauge where engagement matters for tightening.
+
+Show tool access: head clearance, approach angle and any surrounding walls.
+
+Give the tightening method and torque range so the recess and material can be reviewed together.
+
+Note how plating or coating is treated in the recess, because build-up can change tool fit.
+
+Agree how the recess is inspected, for example with a go/no-go gauge or the service tool.
 
 #### Apply the interface to the part.
 

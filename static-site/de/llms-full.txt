@@ -1386,9 +1386,7 @@ ENTWICKELT RUND UM IHRE technische Zeichnung
 
 Nicht standardmäßige Schraubenkonstruktionen mit Kopf-, Antriebs-, Gewinde- und Längenanforderungen, die durch Ihre Anwendung definiert werden.
 
-Fordern Sie eine Überprüfung der technischen Zeichnung an ↗ Illustrative Produktfamilie. Endgültige Spezifikationen und Verfügbarkeit bedürfen der Bestätigung.
-
-Metallschrauben nach Zeichnung
+Fordern Sie eine Überprüfung der technischen Zeichnung an ↗ Metallschrauben nach Zeichnung
 
 #### Definieren Sie das passende Teil.
 
@@ -1419,8 +1417,6 @@ Oberflächenbeschaffenheit Staatliche Beschichtungs- und Abnahmeanforderungen
 Menge und Zeitpunkt Beim Angebot bestätigt
 
 Überprüfung Vereinbaren Sie vor der Bestellung den Prüfumfang
-
-Es besteht kein allgemeingültiger Anspruch auf Größe, Toleranz, Material oder Lieferzeit.
 
 VERWANDTE TECHNISCHE LESUNG
 
@@ -1714,9 +1710,7 @@ FÜR DIE AUFBEWAHRUNG ENTWICKELT
 
 Retentionsorientierte Schraubenkonstruktionen. Geben Sie die passende Baugruppe frei, damit die Haltemerkmale gemeinsam überprüft werden können.
 
-Fordern Sie eine Überprüfung der technischen Zeichnung an ↗ Illustrative Produktfamilie. Endgültige Spezifikationen und Verfügbarkeit bedürfen der Bestätigung.
-
-Unverlierbare Schrauben
+Fordern Sie eine Überprüfung der technischen Zeichnung an ↗ Unverlierbare Schrauben
 
 #### Definieren Sie das passende Teil.
 
@@ -1747,8 +1741,6 @@ Oberflächenbeschaffenheit Staatliche Beschichtungs- und Abnahmeanforderungen
 Menge und Zeitpunkt Beim Angebot bestätigt
 
 Überprüfung Vereinbaren Sie vor der Bestellung den Prüfumfang
-
-Es besteht kein allgemeingültiger Anspruch auf Größe, Toleranz, Material oder Lieferzeit.
 
 VERWANDTE TECHNISCHE LESUNG
 
@@ -1823,9 +1815,7 @@ ANWENDUNGSSPEZIFISCHE GEOMETRIE
 
 Alternative Kopf- und Antriebsgeometrien für Zugangs-, Freiraum- und Montageanforderungen.
 
-Fordern Sie eine Überprüfung der technischen Zeichnung an ↗ Illustrative Produktfamilie. Endgültige Spezifikationen und Verfügbarkeit bedürfen der Bestätigung.
-
-Schrauben mit Sonderkopf
+Fordern Sie eine Überprüfung der technischen Zeichnung an ↗ Schrauben mit Sonderkopf
 
 #### Definieren Sie das passende Teil.
 
@@ -1856,8 +1846,6 @@ Oberflächenbeschaffenheit Staatliche Beschichtungs- und Abnahmeanforderungen
 Menge und Zeitpunkt Beim Angebot bestätigt
 
 Überprüfung Vereinbaren Sie vor der Bestellung den Prüfumfang
-
-Es besteht kein allgemeingültiger Anspruch auf Größe, Toleranz, Material oder Lieferzeit.
 
 VERWANDTE TECHNISCHE LESUNG
 
@@ -4680,6 +4668,28 @@ Unser Leitfaden zur RFQ-Vorbereitung erklärt, warum diese Details wichtig sind.
 
 Rezension Abmessungen der Schulterschraube oder Fragen zum Design unverlierbarer Schrauben für produktspezifische Überlegungen.
 
+#### Was jeder Punkt uns sagt
+
+Jede Zeile beantwortet eine Frage, die sonst als Rückfrage per E-Mail käme. Ist etwas noch offen, sagen Sie es; eine markierte Lücke hilft mehr als eine Vermutung.
+
+Checklistenpunkt Warum es wichtig ist Wenn es noch nicht feststeht
+
+technische Zeichnung oder Skizze, technische Zeichnungsnummer und Revision Bindet Angebot, Muster und spätere Aufträge an einen gelenkten Revisionsstand. Aktuelle Skizze oder Musterfotos senden und als vorläufig kennzeichnen.
+
+Einheiten, Gesamtabmessungen und Gewindespezifikation Legt Rohlingsgröße, Umform- oder Drehweg und die Gewindelehren fest. Nenngröße und Gewinde angeben und noch offene Maße kennzeichnen.
+
+Kritische Merkmale, Toleranzen und passende Montage Zeigt, welche Merkmale die Funktion bestimmen – und damit Kosten und Prüfaufwand. Gegenstücke beschreiben und wie die Schraube montiert oder gewartet wird.
+
+Materialqualität oder Anwendungsanforderungen Bestimmt Umformverhalten, Wärmebehandlung und verfügbares Vormaterial. Umgebung, Belastung und Kontaktwerkstoffe beschreiben, damit Optionen vorgeschlagen werden können.
+
+Oberflächenbeschaffenheit und etwaige Abnahmeanforderungen Schichtdicke und Reibung beeinflussen Gewindepassung, Schulterdurchmesser und Anzug. Zweck der Oberfläche (Korrosion, Optik oder Reibung) und eventuelle Kundennorm nennen.
+
+Prototypenmenge und Produktionsmenge Entscheidet, ob sich Werkzeug lohnt und welcher Fertigungsweg wirtschaftlich ist. Eine erwartete Spanne angeben, z. B. jetzt Muster und ein geschätztes Jahresvolumen.
+
+Musterfreigabe und Prüfdokumentation Legt fest, welche Nachweise mit Mustern und Serienlosen geliefert werden. Teilen Sie mit, welche Aufzeichnungen Ihre Qualitätsabteilung üblicherweise verlangt.
+
+Zielort und gewünschter Liefertermin Beeinflusst Verpackung, Versandart und den Terminplan, den wir bestätigen. Zieltermine für Muster und für das erste Serienlos angeben.
+
 #### Bemusterung, Werkzeugbau und Produktionsplanung
 
 Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung von Werkstoff, Geometrie, Oberfläche und Prüfung bestätigt. Den Startpunkt im Angebot festlegen; Serienlieferungen werden nach Stückzahl und freigegebener Route separat terminiert.
@@ -4714,6 +4724,24 @@ Kombiantrieb Zwei definierte Antriebsgeometrien in einem Kopf Zeigen Sie beide S
 Gerändelter Handgriff Gerades oder rautenförmiges Muster für manuellen Betrieb Griffmaße und ob eine zusätzliche Steckdose benötigt wird
 
 Manipulationssichere Laufwerke erschweren zufälligen Zugriff; Sie garantieren nicht, dass ein Befestigungselement nicht entfernt werden kann. Drehmomentkapazität und Nockenverhalten hängen vom tatsächlichen Profil, Werkzeug, Material und Eingriff ab.
+
+#### Den Antrieb in die Zeichnung aufnehmen.
+
+Ein Antriebsname allein definiert die Werkzeugpassung selten. Mit diesen Angaben lässt sich der Antrieb zusammen mit Kopfgeometrie, Werkstoff und Oberfläche prüfen.
+
+Antriebsart und Größe nennen und, wo zutreffend, die Norm angeben, z. B. ISO 10664 für Innensechsrund oder ISO 4757 für Kreuzschlitze.
+
+Bei Sonder- oder Sicherheitsantrieben die Antriebszeichnung oder die an Ihrer Montagelinie verwendete Werkzeugreferenz beilegen.
+
+Mindesttiefe des Antriebs oder Eindringlehre angeben, wenn der Eingriff für den Anzug wichtig ist.
+
+Werkzeugzugang zeigen: Freiraum am Kopf, Ansatzwinkel und umgebende Wände.
+
+Anzugsverfahren und Drehmomentbereich angeben, damit Antrieb und Werkstoff gemeinsam geprüft werden.
+
+Angeben, wie Beschichtung im Antrieb behandelt wird, da Schichtaufbau die Werkzeugpassung verändern kann.
+
+Prüfung des Antriebs vereinbaren, z. B. mit Gut-/Schlecht-Lehre oder dem Servicewerkzeug.
 
 #### Wenden Sie die Schnittstelle auf das Teil an.
 
