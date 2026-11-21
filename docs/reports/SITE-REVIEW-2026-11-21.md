@@ -216,3 +216,5 @@
 - 新增 `docs/reports/AI-VISIBILITY-CHECKLIST.md`：15 个目标问题与月度记录表。
 - 四篇对比型文章（冷镦 vs CNC、滚丝 vs 切丝、镀镍 vs 钝化、抽检 vs 全检）新增“一览”对比表，六语言；源在 `scripts/comparison-tables.mjs`，译文在 `scripts/comparison-localization.mjs`。
 - 已确认：线上文章目前由静态生成页面输出（第一批改动的搜索标题已生效）。若某篇文章今后在后台重新发布，则以后台版本为准，模板改动需通过后台或校订包同步。
+- 8 篇高潜力文章（台阶螺丝图纸、RFQ 清单、冷镦 vs CNC、滚丝 vs 切丝、锌铝涂层、氢脆、紧定螺丝端型、价格因素）在标题下新增“简短回答”，概括正文结论，六语言；源在 `scripts/short-answers.mjs`。
+- 文章署名行和作者框由“ZUFEK Technical Editorial”改为“Engineering Lead, ZUFEK”；删除前端字典中已不再使用的“pen name”词条。

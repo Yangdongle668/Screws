@@ -8853,7 +8853,9 @@ APPALTI / 3 LETTURA MIN
 
 Un preventivo utile richiede specifiche chiare. Il disegno è il punto di partenza migliore, ma campioni, schizzi o descrizioni del montaggio aiutano a chiarire i punti aperti.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Viti metalliche su disegno
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Risposta breve Inviate il disegno con numero e revisione, materiale, finitura, caratteristiche critiche e relativi accoppiamenti, quantità di prototipo e serie, registrazioni di controllo richieste, destinazione e date obiettivo. Segnalate ciò che resta aperto invece di lasciarlo ambiguo.
+
+Viti metalliche su disegno
 
 IN QUESTA GUIDA Inizia con il disegno tecnico e la revisione Identifica le caratteristiche che contano Specificare materiale e finitura separatamente Includere la quantità e il contesto di consegna La tua lista di controllo della richiesta di offerta Separare i requisiti obbligatori dagli elementi di discussione Utilizza un foglio di confronto dei preventivi Chiudere la revisione con una decisione di rilascio PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -8895,7 +8897,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -8929,7 +8931,9 @@ DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Viti a spallamento e a gradini
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Risposta breve Quotare diametro e lunghezza dello spallamento separatamente dal filetto, dare allo spallamento una tolleranza di accoppiamento con il foro e indicare designazione del filetto, gola e accesso alla testa. Verificare catena assiale e gioco diametrale a entrambi i limiti e indicare se valgono prima o dopo il rivestimento.
+
+Viti a spallamento e a gradini
 
 IN QUESTA GUIDA Definisci la spalla Mostra come finisce il thread Esaminare l'accesso della testa e i posti a sedere Comunicare le tolleranze funzionali Disegna la pila di assemblaggio, non solo la vite Scegli i riferimenti che corrispondono alla funzione di localizzazione Approvare la superficie finale fornita Esempio: calcolare separatamente il gioco diametrale PRODOTTO CORRELATO Viti per spalla e gradino ↗
 
@@ -8977,7 +8981,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9035,7 +9039,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Viti imperdibili
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Viti imperdibili
 
 IN QUESTA GUIDA Cosa trattiene la vite? Quanto movimento è necessario? Cosa succede durante il servizio? Come verrà verificato l'assemblaggio? Cosa dovrebbe accompagnare la richiesta di offerta? Esempio: aprire un pannello di servizio senza perdere la vite PRODOTTO CORRELATO Viti imperdibili ↗
 
@@ -9075,7 +9079,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9121,7 +9125,7 @@ MATERIALI E FINITURE / 2 MIN READ
 
 La selezione dei materiali inizia con l'ambiente di servizio e i requisiti meccanici. Le migliori specifiche bilanciano funzionalità, producibilità, disponibilità e verifica.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Viti metalliche su disegno
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Viti metalliche su disegno
 
 IN QUESTA GUIDA Descrivi prima l'ambiente Definire i requisiti meccanici Trattare la finitura come parte del sistema Confermare le esigenze di documentazione Confrontare le alternative con un insieme di requisiti Controllare il costo della condizione finita Approvare deliberatamente le sostituzioni PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -9159,7 +9163,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9193,7 +9197,9 @@ APPALTI / 2 LETTURA MIN
 
 Un preventivo personalizzato per le viti riflette le specifiche complete e le condizioni dell'ordine. Comprendere i fattori di costo può rendere più produttiva la revisione del progetto.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Viti a testa speciale
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Risposta breve Il prezzo di una vite speciale dipende soprattutto da geometria e ciclo produttivo, attrezzatura e setup, tolleranze e controlli richiesti, materiale, lavorazioni secondarie e finitura, e dimensione del lotto. L’attrezzatura è un costo una tantum; chiedete quali caratteristiche incidono sul costo ricorrente prima di modificare il disegno.
+
+Viti a testa speciale
 
 IN QUESTA GUIDA Geometria e percorso di produzione Tolleranza e ispezione Materiale, finitura e volume dell'ordine Discutere i cambiamenti prima di rivedere Separare le operazioni ricorrenti dagli investimenti una tantum Identificare la caratteristica che determina i costi prima di modificarla Citare il passaggio dal campione alla fornitura ripetuta PRODOTTO CORRELATO Viti a testa speciale ↗
 
@@ -9231,7 +9237,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9289,7 +9295,7 @@ QUALITÀ / 2 LETTURA MIN
 
 Costruisci un piano di ispezione una caratteristica alla volta. Per ciascun requisito di disegno, registrare la condizione di accettazione, un metodo adeguato, la fase e la copertura dell'ispezione e le prove conservate. Le righe lavorate sotto mostrano come trasformare il disegno di una vite a spallamento in un registro di ispezione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 · Aggiornato 2026-11-02 Viti a spallamento e a gradini
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 · Aggiornato 2026-11-02 Viti a spallamento e a gradini
 
 IN QUESTA GUIDA Inizia con il requisito rilasciato Utilizzare l'esempio senza copiare ciecamente un ambito di test Definire la copertura e la reazione prima della produzione Registrare il risultato e la decisione di rilascio PRODOTTO CORRELATO Viti per spalla e gradino ↗
 
@@ -9351,7 +9357,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9409,7 +9415,9 @@ PRODUZIONE / 2 LETTURA MIN
 
 Scegli la sequenza del processo di produzione in base alla geometria, alla quantità, al materiale e alle condizioni richieste. Un costo del ciclo inferiore non sempre compensa l'attrezzatura o il lavoro secondario.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Risposta breve Lo stampaggio a freddo è adatto di solito a volumi ripetuti che giustificano le matrici e a forme stampabili come teste, flange e gradini. La tornitura CNC è adatta a prototipi, piccoli lotti ed elementi come fori profondi o trasversali. Molti pezzi combinano entrambi: confrontate cicli completi sulla stessa specifica finale.
+
+Stampaggio a freddo multistazione
 
 IN QUESTA GUIDA Inizia con il volume di ripetizione Separare la forma sfusa dai dettagli funzionali Controllare i requisiti relativi al materiale e all'accettazione Rivedi il percorso completo Costruisci un confronto del percorso attorno alla stessa specifica finita Chiedi cosa cambia tra prototipo e produzione Risolvere la geometria prima di impegnare l'utensileria PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -9447,7 +9455,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9501,7 +9509,9 @@ MATERIALI E FINITURE / 2 MIN READ
 
 Un elemento di fissaggio in acciaio ad alta resistenza necessita di una decisione sul rivestimento che consideri sia la corrosione che l'esposizione all'idrogeno durante tutta la lavorazione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Trattamento termico specifico per il materiale
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Risposta breve Per l’acciaio ad alta resistenza valutare l’esposizione all’idrogeno lungo tutto il ciclo — pulizia, decapaggio ed elettrodeposizione — e non solo il nome del rivestimento. I sistemi non elettrolitici come il lamellare di zinco evitano la deposizione elettrolitica e la deidrogenazione può ridurre il rischio, ma nessuno dei due è una garanzia. Definire controlli e verifiche prima dell’ordine.
+
+Trattamento termico specifico per il materiale
 
 IN QUESTA GUIDA Identificare la condizione sensibile Definire un sistema di rivestimento Comprendi il limite della cottura Scrivi una richiesta di offerta utile Mappa la potenziale esposizione lungo l'intero percorso Definire le prove prima dell'ordine Mantieni corrosione, attrito e adattamento nella stessa recensione PRODOTTO CORRELATO Viti per spalla e gradino ↗
 
@@ -9539,7 +9549,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9607,7 +9617,7 @@ MATERIALI E FINITURE / 2 MIN READ
 
 Gli inox comprendono più famiglie. Specificare grado e stato finale invece di prescrivere un trattamento termico generico.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Trattamento termico specifico per il materiale
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Trattamento termico specifico per il materiale
 
 IN QUESTA GUIDA Distinguere i gradi austenitici da quelli indurenti per precipitazione Dichiarare lo scopo del trattamento risolutivo Definire la condizione finale di 17-4PH Coordinare finitura e verifica Scopri cosa significa il disegno tecnico per acciaio inossidabile ad alta resistenza Separare il trattamento del materiale dal trattamento della superficie Esaminare il grippaggio dell'assemblaggio come meccanismo separato PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -9645,7 +9655,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9691,7 +9701,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
 
 IN QUESTA GUIDA Separare la spalla liscia e il filetto Identificare la relazione di accoppiamento Specificare la macinazione solo con una motivazione Ispezionare dopo la relativa fase di finitura Confrontare i limiti con il foro di accoppiamento effettivo Trasforma la selezione finale in una discussione sulle capacità Mantenere controlli di accettazione indipendenti PRODOTTO CORRELATO Viti per spalla e gradino ↗
 
@@ -9729,7 +9739,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9795,7 +9805,7 @@ DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Stampaggio a freddo multistazione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Stampaggio a freddo multistazione
 
 IN QUESTA GUIDA Identificare l'interfaccia esatta Definire l'accesso alla testa e all'utensile Esaminare le caratteristiche di perni e rientranze Separare la resistenza di accesso dalle prestazioni del giunto Esempio: distinguere adattamento dell’utensile e accessibilità PRODOTTO CORRELATO Viti di sicurezza antimanomissione ↗
 
@@ -9847,7 +9857,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -9903,7 +9913,7 @@ DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Descrivi l'intero passaggio Rivedere lo spessore della parete con la filettatura Requisiti di bordo e pulizia dello stato Definire i test funzionali separatamente Esempio: includere il disassamento nel calcolo della parete PRODOTTO CORRELATO Viti cave e con foro passante ↗
 
@@ -9955,7 +9965,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10017,7 +10027,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Stampaggio a freddo multistazione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Stampaggio a freddo multistazione
 
 IN QUESTA GUIDA Inizia con la superficie di accoppiamento Dimensionare la flangia come elemento funzionale Scegli deliberatamente la condizione del viso Includere le condizioni di finitura e serraggio Esempio: confrontare flangia integrata e assieme con rondella PRODOTTO CORRELATO Viti flangiate su disegno ↗
 
@@ -10069,7 +10079,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10131,7 +10141,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Una vite regolata manualmente deve essere accessibile, comoda da impugnare e compatibile con la regolazione richiesta. La struttura della testa da sola non definisce il funzionamento del meccanismo.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Descrivi il modo in cui viene gestito Specificare la zigrinatura anziché l'aspetto Collegare il passo al requisito di regolazione Decidere se è necessaria un'unità di servizio PRODOTTO CORRELATO Viti zigrinate e di regolazione ↗
 
@@ -10173,7 +10183,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10235,7 +10245,9 @@ DESIGN E DIMENSIONI / 3 LETTURA MIN
 
 Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato il 29 ottobre 2026 · Aggiornato 2026-11-03 Risposta breve Scegliete la punta in base al contatto con il pezzo accoppiato. La punta a coppa morde l’albero e lascia un segno, quella conica si inserisce in una sede forata, quella piana segna poco ed è adatta a regolazioni frequenti, quella cilindrica posiziona in un foro o in una cava. Poi verificate tenuta e segno sul giunto reale.
+
+Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Scegli prima il meccanismo di contatto Lavora attraverso un esempio di arresto regolabile Posizione separata dal bloccaggio per attrito Rilascia un punto e un piano di verifica Preparare un verbale di accettazione delle regolazioni ripetute PRODOTTO CORRELATO Viti di fermo e grani personalizzati ↗
 
@@ -10305,7 +10317,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10365,7 +10377,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Una testa a T deve entrare, girare o scorrere all'interno della fessura prevista mantenendo il contatto richiesto. La sezione trasversale dell'asola è quindi una parte essenziale della richiesta di offerta di dispositivi di fissaggio.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
 
 IN QUESTA GUIDA Fornisci la sezione completa dello slot Spiegare il metodo di inserimento Rivedere il contatto e l'antirotazione Controllare lo stato finito PRODOTTO CORRELATO Bulloni per cave a T su disegno ↗
 
@@ -10407,7 +10419,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10457,7 +10469,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Un'estremità a forma di occhio può appartenere ad un collegamento, ad un dispositivo di tensionamento o ad un componente di sollevamento. Un aspetto simile non stabilisce gli stessi requisiti di progettazione o l'uso approvato.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Ricalcatura e forgiatura a caldo
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Ricalcatura e forgiatura a caldo
 
 IN QUESTA GUIDA Definire prima la funzione prevista Mostra l'articolazione e la direzione del carico Trattare esplicitamente i requisiti di sollevamento Preparare una revisione completa della produzione PRODOTTO CORRELATO Bulloni a occhio e articolati su disegno ↗
 
@@ -10499,7 +10511,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10549,7 +10561,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 La larghezza interna, la forma della piega e l'allineamento delle gambe determinano se un bullone a U si adatta al componente supportato. Un chiaro disegno tecnico separa queste caratteristiche dalla connessione filettata.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
 
 IN QUESTA GUIDA Identificare il componente da bloccare Dimensione da riferimenti coerenti Esaminare la flessione e le condizioni del materiale Includere il resto dell'articolazione PRODOTTO CORRELATO Cavallotti a U su disegno ↗
 
@@ -10591,7 +10603,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10629,7 +10641,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Il collo quadrato è la caratteristica antirotazione funzionale di un bullone a testa tonda. Dovrebbe essere abbinato al foro di accoppiamento e al materiale di supporto piuttosto che trattato come un dettaglio estetico.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
 
 IN QUESTA GUIDA Definire il foro di accoppiamento Controlla la profondità e la transizione del collo Esaminare la testa a cupola e la superficie del cuscinetto Concordare l'adattamento finito PRODOTTO CORRELATO Bulloni del carrello personalizzati ↗
 
@@ -10671,7 +10683,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10709,7 +10721,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Una caratteristica eccentrica necessita di un asse di riferimento chiaro. Senza uno schema di riferimento, due produttori possono interpretare in modo diverso un disegno tecnico di offset apparentemente semplice.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Identificare l'asse funzionale Definire l'offset e l'orientamento angolare Descrivi il contatto di accoppiamento Scegliere un'impostazione di ispezione che segua la funzione PRODOTTO CORRELATO Viti eccentriche e a testa inclinata ↗
 
@@ -10751,7 +10763,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10801,7 +10813,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Diversi thread alle due estremità possono risolvere un problema di interfaccia e creare un problema di identificazione. Il disegno tecnico, il piano di ispezione e l'imballaggio dovrebbero distinguere chiaramente ciascuna estremità.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Specificare le due estremità in modo indipendente Spiega la sezione centrale Pianificare l'identificazione prima dell'imballaggio Valuta e rivedi entrambe le interfacce PRODOTTO CORRELATO Prigionieri a doppia estremità su disegno ↗
 
@@ -10843,7 +10855,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10905,7 +10917,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Una sezione centrale stretta modifica la geometria di una connessione filettata. Il suo scopo e i dettagli della transizione devono essere definiti prima di selezionare la sequenza del processo di produzione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Indicare lo scopo della sezione ridotta Dimensionare l'intera transizione Esaminare le proprietà con l'ingegnere responsabile Ispezionare le condizioni della fornitura PRODOTTO CORRELATO Viti con gambo ridotto o a diametro variabile ↗
 
@@ -10947,7 +10959,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -10985,7 +10997,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Una rastremazione funziona contro una superficie corrispondente. Il suo angolo, la posizione assiale e il rapporto con la filettatura devono essere considerati con il componente di accoppiamento.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Descrivi lo scopo del tapering Utilizzare una definizione dimensionale completa Mettere in relazione la rastremazione con la filettatura e i riferimenti Concordare un metodo di verifica utile PRODOTTO CORRELATO Viti con gambo e cono conico ↗
 
@@ -11027,7 +11039,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11077,7 +11089,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Combinando un piccolo perno di posizionamento con una vite si possono ridurre i componenti separati, ma le funzioni di posizionamento e bloccaggio necessitano comunque di specifiche distinte.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Identificare quale funzione individua Definire la posizione e l'orientamento del perno Rivedere la sequenza di installazione Controllare la geometria funzionale completa PRODOTTO CORRELATO Viti con perno di posizionamento integrato ↗
 
@@ -11119,7 +11131,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11169,7 +11181,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Diverse spalle possono posizionare diversi componenti. Uno schema dimensionale chiaro spiega quali distanze assiali controllano l'assemblaggio e quali sono conseguenze di altre dimensioni.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Stampaggio a freddo e lavorazioni meccaniche secondarie
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Stampaggio a freddo e lavorazioni meccaniche secondarie
 
 IN QUESTA GUIDA Mappare la spalla su ciascun componente di accoppiamento Scegli uno schema di riferimento coerente Esamina le transizioni e l'accesso agli strumenti Ispezionare le relazioni rilevanti PRODOTTO CORRELATO Viti multi-step e multi-spalla ↗
 
@@ -11211,7 +11223,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11261,7 +11273,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Una connessione a pressione dipende dal pannello, dal foro e dal processo di installazione. Un perno personalizzato non può essere valutato come una forma filettata isolata.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Stampaggio a freddo multistazione
 
 IN QUESTA GUIDA Fornire le condizioni del pannello Definire la geometria del foro e della ritenzione Esaminare il supporto e l'installazione degli strumenti Specificare l'accettazione oltre l'apparenza PRODOTTO CORRELATO Viti e prigionieri autoaggancianti su disegno ↗
 
@@ -11303,7 +11315,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11341,7 +11353,9 @@ PRODUZIONE / 2 LETTURA MIN
 
 La generazione della filettatura è una scelta del processo, mentre la geometria e l'accettazione della filettatura sono requisiti del prodotto. Una richiesta di offerta completa spiega entrambi senza confondere il metodo con un risultato garantito.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Rullatura, taglio e maschiatura dei filetti
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Risposta breve La rullatura forma il filetto spostando materiale ed è comune nella produzione in serie; il taglio asporta materiale ed è adatto a passi grandi, piccoli lotti e filetti vicini a uno spallamento. Specificate prima designazione, classe e calibratura e indicate un metodo solo se è un requisito reale.
+
+Rullatura, taglio e maschiatura dei filetti
 
 IN QUESTA GUIDA Definire il filetto prima del metodo di produzione Rivedere il materiale e la sequenza proposta Evitare una classifica di forza universale Concordare il metodo di accettazione finito PRODOTTO CORRELATO Profili filettati speciali e compositi ↗
 
@@ -11383,7 +11397,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11455,7 +11469,7 @@ PRODUZIONE / 2 LETTURA MIN
 
 Un foro trasversale crea bordi di entrata e di uscita e può intersecare un altro elemento. La richiesta di offerta dovrebbe definire tali bordi con la stessa attenzione della posizione del foro.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
 
 IN QUESTA GUIDA Mostra ogni incrocio Specificare la condizione del bordo piuttosto che una nota vaga Rivedi il processo con l'accesso alle funzionalità Rendi pratica l'ispezione PRODOTTO CORRELATO Viti con foro trasversale o nella testa ↗
 
@@ -11497,7 +11511,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11547,7 +11561,7 @@ MATERIALI E FINITURE / 2 MIN READ
 
 Un rivestimento rientra nel piano dimensionale. La vestibilità finale deve essere valutata nelle condizioni in cui la riceve il cliente, non solo prima del trattamento superficiale.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Lavorazioni secondarie e di precisione
 
 IN QUESTA GUIDA Identificare le superfici che controllano l'adattamento Specificare il sistema di rivestimento attuale Risolvere la fase di ispezione Includere restrizioni di finitura locali PRODOTTO CORRELATO Viti per spalla e gradino ↗
 
@@ -11589,7 +11603,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11651,7 +11665,7 @@ MATERIALI E FINITURE / 2 MIN READ
 
 Un aspetto brillante non identifica un processo superficiale. Specificare il substrato e la funzione superficiale richiesta prima di scegliere tra placcatura, passivazione o altro trattamento.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Rivestimenti e trattamenti superficiali
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Rivestimenti e trattamenti superficiali
 
 IN QUESTA GUIDA Inizia con il materiale sottostante Distinguere lo scopo del processo Considerare gli effetti dimensionali e di assemblaggio Concordare prove e accettazione PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -11693,7 +11707,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11747,7 +11761,9 @@ MATERIALI E FINITURE / 2 MIN READ
 
 Il nome di una famiglia di rivestimenti non definisce la superficie completa fornita. Le richieste di offerta di dispositivi di fissaggio personalizzati dovrebbero collegare il sistema di rivestimento ai requisiti di adattamento, attrito e accettazione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Rivestimenti e trattamenti superficiali
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Risposta breve Indicate il sistema di rivestimento completo (strato base, eventuale top coat o sigillante e lubrificazione), la norma come ISO 10683, l’eventuale requisito di attrito del giunto, i filetti e le superfici di appoggio interessati e criteri di accettazione misurabili. Un nome commerciale da solo lascia aperte queste scelte.
+
+Rivestimenti e trattamenti superficiali
 
 IN QUESTA GUIDA Identificare il sistema completo Esaminare il materiale di base e il pretrattamento Includere il comportamento della filettatura e del cuscinetto Scrivere requisiti di accettazione misurabili PRODOTTO CORRELATO Viti flangiate su disegno ↗
 
@@ -11789,7 +11805,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11851,7 +11867,7 @@ QUALITÀ / 2 LETTURA MIN
 
 La pulizia diventa un requisito tecnico quando la contaminazione può compromettere l'assemblaggio. Definire cosa deve essere rimosso, come viene misurato e come viene protetta la condizione di pulizia.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
 
 IN QUESTA GUIDA Descrivere il problema della contaminazione Concordare il metodo e i criteri di accettazione Sbavatura separata dalla pulizia Proteggere il risultato attraverso la manipolazione PRODOTTO CORRELATO Viti cave e con foro passante ↗
 
@@ -11893,7 +11909,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -11955,7 +11971,7 @@ APPALTI / 2 LETTURA MIN
 
 Una funzione di bloccaggio preapplicata necessita di requisiti di materiale, posizione e assemblaggio definiti. Una toppa colorata mostrata in una fotografia non rappresenta una specifica completa.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
 
 IN QUESTA GUIDA Identificare il sistema di chiusura Definire l'area di applicazione Descrivere le condizioni di montaggio e di servizio Concordare la verifica e la gestione PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -11997,7 +12013,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12035,7 +12051,7 @@ APPALTI / 2 LETTURA MIN
 
 Una vite preassemblata viene fornita come piccolo assieme. La rondella, il metodo di ritenzione e la sequenza dei componenti necessitano dello stesso controllo della vite stessa.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
 
 IN QUESTA GUIDA Definire ogni componente fornito Mostra l'ordine e la conservazione dello stack Esaminare il trattamento e la compatibilità dei materiali Ispezionare il gruppo consegnato PRODOTTO CORRELATO Viti flangiate su disegno ↗
 
@@ -12077,7 +12093,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12139,7 +12155,7 @@ QUALITÀ / 3 LETTURA MIN
 
 L'ispezione dimensionale basata su telecamera può valutare le caratteristiche visibili di una vite, ma il programma di immagine, configurazione e ispezione deve soddisfare i requisiti. È una parte di un piano di accettazione completo.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
 
 IN QUESTA GUIDA Scegli le caratteristiche visibili da misurare Rivedere la presentazione e l'illuminazione Riconoscere ciò che l'immagine non stabilisce Convalidare e mantenere il programma di ispezione Convalida la presentazione e la visibilità dei bordi Definire la copertura e la gestione degli scarti Abbina i controlli ottici ai metodi mancanti PRODOTTO CORRELATO Viti per spalla e gradino ↗
 
@@ -12193,7 +12209,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12261,7 +12277,7 @@ QUALITÀ / 2 LETTURA MIN
 
 Un campione è particolarmente utile quando la sua identità, revisione e ambito di accettazione sono chiari. La pianificazione del primo articolo collega il disegno tecnico approvato con le prove necessarie prima della successiva decisione di produzione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
 
 IN QUESTA GUIDA Collegare il campione a una specifica controllata Definire le prove prima di realizzare le parti Approvazione visiva e funzionale separata Chiudi il ciclo di feedback PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -12303,7 +12319,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12341,7 +12357,7 @@ QUALITÀ / 2 LETTURA MIN
 
 La copertura dell'ispezione dovrebbe seguire il piano delle caratteristiche e dell'accettazione. Dire che una vite non standard necessita di un'ispezione completa lascia indefiniti il ​​metodo, le caratteristiche e le prove.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
 
 IN QUESTA GUIDA Classificare le caratteristiche Definire cosa significa ispezione completa Concordare il campionamento come piano documentato Mantieni collegati il controllo del processo e l'accettazione PRODOTTO CORRELATO Viti multi-step e multi-spalla ↗
 
@@ -12383,7 +12399,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12449,7 +12465,7 @@ QUALITÀ / 2 LETTURA MIN
 
 l'accettazione dell'ispezione della filettatura inizia con il sistema di filettatura e l'adattamento specificati. Il calibro, la finitura fornita e il metodo di ispezione dovrebbero tutti fare riferimento allo stesso requisito.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Rullatura, taglio e maschiatura dei filetti
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Rullatura, taglio e maschiatura dei filetti
 
 IN QUESTA GUIDA Confermare la designazione completa della filettatura Accettare le condizioni di ispezione Comprendere l'ambito del controllo Controllare il riferimento dell'ispezione PRODOTTO CORRELATO Viti a passo fine ed extra-fine ↗
 
@@ -12491,7 +12507,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12557,7 +12573,7 @@ DESIGN E DIMENSIONI / 2 LETTURA MIN
 
 Un'istruzione di serraggio riguarda il giunto, non solo il diametro della vite. L'attrito, le condizioni dei cuscinetti e il metodo di assemblaggio influenzano la relazione tra coppia di serraggio e carico di serraggio.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Rivestimenti e trattamenti superficiali
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Rivestimenti e trattamenti superficiali
 
 IN QUESTA GUIDA Descrivi l'articolazione completa Identificare la condizione di attrito Distinguere i valori di riferimento dalla validazione Registrare i requisiti di assemblaggio PRODOTTO CORRELATO Viti flangiate su disegno ↗
 
@@ -12599,7 +12615,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12665,7 +12681,7 @@ APPALTI / 2 LETTURA MIN
 
 Un prototipo può stabilire una geometria utile senza definire il percorso di produzione finale. Pianificare la transizione in modo che la funzione approvata e i requisiti di accettazione sopravvivano al cambiamento del metodo di produzione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Tornitura a fantina mobile e CNC
 
 IN QUESTA GUIDA Registra ciò che dimostra il prototipo Esaminare le modifiche al percorso prima del rilascio del volume Rendere tracciabile il campione e il report Concordare il cancello di rilascio della produzione PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -12707,7 +12723,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12745,7 +12761,7 @@ APPALTI / 2 LETTURA MIN
 
 Gli ordini ripetuti dovrebbero ripetere le specifiche approvate, non le ambiguità di una vecchia email. Una piccola abitudine al controllo delle revisioni può evitare costose confusioni tra disegni, campioni e registrazioni di ispezione.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Controllo dimensionale e visione CCD
 
 IN QUESTA GUIDA Utilizzare un disegno tecnico di produzione identificato Documentare separatamente le modifiche e le deviazioni Collega i record alla revisione corretta Confermare le specifiche sul riordino PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -12787,7 +12803,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 
@@ -12825,7 +12841,7 @@ APPALTI / 2 LETTURA MIN
 
 L'imballaggio fa parte della condizione di consegna. Dovrebbe proteggere le superfici funzionali, preservare l'identificazione e rendere pratico il processo di ispezione e assemblaggio in entrata.
 
-Di Theo Wan • ZUFEK Redazione tecnica • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
+Di Theo Wan • Responsabile tecnico, ZUFEK • Pubblicato ottobre 29, 2026 Pulizia, frenatura e preassemblaggio
 
 IN QUESTA GUIDA Identificare ciò che necessita di protezione Definire quantità e identificazione Coordinare pulizia e conservazione Collega il lotto ai registri PRODOTTO CORRELATO Viti metalliche su disegno ↗
 
@@ -12867,7 +12883,7 @@ Pronto a discutere la tua parte? Usa il Lista di controllo per la preparazione d
 
 Solo indicazioni generali. Le proprietà dei materiali, le tolleranze, gli standard e la fattibilità della produzione devono essere verificati per le specifiche effettive. Questo articolo non stabilisce una garanzia sulle prestazioni del prodotto.
 
-TW Theo Wan Redazione tecnica ZUFEK · guide al disegno tecnico, alla produzione e all'acquisto.
+TW Theo Wan Responsabile tecnico, ZUFEK · Guide su disegni, produzione e acquisti.
 
 #### Continua a esplorare
 

@@ -8853,7 +8853,9 @@ PROCUREMENT / 3 MIN READ
 
 A useful quotation starts with a clear specification. A drawing is the best starting point, but a sample, sketch or assembly description can also help define the next questions.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Custom Metal Screws
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Short answer Send the drawing with its number and revision, the material grade, the finish, the critical features and how they mate, prototype and production quantities, the inspection records you need, and the destination and target dates. Mark anything still open instead of leaving it ambiguous.
+
+Custom Metal Screws
 
 IN THIS GUIDE Start with the drawing and revision Identify the features that matter Specify material and finish separately Include quantity and delivery context Your RFQ checklist Separate mandatory requirements from discussion items Use a quotation comparison sheet Close the review with a release decision RELATED PRODUCT Custom Metal Screws ↗
 
@@ -8895,7 +8897,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -8929,7 +8931,9 @@ DESIGN & DIMENSIONS / 3 MIN READ
 
 A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Shoulder & Step Screws
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 · Updated 2026-11-03 Short answer Dimension the shoulder diameter and length separately from the thread, give the shoulder a fit tolerance against the mating bore, and show the thread designation, relief and head access. Check the axial stack and the diametral clearance at both tolerance limits, and state whether the limits apply before or after coating.
+
+Shoulder & Step Screws
 
 IN THIS GUIDE Define the shoulder Show how the thread ends Review head access and seating Communicate functional tolerances Draw the assembly stack, not only the screw Choose datums that match the locating function Approve the final supplied surface Worked review: calculate diametral clearance separately RELATED PRODUCT Shoulder & Step Screws ↗
 
@@ -8977,7 +8981,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9035,7 +9039,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 Specify a captive screw with its panel, retainer and mating thread. Review installation, released travel and tightened engagement as separate conditions.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Captive Screws
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 · Updated 2026-11-03 Captive Screws
 
 IN THIS GUIDE What retains the screw? How much movement is needed? What happens during service? How will the assembly be verified? What should accompany the RFQ? Worked review: release a service panel without losing the screw RELATED PRODUCT Captive Screws ↗
 
@@ -9075,7 +9079,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9121,7 +9125,7 @@ MATERIALS & FINISHES / 2 MIN READ
 
 Material selection begins with the service environment and mechanical requirements. The best specification balances function, manufacturability, availability and verification.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Custom Metal Screws
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Custom Metal Screws
 
 IN THIS GUIDE Describe the environment first Define the mechanical requirements Treat finish as part of the system Confirm documentation needs Compare alternatives against one requirement set Check the cost of the finished condition Approve substitutions deliberately RELATED PRODUCT Custom Metal Screws ↗
 
@@ -9159,7 +9163,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9193,7 +9197,9 @@ PROCUREMENT / 2 MIN READ
 
 A custom screw quotation reflects the complete specification and order conditions. Understanding the cost drivers can make a design review more productive.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Special Head Screws
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Short answer The price of a non-standard screw is driven mainly by geometry and manufacturing route, tooling and setup, tolerances and the inspection they require, material grade, secondary operations and finish, and batch size. Tooling is a one-time cost; ask which features drive the recurring cost before changing the drawing.
+
+Special Head Screws
 
 IN THIS GUIDE Geometry and manufacturing route Tolerance and inspection Material, finish and order volume Discuss changes before revising Separate recurring operations from one-time investment Identify the cost-driving feature before changing it Quote the transition from sample to repeat supply RELATED PRODUCT Special Head Screws ↗
 
@@ -9231,7 +9237,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9289,7 +9295,7 @@ QUALITY / 2 MIN READ
 
 Build an inspection plan one characteristic at a time. For each drawing requirement, record the acceptance condition, a suitable method, the inspection stage and coverage, and the evidence retained. The worked rows below show how to turn a shoulder-screw drawing into an inspection record.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-02 Shoulder & Step Screws
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 · Updated 2026-11-02 Shoulder & Step Screws
 
 IN THIS GUIDE Start with the released requirement Use the example without copying a test scope blindly Define coverage and reaction before production Record the result and the release decision RELATED PRODUCT Shoulder & Step Screws ↗
 
@@ -9351,7 +9357,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9409,7 +9415,9 @@ MANUFACTURING / 2 MIN READ
 
 Choose the manufacturing route around geometry, quantity, material and required condition. A lower cycle cost does not always offset tooling or secondary work.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Multi-Station Cold Heading
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Short answer Cold heading usually suits repeat volumes that justify dies and shapes that can be formed, such as heads, flanges and steps. CNC turning suits prototypes, small batches and features such as deep bores or cross holes. Many parts combine both, so compare complete routes against the same finished specification.
+
+Multi-Station Cold Heading
 
 IN THIS GUIDE Start with the repeat volume Separate bulk shape from functional detail Check the material and acceptance requirements Review the complete route Build a route comparison around the same finished specification Ask what changes between prototype and production Resolve geometry before committing tooling RELATED PRODUCT Custom Metal Screws ↗
 
@@ -9447,7 +9455,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9501,7 +9509,9 @@ MATERIALS & FINISHES / 2 MIN READ
 
 A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Material-Specific Heat Treatment
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Short answer For high-strength steel, review hydrogen exposure across the whole route, including cleaning, pickling and electroplating, not only the coating name. Non-electrolytic systems such as zinc flake avoid electrolytic deposition and baking can reduce risk, but neither is a guarantee. Define process controls and verification before ordering.
+
+Material-Specific Heat Treatment
 
 IN THIS GUIDE Identify the susceptible condition Define a coating system Understand the limit of baking Write a useful RFQ Map potential exposure through the full route Define evidence before the order Keep corrosion, friction and fit in the same review RELATED PRODUCT Shoulder & Step Screws ↗
 
@@ -9539,7 +9549,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9607,7 +9617,7 @@ MATERIALS & FINISHES / 2 MIN READ
 
 Stainless steel describes several material families. Specify the grade and final condition rather than writing one generic heat-treatment instruction.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Material-Specific Heat Treatment
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Material-Specific Heat Treatment
 
 IN THIS GUIDE Distinguish austenitic from precipitation-hardening grades State the purpose of solution treatment Define the final condition of 17-4PH Coordinate finish and verification Resolve what the drawing means by high-strength stainless Separate material treatment from surface treatment Review assembly galling as a separate mechanism RELATED PRODUCT Custom Metal Screws ↗
 
@@ -9645,7 +9655,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9691,7 +9701,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 A shaft fit and a thread tolerance class control different interfaces. Write the required function clearly before deciding how the surfaces must be finished.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Secondary & Precision Operations
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Secondary & Precision Operations
 
 IN THIS GUIDE Separate the plain shoulder and the thread Identify the mating relationship Specify grinding only with a reason Inspect after the relevant finishing stage Compare limits against the actual mating bore Make finishing selection a capability discussion Retain independent acceptance checks RELATED PRODUCT Shoulder & Step Screws ↗
 
@@ -9729,7 +9739,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9795,7 +9805,7 @@ DESIGN & DIMENSIONS / 3 MIN READ
 
 Specify the drive profile, matching tool, finish and installed access together. A bit that fits a loose screw may still fail to engage inside the housing.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Multi-Station Cold Heading
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 · Updated 2026-11-03 Multi-Station Cold Heading
 
 IN THIS GUIDE Identify the exact interface Define the head and tool access Review pin and recess features Separate access resistance from joint performance Worked review: distinguish a tool-fit issue from an access issue RELATED PRODUCT Security & Tamper-Resistant Screws ↗
 
@@ -9847,7 +9857,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -9903,7 +9913,7 @@ DESIGN & DIMENSIONS / 3 MIN READ
 
 Specify the complete bore, minimum remaining wall, internal edges and acceptance method. Use thread-root geometry and bore offset in the section review.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 · Updated 2026-11-03 Swiss-Type & CNC Turning
 
 IN THIS GUIDE Describe the entire passage Review wall thickness with the thread State edge and cleanliness requirements Define functional tests separately Worked review: include bore offset in the wall calculation RELATED PRODUCT Hollow & Through-Hole Screws ↗
 
@@ -9955,7 +9965,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10017,7 +10027,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 Match the flange bearing face to the actual supporting surface. Compare the contact footprint, finish and grip length before replacing a separate washer.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Multi-Station Cold Heading
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 · Updated 2026-11-03 Multi-Station Cold Heading
 
 IN THIS GUIDE Start with the mating surface Dimension the flange as a functional feature Choose the face condition deliberately Include the finish and tightening conditions Worked review: compare an integral flange with a washer assembly RELATED PRODUCT Custom Flange Screws ↗
 
@@ -10069,7 +10079,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10131,7 +10141,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 A hand-adjusted screw must be accessible, comfortable to grip and compatible with the required adjustment. Head texture alone does not define how the mechanism works.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Swiss-Type & CNC Turning
 
 IN THIS GUIDE Describe the way it is operated Specify the knurl rather than an appearance Connect pitch to the adjustment requirement Decide whether a service drive is needed RELATED PRODUCT Knurled Thumb & Adjustment Screws ↗
 
@@ -10173,7 +10183,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10235,7 +10245,9 @@ DESIGN & DIMENSIONS / 3 MIN READ
 
 Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 · Updated 2026-11-03 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 · Updated 2026-11-03 Short answer Choose the point by how it contacts the mating part. Cup points bite into a shaft and leave a mark, cone points seat in a drilled spot, flat points cause little marking and suit frequent adjustment, and dog points locate in a hole or slot. Then verify holding and marking on the actual joint.
+
+Swiss-Type & CNC Turning
 
 IN THIS GUIDE Choose the contact mechanism first Work through an adjustable-stop example Separate location from frictional clamping Release a point and a verification plan Write a repeat-adjustment acceptance record RELATED PRODUCT Custom Set Screws & Grub Screws ↗
 
@@ -10305,7 +10317,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10365,7 +10377,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 A T-head must enter, turn or slide inside the intended slot while retaining the required contact. The slot cross-section is therefore an essential part of the fastener RFQ.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Multi-Station Cold Heading
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Multi-Station Cold Heading
 
 IN THIS GUIDE Provide the complete slot section Explain the insertion method Review contact and anti-rotation Check the finished condition RELATED PRODUCT Custom T-Slot Bolts ↗
 
@@ -10407,7 +10419,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10457,7 +10469,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 An eye-shaped end can belong to a linkage, a tensioning device or a lifting component. Similar appearance does not establish the same design requirements or approved use.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Hot Heading & Forging
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Hot Heading & Forging
 
 IN THIS GUIDE Define the intended function first Show the articulation and load direction Treat lifting requirements explicitly Prepare a complete manufacturing review RELATED PRODUCT Custom Eye & Articulating Bolts ↗
 
@@ -10499,7 +10511,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10549,7 +10561,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 Inside width, bend shape and leg alignment determine whether a U-bolt fits the supported component. A clear drawing separates those features from the threaded connection.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Secondary & Precision Operations
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Secondary & Precision Operations
 
 IN THIS GUIDE Identify the component being clamped Dimension from consistent references Review bending and the material condition Include the rest of the joint RELATED PRODUCT Custom U-Bolts ↗
 
@@ -10591,7 +10603,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10629,7 +10641,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 The square neck is the functional anti-rotation feature of a carriage bolt. It should be matched to the mating hole and supporting material rather than treated as a cosmetic detail.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Multi-Station Cold Heading
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Multi-Station Cold Heading
 
 IN THIS GUIDE Define the mating hole Control neck depth and transition Review the domed head and bearing face Agree the finished fit RELATED PRODUCT Custom Carriage Bolts ↗
 
@@ -10671,7 +10683,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10709,7 +10721,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 An eccentric feature needs a clear reference axis. Without a datum scheme, two manufacturers can interpret an apparently simple offset drawing differently.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Swiss-Type & CNC Turning
 
 IN THIS GUIDE Identify the functional axis Define offset and angular orientation Describe the mating contact Choose an inspection setup that follows function RELATED PRODUCT Eccentric & Angled Head Screws ↗
 
@@ -10751,7 +10763,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10801,7 +10813,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 Different threads at the two ends can solve an interface problem and create an identification problem. The drawing, inspection plan and packaging should distinguish each end clearly.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Swiss-Type & CNC Turning
 
 IN THIS GUIDE Specify the two ends independently Explain the center section Plan identification before packing Gauge and review both interfaces RELATED PRODUCT Custom Double-Ended Studs ↗
 
@@ -10843,7 +10855,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10905,7 +10917,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 A narrow center section changes the geometry of a threaded connection. Its purpose and transition details must be defined before the manufacturing route is selected.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Swiss-Type & CNC Turning
 
 IN THIS GUIDE State the purpose of the reduced section Dimension the whole transition Review properties with the responsible engineer Inspect the supplied condition RELATED PRODUCT Reduced & Variable Shank Screws ↗
 
@@ -10947,7 +10959,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -10985,7 +10997,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 A taper works against a corresponding surface. Its angle, axial position and relationship to the thread must be considered with the mating component.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Swiss-Type & CNC Turning
 
 IN THIS GUIDE Describe what the taper is meant to do Use a complete dimensional definition Relate the taper to the thread and datums Agree a useful verification method RELATED PRODUCT Tapered Shank & Cone Screws ↗
 
@@ -11027,7 +11039,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11077,7 +11089,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 Combining a small locating pin with a screw can reduce separate components, but the locating and clamping functions still need distinct specifications.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Swiss-Type & CNC Turning
 
 IN THIS GUIDE Identify which feature locates Define the pin position and orientation Review the installation sequence Check the complete functional geometry RELATED PRODUCT Screws with Integral Locating Pins ↗
 
@@ -11119,7 +11131,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11169,7 +11181,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 Several shoulders can locate several components. A clear dimension scheme explains which axial distances control the assembly and which are consequences of other dimensions.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Cold Heading + Secondary Machining
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Cold Heading + Secondary Machining
 
 IN THIS GUIDE Map the shoulder to each mating component Choose a consistent reference scheme Review transitions and tool access Inspect the relevant relationships RELATED PRODUCT Multi-Step & Multi-Shoulder Screws ↗
 
@@ -11211,7 +11223,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11261,7 +11273,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 A press-in connection depends on the panel, hole and installation process. A custom stud cannot be evaluated as an isolated threaded shape.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Multi-Station Cold Heading
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Multi-Station Cold Heading
 
 IN THIS GUIDE Provide the panel condition Define the hole and retention geometry Review tooling support and installation Specify acceptance beyond appearance RELATED PRODUCT Custom Clinch Screws & Studs ↗
 
@@ -11303,7 +11315,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11341,7 +11353,9 @@ MANUFACTURING / 2 MIN READ
 
 Thread generation is a process choice, while thread geometry and acceptance are product requirements. A complete RFQ explains both without confusing the method with a guaranteed result.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Thread Rolling, Cutting & Tapping
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Short answer Rolling forms the thread by displacing material and is common in volume production; cutting removes material and suits large pitches, small batches and threads close to a shoulder. Specify the thread designation, class and gauging first, and name a method only if it is a real requirement.
+
+Thread Rolling, Cutting & Tapping
 
 IN THIS GUIDE Define the thread before the production method Review material and the proposed sequence Avoid a universal strength ranking Agree the finished acceptance method RELATED PRODUCT Special & Compound Thread Profiles ↗
 
@@ -11383,7 +11397,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11455,7 +11469,7 @@ MANUFACTURING / 2 MIN READ
 
 A drilled cross hole creates entry and exit edges, and may intersect another feature. The RFQ should define those edges as carefully as the hole location.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Secondary & Precision Operations
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Secondary & Precision Operations
 
 IN THIS GUIDE Show every intersection Specify edge condition rather than a vague note Review the process with the feature access Make the inspection practical RELATED PRODUCT Cross-Drilled & Head-Hole Screws ↗
 
@@ -11497,7 +11511,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11547,7 +11561,7 @@ MATERIALS & FINISHES / 2 MIN READ
 
 A coating belongs in the dimensional plan. The final fit must be evaluated in the condition that the customer receives, not only before surface treatment.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Secondary & Precision Operations
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Secondary & Precision Operations
 
 IN THIS GUIDE Identify the surfaces that control fit Specify the actual coating system Resolve the inspection stage Include local finish restrictions RELATED PRODUCT Shoulder & Step Screws ↗
 
@@ -11589,7 +11603,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11651,7 +11665,7 @@ MATERIALS & FINISHES / 2 MIN READ
 
 A bright appearance does not identify a surface process. Specify the substrate and required surface function before choosing between plating, passivation or another treatment.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Coatings & Surface Treatments
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Coatings & Surface Treatments
 
 IN THIS GUIDE Begin with the material underneath Distinguish the process purpose Consider dimensional and assembly effects Agree evidence and acceptance RELATED PRODUCT Custom Metal Screws ↗
 
@@ -11693,7 +11707,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11747,7 +11761,9 @@ MATERIALS & FINISHES / 2 MIN READ
 
 A coating-family name does not define the complete supplied surface. Custom fastener RFQs should connect the coating system with fit, friction and acceptance requirements.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Coatings & Surface Treatments
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Short answer Name the complete coating system (base coat, any topcoat or sealer, and lubrication), the coating standard such as ISO 10683, any friction requirement the joint relies on, the threads and bearing faces affected, and measurable acceptance criteria. A trade name alone leaves these choices open.
+
+Coatings & Surface Treatments
 
 IN THIS GUIDE Identify the complete system Review the base material and pretreatment Include thread and bearing behavior Write measurable acceptance requirements RELATED PRODUCT Custom Flange Screws ↗
 
@@ -11789,7 +11805,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11851,7 +11867,7 @@ QUALITY / 2 MIN READ
 
 Cleanliness becomes a technical requirement when contamination can affect the assembly. Define what needs to be removed, how it is measured and how the clean condition is protected.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Cleaning, Locking & Assembly
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Cleaning, Locking & Assembly
 
 IN THIS GUIDE Describe the contamination concern Agree the method and acceptance criteria Separate deburring from cleaning Protect the result through handling RELATED PRODUCT Hollow & Through-Hole Screws ↗
 
@@ -11893,7 +11909,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -11955,7 +11971,7 @@ PROCUREMENT / 2 MIN READ
 
 A pre-applied locking feature needs a defined material, location and assembly requirement. A colored patch shown in a photograph is not a complete specification.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Cleaning, Locking & Assembly
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Cleaning, Locking & Assembly
 
 IN THIS GUIDE Identify the locking system Define the application area Describe assembly and service conditions Agree the verification and handling RELATED PRODUCT Custom Metal Screws ↗
 
@@ -11997,7 +12013,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12035,7 +12051,7 @@ PROCUREMENT / 2 MIN READ
 
 A preassembled screw is supplied as a small assembly. The washer, retention method and component sequence need the same control as the screw itself.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Cleaning, Locking & Assembly
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Cleaning, Locking & Assembly
 
 IN THIS GUIDE Define every supplied component Show the stack order and retention Review treatment and material compatibility Inspect the delivered assembly RELATED PRODUCT Custom Flange Screws ↗
 
@@ -12077,7 +12093,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12139,7 +12155,7 @@ QUALITY / 3 MIN READ
 
 Camera-based dimensional inspection can evaluate visible features of a screw, but the image, setup and inspection program must match the requirement. It is one part of a complete acceptance plan.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 CCD Vision & Dimensional Inspection
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 CCD Vision & Dimensional Inspection
 
 IN THIS GUIDE Choose the visible features to measure Review presentation and lighting Recognize what the image does not establish Validate and maintain the inspection program Validate presentation and edge visibility Define coverage and reject handling Pair optical checks with the missing methods RELATED PRODUCT Shoulder & Step Screws ↗
 
@@ -12193,7 +12209,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12261,7 +12277,7 @@ QUALITY / 2 MIN READ
 
 A sample is most useful when its identity, revision and acceptance scope are clear. First-article planning connects the approved drawing with the evidence needed before the next production decision.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 CCD Vision & Dimensional Inspection
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 CCD Vision & Dimensional Inspection
 
 IN THIS GUIDE Link the sample to a controlled specification Define the evidence before making parts Separate visual and functional approval Close the feedback loop RELATED PRODUCT Custom Metal Screws ↗
 
@@ -12303,7 +12319,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12341,7 +12357,7 @@ QUALITY / 2 MIN READ
 
 Inspection coverage should follow the characteristic and acceptance plan. Saying that a non-standard screw needs full inspection leaves the method, features and evidence undefined.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 CCD Vision & Dimensional Inspection
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 CCD Vision & Dimensional Inspection
 
 IN THIS GUIDE Classify the characteristics Define what full inspection means Agree sampling as a documented plan Keep process control and acceptance connected RELATED PRODUCT Multi-Step & Multi-Shoulder Screws ↗
 
@@ -12383,7 +12399,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12449,7 +12465,7 @@ QUALITY / 2 MIN READ
 
 Thread acceptance begins with the specified thread system and fit. The gauge, supplied finish and inspection method should all refer to that same requirement.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Thread Rolling, Cutting & Tapping
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Thread Rolling, Cutting & Tapping
 
 IN THIS GUIDE Confirm the complete thread designation Agree the inspection condition Understand the scope of the check Control the inspection reference RELATED PRODUCT Fine & Extra-Fine Pitch Screws ↗
 
@@ -12491,7 +12507,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12557,7 +12573,7 @@ DESIGN & DIMENSIONS / 2 MIN READ
 
 A tightening instruction belongs to the joint, not just the screw diameter. Friction, bearing conditions and the assembly method influence the relationship between tightening torque and clamp load.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Coatings & Surface Treatments
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Coatings & Surface Treatments
 
 IN THIS GUIDE Describe the complete joint Identify the friction condition Distinguish reference values from validation Record the assembly requirement RELATED PRODUCT Custom Flange Screws ↗
 
@@ -12599,7 +12615,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12665,7 +12681,7 @@ PROCUREMENT / 2 MIN READ
 
 A prototype can establish useful geometry without defining the final production route. Plan the transition so the approved function and acceptance requirements survive the change in manufacturing method.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Swiss-Type & CNC Turning
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Swiss-Type & CNC Turning
 
 IN THIS GUIDE Record what the prototype proves Review route changes before volume release Make the sample and report traceable Agree the production release gate RELATED PRODUCT Custom Metal Screws ↗
 
@@ -12707,7 +12723,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12745,7 +12761,7 @@ PROCUREMENT / 2 MIN READ
 
 Repeat orders should repeat the approved specification, not the ambiguities of an old email. A small revision-control habit can prevent expensive confusion across drawings, samples and inspection records.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 CCD Vision & Dimensional Inspection
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 CCD Vision & Dimensional Inspection
 
 IN THIS GUIDE Use one identified production drawing Document changes and deviations separately Connect records to the correct revision Confirm the specification on reordering RELATED PRODUCT Custom Metal Screws ↗
 
@@ -12787,7 +12803,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 
@@ -12825,7 +12841,7 @@ PROCUREMENT / 2 MIN READ
 
 Packaging is part of the delivered condition. It should protect functional surfaces, preserve identification and make the incoming inspection and assembly process practical.
 
-By Theo Wan • ZUFEK Technical Editorial • Published October 29, 2026 Cleaning, Locking & Assembly
+By Theo Wan • Engineering Lead, ZUFEK • Published October 29, 2026 Cleaning, Locking & Assembly
 
 IN THIS GUIDE Identify what needs protection Define quantities and identification Coordinate cleanliness and preservation Connect the lot to the records RELATED PRODUCT Custom Metal Screws ↗
 
@@ -12867,7 +12883,7 @@ Ready to discuss your part? Use the RFQ preparation checklist , then submit your
 
 General guidance only. Material properties, tolerances, standards and manufacturing feasibility must be verified for the actual specification. This article does not establish a product performance guarantee.
 
-TW Theo Wan ZUFEK Technical Editorial · Drawing, manufacturing and purchasing guides.
+TW Theo Wan Engineering Lead, ZUFEK · Drawing, manufacturing and purchasing guides.
 
 #### Continue exploring
 

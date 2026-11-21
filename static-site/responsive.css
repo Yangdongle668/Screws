@@ -164,3 +164,8 @@ body:not(.admin-page) main :where(a,button,li,h1,h2,h3,p){min-width:0}
 .footer-contact a{white-space:nowrap}
 @media(max-width:760px){.topbar-phone span{display:none}}
 @media(max-width:420px){.topbar-phone{display:none}}
+
+/* Direct answer under an article heading */
+.short-answer{margin:0 auto 28px;width:min(860px,90%);box-sizing:border-box;padding:18px 22px;border-left:4px solid var(--orange);background:#fff;box-shadow:0 2px 14px #102c370f}
+.short-answer strong{display:block;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--orange);margin-bottom:6px}
+.short-answer p{margin:0;font-size:16px;line-height:1.6;color:var(--ink)}

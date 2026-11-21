@@ -173,7 +173,7 @@
       "description": "A useful custom screw quotation starts with a clear specification. A drawing is best, but a sample, sketch or assembly description also helps.",
       "titleCharacters": 45,
       "descriptionCharacters": 142,
-      "bodyWords": 736,
+      "bodyWords": 782,
       "types": [
         "BlogPosting",
         "Organization",
@@ -188,7 +188,7 @@
       "description": "A shoulder screw drawing needs separate bore-fit, axial-stack, thread and final-surface requirements. Check both tolerance limits before sample approval.",
       "titleCharacters": 52,
       "descriptionCharacters": 153,
-      "bodyWords": 965,
+      "bodyWords": 1018,
       "types": [
         "BlogPosting",
         "Organization",
@@ -233,7 +233,7 @@
       "description": "A custom screw quotation reflects the complete specification and order conditions. Understanding the cost drivers can make a design review more productive.",
       "titleCharacters": 55,
       "descriptionCharacters": 155,
-      "bodyWords": 747,
+      "bodyWords": 797,
       "types": [
         "BlogPosting",
         "Organization",
@@ -263,7 +263,7 @@
       "description": "Choose the manufacturing route around geometry, quantity, material and required condition. A lower cycle cost does not always offset tooling or secondary work.",
       "titleCharacters": 58,
       "descriptionCharacters": 159,
-      "bodyWords": 819,
+      "bodyWords": 870,
       "types": [
         "BlogPosting",
         "Organization",
@@ -278,7 +278,7 @@
       "description": "A high-strength steel fastener needs a coating decision that considers both corrosion and hydrogen exposure throughout processing.",
       "titleCharacters": 53,
       "descriptionCharacters": 130,
-      "bodyWords": 798,
+      "bodyWords": 846,
       "types": [
         "BlogPosting",
         "Organization",
@@ -383,7 +383,7 @@
       "description": "Choose a set-screw point by its contact with the mating part. Define allowable marking, adjustment and retention, then verify the complete joint.",
       "titleCharacters": 56,
       "descriptionCharacters": 145,
-      "bodyWords": 1206,
+      "bodyWords": 1262,
       "types": [
         "BlogPosting",
         "Organization",
@@ -563,7 +563,7 @@
       "description": "Thread rolling or cutting is a process choice; thread geometry and acceptance are product requirements. A complete RFQ states both clearly.",
       "titleCharacters": 54,
       "descriptionCharacters": 139,
-      "bodyWords": 812,
+      "bodyWords": 861,
       "types": [
         "BlogPosting",
         "Organization",
@@ -623,7 +623,7 @@
       "description": "A coating-family name does not define the complete supplied surface. Custom fastener RFQs should connect the coating system with fit, friction and acceptance requirements.",
       "titleCharacters": 60,
       "descriptionCharacters": 171,
-      "bodyWords": 706,
+      "bodyWords": 753,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2662,7 +2662,7 @@
       "description": "Ein brauchbares Angebot für Sonderschrauben beginnt mit einer klaren Spezifikation. Ideal ist eine Zeichnung; Muster, Skizze oder Baugruppenbeschreibung helfen ebenfalls.",
       "titleCharacters": 82,
       "descriptionCharacters": 170,
-      "bodyWords": 761,
+      "bodyWords": 794,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2677,7 +2677,7 @@
       "description": "Una buena cotización de tornillos especiales parte de una especificación clara. Lo ideal es un plano, pero una muestra, un boceto o una descripción también ayudan.",
       "titleCharacters": 78,
       "descriptionCharacters": 163,
-      "bodyWords": 908,
+      "bodyWords": 957,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2692,7 +2692,7 @@
       "description": "Un’offerta utile per viti speciali parte da una specifica chiara. L’ideale è un disegno, ma anche campione, schizzo o descrizione dell’assieme aiutano.",
       "titleCharacters": 73,
       "descriptionCharacters": 151,
-      "bodyWords": 903,
+      "bodyWords": 939,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2707,7 +2707,7 @@
       "description": "有用的非标螺丝报价始于清晰规格。最好提供图纸；样品、草图或装配说明也有帮助。",
       "titleCharacters": 22,
       "descriptionCharacters": 38,
-      "bodyWords": 117,
+      "bodyWords": 121,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2722,7 +2722,7 @@
       "description": "Un devis utile de vis spéciales part d’une spécification claire. Un plan est idéal, mais un échantillon, un croquis ou une description d’assemblage aident aussi.",
       "titleCharacters": 76,
       "descriptionCharacters": 161,
-      "bodyWords": 926,
+      "bodyWords": 978,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2737,7 +2737,7 @@
       "description": "Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.",
       "titleCharacters": 66,
       "descriptionCharacters": 176,
-      "bodyWords": 950,
+      "bodyWords": 990,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2752,7 +2752,7 @@
       "description": "El plano de un tornillo con hombro debe separar ajuste en el taladro, cadena axial, rosca y superficie final. Revise ambos límites antes de aprobar muestras.",
       "titleCharacters": 66,
       "descriptionCharacters": 157,
-      "bodyWords": 1140,
+      "bodyWords": 1201,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2767,7 +2767,7 @@
       "description": "Il disegno di una vite a spallamento deve distinguere accoppiamento nel foro, catena assiale, filetto e superficie finale. Verificare i due limiti prima di approvare i campioni.",
       "titleCharacters": 63,
       "descriptionCharacters": 177,
-      "bodyWords": 1117,
+      "bodyWords": 1165,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2782,7 +2782,7 @@
       "description": "肩轴螺丝图纸应分别明确孔轴配合、轴向尺寸链、螺纹与最终表面要求，样品批准前按尺寸上下限核对间隙。",
       "titleCharacters": 21,
       "descriptionCharacters": 48,
-      "bodyWords": 150,
+      "bodyWords": 154,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2797,7 +2797,7 @@
       "description": "Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.",
       "titleCharacters": 57,
       "descriptionCharacters": 175,
-      "bodyWords": 1150,
+      "bodyWords": 1204,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2812,7 +2812,7 @@
       "description": "Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.",
       "titleCharacters": 72,
       "descriptionCharacters": 154,
-      "bodyWords": 662,
+      "bodyWords": 661,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2842,7 +2842,7 @@
       "description": "Specificare la vite imperdibile con pannello, ritegno e filettatura accoppiata. Verificare separatamente installazione, corsa libera e impegno a serraggio.",
       "titleCharacters": 64,
       "descriptionCharacters": 155,
-      "bodyWords": 763,
+      "bodyWords": 761,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2857,7 +2857,7 @@
       "description": "防脱螺丝要连同面板、保持件和配合螺纹一起定义，分别核对安装过程、松开行程及锁紧后的有效旋合。",
       "titleCharacters": 25,
       "descriptionCharacters": 46,
-      "bodyWords": 116,
+      "bodyWords": 118,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2872,7 +2872,7 @@
       "description": "Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.",
       "titleCharacters": 60,
       "descriptionCharacters": 137,
-      "bodyWords": 817,
+      "bodyWords": 818,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2887,7 +2887,7 @@
       "description": "Die Materialauswahl beginnt mit der Einsatzumgebung und den mechanischen Anforderungen. Die beste Spezifikation bringt Funktion, Herstellbarkeit, Verfügbarkeit und Verifizierung in Einklang.",
       "titleCharacters": 70,
       "descriptionCharacters": 190,
-      "bodyWords": 662,
+      "bodyWords": 661,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2917,7 +2917,7 @@
       "description": "La selezione dei materiali inizia con l'ambiente di servizio e i requisiti meccanici. Le migliori specifiche bilanciano funzionalità, producibilità, disponibilità e verifica.",
       "titleCharacters": 66,
       "descriptionCharacters": 174,
-      "bodyWords": 726,
+      "bodyWords": 724,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2932,7 +2932,7 @@
       "description": "材料选择从使用环境和机械要求开始。最佳规格平衡了功能、可制造性、可用性和验证。",
       "titleCharacters": 19,
       "descriptionCharacters": 39,
-      "bodyWords": 102,
+      "bodyWords": 104,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2947,7 +2947,7 @@
       "description": "La sélection des matériaux commence par l'environnement de service et les exigences mécaniques. Les meilleures spécifications équilibrent la fonction, la fabricabilité, la disponibilité et la vérification.",
       "titleCharacters": 59,
       "descriptionCharacters": 205,
-      "bodyWords": 785,
+      "bodyWords": 786,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2962,7 +2962,7 @@
       "description": "Ein maßgeschneidertes Schraubenangebot spiegelt die vollständigen Spezifikationen und Bestellbedingungen wider. Das Verständnis der Kostentreiber kann eine Designprüfung produktiver machen.",
       "titleCharacters": 71,
       "descriptionCharacters": 189,
-      "bodyWords": 772,
+      "bodyWords": 815,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2977,7 +2977,7 @@
       "description": "Una cotización de tornillos personalizados refleja las especificaciones completas y las condiciones del pedido. Comprender los factores de costo puede hacer que una revisión de diseño sea más productiva.",
       "titleCharacters": 57,
       "descriptionCharacters": 203,
-      "bodyWords": 918,
+      "bodyWords": 980,
       "types": [
         "BlogPosting",
         "Organization",
@@ -2992,7 +2992,7 @@
       "description": "Un preventivo personalizzato per le viti riflette le specifiche complete e le condizioni dell'ordine. Comprendere i fattori di costo può rendere più produttiva la revisione del progetto.",
       "titleCharacters": 58,
       "descriptionCharacters": 186,
-      "bodyWords": 888,
+      "bodyWords": 935,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3007,7 +3007,7 @@
       "description": "定制螺丝报价反映了完整的规格和订单条件。了解成本驱动因素可以使设计评审更加高效。",
       "titleCharacters": 22,
       "descriptionCharacters": 40,
-      "bodyWords": 115,
+      "bodyWords": 119,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3022,7 +3022,7 @@
       "description": "Un devis de vis personnalisé reflète les spécifications complètes et les conditions de commande. Comprendre les facteurs de coûts peut rendre une revue de conception plus productive.",
       "titleCharacters": 62,
       "descriptionCharacters": 182,
-      "bodyWords": 937,
+      "bodyWords": 1001,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3037,7 +3037,7 @@
       "description": "Prüfplan für Sonderschrauben Merkmal für Merkmal: Abnahmekriterium, Methode, Prüfstufe, Umfang und Nachweis – mit durchgerechneten Beispielzeilen.",
       "titleCharacters": 71,
       "descriptionCharacters": 146,
-      "bodyWords": 995,
+      "bodyWords": 994,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3067,7 +3067,7 @@
       "description": "Piano di controllo per viti speciali caratteristica per caratteristica: criterio, metodo, fase, copertura ed evidenze, con righe di esempio.",
       "titleCharacters": 68,
       "descriptionCharacters": 140,
-      "bodyWords": 1217,
+      "bodyWords": 1215,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3082,7 +3082,7 @@
       "description": "按特性逐项建立非标螺丝检验计划：验收条件、方法、检验阶段、覆盖范围和保留记录，并附示例行。",
       "titleCharacters": 20,
       "descriptionCharacters": 45,
-      "bodyWords": 167,
+      "bodyWords": 169,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3097,7 +3097,7 @@
       "description": "Plan de contrôle de vis spéciales caractéristique par caractéristique : critère, méthode, étape, couverture et preuves, avec lignes d’exemple.",
       "titleCharacters": 73,
       "descriptionCharacters": 142,
-      "bodyWords": 1259,
+      "bodyWords": 1260,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3112,7 +3112,7 @@
       "description": "Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Material und erforderlichem Zustand. Niedrigere Zykluskosten gleichen nicht immer Werkzeug- oder Sekundärarbeiten aus.",
       "titleCharacters": 72,
       "descriptionCharacters": 194,
-      "bodyWords": 829,
+      "bodyWords": 871,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3127,7 +3127,7 @@
       "description": "Elija la secuencia del proceso de fabricación en cuanto a geometría, cantidad, material y condición requerida. Un costo de ciclo más bajo no siempre compensa el uso de herramientas o trabajo secundario.",
       "titleCharacters": 70,
       "descriptionCharacters": 202,
-      "bodyWords": 991,
+      "bodyWords": 1042,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3142,7 +3142,7 @@
       "description": "Scegli la sequenza del processo di produzione in base alla geometria, alla quantità, al materiale e alle condizioni richieste. Un costo del ciclo inferiore non sempre compensa l'attrezzatura o il lavoro secondario.",
       "titleCharacters": 85,
       "descriptionCharacters": 214,
-      "bodyWords": 978,
+      "bodyWords": 1029,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3157,7 +3157,7 @@
       "description": "围绕几何形状、数量、材料和所需条件选择制造工艺顺序。较低的周期成本并不总能抵消模具或二次加工的影响。",
       "titleCharacters": 19,
       "descriptionCharacters": 50,
-      "bodyWords": 135,
+      "bodyWords": 140,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3172,7 +3172,7 @@
       "description": "Choisissez la séquence du processus de fabrication en fonction de la géométrie, de la quantité, du matériau et des conditions requises. Un coût de cycle inférieur ne compense pas toujours l’outillage ou le travail secondaire.",
       "titleCharacters": 69,
       "descriptionCharacters": 225,
-      "bodyWords": 1017,
+      "bodyWords": 1074,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3187,7 +3187,7 @@
       "description": "Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.",
       "titleCharacters": 57,
       "descriptionCharacters": 197,
-      "bodyWords": 807,
+      "bodyWords": 855,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3202,7 +3202,7 @@
       "description": "Un sujetador de acero de alta resistencia necesita una decisión de recubrimiento que considere tanto la corrosión como la exposición al hidrógeno durante todo el procesamiento.",
       "titleCharacters": 70,
       "descriptionCharacters": 176,
-      "bodyWords": 1000,
+      "bodyWords": 1059,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3217,7 +3217,7 @@
       "description": "Un elemento di fissaggio in acciaio ad alta resistenza necessita di una decisione sul rivestimento che consideri sia la corrosione che l'esposizione all'idrogeno durante tutta la lavorazione.",
       "titleCharacters": 64,
       "descriptionCharacters": 191,
-      "bodyWords": 969,
+      "bodyWords": 1027,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3232,7 +3232,7 @@
       "description": "高强度钢紧固件需要做出涂层决策，同时考虑整个加工过程中的腐蚀和氢暴露。",
       "titleCharacters": 17,
       "descriptionCharacters": 35,
-      "bodyWords": 127,
+      "bodyWords": 131,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3247,7 +3247,7 @@
       "description": "Une fixation en acier à haute résistance nécessite une décision de revêtement qui prend en compte à la fois la corrosion et l'exposition à l'hydrogène tout au long du traitement.",
       "titleCharacters": 66,
       "descriptionCharacters": 178,
-      "bodyWords": 1014,
+      "bodyWords": 1073,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3262,7 +3262,7 @@
       "description": "Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.",
       "titleCharacters": 64,
       "descriptionCharacters": 139,
-      "bodyWords": 704,
+      "bodyWords": 703,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3292,7 +3292,7 @@
       "description": "Gli inox comprendono più famiglie. Specificare grado e stato finale invece di prescrivere un trattamento termico generico.",
       "titleCharacters": 58,
       "descriptionCharacters": 122,
-      "bodyWords": 801,
+      "bodyWords": 799,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3307,7 +3307,7 @@
       "description": "不锈钢包含不同材料体系，热处理要求不能一概而论。应写明具体牌号和最终状态，再确定适用的处理方式。",
       "titleCharacters": 25,
       "descriptionCharacters": 48,
-      "bodyWords": 118,
+      "bodyWords": 120,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3322,7 +3322,7 @@
       "description": "Les inox regroupent plusieurs familles. Préciser nuance et état final plutôt qu’une consigne générique de traitement thermique.",
       "titleCharacters": 70,
       "descriptionCharacters": 127,
-      "bodyWords": 863,
+      "bodyWords": 864,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3337,7 +3337,7 @@
       "description": "Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.",
       "titleCharacters": 68,
       "descriptionCharacters": 207,
-      "bodyWords": 792,
+      "bodyWords": 791,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3367,7 +3367,7 @@
       "description": "L'accoppiamento dell'albero e la classe di tolleranza della filettatura controllano diverse interfacce. Scrivere chiaramente la funzione richiesta prima di decidere come dovranno essere rifinite le superfici.",
       "titleCharacters": 72,
       "descriptionCharacters": 208,
-      "bodyWords": 961,
+      "bodyWords": 959,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3382,7 +3382,7 @@
       "description": "轴配合和螺纹公差等级控制不同的接口。在决定如何完成表面之前，先清楚地写下所需的功能。",
       "titleCharacters": 18,
       "descriptionCharacters": 42,
-      "bodyWords": 127,
+      "bodyWords": 129,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3397,7 +3397,7 @@
       "description": "Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.",
       "titleCharacters": 74,
       "descriptionCharacters": 193,
-      "bodyWords": 982,
+      "bodyWords": 983,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3412,7 +3412,7 @@
       "description": "Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.",
       "titleCharacters": 73,
       "descriptionCharacters": 171,
-      "bodyWords": 837,
+      "bodyWords": 836,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3442,7 +3442,7 @@
       "description": "Definire insieme impronta, utensile, finitura e accesso a montaggio. Un inserto adatto alla vite libera può non impegnarla nell’involucro.",
       "titleCharacters": 63,
       "descriptionCharacters": 138,
-      "bodyWords": 980,
+      "bodyWords": 978,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3457,7 +3457,7 @@
       "description": "槽型、配套工具、表面状态和装机后的操作空间应一起明确。散件状态下能配合的批头，装进外壳后不一定能充分啮合。",
       "titleCharacters": 20,
       "descriptionCharacters": 53,
-      "bodyWords": 133,
+      "bodyWords": 135,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3472,7 +3472,7 @@
       "description": "Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.",
       "titleCharacters": 58,
       "descriptionCharacters": 143,
-      "bodyWords": 1034,
+      "bodyWords": 1035,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3487,7 +3487,7 @@
       "description": "Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.",
       "titleCharacters": 76,
       "descriptionCharacters": 152,
-      "bodyWords": 868,
+      "bodyWords": 867,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3517,7 +3517,7 @@
       "description": "Specificare foro completo, parete residua minima, bordi interni e metodo di accettazione. Valutare in sezione la geometria al fondo del filetto e il disassamento del foro.",
       "titleCharacters": 78,
       "descriptionCharacters": 171,
-      "bodyWords": 1075,
+      "bodyWords": 1073,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3532,7 +3532,7 @@
       "description": "应明确整个孔道、最小剩余壁厚、内部边缘及验收方法。评审截面时，要同时考虑螺纹牙底几何和内孔偏心。",
       "titleCharacters": 16,
       "descriptionCharacters": 48,
-      "bodyWords": 150,
+      "bodyWords": 152,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3547,7 +3547,7 @@
       "description": "Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.",
       "titleCharacters": 73,
       "descriptionCharacters": 170,
-      "bodyWords": 1113,
+      "bodyWords": 1114,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3562,7 +3562,7 @@
       "description": "Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.",
       "titleCharacters": 76,
       "descriptionCharacters": 152,
-      "bodyWords": 857,
+      "bodyWords": 856,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3592,7 +3592,7 @@
       "description": "Adattare la faccia d’appoggio della flangia al supporto effettivo. Confrontare impronta, finitura e lunghezza serrata prima di sostituire una rondella.",
       "titleCharacters": 84,
       "descriptionCharacters": 151,
-      "bodyWords": 1036,
+      "bodyWords": 1034,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3607,7 +3607,7 @@
       "description": "法兰承压面应与零件实际可支撑的表面匹配。用一体法兰替代独立垫圈前，应比较接触范围、表面状态及夹持长度。",
       "titleCharacters": 20,
       "descriptionCharacters": 51,
-      "bodyWords": 135,
+      "bodyWords": 137,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3622,7 +3622,7 @@
       "description": "Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.",
       "titleCharacters": 69,
       "descriptionCharacters": 138,
-      "bodyWords": 1099,
+      "bodyWords": 1100,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3637,7 +3637,7 @@
       "description": "Eine handverstellte Schraube muss zugänglich, bequem zu greifen und mit der erforderlichen Einstellung kompatibel sein. Die Kopfbeschaffenheit allein bestimmt nicht, wie der Mechanismus funktioniert.",
       "titleCharacters": 66,
       "descriptionCharacters": 199,
-      "bodyWords": 719,
+      "bodyWords": 718,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3667,7 +3667,7 @@
       "description": "Una vite regolata manualmente deve essere accessibile, comoda da impugnare e compatibile con la regolazione richiesta. La struttura della testa da sola non definisce il funzionamento del meccanismo.",
       "titleCharacters": 53,
       "descriptionCharacters": 198,
-      "bodyWords": 855,
+      "bodyWords": 853,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3682,7 +3682,7 @@
       "description": "手动调节螺钉必须易于操作、握持舒适并且与所需的调节兼容。头部纹理本身并不能定义该机制的工作原理。",
       "titleCharacters": 22,
       "descriptionCharacters": 48,
-      "bodyWords": 124,
+      "bodyWords": 126,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3697,7 +3697,7 @@
       "description": "Une vis réglée manuellement doit être accessible, confortable à saisir et compatible avec le réglage requis. La texture de la tête à elle seule ne définit pas le fonctionnement du mécanisme.",
       "titleCharacters": 64,
       "descriptionCharacters": 190,
-      "bodyWords": 896,
+      "bodyWords": 897,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3712,7 +3712,7 @@
       "description": "Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.",
       "titleCharacters": 98,
       "descriptionCharacters": 156,
-      "bodyWords": 1161,
+      "bodyWords": 1210,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3727,7 +3727,7 @@
       "description": "Elija la punta del prisionero por su contacto con la pieza. Defina marcas, ajuste y retención admisibles y verifique la unión completa.",
       "titleCharacters": 74,
       "descriptionCharacters": 135,
-      "bodyWords": 1399,
+      "bodyWords": 1455,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3742,7 +3742,7 @@
       "description": "Scegliere la punta del grano in base al contatto con il pezzo. Definire segni ammessi, regolazione e tenuta, poi verificare la giunzione completa.",
       "titleCharacters": 83,
       "descriptionCharacters": 146,
-      "bodyWords": 1347,
+      "bodyWords": 1404,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3757,7 +3757,7 @@
       "description": "紧定螺丝端型应根据与配合件的接触方式选择。先明确允许压痕、调节和保持要求，再验证整个连接。",
       "titleCharacters": 30,
       "descriptionCharacters": 45,
-      "bodyWords": 161,
+      "bodyWords": 165,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3772,7 +3772,7 @@
       "description": "Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.",
       "titleCharacters": 63,
       "descriptionCharacters": 160,
-      "bodyWords": 1423,
+      "bodyWords": 1482,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3787,7 +3787,7 @@
       "description": "Ein T-Kopf muss in den vorgesehenen Schlitz eindringen, sich darin drehen oder gleiten lassen und dabei den erforderlichen Kontakt beibehalten. Der Schlitzquerschnitt ist daher ein wesentlicher Bestandteil der Verbindungselement-Ausschreibung.",
       "titleCharacters": 80,
       "descriptionCharacters": 243,
-      "bodyWords": 638,
+      "bodyWords": 637,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3817,7 +3817,7 @@
       "description": "Una testa a T deve entrare, girare o scorrere all'interno della fessura prevista mantenendo il contatto richiesto. La sezione trasversale dell'asola è quindi una parte essenziale della richiesta di offerta di dispositivi di fissaggio.",
       "titleCharacters": 78,
       "descriptionCharacters": 234,
-      "bodyWords": 745,
+      "bodyWords": 743,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3832,7 +3832,7 @@
       "description": "T 型头必须进入、转动或滑动到预期的插槽内，同时保持所需的接触。因此，槽横截面是紧固件询价的重要组成部分。",
       "titleCharacters": 26,
       "descriptionCharacters": 53,
-      "bodyWords": 118,
+      "bodyWords": 120,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3847,7 +3847,7 @@
       "description": "Une tête en T doit entrer, tourner ou glisser à l'intérieur de la fente prévue tout en conservant le contact requis. La section transversale de la fente est donc une partie essentielle de la demande d'offre de fixation.",
       "titleCharacters": 78,
       "descriptionCharacters": 219,
-      "bodyWords": 775,
+      "bodyWords": 776,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3862,7 +3862,7 @@
       "description": "Ein ösenförmiges Ende kann zu einem Gestänge, einer Spannvorrichtung oder einer Hubkomponente gehören. Ein ähnliches Erscheinungsbild begründet nicht die gleichen Designanforderungen oder die gleiche genehmigte Verwendung.",
       "titleCharacters": 60,
       "descriptionCharacters": 222,
-      "bodyWords": 660,
+      "bodyWords": 659,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3892,7 +3892,7 @@
       "description": "Un'estremità a forma di occhio può appartenere ad un collegamento, ad un dispositivo di tensionamento o ad un componente di sollevamento. Un aspetto simile non stabilisce gli stessi requisiti di progettazione o l'uso approvato.",
       "titleCharacters": 51,
       "descriptionCharacters": 227,
-      "bodyWords": 767,
+      "bodyWords": 765,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3907,7 +3907,7 @@
       "description": "眼形端部可以属于联动装置、张紧装置或提升部件。相似的外观并不代表相同的设计要求或批准的用途。",
       "titleCharacters": 23,
       "descriptionCharacters": 46,
-      "bodyWords": 117,
+      "bodyWords": 119,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3922,7 +3922,7 @@
       "description": "Une extrémité en forme d'oeil peut appartenir à une tringlerie, un dispositif tendeur ou un élément de levage. Une apparence similaire n’établit pas les mêmes exigences de conception ou l’utilisation approuvée.",
       "titleCharacters": 61,
       "descriptionCharacters": 210,
-      "bodyWords": 816,
+      "bodyWords": 817,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3937,7 +3937,7 @@
       "description": "Innenbreite, Biegeform und Schenkelausrichtung bestimmen, ob ein U-Bolzen zum unterstützten Bauteil passt. Eine klare technische Zeichnung trennt diese Merkmale von der Gewindeverbindung.",
       "titleCharacters": 64,
       "descriptionCharacters": 187,
-      "bodyWords": 618,
+      "bodyWords": 617,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3967,7 +3967,7 @@
       "description": "La larghezza interna, la forma della piega e l'allineamento delle gambe determinano se un bullone a U si adatta al componente supportato. Un chiaro disegno tecnico separa queste caratteristiche dalla connessione filettata.",
       "titleCharacters": 49,
       "descriptionCharacters": 222,
-      "bodyWords": 684,
+      "bodyWords": 682,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3982,7 +3982,7 @@
       "description": "内部宽度、弯曲形状和腿部对齐决定了 U 形螺栓是否适合支撑的组件。清晰的工程图将这些特征与螺纹连接分开。",
       "titleCharacters": 23,
       "descriptionCharacters": 52,
-      "bodyWords": 118,
+      "bodyWords": 120,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3997,7 +3997,7 @@
       "description": "La largeur intérieure, la forme du pli et l'alignement des pieds déterminent si un boulon en U s'adapte au composant supporté. Un dessin technique clair sépare ces caractéristiques de la connexion filetée.",
       "titleCharacters": 56,
       "descriptionCharacters": 205,
-      "bodyWords": 732,
+      "bodyWords": 733,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4012,7 +4012,7 @@
       "description": "Der Vierkantansatz einer Schlossschraube ist ein funktionaler Verdrehschutz. Er wird auf Gegenbohrung und Trägerwerkstoff abgestimmt, nicht als Kosmetik behandelt.",
       "titleCharacters": 87,
       "descriptionCharacters": 163,
-      "bodyWords": 626,
+      "bodyWords": 625,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4042,7 +4042,7 @@
       "description": "Il sottotesta quadro di una vite a testa tonda è un antirotazione funzionale. Va adattato al foro e al materiale di supporto, non trattato come estetica.",
       "titleCharacters": 73,
       "descriptionCharacters": 153,
-      "bodyWords": 723,
+      "bodyWords": 721,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4057,7 +4057,7 @@
       "description": "马车螺栓的方颈是功能性的防转结构，应与配合孔和支撑材料匹配，而不是外观细节。",
       "titleCharacters": 19,
       "descriptionCharacters": 38,
-      "bodyWords": 108,
+      "bodyWords": 110,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4072,7 +4072,7 @@
       "description": "Le collet carré d’une vis à tête bombée est un anti-rotation fonctionnel. Adaptez-le au trou et au matériau support au lieu de le traiter comme esthétique.",
       "titleCharacters": 84,
       "descriptionCharacters": 155,
-      "bodyWords": 746,
+      "bodyWords": 747,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4087,7 +4087,7 @@
       "description": "Ein exzentrisches Merkmal benötigt eine klare Referenzachse. Ohne ein Bezugsschema können zwei Hersteller eine scheinbar einfache Offset-Konstruktionszeichnung unterschiedlich interpretieren.",
       "titleCharacters": 63,
       "descriptionCharacters": 191,
-      "bodyWords": 639,
+      "bodyWords": 638,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4117,7 +4117,7 @@
       "description": "Una caratteristica eccentrica necessita di un asse di riferimento chiaro. Senza uno schema di riferimento, due produttori possono interpretare in modo diverso un disegno tecnico di offset apparentemente semplice.",
       "titleCharacters": 63,
       "descriptionCharacters": 212,
-      "bodyWords": 746,
+      "bodyWords": 744,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4132,7 +4132,7 @@
       "description": "偏心特征需要清晰的参考轴。如果没有基准方案，两个制造商可能会以不同的方式解释看似简单的偏移工程图。",
       "titleCharacters": 12,
       "descriptionCharacters": 49,
-      "bodyWords": 113,
+      "bodyWords": 115,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4147,7 +4147,7 @@
       "description": "Une fonction excentrique nécessite un axe de référence clair. Sans schéma de référence, deux fabricants peuvent interpréter différemment un dessin technique décalé apparemment simple.",
       "titleCharacters": 63,
       "descriptionCharacters": 183,
-      "bodyWords": 774,
+      "bodyWords": 775,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4162,7 +4162,7 @@
       "description": "Unterschiedliche Gewinde an beiden Enden lösen ein Schnittstellenproblem, bergen aber Verwechslungsgefahr. Jedes Ende in Zeichnung, Prüfplan und Verpackung kennzeichnen.",
       "titleCharacters": 70,
       "descriptionCharacters": 169,
-      "bodyWords": 719,
+      "bodyWords": 718,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4192,7 +4192,7 @@
       "description": "Filetti diversi alle due estremità risolvono un’interfaccia ma aggiungono rischio di scambio. Identificare ogni estremità su disegno, piano di controllo e imballo.",
       "titleCharacters": 78,
       "descriptionCharacters": 163,
-      "bodyWords": 843,
+      "bodyWords": 841,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4207,7 +4207,7 @@
       "description": "两端不同螺纹解决了接口问题，却带来混装风险。应在图纸、检验计划和包装上明确区分两端。",
       "titleCharacters": 15,
       "descriptionCharacters": 42,
-      "bodyWords": 125,
+      "bodyWords": 127,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4222,7 +4222,7 @@
       "description": "Des filetages différents aux deux extrémités résolvent une interface mais créent un risque d’erreur. Identifiez chaque côté sur plan, plan de contrôle et emballage.",
       "titleCharacters": 78,
       "descriptionCharacters": 164,
-      "bodyWords": 851,
+      "bodyWords": 852,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4237,7 +4237,7 @@
       "description": "Ein schmaler Mittelabschnitt verändert die Geometrie einer Gewindeverbindung. Sein Zweck und die Übergangsdetails müssen definiert werden, bevor die Reihenfolge des Herstellungsprozesses ausgewählt wird.",
       "titleCharacters": 82,
       "descriptionCharacters": 203,
-      "bodyWords": 609,
+      "bodyWords": 608,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4267,7 +4267,7 @@
       "description": "Una sezione centrale stretta modifica la geometria di una connessione filettata. Il suo scopo e i dettagli della transizione devono essere definiti prima di selezionare la sequenza del processo di produzione.",
       "titleCharacters": 77,
       "descriptionCharacters": 208,
-      "bodyWords": 700,
+      "bodyWords": 698,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4282,7 +4282,7 @@
       "description": "狭窄的中心部分改变了螺纹连接的几何形状。在选择制造工艺顺序之前必须定义其目的和过渡细节。",
       "titleCharacters": 22,
       "descriptionCharacters": 44,
-      "bodyWords": 106,
+      "bodyWords": 108,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4297,7 +4297,7 @@
       "description": "Une section centrale étroite modifie la géométrie d'une connexion filetée. Son objectif et les détails de sa transition doivent être définis avant la sélection de la séquence du processus de fabrication.",
       "titleCharacters": 92,
       "descriptionCharacters": 203,
-      "bodyWords": 716,
+      "bodyWords": 717,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4312,7 +4312,7 @@
       "description": "Eine Verjüngung wirkt gegen eine entsprechende Fläche. Sein Winkel, seine axiale Position und seine Beziehung zum Gewinde müssen beim Gegenstück berücksichtigt werden.",
       "titleCharacters": 59,
       "descriptionCharacters": 167,
-      "bodyWords": 653,
+      "bodyWords": 652,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4342,7 +4342,7 @@
       "description": "Una rastremazione funziona contro una superficie corrispondente. Il suo angolo, la posizione assiale e il rapporto con la filettatura devono essere considerati con il componente di accoppiamento.",
       "titleCharacters": 61,
       "descriptionCharacters": 195,
-      "bodyWords": 760,
+      "bodyWords": 758,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4357,7 +4357,7 @@
       "description": "锥度作用于相应的表面。其角度、轴向位置以及与螺纹的关系必须与配合部件一起考虑。",
       "titleCharacters": 18,
       "descriptionCharacters": 39,
-      "bodyWords": 113,
+      "bodyWords": 115,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4372,7 +4372,7 @@
       "description": "Un cône fonctionne contre une surface correspondante. Son angle, sa position axiale et sa relation avec le filetage doivent être pris en compte avec le composant d'accouplement.",
       "titleCharacters": 57,
       "descriptionCharacters": 177,
-      "bodyWords": 785,
+      "bodyWords": 786,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4387,7 +4387,7 @@
       "description": "Durch die Kombination eines kleinen Fixierstifts mit einer Schraube können separate Komponenten reduziert werden, die Fixierungs- und Klemmfunktionen erfordern jedoch immer noch eindeutige Spezifikationen.",
       "titleCharacters": 73,
       "descriptionCharacters": 205,
-      "bodyWords": 653,
+      "bodyWords": 652,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4417,7 +4417,7 @@
       "description": "Combinando un piccolo perno di posizionamento con una vite si possono ridurre i componenti separati, ma le funzioni di posizionamento e bloccaggio necessitano comunque di specifiche distinte.",
       "titleCharacters": 78,
       "descriptionCharacters": 191,
-      "bodyWords": 772,
+      "bodyWords": 770,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4432,7 +4432,7 @@
       "description": "将小定位销与螺钉组合可以减少单独的部件，但定位和夹紧功能仍然需要不同的规格。",
       "titleCharacters": 15,
       "descriptionCharacters": 38,
-      "bodyWords": 113,
+      "bodyWords": 115,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4447,7 +4447,7 @@
       "description": "La combinaison d'une petite goupille de positionnement avec une vis peut réduire le nombre de composants séparés, mais les fonctions de positionnement et de serrage nécessitent toujours des spécifications distinctes.",
       "titleCharacters": 91,
       "descriptionCharacters": 216,
-      "bodyWords": 792,
+      "bodyWords": 793,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4462,7 +4462,7 @@
       "description": "Mehrere Schultern können mehrere Komponenten aufnehmen. Ein übersichtliches Bemaßungsschema erklärt, welche Achsabstände die Montage steuern und welche sich aus anderen Bemaßungen ergeben.",
       "titleCharacters": 50,
       "descriptionCharacters": 188,
-      "bodyWords": 626,
+      "bodyWords": 625,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4492,7 +4492,7 @@
       "description": "Diverse spalle possono posizionare diversi componenti. Uno schema dimensionale chiaro spiega quali distanze assiali controllano l'assemblaggio e quali sono conseguenze di altre dimensioni.",
       "titleCharacters": 60,
       "descriptionCharacters": 188,
-      "bodyWords": 757,
+      "bodyWords": 755,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4507,7 +4507,7 @@
       "description": "多个肩部可以定位多个部件。清晰的尺寸方案解释了哪些轴向距离控制装配以及哪些是其他尺寸的结果。",
       "titleCharacters": 12,
       "descriptionCharacters": 46,
-      "bodyWords": 113,
+      "bodyWords": 115,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4522,7 +4522,7 @@
       "description": "Plusieurs épaulements permettent de localiser plusieurs composants. Un schéma dimensionnel clair explique quelles distances axiales contrôlent l'assemblage et lesquelles sont les conséquences d'autres dimensions.",
       "titleCharacters": 57,
       "descriptionCharacters": 212,
-      "bodyWords": 755,
+      "bodyWords": 756,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4537,7 +4537,7 @@
       "description": "Eine Einpressverbindung ist abhängig von der Platte, dem Loch und dem Montagevorgang. Ein benutzerdefinierter Bolzen kann nicht als isolierte Gewindeform ausgewertet werden.",
       "titleCharacters": 52,
       "descriptionCharacters": 173,
-      "bodyWords": 625,
+      "bodyWords": 624,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4567,7 +4567,7 @@
       "description": "Una connessione a pressione dipende dal pannello, dal foro e dal processo di installazione. Un perno personalizzato non può essere valutato come una forma filettata isolata.",
       "titleCharacters": 61,
       "descriptionCharacters": 173,
-      "bodyWords": 707,
+      "bodyWords": 705,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4582,7 +4582,7 @@
       "description": "压入式连接取决于面板、孔和安装过程。定制螺柱不能被视为独立的螺纹形状。",
       "titleCharacters": 21,
       "descriptionCharacters": 35,
-      "bodyWords": 108,
+      "bodyWords": 110,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4597,7 +4597,7 @@
       "description": "Une connexion par pression dépend du panneau, du trou et du processus d'installation. Un goujon personnalisé ne peut pas être évalué comme une forme filetée isolée.",
       "titleCharacters": 50,
       "descriptionCharacters": 164,
-      "bodyWords": 728,
+      "bodyWords": 729,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4612,7 +4612,7 @@
       "description": "Gewinderollen oder -schneiden ist eine Verfahrenswahl; Gewindegeometrie und Abnahme sind Produktanforderungen. Eine vollständige Anfrage nennt beides.",
       "titleCharacters": 90,
       "descriptionCharacters": 150,
-      "bodyWords": 801,
+      "bodyWords": 847,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4627,7 +4627,7 @@
       "description": "Laminar o tallar la rosca es una elección de proceso; geometría y aceptación de la rosca son requisitos del producto. Una RFQ completa indica ambos.",
       "titleCharacters": 60,
       "descriptionCharacters": 148,
-      "bodyWords": 967,
+      "bodyWords": 1016,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4642,7 +4642,7 @@
       "description": "Rullatura o taglio del filetto è una scelta di processo; geometria e accettazione sono requisiti di prodotto. Una RFQ completa li indica entrambi.",
       "titleCharacters": 73,
       "descriptionCharacters": 146,
-      "bodyWords": 959,
+      "bodyWords": 1007,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4657,7 +4657,7 @@
       "description": "滚丝还是车丝是工艺选择；螺纹几何和验收是产品要求。完整的询价应同时写清两者。",
       "titleCharacters": 18,
       "descriptionCharacters": 38,
-      "bodyWords": 143,
+      "bodyWords": 147,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4672,7 +4672,7 @@
       "description": "Rouler ou tailler un filetage est un choix de procédé ; géométrie et acceptation sont des exigences produit. Une demande complète précise les deux.",
       "titleCharacters": 66,
       "descriptionCharacters": 147,
-      "bodyWords": 1002,
+      "bodyWords": 1055,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4687,7 +4687,7 @@
       "description": "Ein gebohrtes Querloch erzeugt Eintritts- und Austrittskanten und kann ein anderes Merkmal schneiden. In der Ausschreibung sollten diese Kanten ebenso sorgfältig definiert werden wie die Lochposition.",
       "titleCharacters": 60,
       "descriptionCharacters": 200,
-      "bodyWords": 671,
+      "bodyWords": 670,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4717,7 +4717,7 @@
       "description": "Un foro trasversale crea bordi di entrata e di uscita e può intersecare un altro elemento. La richiesta di offerta dovrebbe definire tali bordi con la stessa attenzione della posizione del foro.",
       "titleCharacters": 85,
       "descriptionCharacters": 194,
-      "bodyWords": 777,
+      "bodyWords": 775,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4732,7 +4732,7 @@
       "description": "钻出的交叉孔创建入口和出口边缘，并且可能与另一个特征相交。 RFQ 应像定义孔位置一样仔细定义这些边缘。",
       "titleCharacters": 17,
       "descriptionCharacters": 52,
-      "bodyWords": 117,
+      "bodyWords": 119,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4747,7 +4747,7 @@
       "description": "Un trou transversal percé crée des bords d’entrée et de sortie et peut croiser une autre entité. La demande de prix doit définir ces bords avec autant de soin que l'emplacement du trou.",
       "titleCharacters": 85,
       "descriptionCharacters": 185,
-      "bodyWords": 806,
+      "bodyWords": 807,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4762,7 +4762,7 @@
       "description": "Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem Zustand beurteilt werden, den der Kunde erhält, und nicht nur vor der Oberflächenbehandlung.",
       "titleCharacters": 55,
       "descriptionCharacters": 169,
-      "bodyWords": 700,
+      "bodyWords": 699,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4792,7 +4792,7 @@
       "description": "Un rivestimento rientra nel piano dimensionale. La vestibilità finale deve essere valutata nelle condizioni in cui la riceve il cliente, non solo prima del trattamento superficiale.",
       "titleCharacters": 70,
       "descriptionCharacters": 181,
-      "bodyWords": 839,
+      "bodyWords": 837,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4807,7 +4807,7 @@
       "description": "涂层属于尺寸计划。最终的配合必须在客户收到的情况下进行评估，而不仅仅是在表面处理之前。",
       "titleCharacters": 12,
       "descriptionCharacters": 43,
-      "bodyWords": 123,
+      "bodyWords": 125,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4822,7 +4822,7 @@
       "description": "Un revêtement appartient au plan dimensionnel. L'ajustement final doit être évalué dans l'état dans lequel le client reçoit, et pas seulement avant le traitement de surface.",
       "titleCharacters": 69,
       "descriptionCharacters": 173,
-      "bodyWords": 864,
+      "bodyWords": 865,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4837,7 +4837,7 @@
       "description": "Ein helles Erscheinungsbild weist nicht auf einen Oberflächenprozess hin. Geben Sie das Substrat und die gewünschte Oberflächenfunktion an, bevor Sie zwischen Galvanisierung, Passivierung oder einer anderen Behandlung wählen.",
       "titleCharacters": 60,
       "descriptionCharacters": 225,
-      "bodyWords": 698,
+      "bodyWords": 697,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4867,7 +4867,7 @@
       "description": "Un aspetto brillante non identifica un processo superficiale. Specificare il substrato e la funzione superficiale richiesta prima di scegliere tra placcatura, passivazione o altro trattamento.",
       "titleCharacters": 54,
       "descriptionCharacters": 192,
-      "bodyWords": 762,
+      "bodyWords": 760,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4882,7 +4882,7 @@
       "description": "光亮的外观并不代表表面经过处理。在选择电镀、钝化或其他处理之前，请指定基材和所需的表面功能。",
       "titleCharacters": 20,
       "descriptionCharacters": 46,
-      "bodyWords": 134,
+      "bodyWords": 136,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4897,7 +4897,7 @@
       "description": "Un aspect brillant n’identifie pas un processus de surface. Précisez le substrat et la fonction de surface requise avant de choisir entre le placage, la passivation ou un autre traitement.",
       "titleCharacters": 62,
       "descriptionCharacters": 188,
-      "bodyWords": 833,
+      "bodyWords": 834,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4912,7 +4912,7 @@
       "description": "Ein Beschichtungsfamilienname definiert nicht die gesamte gelieferte Oberfläche. Ausschreibungen für kundenspezifische Verbindungselemente sollten das Beschichtungssystem mit den Anforderungen an Passform, Reibung und Akzeptanz in Verbindung bringen.",
       "titleCharacters": 93,
       "descriptionCharacters": 250,
-      "bodyWords": 696,
+      "bodyWords": 736,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4927,7 +4927,7 @@
       "description": "El nombre de una familia de revestimientos no define la superficie completa suministrada. Las solicitudes de cotización de sujetadores personalizados deben conectar el sistema de recubrimiento con los requisitos de ajuste, fricción y aceptación.",
       "titleCharacters": 85,
       "descriptionCharacters": 245,
-      "bodyWords": 863,
+      "bodyWords": 918,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4942,7 +4942,7 @@
       "description": "Il nome di una famiglia di rivestimenti non definisce la superficie completa fornita. Le richieste di offerta di dispositivi di fissaggio personalizzati dovrebbero collegare il sistema di rivestimento ai requisiti di adattamento, attrito e accettazione.",
       "titleCharacters": 81,
       "descriptionCharacters": 253,
-      "bodyWords": 845,
+      "bodyWords": 893,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4957,7 +4957,7 @@
       "description": "涂层系列名称并不定义完整的供应表面。定制紧固件询价应将涂层系统与配合、摩擦和验收要求联系起来。",
       "titleCharacters": 19,
       "descriptionCharacters": 47,
-      "bodyWords": 122,
+      "bodyWords": 128,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4972,7 +4972,7 @@
       "description": "Un nom de famille de revêtements ne définit pas la surface complète fournie. Les demandes de prix sur les fixations personnalisées doivent relier le système de revêtement aux exigences d’ajustement, de friction et d’acceptation.",
       "titleCharacters": 80,
       "descriptionCharacters": 228,
-      "bodyWords": 900,
+      "bodyWords": 948,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4987,7 +4987,7 @@
       "description": "Sauberkeit wird zur technischen Anforderung, wenn Verunreinigungen die Baugruppe beeinflussen. Festlegen, was entfernt, wie gemessen und wie geschützt wird.",
       "titleCharacters": 84,
       "descriptionCharacters": 156,
-      "bodyWords": 713,
+      "bodyWords": 712,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5017,7 +5017,7 @@
       "description": "La pulizia è un requisito tecnico quando la contaminazione influisce sull’assieme. Definire cosa rimuovere, come misurarlo e come proteggerlo.",
       "titleCharacters": 57,
       "descriptionCharacters": 142,
-      "bodyWords": 840,
+      "bodyWords": 838,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5032,7 +5032,7 @@
       "description": "当污染会影响装配时，清洁度就是技术要求：明确需去除什么、如何测量以及如何保护清洁状态。",
       "titleCharacters": 16,
       "descriptionCharacters": 43,
-      "bodyWords": 122,
+      "bodyWords": 124,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5047,7 +5047,7 @@
       "description": "La propreté devient une exigence technique quand la contamination affecte l’assemblage. Définissez ce qui est retiré, comment le mesurer et le protéger.",
       "titleCharacters": 70,
       "descriptionCharacters": 152,
-      "bodyWords": 867,
+      "bodyWords": 868,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5062,7 +5062,7 @@
       "description": "Für eine vorab angebrachte Verriegelungsfunktion sind definierte Material-, Standort- und Montageanforderungen erforderlich. Ein auf einem Foto abgebildeter Farbfleck stellt keine vollständige Spezifikation dar.",
       "titleCharacters": 65,
       "descriptionCharacters": 211,
-      "bodyWords": 596,
+      "bodyWords": 595,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5092,7 +5092,7 @@
       "description": "Una funzione di bloccaggio preapplicata necessita di requisiti di materiale, posizione e assemblaggio definiti. Una toppa colorata mostrata in una fotografia non rappresenta una specifica completa.",
       "titleCharacters": 57,
       "descriptionCharacters": 197,
-      "bodyWords": 722,
+      "bodyWords": 720,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5107,7 +5107,7 @@
       "description": "预应用的锁定功能需要明确的材料、位置和组装要求。照片中显示的彩色补丁并不是完整的规格。",
       "titleCharacters": 21,
       "descriptionCharacters": 43,
-      "bodyWords": 106,
+      "bodyWords": 108,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5122,7 +5122,7 @@
       "description": "Une fonction de verrouillage pré-appliquée nécessite des exigences définies en matière de matériau, d'emplacement et d'assemblage. Un patch coloré montré sur une photographie ne constitue pas une spécification complète.",
       "titleCharacters": 63,
       "descriptionCharacters": 219,
-      "bodyWords": 734,
+      "bodyWords": 735,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5137,7 +5137,7 @@
       "description": "Als Kleinbaugruppe wird eine vormontierte Schraube mitgeliefert. Die Unterlegscheibe, die Haltemethode und die Reihenfolge der Komponenten erfordern die gleiche Kontrolle wie die Schraube selbst.",
       "titleCharacters": 80,
       "descriptionCharacters": 195,
-      "bodyWords": 722,
+      "bodyWords": 721,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5167,7 +5167,7 @@
       "description": "Una vite preassemblata viene fornita come piccolo assieme. La rondella, il metodo di ritenzione e la sequenza dei componenti necessitano dello stesso controllo della vite stessa.",
       "titleCharacters": 61,
       "descriptionCharacters": 178,
-      "bodyWords": 827,
+      "bodyWords": 825,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5182,7 +5182,7 @@
       "description": "预装螺钉作为小组件提供。垫圈、固位方法和部件顺序需要与螺钉本身相同的控制。",
       "titleCharacters": 19,
       "descriptionCharacters": 37,
-      "bodyWords": 124,
+      "bodyWords": 126,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5197,7 +5197,7 @@
       "description": "Une vis préassemblée est fournie sous forme de petit assemblage. La rondelle, la méthode de rétention et la séquence des composants nécessitent le même contrôle que la vis elle-même.",
       "titleCharacters": 61,
       "descriptionCharacters": 182,
-      "bodyWords": 863,
+      "bodyWords": 864,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5212,7 +5212,7 @@
       "description": "Kamerabasierte (CCD-)Prüfung erfasst sichtbare Schraubenmerkmale, wenn Bild, Aufbau und Programm zur Anforderung passen – als Teil eines Abnahmeplans.",
       "titleCharacters": 77,
       "descriptionCharacters": 150,
-      "bodyWords": 930,
+      "bodyWords": 929,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5242,7 +5242,7 @@
       "description": "L’ispezione con telecamera (CCD) verifica caratteristiche visibili della vite se immagine, setup e programma corrispondono al requisito: è parte del piano di accettazione.",
       "titleCharacters": 69,
       "descriptionCharacters": 171,
-      "bodyWords": 1105,
+      "bodyWords": 1103,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5257,7 +5257,7 @@
       "description": "CCD视觉检测可检查螺丝的可见特征，前提是成像、设置和程序与要求匹配；它只是完整验收方案的一部分。",
       "titleCharacters": 21,
       "descriptionCharacters": 49,
-      "bodyWords": 134,
+      "bodyWords": 136,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5272,7 +5272,7 @@
       "description": "Le contrôle par caméra (CCD) vérifie les caractéristiques visibles d’une vis si image, réglage et programme répondent à l’exigence ; il s’inscrit dans un plan d’acceptation.",
       "titleCharacters": 72,
       "descriptionCharacters": 173,
-      "bodyWords": 1175,
+      "bodyWords": 1176,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5287,7 +5287,7 @@
       "description": "Die Erstmusterfreigabe verbindet die freigegebene Zeichnung mit den Nachweisen vor der Serie: Musteridentität, Revisionsstand und Abnahmeumfang.",
       "titleCharacters": 46,
       "descriptionCharacters": 144,
-      "bodyWords": 622,
+      "bodyWords": 621,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5317,7 +5317,7 @@
       "description": "L’approvazione del primo campione collega il disegno approvato alle evidenze prima della serie: identità del campione, revisione e ambito di accettazione.",
       "titleCharacters": 56,
       "descriptionCharacters": 154,
-      "bodyWords": 716,
+      "bodyWords": 714,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5332,7 +5332,7 @@
       "description": "首件确认把已批准图纸与量产前所需证据联系起来：样品标识、图纸版本和验收范围。",
       "titleCharacters": 16,
       "descriptionCharacters": 38,
-      "bodyWords": 104,
+      "bodyWords": 106,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5347,7 +5347,7 @@
       "description": "La validation du premier article relie le plan approuvé aux preuves requises avant la série : identité de l’échantillon, révision et périmètre d’acceptation.",
       "titleCharacters": 56,
       "descriptionCharacters": 157,
-      "bodyWords": 749,
+      "bodyWords": 750,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5362,7 +5362,7 @@
       "description": "Der Prüfumfang folgt Merkmal und Abnahmeplan. „100 % Prüfung“ allein lässt Methode, Merkmale und Nachweise offen.",
       "titleCharacters": 63,
       "descriptionCharacters": 113,
-      "bodyWords": 745,
+      "bodyWords": 744,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5392,7 +5392,7 @@
       "description": "La copertura dei controlli deve seguire ogni caratteristica e il piano di accettazione. «Controllo al 100 %» da solo lascia indefiniti metodo, caratteristiche ed evidenze.",
       "titleCharacters": 64,
       "descriptionCharacters": 171,
-      "bodyWords": 870,
+      "bodyWords": 868,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5407,7 +5407,7 @@
       "description": "检验覆盖范围应按特性和验收计划确定。只写“全检”，方法、特性和证据仍未定义。",
       "titleCharacters": 19,
       "descriptionCharacters": 38,
-      "bodyWords": 135,
+      "bodyWords": 137,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5422,7 +5422,7 @@
       "description": "La couverture du contrôle suit chaque caractéristique et le plan d’acceptation. « Contrôle à 100 % » seul laisse méthode, caractéristiques et preuves indéfinies.",
       "titleCharacters": 62,
       "descriptionCharacters": 161,
-      "bodyWords": 901,
+      "bodyWords": 902,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5437,7 +5437,7 @@
       "description": "Die Abnahme der Gewindekontrolle beginnt mit dem vorgegebenen Gewindesystem und der Passung. Das Messgerät, die gelieferte Oberfläche und die Prüfmethode sollten sich alle auf dieselbe Anforderung beziehen.",
       "titleCharacters": 61,
       "descriptionCharacters": 206,
-      "bodyWords": 714,
+      "bodyWords": 713,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5467,7 +5467,7 @@
       "description": "l'accettazione dell'ispezione della filettatura inizia con il sistema di filettatura e l'adattamento specificati. Il calibro, la finitura fornita e il metodo di ispezione dovrebbero tutti fare riferimento allo stesso requisito.",
       "titleCharacters": 69,
       "descriptionCharacters": 227,
-      "bodyWords": 835,
+      "bodyWords": 833,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5482,7 +5482,7 @@
       "description": "螺纹检查验收从指定的螺纹系统和配合开始。规格、提供的表面处理和检验方法均应参考相同的要求。",
       "titleCharacters": 19,
       "descriptionCharacters": 45,
-      "bodyWords": 128,
+      "bodyWords": 130,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5497,7 +5497,7 @@
       "description": "L'acceptation de l'inspection du filetage commence par le système de filetage et l'ajustement spécifiés. La jauge, la finition fournie et la méthode d’inspection doivent toutes faire référence à cette même exigence.",
       "titleCharacters": 63,
       "descriptionCharacters": 215,
-      "bodyWords": 865,
+      "bodyWords": 866,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5512,7 +5512,7 @@
       "description": "Anzugsvorgaben gehören zur Verbindung, nicht zum Schraubendurchmesser. Reibung, Auflageflächen und Montageverfahren verknüpfen Anzugsmoment und Klemmkraft.",
       "titleCharacters": 88,
       "descriptionCharacters": 155,
-      "bodyWords": 706,
+      "bodyWords": 705,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5542,7 +5542,7 @@
       "description": "Le istruzioni di serraggio appartengono al giunto, non al diametro. Attrito, superfici di appoggio e metodo di montaggio legano coppia e forza di serraggio.",
       "titleCharacters": 79,
       "descriptionCharacters": 156,
-      "bodyWords": 844,
+      "bodyWords": 842,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5557,7 +5557,7 @@
       "description": "拧紧要求属于连接副，而非仅由螺丝直径决定。摩擦、支承面和装配方法共同决定拧紧扭矩与夹紧力的关系。",
       "titleCharacters": 19,
       "descriptionCharacters": 48,
-      "bodyWords": 122,
+      "bodyWords": 124,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5572,7 +5572,7 @@
       "description": "Les consignes de serrage relèvent de l’assemblage, pas du diamètre. Frottement, surfaces d’appui et méthode lient couple de serrage et effort de serrage.",
       "titleCharacters": 81,
       "descriptionCharacters": 153,
-      "bodyWords": 876,
+      "bodyWords": 877,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5587,7 +5587,7 @@
       "description": "Ein Prototyp bestätigt die Geometrie, nicht den Serienweg. Den Übergang so planen, dass Funktion und Abnahme den Wechsel des Fertigungsverfahrens überstehen.",
       "titleCharacters": 61,
       "descriptionCharacters": 157,
-      "bodyWords": 614,
+      "bodyWords": 613,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5617,7 +5617,7 @@
       "description": "Un prototipo conferma la geometria, non il ciclo di serie. Pianificare la transizione perché funzione e accettazione restino valide al cambio di processo.",
       "titleCharacters": 56,
       "descriptionCharacters": 154,
-      "bodyWords": 737,
+      "bodyWords": 735,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5632,7 +5632,7 @@
       "description": "样件验证的是几何形状，而不是量产工艺路线。应规划好转产，使已批准的功能和验收要求在更换加工方式后仍然成立。",
       "titleCharacters": 23,
       "descriptionCharacters": 53,
-      "bodyWords": 106,
+      "bodyWords": 108,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5647,7 +5647,7 @@
       "description": "Un prototype valide la géométrie, pas la gamme de série. Planifiez la transition pour que fonction et acceptation survivent au changement de procédé.",
       "titleCharacters": 57,
       "descriptionCharacters": 149,
-      "bodyWords": 761,
+      "bodyWords": 762,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5662,7 +5662,7 @@
       "description": "Wiederholaufträge sollen die freigegebene Spezifikation wiederholen, nicht eine alte E-Mail. Einfache Revisionslenkung hält Zeichnung, Muster und Prüfnachweise im Einklang.",
       "titleCharacters": 105,
       "descriptionCharacters": 172,
-      "bodyWords": 614,
+      "bodyWords": 613,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5692,7 +5692,7 @@
       "description": "Gli ordini ripetuti devono ripetere la specifica approvata, non una vecchia e-mail. Un semplice controllo revisioni allinea disegni, campioni e registrazioni.",
       "titleCharacters": 108,
       "descriptionCharacters": 158,
-      "bodyWords": 727,
+      "bodyWords": 725,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5707,7 +5707,7 @@
       "description": "返单应沿用已批准的规格，而不是旧邮件。简单的版本控制可让图纸、样品和检验记录保持一致。",
       "titleCharacters": 17,
       "descriptionCharacters": 43,
-      "bodyWords": 104,
+      "bodyWords": 106,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5722,7 +5722,7 @@
       "description": "Les commandes répétées doivent reprendre la spécification approuvée, pas un ancien e-mail. Un contrôle de révision simple aligne plans, échantillons et enregistrements.",
       "titleCharacters": 99,
       "descriptionCharacters": 168,
-      "bodyWords": 758,
+      "bodyWords": 759,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5737,7 +5737,7 @@
       "description": "Die Verpackung gehört zum Lieferzustand. Es soll Funktionsflächen schützen, die Identifikation wahren und den Wareneingangs- und Montageprozess praxistauglich gestalten.",
       "titleCharacters": 84,
       "descriptionCharacters": 169,
-      "bodyWords": 616,
+      "bodyWords": 615,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5767,7 +5767,7 @@
       "description": "L'imballaggio fa parte della condizione di consegna. Dovrebbe proteggere le superfici funzionali, preservare l'identificazione e rendere pratico il processo di ispezione e assemblaggio in entrata.",
       "titleCharacters": 71,
       "descriptionCharacters": 196,
-      "bodyWords": 699,
+      "bodyWords": 697,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5782,7 +5782,7 @@
       "description": "包装是交付状态的一部分。它应该保护功能表面，保留标识并使进货检查和组装过程切实可行。",
       "titleCharacters": 16,
       "descriptionCharacters": 42,
-      "bodyWords": 104,
+      "bodyWords": 106,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5797,7 +5797,7 @@
       "description": "L'emballage fait partie de l'état de livraison. Il doit protéger les surfaces fonctionnelles, préserver l’identification et rendre pratique le processus d’inspection et d’assemblage à l’arrivée.",
       "titleCharacters": 80,
       "descriptionCharacters": 194,
-      "bodyWords": 754,
+      "bodyWords": 755,
       "types": [
         "BlogPosting",
         "Organization",
