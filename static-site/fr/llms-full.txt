@@ -6205,7 +6205,7 @@ Qualités et propriétés finales Nommer le matériau et l'état spécifié ou l
 
 Séquence dimensionnelle Identifier les surfaces fonctionnelles et les surépaisseurs de finition ultérieures Quelles caractéristiques peuvent nécessiter une revérification ou une finition après le traitement ?
 
-Preuve Préciser la dureté, les autres contrôles mécaniques et les enregistrements demandés Quels critères de méthode, d’échantillonnage et d’acceptation s’appliquent à chaque exigence ?
+Preuves Préciser la dureté, les autres contrôles mécaniques et les enregistrements demandés Quels critères de méthode, d’échantillonnage et d’acceptation s’appliquent à chaque exigence ?
 
 Compatibilité des surfaces Coordonner le nettoyage ultérieur, le revêtement et les contrôles des risques Le tracé complet proposé protège-t-il la condition finale ordonnée ?
 
@@ -9475,6 +9475,22 @@ Par Theo Wan Lire le guide technique →
 
 Frappe à froid multiposte ↗ Type Suisse & CNC Tournage ↗ Frappe à froid et usinage secondaire ↗
 
+#### En bref : frappe à froid ou décolletage CNC
+
+Critère Frappe à froid Décolletage CNC / poupée mobile
+
+Quantité typique Volumes répétés qui justifient l’outillage Prototypes, petites séries et conceptions évolutives
+
+Outillage Matrices et poinçons sont réalisés avant la production Surtout des programmes et des outils de coupe standard
+
+Utilisation de la matière Peu de perte matière ; le fibrage suit la forme frappée La matière est enlevée en copeaux ; le fibrage est coupé
+
+Géométrie adaptée Têtes, embases et épaulements formables en plusieurs étapes Alésages profonds, trous transversaux, formes excentrées et détails serrés
+
+Modifications de conception Modifier les matrices prend plus de temps et coûte plus cher Les modifications de programme sont rapides
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
+
 ### Revêtements et risque lié à l’hydrogène des vis à haute résistance
 Source: https://zufek.net/fr/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
@@ -11395,6 +11411,22 @@ Par Theo Wan Lire le guide technique →
 
 Filetage, coupe et taraudage ↗ Traitement thermique adapté au matériau ↗ Contrôle dimensionnel et vision CCD ↗
 
+#### En bref : filetage roulé ou taillé
+
+Critère Filetage roulé Filetage taillé
+
+Mode d’obtention La matière est refoulée entre les molettes La matière est enlevée par tournage, filière ou fraisage
+
+Ébauche Une ébauche réduite proche du diamètre sur flancs Matière au diamètre extérieur complet
+
+Surface et fatigue Flancs lisses écrouis ; en général meilleure tenue en fatigue Le fibrage est coupé ; l’état de surface dépend de l’outil et du réglage
+
+Adapté à Production en série et de nombreux profils spéciaux Grands pas, petites séries et filetages proches d’un épaulement
+
+À préciser dans la demande Désignation, classe, calibrage et si le roulage est exigé Désignation, classe, calibrage et si la taille est acceptée
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -11688,6 +11720,22 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Revêtements et traitements de surface ↗ Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
+
+#### En bref : nickelage ou passivation de l’inox
+
+Critère Nickelage Passivation de l’inox
+
+S’applique à Acier, laiton et autres substrats Acier inoxydable uniquement
+
+Effet Ajoute une couche métallique de nickel Élimine le fer libre et favorise le film passif ; n’ajoute pas de couche
+
+Effet dimensionnel Ajoute de l’épaisseur ; filetages et ajustements nécessitent une réserve Variation dimensionnelle négligeable
+
+Référence courante ISO 4042 pour fixations à revêtement électrolytique ASTM A967 ou ASTM A380
+
+Risque hydrogène L’acier haute résistance nécessite une revue de fragilisation par l’hydrogène Ce n’est pas un procédé électrolytique
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
 
 ### Que spécifier pour une vis personnalisée à revêtement en flocons de zinc
 Source: https://zufek.net/fr/blog/zinc-flake-coating-specification/
@@ -12362,6 +12410,22 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Contrôle dimensionnel et vision CCD ↗ Nettoyage, freinage et préassemblage ↗
+
+#### En bref : échantillonnage ou contrôle à 100 %
+
+Critère Contrôle par échantillonnage Contrôle à 100 %
+
+Couverture Un échantillon défini par lot Chaque pièce, pour les caractéristiques désignées
+
+Adapté à Procédés stables et caractéristiques à moindre risque Caractéristiques fonctionnelles ou de sécurité et procédés instables
+
+Méthodes typiques Calibres et instruments selon un plan tel que l’ISO 2859-1 Tri optique (CCD), calibrage entre/n’entre pas ou contrôle fonctionnel
+
+Preuves Enregistrements d’échantillon et acceptation du lot Enregistrements de tri, rebuts et vérification du système
+
+À préciser dans la demande Caractéristiques, plan d’échantillonnage et critères d’acceptation Caractéristiques, méthode et vérification du système
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 

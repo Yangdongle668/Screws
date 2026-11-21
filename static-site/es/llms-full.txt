@@ -6205,7 +6205,7 @@ Grado y propiedades finales. Nombre el material y la condición especificada o l
 
 Secuencia dimensional Identificar superficies funcionales y posteriores márgenes de acabado. ¿Qué características pueden necesitar volver a comprobarse o finalizarse después del tratamiento?
 
-evidencia Especificar dureza, otras comprobaciones mecánicas y registros solicitados. ¿Qué método, muestreo y criterio de aceptación se aplican a cada requisito?
+Evidencia Especificar dureza, otras comprobaciones mecánicas y registros solicitados. ¿Qué método, muestreo y criterio de aceptación se aplican a cada requisito?
 
 Compatibilidad de superficies Coordinar posteriores controles de limpieza, revestimiento y riesgos. ¿La ruta propuesta completa protege la condición final ordenada?
 
@@ -9475,6 +9475,22 @@ Por Theo Wan Leer guía técnica →
 
 Estampación en frío multiestación ↗ Tipo suizo y CNC Girando ↗ Rodamiento en frío + mecanizado secundario ↗
 
+#### De un vistazo: estampación en frío o torneado CNC
+
+Factor Estampación en frío Torneado CNC / tipo suizo
+
+Cantidad típica Volúmenes repetidos que justifican el utillaje Prototipos, lotes pequeños y diseños cambiantes
+
+Utillaje Matrices y punzones se fabrican antes de producir Principalmente programas y herramientas de corte estándar
+
+Aprovechamiento del material Poca pérdida de material; la fibra sigue la forma conformada El material se elimina como viruta; la fibra queda cortada
+
+Geometría adecuada Cabezas, bridas y escalones que pueden conformarse por etapas Taladros profundos, agujeros transversales, rasgos excéntricos y locales ajustados
+
+Cambios de diseño Cambiar matrices lleva más tiempo y cuesta más Los cambios de programa son rápidos
+
+Comparación general. La ruta y los requisitos de una pieza concreta se confirman con su plano.
+
 ### Recubrimientos y riesgo por hidrógeno en tornillos de alta resistencia
 Source: https://zufek.net/es/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
@@ -11395,6 +11411,22 @@ Por Theo Wan Leer guía técnica →
 
 Laminado, corte y roscado de rosca ↗ Tratamiento térmico según el material ↗ Inspección dimensional y visión CCD ↗
 
+#### De un vistazo: rosca laminada o tallada
+
+Factor Rosca laminada Rosca tallada
+
+Cómo se fabrica El material se desplaza entre peines o rodillos El material se elimina por torneado, terraja o fresado
+
+Pieza en bruto Un bruto reducido cercano al diámetro de flancos Material al diámetro exterior completo
+
+Superficie y fatiga Flancos lisos y endurecidos en frío; en general mejor resistencia a la fatiga La fibra queda cortada; el acabado depende de la herramienta y el ajuste
+
+Adecuado para Producción en serie y muchos perfiles especiales Pasos grandes, lotes pequeños y roscas cerca de un hombro
+
+Indicar en la RFQ Designación, clase, calibrado y si se exige laminado Designación, clase, calibrado y si se acepta el tallado
+
+Comparación general. La ruta y los requisitos de una pieza concreta se confirman con su plano.
+
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -11688,6 +11720,22 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Recubrimientos y tratamientos superficiales ↗ Limpieza, bloqueo y premontaje ↗ Inspección dimensional y visión CCD ↗
+
+#### De un vistazo: niquelado o pasivado de inoxidable
+
+Factor Niquelado Pasivado de inoxidable
+
+Se aplica a Acero, latón y otros sustratos Solo acero inoxidable
+
+Qué hace Añade una capa metálica de níquel Elimina el hierro libre y favorece la película pasiva; no añade capa
+
+Efecto dimensional Añade espesor; roscas y ajustes necesitan una tolerancia previa Cambio dimensional despreciable
+
+Referencia habitual ISO 4042 para fijaciones electrolíticas ASTM A967 o ASTM A380
+
+Riesgo de hidrógeno El acero de alta resistencia requiere revisar la fragilización por hidrógeno No es un proceso electrolítico
+
+Comparación general. La ruta y los requisitos de una pieza concreta se confirman con su plano.
 
 ### Qué especificar para un tornillo personalizado recubierto con escamas de zinc
 Source: https://zufek.net/es/blog/zinc-flake-coating-specification/
@@ -12362,6 +12410,22 @@ Por Theo Wan Leer guía técnica →
 #### Temas de fabricación relacionados
 
 Inspección dimensional y visión CCD ↗ Limpieza, bloqueo y premontaje ↗
+
+#### De un vistazo: muestreo o inspección al 100 %
+
+Factor Inspección por muestreo Inspección al 100 %
+
+Cobertura Una muestra definida de cada lote Cada pieza, para las características indicadas
+
+Adecuado para Procesos estables y características de menor riesgo Características funcionales o de seguridad y procesos inestables
+
+Métodos típicos Calibres e instrumentos según un plan como ISO 2859-1 Clasificación óptica (CCD), calibre pasa/no pasa o comprobación funcional
+
+Evidencia Registros de muestra y aceptación del lote Registros de clasificación, rechazos y verificación del sistema
+
+Indicar en la RFQ Características, plan de muestreo y números de aceptación Características, método y cómo se verifica el sistema
+
+Comparación general. La ruta y los requisitos de una pieza concreta se confirman con su plano.
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 

@@ -9475,6 +9475,22 @@ By Theo Wan Read technical guide →
 
 Multi-Station Cold Heading ↗ Swiss-Type & CNC Turning ↗ Cold Heading + Secondary Machining ↗
 
+#### At a glance: cold heading vs CNC turning
+
+Factor Cold heading CNC / Swiss-type turning
+
+Typical quantity Repeat volumes that justify tooling Prototypes, small batches and changing designs
+
+Tooling Dies and punches are made before production Mainly programs and standard cutting tools
+
+Material use Little material loss; grain flow follows the formed shape Material is removed as chips; grain flow is cut
+
+Suited geometry Heads, flanges and steps that can be formed in stages Deep bores, cross holes, eccentric and tight local features
+
+Design changes Die changes take longer and cost more Program changes are quick
+
+General comparison. The route and requirements for a specific part are confirmed against its drawing.
+
 ### High-strength screw coatings and hydrogen-risk review
 Source: https://zufek.net/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
@@ -11395,6 +11411,22 @@ By Theo Wan Read technical guide →
 
 Thread Rolling, Cutting & Tapping ↗ Material-Specific Heat Treatment ↗ CCD Vision & Dimensional Inspection ↗
 
+#### At a glance: rolled vs cut threads
+
+Factor Rolled thread Cut thread
+
+How it is made Material is displaced between dies Material is removed by turning, die cutting or milling
+
+Blank A reduced blank near the pitch diameter Stock at the full major diameter
+
+Surface and fatigue Cold-worked, smooth flanks; generally better fatigue resistance Grain flow is cut; finish depends on tool and setup
+
+Suited to Volume production and many special profiles Large pitches, small batches and threads close to a shoulder
+
+State in the RFQ Thread designation, class, gauging and whether rolling is required Thread designation, class, gauging and whether cutting is acceptable
+
+General comparison. The route and requirements for a specific part are confirmed against its drawing.
+
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -11688,6 +11720,22 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 Coatings & Surface Treatments ↗ Cleaning, Locking & Assembly ↗ CCD Vision & Dimensional Inspection ↗
+
+#### At a glance: nickel plating vs stainless passivation
+
+Factor Nickel plating Stainless passivation
+
+Applies to Steel, brass and other substrates Stainless steel only
+
+What it does Adds a metallic nickel layer Removes free iron and supports the passive film; adds no layer
+
+Dimensional effect Adds thickness; threads and fits need an allowance Negligible dimensional change
+
+Common reference ISO 4042 for electroplated fasteners ASTM A967 or ASTM A380
+
+Hydrogen risk High-strength steel needs a hydrogen-embrittlement review Not an electroplating process
+
+General comparison. The route and requirements for a specific part are confirmed against its drawing.
 
 ### What to specify for a zinc-flake coated custom screw
 Source: https://zufek.net/blog/zinc-flake-coating-specification/
@@ -12362,6 +12410,22 @@ By Theo Wan Read technical guide →
 #### Related manufacturing topics
 
 CCD Vision & Dimensional Inspection ↗ Cleaning, Locking & Assembly ↗
+
+#### At a glance: sampling vs 100% inspection
+
+Factor Sampling inspection 100% inspection
+
+Coverage A defined sample from each lot Every part, for the named characteristics
+
+Suited to Stable processes and lower-risk characteristics Functional or safety-relevant characteristics and unstable processes
+
+Typical methods Gauges and instruments under a plan such as ISO 2859-1 Optical (CCD) sorting, go/no-go gauging or functional checks
+
+Evidence Sample records and lot acceptance Sorting records, reject counts and system verification
+
+State in the RFQ Characteristics, sampling plan and acceptance numbers Characteristics, method and how the system is verified
+
+General comparison. The route and requirements for a specific part are confirmed against its drawing.
 
 CONNECTED SPECIFICATION TOPICS
 

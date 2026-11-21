@@ -263,7 +263,7 @@
       "description": "Choose the manufacturing route around geometry, quantity, material and required condition. A lower cycle cost does not always offset tooling or secondary work.",
       "titleCharacters": 58,
       "descriptionCharacters": 159,
-      "bodyWords": 708,
+      "bodyWords": 819,
       "types": [
         "BlogPosting",
         "Organization",
@@ -563,7 +563,7 @@
       "description": "Thread rolling or cutting is a process choice; thread geometry and acceptance are product requirements. A complete RFQ states both clearly.",
       "titleCharacters": 54,
       "descriptionCharacters": 139,
-      "bodyWords": 693,
+      "bodyWords": 812,
       "types": [
         "BlogPosting",
         "Organization",
@@ -608,7 +608,7 @@
       "description": "A bright appearance does not identify a surface process. Specify the substrate and required surface function before choosing between plating, passivation or another treatment.",
       "titleCharacters": 57,
       "descriptionCharacters": 175,
-      "bodyWords": 592,
+      "bodyWords": 686,
       "types": [
         "BlogPosting",
         "Organization",
@@ -713,7 +713,7 @@
       "description": "Inspection coverage should follow each characteristic and the acceptance plan. “Full inspection” alone leaves the method, features and evidence undefined.",
       "titleCharacters": 57,
       "descriptionCharacters": 154,
-      "bodyWords": 642,
+      "bodyWords": 747,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3112,7 +3112,7 @@
       "description": "Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Material und erforderlichem Zustand. Niedrigere Zykluskosten gleichen nicht immer Werkzeug- oder Sekundärarbeiten aus.",
       "titleCharacters": 72,
       "descriptionCharacters": 194,
-      "bodyWords": 736,
+      "bodyWords": 829,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3127,7 +3127,7 @@
       "description": "Elija la secuencia del proceso de fabricación en cuanto a geometría, cantidad, material y condición requerida. Un costo de ciclo más bajo no siempre compensa el uso de herramientas o trabajo secundario.",
       "titleCharacters": 70,
       "descriptionCharacters": 202,
-      "bodyWords": 867,
+      "bodyWords": 991,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3142,7 +3142,7 @@
       "description": "Scegli la sequenza del processo di produzione in base alla geometria, alla quantità, al materiale e alle condizioni richieste. Un costo del ciclo inferiore non sempre compensa l'attrezzatura o il lavoro secondario.",
       "titleCharacters": 85,
       "descriptionCharacters": 214,
-      "bodyWords": 855,
+      "bodyWords": 978,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3157,7 +3157,7 @@
       "description": "围绕几何形状、数量、材料和所需条件选择制造工艺顺序。较低的周期成本并不总能抵消模具或二次加工的影响。",
       "titleCharacters": 19,
       "descriptionCharacters": 50,
-      "bodyWords": 111,
+      "bodyWords": 135,
       "types": [
         "BlogPosting",
         "Organization",
@@ -3172,7 +3172,7 @@
       "description": "Choisissez la séquence du processus de fabrication en fonction de la géométrie, de la quantité, du matériau et des conditions requises. Un coût de cycle inférieur ne compense pas toujours l’outillage ou le travail secondaire.",
       "titleCharacters": 69,
       "descriptionCharacters": 225,
-      "bodyWords": 888,
+      "bodyWords": 1017,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4612,7 +4612,7 @@
       "description": "Gewinderollen oder -schneiden ist eine Verfahrenswahl; Gewindegeometrie und Abnahme sind Produktanforderungen. Eine vollständige Anfrage nennt beides.",
       "titleCharacters": 90,
       "descriptionCharacters": 150,
-      "bodyWords": 698,
+      "bodyWords": 801,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4627,7 +4627,7 @@
       "description": "Laminar o tallar la rosca es una elección de proceso; geometría y aceptación de la rosca son requisitos del producto. Una RFQ completa indica ambos.",
       "titleCharacters": 60,
       "descriptionCharacters": 148,
-      "bodyWords": 834,
+      "bodyWords": 967,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4642,7 +4642,7 @@
       "description": "Rullatura o taglio del filetto è una scelta di processo; geometria e accettazione sono requisiti di prodotto. Una RFQ completa li indica entrambi.",
       "titleCharacters": 73,
       "descriptionCharacters": 146,
-      "bodyWords": 838,
+      "bodyWords": 959,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4657,7 +4657,7 @@
       "description": "滚丝还是车丝是工艺选择；螺纹几何和验收是产品要求。完整的询价应同时写清两者。",
       "titleCharacters": 18,
       "descriptionCharacters": 38,
-      "bodyWords": 123,
+      "bodyWords": 143,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4672,7 +4672,7 @@
       "description": "Rouler ou tailler un filetage est un choix de procédé ; géométrie et acceptation sont des exigences produit. Une demande complète précise les deux.",
       "titleCharacters": 66,
       "descriptionCharacters": 147,
-      "bodyWords": 874,
+      "bodyWords": 1002,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4837,7 +4837,7 @@
       "description": "Ein helles Erscheinungsbild weist nicht auf einen Oberflächenprozess hin. Geben Sie das Substrat und die gewünschte Oberflächenfunktion an, bevor Sie zwischen Galvanisierung, Passivierung oder einer anderen Behandlung wählen.",
       "titleCharacters": 60,
       "descriptionCharacters": 225,
-      "bodyWords": 610,
+      "bodyWords": 698,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4852,7 +4852,7 @@
       "description": "Una apariencia brillante no identifica un proceso superficial. Especifique el sustrato y la función superficial requerida antes de elegir entre enchapado, pasivación u otro tratamiento.",
       "titleCharacters": 52,
       "descriptionCharacters": 185,
-      "bodyWords": 698,
+      "bodyWords": 803,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4867,7 +4867,7 @@
       "description": "Un aspetto brillante non identifica un processo superficiale. Specificare il substrato e la funzione superficiale richiesta prima di scegliere tra placcatura, passivazione o altro trattamento.",
       "titleCharacters": 54,
       "descriptionCharacters": 192,
-      "bodyWords": 665,
+      "bodyWords": 762,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4882,7 +4882,7 @@
       "description": "光亮的外观并不代表表面经过处理。在选择电镀、钝化或其他处理之前，请指定基材和所需的表面功能。",
       "titleCharacters": 20,
       "descriptionCharacters": 46,
-      "bodyWords": 108,
+      "bodyWords": 134,
       "types": [
         "BlogPosting",
         "Organization",
@@ -4897,7 +4897,7 @@
       "description": "Un aspect brillant n’identifie pas un processus de surface. Précisez le substrat et la fonction de surface requise avant de choisir entre le placage, la passivation ou un autre traitement.",
       "titleCharacters": 62,
       "descriptionCharacters": 188,
-      "bodyWords": 727,
+      "bodyWords": 833,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5362,7 +5362,7 @@
       "description": "Der Prüfumfang folgt Merkmal und Abnahmeplan. „100 % Prüfung“ allein lässt Methode, Merkmale und Nachweise offen.",
       "titleCharacters": 63,
       "descriptionCharacters": 113,
-      "bodyWords": 650,
+      "bodyWords": 745,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5377,7 +5377,7 @@
       "description": "La cobertura de inspección debe seguir cada característica y el plan de aceptación. «Inspección al 100 %» por sí sola deja indefinidos método, rasgos y evidencia.",
       "titleCharacters": 56,
       "descriptionCharacters": 162,
-      "bodyWords": 776,
+      "bodyWords": 895,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5392,7 +5392,7 @@
       "description": "La copertura dei controlli deve seguire ogni caratteristica e il piano di accettazione. «Controllo al 100 %» da solo lascia indefiniti metodo, caratteristiche ed evidenze.",
       "titleCharacters": 64,
       "descriptionCharacters": 171,
-      "bodyWords": 754,
+      "bodyWords": 870,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5407,7 +5407,7 @@
       "description": "检验覆盖范围应按特性和验收计划确定。只写“全检”，方法、特性和证据仍未定义。",
       "titleCharacters": 19,
       "descriptionCharacters": 38,
-      "bodyWords": 111,
+      "bodyWords": 135,
       "types": [
         "BlogPosting",
         "Organization",
@@ -5422,7 +5422,7 @@
       "description": "La couverture du contrôle suit chaque caractéristique et le plan d’acceptation. « Contrôle à 100 % » seul laisse méthode, caractéristiques et preuves indéfinies.",
       "titleCharacters": 62,
       "descriptionCharacters": 161,
-      "bodyWords": 787,
+      "bodyWords": 901,
       "types": [
         "BlogPosting",
         "Organization",

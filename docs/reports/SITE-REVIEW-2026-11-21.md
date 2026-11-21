@@ -214,3 +214,5 @@
 - 工作时间更新为周一至周六 08:00–17:30（UTC+8），ContactPoint 加入 `hoursAvailable`。
 - 15 个产品家族新增“参考标准”表（如 ISO 7379、ISO 4026–4029、DIN 580、DIN 835/938–940），说明标准只是沟通起点、以批准图纸为准；附 ISO 898-1、ISO 3506-1、ISO 4042、ISO 10683 的性能等级与涂层参考；五语译文在 `scripts/standard-references.mjs`。
 - 新增 `docs/reports/AI-VISIBILITY-CHECKLIST.md`：15 个目标问题与月度记录表。
+- 四篇对比型文章（冷镦 vs CNC、滚丝 vs 切丝、镀镍 vs 钝化、抽检 vs 全检）新增“一览”对比表，六语言；源在 `scripts/comparison-tables.mjs`，译文在 `scripts/comparison-localization.mjs`。
+- 已确认：线上文章目前由静态生成页面输出（第一批改动的搜索标题已生效）。若某篇文章今后在后台重新发布，则以后台版本为准，模板改动需通过后台或校订包同步。

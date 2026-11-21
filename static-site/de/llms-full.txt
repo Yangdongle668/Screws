@@ -6205,7 +6205,7 @@ Güteklasse und endgültige Eigenschaften Nennen Sie das Material und den spezif
 
 Dimensionsfolge Identifizieren Sie Funktionsflächen und späteres Schlichtaufmaß Welche Merkmale müssen nach der Behandlung möglicherweise erneut überprüft oder fertiggestellt werden?
 
-Beweise Geben Sie Härte, andere mechanische Prüfungen und angeforderte Aufzeichnungen an Welche Methode, Probenahme und Akzeptanzkriterium gelten für jede Anforderung?
+Nachweis Geben Sie Härte, andere mechanische Prüfungen und angeforderte Aufzeichnungen an Welche Methode, Probenahme und Akzeptanzkriterium gelten für jede Anforderung?
 
 Oberflächenkompatibilität Koordinieren Sie spätere Reinigungs-, Beschichtungs- und Risikokontrollen Schützt die vollständige vorgeschlagene Route den bestellten Endzustand?
 
@@ -9475,6 +9475,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Mehrstufen-Kaltstauchen ↗ Langdrehen und CNC-Drehen ↗ Kaltstauchen mit anschließender Zerspanung ↗
 
+#### Auf einen Blick: Kaltstauchen oder CNC-Drehen
+
+Kriterium Kaltstauchen CNC- / Langdrehen
+
+Typische Menge Wiederholmengen, die das Werkzeug rechtfertigen Prototypen, Kleinserien und sich ändernde Konstruktionen
+
+Werkzeug Matrizen und Stempel werden vor der Fertigung hergestellt Vor allem Programme und Standard-Schneidwerkzeuge
+
+Materialausnutzung Geringer Materialverlust; Faserverlauf folgt der Umformkontur Material wird zerspant; der Faserverlauf wird geschnitten
+
+Geeignete Geometrie Köpfe, Flansche und Absätze, die stufenweise umformbar sind Tiefe Bohrungen, Querbohrungen, exzentrische und enge lokale Merkmale
+
+Konstruktionsänderungen Werkzeugänderungen dauern länger und kosten mehr Programmänderungen gehen schnell
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
+
 ### Beschichtungen hochfester Schrauben und Wasserstoffrisiko
 Source: https://zufek.net/de/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
@@ -11395,6 +11411,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Gewinderollen, Schneiden und Gewindeschneiden ↗ Werkstoffspezifische Wärmebehandlung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
+#### Auf einen Blick: gerolltes oder geschnittenes Gewinde
+
+Kriterium Gerolltes Gewinde Geschnittenes Gewinde
+
+Herstellung Werkstoff wird zwischen Rollwerkzeugen verdrängt Werkstoff wird durch Drehen, Schneiden oder Fräsen abgetragen
+
+Rohling Ein reduzierter Rohling nahe dem Flankendurchmesser Material mit vollem Außendurchmesser
+
+Oberfläche und Dauerfestigkeit Kaltverfestigte, glatte Flanken; meist bessere Dauerfestigkeit Faserverlauf wird geschnitten; Oberfläche hängt von Werkzeug und Einrichtung ab
+
+Geeignet für Serienfertigung und viele Sonderprofile Große Steigungen, Kleinserien und Gewinde nahe einer Schulter
+
+In der Anfrage angeben Gewindebezeichnung, Toleranzklasse, Lehrung und ob Rollen gefordert ist Gewindebezeichnung, Toleranzklasse, Lehrung und ob Schneiden zulässig ist
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -11688,6 +11720,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Beschichtungen und Oberflächenbehandlungen ↗ Reinigung, Schraubensicherung und Vormontage ↗ CCD-Bildverarbeitung und Maßprüfung ↗
+
+#### Auf einen Blick: Vernickeln oder Passivieren von Edelstahl
+
+Kriterium Vernickeln Passivieren von Edelstahl
+
+Anwendbar auf Stahl, Messing und andere Grundwerkstoffe Nur nichtrostender Stahl
+
+Wirkung Bringt eine metallische Nickelschicht auf Entfernt freies Eisen und unterstützt die Passivschicht; keine Auflage
+
+Maßliche Auswirkung Erhöht die Dicke; Gewinde und Passungen brauchen eine Zugabe Vernachlässigbare Maßänderung
+
+Übliche Referenz ISO 4042 für galvanisch beschichtete Verbindungselemente ASTM A967 oder ASTM A380
+
+Wasserstoffrisiko Hochfester Stahl erfordert eine Prüfung auf Wasserstoffversprödung Kein galvanisches Verfahren
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
 
 ### Was ist für eine kundenspezifische Schraube mit Zinklamellenbeschichtung zu beachten?
 Source: https://zufek.net/de/blog/zinc-flake-coating-specification/
@@ -12362,6 +12410,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 CCD-Bildverarbeitung und Maßprüfung ↗ Reinigung, Schraubensicherung und Vormontage ↗
+
+#### Auf einen Blick: Stichprobe oder 100 % Prüfung
+
+Kriterium Stichprobenprüfung 100 % Prüfung
+
+Umfang Eine festgelegte Stichprobe aus jedem Los Jedes Teil, für die benannten Merkmale
+
+Geeignet für Stabile Prozesse und Merkmale mit geringerem Risiko Funktions- oder sicherheitsrelevante Merkmale und instabile Prozesse
+
+Typische Methoden Lehren und Messmittel nach einem Plan wie ISO 2859-1 Optische (CCD-)Sortierung, Gut-/Schlecht-Lehrung oder Funktionsprüfung
+
+Nachweis Stichprobenaufzeichnungen und Losfreigabe Sortierprotokolle, Ausschusszahlen und Systemverifizierung
+
+In der Anfrage angeben Merkmale, Stichprobenplan und Annahmezahlen Merkmale, Methode und wie das System verifiziert wird
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 

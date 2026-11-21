@@ -6205,7 +6205,7 @@ Grado e proprietà finali Assegnare un nome al materiale e alle condizioni speci
 
 Sequenza dimensionale Identificare le superfici funzionali e il successivo sovrametallo di finitura Quali caratteristiche potrebbero aver bisogno di essere ricontrollate o rifinite dopo il trattamento?
 
-Prove Specificare durezza, altri controlli meccanici e registrazioni richieste Quale metodo, campionamento e criterio di accettazione si applicano a ciascun requisito?
+Evidenze Specificare durezza, altri controlli meccanici e registrazioni richieste Quale metodo, campionamento e criterio di accettazione si applicano a ciascun requisito?
 
 Compatibilità superficiale Coordinare la pulizia successiva, il rivestimento e i controlli dei rischi L’intero percorso proposto tutela la condizione finale ordinata?
 
@@ -9475,6 +9475,22 @@ Di Theo Wan Leggi la guida tecnica →
 
 Rotta a freddo multistazione ↗ Swiss Type e CNC Tornitura ↗ Stampaggio a freddo e lavorazioni meccaniche secondarie ↗
 
+#### In sintesi: stampaggio a freddo o tornitura CNC
+
+Fattore Stampaggio a freddo Tornitura CNC / a fantina mobile
+
+Quantità tipica Volumi ripetuti che giustificano l’attrezzatura Prototipi, piccoli lotti e progetti in evoluzione
+
+Attrezzatura Matrici e punzoni si realizzano prima della produzione Soprattutto programmi e utensili da taglio standard
+
+Utilizzo del materiale Poco scarto di materiale; la fibratura segue la forma stampata Il materiale si asporta come truciolo; la fibratura viene interrotta
+
+Geometria adatta Teste, flange e gradini formabili in più stadi Fori profondi, fori trasversali, elementi eccentrici e locali stretti
+
+Modifiche di progetto Modificare le matrici richiede più tempo e costa di più Le modifiche di programma sono rapide
+
+Confronto generale. Ciclo e requisiti di un pezzo specifico si confermano sul suo disegno.
+
 ### Rivestimenti e rischio da idrogeno nelle viti ad alta resistenza
 Source: https://zufek.net/it/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
@@ -11395,6 +11411,22 @@ Di Theo Wan Leggi la guida tecnica →
 
 Rullatura, taglio e maschiatura del filetto ↗ Trattamento termico specifico per il materiale ↗ Controllo dimensionale e visione CCD ↗
 
+#### In sintesi: filetto rullato o tagliato
+
+Fattore Filetto rullato Filetto tagliato
+
+Come si ottiene Il materiale viene spostato tra i rulli Il materiale si asporta con tornitura, filiera o fresatura
+
+Grezzo Un grezzo ridotto vicino al diametro medio Materiale al diametro esterno pieno
+
+Superficie e fatica Fianchi lisci incruditi; in genere migliore resistenza a fatica La fibratura viene tagliata; la finitura dipende da utensile e setup
+
+Adatto a Produzione in serie e molti profili speciali Passi grandi, piccoli lotti e filetti vicini a uno spallamento
+
+Da indicare nella RFQ Designazione, classe, calibratura e se è richiesta la rullatura Designazione, classe, calibratura e se il taglio è accettabile
+
+Confronto generale. Ciclo e requisiti di un pezzo specifico si confermano sul suo disegno.
+
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -11688,6 +11720,22 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Rivestimenti e trattamenti superficiali ↗ Pulizia, chiusura e assemblaggio ↗ Controllo dimensionale e visione CCD ↗
+
+#### In sintesi: nichelatura o passivazione dell’inox
+
+Fattore Nichelatura Passivazione dell’inox
+
+Si applica a Acciaio, ottone e altri substrati Solo acciaio inossidabile
+
+Cosa fa Aggiunge uno strato metallico di nichel Rimuove il ferro libero e favorisce il film passivo; non aggiunge strati
+
+Effetto dimensionale Aggiunge spessore; filetti e accoppiamenti richiedono un sovrametallo Variazione dimensionale trascurabile
+
+Riferimento comune ISO 4042 per fissaggi elettrodepositati ASTM A967 o ASTM A380
+
+Rischio idrogeno L’acciaio ad alta resistenza richiede una verifica dell’infragilimento da idrogeno Non è un processo galvanico
+
+Confronto generale. Ciclo e requisiti di un pezzo specifico si confermano sul suo disegno.
 
 ### Cosa specificare per una vite personalizzata rivestita in zinco lamellare
 Source: https://zufek.net/it/blog/zinc-flake-coating-specification/
@@ -12362,6 +12410,22 @@ Di Theo Wan Leggi la guida tecnica →
 #### Argomenti correlati alla produzione
 
 Controllo dimensionale e visione CCD ↗ Pulizia, chiusura e assemblaggio ↗
+
+#### In sintesi: campionamento o controllo al 100 %
+
+Fattore Controllo a campione Controllo al 100 %
+
+Copertura Un campione definito da ogni lotto Ogni pezzo, per le caratteristiche indicate
+
+Adatto a Processi stabili e caratteristiche a rischio minore Caratteristiche funzionali o di sicurezza e processi instabili
+
+Metodi tipici Calibri e strumenti secondo un piano come ISO 2859-1 Selezione ottica (CCD), calibri passa/non passa o prove funzionali
+
+Evidenze Registrazioni del campione e accettazione del lotto Registrazioni di selezione, scarti e verifica del sistema
+
+Da indicare nella RFQ Caratteristiche, piano di campionamento e numeri di accettazione Caratteristiche, metodo e come si verifica il sistema
+
+Confronto generale. Ciclo e requisiti di un pezzo specifico si confermano sul suo disegno.
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
