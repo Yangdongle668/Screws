@@ -51,6 +51,9 @@ jobs:
           node docker/verify-ai-stream-recovery.mjs
           node docker/verify-ai-topic-signals.mjs
           node docker/verify-ai-json-stray.mjs
+          node docker/verify-translation-links.mjs
+          node docker/verify-translation-numbers.mjs
+          node docker/verify-writing-style-memo.mjs
           node docker/verify-ai-optional-sources.mjs
           node docker/verify-ai-article-contract.mjs
           node docker/verify-ai-research-quality.mjs

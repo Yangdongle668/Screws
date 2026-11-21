@@ -12,7 +12,7 @@ Target the complete decision workflow a buyer is trying to perform: selection, s
 
 PAA is optional research context from the connected browser/SerpApi question library. Use relevant supplied questions or IDs as observedPAA. Put other useful or rephrased reader questions in inferredQuestions; they are valid topic ideas without a Google observation claim. The server normalizes provenance and retains country, language and capture time. An empty or unavailable library never blocks writing. PAA frequency is not search volume, and a question is not engineering evidence.
 
-Apply WRITING-STYLE.md. Resolve the specific reader decision in natural, precise engineering language, with meaningful assumptions and evidence. Avoid empty transitions, repeated templates and unsupported absolutes. Do not invent personal experience or manipulate prose to fool AI detectors. A style-risk score is not an AI-authorship percentage. Preserve the specialist task structure and all technical facts.
+Apply WRITING-STYLE.md. Resolve the specific reader decision in natural, precise engineering language, stating only the assumptions that change the decision. Avoid empty transitions, repeated templates and unsupported absolutes. Do not invent personal experience or manipulate prose to fool AI detectors. A style-risk score is not an AI-authorship percentage. Preserve the specialist task structure and all technical facts.
 
 ## Complete article publication contract
 
