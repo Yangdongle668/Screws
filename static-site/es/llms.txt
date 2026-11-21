@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -40,7 +41,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Blog técnico de tornillos personalizados](https://zufek.net/es/blog/): Lea guías de dibujos de ingeniería, listas de verificación de adquisiciones y consideraciones prácticas sobre materiales y calidad para tornillos metálicos no estándar.
 - [Quiénes somos — fijaciones a medida desde 2005](https://zufek.net/es/about/): Conozca ZUFEK, fabricante de tornillos a medida en Dalang, Dongguan, desde 2005. Consulte productos, muestras y datos de contacto.
 - [Solicite una cotización de tornillos personalizados](https://zufek.net/es/request-a-quote/): Envíe a ZUFEK su plano de ingeniería, cantidad y requisitos de aplicación para obtener una cotización de tornillos metálicos no estándar.
-- [Theo Wan — ZUFEK Editorial técnica](https://zufek.net/es/authors/theo-wan/): Artículos técnicos publicados bajo Theo Wan (万天恩), el seudónimo editorial de ZUFEK guías de sujetadores personalizadas.
+- [Theo Wan — Responsable de ingeniería](https://zufek.net/es/authors/theo-wan/): Artículos técnicos de Theo Wan (万天恩), responsable de ingeniería de ZUFEK, sobre especificación, rutas de fabricación, inspección y compra de fijaciones especiales.
 - [Preguntas frecuentes sobre sujetadores personalizados](https://zufek.net/es/faq/): Respuestas a preguntas habituales de compras e ingeniería antes de solicitar tornillos metálicos según plano. Las decisiones finales siguen el plano aprobado.
 - [Perspectivas del sector](https://zufek.net/es/industry-insights/): Cambios del sector y preguntas para especificar fijaciones a medida.
 

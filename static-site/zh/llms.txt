@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -40,7 +41,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [定制螺丝技术博客](https://zufek.net/zh/blog/): 阅读非标准金属螺钉的工程制图指南、采购清单以及实用材料和质量注意事项。
 - [关于我们｜自 2005 年专注非标紧固件](https://zufek.net/zh/about/): ZUFEK 自 2005 年在东莞大朗从事非标金属螺丝制造。了解产品范围、打样流程、企业背景及联系方式。
 - [索取定制螺丝报价](https://zufek.net/zh/request-a-quote/): 向 ZUFEK 发送您的工程图纸、数量和应用要求，以获得非标金属螺丝报价。
-- [Theo Wan — ZUFEK 技术编辑](https://zufek.net/zh/authors/theo-wan/): 技术文章发表于Theo Wan（万天恩），即ZUFEK定制紧固件指南的编辑笔名。
+- [万天恩 — 工程负责人](https://zufek.net/zh/authors/theo-wan/): ZUFEK 工程负责人万天恩（Theo Wan）撰写的技术文章，涵盖非标紧固件规格、加工路线、检验与采购。
 - [非标紧固件常见问题](https://zufek.net/zh/faq/): 询价按图定制金属螺丝前的常见采购与工程问题解答。最终决定以批准图纸为准。
 - [行业观察](https://zufek.net/zh/industry-insights/): 从行业变化出发，梳理非标紧固件设计与采购需要确认的问题。
 

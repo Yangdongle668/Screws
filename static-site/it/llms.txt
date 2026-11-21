@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -40,7 +41,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Blog tecnico sulle viti personalizzate](https://zufek.net/it/blog/): Leggi le guide ai disegni tecnici, le liste di controllo per l'approvvigionamento e le considerazioni pratiche sui materiali e sulla qualità per le viti metalliche non standard.
 - [Chi siamo — fissaggi su disegno dal 2005](https://zufek.net/it/about/): Scopri ZUFEK, produttore di viti su disegno a Dalang, Dongguan, dal 2005. Consulta prodotti, campionatura e contatti aziendali.
 - [Richiedi un preventivo personalizzato per viti](https://zufek.net/it/request-a-quote/): Invia a ZUFEK il tuo disegno tecnico, quantità e requisiti applicativi per un preventivo di viti metalliche non standard.
-- [Theo Wan — ZUFEK Redazione tecnica](https://zufek.net/it/authors/theo-wan/): Articoli tecnici pubblicati sotto Theo Wan (万天恩), lo pseudonimo editoriale per le guide di fissaggio personalizzate ZUFEK.
+- [Theo Wan — Responsabile tecnico](https://zufek.net/it/authors/theo-wan/): Articoli tecnici di Theo Wan (万天恩), responsabile tecnico di ZUFEK, su specifiche, cicli produttivi, controlli e acquisto di fissaggi speciali.
 - [Domande frequenti sugli elementi di fissaggio personalizzati](https://zufek.net/it/faq/): Risposte alle domande frequenti di acquisti e ingegneria prima di richiedere viti metalliche su disegno. Le decisioni finali seguono il disegno approvato.
 - [Approfondimenti di settore](https://zufek.net/it/industry-insights/): Evoluzioni del settore e criteri per specificare elementi di fissaggio su disegno.
 

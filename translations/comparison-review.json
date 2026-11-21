@@ -1,0 +1,506 @@
+{
+  "General comparison. The route and requirements for a specific part are confirmed against its drawing.": {
+    "de": "Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.",
+    "es": "Comparación general. La ruta y los requisitos de una pieza concreta se confirman con su plano.",
+    "it": "Confronto generale. Ciclo e requisiti di un pezzo specifico si confermano sul suo disegno.",
+    "fr": "Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.",
+    "zh": "一般性对比。具体零件的工艺路线和要求以其图纸确认为准。"
+  },
+  "Factor": {
+    "de": "Kriterium",
+    "es": "Factor",
+    "it": "Fattore",
+    "fr": "Critère",
+    "zh": "对比项"
+  },
+  "State in the RFQ": {
+    "de": "In der Anfrage angeben",
+    "es": "Indicar en la RFQ",
+    "it": "Da indicare nella RFQ",
+    "fr": "À préciser dans la demande",
+    "zh": "询价时应写明"
+  },
+  "Suited to": {
+    "de": "Geeignet für",
+    "es": "Adecuado para",
+    "it": "Adatto a",
+    "fr": "Adapté à",
+    "zh": "适用于"
+  },
+  "At a glance: cold heading vs CNC turning": {
+    "de": "Auf einen Blick: Kaltstauchen oder CNC-Drehen",
+    "es": "De un vistazo: estampación en frío o torneado CNC",
+    "it": "In sintesi: stampaggio a freddo o tornitura CNC",
+    "fr": "En bref : frappe à froid ou décolletage CNC",
+    "zh": "一览：冷镦与 CNC 车削"
+  },
+  "Cold heading": {
+    "de": "Kaltstauchen",
+    "es": "Estampación en frío",
+    "it": "Stampaggio a freddo",
+    "fr": "Frappe à froid",
+    "zh": "冷镦"
+  },
+  "CNC / Swiss-type turning": {
+    "de": "CNC- / Langdrehen",
+    "es": "Torneado CNC / tipo suizo",
+    "it": "Tornitura CNC / a fantina mobile",
+    "fr": "Décolletage CNC / poupée mobile",
+    "zh": "CNC / 走心机车削"
+  },
+  "Typical quantity": {
+    "de": "Typische Menge",
+    "es": "Cantidad típica",
+    "it": "Quantità tipica",
+    "fr": "Quantité typique",
+    "zh": "典型数量"
+  },
+  "Repeat volumes that justify tooling": {
+    "de": "Wiederholmengen, die das Werkzeug rechtfertigen",
+    "es": "Volúmenes repetidos que justifican el utillaje",
+    "it": "Volumi ripetuti che giustificano l’attrezzatura",
+    "fr": "Volumes répétés qui justifient l’outillage",
+    "zh": "足以摊薄模具成本的批量返单"
+  },
+  "Prototypes, small batches and changing designs": {
+    "de": "Prototypen, Kleinserien und sich ändernde Konstruktionen",
+    "es": "Prototipos, lotes pequeños y diseños cambiantes",
+    "it": "Prototipi, piccoli lotti e progetti in evoluzione",
+    "fr": "Prototypes, petites séries et conceptions évolutives",
+    "zh": "样件、小批量和设计经常变动的零件"
+  },
+  "Tooling": {
+    "de": "Werkzeug",
+    "es": "Utillaje",
+    "it": "Attrezzatura",
+    "fr": "Outillage",
+    "zh": "模具"
+  },
+  "Dies and punches are made before production": {
+    "de": "Matrizen und Stempel werden vor der Fertigung hergestellt",
+    "es": "Matrices y punzones se fabrican antes de producir",
+    "it": "Matrici e punzoni si realizzano prima della produzione",
+    "fr": "Matrices et poinçons sont réalisés avant la production",
+    "zh": "生产前需制作模具和冲针"
+  },
+  "Mainly programs and standard cutting tools": {
+    "de": "Vor allem Programme und Standard-Schneidwerkzeuge",
+    "es": "Principalmente programas y herramientas de corte estándar",
+    "it": "Soprattutto programmi e utensili da taglio standard",
+    "fr": "Surtout des programmes et des outils de coupe standard",
+    "zh": "主要是程序和标准刀具"
+  },
+  "Material use": {
+    "de": "Materialausnutzung",
+    "es": "Aprovechamiento del material",
+    "it": "Utilizzo del materiale",
+    "fr": "Utilisation de la matière",
+    "zh": "材料利用"
+  },
+  "Little material loss; grain flow follows the formed shape": {
+    "de": "Geringer Materialverlust; Faserverlauf folgt der Umformkontur",
+    "es": "Poca pérdida de material; la fibra sigue la forma conformada",
+    "it": "Poco scarto di materiale; la fibratura segue la forma stampata",
+    "fr": "Peu de perte matière ; le fibrage suit la forme frappée",
+    "zh": "材料损耗少；金属流线沿成形轮廓分布"
+  },
+  "Material is removed as chips; grain flow is cut": {
+    "de": "Material wird zerspant; der Faserverlauf wird geschnitten",
+    "es": "El material se elimina como viruta; la fibra queda cortada",
+    "it": "Il materiale si asporta come truciolo; la fibratura viene interrotta",
+    "fr": "La matière est enlevée en copeaux ; le fibrage est coupé",
+    "zh": "材料以切屑形式去除；金属流线被切断"
+  },
+  "Suited geometry": {
+    "de": "Geeignete Geometrie",
+    "es": "Geometría adecuada",
+    "it": "Geometria adatta",
+    "fr": "Géométrie adaptée",
+    "zh": "适合的结构"
+  },
+  "Heads, flanges and steps that can be formed in stages": {
+    "de": "Köpfe, Flansche und Absätze, die stufenweise umformbar sind",
+    "es": "Cabezas, bridas y escalones que pueden conformarse por etapas",
+    "it": "Teste, flange e gradini formabili in più stadi",
+    "fr": "Têtes, embases et épaulements formables en plusieurs étapes",
+    "zh": "可分工位成形的头部、法兰和台阶"
+  },
+  "Deep bores, cross holes, eccentric and tight local features": {
+    "de": "Tiefe Bohrungen, Querbohrungen, exzentrische und enge lokale Merkmale",
+    "es": "Taladros profundos, agujeros transversales, rasgos excéntricos y locales ajustados",
+    "it": "Fori profondi, fori trasversali, elementi eccentrici e locali stretti",
+    "fr": "Alésages profonds, trous transversaux, formes excentrées et détails serrés",
+    "zh": "深孔、横孔、偏心结构和精密局部特征"
+  },
+  "Design changes": {
+    "de": "Konstruktionsänderungen",
+    "es": "Cambios de diseño",
+    "it": "Modifiche di progetto",
+    "fr": "Modifications de conception",
+    "zh": "设计变更"
+  },
+  "Die changes take longer and cost more": {
+    "de": "Werkzeugänderungen dauern länger und kosten mehr",
+    "es": "Cambiar matrices lleva más tiempo y cuesta más",
+    "it": "Modificare le matrici richiede più tempo e costa di più",
+    "fr": "Modifier les matrices prend plus de temps et coûte plus cher",
+    "zh": "改模周期更长、成本更高"
+  },
+  "Program changes are quick": {
+    "de": "Programmänderungen gehen schnell",
+    "es": "Los cambios de programa son rápidos",
+    "it": "Le modifiche di programma sono rapide",
+    "fr": "Les modifications de programme sont rapides",
+    "zh": "修改程序很快"
+  },
+  "At a glance: rolled vs cut threads": {
+    "de": "Auf einen Blick: gerolltes oder geschnittenes Gewinde",
+    "es": "De un vistazo: rosca laminada o tallada",
+    "it": "In sintesi: filetto rullato o tagliato",
+    "fr": "En bref : filetage roulé ou taillé",
+    "zh": "一览：滚压螺纹与切削螺纹"
+  },
+  "Rolled thread": {
+    "de": "Gerolltes Gewinde",
+    "es": "Rosca laminada",
+    "it": "Filetto rullato",
+    "fr": "Filetage roulé",
+    "zh": "滚压螺纹"
+  },
+  "Cut thread": {
+    "de": "Geschnittenes Gewinde",
+    "es": "Rosca tallada",
+    "it": "Filetto tagliato",
+    "fr": "Filetage taillé",
+    "zh": "切削螺纹"
+  },
+  "How it is made": {
+    "de": "Herstellung",
+    "es": "Cómo se fabrica",
+    "it": "Come si ottiene",
+    "fr": "Mode d’obtention",
+    "zh": "加工方式"
+  },
+  "Material is displaced between dies": {
+    "de": "Werkstoff wird zwischen Rollwerkzeugen verdrängt",
+    "es": "El material se desplaza entre peines o rodillos",
+    "it": "Il materiale viene spostato tra i rulli",
+    "fr": "La matière est refoulée entre les molettes",
+    "zh": "材料在滚丝模之间挤压成形"
+  },
+  "Material is removed by turning, die cutting or milling": {
+    "de": "Werkstoff wird durch Drehen, Schneiden oder Fräsen abgetragen",
+    "es": "El material se elimina por torneado, terraja o fresado",
+    "it": "Il materiale si asporta con tornitura, filiera o fresatura",
+    "fr": "La matière est enlevée par tournage, filière ou fraisage",
+    "zh": "通过车削、板牙或铣削去除材料"
+  },
+  "Blank": {
+    "de": "Rohling",
+    "es": "Pieza en bruto",
+    "it": "Grezzo",
+    "fr": "Ébauche",
+    "zh": "坯料"
+  },
+  "A reduced blank near the pitch diameter": {
+    "de": "Ein reduzierter Rohling nahe dem Flankendurchmesser",
+    "es": "Un bruto reducido cercano al diámetro de flancos",
+    "it": "Un grezzo ridotto vicino al diametro medio",
+    "fr": "Une ébauche réduite proche du diamètre sur flancs",
+    "zh": "接近中径的缩径坯料"
+  },
+  "Stock at the full major diameter": {
+    "de": "Material mit vollem Außendurchmesser",
+    "es": "Material al diámetro exterior completo",
+    "it": "Materiale al diametro esterno pieno",
+    "fr": "Matière au diamètre extérieur complet",
+    "zh": "按螺纹大径备料"
+  },
+  "Surface and fatigue": {
+    "de": "Oberfläche und Dauerfestigkeit",
+    "es": "Superficie y fatiga",
+    "it": "Superficie e fatica",
+    "fr": "Surface et fatigue",
+    "zh": "表面与疲劳性能"
+  },
+  "Cold-worked, smooth flanks; generally better fatigue resistance": {
+    "de": "Kaltverfestigte, glatte Flanken; meist bessere Dauerfestigkeit",
+    "es": "Flancos lisos y endurecidos en frío; en general mejor resistencia a la fatiga",
+    "it": "Fianchi lisci incruditi; in genere migliore resistenza a fatica",
+    "fr": "Flancs lisses écrouis ; en général meilleure tenue en fatigue",
+    "zh": "冷作硬化、牙面光滑，通常抗疲劳性能更好"
+  },
+  "Grain flow is cut; finish depends on tool and setup": {
+    "de": "Faserverlauf wird geschnitten; Oberfläche hängt von Werkzeug und Einrichtung ab",
+    "es": "La fibra queda cortada; el acabado depende de la herramienta y el ajuste",
+    "it": "La fibratura viene tagliata; la finitura dipende da utensile e setup",
+    "fr": "Le fibrage est coupé ; l’état de surface dépend de l’outil et du réglage",
+    "zh": "金属流线被切断；表面质量取决于刀具和调整"
+  },
+  "Volume production and many special profiles": {
+    "de": "Serienfertigung und viele Sonderprofile",
+    "es": "Producción en serie y muchos perfiles especiales",
+    "it": "Produzione in serie e molti profili speciali",
+    "fr": "Production en série et de nombreux profils spéciaux",
+    "zh": "批量生产及多种特殊牙型"
+  },
+  "Large pitches, small batches and threads close to a shoulder": {
+    "de": "Große Steigungen, Kleinserien und Gewinde nahe einer Schulter",
+    "es": "Pasos grandes, lotes pequeños y roscas cerca de un hombro",
+    "it": "Passi grandi, piccoli lotti e filetti vicini a uno spallamento",
+    "fr": "Grands pas, petites séries et filetages proches d’un épaulement",
+    "zh": "大螺距、小批量以及靠近台阶的螺纹"
+  },
+  "Thread designation, class, gauging and whether rolling is required": {
+    "de": "Gewindebezeichnung, Toleranzklasse, Lehrung und ob Rollen gefordert ist",
+    "es": "Designación, clase, calibrado y si se exige laminado",
+    "it": "Designazione, classe, calibratura e se è richiesta la rullatura",
+    "fr": "Désignation, classe, calibrage et si le roulage est exigé",
+    "zh": "螺纹标记、精度等级、量规检验以及是否必须滚压"
+  },
+  "Thread designation, class, gauging and whether cutting is acceptable": {
+    "de": "Gewindebezeichnung, Toleranzklasse, Lehrung und ob Schneiden zulässig ist",
+    "es": "Designación, clase, calibrado y si se acepta el tallado",
+    "it": "Designazione, classe, calibratura e se il taglio è accettabile",
+    "fr": "Désignation, classe, calibrage et si la taille est acceptée",
+    "zh": "螺纹标记、精度等级、量规检验以及是否接受切削"
+  },
+  "At a glance: nickel plating vs stainless passivation": {
+    "de": "Auf einen Blick: Vernickeln oder Passivieren von Edelstahl",
+    "es": "De un vistazo: niquelado o pasivado de inoxidable",
+    "it": "In sintesi: nichelatura o passivazione dell’inox",
+    "fr": "En bref : nickelage ou passivation de l’inox",
+    "zh": "一览：镀镍与不锈钢钝化"
+  },
+  "Nickel plating": {
+    "de": "Vernickeln",
+    "es": "Niquelado",
+    "it": "Nichelatura",
+    "fr": "Nickelage",
+    "zh": "镀镍"
+  },
+  "Stainless passivation": {
+    "de": "Passivieren von Edelstahl",
+    "es": "Pasivado de inoxidable",
+    "it": "Passivazione dell’inox",
+    "fr": "Passivation de l’inox",
+    "zh": "不锈钢钝化"
+  },
+  "Applies to": {
+    "de": "Anwendbar auf",
+    "es": "Se aplica a",
+    "it": "Si applica a",
+    "fr": "S’applique à",
+    "zh": "适用材料"
+  },
+  "Steel, brass and other substrates": {
+    "de": "Stahl, Messing und andere Grundwerkstoffe",
+    "es": "Acero, latón y otros sustratos",
+    "it": "Acciaio, ottone e altri substrati",
+    "fr": "Acier, laiton et autres substrats",
+    "zh": "钢、黄铜及其他基材"
+  },
+  "Stainless steel only": {
+    "de": "Nur nichtrostender Stahl",
+    "es": "Solo acero inoxidable",
+    "it": "Solo acciaio inossidabile",
+    "fr": "Acier inoxydable uniquement",
+    "zh": "仅限不锈钢"
+  },
+  "What it does": {
+    "de": "Wirkung",
+    "es": "Qué hace",
+    "it": "Cosa fa",
+    "fr": "Effet",
+    "zh": "作用"
+  },
+  "Adds a metallic nickel layer": {
+    "de": "Bringt eine metallische Nickelschicht auf",
+    "es": "Añade una capa metálica de níquel",
+    "it": "Aggiunge uno strato metallico di nichel",
+    "fr": "Ajoute une couche métallique de nickel",
+    "zh": "增加一层金属镍层"
+  },
+  "Removes free iron and supports the passive film; adds no layer": {
+    "de": "Entfernt freies Eisen und unterstützt die Passivschicht; keine Auflage",
+    "es": "Elimina el hierro libre y favorece la película pasiva; no añade capa",
+    "it": "Rimuove il ferro libero e favorisce il film passivo; non aggiunge strati",
+    "fr": "Élimine le fer libre et favorise le film passif ; n’ajoute pas de couche",
+    "zh": "去除游离铁并促进钝化膜形成；不增加镀层"
+  },
+  "Dimensional effect": {
+    "de": "Maßliche Auswirkung",
+    "es": "Efecto dimensional",
+    "it": "Effetto dimensionale",
+    "fr": "Effet dimensionnel",
+    "zh": "尺寸影响"
+  },
+  "Adds thickness; threads and fits need an allowance": {
+    "de": "Erhöht die Dicke; Gewinde und Passungen brauchen eine Zugabe",
+    "es": "Añade espesor; roscas y ajustes necesitan una tolerancia previa",
+    "it": "Aggiunge spessore; filetti e accoppiamenti richiedono un sovrametallo",
+    "fr": "Ajoute de l’épaisseur ; filetages et ajustements nécessitent une réserve",
+    "zh": "增加厚度；螺纹和配合需预留余量"
+  },
+  "Negligible dimensional change": {
+    "de": "Vernachlässigbare Maßänderung",
+    "es": "Cambio dimensional despreciable",
+    "it": "Variazione dimensionale trascurabile",
+    "fr": "Variation dimensionnelle négligeable",
+    "zh": "尺寸变化可忽略"
+  },
+  "Common reference": {
+    "de": "Übliche Referenz",
+    "es": "Referencia habitual",
+    "it": "Riferimento comune",
+    "fr": "Référence courante",
+    "zh": "常用标准"
+  },
+  "ISO 4042 for electroplated fasteners": {
+    "de": "ISO 4042 für galvanisch beschichtete Verbindungselemente",
+    "es": "ISO 4042 para fijaciones electrolíticas",
+    "it": "ISO 4042 per fissaggi elettrodepositati",
+    "fr": "ISO 4042 pour fixations à revêtement électrolytique",
+    "zh": "电镀紧固件参考 ISO 4042"
+  },
+  "ASTM A967 or ASTM A380": {
+    "de": "ASTM A967 oder ASTM A380",
+    "es": "ASTM A967 o ASTM A380",
+    "it": "ASTM A967 o ASTM A380",
+    "fr": "ASTM A967 ou ASTM A380",
+    "zh": "ASTM A967 或 ASTM A380"
+  },
+  "Hydrogen risk": {
+    "de": "Wasserstoffrisiko",
+    "es": "Riesgo de hidrógeno",
+    "it": "Rischio idrogeno",
+    "fr": "Risque hydrogène",
+    "zh": "氢脆风险"
+  },
+  "High-strength steel needs a hydrogen-embrittlement review": {
+    "de": "Hochfester Stahl erfordert eine Prüfung auf Wasserstoffversprödung",
+    "es": "El acero de alta resistencia requiere revisar la fragilización por hidrógeno",
+    "it": "L’acciaio ad alta resistenza richiede una verifica dell’infragilimento da idrogeno",
+    "fr": "L’acier haute résistance nécessite une revue de fragilisation par l’hydrogène",
+    "zh": "高强度钢需评估氢脆风险"
+  },
+  "Not an electroplating process": {
+    "de": "Kein galvanisches Verfahren",
+    "es": "No es un proceso electrolítico",
+    "it": "Non è un processo galvanico",
+    "fr": "Ce n’est pas un procédé électrolytique",
+    "zh": "不属于电镀工艺"
+  },
+  "At a glance: sampling vs 100% inspection": {
+    "de": "Auf einen Blick: Stichprobe oder 100 % Prüfung",
+    "es": "De un vistazo: muestreo o inspección al 100 %",
+    "it": "In sintesi: campionamento o controllo al 100 %",
+    "fr": "En bref : échantillonnage ou contrôle à 100 %",
+    "zh": "一览：抽样检验与全检"
+  },
+  "Sampling inspection": {
+    "de": "Stichprobenprüfung",
+    "es": "Inspección por muestreo",
+    "it": "Controllo a campione",
+    "fr": "Contrôle par échantillonnage",
+    "zh": "抽样检验"
+  },
+  "100% inspection": {
+    "de": "100 % Prüfung",
+    "es": "Inspección al 100 %",
+    "it": "Controllo al 100 %",
+    "fr": "Contrôle à 100 %",
+    "zh": "全检"
+  },
+  "Coverage": {
+    "de": "Umfang",
+    "es": "Cobertura",
+    "it": "Copertura",
+    "fr": "Couverture",
+    "zh": "覆盖范围"
+  },
+  "A defined sample from each lot": {
+    "de": "Eine festgelegte Stichprobe aus jedem Los",
+    "es": "Una muestra definida de cada lote",
+    "it": "Un campione definito da ogni lotto",
+    "fr": "Un échantillon défini par lot",
+    "zh": "每批按规定抽取样本"
+  },
+  "Every part, for the named characteristics": {
+    "de": "Jedes Teil, für die benannten Merkmale",
+    "es": "Cada pieza, para las características indicadas",
+    "it": "Ogni pezzo, per le caratteristiche indicate",
+    "fr": "Chaque pièce, pour les caractéristiques désignées",
+    "zh": "针对指定特性逐件检查"
+  },
+  "Stable processes and lower-risk characteristics": {
+    "de": "Stabile Prozesse und Merkmale mit geringerem Risiko",
+    "es": "Procesos estables y características de menor riesgo",
+    "it": "Processi stabili e caratteristiche a rischio minore",
+    "fr": "Procédés stables et caractéristiques à moindre risque",
+    "zh": "稳定工艺和风险较低的特性"
+  },
+  "Functional or safety-relevant characteristics and unstable processes": {
+    "de": "Funktions- oder sicherheitsrelevante Merkmale und instabile Prozesse",
+    "es": "Características funcionales o de seguridad y procesos inestables",
+    "it": "Caratteristiche funzionali o di sicurezza e processi instabili",
+    "fr": "Caractéristiques fonctionnelles ou de sécurité et procédés instables",
+    "zh": "功能或安全相关特性，以及不稳定的工艺"
+  },
+  "Typical methods": {
+    "de": "Typische Methoden",
+    "es": "Métodos típicos",
+    "it": "Metodi tipici",
+    "fr": "Méthodes typiques",
+    "zh": "常用方法"
+  },
+  "Gauges and instruments under a plan such as ISO 2859-1": {
+    "de": "Lehren und Messmittel nach einem Plan wie ISO 2859-1",
+    "es": "Calibres e instrumentos según un plan como ISO 2859-1",
+    "it": "Calibri e strumenti secondo un piano come ISO 2859-1",
+    "fr": "Calibres et instruments selon un plan tel que l’ISO 2859-1",
+    "zh": "按 ISO 2859-1 等抽样方案使用量规和量具"
+  },
+  "Optical (CCD) sorting, go/no-go gauging or functional checks": {
+    "de": "Optische (CCD-)Sortierung, Gut-/Schlecht-Lehrung oder Funktionsprüfung",
+    "es": "Clasificación óptica (CCD), calibre pasa/no pasa o comprobación funcional",
+    "it": "Selezione ottica (CCD), calibri passa/non passa o prove funzionali",
+    "fr": "Tri optique (CCD), calibrage entre/n’entre pas ou contrôle fonctionnel",
+    "zh": "CCD 光学筛选、通止规检验或功能检查"
+  },
+  "Evidence": {
+    "de": "Nachweis",
+    "es": "Evidencia",
+    "it": "Evidenze",
+    "fr": "Preuves",
+    "zh": "证据"
+  },
+  "Sample records and lot acceptance": {
+    "de": "Stichprobenaufzeichnungen und Losfreigabe",
+    "es": "Registros de muestra y aceptación del lote",
+    "it": "Registrazioni del campione e accettazione del lotto",
+    "fr": "Enregistrements d’échantillon et acceptation du lot",
+    "zh": "抽样记录和批次判定"
+  },
+  "Sorting records, reject counts and system verification": {
+    "de": "Sortierprotokolle, Ausschusszahlen und Systemverifizierung",
+    "es": "Registros de clasificación, rechazos y verificación del sistema",
+    "it": "Registrazioni di selezione, scarti e verifica del sistema",
+    "fr": "Enregistrements de tri, rebuts et vérification du système",
+    "zh": "筛选记录、剔除数量和设备验证"
+  },
+  "Characteristics, sampling plan and acceptance numbers": {
+    "de": "Merkmale, Stichprobenplan und Annahmezahlen",
+    "es": "Características, plan de muestreo y números de aceptación",
+    "it": "Caratteristiche, piano di campionamento e numeri di accettazione",
+    "fr": "Caractéristiques, plan d’échantillonnage et critères d’acceptation",
+    "zh": "检验特性、抽样方案和接收数"
+  },
+  "Characteristics, method and how the system is verified": {
+    "de": "Merkmale, Methode und wie das System verifiziert wird",
+    "es": "Características, método y cómo se verifica el sistema",
+    "it": "Caratteristiche, metodo e come si verifica il sistema",
+    "fr": "Caractéristiques, méthode et vérification du système",
+    "zh": "检验特性、方法以及设备如何验证"
+  }
+}

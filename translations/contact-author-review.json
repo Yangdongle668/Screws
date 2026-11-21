@@ -1,0 +1,65 @@
+{
+  "Phone / WhatsApp": {
+    "de": "Telefon / WhatsApp",
+    "es": "Teléfono / WhatsApp",
+    "it": "Telefono / WhatsApp",
+    "fr": "Téléphone / WhatsApp",
+    "zh": "电话 / WhatsApp"
+  },
+  "WhatsApp": {
+    "de": "WhatsApp",
+    "es": "WhatsApp",
+    "it": "WhatsApp",
+    "fr": "WhatsApp",
+    "zh": "WhatsApp"
+  },
+  "Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8)": {
+    "de": "Arbeitszeit: Montag–Samstag, 08:00–17:30 chinesische Zeit (UTC+8)",
+    "es": "Horario: lunes a sábado, 08:00–17:30 hora de China (UTC+8)",
+    "it": "Orario: lunedì–sabato, 08:00–17:30 ora cinese (UTC+8)",
+    "fr": "Horaires : du lundi au samedi, 08:00–17:30 heure de Chine (UTC+8)",
+    "zh": "工作时间：周一至周六 08:00–17:30（北京时间，UTC+8）"
+  },
+  "Theo Wan — Engineering Lead": {
+    "de": "Theo Wan — Leiter Technik",
+    "es": "Theo Wan — Responsable de ingeniería",
+    "it": "Theo Wan — Responsabile tecnico",
+    "fr": "Theo Wan — Responsable ingénierie",
+    "zh": "万天恩 — 工程负责人"
+  },
+  "Technical articles by Theo Wan (万天恩), engineering lead at ZUFEK, on custom fastener specifications, manufacturing routes, inspection and procurement.": {
+    "de": "Fachartikel von Theo Wan (万天恩), Leiter Technik bei ZUFEK, zu Spezifikation, Fertigungswegen, Prüfung und Beschaffung von Sonderverbindungselementen.",
+    "es": "Artículos técnicos de Theo Wan (万天恩), responsable de ingeniería de ZUFEK, sobre especificación, rutas de fabricación, inspección y compra de fijaciones especiales.",
+    "it": "Articoli tecnici di Theo Wan (万天恩), responsabile tecnico di ZUFEK, su specifiche, cicli produttivi, controlli e acquisto di fissaggi speciali.",
+    "fr": "Articles techniques de Theo Wan (万天恩), responsable ingénierie chez ZUFEK, sur la spécification, les gammes de fabrication, le contrôle et l’achat de fixations spéciales.",
+    "zh": "ZUFEK 工程负责人万天恩（Theo Wan）撰写的技术文章，涵盖非标紧固件规格、加工路线、检验与采购。"
+  },
+  "ZUFEK ENGINEERING": {
+    "de": "ZUFEK TECHNIK",
+    "es": "INGENIERÍA ZUFEK",
+    "it": "INGEGNERIA ZUFEK",
+    "fr": "INGÉNIERIE ZUFEK",
+    "zh": "ZUFEK 工程部"
+  },
+  "Theo Wan leads engineering at ZUFEK and writes the company’s practical guides on custom fastener specifications, manufacturing choices, inspection and procurement.": {
+    "de": "Theo Wan leitet die Technik bei ZUFEK und schreibt die praxisnahen Leitfäden des Unternehmens zu Spezifikation, Fertigungswahl, Prüfung und Beschaffung von Sonderverbindungselementen.",
+    "es": "Theo Wan dirige la ingeniería de ZUFEK y escribe las guías prácticas de la empresa sobre especificación, elección de fabricación, inspección y compra de fijaciones especiales.",
+    "it": "Theo Wan guida l’ingegneria di ZUFEK e scrive le guide pratiche dell’azienda su specifiche, scelte produttive, controlli e acquisto di fissaggi speciali.",
+    "fr": "Theo Wan dirige l’ingénierie de ZUFEK et rédige les guides pratiques de l’entreprise sur la spécification, les choix de fabrication, le contrôle et l’achat de fixations spéciales.",
+    "zh": "万天恩（Theo Wan）负责 ZUFEK 的工程工作，并撰写公司关于非标紧固件规格、加工方式选择、检验和采购的实用指南。"
+  },
+  "Each guide focuses on information engineers and buyers can use to prepare drawings, compare manufacturing options and agree acceptance requirements.": {
+    "de": "Jeder Leitfaden konzentriert sich auf Informationen, mit denen Ingenieure und Einkäufer Zeichnungen vorbereiten, Fertigungsoptionen vergleichen und Abnahmeanforderungen vereinbaren.",
+    "es": "Cada guía se centra en información que ingenieros y compradores pueden usar para preparar planos, comparar opciones de fabricación y acordar requisitos de aceptación.",
+    "it": "Ogni guida si concentra su informazioni utili a ingegneri e buyer per preparare disegni, confrontare opzioni produttive e concordare i requisiti di accettazione.",
+    "fr": "Chaque guide se concentre sur des informations utiles aux ingénieurs et acheteurs pour préparer les plans, comparer les options de fabrication et convenir des exigences d’acceptation.",
+    "zh": "每篇指南都聚焦工程师和采购人员可直接使用的信息：准备图纸、比较加工方案、约定验收要求。"
+  },
+  "Theo Wan — Engineering Lead | ZUFEK": {
+    "de": "Theo Wan — Leiter Technik | ZUFEK",
+    "es": "Theo Wan — Responsable de ingeniería | ZUFEK",
+    "it": "Theo Wan — Responsabile tecnico | ZUFEK",
+    "fr": "Theo Wan — Responsable ingénierie | ZUFEK",
+    "zh": "万天恩 — 工程负责人 | ZUFEK"
+  }
+}

@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1006,7 +1007,9 @@ CONTACT DIRECT EN INGÉNIERIE
 
 #### Vous préférez le courrier électronique ?
 
-info@zufek.net ↗ Inclure une révision du dessin technique, la quantité et une brève description de la demande.
+info@zufek.net ↗ Téléphone / WhatsApp +86 190 6634 8320 · WhatsApp Horaires : du lundi au samedi, 08:00–17:30 heure de Chine (UTC+8)
+
+Inclure une révision du dessin technique, la quantité et une brève description de la demande.
 
 ##### Que se passe-t-il ensuite ?
 
@@ -1026,14 +1029,14 @@ Envoyez une révision du dessin technique, la quantité d’échantillon, le vol
 
 Préparer la liste de contrôle de la RFQ ↗ Comparez les itinéraires de fabrication complets ↗
 
-### Theo Wan — ZUFEK Éditorial technique
+### Theo Wan — Responsable ingénierie
 Source: https://zufek.net/fr/authors/theo-wan/
 
-TW ZUFEK ÉDITORIAL TECHNIQUE
+TW INGÉNIERIE ZUFEK
 
 ### Theo Wan 万天恩
 
-Theo Wan est le nom de plume éditorial utilisé pour les guides pratiques de ZUFEK sur les spécifications des fixations personnalisées, les choix de fabrication, l'inspection et l'approvisionnement.
+Theo Wan dirige l’ingénierie de ZUFEK et rédige les guides pratiques de l’entreprise sur la spécification, les choix de fabrication, le contrôle et l’achat de fixations spéciales.
 
 #### Objet des articles
 
@@ -1043,7 +1046,7 @@ Les articles fournissent des conseils techniques et d’achat généraux. La con
 
 #### Approche éditoriale
 
-Publié sous un nom de plume éditorial. Chaque guide se concentre sur les informations que les ingénieurs et les acheteurs peuvent utiliser pour préparer des dessins, comparer les options de fabrication et convenir des exigences d'acceptation.
+Chaque guide se concentre sur des informations utiles aux ingénieurs et acheteurs pour préparer les plans, comparer les options de fabrication et convenir des exigences d’acceptation.
 
 Les sources sont liées là où cela est utile. Les exemples de spécifications illustrent un point de discussion et ne sont pas présentés sous forme d’histoires de cas clients ou de résultats de tests.
 
@@ -1656,6 +1659,16 @@ Examiner l’épaulement et l’empilage axial de l’outillage ↗
 Référence géométrique DIN 610 issue de Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
 Plan et contrôle des échantillons Planification de la qualité Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 7379 Vis à épaulement à six pans creux : point de départ courant pour les proportions de tête, d’empreinte et d’épaulement.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -2366,6 +2379,16 @@ Fournissez le dessin technique du variateur ou les spécifications de l’outil 
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 10664 Empreinte hexalobulaire interne. Les variantes à téton et autres empreintes de sécurité sont généralement définies par plan ou référence d’outil.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -2492,6 +2515,16 @@ Raccord étanche Fluide, conditions de pression et de température, interface d�
 Vérifier la paroi résiduelle minimale au fond du filet et aux intersections. Prévoir l’ébavurage et son contrôle avant qu’une opération ultérieure ne masque l’accès. Pour les surfaces internes, convenir d’une méthode adaptée : le contrôle CCD extérieur n’inspecte pas l’intégralité de l’alésage.
 
 Coordonner finition intérieure, nettoyage et contrôle L’outillage et les échantillons demandent généralement environ 10–15 jours après revue technique et confirmation. Convenir au devis du point de départ, de l’acceptation des échantillons et du calendrier de série.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 7643 Vis creuses (banjo) pour raccords orientables dans les circuits de fluides.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -2649,6 +2682,16 @@ L'examen des dessins techniques devrait résoudre les dimensions des brides ; fa
 Incluez les exigences en matière de matériau d'accouplement et de face d'appui. Une bride plus grande n’empêche pas automatiquement les dommages superficiels. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 4162 Vis à tête hexagonale à embase avec surface d’appui intégrée.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -2809,6 +2852,16 @@ Spécifiez la prise de la tête, la course de réglage et toute méthode de verr
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 464 / DIN 653 Vis moletées, forme haute et basse.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -2964,6 +3017,16 @@ Indiquer la géométrie de la pointe, la surface de contact, l'entraînement et 
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 4026, 4027, 4028, 4029 Vis sans tête à six pans creux à bout plat, pointu, téton et cuvette.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -3073,6 +3136,16 @@ Fournir la section transversale de la fente et la méthode d'insertion ; ne fait
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 186 / DIN 787 Vis à tête marteau à collet carré et vis pour rainures en T de tables de machine.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Boulons à œil et articulés personnalisés selon dessin technique
 Source: https://zufek.net/fr/products/eye-bolts/
 
@@ -3162,6 +3235,16 @@ Indiquer la direction de la force et l’utilisation prévue. Toute application 
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 444 Vis à œil pour liaisons articulées et de serrage ; non destinées au levage.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Conceptions personnalisées de boulons à œil de levage selon le dessin technique
 Source: https://zufek.net/fr/products/lifting-eye-bolts/
 
@@ -3249,6 +3332,16 @@ Fournir le cas de charge approuvé et la norme applicable. La géométrie person
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 580 Anneaux de levage. L’usage en levage doit respecter la norme applicable et la réglementation locale, y compris marquage de charge et vérification.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Boulons en U personnalisés selon dessin technique
 Source: https://zufek.net/fr/products/u-bolts/
 
@@ -3335,6 +3428,16 @@ L'examen des dessins techniques devrait résoudre le profil de courbure ; géom�
 Fournissez les exigences de section transversale serrée et de charge. Le matériau, le processus de pliage et le revêtement doivent être examinés ensemble. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 3570 Étriers en U pour la fixation de tubes.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 ### Boulons à tête carrée personnalisés selon le dessin technique
 Source: https://zufek.net/fr/products/square-head-bolts/
@@ -3425,6 +3528,16 @@ Montrer l'accès à la clé ou la poche de retenue et les propriétés mécaniqu
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 478, 479, 480 Vis à tête carrée à collerette ou variantes à téton.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Boulons de carrosserie personnalisés selon dessin technique
 Source: https://zufek.net/fr/products/carriage-bolts/
 
@@ -3511,6 +3624,16 @@ L'examen des dessins techniques devrait résoudre le problème du col carré ; f
 Fournir la géométrie du trou d'accouplement et le matériau du roulement ; l'engagement du cou fait partie de la conception anti-rotation. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 603 / ISO 8677 Vis à tête bombée à collet carré.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 ### Vis à tête excentrique et coudée selon dessin technique
 Source: https://zufek.net/fr/products/eccentric-screws/
@@ -3706,6 +3829,16 @@ Indiquez les deux filetages d'accouplement, l'assise des épaulements et la séq
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 835, 938, 939, 940 Goujons avec bout d’implantation de 2d, 1d, 1,25d et 2,5d.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -3812,6 +3945,16 @@ L'examen des dessins techniques devrait résoudre des exemples de pas ; ajusteme
 Le pas fin ne garantit pas à lui seul la résistance au desserrage. Spécifiez séparément les exigences en matière de verrouillage et de vibration. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 261 / ISO 262 Filetages métriques ISO : plan général et dimensions choisies, y compris pas fins.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -4018,6 +4161,16 @@ L'examen des dessins techniques devrait résoudre les pointes et les reliefs ; m
 Les pointes coupantes peuvent générer des copeaux. Le contrôle des débris et des percées doit être démontré dans l’assemblage lui-même. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 1478 Profil de filetage des vis à tôle. Les variantes normalisées de tête et d’empreinte relèvent de normes comme ISO 7049.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -6052,7 +6205,7 @@ Qualités et propriétés finales Nommer le matériau et l'état spécifié ou l
 
 Séquence dimensionnelle Identifier les surfaces fonctionnelles et les surépaisseurs de finition ultérieures Quelles caractéristiques peuvent nécessiter une revérification ou une finition après le traitement ?
 
-Preuve Préciser la dureté, les autres contrôles mécaniques et les enregistrements demandés Quels critères de méthode, d’échantillonnage et d’acceptation s’appliquent à chaque exigence ?
+Preuves Préciser la dureté, les autres contrôles mécaniques et les enregistrements demandés Quels critères de méthode, d’échantillonnage et d’acceptation s’appliquent à chaque exigence ?
 
 Compatibilité des surfaces Coordonner le nettoyage ultérieur, le revêtement et les contrôles des risques Le tracé complet proposé protège-t-il la condition finale ordonnée ?
 
@@ -8700,7 +8853,9 @@ ACHATS / 3 LECTURE MIN
 
 Un devis exploitable repose sur des exigences claires. Le plan est le meilleur point de départ ; un échantillon, un croquis ou une description du montage permettent aussi de préciser les points ouverts.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Vis métalliques sur mesure
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Réponse courte Envoyez le plan avec son numéro et sa révision, la matière, la finition, les caractéristiques critiques et leurs pièces associées, les quantités de prototype et de série, les enregistrements de contrôle requis, la destination et les dates cibles. Signalez ce qui reste ouvert au lieu de le laisser ambigu.
+
+Vis métalliques sur mesure
 
 DANS CE GUIDE Commencez par le dessin technique et la révision Identifiez les fonctionnalités qui comptent Préciser le matériau et la finition séparément Inclure la quantité et le contexte de livraison Votre liste de contrôle pour RFQ Séparer les exigences obligatoires des éléments de discussion Utiliser une fiche de comparaison de devis Clôturer l'examen avec une décision de libération PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -8742,7 +8897,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -8776,7 +8931,9 @@ CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 Un plan de vis à épaulement doit distinguer ajustement dans l’alésage, chaîne axiale, filetage et surface finale. Vérifiez les deux limites avant approbation des échantillons.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Vis à épaulement et vis étagées
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Réponse courte Cotez le diamètre et la longueur d’épaulement séparément du filetage, donnez à l’épaulement une tolérance d’ajustement avec l’alésage et indiquez la désignation du filetage, la gorge et l’accès à la tête. Vérifiez la chaîne axiale et le jeu diamétral aux deux limites et précisez si elles s’appliquent avant ou après revêtement.
+
+Vis à épaulement et vis étagées
 
 DANS CE GUIDE Définir l'épaule Montrer comment se termine le fil de discussion Examiner l'accès à la tête et les sièges Communiquer les tolérances fonctionnelles Dessinez la pile d'assemblage, pas seulement la vis Choisissez des références qui correspondent à la fonction de localisation Approuver la surface finale fournie Exemple : calculer séparément le jeu diamétral PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
 
@@ -8824,7 +8981,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -8882,7 +9039,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Spécifiez la vis imperdable avec panneau, retenue et taraudage en regard. Examinez séparément pose, course desserrée et engagement serré.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Vis imperdables
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Vis imperdables
 
 DANS CE GUIDE Qu'est-ce qui retient la vis ? Quelle quantité de mouvement est nécessaire ? Que se passe-t-il pendant le service ? Comment l’assemblage sera-t-il vérifié ? Que doit accompagner la demande de prix ? Exemple : ouvrir un panneau de service sans perdre la vis PRODUIT CONNEXE Vis captives ↗
 
@@ -8922,7 +9079,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -8968,7 +9125,7 @@ MATÉRIAUX & FINITIONS / 2 LECTURE MIN
 
 La sélection des matériaux commence par l'environnement de service et les exigences mécaniques. Les meilleures spécifications équilibrent la fonction, la fabricabilité, la disponibilité et la vérification.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Vis métalliques sur mesure
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Vis métalliques sur mesure
 
 DANS CE GUIDE Décrivez d'abord l'environnement Définir les exigences mécaniques Traiter la finition comme faisant partie du système Confirmer les besoins en documentation Comparez les alternatives par rapport à un ensemble d'exigences Vérifiez le coût de l'état fini Approuver délibérément les substitutions PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -9006,7 +9163,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9040,7 +9197,9 @@ ACHATS / 2 LECTURE MIN
 
 Un devis de vis personnalisé reflète les spécifications complètes et les conditions de commande. Comprendre les facteurs de coûts peut rendre une revue de conception plus productive.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Vis à tête spéciale
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Réponse courte Le prix d’une vis spéciale dépend surtout de la géométrie et de la gamme, de l’outillage et du réglage, des tolérances et du contrôle qu’elles imposent, de la matière, des opérations secondaires et de la finition, et de la taille de lot. L’outillage est un coût unique ; demandez quelles caractéristiques pèsent sur le coût récurrent avant de modifier le plan.
+
+Vis à tête spéciale
 
 DANS CE GUIDE Géométrie et parcours de fabrication Tolérance et contrôle Matériau, finition et volume de commande Discutez des changements avant de réviser Séparez les opérations récurrentes des investissements ponctuels Identifiez la fonctionnalité qui génère les coûts avant de la modifier Citer la transition de l'échantillon à la fourniture répétée PRODUIT CONNEXE Vis à tête spéciale ↗
 
@@ -9078,7 +9237,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9136,7 +9295,7 @@ QUALITÉ / 2 LECTURE MIN
 
 Construisez un plan d’inspection une caractéristique à la fois. Pour chaque exigence de dessin, enregistrez la condition d'acceptation, une méthode appropriée, l'étape et la couverture d'inspection, ainsi que les preuves conservées. Les lignes travaillées ci-dessous montrent comment transformer un dessin de vis à épaulement en un enregistrement d'inspection.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 · Mise à jour 2026-11-02 Vis à épaulement et vis étagées
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 · Mise à jour 2026-11-02 Vis à épaulement et vis étagées
 
 DANS CE GUIDE Commencez par l'exigence publiée Utilisez l'exemple sans copier aveuglément une portée de test Définir la couverture et la réaction avant la production Enregistrer le résultat et la décision de libération PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
 
@@ -9198,7 +9357,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9256,7 +9415,9 @@ FABRICATION / 2 LECTURE MIN
 
 Choisissez la séquence du processus de fabrication en fonction de la géométrie, de la quantité, du matériau et des conditions requises. Un coût de cycle inférieur ne compense pas toujours l’outillage ou le travail secondaire.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Frappe à froid multiposte
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Réponse courte La frappe à froid convient généralement aux volumes répétés qui justifient des matrices et aux formes frappables comme têtes, embases et épaulements. Le décolletage CNC convient aux prototypes, petites séries et détails comme alésages profonds ou trous transversaux. Beaucoup de pièces combinent les deux : comparez des gammes complètes pour la même spécification finale.
+
+Frappe à froid multiposte
 
 DANS CE GUIDE Commencez par le volume de répétition Séparez la forme globale des détails fonctionnels Vérifiez les exigences en matière de matériel et d'acceptation Revoir l'itinéraire complet Construire une comparaison d'itinéraires autour de la même spécification finale Demandez quels changements entre le prototype et la production Résoudre la géométrie avant de valider l'outillage PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -9294,7 +9455,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9322,6 +9483,22 @@ Par Theo Wan Lire le guide technique →
 
 Frappe à froid multiposte ↗ Type Suisse & CNC Tournage ↗ Frappe à froid et usinage secondaire ↗
 
+#### En bref : frappe à froid ou décolletage CNC
+
+Critère Frappe à froid Décolletage CNC / poupée mobile
+
+Quantité typique Volumes répétés qui justifient l’outillage Prototypes, petites séries et conceptions évolutives
+
+Outillage Matrices et poinçons sont réalisés avant la production Surtout des programmes et des outils de coupe standard
+
+Utilisation de la matière Peu de perte matière ; le fibrage suit la forme frappée La matière est enlevée en copeaux ; le fibrage est coupé
+
+Géométrie adaptée Têtes, embases et épaulements formables en plusieurs étapes Alésages profonds, trous transversaux, formes excentrées et détails serrés
+
+Modifications de conception Modifier les matrices prend plus de temps et coûte plus cher Les modifications de programme sont rapides
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
+
 ### Revêtements et risque lié à l’hydrogène des vis à haute résistance
 Source: https://zufek.net/fr/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
@@ -9332,7 +9509,9 @@ MATÉRIAUX & FINITIONS / 2 LECTURE MIN
 
 Une fixation en acier à haute résistance nécessite une décision de revêtement qui prend en compte à la fois la corrosion et l'exposition à l'hydrogène tout au long du traitement.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Traitement thermique adapté au matériau
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Réponse courte Pour l’acier haute résistance, examinez l’exposition à l’hydrogène sur toute la gamme — nettoyage, décapage et dépôt électrolytique — et pas seulement le nom du revêtement. Les systèmes non électrolytiques comme le zinc lamellaire évitent le dépôt électrolytique et l’étuvage peut réduire le risque, mais aucun n’est une garantie. Définissez contrôles et vérifications avant la commande.
+
+Traitement thermique adapté au matériau
 
 DANS CE GUIDE Identifier la condition sensible Définir un système de revêtement Comprendre la limite de la pâtisserie Rédigez une demande de prix utile Cartographier l’exposition potentielle sur l’ensemble du parcours Définir les preuves avant la commande Gardez la corrosion, la friction et l'ajustement dans le même examen PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
 
@@ -9370,7 +9549,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9438,7 +9617,7 @@ MATÉRIAUX & FINITIONS / 2 LECTURE MIN
 
 Les inox regroupent plusieurs familles. Préciser nuance et état final plutôt qu’une consigne générique de traitement thermique.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Traitement thermique adapté au matériau
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Traitement thermique adapté au matériau
 
 DANS CE GUIDE Distinguer les nuances austénitiques des nuances à durcissement par précipitation Indiquer le but du traitement par solution Définir la condition finale de 17-4PH Coordonner la finition et la vérification Déterminez ce que le dessin technique signifie par acier inoxydable à haute résistance Séparer le traitement des matériaux du traitement de surface Examiner le grippage de l'assemblage en tant que mécanisme distinct PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -9476,7 +9655,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9522,7 +9701,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Un ajustement d'arbre et une classe de tolérance de filetage contrôlent différentes interfaces. Écrivez clairement la fonction requise avant de décider comment les surfaces doivent être finies.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Opérations secondaires et de précision
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Opérations secondaires et de précision
 
 DANS CE GUIDE Séparez l'épaule unie et le fil Identifier la relation d'accouplement Spécifiez le broyage uniquement avec une raison Inspecter après l’étape de finition concernée Comparez les limites avec l'alésage d'accouplement réel Faites de la sélection finale une discussion sur les capacités Conserver des contrôles d’acceptation indépendants PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
 
@@ -9560,7 +9739,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9626,7 +9805,7 @@ CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 Définissez ensemble empreinte, outil, finition et accès une fois monté. Un embout adapté à une vis libre peut ne pas l’engager dans le boîtier.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Frappe à froid multiposte
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Frappe à froid multiposte
 
 DANS CE GUIDE Identifiez l’interface exacte Définir l'accès à la tête et à l'outil Examiner les caractéristiques des broches et des évidements Séparer la résistance d’accès de la performance des joints Exemple : distinguer ajustement de l’outil et accès PRODUIT CONNEXE Vis de sécurité et anti-effraction ↗
 
@@ -9678,7 +9857,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9734,7 +9913,7 @@ CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 Définissez le perçage complet, la paroi résiduelle minimale, les arêtes internes et la réception. Intégrez le fond de filet et le décalage du perçage à l’examen en coupe.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Décrivez tout le passage Vérifier l'épaisseur de la paroi avec le fil Exigences de bord et de propreté de l’État Définir les tests fonctionnels séparément Exemple : inclure le décalage du perçage dans le calcul de paroi PRODUIT CONNEXE Vis creuses et vis à perçage traversant ↗
 
@@ -9786,7 +9965,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9848,7 +10027,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Adaptez la face d’appui de la collerette au support réel. Comparez empreinte, finition et longueur serrée avant de remplacer une rondelle.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Frappe à froid multiposte
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Frappe à froid multiposte
 
 DANS CE GUIDE Commencez par la surface de contact Dimensionner la bride en tant que caractéristique fonctionnelle Choisissez délibérément l'état du visage Inclure la finition et les conditions de serrage Exemple : comparer collerette intégrée et montage avec rondelle PRODUIT CONNEXE Vis à embase sur mesure ↗
 
@@ -9900,7 +10079,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -9962,7 +10141,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Une vis réglée manuellement doit être accessible, confortable à saisir et compatible avec le réglage requis. La texture de la tête à elle seule ne définit pas le fonctionnement du mécanisme.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Décrire la manière dont il fonctionne Spécifiez la moletage plutôt qu'une apparence Relier le pitch à l’exigence d’ajustement Décidez si un lecteur de service est nécessaire PRODUIT CONNEXE Vis moletées et vis de réglage manuel ↗
 
@@ -10004,7 +10183,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10066,7 +10245,9 @@ CONCEPTION ET DIMENSIONS / 3 LECTURE MIN
 
 Choisissez la pointe de la vis de pression selon son contact avec la pièce. Définissez marques admises, réglage et maintien, puis vérifiez l’assemblage complet.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié le 29 octobre 2026 · Mis à jour 2026-11-03 Réponse courte Choisissez le bout selon son contact avec la pièce. Le bout cuvette mord l’arbre et laisse une marque, le bout pointu se loge dans un point percé, le bout plat marque peu et convient aux réglages fréquents, le bout téton se positionne dans un trou ou une rainure. Vérifiez ensuite tenue et marquage sur l’assemblage réel.
+
+Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Choisissez d'abord le mécanisme de contact Travailler sur un exemple de butée réglable Emplacement séparé du serrage par friction Libérer un point et un plan de vérification Rédiger une fiche de réception du réglage répété PRODUIT CONNEXE Vis sans tête et vis de pression sur mesure ↗
 
@@ -10136,7 +10317,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10196,7 +10377,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Une tête en T doit entrer, tourner ou glisser à l'intérieur de la fente prévue tout en conservant le contact requis. La section transversale de la fente est donc une partie essentielle de la demande d'offre de fixation.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Frappe à froid multiposte
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Frappe à froid multiposte
 
 DANS CE GUIDE Fournir la section complète des emplacements Expliquer la méthode d'insertion Revoir contact et anti-rotation Vérifier l'état fini PRODUIT CONNEXE Boulons pour rainures en T sur mesure ↗
 
@@ -10238,7 +10419,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10288,7 +10469,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Une extrémité en forme d'oeil peut appartenir à une tringlerie, un dispositif tendeur ou un élément de levage. Une apparence similaire n’établit pas les mêmes exigences de conception ou l’utilisation approuvée.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Refoulement et forgeage à chaud
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Refoulement et forgeage à chaud
 
 DANS CE GUIDE Définissez d'abord la fonction prévue Afficher l'articulation et la direction de la charge Traiter explicitement les exigences de levage Préparer une revue complète de fabrication PRODUIT CONNEXE Boulons à œil et articulés sur mesure ↗
 
@@ -10330,7 +10511,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10380,7 +10561,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 La largeur intérieure, la forme du pli et l'alignement des pieds déterminent si un boulon en U s'adapte au composant supporté. Un dessin technique clair sépare ces caractéristiques de la connexion filetée.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Opérations secondaires et de précision
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Opérations secondaires et de précision
 
 DANS CE GUIDE Identifier le composant à serrer Dimension à partir de références cohérentes Vérifier le pliage et l'état du matériau Inclure le reste du joint PRODUIT CONNEXE Étriers filetés en U sur mesure ↗
 
@@ -10422,7 +10603,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10460,7 +10641,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Le col carré est la fonction anti-rotation fonctionnelle d'un boulon de carrosserie. Il doit être adapté au trou de raccordement et au matériau de support plutôt que traité comme un détail esthétique.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Frappe à froid multiposte
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Frappe à froid multiposte
 
 DANS CE GUIDE Définir le trou d'accouplement Contrôler la profondeur et la transition du cou Revoir la tête bombée et la face d'appui Convenez de l'ajustement fini PRODUIT CONNEXE Boulons à tête ronde et collet carré sur mesure ↗
 
@@ -10502,7 +10683,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10540,7 +10721,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Une fonction excentrique nécessite un axe de référence clair. Sans schéma de référence, deux fabricants peuvent interpréter différemment un dessin technique décalé apparemment simple.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Identifier l'axe fonctionnel Définir le décalage et l'orientation angulaire Décrire le contact d'accouplement Choisissez une configuration d'inspection qui suit la fonction PRODUIT CONNEXE Vis excentriques et à tête inclinée ↗
 
@@ -10582,7 +10763,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10632,7 +10813,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Différents threads aux deux extrémités peuvent résoudre un problème d'interface et créer un problème d'identification. Le dessin technique, le plan d’inspection et l’emballage doivent clairement distinguer chaque extrémité.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Spécifiez les deux extrémités indépendamment Expliquer la section centrale Planifier l'identification avant l'emballage Évaluez et examinez les deux interfaces PRODUIT CONNEXE Goujons à double extrémité sur mesure ↗
 
@@ -10674,7 +10855,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10736,7 +10917,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Une section centrale étroite modifie la géométrie d'une connexion filetée. Son objectif et les détails de sa transition doivent être définis avant la sélection de la séquence du processus de fabrication.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Indiquer l’objet de la section réduite Dimensionnez toute la transition Examiner les propriétés avec l'ingénieur responsable Inspecter l'état fourni PRODUIT CONNEXE Vis à tige réduite ou à diamètre variable ↗
 
@@ -10778,7 +10959,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10816,7 +10997,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Un cône fonctionne contre une surface correspondante. Son angle, sa position axiale et sa relation avec le filetage doivent être pris en compte avec le composant d'accouplement.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Décrire ce que le cône est censé faire Utiliser une définition dimensionnelle complète Relier le cône au filetage et aux références Convenez d’une méthode de vérification utile PRODUIT CONNEXE Vis à tige conique et vis coniques ↗
 
@@ -10858,7 +11039,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -10908,7 +11089,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 La combinaison d'une petite goupille de positionnement avec une vis peut réduire le nombre de composants séparés, mais les fonctions de positionnement et de serrage nécessitent toujours des spécifications distinctes.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Identifiez quelle fonctionnalité localise Définir la position et l'orientation de la broche Revoir la séquence d'installation Vérifier la géométrie fonctionnelle complète PRODUIT CONNEXE Vis avec goupilles de positionnement intégrées ↗
 
@@ -10950,7 +11131,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11000,7 +11181,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Plusieurs épaulements permettent de localiser plusieurs composants. Un schéma dimensionnel clair explique quelles distances axiales contrôlent l'assemblage et lesquelles sont les conséquences d'autres dimensions.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Frappe à froid et usinage secondaire
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Frappe à froid et usinage secondaire
 
 DANS CE GUIDE Mapper l'épaulement à chaque composant d'accouplement Choisissez un schéma de référence cohérent Examiner les transitions et l'accès aux outils Inspecter les relations pertinentes PRODUIT CONNEXE Vis multi-étapes et multi-épaulements ↗
 
@@ -11042,7 +11223,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11092,7 +11273,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Une connexion par pression dépend du panneau, du trou et du processus d'installation. Un goujon personnalisé ne peut pas être évalué comme une forme filetée isolée.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Frappe à froid multiposte
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Frappe à froid multiposte
 
 DANS CE GUIDE Fournir l'état du panneau Définir la géométrie du trou et de la rétention Examiner le support et l'installation des outils Spécifier l'acceptation au-delà de l'apparence PRODUIT CONNEXE Vis et goujons à clincher personnalisés ↗
 
@@ -11134,7 +11315,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11172,7 +11353,9 @@ FABRICATION / 2 LECTURE MIN
 
 La génération de filetage est un choix de processus, tandis que la géométrie et l'acceptation du filetage sont des exigences du produit. Un RFQ complet explique les deux sans confondre la méthode avec un résultat garanti.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Roulage, usinage des filets et taraudage
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Réponse courte Le roulage forme le filetage par refoulement de matière et est courant en série ; la taille enlève de la matière et convient aux grands pas, aux petites séries et aux filetages proches d’un épaulement. Spécifiez d’abord désignation, classe et calibrage, et n’imposez un procédé que s’il est réellement requis.
+
+Roulage, usinage des filets et taraudage
 
 DANS CE GUIDE Définir le fil avant la méthode de production Examiner le matériel et la séquence proposée Évitez un classement de force universel Accepter la méthode d'acceptation terminée PRODUIT CONNEXE Profils de filetage spéciaux et composés ↗
 
@@ -11214,7 +11397,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11241,6 +11424,22 @@ Par Theo Wan Lire le guide technique →
 #### Thèmes de fabrication connexes
 
 Filetage, coupe et taraudage ↗ Traitement thermique adapté au matériau ↗ Contrôle dimensionnel et vision CCD ↗
+
+#### En bref : filetage roulé ou taillé
+
+Critère Filetage roulé Filetage taillé
+
+Mode d’obtention La matière est refoulée entre les molettes La matière est enlevée par tournage, filière ou fraisage
+
+Ébauche Une ébauche réduite proche du diamètre sur flancs Matière au diamètre extérieur complet
+
+Surface et fatigue Flancs lisses écrouis ; en général meilleure tenue en fatigue Le fibrage est coupé ; l’état de surface dépend de l’outil et du réglage
+
+Adapté à Production en série et de nombreux profils spéciaux Grands pas, petites séries et filetages proches d’un épaulement
+
+À préciser dans la demande Désignation, classe, calibrage et si le roulage est exigé Désignation, classe, calibrage et si la taille est acceptée
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -11270,7 +11469,7 @@ FABRICATION / 2 LECTURE MIN
 
 Un trou transversal percé crée des bords d’entrée et de sortie et peut croiser une autre entité. La demande de prix doit définir ces bords avec autant de soin que l'emplacement du trou.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Opérations secondaires et de précision
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Opérations secondaires et de précision
 
 DANS CE GUIDE Afficher chaque intersection Spécifiez l'état des bords plutôt qu'une vague note Passez en revue le processus avec l'accès aux fonctionnalités Rendre l’inspection pratique PRODUIT CONNEXE Vis à perçage transversal ou à tête percée ↗
 
@@ -11312,7 +11511,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11362,7 +11561,7 @@ MATÉRIAUX & FINITIONS / 2 LECTURE MIN
 
 Un revêtement appartient au plan dimensionnel. L'ajustement final doit être évalué dans l'état dans lequel le client reçoit, et pas seulement avant le traitement de surface.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Opérations secondaires et de précision
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Opérations secondaires et de précision
 
 DANS CE GUIDE Identifier les surfaces qui contrôlent l'ajustement Spécifier le système de revêtement réel Résoudre l'étape d'inspection Inclure les restrictions de finition locales PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
 
@@ -11404,7 +11603,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11466,7 +11665,7 @@ MATÉRIAUX & FINITIONS / 2 LECTURE MIN
 
 Un aspect brillant n’identifie pas un processus de surface. Précisez le substrat et la fonction de surface requise avant de choisir entre le placage, la passivation ou un autre traitement.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Revêtements et traitements de surface
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Revêtements et traitements de surface
 
 DANS CE GUIDE Commencez par le matériel en dessous Distinguer le but du processus Tenir compte des effets dimensionnels et d'assemblage Convenir des preuves et de l'acceptation PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -11508,7 +11707,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11536,6 +11735,22 @@ Par Theo Wan Lire le guide technique →
 
 Revêtements et traitements de surface ↗ Nettoyage, freinage et préassemblage ↗ Contrôle dimensionnel et vision CCD ↗
 
+#### En bref : nickelage ou passivation de l’inox
+
+Critère Nickelage Passivation de l’inox
+
+S’applique à Acier, laiton et autres substrats Acier inoxydable uniquement
+
+Effet Ajoute une couche métallique de nickel Élimine le fer libre et favorise le film passif ; n’ajoute pas de couche
+
+Effet dimensionnel Ajoute de l’épaisseur ; filetages et ajustements nécessitent une réserve Variation dimensionnelle négligeable
+
+Référence courante ISO 4042 pour fixations à revêtement électrolytique ASTM A967 ou ASTM A380
+
+Risque hydrogène L’acier haute résistance nécessite une revue de fragilisation par l’hydrogène Ce n’est pas un procédé électrolytique
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
+
 ### Que spécifier pour une vis personnalisée à revêtement en flocons de zinc
 Source: https://zufek.net/fr/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
@@ -11546,7 +11761,9 @@ MATÉRIAUX & FINITIONS / 2 LECTURE MIN
 
 Un nom de famille de revêtements ne définit pas la surface complète fournie. Les demandes de prix sur les fixations personnalisées doivent relier le système de revêtement aux exigences d’ajustement, de friction et d’acceptation.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Revêtements et traitements de surface
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Réponse courte Indiquez le système complet (couche de base, éventuelle finition ou scellant et lubrification), la norme telle que l’ISO 10683, toute exigence de frottement dont dépend l’assemblage, les filetages et surfaces d’appui concernés et des critères d’acceptation mesurables. Un nom commercial seul laisse ces choix ouverts.
+
+Revêtements et traitements de surface
 
 DANS CE GUIDE Identifier le système complet Examiner le matériau de base et le prétraitement Inclure le comportement des filetages et des roulements Rédiger des exigences d'acceptation mesurables PRODUIT CONNEXE Vis à embase sur mesure ↗
 
@@ -11588,7 +11805,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11650,7 +11867,7 @@ QUALITÉ / 2 LECTURE MIN
 
 La propreté devient une exigence technique lorsqu'une contamination peut affecter l'assemblage. Définissez ce qui doit être retiré, comment cela est mesuré et comment l'état de propreté est protégé.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
 
 DANS CE GUIDE Décrire le problème de contamination Convenir de la méthode et des critères d’acceptation Séparer l'ébavurage du nettoyage Protéger le résultat par la manipulation PRODUIT CONNEXE Vis creuses et vis à perçage traversant ↗
 
@@ -11692,7 +11909,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11754,7 +11971,7 @@ ACHATS / 2 LECTURE MIN
 
 Une fonction de verrouillage pré-appliquée nécessite des exigences définies en matière de matériau, d'emplacement et d'assemblage. Un patch coloré montré sur une photographie ne constitue pas une spécification complète.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
 
 DANS CE GUIDE Identifier le système de verrouillage Définir le domaine d'application Décrire les conditions de montage et de service Accepter la vérification et le traitement PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -11796,7 +12013,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11834,7 +12051,7 @@ ACHATS / 2 LECTURE MIN
 
 Une vis préassemblée est fournie sous forme de petit assemblage. La rondelle, la méthode de rétention et la séquence des composants nécessitent le même contrôle que la vis elle-même.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
 
 DANS CE GUIDE Définir chaque composant fourni Afficher l'ordre de la pile et la rétention Revoir le traitement et la compatibilité des matériaux Inspecter l'ensemble livré PRODUIT CONNEXE Vis à embase sur mesure ↗
 
@@ -11876,7 +12093,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -11938,7 +12155,7 @@ QUALITÉ / 3 LECTURE MIN
 
 L'inspection dimensionnelle par caméra peut évaluer les caractéristiques visibles d'une vis, mais l'image, la configuration et le programme d'inspection doivent correspondre aux exigences. Il s’agit d’une partie d’un plan d’acceptation complet.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
 
 DANS CE GUIDE Choisissez les caractéristiques visibles à mesurer Révision de la présentation et de l'éclairage Reconnaître ce que l'image n'établit pas Valider et maintenir le programme d'inspection Valider la présentation et la visibilité des bords Définir la couverture et la gestion des rejets Associez les contrôles optiques aux méthodes manquantes PRODUIT CONNEXE Vis à épaulement et à marchepied ↗
 
@@ -11992,7 +12209,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -12060,7 +12277,7 @@ QUALITÉ / 2 LECTURE MIN
 
 Un échantillon est plus utile lorsque son identité, sa révision et sa portée d'acceptation sont claires. La planification du premier article relie le dessin technique approuvé aux preuves nécessaires avant la prochaine décision de production.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
 
 DANS CE GUIDE Lier l'échantillon à une spécification contrôlée Définir les preuves avant de fabriquer des pièces Approbation visuelle et fonctionnelle séparée Fermer la boucle de rétroaction PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -12102,7 +12319,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -12140,7 +12357,7 @@ QUALITÉ / 2 LECTURE MIN
 
 La couverture d'inspection doit suivre les caractéristiques et le plan d'acceptation. Dire qu’une vis non standard nécessite une inspection complète laisse la méthode, les caractéristiques et les preuves indéfinies.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
 
 DANS CE GUIDE Classer les caractéristiques Définir ce que signifie une inspection complète Convenir de l’échantillonnage comme plan documenté Gardez le contrôle et l'acceptation des processus connectés PRODUIT CONNEXE Vis multi-étapes et multi-épaulements ↗
 
@@ -12182,7 +12399,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -12210,6 +12427,22 @@ Par Theo Wan Lire le guide technique →
 
 Contrôle dimensionnel et vision CCD ↗ Nettoyage, freinage et préassemblage ↗
 
+#### En bref : échantillonnage ou contrôle à 100 %
+
+Critère Contrôle par échantillonnage Contrôle à 100 %
+
+Couverture Un échantillon défini par lot Chaque pièce, pour les caractéristiques désignées
+
+Adapté à Procédés stables et caractéristiques à moindre risque Caractéristiques fonctionnelles ou de sécurité et procédés instables
+
+Méthodes typiques Calibres et instruments selon un plan tel que l’ISO 2859-1 Tri optique (CCD), calibrage entre/n’entre pas ou contrôle fonctionnel
+
+Preuves Enregistrements d’échantillon et acceptation du lot Enregistrements de tri, rebuts et vérification du système
+
+À préciser dans la demande Caractéristiques, plan d’échantillonnage et critères d’acceptation Caractéristiques, méthode et vérification du système
+
+Comparaison générale. La gamme et les exigences d’une pièce donnée sont confirmées sur son plan.
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -12232,7 +12465,7 @@ QUALITÉ / 2 LECTURE MIN
 
 L'acceptation de l'inspection du filetage commence par le système de filetage et l'ajustement spécifiés. La jauge, la finition fournie et la méthode d’inspection doivent toutes faire référence à cette même exigence.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Roulage, usinage des filets et taraudage
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Roulage, usinage des filets et taraudage
 
 DANS CE GUIDE Confirmez la désignation complète du fil Accepter les conditions d'inspection Comprendre la portée du contrôle Contrôler la référence d'inspection PRODUIT CONNEXE Vis à pas fin et extra-fin ↗
 
@@ -12274,7 +12507,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -12340,7 +12573,7 @@ CONCEPTION ET DIMENSIONS / 2 LECTURE MIN
 
 Une instruction de serrage appartient au joint, pas seulement au diamètre de la vis. Le frottement, les conditions des roulements et la méthode d'assemblage influencent la relation entre le couple de serrage et la charge de serrage.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Revêtements et traitements de surface
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Revêtements et traitements de surface
 
 DANS CE GUIDE Décrire l'assemblage complet Identifier la condition de friction Distinguer les valeurs de référence de la validation Enregistrer l'exigence d'assemblage PRODUIT CONNEXE Vis à embase sur mesure ↗
 
@@ -12382,7 +12615,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -12448,7 +12681,7 @@ ACHATS / 2 LECTURE MIN
 
 Un prototype peut établir une géométrie utile sans définir l’itinéraire de production final. Planifiez la transition de manière à ce que les fonctions approuvées et les exigences d'acceptation survivent au changement de méthode de fabrication.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Décolletage à poupée mobile et tournage CNC
 
 DANS CE GUIDE Enregistrez ce que le prototype prouve Examiner les modifications d'itinéraire avant la sortie du volume Rendre l'échantillon et le rapport traçables Convenir de la porte de sortie de production PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -12490,7 +12723,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -12528,7 +12761,7 @@ ACHATS / 2 LECTURE MIN
 
 Les commandes répétées doivent répéter les spécifications approuvées, et non les ambiguïtés d'un ancien e-mail. Une petite habitude de contrôle des révisions peut éviter une confusion coûteuse entre les dessins, les échantillons et les enregistrements d’inspection.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Contrôle dimensionnel et vision CCD
 
 DANS CE GUIDE Utiliser un dessin technique de production identifié Documenter les modifications et les écarts séparément Connecter les enregistrements à la révision correcte Confirmer les spécifications lors de la commande PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -12570,7 +12803,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 
@@ -12608,7 +12841,7 @@ ACHATS / 2 LECTURE MIN
 
 L'emballage fait partie de l'état de livraison. Il doit protéger les surfaces fonctionnelles, préserver l’identification et rendre pratique le processus d’inspection et d’assemblage à l’arrivée.
 
-Par Theo Wan • ZUFEK Éditorial technique • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
+Par Theo Wan • Responsable ingénierie, ZUFEK • Publié en octobre 29, 2026 Nettoyage, freinage et préassemblage
 
 DANS CE GUIDE Identifiez ce qui a besoin de protection Définir les quantités et l'identification Coordonner la propreté et la préservation Connectez le lot aux enregistrements PRODUIT CONNEXE Vis à métal sur mesure ↗
 
@@ -12650,7 +12883,7 @@ Prêt à discuter de votre rôle ? Utilisez le Liste de contrôle pour la prépa
 
 Conseils généraux uniquement. Les propriétés des matériaux, les tolérances, les normes et la faisabilité de fabrication doivent être vérifiées pour les spécifications réelles. Cet article n'établit pas de garantie de performance du produit.
 
-TW Theo Wan ZUFEK Technical Editorial · guides de dessins techniques, de fabrication et d'achat.
+TW Theo Wan Responsable ingénierie, ZUFEK · Guides sur les plans, la fabrication et les achats.
 
 #### Continuer à explorer
 

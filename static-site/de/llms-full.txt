@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1006,7 +1007,9 @@ DIREKTER ENGINEERING-KONTAKT
 
 #### Bevorzugen Sie E-Mail?
 
-info@zufek.net ↗ Fügen Sie eine Überarbeitung der technischen Zeichnung, die Menge und eine kurze Beschreibung der Anwendung bei.
+info@zufek.net ↗ Telefon / WhatsApp +86 190 6634 8320 · WhatsApp Arbeitszeit: Montag–Samstag, 08:00–17:30 chinesische Zeit (UTC+8)
+
+Fügen Sie eine Überarbeitung der technischen Zeichnung, die Menge und eine kurze Beschreibung der Anwendung bei.
 
 ##### Was passiert als nächstes?
 
@@ -1026,14 +1029,14 @@ Senden Sie eine überarbeitete technische Zeichnung, eine Mustermenge, das erwar
 
 Bereiten Sie die RFQ-Checkliste vor ↗ Vergleichen Sie komplette Fertigungswege ↗
 
-### Theo Wan — ZUFEK Technischer Leitartikel
+### Theo Wan — Leiter Technik
 Source: https://zufek.net/de/authors/theo-wan/
 
-TW ZUFEK TECHNISCHER EDITORIAL
+TW ZUFEK TECHNIK
 
 ### Theo Wan 万天恩
 
-Theo Wan ist das redaktionelle Pseudonym für die praktischen Leitfäden von ZUFEK zu kundenspezifischen Spezifikationen für Verbindungselemente, Herstellungsoptionen, Inspektion und Beschaffung.
+Theo Wan leitet die Technik bei ZUFEK und schreibt die praxisnahen Leitfäden des Unternehmens zu Spezifikation, Fertigungswahl, Prüfung und Beschaffung von Sonderverbindungselementen.
 
 #### Schwerpunkte der Artikel
 
@@ -1043,7 +1046,7 @@ Die Artikel bieten allgemeine technische und Kaufberatung. Anwendungsspezifische
 
 #### Redaktioneller Ansatz
 
-Veröffentlicht unter einem redaktionellen Pseudonym. Jeder Leitfaden konzentriert sich auf Informationen, die Ingenieure und Einkäufer nutzen können, um Zeichnungen zu erstellen, Fertigungsoptionen zu vergleichen und Abnahmeanforderungen zu vereinbaren.
+Jeder Leitfaden konzentriert sich auf Informationen, mit denen Ingenieure und Einkäufer Zeichnungen vorbereiten, Fertigungsoptionen vergleichen und Abnahmeanforderungen vereinbaren.
 
 Wo sinnvoll, werden Quellen verlinkt. Spezifikationsbeispiele veranschaulichen einen Diskussionspunkt und werden nicht als Kundenfallgeschichten oder Testergebnisse dargestellt.
 
@@ -1656,6 +1659,16 @@ Schulter und Axialstapel der Vorrichtung ansehen ↗
 Geometriereferenz DIN 610 aus Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
 Zeichnung und Musterprüfung Qualitätsplanung Erstellen eines maßgeschneiderten Inspektions- und Abnahmeplans für Verbindungselemente
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 7379 Innensechskant-Passschulterschrauben: ein üblicher Ausgangspunkt für Kopf-, Antriebs- und Schulterproportionen.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -2366,6 +2379,16 @@ Stellen Sie die Antriebskonstruktionszeichnung oder die passende Werkzeugspezifi
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 10664 Innensechsrund-Antrieb. Varianten mit Zapfen und andere Sicherheitsantriebe werden meist über Zeichnung oder Werkzeugreferenz definiert.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -2492,6 +2515,16 @@ Dichtende Verbindung Medium, Druck- und Temperaturbedingungen, Dichtschnittstell
 Prüfen Sie die kleinste Restwand an Gewindegrund und Querbohrungen. Planen Sie Gratentfernung und -kontrolle, bevor ein Folgeschritt den Zugang verdeckt. Vereinbaren Sie für Innenflächen eine geeignete Zugangs- oder Prüfmethode; äußere CCD-Prüfung ist keine vollständige Bohrungsprüfung.
 
 Bohrungsnacharbeit, Reinigung und Prüfung abstimmen Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage nach technischer Prüfung und Bestätigung. Starttermin, Musterabnahme und Serienlieferplan im Angebot vereinbaren.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 7643 Hohlschrauben für Ringstutzen in Fluidverbindungen.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -2649,6 +2682,16 @@ Die Überprüfung der technischen Zeichnung sollte die Flanschabmessungen kläre
 Berücksichtigen Sie die Anforderungen an das passende Material und die Lagerfläche. Ein größerer Flansch verhindert nicht automatisch eine Beschädigung der Oberfläche. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 4162 Sechskantschrauben mit Flansch und integrierter Auflagefläche.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -2809,6 +2852,16 @@ Geben Sie den Kopfgriff, den Verstellweg und die erforderliche Verriegelungsmeth
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 464 / DIN 653 Rändelschrauben, hohe und niedrige Form.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -2964,6 +3017,16 @@ Geben Sie Spitzengeometrie, Gegenfläche, Antrieb und erwartete Funktion an. Die
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 4026, 4027, 4028, 4029 Gewindestifte mit Innensechskant und Kegelkuppe, Spitze, Zapfen oder Ringschneide.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -3073,6 +3136,16 @@ Geben Sie den Schlitzquerschnitt und die Einführmethode an. Wählen Sie nicht n
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 186 / DIN 787 Hammerschrauben mit Vierkant sowie T-Nutenschrauben für Maschinentische.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische Augen- und Gelenkbolzen nach technischer Zeichnung
 Source: https://zufek.net/de/products/eye-bolts/
 
@@ -3162,6 +3235,16 @@ Geben Sie die Richtung und den Verwendungszweck der Streitkräfte an. Jede Hebea
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 444 Augenschrauben für Gelenk- und Spannverbindungen; nicht zum Heben bestimmt.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische Designs für Hebeösenschrauben nach technischer Zeichnung
 Source: https://zufek.net/de/products/lifting-eye-bolts/
 
@@ -3249,6 +3332,16 @@ Geben Sie den genehmigten Lastfall und die anwendbare Norm an. Bei der benutzerd
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 580 Ringschrauben zum Heben. Für Hebezwecke gelten die einschlägige Norm und lokale Vorschriften einschließlich Tragfähigkeitskennzeichnung und Prüfung.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische U-Bolzen nach technischer Zeichnung
 Source: https://zufek.net/de/products/u-bolts/
 
@@ -3335,6 +3428,16 @@ Die Überprüfung der technischen Zeichnung sollte das Biegeprofil klären. Bein
 Geben Sie den Klemmquerschnitt und die Lastanforderungen an. Material, Biegeverfahren und Beschichtung müssen gemeinsam überprüft werden. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 3570 U-Bügel zur Rohrbefestigung.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 ### Kundenspezifische Vierkantschrauben nach technischer Zeichnung
 Source: https://zufek.net/de/products/square-head-bolts/
@@ -3425,6 +3528,16 @@ Zeigen Sie den Schlüsselzugang oder die Haltetasche und die erforderlichen mech
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 478, 479, 480 Vierkantschrauben mit Bund oder Zapfen-Varianten.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische Schlossschrauben nach technischer Zeichnung
 Source: https://zufek.net/de/products/carriage-bolts/
 
@@ -3511,6 +3624,16 @@ Die Überprüfung der technischen Zeichnung sollte das Problem des quadratischen
 Geben Sie die Passlochgeometrie und das Lagermaterial an. Der Nackeneingriff ist Teil des Anti-Rotations-Designs. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 603 / ISO 8677 Flachrundschrauben mit Vierkantansatz.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 ### Exzenter- und Winkelkopfschrauben gemäß technischer Zeichnung
 Source: https://zufek.net/de/products/eccentric-screws/
@@ -3706,6 +3829,16 @@ Geben Sie beide Gegengewinde, den Schultersitz und die Montagereihenfolge an. Id
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 835, 938, 939, 940 Stiftschrauben mit Einschraubenden von 2d, 1d, 1,25d und 2,5d.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -3812,6 +3945,16 @@ Bei der Überprüfung der technischen Zeichnung sollten Tonhöhenbeispiele gelö
 Eine feine Steigung allein garantiert keinen Widerstand gegen Lockerung. Geben Sie die Anforderungen an Verriegelung und Vibration separat an. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 261 / ISO 262 Metrisches ISO-Gewinde: Gesamtübersicht und ausgewählte Größen einschließlich Feingewinde.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -4018,6 +4161,16 @@ Die Überprüfung der technischen Zeichnung sollte das Problem von Tip & Relief 
 Schneidspitzen können Späne erzeugen. Die Kontrolle von Trümmern und Durchbrüchen muss in der tatsächlichen Montage nachgewiesen werden. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 1478 Gewindeprofil für Blechschrauben. Genormte Kopf- und Antriebsvarianten regeln Normen wie ISO 7049.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -6052,7 +6205,7 @@ Güteklasse und endgültige Eigenschaften Nennen Sie das Material und den spezif
 
 Dimensionsfolge Identifizieren Sie Funktionsflächen und späteres Schlichtaufmaß Welche Merkmale müssen nach der Behandlung möglicherweise erneut überprüft oder fertiggestellt werden?
 
-Beweise Geben Sie Härte, andere mechanische Prüfungen und angeforderte Aufzeichnungen an Welche Methode, Probenahme und Akzeptanzkriterium gelten für jede Anforderung?
+Nachweis Geben Sie Härte, andere mechanische Prüfungen und angeforderte Aufzeichnungen an Welche Methode, Probenahme und Akzeptanzkriterium gelten für jede Anforderung?
 
 Oberflächenkompatibilität Koordinieren Sie spätere Reinigungs-, Beschichtungs- und Risikokontrollen Schützt die vollständige vorgeschlagene Route den bestellten Endzustand?
 
@@ -8700,7 +8853,9 @@ BESCHAFFUNG / 3 MIN. READ
 
 Ein belastbares Angebot braucht klare Anforderungen. Eine Zeichnung ist der beste Ausgangspunkt; Muster, Skizze oder Montagebeschreibung helfen ebenfalls, offene Punkte zu klären.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Metallschrauben nach Zeichnung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Kurze Antwort Senden Sie die Zeichnung mit Nummer und Revision, Werkstoff, Oberfläche, kritische Merkmale und deren Gegenstücke, Muster- und Serienmengen, benötigte Prüfnachweise sowie Lieferort und Zieltermine. Offene Punkte kennzeichnen statt sie unklar zu lassen.
+
+Metallschrauben nach Zeichnung
 
 IN DIESEM HANDBUCH Beginnen Sie mit der technischen Zeichnung und Überarbeitung Identifizieren Sie die wichtigen Funktionen Geben Sie Material und Finish separat an Geben Sie Menge und Lieferkontext an Ihre RFQ-Checkliste Trennen Sie verbindliche Anforderungen von Diskussionspunkten Nutzen Sie ein Angebotsvergleichsblatt Schließen Sie die Überprüfung mit einer Freigabeentscheidung ab VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -8742,7 +8897,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -8776,7 +8931,9 @@ DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 Eine Schulterschraubenzeichnung braucht getrennte Anforderungen an Bohrungspassung, axiale Maßkette, Gewinde und Endoberfläche. Vor Musterfreigabe beide Toleranzgrenzen prüfen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Schulter- und Passschrauben
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Kurze Antwort Schulterdurchmesser und -länge getrennt vom Gewinde bemaßen, der Schulter eine Passungstoleranz zur Gegenbohrung geben und Gewindebezeichnung, Freistich und Kopfzugang zeigen. Axiale Maßkette und Durchmesserspiel an beiden Toleranzgrenzen prüfen und angeben, ob die Grenzen vor oder nach der Beschichtung gelten.
+
+Schulter- und Passschrauben
 
 IN DIESEM HANDBUCH Definieren Sie die Schulter Zeigen Sie, wie der Gewinde endet Überprüfen Sie den Zugang zum Kopf und die Sitzgelegenheiten Funktionstoleranzen kommunizieren Zeichnen Sie den Baugruppenstapel, nicht nur die Schraube Wählen Sie Bezugspunkte, die zur Ortungsfunktion passen Genehmigen Sie die endgültig gelieferte Oberfläche Rechenbeispiel: Durchmesserspiel getrennt bestimmen VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
 
@@ -8824,7 +8981,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -8882,7 +9039,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Eine unverlierbare Schraube mit Platte, Halteelement und Gegengewinde spezifizieren. Einbau, gelösten Hub und angezogenen Gewindeeingriff getrennt prüfen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Unverlierbare Schrauben
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Unverlierbare Schrauben
 
 IN DIESEM HANDBUCH Was hält die Schraube? Wie viel Bewegung ist nötig? Was passiert während des Gottesdienstes? Wie wird die Montage überprüft? Was sollte der Ausschreibung beiliegen? Prüfbeispiel: Wartungsplatte öffnen, ohne die Schraube zu verlieren VERWANDTES PRODUKT Unverlierbare Schrauben ↗
 
@@ -8922,7 +9079,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -8968,7 +9125,7 @@ MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
 Die Materialauswahl beginnt mit der Einsatzumgebung und den mechanischen Anforderungen. Die beste Spezifikation bringt Funktion, Herstellbarkeit, Verfügbarkeit und Verifizierung in Einklang.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Metallschrauben nach Zeichnung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Metallschrauben nach Zeichnung
 
 IN DIESEM HANDBUCH Beschreiben Sie zunächst die Umgebung Definieren Sie die mechanischen Anforderungen Behandeln Sie die Oberfläche als Teil des Systems Bestätigen Sie den Dokumentationsbedarf Vergleichen Sie Alternativen mit einem Anforderungssatz Überprüfen Sie die Kosten des fertigen Zustands Genehmigen Sie Vertretungen bewusst VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -9006,7 +9163,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9040,7 +9197,9 @@ BESCHAFFUNG / 2 MIN. READ
 
 Ein maßgeschneidertes Schraubenangebot spiegelt die vollständigen Spezifikationen und Bestellbedingungen wider. Das Verständnis der Kostentreiber kann eine Designprüfung produktiver machen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Schrauben mit Sonderkopf
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Kurze Antwort Der Preis einer Sonderschraube hängt vor allem ab von Geometrie und Fertigungsweg, Werkzeug und Rüsten, Toleranzen und dem dafür nötigen Prüfaufwand, Werkstoff, Zusatzoperationen und Oberfläche sowie der Losgröße. Werkzeug ist ein Einmalaufwand; fragen Sie vor Zeichnungsänderungen, welche Merkmale die laufenden Kosten treiben.
+
+Schrauben mit Sonderkopf
 
 IN DIESEM HANDBUCH Geometrie und Herstellungsweg Toleranz und Inspektion Material, Verarbeitung und Auftragsvolumen Besprechen Sie Änderungen vor der Überarbeitung Trennen Sie wiederkehrende Vorgänge von einmaligen Investitionen Identifizieren Sie die kostentreibende Funktion, bevor Sie sie ändern Geben Sie den Übergang von der Musterlieferung zur Wiederholungslieferung an VERWANDTES PRODUKT Schrauben mit Sonderkopf ↗
 
@@ -9078,7 +9237,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9136,7 +9295,7 @@ QUALITÄT / 2 MIN. READ
 
 Erstellen Sie einen Prüfplan für jedes Merkmal. Notieren Sie für jede Zeichnungsanforderung die Abnahmebedingung, eine geeignete Methode, die Inspektionsstufe und -abdeckung sowie die aufbewahrten Nachweise. Die bearbeiteten Reihen unten zeigen, wie man eine Schulterschraubenzeichnung in ein Inspektionsprotokoll umwandelt.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 · Aktualisiert 2026-11-02 Schulter- und Passschrauben
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 · Aktualisiert 2026-11-02 Schulter- und Passschrauben
 
 IN DIESEM HANDBUCH Beginnen Sie mit der freigegebenen Anforderung Nutzen Sie das Beispiel, ohne einen Testumfang blind zu kopieren Definieren Sie Abdeckung und Reaktion vor der Produktion Protokollieren Sie das Ergebnis und die Freigabeentscheidung VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
 
@@ -9198,7 +9357,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9256,7 +9415,9 @@ HERSTELLUNG / 2 MIN. READ
 
 Wählen Sie die Reihenfolge des Herstellungsprozesses nach Geometrie, Menge, Material und erforderlichem Zustand. Niedrigere Zykluskosten gleichen nicht immer Werkzeug- oder Sekundärarbeiten aus.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Kurze Antwort Kaltstauchen passt meist zu Wiederholmengen, die Werkzeuge rechtfertigen, und zu umformbaren Formen wie Köpfen, Flanschen und Absätzen. CNC-Drehen passt zu Prototypen, Kleinserien und Merkmalen wie tiefen Bohrungen oder Querbohrungen. Viele Teile kombinieren beides – vergleichen Sie vollständige Fertigungswege für dieselbe Endspezifikation.
+
+Mehrstufen-Kaltstauchen
 
 IN DIESEM HANDBUCH Beginnen Sie mit der Wiederholungslautstärke Trennen Sie die voluminöse Form vom funktionalen Detail Überprüfen Sie die Material- und Abnahmeanforderungen Sehen Sie sich die komplette Route an Erstellen Sie einen Routenvergleich rund um dieselbe fertige Spezifikation Fragen Sie, was sich zwischen Prototyp und Produktion ändert Lösen Sie die Geometrie auf, bevor Sie Werkzeuge festlegen VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -9294,7 +9455,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9322,6 +9483,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Mehrstufen-Kaltstauchen ↗ Langdrehen und CNC-Drehen ↗ Kaltstauchen mit anschließender Zerspanung ↗
 
+#### Auf einen Blick: Kaltstauchen oder CNC-Drehen
+
+Kriterium Kaltstauchen CNC- / Langdrehen
+
+Typische Menge Wiederholmengen, die das Werkzeug rechtfertigen Prototypen, Kleinserien und sich ändernde Konstruktionen
+
+Werkzeug Matrizen und Stempel werden vor der Fertigung hergestellt Vor allem Programme und Standard-Schneidwerkzeuge
+
+Materialausnutzung Geringer Materialverlust; Faserverlauf folgt der Umformkontur Material wird zerspant; der Faserverlauf wird geschnitten
+
+Geeignete Geometrie Köpfe, Flansche und Absätze, die stufenweise umformbar sind Tiefe Bohrungen, Querbohrungen, exzentrische und enge lokale Merkmale
+
+Konstruktionsänderungen Werkzeugänderungen dauern länger und kosten mehr Programmänderungen gehen schnell
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
+
 ### Beschichtungen hochfester Schrauben und Wasserstoffrisiko
 Source: https://zufek.net/de/blog/high-strength-screw-coatings-hydrogen-risk/
 Last modified: 2026-10-29
@@ -9332,7 +9509,9 @@ MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
 Für ein Verbindungselement aus hochfestem Stahl ist eine Beschichtungsentscheidung erforderlich, die sowohl Korrosion als auch Wasserstoffbelastung während der gesamten Verarbeitung berücksichtigt.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Werkstoffspezifische Wärmebehandlung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Kurze Antwort Bei hochfestem Stahl die Wasserstoffbelastung über den gesamten Prozess prüfen – Reinigen, Beizen und galvanisches Beschichten –, nicht nur den Beschichtungsnamen. Nicht-elektrolytische Systeme wie Zinklamelle vermeiden die galvanische Abscheidung, und Tempern kann das Risiko senken, doch beides ist keine Garantie. Prozesskontrollen und Nachweise vor der Bestellung festlegen.
+
+Werkstoffspezifische Wärmebehandlung
 
 IN DIESEM HANDBUCH Identifizieren Sie den anfälligen Zustand Definieren Sie ein Beschichtungssystem Verstehen Sie die Grenzen des Backens Schreiben Sie eine nützliche Ausschreibung Kartieren Sie die potenzielle Gefährdung der gesamten Route Legen Sie Beweise vor der Bestellung fest Halten Sie Korrosion, Reibung und Passform im gleichen Test VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
 
@@ -9370,7 +9549,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9438,7 +9617,7 @@ MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
 Nichtrostende Stähle umfassen mehrere Werkstofffamilien. Sorte und Endzustand angeben, statt eine pauschale Wärmebehandlung vorzuschreiben.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Werkstoffspezifische Wärmebehandlung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Werkstoffspezifische Wärmebehandlung
 
 IN DIESEM HANDBUCH Unterscheiden Sie zwischen austenitischen und ausscheidungshärtenden Sorten Geben Sie den Zweck der Lösungsbehandlung an Definieren Sie den Endzustand von 17-4PH Koordinieren Sie die Fertigstellung und Überprüfung Klären Sie, was die technische Zeichnung unter hochfestem Edelstahl bedeutet Trennen Sie die Materialbehandlung von der Oberflächenbehandlung Betrachten Sie das Festfressen der Baugruppe als separaten Mechanismus VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -9476,7 +9655,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9522,7 +9701,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Eine Wellenpassung und eine Gewindetoleranzklasse steuern unterschiedliche Schnittstellen. Schreiben Sie die gewünschte Funktion klar auf, bevor Sie entscheiden, wie die Oberflächen bearbeitet werden müssen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
 
 IN DIESEM HANDBUCH Trennen Sie die glatte Schulter und den Gewinde Identifizieren Sie die Paarungsbeziehung Schleifen nur mit Begründung angeben Nach der jeweiligen Endbearbeitungsstufe prüfen Vergleichen Sie die Grenzwerte mit der tatsächlichen Gegenbohrung Machen Sie die abschließende Auswahl zu einer Fähigkeitsdiskussion Behalten Sie unabhängige Abnahmeprüfungen bei VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
 
@@ -9560,7 +9739,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9626,7 +9805,7 @@ DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 Antriebsprofil, passendes Werkzeug, Endoberfläche und Zugang gemeinsam festlegen. Ein passender Bit an der losen Schraube greift im Gehäuse nicht zwangsläufig ausreichend.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Mehrstufen-Kaltstauchen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Mehrstufen-Kaltstauchen
 
 IN DIESEM HANDBUCH Identifizieren Sie die genaue Schnittstelle Definieren Sie den Kopf- und Werkzeugzugriff Überprüfen Sie die Stift- und Aussparungsfunktionen Trennen Sie den Zugriffswiderstand von der gemeinsamen Leistung Prüfbeispiel: Werkzeugpassung von Zugangsproblemen unterscheiden VERWANDTES PRODUKT Sicherheits- und manipulationshemmende Schrauben ↗
 
@@ -9678,7 +9857,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9734,7 +9913,7 @@ DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 Bohrungsverlauf, kleinste Restwand, Innenkanten und Abnahmeverfahren festlegen. Gewindekerngeometrie und Bohrungsversatz im Querschnitt berücksichtigen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Beschreiben Sie die gesamte Passage Überprüfen Sie die Wandstärke mit dem Gewinde Staatliche Rand- und Sauberkeitsanforderungen Definieren Sie Funktionstests separat Rechenbeispiel: Bohrungsversatz bei der Restwand berücksichtigen VERWANDTES PRODUKT Hohlschrauben und Schrauben mit Durchgangsbohrung ↗
 
@@ -9786,7 +9965,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9848,7 +10027,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Flanschauflage an die tatsächliche Stützfläche anpassen. Kontaktfläche, Oberfläche und Klemmlänge vergleichen, bevor eine separate Scheibe ersetzt wird.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Mehrstufen-Kaltstauchen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Mehrstufen-Kaltstauchen
 
 IN DIESEM HANDBUCH Beginnen Sie mit der Passfläche Bemaßen Sie den Flansch als Funktionsmerkmal Wählen Sie den Gesichtszustand bewusst aus Berücksichtigen Sie die Endbearbeitungs- und Anziehbedingungen Prüfbeispiel: einteiligen Flansch mit Kopf-Scheiben-Anordnung vergleichen VERWANDTES PRODUKT Flanschschrauben nach Zeichnung ↗
 
@@ -9900,7 +10079,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -9962,7 +10141,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Eine handverstellte Schraube muss zugänglich, bequem zu greifen und mit der erforderlichen Einstellung kompatibel sein. Die Kopfbeschaffenheit allein bestimmt nicht, wie der Mechanismus funktioniert.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Beschreiben Sie die Funktionsweise Geben Sie die Rändelung und nicht ein Erscheinungsbild an Verbinden Sie die Tonhöhe mit der Anpassungsanforderung Entscheiden Sie, ob ein Servicelaufwerk erforderlich ist VERWANDTES PRODUKT Rändel- und Einstellschrauben ↗
 
@@ -10004,7 +10183,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10066,7 +10245,9 @@ DESIGN & ABMESSUNGEN / 3 MINDESTANZEIGE
 
 Gewindestiftspitze nach ihrem Kontakt zum Gegenstück auswählen. Zulässige Spuren, Verstellung und Haltefunktion festlegen und die gesamte Verbindung prüfen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht am 29. Oktober 2026 · Aktualisiert 2026-11-03 Kurze Antwort Wählen Sie die Kuppe nach dem Kontakt zum Gegenstück. Ringschneiden beißen in eine Welle und hinterlassen Spuren, Spitzen sitzen in einer angebohrten Mulde, Kegelkuppen markieren wenig und eignen sich für häufiges Verstellen, Zapfen positionieren in einer Bohrung oder Nut. Danach Haltekraft und Abdruck an der tatsächlichen Verbindung prüfen.
+
+Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Wählen Sie zunächst den Kontaktmechanismus Arbeiten Sie ein Beispiel für einen verstellbaren Anschlag durch Getrennt von der reibschlüssigen Klemmung Geben Sie einen Punkt und einen Verifizierungsplan frei Abnahmeprotokoll für wiederholtes Verstellen erstellen VERWANDTES PRODUKT Kundenspezifische Gewindestifte und Madenschrauben ↗
 
@@ -10136,7 +10317,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10196,7 +10377,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Ein T-Kopf muss in den vorgesehenen Schlitz eindringen, sich darin drehen oder gleiten lassen und dabei den erforderlichen Kontakt beibehalten. Der Schlitzquerschnitt ist daher ein wesentlicher Bestandteil der Verbindungselement-Ausschreibung.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
 
 IN DIESEM HANDBUCH Stellen Sie den kompletten Slot-Bereich bereit Erklären Sie die Einfügemethode Überprüfen Sie den Kontakt und die Verdrehsicherung Überprüfen Sie den fertigen Zustand VERWANDTES PRODUKT T-Nutenschrauben nach Zeichnung ↗
 
@@ -10238,7 +10419,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10288,7 +10469,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Ein ösenförmiges Ende kann zu einem Gestänge, einer Spannvorrichtung oder einer Hubkomponente gehören. Ein ähnliches Erscheinungsbild begründet nicht die gleichen Designanforderungen oder die gleiche genehmigte Verwendung.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Warmstauchen und Warmumformen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Warmstauchen und Warmumformen
 
 IN DIESEM HANDBUCH Definieren Sie zunächst die beabsichtigte Funktion Zeigen Sie die Artikulation und Lastrichtung an Behandeln Sie Hebeanforderungen explizit Bereiten Sie eine vollständige Fertigungsprüfung vor VERWANDTES PRODUKT Augen- und Gelenkschrauben nach Zeichnung ↗
 
@@ -10330,7 +10511,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10380,7 +10561,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Innenbreite, Biegeform und Schenkelausrichtung bestimmen, ob ein U-Bolzen zum unterstützten Bauteil passt. Eine klare technische Zeichnung trennt diese Merkmale von der Gewindeverbindung.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
 
 IN DIESEM HANDBUCH Identifizieren Sie die Komponente, die geklemmt wird Dimension aus konsistenten Referenzen Überprüfen Sie die Biegung und den Materialzustand Beziehen Sie den Rest der Verbindung mit ein VERWANDTES PRODUKT U-Bügel nach Zeichnung ↗
 
@@ -10422,7 +10603,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10460,7 +10641,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Der Vierkanthals ist die funktionelle Verdrehsicherung einer Schlossschraube. Es sollte auf das passende Loch und das Trägermaterial abgestimmt sein und nicht als kosmetisches Detail betrachtet werden.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
 
 IN DIESEM HANDBUCH Definieren Sie das passende Loch Kontrollieren Sie die Tiefe und den Übergang des Halses Überprüfen Sie den gewölbten Kopf und die Auflagefläche Vereinbaren Sie die fertige Passform VERWANDTES PRODUKT Flachrundschrauben mit Vierkantansatz nach Zeichnung ↗
 
@@ -10502,7 +10683,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10540,7 +10721,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Ein exzentrisches Merkmal benötigt eine klare Referenzachse. Ohne ein Bezugsschema können zwei Hersteller eine scheinbar einfache Offset-Konstruktionszeichnung unterschiedlich interpretieren.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Identifizieren Sie die Funktionsachse Definieren Sie Versatz und Winkelausrichtung Beschreiben Sie den Gegenkontakt Wählen Sie einen Inspektionsaufbau, der der Funktion folgt VERWANDTES PRODUKT Exzenter- und Schrägkopfschrauben ↗
 
@@ -10582,7 +10763,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10632,7 +10813,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Unterschiedliche Gewindes an den beiden Enden können ein Schnittstellenproblem lösen und ein Identifikationsproblem erzeugen. Die technische Zeichnung, der Prüfplan und die Verpackung sollten jedes Ende deutlich unterscheiden.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Geben Sie die beiden Enden unabhängig voneinander an Erklären Sie den Mittelteil Planen Sie die Identifizierung vor dem Verpacken Messen und überprüfen Sie beide Schnittstellen VERWANDTES PRODUKT Kundenspezifische doppelseitige Bolzen ↗
 
@@ -10674,7 +10855,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10736,7 +10917,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Ein schmaler Mittelabschnitt verändert die Geometrie einer Gewindeverbindung. Sein Zweck und die Übergangsdetails müssen definiert werden, bevor die Reihenfolge des Herstellungsprozesses ausgewählt wird.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Geben Sie den Zweck des reduzierten Abschnitts an Dimensionieren Sie den gesamten Übergang Besprechen Sie die Eigenschaften mit dem zuständigen Ingenieur Überprüfen Sie den Lieferzustand VERWANDTES PRODUKT Schrauben mit reduziertem oder abgestuftem Schaft ↗
 
@@ -10778,7 +10959,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10816,7 +10997,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Eine Verjüngung wirkt gegen eine entsprechende Fläche. Sein Winkel, seine axiale Position und seine Beziehung zum Gewinde müssen beim Gegenstück berücksichtigt werden.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Beschreiben Sie, wozu die Verjüngung dienen soll Verwenden Sie eine vollständige Dimensionsdefinition Ordnen Sie den Kegel dem Gewinde und den Bezugspunkten zu Vereinbaren Sie eine sinnvolle Verifizierungsmethode VERWANDTES PRODUKT Schrauben mit konischem Schaft und Kegelschrauben ↗
 
@@ -10858,7 +11039,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -10908,7 +11089,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Durch die Kombination eines kleinen Fixierstifts mit einer Schraube können separate Komponenten reduziert werden, die Fixierungs- und Klemmfunktionen erfordern jedoch immer noch eindeutige Spezifikationen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Identifizieren Sie, welches Feature lokalisiert wird Definieren Sie die Pin-Position und -Ausrichtung Überprüfen Sie die Installationsreihenfolge Überprüfen Sie die vollständige Funktionsgeometrie VERWANDTES PRODUKT Schrauben mit integriertem Positionierstift ↗
 
@@ -10950,7 +11131,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11000,7 +11181,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Mehrere Schultern können mehrere Komponenten aufnehmen. Ein übersichtliches Bemaßungsschema erklärt, welche Achsabstände die Montage steuern und welche sich aus anderen Bemaßungen ergeben.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Kaltstauchen mit anschließender Zerspanung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Kaltstauchen mit anschließender Zerspanung
 
 IN DIESEM HANDBUCH Ordnen Sie die Schulter jeder passenden Komponente zu Wählen Sie ein einheitliches Referenzschema Überprüfen Sie Übergänge und Werkzeugzugriff Überprüfen Sie die relevanten Beziehungen VERWANDTES PRODUKT Multi-Step- und Multi-Shoulder-Schrauben ↗
 
@@ -11042,7 +11223,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11092,7 +11273,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Eine Einpressverbindung ist abhängig von der Platte, dem Loch und dem Montagevorgang. Ein benutzerdefinierter Bolzen kann nicht als isolierte Gewindeform ausgewertet werden.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Mehrstufen-Kaltstauchen
 
 IN DIESEM HANDBUCH Geben Sie den Zustand des Panels an Definieren Sie die Loch- und Retentionsgeometrie Überprüfen Sie die Werkzeugunterstützung und -installation Geben Sie Akzeptanz an, die über den äußeren Anschein hinausgeht VERWANDTES PRODUKT Einpressschrauben und Einpressbolzen nach Zeichnung ↗
 
@@ -11134,7 +11315,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11172,7 +11353,9 @@ HERSTELLUNG / 2 MIN. READ
 
 Die Gewindeerzeugung ist eine Prozessauswahl, während Gewindegeometrie und -abnahme Produktanforderungen sind. Eine vollständige Ausschreibung erklärt beides, ohne die Methode mit einem garantierten Ergebnis zu verwechseln.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Gewindewalzen, Gewindedrehen und Gewindebohren
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Kurze Antwort Beim Rollen wird das Gewinde durch Werkstoffverdrängung geformt und ist in der Serienfertigung üblich; beim Schneiden wird Werkstoff abgetragen, geeignet für große Steigungen, Kleinserien und Gewinde nahe einer Schulter. Zuerst Gewindebezeichnung, Toleranzklasse und Lehrung festlegen und ein Verfahren nur nennen, wenn es wirklich gefordert ist.
+
+Gewindewalzen, Gewindedrehen und Gewindebohren
 
 IN DIESEM HANDBUCH Definieren Sie den Gewinde vor der Produktionsmethode Überprüfen Sie das Material und die vorgeschlagene Reihenfolge Vermeiden Sie eine universelle Stärke-Rangliste Vereinbaren Sie die fertige Abnahmemethode VERWANDTES PRODUKT Spezielle und zusammengesetzte Gewindeprofile ↗
 
@@ -11214,7 +11397,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11241,6 +11424,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 #### Verwandte Fertigungsthemen
 
 Gewinderollen, Schneiden und Gewindeschneiden ↗ Werkstoffspezifische Wärmebehandlung ↗ CCD-Bildverarbeitung und Maßprüfung ↗
+
+#### Auf einen Blick: gerolltes oder geschnittenes Gewinde
+
+Kriterium Gerolltes Gewinde Geschnittenes Gewinde
+
+Herstellung Werkstoff wird zwischen Rollwerkzeugen verdrängt Werkstoff wird durch Drehen, Schneiden oder Fräsen abgetragen
+
+Rohling Ein reduzierter Rohling nahe dem Flankendurchmesser Material mit vollem Außendurchmesser
+
+Oberfläche und Dauerfestigkeit Kaltverfestigte, glatte Flanken; meist bessere Dauerfestigkeit Faserverlauf wird geschnitten; Oberfläche hängt von Werkzeug und Einrichtung ab
+
+Geeignet für Serienfertigung und viele Sonderprofile Große Steigungen, Kleinserien und Gewinde nahe einer Schulter
+
+In der Anfrage angeben Gewindebezeichnung, Toleranzklasse, Lehrung und ob Rollen gefordert ist Gewindebezeichnung, Toleranzklasse, Lehrung und ob Schneiden zulässig ist
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -11270,7 +11469,7 @@ HERSTELLUNG / 2 MIN. READ
 
 Ein gebohrtes Querloch erzeugt Eintritts- und Austrittskanten und kann ein anderes Merkmal schneiden. In der Ausschreibung sollten diese Kanten ebenso sorgfältig definiert werden wie die Lochposition.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
 
 IN DIESEM HANDBUCH Zeigen Sie jede Kreuzung an Geben Sie die Randbedingung an und geben Sie keine vage Notiz ab Überprüfen Sie den Vorgang mit dem Funktionszugriff Gestalten Sie die Inspektion praktisch VERWANDTES PRODUKT Schrauben mit Quer- oder Kopfbohrung ↗
 
@@ -11312,7 +11511,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11362,7 +11561,7 @@ MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
 Eine Beschichtung gehört in den Maßplan. Die endgültige Passform muss in dem Zustand beurteilt werden, den der Kunde erhält, und nicht nur vor der Oberflächenbehandlung.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Sekundär- und Präzisionsbearbeitung
 
 IN DIESEM HANDBUCH Identifizieren Sie die Oberflächen, die die Passung steuern Geben Sie das tatsächliche Beschichtungssystem an Beheben Sie die Inspektionsphase Berücksichtigen Sie lokale Finish-Einschränkungen VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
 
@@ -11404,7 +11603,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11466,7 +11665,7 @@ MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
 Ein helles Erscheinungsbild weist nicht auf einen Oberflächenprozess hin. Geben Sie das Substrat und die gewünschte Oberflächenfunktion an, bevor Sie zwischen Galvanisierung, Passivierung oder einer anderen Behandlung wählen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Beschichtungen und Oberflächenbehandlungen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Beschichtungen und Oberflächenbehandlungen
 
 IN DIESEM HANDBUCH Beginnen Sie mit dem Material darunter Unterscheiden Sie den Prozesszweck Berücksichtigen Sie Dimensions- und Montageeffekte Beweise und Akzeptanz vereinbaren VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -11508,7 +11707,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11536,6 +11735,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 Beschichtungen und Oberflächenbehandlungen ↗ Reinigung, Schraubensicherung und Vormontage ↗ CCD-Bildverarbeitung und Maßprüfung ↗
 
+#### Auf einen Blick: Vernickeln oder Passivieren von Edelstahl
+
+Kriterium Vernickeln Passivieren von Edelstahl
+
+Anwendbar auf Stahl, Messing und andere Grundwerkstoffe Nur nichtrostender Stahl
+
+Wirkung Bringt eine metallische Nickelschicht auf Entfernt freies Eisen und unterstützt die Passivschicht; keine Auflage
+
+Maßliche Auswirkung Erhöht die Dicke; Gewinde und Passungen brauchen eine Zugabe Vernachlässigbare Maßänderung
+
+Übliche Referenz ISO 4042 für galvanisch beschichtete Verbindungselemente ASTM A967 oder ASTM A380
+
+Wasserstoffrisiko Hochfester Stahl erfordert eine Prüfung auf Wasserstoffversprödung Kein galvanisches Verfahren
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
+
 ### Was ist für eine kundenspezifische Schraube mit Zinklamellenbeschichtung zu beachten?
 Source: https://zufek.net/de/blog/zinc-flake-coating-specification/
 Last modified: 2026-10-29
@@ -11546,7 +11761,9 @@ MATERIALIEN & AUSFÜHRUNGEN / 2 MIN. LESEN
 
 Ein Beschichtungsfamilienname definiert nicht die gesamte gelieferte Oberfläche. Ausschreibungen für kundenspezifische Verbindungselemente sollten das Beschichtungssystem mit den Anforderungen an Passform, Reibung und Akzeptanz in Verbindung bringen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Beschichtungen und Oberflächenbehandlungen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Kurze Antwort Nennen Sie das vollständige Beschichtungssystem (Grundschicht, ggf. Deckschicht oder Versiegelung und Schmierung), die Beschichtungsnorm wie ISO 10683, eine eventuell für die Verbindung nötige Reibungsanforderung, die betroffenen Gewinde und Auflageflächen sowie messbare Abnahmekriterien. Ein Handelsname allein lässt diese Punkte offen.
+
+Beschichtungen und Oberflächenbehandlungen
 
 IN DIESEM HANDBUCH Identifizieren Sie das komplette System Überprüfen Sie das Grundmaterial und die Vorbehandlung Berücksichtigen Sie das Gewinde- und Lagerverhalten Schreiben Sie messbare Akzeptanzanforderungen VERWANDTES PRODUKT Flanschschrauben nach Zeichnung ↗
 
@@ -11588,7 +11805,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11650,7 +11867,7 @@ QUALITÄT / 2 MIN. READ
 
 Sauberkeit wird zu einer technischen Anforderung, wenn Verunreinigungen die Baugruppe beeinträchtigen können. Definieren Sie, was entfernt werden muss, wie es gemessen wird und wie der saubere Zustand geschützt wird.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
 
 IN DIESEM HANDBUCH Beschreiben Sie das Kontaminationsproblem Vereinbaren Sie die Methode und die Akzeptanzkriterien Entgraten und Reinigen trennen Schützen Sie das Ergebnis durch Handhabung VERWANDTES PRODUKT Hohlschrauben und Schrauben mit Durchgangsbohrung ↗
 
@@ -11692,7 +11909,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11754,7 +11971,7 @@ BESCHAFFUNG / 2 MIN. READ
 
 Für eine vorab angebrachte Verriegelungsfunktion sind definierte Material-, Standort- und Montageanforderungen erforderlich. Ein auf einem Foto abgebildeter Farbfleck stellt keine vollständige Spezifikation dar.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
 
 IN DIESEM HANDBUCH Identifizieren Sie das Schließsystem Definieren Sie den Anwendungsbereich Beschreiben Sie die Montage- und Servicebedingungen Vereinbaren Sie die Überprüfung und Abwicklung VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -11796,7 +12013,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11834,7 +12051,7 @@ BESCHAFFUNG / 2 MIN. READ
 
 Als Kleinbaugruppe wird eine vormontierte Schraube mitgeliefert. Die Unterlegscheibe, die Haltemethode und die Reihenfolge der Komponenten erfordern die gleiche Kontrolle wie die Schraube selbst.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
 
 IN DIESEM HANDBUCH Definieren Sie jede gelieferte Komponente Zeigen Sie die Stapelreihenfolge und Aufbewahrung an Überprüfen Sie die Behandlung und Materialverträglichkeit Überprüfen Sie die gelieferte Baugruppe VERWANDTES PRODUKT Flanschschrauben nach Zeichnung ↗
 
@@ -11876,7 +12093,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -11938,7 +12155,7 @@ QUALITÄT / 3 MIN. READ
 
 Mit der kamerabasierten Maßprüfung können sichtbare Merkmale einer Schraube beurteilt werden, allerdings müssen Bild, Einrichtung und Prüfprogramm zur Anforderung passen. Es ist Teil eines vollständigen Akzeptanzplans.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
 
 IN DIESEM HANDBUCH Wählen Sie die sichtbaren Merkmale zur Messung aus Überprüfen Sie Präsentation und Beleuchtung Erkennen Sie, was das Bild nicht begründet Validieren und pflegen Sie das Inspektionsprogramm Validieren Sie die Präsentation und Kantensichtbarkeit Definieren Sie die Abdeckung und die Ablehnungsbehandlung Kombinieren Sie optische Kontrollen mit den fehlenden Methoden VERWANDTES PRODUKT Schulter- und Stufenschrauben ↗
 
@@ -11992,7 +12209,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -12060,7 +12277,7 @@ QUALITÄT / 2 MIN. READ
 
 Ein Muster ist am nützlichsten, wenn seine Identität, Revision und Akzeptanzumfang klar sind. Die Erstmusterplanung verknüpft die genehmigte Konstruktionszeichnung mit den erforderlichen Nachweisen vor der nächsten Produktionsentscheidung.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
 
 IN DIESEM HANDBUCH Verknüpfen Sie die Probe mit einer kontrollierten Spezifikation Definieren Sie die Beweise, bevor Sie Teile herstellen Getrennte optische und funktionale Abnahme Schließen Sie die Feedbackschleife VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -12102,7 +12319,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -12140,7 +12357,7 @@ QUALITÄT / 2 MIN. READ
 
 Der Inspektionsumfang sollte dem Merkmals- und Abnahmeplan folgen. Wenn man sagt, dass eine nicht standardmäßige Schraube einer vollständigen Inspektion bedarf, bleiben Methode, Merkmale und Beweise unklar.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
 
 IN DIESEM HANDBUCH Klassifizieren Sie die Merkmale Definieren Sie, was eine vollständige Inspektion bedeutet Vereinbaren Sie die Probenahme als dokumentierten Plan Halten Sie Prozesskontrolle und Akzeptanz miteinander verbunden VERWANDTES PRODUKT Multi-Step- und Multi-Shoulder-Schrauben ↗
 
@@ -12182,7 +12399,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -12210,6 +12427,22 @@ Von Theo Wan Lesen Sie den technischen Leitfaden →
 
 CCD-Bildverarbeitung und Maßprüfung ↗ Reinigung, Schraubensicherung und Vormontage ↗
 
+#### Auf einen Blick: Stichprobe oder 100 % Prüfung
+
+Kriterium Stichprobenprüfung 100 % Prüfung
+
+Umfang Eine festgelegte Stichprobe aus jedem Los Jedes Teil, für die benannten Merkmale
+
+Geeignet für Stabile Prozesse und Merkmale mit geringerem Risiko Funktions- oder sicherheitsrelevante Merkmale und instabile Prozesse
+
+Typische Methoden Lehren und Messmittel nach einem Plan wie ISO 2859-1 Optische (CCD-)Sortierung, Gut-/Schlecht-Lehrung oder Funktionsprüfung
+
+Nachweis Stichprobenaufzeichnungen und Losfreigabe Sortierprotokolle, Ausschusszahlen und Systemverifizierung
+
+In der Anfrage angeben Merkmale, Stichprobenplan und Annahmezahlen Merkmale, Methode und wie das System verifiziert wird
+
+Allgemeiner Vergleich. Fertigungsweg und Anforderungen eines konkreten Teils werden anhand seiner Zeichnung bestätigt.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -12232,7 +12465,7 @@ QUALITÄT / 2 MIN. READ
 
 Die Abnahme der Gewindekontrolle beginnt mit dem vorgegebenen Gewindesystem und der Passung. Das Messgerät, die gelieferte Oberfläche und die Prüfmethode sollten sich alle auf dieselbe Anforderung beziehen.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Gewindewalzen, Gewindedrehen und Gewindebohren
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Gewindewalzen, Gewindedrehen und Gewindebohren
 
 IN DIESEM HANDBUCH Bestätigen Sie die vollständige Gewindebezeichnung Vereinbaren Sie die Inspektionsbedingung Verstehen Sie den Umfang der Prüfung Kontrollieren Sie die Inspektionsreferenz VERWANDTES PRODUKT Schrauben mit Fein- und Feinstgewinde ↗
 
@@ -12274,7 +12507,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -12340,7 +12573,7 @@ DESIGN & ABMESSUNGEN / 2 MINDESTANZEIGE
 
 Eine Anziehanleitung gehört zur Verbindung, nicht nur zum Schraubendurchmesser. Reibung, Lagerbedingungen und die Montageart beeinflussen den Zusammenhang zwischen Anzugsdrehmoment und Klemmkraft.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Beschichtungen und Oberflächenbehandlungen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Beschichtungen und Oberflächenbehandlungen
 
 IN DIESEM HANDBUCH Beschreiben Sie die komplette Verbindung Identifizieren Sie den Reibungszustand Unterscheiden Sie zwischen Referenzwerten und Validierungswerten Notieren Sie die Montageanforderung VERWANDTES PRODUKT Flanschschrauben nach Zeichnung ↗
 
@@ -12382,7 +12615,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -12448,7 +12681,7 @@ BESCHAFFUNG / 2 MIN. READ
 
 Ein Prototyp kann eine nützliche Geometrie erstellen, ohne den endgültigen Produktionsweg zu definieren. Planen Sie den Übergang so, dass die genehmigten Funktions- und Akzeptanzanforderungen die Änderung der Herstellungsmethode überdauern.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Langdrehen und CNC-Drehen
 
 IN DIESEM HANDBUCH Notieren Sie, was der Prototyp beweist Überprüfen Sie Routenänderungen vor der Volumenfreigabe Machen Sie die Probe und den Bericht rückverfolgbar Vereinbaren Sie das Produktionsfreigabetor VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -12490,7 +12723,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -12528,7 +12761,7 @@ BESCHAFFUNG / 2 MIN. READ
 
 Nachbestellungen sollten die genehmigte Spezifikation wiederholen und nicht die Unklarheiten einer alten E-Mail. Eine kleine Gewohnheit zur Revisionskontrolle kann kostspielige Verwirrung bei Zeichnungen, Mustern und Prüfprotokollen verhindern.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 CCD-Bildverarbeitung und Maßprüfung
 
 IN DIESEM HANDBUCH Verwenden Sie eine identifizierte produktionstechnische Zeichnung Dokumentieren Sie Änderungen und Abweichungen gesondert Verknüpfen Sie Datensätze mit der richtigen Revision Bestätigen Sie die Spezifikation bei der Nachbestellung VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -12570,7 +12803,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 
@@ -12608,7 +12841,7 @@ BESCHAFFUNG / 2 MIN. READ
 
 Die Verpackung gehört zum Lieferzustand. Es soll Funktionsflächen schützen, die Identifikation wahren und den Wareneingangs- und Montageprozess praxistauglich gestalten.
 
-Von Theo Wan • ZUFEK Technische Redaktion • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
+Von Theo Wan • Leiter Technik, ZUFEK • Veröffentlicht im Oktober 29, 2026 Reinigung, Schraubensicherung und Vormontage
 
 IN DIESEM HANDBUCH Identifizieren Sie, was geschützt werden muss Definieren Sie Mengen und Identifikation Sauberkeit und Konservierung aufeinander abstimmen Verbinden Sie das Los mit den Aufzeichnungen VERWANDTES PRODUKT Metallschrauben nach Zeichnung ↗
 
@@ -12650,7 +12883,7 @@ Sind Sie bereit, Ihren Teil zu besprechen? Benutzen Sie die Checkliste zur RFQ-V
 
 Nur allgemeine Hinweise. Materialeigenschaften, Toleranzen, Standards und Herstellungsmöglichkeit müssen für die tatsächliche Spezifikation überprüft werden. Dieser Artikel stellt keine Produktleistungsgarantie dar.
 
-TW Theo Wan ZUFEK Technical Editorial · Leitfäden für technische Zeichnungen, Herstellung und Einkauf.
+TW Theo Wan Leiter Technik, ZUFEK · Leitfäden zu Zeichnung, Fertigung und Einkauf.
 
 #### Erkunden Sie weiter
 

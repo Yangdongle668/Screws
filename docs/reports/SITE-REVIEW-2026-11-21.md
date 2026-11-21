@@ -203,3 +203,18 @@
 3. **Organization `sameAs`**：LinkedIn、Google 商家资料、行业目录等真实链接。
 4. **信任信号**：工厂 / 设备 / 检测实拍、电话或 WhatsApp、实际持有的认证。
 5. **作者署名**：如有愿意署名的工程或品质负责人，提供姓名与属实的职务。
+
+### 第二轮（2026-11-21）
+- www.zufek.net：网站绑定 www 并 301 到主域名（服务器侧，已从外部确认路径保留）。
+- 联系方式：顶栏、页脚、询盘页加入电话 / WhatsApp +86 190 6634 8320 和工作时间 08:00–17:30（UTC+8）；手机底部快捷按钮由“Email us”改为 WhatsApp；Organization 结构化数据加入 `telephone`；llms.txt 同步。工作日尚未确认，暂未写入 `openingHoursSpecification`。
+- 作者：Theo Wan（万天恩）由笔名改为 ZUFEK 工程负责人，作者页与文章结构化数据改为 `Person`（`jobTitle: Engineering Lead`），未添加学历、证书或年限。
+- 工厂实拍：不使用网络图片冒充自家工厂，需自行拍摄。
+
+### 第三轮（2026-11-21）
+- 工作时间更新为周一至周六 08:00–17:30（UTC+8），ContactPoint 加入 `hoursAvailable`。
+- 15 个产品家族新增“参考标准”表（如 ISO 7379、ISO 4026–4029、DIN 580、DIN 835/938–940），说明标准只是沟通起点、以批准图纸为准；附 ISO 898-1、ISO 3506-1、ISO 4042、ISO 10683 的性能等级与涂层参考；五语译文在 `scripts/standard-references.mjs`。
+- 新增 `docs/reports/AI-VISIBILITY-CHECKLIST.md`：15 个目标问题与月度记录表。
+- 四篇对比型文章（冷镦 vs CNC、滚丝 vs 切丝、镀镍 vs 钝化、抽检 vs 全检）新增“一览”对比表，六语言；源在 `scripts/comparison-tables.mjs`，译文在 `scripts/comparison-localization.mjs`。
+- 已确认：线上文章目前由静态生成页面输出（第一批改动的搜索标题已生效）。若某篇文章今后在后台重新发布，则以后台版本为准，模板改动需通过后台或校订包同步。
+- 8 篇高潜力文章（台阶螺丝图纸、RFQ 清单、冷镦 vs CNC、滚丝 vs 切丝、锌铝涂层、氢脆、紧定螺丝端型、价格因素）在标题下新增“简短回答”，概括正文结论，六语言；源在 `scripts/short-answers.mjs`。
+- 文章署名行和作者框由“ZUFEK Technical Editorial”改为“Engineering Lead, ZUFEK”；删除前端字典中已不再使用的“pen name”词条。

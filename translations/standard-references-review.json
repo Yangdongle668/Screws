@@ -1,0 +1,247 @@
+{
+  "Standard references": {
+    "de": "Normbezüge",
+    "es": "Normas de referencia",
+    "it": "Norme di riferimento",
+    "fr": "Normes de référence",
+    "zh": "参考标准"
+  },
+  "Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.": {
+    "de": "Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.",
+    "es": "Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.",
+    "it": "I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.",
+    "fr": "Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.",
+    "zh": "该类非标零件常以下列标准为基础。可将其作为双方沟通的共同起点；零件是否以及在哪些方面遵循标准，以批准图纸为准。"
+  },
+  "Standard": {
+    "de": "Norm",
+    "es": "Norma",
+    "it": "Norma",
+    "fr": "Norme",
+    "zh": "标准"
+  },
+  "Scope": {
+    "de": "Inhalt",
+    "es": "Alcance",
+    "it": "Ambito",
+    "fr": "Domaine",
+    "zh": "范围"
+  },
+  "Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).": {
+    "de": "Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.",
+    "es": "Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).",
+    "it": "Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).",
+    "fr": "Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).",
+    "zh": "性能等级：碳钢和合金钢参考 ISO 898-1，不锈钢参考 ISO 3506-1。涂层常按 ISO 4042（电镀）或 ISO 10683（锌铝涂层）规定。"
+  },
+  "ISO 7379": {
+    "de": "ISO 7379",
+    "es": "ISO 7379",
+    "it": "ISO 7379",
+    "fr": "ISO 7379",
+    "zh": "ISO 7379"
+  },
+  "ISO 4026, 4027, 4028, 4029": {
+    "de": "ISO 4026, 4027, 4028, 4029",
+    "es": "ISO 4026, 4027, 4028, 4029",
+    "it": "ISO 4026, 4027, 4028, 4029",
+    "fr": "ISO 4026, 4027, 4028, 4029",
+    "zh": "ISO 4026, 4027, 4028, 4029"
+  },
+  "DIN 603 / ISO 8677": {
+    "de": "DIN 603 / ISO 8677",
+    "es": "DIN 603 / ISO 8677",
+    "it": "DIN 603 / ISO 8677",
+    "fr": "DIN 603 / ISO 8677",
+    "zh": "DIN 603 / ISO 8677"
+  },
+  "ISO 4162": {
+    "de": "ISO 4162",
+    "es": "ISO 4162",
+    "it": "ISO 4162",
+    "fr": "ISO 4162",
+    "zh": "ISO 4162"
+  },
+  "DIN 580": {
+    "de": "DIN 580",
+    "es": "DIN 580",
+    "it": "DIN 580",
+    "fr": "DIN 580",
+    "zh": "DIN 580"
+  },
+  "ISO 10664": {
+    "de": "ISO 10664",
+    "es": "ISO 10664",
+    "it": "ISO 10664",
+    "fr": "ISO 10664",
+    "zh": "ISO 10664"
+  },
+  "DIN 3570": {
+    "de": "DIN 3570",
+    "es": "DIN 3570",
+    "it": "DIN 3570",
+    "fr": "DIN 3570",
+    "zh": "DIN 3570"
+  },
+  "DIN 186 / DIN 787": {
+    "de": "DIN 186 / DIN 787",
+    "es": "DIN 186 / DIN 787",
+    "it": "DIN 186 / DIN 787",
+    "fr": "DIN 186 / DIN 787",
+    "zh": "DIN 186 / DIN 787"
+  },
+  "DIN 478, 479, 480": {
+    "de": "DIN 478, 479, 480",
+    "es": "DIN 478, 479, 480",
+    "it": "DIN 478, 479, 480",
+    "fr": "DIN 478, 479, 480",
+    "zh": "DIN 478, 479, 480"
+  },
+  "DIN 464 / DIN 653": {
+    "de": "DIN 464 / DIN 653",
+    "es": "DIN 464 / DIN 653",
+    "it": "DIN 464 / DIN 653",
+    "fr": "DIN 464 / DIN 653",
+    "zh": "DIN 464 / DIN 653"
+  },
+  "DIN 835, 938, 939, 940": {
+    "de": "DIN 835, 938, 939, 940",
+    "es": "DIN 835, 938, 939, 940",
+    "it": "DIN 835, 938, 939, 940",
+    "fr": "DIN 835, 938, 939, 940",
+    "zh": "DIN 835, 938, 939, 940"
+  },
+  "DIN 444": {
+    "de": "DIN 444",
+    "es": "DIN 444",
+    "it": "DIN 444",
+    "fr": "DIN 444",
+    "zh": "DIN 444"
+  },
+  "ISO 261 / ISO 262": {
+    "de": "ISO 261 / ISO 262",
+    "es": "ISO 261 / ISO 262",
+    "it": "ISO 261 / ISO 262",
+    "fr": "ISO 261 / ISO 262",
+    "zh": "ISO 261 / ISO 262"
+  },
+  "ISO 1478": {
+    "de": "ISO 1478",
+    "es": "ISO 1478",
+    "it": "ISO 1478",
+    "fr": "ISO 1478",
+    "zh": "ISO 1478"
+  },
+  "DIN 7643": {
+    "de": "DIN 7643",
+    "es": "DIN 7643",
+    "it": "DIN 7643",
+    "fr": "DIN 7643",
+    "zh": "DIN 7643"
+  },
+  "Hexagon socket shoulder screws: a common starting point for head, socket and shoulder proportions.": {
+    "de": "Innensechskant-Passschulterschrauben: ein üblicher Ausgangspunkt für Kopf-, Antriebs- und Schulterproportionen.",
+    "es": "Tornillos con hombro de hexágono interior: punto de partida habitual para las proporciones de cabeza, hueco y hombro.",
+    "it": "Viti a spallamento con esagono incassato: punto di partenza comune per proporzioni di testa, impronta e spallamento.",
+    "fr": "Vis à épaulement à six pans creux : point de départ courant pour les proportions de tête, d’empreinte et d’épaulement.",
+    "zh": "内六角台阶螺丝（塞打螺丝）：头部、内六角和台阶比例的常用参考。"
+  },
+  "Hexagon socket set screws with flat, cone, dog and cup points.": {
+    "de": "Gewindestifte mit Innensechskant und Kegelkuppe, Spitze, Zapfen oder Ringschneide.",
+    "es": "Prisioneros de hexágono interior con punta plana, cónica, de espiga y de copa.",
+    "it": "Grani con esagono incassato a punta piana, conica, cilindrica e a coppa.",
+    "fr": "Vis sans tête à six pans creux à bout plat, pointu, téton et cuvette.",
+    "zh": "内六角紧定螺丝：平端、锥端、圆柱端和凹端。"
+  },
+  "Cup head square neck bolts.": {
+    "de": "Flachrundschrauben mit Vierkantansatz.",
+    "es": "Pernos de cabeza redonda con cuello cuadrado.",
+    "it": "Viti a testa tonda con sottotesta quadro.",
+    "fr": "Vis à tête bombée à collet carré.",
+    "zh": "圆头方颈螺栓（马车螺栓）。"
+  },
+  "Hexagon flange bolts with an integral bearing face.": {
+    "de": "Sechskantschrauben mit Flansch und integrierter Auflagefläche.",
+    "es": "Tornillos hexagonales con brida y superficie de apoyo integrada.",
+    "it": "Viti a testa esagonale flangiata con superficie di appoggio integrata.",
+    "fr": "Vis à tête hexagonale à embase avec surface d’appui intégrée.",
+    "zh": "六角法兰螺栓，带一体式支承面。"
+  },
+  "Lifting eye bolts. Lifting use must meet the applicable standard and local regulations, including load marking and verification.": {
+    "de": "Ringschrauben zum Heben. Für Hebezwecke gelten die einschlägige Norm und lokale Vorschriften einschließlich Tragfähigkeitskennzeichnung und Prüfung.",
+    "es": "Cáncamos de elevación. El uso para elevación debe cumplir la norma aplicable y la normativa local, incluido el marcado de carga y la verificación.",
+    "it": "Golfari di sollevamento. L’uso per il sollevamento deve rispettare la norma applicabile e le regole locali, compresi marcatura del carico e verifica.",
+    "fr": "Anneaux de levage. L’usage en levage doit respecter la norme applicable et la réglementation locale, y compris marquage de charge et vérification.",
+    "zh": "吊环螺钉。用于起吊时须满足适用标准和当地法规，包括载荷标记和验证。"
+  },
+  "Hexalobular internal driving feature. Pin-in and other security variants are usually defined by the drawing or a tool reference.": {
+    "de": "Innensechsrund-Antrieb. Varianten mit Zapfen und andere Sicherheitsantriebe werden meist über Zeichnung oder Werkzeugreferenz definiert.",
+    "es": "Accionamiento hexalobular interior. Las variantes con pivote y otros accionamientos de seguridad suelen definirse por plano o referencia de herramienta.",
+    "it": "Impronta esalobata interna. Le varianti con perno e altre impronte di sicurezza sono di solito definite da disegno o riferimento utensile.",
+    "fr": "Empreinte hexalobulaire interne. Les variantes à téton et autres empreintes de sécurité sont généralement définies par plan ou référence d’outil.",
+    "zh": "内梅花驱动。带中心柱及其他防盗驱动通常由图纸或工具型号定义。"
+  },
+  "U-bolts for pipe mounting.": {
+    "de": "U-Bügel zur Rohrbefestigung.",
+    "es": "Pernos en U para fijación de tuberías.",
+    "it": "Cavallotti per il fissaggio di tubi.",
+    "fr": "Étriers en U pour la fixation de tubes.",
+    "zh": "管道固定用 U 型螺栓。"
+  },
+  "T-head bolts with square neck, and T-slot bolts for machine tables.": {
+    "de": "Hammerschrauben mit Vierkant sowie T-Nutenschrauben für Maschinentische.",
+    "es": "Tornillos de cabeza de martillo con cuello cuadrado y tornillos para ranuras en T de mesas de máquina.",
+    "it": "Viti a testa a martello con quadro e viti per cave a T di tavole macchina.",
+    "fr": "Vis à tête marteau à collet carré et vis pour rainures en T de tables de machine.",
+    "zh": "带方颈的 T 型头螺栓，以及机床工作台 T 型槽螺栓。"
+  },
+  "Square head bolts with collar or dog-point variants.": {
+    "de": "Vierkantschrauben mit Bund oder Zapfen-Varianten.",
+    "es": "Tornillos de cabeza cuadrada con collar o variantes con espiga.",
+    "it": "Viti a testa quadra con collare o varianti con codolo.",
+    "fr": "Vis à tête carrée à collerette ou variantes à téton.",
+    "zh": "方头螺栓，带凸缘或短圆柱端等型式。"
+  },
+  "Knurled thumb screws, high and low head types.": {
+    "de": "Rändelschrauben, hohe und niedrige Form.",
+    "es": "Tornillos moleteados, tipo alto y bajo.",
+    "it": "Viti a testa zigrinata, tipo alto e basso.",
+    "fr": "Vis moletées, forme haute et basse.",
+    "zh": "滚花手拧螺丝，高头和低头型。"
+  },
+  "Double-end studs with metal-end lengths of 2d, 1d, 1.25d and 2.5d.": {
+    "de": "Stiftschrauben mit Einschraubenden von 2d, 1d, 1,25d und 2,5d.",
+    "es": "Espárragos con extremo de rosca de 2d, 1d, 1,25d y 2,5d.",
+    "it": "Prigionieri con estremità di avvitamento di 2d, 1d, 1,25d e 2,5d.",
+    "fr": "Goujons avec bout d’implantation de 2d, 1d, 1,25d et 2,5d.",
+    "zh": "双头螺柱，旋入端长度为 2d、1d、1.25d 和 2.5d。"
+  },
+  "Eye bolts for articulating and clamping connections; not intended for lifting.": {
+    "de": "Augenschrauben für Gelenk- und Spannverbindungen; nicht zum Heben bestimmt.",
+    "es": "Tornillos de ojo para uniones articuladas y de amarre; no destinados a elevación.",
+    "it": "Viti a occhio per collegamenti articolati e di bloccaggio; non destinate al sollevamento.",
+    "fr": "Vis à œil pour liaisons articulées et de serrage ; non destinées au levage.",
+    "zh": "活节螺栓，用于铰接和夹紧连接，不用于起吊。"
+  },
+  "ISO metric screw threads: general plan and selected sizes, including fine pitches.": {
+    "de": "Metrisches ISO-Gewinde: Gesamtübersicht und ausgewählte Größen einschließlich Feingewinde.",
+    "es": "Roscas métricas ISO: plan general y tamaños seleccionados, incluidos pasos finos.",
+    "it": "Filettature metriche ISO: piano generale e dimensioni scelte, inclusi passi fini.",
+    "fr": "Filetages métriques ISO : plan général et dimensions choisies, y compris pas fins.",
+    "zh": "ISO 普通螺纹：总体规划和选用规格，包括细牙螺距。"
+  },
+  "Tapping screw thread profile. Standard head and drive variants are covered by standards such as ISO 7049.": {
+    "de": "Gewindeprofil für Blechschrauben. Genormte Kopf- und Antriebsvarianten regeln Normen wie ISO 7049.",
+    "es": "Perfil de rosca para tornillos autorroscantes. Las variantes normalizadas de cabeza y accionamiento se recogen en normas como ISO 7049.",
+    "it": "Profilo del filetto per viti autofilettanti. Le varianti normalizzate di testa e impronta sono coperte da norme come ISO 7049.",
+    "fr": "Profil de filetage des vis à tôle. Les variantes normalisées de tête et d’empreinte relèvent de normes comme ISO 7049.",
+    "zh": "自攻螺纹牙型。标准头型和驱动型式见 ISO 7049 等标准。"
+  },
+  "Banjo bolts for pipe unions in fluid connections.": {
+    "de": "Hohlschrauben für Ringstutzen in Fluidverbindungen.",
+    "es": "Tornillos huecos (banjo) para racores de anillo en conexiones de fluidos.",
+    "it": "Viti forate (banjo) per raccordi ad anello nei collegamenti per fluidi.",
+    "fr": "Vis creuses (banjo) pour raccords orientables dans les circuits de fluides.",
+    "zh": "用于流体连接环形接头的空心螺栓（油管螺栓）。"
+  }
+}

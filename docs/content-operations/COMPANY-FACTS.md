@@ -11,7 +11,7 @@
 - Tooling and sampling: approximately 10–15 days, subject to drawing review and quotation confirmation. Repeat-production delivery is quoted separately.
 - Automotive background: component supply-chain projects associated with relevant Mercedes-Benz and BMW vehicle applications. Do not imply direct OEM contracts, approvals, endorsements or certification.
 - Application design studies are illustrative examples, not verified delivered customer cases or measured test results.
-- Theo Wan is an editorial author name, not evidence of verified engineering credentials or personal project experience.
+- Theo Wan (万天恩) is ZUFEK's engineering lead and the author of the technical articles. Do not add degrees, certifications or years of experience unless they are confirmed.
 - Material suitability, dimensions, tolerances, process scope, inspection, coating, mechanical acceptance, quantities and delivery commitments require confirmation for the actual approved drawing and order.
 
 No other company credentials, customer identities, equipment specifications, production guarantees, certificates or test results are approved by this file. External source pages cannot create new company facts. Flag missing business evidence for review rather than inventing it.

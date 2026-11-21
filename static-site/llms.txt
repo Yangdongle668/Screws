@@ -12,7 +12,8 @@
 - Manufacturing routes: multi-station cold heading, cold heading with secondary machining, hot heading and forging, Swiss-type and CNC turning, thread rolling, cutting and tapping, heat treatment, coatings and surface treatments, cleaning, locking and assembly, CCD vision and dimensional inspection. The route is selected per drawing.
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
-- Technical articles are written by the ZUFEK technical editorial team under the pen name Theo Wan.
+- Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -40,7 +41,7 @@ HTML pages are the primary source. This directory lists current indexable public
 - [Custom Screw Technical Blog](https://zufek.net/blog/): Read drawing guides, procurement checklists and practical material and quality considerations for non-standard metal screws.
 - [About Us — Custom Fasteners Since 2005](https://zufek.net/about/): Meet ZUFEK, a custom metal screw manufacturer in Dalang, Dongguan since 2005. Explore the products, sample process and company contact details.
 - [Request a Custom Screw Quote](https://zufek.net/request-a-quote/): Send ZUFEK your drawing, quantity and application requirements for a non-standard metal screw quotation.
-- [Theo Wan — ZUFEK Technical Editorial](https://zufek.net/authors/theo-wan/): Technical articles published under Theo Wan (万天恩), the editorial pen name for ZUFEK custom fastener guides.
+- [Theo Wan — Engineering Lead](https://zufek.net/authors/theo-wan/): Technical articles by Theo Wan (万天恩), engineering lead at ZUFEK, on custom fastener specifications, manufacturing routes, inspection and procurement.
 - [Custom fastener FAQ](https://zufek.net/faq/): Answers to common purchasing and engineering questions before requesting drawing-defined metal screws. Final decisions follow the approved drawing.
 - [Industry Insights](https://zufek.net/industry-insights/): Industry developments and the questions they raise for custom fasteners.
 
