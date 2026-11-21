@@ -70,3 +70,7 @@ Approved company facts, existing full page content and general engineering knowl
 - The model-based JSON syntax repair (`JSON_RECOVERY`) is skipped for responses longer than 24,000 characters, because echoing a long response costs as much as generating it again and rarely passes the verbatim-preservation check. Shorter repairs request an output budget sized to the response rather than the full output limit.
 
 Verification: `node docker/verify-ai-stream-recovery.mjs` plus the existing AI suite.
+
+## Stray closing brackets in model JSON (2026-11-21)
+
+A frequent malformed response closes the root object one bracket early and then continues with more keys (`..."]},"proposedLedgerTransition":{...}`), reported as `Unexpected non-whitespace character after JSON`. The model-based repair could never pass the verbatim preservation check for this case, so each occurrence cost an extra call and still failed. Local recovery now removes up to three stray or mismatched closing brackets outside strings and re-validates the result before any model repair is attempted; keys and values are not altered. Verification: `node docker/verify-ai-json-stray.mjs`.
