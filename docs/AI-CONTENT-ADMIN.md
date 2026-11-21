@@ -127,3 +127,13 @@ DeepSeek预设输出为32768 Token，旧DeepSeek配置仍为6000时自动升级�
 同步读取最近 90 天（截止到 3 天前，Google 数据有延迟）的“搜索词＋页面”数据，最多 25,000 行，每 3 天自动更新；失败后 6 小时内不重试。只申请 `webmasters.readonly` 权限。密钥和配置用 MAIL_CONFIG_KEY 派生的独立 AES-256-GCM 密钥加密，接口不回显私钥。搜索词数据只用于选题，不写入文章；模型被要求不在文章中引用曝光、点击或排名数字。品牌词（含 zufek）不作为选题机会。
 
 验证：`node docker/verify-ai-topic-signals.mjs`（模拟 Google 接口，无外部调用）。
+
+## 不写“研究备忘录”（2026-11-21）
+
+新规则下生成的文章仍出现了“资料能证明什么、不能证明什么”的章节和反复的保留说明。原因是各类任务提示词要求“assumptions and evidence”，行业洞察提示词要求写“what the evidence actually supports … what remains uncertain”，与服务器写作规则冲突。现已：
+
+- 六个任务提示词改为“只写会改变决策的前提”；写作风格与行业洞察提示词明确：面向读者写作，不写评述资料本身的章节或句子，保留说明放在对应结论旁一句话内。
+- 服务器固定写作规则新增同样要求，并指示把给审核人员的开放问题写入 uncertainties 字段，不写进正文。后台自定义过提示词时，这条规则同样生效。
+- 写作风格检查新增“研究备忘录式表述”提示，审核时可见。
+
+后台如果保存过自定义任务提示词，自定义内容不会自动更新：请在“AI内容维护”中恢复默认，或手动删去“assumptions and evidence”类要求。验证：`node docker/verify-writing-style-memo.mjs`。

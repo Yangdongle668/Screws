@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';import fs from 'node:fs';
+import {assessWritingStyle} from '../lib/article-audit.mjs';
+const memo={title:'What are hollow bolts called?',intro:'There is no single standard name.',example:'',checklist:[],sections:[['What the evidence supports and what it does not','Two things can be stated with reasonable confidence from the sources reviewed here. Nothing in the reviewed material should be read as evidence that a hollow screw is weaker. The honest summary is that names vary.']]};
+const plain={...memo,sections:[['Name the bore, not the noun','Specify the bore position, diameter and edge condition. A cross-drilled screw is solid along its axis but has a radial hole.']]};
+assert(assessWritingStyle(memo).signals.some(s=>s.label==='研究备忘录式表述'),'research-memo sections are flagged for review');
+assert(!assessWritingStyle(plain).signals.some(s=>s.label==='研究备忘录式表述'),'ordinary engineering prose is not flagged');
+const style=fs.readFileSync('docs/content-operations/WRITING-STYLE.md','utf8'),server=fs.readFileSync('docker/ai-content.mjs','utf8');
+assert(style.includes('not as a research memo')&&server.includes('not as a research memo'),'prompt file and fixed server rules both forbid research-memo sections');
+for(const f of ['TECHNICAL-BLOG','ENGINEERING-GUIDE','INDUSTRY-INSIGHT'])assert(!fs.readFileSync(`docs/content-operations/${f}.md`,'utf8').includes('meaningful assumptions and evidence'),f+' no longer asks for evidence discussion');
+console.log(JSON.stringify({memoFlagged:true,plainNotFlagged:true,promptsAligned:true}));

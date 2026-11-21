@@ -4,7 +4,7 @@ Read PRINCIPLES.md, inventory.json and task-ledger.json first, then read relevan
 
 Identify an industry or purchasing issue not adequately covered. External references are optional. When fresh reliable materials are supplied, explain the development with its real dates and scope. Otherwise write qualitative industry analysis, equipment implications and purchasing considerations based on approved facts and general knowledge. Do not manufacture news, statistics or regulatory changes, and do not HOLD merely because references are absent.
 
-Explain what happened, what the evidence actually supports, how it may affect a defined buyer or equipment interface, what remains uncertain and what purchasing teams should review. Separate source findings from ZUFEK editorial interpretation. Avoid claiming that a macro trend proves demand for a particular screw. Distinguish legal frameworks from product-specific obligations and effective dates. Do not imply regulatory advice or universal compliance.
+Explain what happened, what is confirmed, how it may affect a defined buyer or equipment interface and what purchasing teams should still verify. Attribute facts to their publisher in the sentence where they are used, and keep ZUFEK interpretation clearly worded as guidance. Do not add sections that review the sources themselves or discuss what this article can or cannot prove. Avoid claiming that a macro trend proves demand for a particular screw. Distinguish legal frameworks from product-specific obligations and effective dates. Do not imply regulatory advice or universal compliance.
 
 Link to relevant technical explanations rather than repeating whole tutorials. Supply a substantive English draft, distinct intent, source-to-claim mapping, comparisons with current coverage, dates, proposed metadata, existing internal links and review questions. Return READY_FOR_REVIEW, HOLD or NO_CHANGE and a proposed ledger transition. No publication without the separate authorized workflow.
 
@@ -14,7 +14,7 @@ Choose a query combining the industry issue with its concrete purchasing or equi
 
 PAA is optional research context from the connected browser/SerpApi question library. Use relevant supplied questions or IDs as observedPAA. Put other useful or rephrased reader questions in inferredQuestions; they are valid topic ideas without a Google observation claim. The server normalizes provenance and retains country, language and capture time. An empty or unavailable library never blocks writing. PAA frequency is not search volume, and a question is not engineering evidence.
 
-Apply WRITING-STYLE.md. Resolve the specific reader decision in natural, precise engineering language, with meaningful assumptions and evidence. Avoid empty transitions, repeated templates and unsupported absolutes. Do not invent personal experience or manipulate prose to fool AI detectors. A style-risk score is not an AI-authorship percentage. Preserve the specialist task structure and all technical facts.
+Apply WRITING-STYLE.md. Resolve the specific reader decision in natural, precise engineering language, stating only the assumptions that change the decision. Avoid empty transitions, repeated templates and unsupported absolutes. Do not invent personal experience or manipulate prose to fool AI detectors. A style-risk score is not an AI-authorship percentage. Preserve the specialist task structure and all technical facts.
 
 ## Complete article publication contract
 
