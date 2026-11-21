@@ -72,7 +72,7 @@
       "description": "Specify shoulder diameter, length, bore fit and usable thread. Review a clearance calculation, material options and inspection before requesting a quote.",
       "titleCharacters": 41,
       "descriptionCharacters": 153,
-      "bodyWords": 1220,
+      "bodyWords": 1298,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -831,7 +831,7 @@
       "description": "Send ZUFEK your drawing, quantity and application requirements for a non-standard metal screw quotation.",
       "titleCharacters": 36,
       "descriptionCharacters": 104,
-      "bodyWords": 425,
+      "bodyWords": 426,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -901,7 +901,7 @@
       "description": "Special drive interfaces help restrict casual access while allowing an approved service tool to operate the screw.",
       "titleCharacters": 53,
       "descriptionCharacters": 114,
-      "bodyWords": 1190,
+      "bodyWords": 1273,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -917,7 +917,7 @@
       "description": "Define the bore, remaining wall, burr control and passage requirements for custom hollow screws. Send the drawing and application for review.",
       "titleCharacters": 43,
       "descriptionCharacters": 141,
-      "bodyWords": 1000,
+      "bodyWords": 1072,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -933,7 +933,7 @@
       "description": "An integral flange provides a drawing-defined bearing footprint without a separately handled washer.",
       "titleCharacters": 39,
       "descriptionCharacters": 100,
-      "bodyWords": 1220,
+      "bodyWords": 1292,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -949,7 +949,7 @@
       "description": "Specify custom knurled thumb screws around grip clearance, adjustment travel, contact tips and locking. Review the installed mechanism before sample approval.",
       "titleCharacters": 52,
       "descriptionCharacters": 158,
-      "bodyWords": 1277,
+      "bodyWords": 1352,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -965,7 +965,7 @@
       "description": "Headless threaded components transfer a locating or clamping action through a specified tip.",
       "titleCharacters": 50,
       "descriptionCharacters": 92,
-      "bodyWords": 1135,
+      "bodyWords": 1213,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -981,7 +981,7 @@
       "description": "Define a custom T-slot bolt around the actual slot, entry path, rotation envelope and bearing face. Compare installed fit before releasing the head geometry.",
       "titleCharacters": 38,
       "descriptionCharacters": 157,
-      "bodyWords": 739,
+      "bodyWords": 817,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -996,7 +996,7 @@
       "description": "An eye or fork-style end connects a threaded shank to a pin or articulating joint. Discuss geometry, material, process and inspection requirements with ZUFEK.",
       "titleCharacters": 50,
       "descriptionCharacters": 158,
-      "bodyWords": 609,
+      "bodyWords": 684,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1011,7 +1011,7 @@
       "description": "Drawing-defined ring and shank geometries for engineering review of lifting-related requirements.",
       "titleCharacters": 50,
       "descriptionCharacters": 97,
-      "bodyWords": 613,
+      "bodyWords": 695,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1026,7 +1026,7 @@
       "description": "A bent shank and two threaded legs follow the dimensions of the pipe, frame or clamped component.",
       "titleCharacters": 33,
       "descriptionCharacters": 97,
-      "bodyWords": 577,
+      "bodyWords": 645,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1041,7 +1041,7 @@
       "description": "A square tool interface or captured head supports application-specific access and anti-rotation needs.",
       "titleCharacters": 43,
       "descriptionCharacters": 102,
-      "bodyWords": 581,
+      "bodyWords": 655,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1056,7 +1056,7 @@
       "description": "A round head and drawing-defined square neck provide an anti-rotation interface with the mating component.",
       "titleCharacters": 40,
       "descriptionCharacters": 106,
-      "bodyWords": 581,
+      "bodyWords": 653,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1086,7 +1086,7 @@
       "description": "Specify each end of a custom double-ended stud: thread system, handedness, usable engagement and identification. Coordinate wrench access, gauging and packaging.",
       "titleCharacters": 44,
       "descriptionCharacters": 161,
-      "bodyWords": 805,
+      "bodyWords": 883,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1101,7 +1101,7 @@
       "description": "Drawing-defined fine pitches support adjustment and engagement requirements where a standard selection does not fit.",
       "titleCharacters": 49,
       "descriptionCharacters": 116,
-      "bodyWords": 687,
+      "bodyWords": 766,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -1131,7 +1131,7 @@
       "description": "Slotted, cut or relieved ends can be specified around the actual material and hole condition.",
       "titleCharacters": 51,
       "descriptionCharacters": 93,
-      "bodyWords": 639,
+      "bodyWords": 720,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2157,7 +2157,7 @@
       "description": "Schulterdurchmesser, Länge, Bohrungspassung und nutzbares Gewinde festlegen. Spielberechnung, Werkstoffe und Prüfung vor der Angebotsanfrage klären.",
       "titleCharacters": 40,
       "descriptionCharacters": 148,
-      "bodyWords": 1087,
+      "bodyWords": 1154,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2172,7 +2172,7 @@
       "description": "Defina diámetro y longitud del hombro, ajuste del taladro y rosca útil. Revise cálculo de juego, materiales e inspección antes de pedir presupuesto.",
       "titleCharacters": 40,
       "descriptionCharacters": 148,
-      "bodyWords": 1471,
+      "bodyWords": 1558,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2187,7 +2187,7 @@
       "description": "Definisci diametro e lunghezza dello spallamento, accoppiamento nel foro e filetto utile. Consulta calcolo del gioco, materiali e controlli prima del preventivo.",
       "titleCharacters": 37,
       "descriptionCharacters": 161,
-      "bodyWords": 1397,
+      "bodyWords": 1481,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2202,7 +2202,7 @@
       "description": "按图定制台阶螺丝，明确肩轴直径、长度、配合孔和有效螺纹。通过轴向间隙算例、材料选择及检验说明，准备更完整的询价资料。",
       "titleCharacters": 19,
       "descriptionCharacters": 58,
-      "bodyWords": 197,
+      "bodyWords": 213,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -2217,7 +2217,7 @@
       "description": "Définissez diamètre et longueur d’épaulement, ajustement de l’alésage et filetage utile. Examinez jeu, matériaux et contrôles avant de demander un devis.",
       "titleCharacters": 33,
       "descriptionCharacters": 153,
-      "bodyWords": 1471,
+      "bodyWords": 1559,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5952,7 +5952,7 @@
       "description": "Senden Sie ZUFEK Ihre technische Zeichnung, Menge und Anwendungsanforderungen für ein nicht standardmäßiges Angebot für Metallschrauben.",
       "titleCharacters": 57,
       "descriptionCharacters": 136,
-      "bodyWords": 438,
+      "bodyWords": 439,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5966,7 +5966,7 @@
       "description": "Envíe a ZUFEK su plano de ingeniería, cantidad y requisitos de aplicación para obtener una cotización de tornillos metálicos no estándar.",
       "titleCharacters": 59,
       "descriptionCharacters": 137,
-      "bodyWords": 528,
+      "bodyWords": 531,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5980,7 +5980,7 @@
       "description": "Invia a ZUFEK il tuo disegno tecnico, quantità e requisiti applicativi per un preventivo di viti metalliche non standard.",
       "titleCharacters": 54,
       "descriptionCharacters": 121,
-      "bodyWords": 526,
+      "bodyWords": 527,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -5994,7 +5994,7 @@
       "description": "向 ZUFEK 发送您的工程图纸、数量和应用要求，以获得非标金属螺丝报价。",
       "titleCharacters": 16,
       "descriptionCharacters": 37,
-      "bodyWords": 94,
+      "bodyWords": 95,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6008,7 +6008,7 @@
       "description": "Envoyez à ZUFEK vos dessins techniques, vos quantités et vos exigences d'application pour un devis de vis à métaux non standard.",
       "titleCharacters": 45,
       "descriptionCharacters": 128,
-      "bodyWords": 556,
+      "bodyWords": 560,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6302,7 +6302,7 @@
       "description": "Spezielle Antriebsprofile erschweren das unbefugte Lösen mit gewöhnlichem Werkzeug. Mit dem vorgesehenen Servicewerkzeug bleibt die Schraube bedienbar.",
       "titleCharacters": 83,
       "descriptionCharacters": 151,
-      "bodyWords": 1149,
+      "bodyWords": 1221,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6318,7 +6318,7 @@
       "description": "Las huellas especiales dificultan el desmontaje con herramientas comunes, pero permiten intervenir con la herramienta de mantenimiento prevista.",
       "titleCharacters": 87,
       "descriptionCharacters": 144,
-      "bodyWords": 1516,
+      "bodyWords": 1605,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6334,7 +6334,7 @@
       "description": "Le impronte speciali ostacolano lo smontaggio con utensili comuni, mantenendo la possibilità di intervento con l’utensile di manutenzione previsto.",
       "titleCharacters": 71,
       "descriptionCharacters": 147,
-      "bodyWords": 1376,
+      "bodyWords": 1464,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6350,7 +6350,7 @@
       "description": "通过特殊槽型限制使用普通工具随意拆卸，同时保留配套工具的安装和维护通道。",
       "titleCharacters": 21,
       "descriptionCharacters": 36,
-      "bodyWords": 136,
+      "bodyWords": 152,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6366,7 +6366,7 @@
       "description": "Les empreintes spéciales limitent le démontage avec des outils courants, tout en permettant l’intervention avec l’outil de maintenance prévu.",
       "titleCharacters": 64,
       "descriptionCharacters": 141,
-      "bodyWords": 1470,
+      "bodyWords": 1558,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6382,7 +6382,7 @@
       "description": "Bohrung, Restwand, Gratkontrolle und Durchgangsfunktion für Hohlschrauben festlegen. Zeichnung und Anwendung zur technischen Prüfung senden.",
       "titleCharacters": 43,
       "descriptionCharacters": 140,
-      "bodyWords": 898,
+      "bodyWords": 961,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6398,7 +6398,7 @@
       "description": "Defina taladro, pared restante, rebabas y función del paso en tornillos huecos. Envíe plano y aplicación para revisión técnica.",
       "titleCharacters": 46,
       "descriptionCharacters": 127,
-      "bodyWords": 1185,
+      "bodyWords": 1265,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6414,7 +6414,7 @@
       "description": "Definisci foro, parete residua, controllo delle bave e funzione del passaggio nelle viti cave. Invia disegno e applicazione per la verifica tecnica.",
       "titleCharacters": 37,
       "descriptionCharacters": 148,
-      "bodyWords": 1132,
+      "bodyWords": 1210,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6430,7 +6430,7 @@
       "description": "按孔道用途确定中空螺丝的孔径、剩余壁厚、去毛刺和验收要求。提交图纸及应用说明，评估走线、流通或密封连接的制造方案。",
       "titleCharacters": 16,
       "descriptionCharacters": 57,
-      "bodyWords": 150,
+      "bodyWords": 166,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6446,7 +6446,7 @@
       "description": "Définissez alésage, paroi résiduelle, ébavurage et fonction du passage des vis creuses. Envoyez plan et application pour revue technique.",
       "titleCharacters": 40,
       "descriptionCharacters": 137,
-      "bodyWords": 1204,
+      "bodyWords": 1283,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6462,7 +6462,7 @@
       "description": "Ein integrierter Flansch bildet die in der Zeichnung festgelegte Auflagefläche. Eine separate Unterlegscheibe muss dadurch nicht einzeln montiert werden.",
       "titleCharacters": 69,
       "descriptionCharacters": 153,
-      "bodyWords": 1211,
+      "bodyWords": 1275,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6478,7 +6478,7 @@
       "description": "La brida integrada proporciona la superficie de apoyo definida en el plano y evita manipular una arandela por separado.",
       "titleCharacters": 68,
       "descriptionCharacters": 119,
-      "bodyWords": 1569,
+      "bodyWords": 1647,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6494,7 +6494,7 @@
       "description": "La flangia integrata offre la superficie di appoggio definita a disegno, senza dover montare una rondella separata.",
       "titleCharacters": 56,
       "descriptionCharacters": 115,
-      "bodyWords": 1438,
+      "bodyWords": 1515,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6510,7 +6510,7 @@
       "description": "将承压法兰与螺丝做成一体，按图确定接触面积，减少单独装配垫片的操作。",
       "titleCharacters": 23,
       "descriptionCharacters": 34,
-      "bodyWords": 140,
+      "bodyWords": 156,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6526,7 +6526,7 @@
       "description": "L’embase intégrée fournit la surface d’appui définie sur le plan, sans avoir à monter une rondelle séparée.",
       "titleCharacters": 57,
       "descriptionCharacters": 107,
-      "bodyWords": 1526,
+      "bodyWords": 1604,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6542,7 +6542,7 @@
       "description": "Rändelschrauben nach Griffraum, Verstellweg, Kontaktende und Sicherung spezifizieren. Den eingebauten Mechanismus vor der Musterfreigabe prüfen.",
       "titleCharacters": 65,
       "descriptionCharacters": 144,
-      "bodyWords": 1206,
+      "bodyWords": 1272,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6558,7 +6558,7 @@
       "description": "Especifique tornillos moleteados según agarre, recorrido, contacto y bloqueo. Revise el mecanismo instalado antes de aprobar muestras.",
       "titleCharacters": 74,
       "descriptionCharacters": 134,
-      "bodyWords": 1538,
+      "bodyWords": 1616,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6574,7 +6574,7 @@
       "description": "Specificare viti zigrinate in base a presa, corsa, estremità e bloccaggio. Verificare il meccanismo montato prima di approvare i campioni.",
       "titleCharacters": 81,
       "descriptionCharacters": 138,
-      "bodyWords": 1440,
+      "bodyWords": 1518,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6590,7 +6590,7 @@
       "description": "按握持净空、调节行程、接触端和锁定方式定制滚花手拧螺丝，样品批准前检查实际装配中的操作。",
       "titleCharacters": 26,
       "descriptionCharacters": 44,
-      "bodyWords": 143,
+      "bodyWords": 162,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6606,7 +6606,7 @@
       "description": "Spécifiez les vis moletées selon préhension, course, extrémité et blocage. Examinez le mécanisme monté avant approbation des échantillons.",
       "titleCharacters": 64,
       "descriptionCharacters": 138,
-      "bodyWords": 1535,
+      "bodyWords": 1612,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6622,7 +6622,7 @@
       "description": "Gewindestifte wirken über die festgelegte Spitzenform auf das Gegenstück und übernehmen so eine Positionier-, Klemm- oder Anschlagfunktion.",
       "titleCharacters": 87,
       "descriptionCharacters": 139,
-      "bodyWords": 1098,
+      "bodyWords": 1168,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6638,7 +6638,7 @@
       "description": "Estas piezas roscadas sin cabeza actúan sobre el componente de contacto mediante una punta definida para posicionarlo o sujetarlo.",
       "titleCharacters": 98,
       "descriptionCharacters": 130,
-      "bodyWords": 1419,
+      "bodyWords": 1504,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6654,7 +6654,7 @@
       "description": "Questi elementi filettati senza testa agiscono sul componente di contatto attraverso l’estremità prevista, per posizionarlo o bloccarlo.",
       "titleCharacters": 67,
       "descriptionCharacters": 136,
-      "bodyWords": 1325,
+      "bodyWords": 1407,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6670,7 +6670,7 @@
       "description": "无头螺纹结构通过指定的端部形状，对配合件进行顶紧、定位或限位。",
       "titleCharacters": 26,
       "descriptionCharacters": 31,
-      "bodyWords": 126,
+      "bodyWords": 145,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6686,7 +6686,7 @@
       "description": "Ces éléments filetés sans tête agissent sur la pièce en contact par une extrémité définie, afin de la positionner ou de la bloquer.",
       "titleCharacters": 80,
       "descriptionCharacters": 131,
-      "bodyWords": 1427,
+      "bodyWords": 1512,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6702,7 +6702,7 @@
       "description": "T-Nutenbolzen nach tatsächlicher Nut, Einführweg, Schwenkraum und Auflage auslegen. Einbaupassung vor Freigabe der Kopfgeometrie vergleichen.",
       "titleCharacters": 68,
       "descriptionCharacters": 141,
-      "bodyWords": 695,
+      "bodyWords": 763,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6717,7 +6717,7 @@
       "description": "Defina pernos en T según ranura, entrada, giro y apoyo reales. Revise el ajuste instalado antes de aprobar la cabeza.",
       "titleCharacters": 75,
       "descriptionCharacters": 117,
-      "bodyWords": 891,
+      "bodyWords": 981,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6732,7 +6732,7 @@
       "description": "Definire bulloni per cave a T secondo cava, ingresso, rotazione e appoggio reali. Verificare il montaggio prima di approvare la testa.",
       "titleCharacters": 69,
       "descriptionCharacters": 134,
-      "bodyWords": 851,
+      "bodyWords": 937,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6747,7 +6747,7 @@
       "description": "按实际槽结构、装入路径、旋转包络和承压面定制 T 型螺栓，确定头部几何前先核对装配配合。",
       "titleCharacters": 22,
       "descriptionCharacters": 44,
-      "bodyWords": 98,
+      "bodyWords": 121,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6762,7 +6762,7 @@
       "description": "Définissez les boulons en T selon rainure, insertion, rotation et appui réels. Comparez le montage avant de libérer la géométrie de tête.",
       "titleCharacters": 70,
       "descriptionCharacters": 137,
-      "bodyWords": 915,
+      "bodyWords": 1003,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6777,7 +6777,7 @@
       "description": "Ein ösen- oder gabelförmiges Ende verbindet einen Gewindeschaft mit einem Stift oder Gelenk. Besprechen Sie Geometrie-, Material-, Prozess- und Prüfanforderungen mit ZUFEK.",
       "titleCharacters": 76,
       "descriptionCharacters": 172,
-      "bodyWords": 576,
+      "bodyWords": 643,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6792,7 +6792,7 @@
       "description": "Un extremo estilo ojo o horquilla conecta un vástago roscado a un pasador o junta articulada. Analice los requisitos de geometría, materiales, procesos e inspección con ZUFEK.",
       "titleCharacters": 77,
       "descriptionCharacters": 175,
-      "bodyWords": 765,
+      "bodyWords": 847,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6807,7 +6807,7 @@
       "description": "Un'estremità a occhiello o a forcella collega un gambo filettato a un perno o un giunto articolato. Discuti i requisiti di geometria, materiale, processo e ispezione con ZUFEK.",
       "titleCharacters": 75,
       "descriptionCharacters": 176,
-      "bodyWords": 740,
+      "bodyWords": 820,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6822,7 +6822,7 @@
       "description": "孔眼或叉式端部将螺纹杆连接至销或铰接接头。与 ZUFEK 讨论几何形状、材料、工艺和检验要求。",
       "titleCharacters": 21,
       "descriptionCharacters": 47,
-      "bodyWords": 83,
+      "bodyWords": 99,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6837,7 +6837,7 @@
       "description": "Une extrémité de type œil ou fourche relie une tige filetée à une goupille ou à un joint articulé. Discutez des exigences en matière de géométrie, de matériaux, de processus et d’inspection avec ZUFEK.",
       "titleCharacters": 71,
       "descriptionCharacters": 201,
-      "bodyWords": 783,
+      "bodyWords": 865,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6852,7 +6852,7 @@
       "description": "In der Konstruktionszeichnung definierte Ring- und Schaftgeometrien zur technischen Überprüfung hebebezogener Anforderungen.",
       "titleCharacters": 82,
       "descriptionCharacters": 124,
-      "bodyWords": 582,
+      "bodyWords": 656,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6867,7 +6867,7 @@
       "description": "Geometrías de vástago y anillo definidas por planos de ingeniería para la revisión de ingeniería de los requisitos relacionados con la elevación.",
       "titleCharacters": 82,
       "descriptionCharacters": 145,
-      "bodyWords": 786,
+      "bodyWords": 879,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6882,7 +6882,7 @@
       "description": "geometrie dell'anello e del gambo definite dal disegno tecnico per la revisione tecnica dei requisiti relativi al sollevamento.",
       "titleCharacters": 82,
       "descriptionCharacters": 127,
-      "bodyWords": 755,
+      "bodyWords": 844,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6897,7 +6897,7 @@
       "description": "按图评估吊环和杆部结构，并结合具体吊装要求开展工程审核。",
       "titleCharacters": 23,
       "descriptionCharacters": 28,
-      "bodyWords": 83,
+      "bodyWords": 99,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6912,7 +6912,7 @@
       "description": "géométries d'anneaux et de tiges définies par des dessins techniques pour l'examen technique des exigences liées au levage.",
       "titleCharacters": 87,
       "descriptionCharacters": 123,
-      "bodyWords": 810,
+      "bodyWords": 900,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6927,7 +6927,7 @@
       "description": "Ein gebogener Schaft und zwei Gewindeschenkel passen sich den Abmessungen des Rohrs, Rahmens oder geklemmten Bauteils an.",
       "titleCharacters": 61,
       "descriptionCharacters": 121,
-      "bodyWords": 542,
+      "bodyWords": 603,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6942,7 +6942,7 @@
       "description": "Un vástago curvado y dos patas roscadas siguen las dimensiones del tubo, marco o componente sujetado.",
       "titleCharacters": 64,
       "descriptionCharacters": 101,
-      "bodyWords": 719,
+      "bodyWords": 795,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6957,7 +6957,7 @@
       "description": "Un gambo piegato e due gambe filettate seguono le dimensioni del tubo, del telaio o del componente serrato.",
       "titleCharacters": 53,
       "descriptionCharacters": 107,
-      "bodyWords": 692,
+      "bodyWords": 765,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6972,7 +6972,7 @@
       "description": "按被夹持管材、框架或零件的截面尺寸，定制弯曲杆部及两侧螺纹。",
       "titleCharacters": 21,
       "descriptionCharacters": 30,
-      "bodyWords": 86,
+      "bodyWords": 104,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -6987,7 +6987,7 @@
       "description": "Une tige courbée et deux pattes filetées suivent les dimensions du tuyau, du cadre ou du composant serré.",
       "titleCharacters": 57,
       "descriptionCharacters": 105,
-      "bodyWords": 735,
+      "bodyWords": 811,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7002,7 +7002,7 @@
       "description": "Eine quadratische Werkzeugschnittstelle oder ein erfasster Kopf unterstützen anwendungsspezifische Zugriffs- und Verdrehsicherungsanforderungen.",
       "titleCharacters": 70,
       "descriptionCharacters": 144,
-      "bodyWords": 551,
+      "bodyWords": 616,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7017,7 +7017,7 @@
       "description": "Una interfaz de herramienta cuadrada o un cabezal capturado respalda las necesidades de acceso y antirrotación específicas de la aplicación.",
       "titleCharacters": 75,
       "descriptionCharacters": 140,
-      "bodyWords": 733,
+      "bodyWords": 814,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7032,7 +7032,7 @@
       "description": "Un'interfaccia utensile quadrata o una testa catturata supporta le esigenze di accesso e antirotazione specifiche dell'applicazione.",
       "titleCharacters": 74,
       "descriptionCharacters": 132,
-      "bodyWords": 694,
+      "bodyWords": 773,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7047,7 +7047,7 @@
       "description": "通过方头提供扳手操作面，或与配套凹槽配合实现防转和限位。",
       "titleCharacters": 21,
       "descriptionCharacters": 28,
-      "bodyWords": 85,
+      "bodyWords": 103,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7062,7 +7062,7 @@
       "description": "Une interface d'outil carrée ou une tête capturée prend en charge les besoins d'accès et d'anti-rotation spécifiques à l'application.",
       "titleCharacters": 69,
       "descriptionCharacters": 133,
-      "bodyWords": 751,
+      "bodyWords": 831,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7077,7 +7077,7 @@
       "description": "Ein runder Kopf und ein durch die Konstruktionszeichnung definierter Vierkanthals sorgen für eine verdrehsichere Schnittstelle mit der Gegenkomponente.",
       "titleCharacters": 69,
       "descriptionCharacters": 151,
-      "bodyWords": 561,
+      "bodyWords": 625,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7092,7 +7092,7 @@
       "description": "Una cabeza redonda y un cuello cuadrado definido por un dibujo de ingeniería proporcionan una interfaz antirrotación con el componente acoplado.",
       "titleCharacters": 67,
       "descriptionCharacters": 144,
-      "bodyWords": 733,
+      "bodyWords": 812,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7107,7 +7107,7 @@
       "description": "Una testa rotonda e un collo quadrato definito dal disegno tecnico forniscono un'interfaccia antirotazione con il componente di accoppiamento.",
       "titleCharacters": 62,
       "descriptionCharacters": 142,
-      "bodyWords": 703,
+      "bodyWords": 780,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7122,7 +7122,7 @@
       "description": "圆头下方设置按图定制的方颈，与配合孔共同实现防转。",
       "titleCharacters": 21,
       "descriptionCharacters": 25,
-      "bodyWords": 84,
+      "bodyWords": 103,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7137,7 +7137,7 @@
       "description": "Une tête ronde et un col carré défini par le dessin technique fournissent une interface anti-rotation avec le composant d'accouplement.",
       "titleCharacters": 67,
       "descriptionCharacters": 135,
-      "bodyWords": 750,
+      "bodyWords": 828,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7227,7 +7227,7 @@
       "description": "Jedes Ende eines Sonderstehbolzens nach Gewindesystem, Drehsinn, Eingriff und Kennzeichnung spezifizieren. Schlüsselzugang, Lehren und Verpackung abstimmen.",
       "titleCharacters": 65,
       "descriptionCharacters": 156,
-      "bodyWords": 773,
+      "bodyWords": 843,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7242,7 +7242,7 @@
       "description": "Especifique cada extremo del espárrago: sistema de rosca, sentido, acoplamiento e identificación. Coordine acceso de llave, calibres y embalaje.",
       "titleCharacters": 73,
       "descriptionCharacters": 144,
-      "bodyWords": 971,
+      "bodyWords": 1054,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7257,7 +7257,7 @@
       "description": "Specificare ogni estremità del prigioniero: sistema, senso, impegno e identificazione. Coordinare accesso chiave, calibri e imballaggio.",
       "titleCharacters": 68,
       "descriptionCharacters": 136,
-      "bodyWords": 928,
+      "bodyWords": 1009,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7272,7 +7272,7 @@
       "description": "为非标双头螺柱分别规定两端牙制、旋向、有效旋合及识别方法，同时协调扳手空间、量规检查和包装。",
       "titleCharacters": 21,
       "descriptionCharacters": 46,
-      "bodyWords": 114,
+      "bodyWords": 136,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7287,7 +7287,7 @@
       "description": "Spécifiez chaque extrémité du goujon : système, sens, engagement et repérage. Coordonnez accès de clé, calibres et emballage.",
       "titleCharacters": 71,
       "descriptionCharacters": 125,
-      "bodyWords": 970,
+      "bodyWords": 1051,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7302,7 +7302,7 @@
       "description": "In der Konstruktionszeichnung definierte Feinabstände unterstützen Anpassungs- und Eingriffsanforderungen, wenn eine Standardauswahl nicht passt.",
       "titleCharacters": 80,
       "descriptionCharacters": 145,
-      "bodyWords": 658,
+      "bodyWords": 727,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7317,7 +7317,7 @@
       "description": "Los pasos finos definidos por dibujos de ingeniería admiten requisitos de ajuste y compromiso donde una selección estándar no encaja.",
       "titleCharacters": 68,
       "descriptionCharacters": 133,
-      "bodyWords": 861,
+      "bodyWords": 944,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7332,7 +7332,7 @@
       "description": "I passi fini definiti dal disegno tecnico supportano i requisiti di regolazione e impegno laddove una selezione standard non si adatta.",
       "titleCharacters": 63,
       "descriptionCharacters": 135,
-      "bodyWords": 815,
+      "bodyWords": 896,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7347,7 +7347,7 @@
       "description": "按图定制细牙螺距，用于常规规格无法满足的精密调节或螺纹配合。",
       "titleCharacters": 23,
       "descriptionCharacters": 30,
-      "bodyWords": 100,
+      "bodyWords": 120,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7362,7 +7362,7 @@
       "description": "Les pas fins définis par les dessins techniques prennent en charge les exigences d'ajustement et d'engagement là où une sélection standard ne convient pas.",
       "titleCharacters": 57,
       "descriptionCharacters": 155,
-      "bodyWords": 878,
+      "bodyWords": 962,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7452,7 +7452,7 @@
       "description": "Geschlitzte, geschnittene oder ausgesparte Enden können entsprechend dem tatsächlichen Material- und Lochzustand angegeben werden.",
       "titleCharacters": 88,
       "descriptionCharacters": 130,
-      "bodyWords": 624,
+      "bodyWords": 694,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7467,7 +7467,7 @@
       "description": "Los extremos ranurados, cortados o aliviados se pueden especificar según el material real y la condición del orificio.",
       "titleCharacters": 78,
       "descriptionCharacters": 118,
-      "bodyWords": 802,
+      "bodyWords": 891,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7482,7 +7482,7 @@
       "description": "È possibile specificare le estremità scanalate, tagliate o scaricate in base al materiale effettivo e alle condizioni del foro.",
       "titleCharacters": 75,
       "descriptionCharacters": 127,
-      "bodyWords": 772,
+      "bodyWords": 859,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7497,7 +7497,7 @@
       "description": "结合被连接材料和底孔条件，可按图设计开槽、割尾或削尾等端部。",
       "titleCharacters": 24,
       "descriptionCharacters": 30,
-      "bodyWords": 89,
+      "bodyWords": 108,
       "types": [
         "Organization",
         "BreadcrumbList",
@@ -7512,7 +7512,7 @@
       "description": "Les extrémités fendues, coupées ou soulagées peuvent être spécifiées autour du matériau réel et de l'état du trou.",
       "titleCharacters": 71,
       "descriptionCharacters": 114,
-      "bodyWords": 809,
+      "bodyWords": 897,
       "types": [
         "Organization",
         "BreadcrumbList",

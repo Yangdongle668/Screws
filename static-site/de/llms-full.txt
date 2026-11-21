@@ -13,7 +13,7 @@
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
 - Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
-- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1007,7 +1007,7 @@ DIREKTER ENGINEERING-KONTAKT
 
 #### Bevorzugen Sie E-Mail?
 
-info@zufek.net ↗ Telefon / WhatsApp +86 190 6634 8320 · WhatsApp Arbeitszeit: 08:00–17:30 chinesische Zeit (UTC+8)
+info@zufek.net ↗ Telefon / WhatsApp +86 190 6634 8320 · WhatsApp Arbeitszeit: Montag–Samstag, 08:00–17:30 chinesische Zeit (UTC+8)
 
 Fügen Sie eine Überarbeitung der technischen Zeichnung, die Menge und eine kurze Beschreibung der Anwendung bei.
 
@@ -1659,6 +1659,16 @@ Schulter und Axialstapel der Vorrichtung ansehen ↗
 Geometriereferenz DIN 610 aus Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
 Zeichnung und Musterprüfung Qualitätsplanung Erstellen eines maßgeschneiderten Inspektions- und Abnahmeplans für Verbindungselemente
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 7379 Innensechskant-Passschulterschrauben: ein üblicher Ausgangspunkt für Kopf-, Antriebs- und Schulterproportionen.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -2369,6 +2379,16 @@ Stellen Sie die Antriebskonstruktionszeichnung oder die passende Werkzeugspezifi
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 10664 Innensechsrund-Antrieb. Varianten mit Zapfen und andere Sicherheitsantriebe werden meist über Zeichnung oder Werkzeugreferenz definiert.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -2495,6 +2515,16 @@ Dichtende Verbindung Medium, Druck- und Temperaturbedingungen, Dichtschnittstell
 Prüfen Sie die kleinste Restwand an Gewindegrund und Querbohrungen. Planen Sie Gratentfernung und -kontrolle, bevor ein Folgeschritt den Zugang verdeckt. Vereinbaren Sie für Innenflächen eine geeignete Zugangs- oder Prüfmethode; äußere CCD-Prüfung ist keine vollständige Bohrungsprüfung.
 
 Bohrungsnacharbeit, Reinigung und Prüfung abstimmen Werkzeugbau und Bemusterung dauern typischerweise etwa 10–15 Tage nach technischer Prüfung und Bestätigung. Starttermin, Musterabnahme und Serienlieferplan im Angebot vereinbaren.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 7643 Hohlschrauben für Ringstutzen in Fluidverbindungen.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -2652,6 +2682,16 @@ Die Überprüfung der technischen Zeichnung sollte die Flanschabmessungen kläre
 Berücksichtigen Sie die Anforderungen an das passende Material und die Lagerfläche. Ein größerer Flansch verhindert nicht automatisch eine Beschädigung der Oberfläche. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 4162 Sechskantschrauben mit Flansch und integrierter Auflagefläche.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -2812,6 +2852,16 @@ Geben Sie den Kopfgriff, den Verstellweg und die erforderliche Verriegelungsmeth
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 464 / DIN 653 Rändelschrauben, hohe und niedrige Form.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -2967,6 +3017,16 @@ Geben Sie Spitzengeometrie, Gegenfläche, Antrieb und erwartete Funktion an. Die
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 4026, 4027, 4028, 4029 Gewindestifte mit Innensechskant und Kegelkuppe, Spitze, Zapfen oder Ringschneide.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -3076,6 +3136,16 @@ Geben Sie den Schlitzquerschnitt und die Einführmethode an. Wählen Sie nicht n
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 186 / DIN 787 Hammerschrauben mit Vierkant sowie T-Nutenschrauben für Maschinentische.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische Augen- und Gelenkbolzen nach technischer Zeichnung
 Source: https://zufek.net/de/products/eye-bolts/
 
@@ -3165,6 +3235,16 @@ Geben Sie die Richtung und den Verwendungszweck der Streitkräfte an. Jede Hebea
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 444 Augenschrauben für Gelenk- und Spannverbindungen; nicht zum Heben bestimmt.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische Designs für Hebeösenschrauben nach technischer Zeichnung
 Source: https://zufek.net/de/products/lifting-eye-bolts/
 
@@ -3252,6 +3332,16 @@ Geben Sie den genehmigten Lastfall und die anwendbare Norm an. Bei der benutzerd
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 580 Ringschrauben zum Heben. Für Hebezwecke gelten die einschlägige Norm und lokale Vorschriften einschließlich Tragfähigkeitskennzeichnung und Prüfung.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische U-Bolzen nach technischer Zeichnung
 Source: https://zufek.net/de/products/u-bolts/
 
@@ -3338,6 +3428,16 @@ Die Überprüfung der technischen Zeichnung sollte das Biegeprofil klären. Bein
 Geben Sie den Klemmquerschnitt und die Lastanforderungen an. Material, Biegeverfahren und Beschichtung müssen gemeinsam überprüft werden. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 3570 U-Bügel zur Rohrbefestigung.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 ### Kundenspezifische Vierkantschrauben nach technischer Zeichnung
 Source: https://zufek.net/de/products/square-head-bolts/
@@ -3428,6 +3528,16 @@ Zeigen Sie den Schlüsselzugang oder die Haltetasche und die erforderlichen mech
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 478, 479, 480 Vierkantschrauben mit Bund oder Zapfen-Varianten.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 ### Kundenspezifische Schlossschrauben nach technischer Zeichnung
 Source: https://zufek.net/de/products/carriage-bolts/
 
@@ -3514,6 +3624,16 @@ Die Überprüfung der technischen Zeichnung sollte das Problem des quadratischen
 Geben Sie die Passlochgeometrie und das Lagermaterial an. Der Nackeneingriff ist Teil des Anti-Rotations-Designs. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 603 / ISO 8677 Flachrundschrauben mit Vierkantansatz.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 ### Exzenter- und Winkelkopfschrauben gemäß technischer Zeichnung
 Source: https://zufek.net/de/products/eccentric-screws/
@@ -3709,6 +3829,16 @@ Geben Sie beide Gegengewinde, den Schultersitz und die Montagereihenfolge an. Id
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
 
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+DIN 835, 938, 939, 940 Stiftschrauben mit Einschraubenden von 2d, 1d, 1,25d und 2,5d.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
+
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
 #### Verbinden Sie das Teil mit seinen Anforderungen.
@@ -3815,6 +3945,16 @@ Bei der Überprüfung der technischen Zeichnung sollten Tonhöhenbeispiele gelö
 Eine feine Steigung allein garantiert keinen Widerstand gegen Lockerung. Geben Sie die Anforderungen an Verriegelung und Vibration separat an. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 261 / ISO 262 Metrisches ISO-Gewinde: Gesamtübersicht und ausgewählte Größen einschließlich Feingewinde.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 
@@ -4021,6 +4161,16 @@ Die Überprüfung der technischen Zeichnung sollte das Problem von Tip & Relief 
 Schneidspitzen können Späne erzeugen. Die Kontrolle von Trümmern und Durchbrüchen muss in der tatsächlichen Montage nachgewiesen werden. Identifizieren Sie die Überarbeitung der technischen Zeichnung, die Prototypenmenge und den erwarteten Wiederholungsbedarf. Wenn der erste Teil auf einem vorhandenen Muster basiert, bestätigen Sie Material und verborgene Merkmale separat, anstatt sie aus dem Erscheinungsbild abzuleiten.
 
 Die Anfertigung der Muster einschließlich Werkzeugbau dauert üblicherweise etwa 10–15 Tage. Der Termin wird nach Zeichnungsprüfung und Abstimmung der Musterspezifikation bestätigt. Materialverfügbarkeit, Sonderbehandlungen und Prüfanforderungen können den Termin beeinflussen. Der Beginn der vereinbarten Frist ist im Angebot festzuhalten. Musterfreigabe und Liefertermin der Serienfertigung sind getrennte Meilensteine.
+
+#### Normbezüge
+
+Sonderteile dieser Familie werden häufig von den folgenden Normen abgeleitet. Sie dienen als gemeinsamer Ausgangspunkt; die freigegebene Zeichnung legt fest, ob und wo das Teil einer Norm folgt.
+
+Norm Inhalt
+
+ISO 1478 Gewindeprofil für Blechschrauben. Genormte Kopf- und Antriebsvarianten regeln Normen wie ISO 7049.
+
+Festigkeitsklassen: ISO 898-1 für C- und legierten Stahl, ISO 3506-1 für nichtrostenden Stahl. Beschichtungen werden häufig nach ISO 4042 (galvanisch) oder ISO 10683 (Zinklamelle) spezifiziert.
 
 VERBUNDENE SPEZIFIKATIONSTHEMEN
 

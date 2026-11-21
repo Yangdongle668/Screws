@@ -4,7 +4,7 @@ export const phone={display:'+86 190 6634 8320',tel:'+8619066348320',whatsapp:'h
 export const contactCopy={
  label:'Phone / WhatsApp',
  whatsapp:'WhatsApp',
- hours:'Working hours: 08:00–17:30 China time (UTC+8)'
+ hours:'Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8)'
 };
 export const authorCopy={
  title:'Theo Wan — Engineering Lead',
@@ -18,7 +18,7 @@ const review={};
 const put=(source,de,es,it,fr,zh)=>{review[source]={de,es,it,fr,zh};};
 put(contactCopy.label,'Telefon / WhatsApp','Teléfono / WhatsApp','Telefono / WhatsApp','Téléphone / WhatsApp','电话 / WhatsApp');
 put(contactCopy.whatsapp,'WhatsApp','WhatsApp','WhatsApp','WhatsApp','WhatsApp');
-put(contactCopy.hours,'Arbeitszeit: 08:00–17:30 chinesische Zeit (UTC+8)','Horario: 08:00–17:30 hora de China (UTC+8)','Orario: 08:00–17:30 ora cinese (UTC+8)','Horaires : 08:00–17:30 heure de Chine (UTC+8)','工作时间：08:00–17:30（北京时间，UTC+8）');
+put(contactCopy.hours,'Arbeitszeit: Montag–Samstag, 08:00–17:30 chinesische Zeit (UTC+8)','Horario: lunes a sábado, 08:00–17:30 hora de China (UTC+8)','Orario: lunedì–sabato, 08:00–17:30 ora cinese (UTC+8)','Horaires : du lundi au samedi, 08:00–17:30 heure de Chine (UTC+8)','工作时间：周一至周六 08:00–17:30（北京时间，UTC+8）');
 put(authorCopy.title,'Theo Wan — Leiter Technik','Theo Wan — Responsable de ingeniería','Theo Wan — Responsabile tecnico','Theo Wan — Responsable ingénierie','万天恩 — 工程负责人');
 put(authorCopy.description,'Fachartikel von Theo Wan (万天恩), Leiter Technik bei ZUFEK, zu Spezifikation, Fertigungswegen, Prüfung und Beschaffung von Sonderverbindungselementen.','Artículos técnicos de Theo Wan (万天恩), responsable de ingeniería de ZUFEK, sobre especificación, rutas de fabricación, inspección y compra de fijaciones especiales.','Articoli tecnici di Theo Wan (万天恩), responsabile tecnico di ZUFEK, su specifiche, cicli produttivi, controlli e acquisto di fissaggi speciali.','Articles techniques de Theo Wan (万天恩), responsable ingénierie chez ZUFEK, sur la spécification, les gammes de fabrication, le contrôle et l’achat de fixations spéciales.','ZUFEK 工程负责人万天恩（Theo Wan）撰写的技术文章，涵盖非标紧固件规格、加工路线、检验与采购。');
 put(authorCopy.kicker,'ZUFEK TECHNIK','INGENIERÍA ZUFEK','INGEGNERIA ZUFEK','INGÉNIERIE ZUFEK','ZUFEK 工程部');

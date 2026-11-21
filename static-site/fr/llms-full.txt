@@ -13,7 +13,7 @@
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
 - Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
-- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1007,7 +1007,7 @@ CONTACT DIRECT EN INGÉNIERIE
 
 #### Vous préférez le courrier électronique ?
 
-info@zufek.net ↗ Téléphone / WhatsApp +86 190 6634 8320 · WhatsApp Horaires : 08:00–17:30 heure de Chine (UTC+8)
+info@zufek.net ↗ Téléphone / WhatsApp +86 190 6634 8320 · WhatsApp Horaires : du lundi au samedi, 08:00–17:30 heure de Chine (UTC+8)
 
 Inclure une révision du dessin technique, la quantité et une brève description de la demande.
 
@@ -1659,6 +1659,16 @@ Examiner l’épaulement et l’empilage axial de l’outillage ↗
 Référence géométrique DIN 610 issue de Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
 Plan et contrôle des échantillons Planification de la qualité Élaboration d'un plan d'inspection et d'acceptation des fixations personnalisé
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 7379 Vis à épaulement à six pans creux : point de départ courant pour les proportions de tête, d’empreinte et d’épaulement.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -2369,6 +2379,16 @@ Fournissez le dessin technique du variateur ou les spécifications de l’outil 
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 10664 Empreinte hexalobulaire interne. Les variantes à téton et autres empreintes de sécurité sont généralement définies par plan ou référence d’outil.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -2495,6 +2515,16 @@ Raccord étanche Fluide, conditions de pression et de température, interface d�
 Vérifier la paroi résiduelle minimale au fond du filet et aux intersections. Prévoir l’ébavurage et son contrôle avant qu’une opération ultérieure ne masque l’accès. Pour les surfaces internes, convenir d’une méthode adaptée : le contrôle CCD extérieur n’inspecte pas l’intégralité de l’alésage.
 
 Coordonner finition intérieure, nettoyage et contrôle L’outillage et les échantillons demandent généralement environ 10–15 jours après revue technique et confirmation. Convenir au devis du point de départ, de l’acceptation des échantillons et du calendrier de série.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 7643 Vis creuses (banjo) pour raccords orientables dans les circuits de fluides.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -2652,6 +2682,16 @@ L'examen des dessins techniques devrait résoudre les dimensions des brides ; fa
 Incluez les exigences en matière de matériau d'accouplement et de face d'appui. Une bride plus grande n’empêche pas automatiquement les dommages superficiels. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 4162 Vis à tête hexagonale à embase avec surface d’appui intégrée.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -2812,6 +2852,16 @@ Spécifiez la prise de la tête, la course de réglage et toute méthode de verr
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 464 / DIN 653 Vis moletées, forme haute et basse.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -2967,6 +3017,16 @@ Indiquer la géométrie de la pointe, la surface de contact, l'entraînement et 
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 4026, 4027, 4028, 4029 Vis sans tête à six pans creux à bout plat, pointu, téton et cuvette.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -3076,6 +3136,16 @@ Fournir la section transversale de la fente et la méthode d'insertion ; ne fait
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 186 / DIN 787 Vis à tête marteau à collet carré et vis pour rainures en T de tables de machine.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Boulons à œil et articulés personnalisés selon dessin technique
 Source: https://zufek.net/fr/products/eye-bolts/
 
@@ -3165,6 +3235,16 @@ Indiquer la direction de la force et l’utilisation prévue. Toute application 
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 444 Vis à œil pour liaisons articulées et de serrage ; non destinées au levage.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Conceptions personnalisées de boulons à œil de levage selon le dessin technique
 Source: https://zufek.net/fr/products/lifting-eye-bolts/
 
@@ -3252,6 +3332,16 @@ Fournir le cas de charge approuvé et la norme applicable. La géométrie person
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 580 Anneaux de levage. L’usage en levage doit respecter la norme applicable et la réglementation locale, y compris marquage de charge et vérification.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Boulons en U personnalisés selon dessin technique
 Source: https://zufek.net/fr/products/u-bolts/
 
@@ -3338,6 +3428,16 @@ L'examen des dessins techniques devrait résoudre le profil de courbure ; géom�
 Fournissez les exigences de section transversale serrée et de charge. Le matériau, le processus de pliage et le revêtement doivent être examinés ensemble. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 3570 Étriers en U pour la fixation de tubes.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 ### Boulons à tête carrée personnalisés selon le dessin technique
 Source: https://zufek.net/fr/products/square-head-bolts/
@@ -3428,6 +3528,16 @@ Montrer l'accès à la clé ou la poche de retenue et les propriétés mécaniqu
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 478, 479, 480 Vis à tête carrée à collerette ou variantes à téton.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 ### Boulons de carrosserie personnalisés selon dessin technique
 Source: https://zufek.net/fr/products/carriage-bolts/
 
@@ -3514,6 +3624,16 @@ L'examen des dessins techniques devrait résoudre le problème du col carré ; f
 Fournir la géométrie du trou d'accouplement et le matériau du roulement ; l'engagement du cou fait partie de la conception anti-rotation. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 603 / ISO 8677 Vis à tête bombée à collet carré.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 ### Vis à tête excentrique et coudée selon dessin technique
 Source: https://zufek.net/fr/products/eccentric-screws/
@@ -3709,6 +3829,16 @@ Indiquez les deux filetages d'accouplement, l'assise des épaulements et la séq
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
 
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+DIN 835, 938, 939, 940 Goujons avec bout d’implantation de 2d, 1d, 1,25d et 2,5d.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
+
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
 #### Connectez la pièce à ses exigences.
@@ -3815,6 +3945,16 @@ L'examen des dessins techniques devrait résoudre des exemples de pas ; ajusteme
 Le pas fin ne garantit pas à lui seul la résistance au desserrage. Spécifiez séparément les exigences en matière de verrouillage et de vibration. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 261 / ISO 262 Filetages métriques ISO : plan général et dimensions choisies, y compris pas fins.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 
@@ -4021,6 +4161,16 @@ L'examen des dessins techniques devrait résoudre les pointes et les reliefs ; m
 Les pointes coupantes peuvent générer des copeaux. Le contrôle des débris et des percées doit être démontré dans l’assemblage lui-même. Identifiez la révision du dessin technique, la quantité du prototype et la demande répétée attendue. Lorsque la première partie est basée sur un échantillon existant, confirmez séparément les caractéristiques matérielles et cachées plutôt que de les déduire de l'apparence.
 
 La réalisation des échantillons, outillage compris, prend généralement environ 10–15 jours. Le délai est confirmé après examen du plan et accord sur les spécifications des échantillons. La disponibilité de la matière, les traitements particuliers et les contrôles demandés peuvent modifier la date. Le devis doit préciser le point de départ du délai convenu. L’approbation des échantillons et la livraison de production constituent deux étapes distinctes.
+
+#### Normes de référence
+
+Les pièces spéciales de cette famille dérivent souvent des normes ci-dessous. Utilisez-les comme point de départ commun ; le plan approuvé précise si et où la pièce suit une norme.
+
+Norme Domaine
+
+ISO 1478 Profil de filetage des vis à tôle. Les variantes normalisées de tête et d’empreinte relèvent de normes comme ISO 7049.
+
+Classes de qualité : ISO 898-1 pour l’acier au carbone et allié, ISO 3506-1 pour l’acier inoxydable. Les revêtements sont souvent spécifiés selon ISO 4042 (électrolytiques) ou ISO 10683 (lamellaires zinc).
 
 THÈMES DE SPÉCIFICATIONS CONNECTÉES
 

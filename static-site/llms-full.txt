@@ -13,7 +13,7 @@
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
 - Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
-- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1007,7 +1007,7 @@ DIRECT ENGINEERING CONTACT
 
 #### Prefer email?
 
-info@zufek.net ↗ Phone / WhatsApp +86 190 6634 8320 · WhatsApp Working hours: 08:00–17:30 China time (UTC+8)
+info@zufek.net ↗ Phone / WhatsApp +86 190 6634 8320 · WhatsApp Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8)
 
 Include a drawing revision, quantity and a short description of the application.
 
@@ -1659,6 +1659,16 @@ Review the fixture shoulder and axial-stack concept ↗
 DIN 610 geometry reference from Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
 Drawing and sample checks Quality planning Building a custom fastener inspection and acceptance plan
+
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+ISO 7379 Hexagon socket shoulder screws: a common starting point for head, socket and shoulder proportions.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -2369,6 +2379,16 @@ Provide the drive drawing or matching tool specification. Tamper resistance depe
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+ISO 10664 Hexalobular internal driving feature. Pin-in and other security variants are usually defined by the drawing or a tool reference.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -2495,6 +2515,16 @@ Sealed connection Medium, pressure/temperature conditions, sealing interface and
 Review the smallest remaining wall at the thread root and at intersecting holes. Plan how drilling burrs can be removed and checked before a later operation hides them. For internal surfaces, agree a suitable access or inspection method instead of treating external CCD screening as complete bore inspection.
 
 Connect bore finishing, cleaning and inspection Tooling and sampling typically take approximately 10–15 days after technical review and confirmation. Confirm the starting milestone, sample acceptance and repeat-production schedule in the quotation.
+
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 7643 Banjo bolts for pipe unions in fluid connections.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -2652,6 +2682,16 @@ The drawing review should resolve flange dimensions; bearing face; thin or enlar
 Include the mating material and bearing-face requirements. A larger flange does not automatically prevent surface damage. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
+
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+ISO 4162 Hexagon flange bolts with an integral bearing face.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -2812,6 +2852,16 @@ Specify head grip, adjustment travel and any required locking method. Hand grip 
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 464 / DIN 653 Knurled thumb screws, high and low head types.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -2967,6 +3017,16 @@ State tip geometry, mating surface, drive and expected function. Clamping perfor
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+ISO 4026, 4027, 4028, 4029 Hexagon socket set screws with flat, cone, dog and cup points.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -3076,6 +3136,16 @@ Provide slot cross-section and insertion method; do not select from head appeara
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 186 / DIN 787 T-head bolts with square neck, and T-slot bolts for machine tables.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 ### Custom Eye & Articulating Bolts to Drawing
 Source: https://zufek.net/products/eye-bolts/
 
@@ -3165,6 +3235,16 @@ State force direction and intended use. Any lifting application needs an approve
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 444 Eye bolts for articulating and clamping connections; not intended for lifting.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 ### Custom Lifting Eye Bolt Designs to Drawing
 Source: https://zufek.net/products/lifting-eye-bolts/
 
@@ -3252,6 +3332,16 @@ Supply the approved load case and applicable standard. Custom geometry is not a 
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 580 Lifting eye bolts. Lifting use must meet the applicable standard and local regulations, including load marking and verification.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 ### Custom U-Bolts to Drawing
 Source: https://zufek.net/products/u-bolts/
 
@@ -3338,6 +3428,16 @@ The drawing review should resolve bend profile; leg geometry; mating hardware. K
 Provide the clamped cross-section and load requirements. Material, bend process and coating must be reviewed together. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
+
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 3570 U-bolts for pipe mounting.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
 
 ### Custom Square Head Bolts to Drawing
 Source: https://zufek.net/products/square-head-bolts/
@@ -3428,6 +3528,16 @@ Show the wrench access or retaining pocket and required mechanical properties. I
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 478, 479, 480 Square head bolts with collar or dog-point variants.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 ### Custom Carriage Bolts to Drawing
 Source: https://zufek.net/products/carriage-bolts/
 
@@ -3514,6 +3624,16 @@ The drawing review should resolve square neck; head form; shank & thread. Keep m
 Provide the mating-hole geometry and bearing material; neck engagement is part of the anti-rotation design. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
+
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 603 / ISO 8677 Cup head square neck bolts.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
 
 ### Eccentric & Angled Head Screws to Drawing
 Source: https://zufek.net/products/eccentric-screws/
@@ -3709,6 +3829,16 @@ State both mating threads, shoulder seating and assembly sequence. Identify the 
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
 
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+DIN 835, 938, 939, 940 Double-end studs with metal-end lengths of 2d, 1d, 1.25d and 2.5d.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
+
 CONNECTED SPECIFICATION TOPICS
 
 #### Connect the part to its requirements.
@@ -3815,6 +3945,16 @@ The drawing review should resolve pitch examples; fit & engagement; adjustment a
 Fine pitch alone does not guarantee resistance to loosening. Specify locking and vibration requirements separately. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
+
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+ISO 261 / ISO 262 ISO metric screw threads: general plan and selected sizes, including fine pitches.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
 
 CONNECTED SPECIFICATION TOPICS
 
@@ -4021,6 +4161,16 @@ The drawing review should resolve tip & relief; mating material; installation re
 Cutting tips can generate chips. Debris and breakthrough control must be demonstrated in the actual assembly. Identify the drawing revision, prototype quantity and expected repeat demand. Where the first part is based on an existing sample, separately confirm material and hidden features rather than inferring them from appearance.
 
 The typical sampling lead time, including tooling, is approximately 10–15 days. The schedule is confirmed after drawing review and agreement on the sample specification; material availability, special treatment and inspection requirements can affect the confirmed date. Confirm when the agreed schedule starts in the quotation. Sample approval and repeat-production delivery are separate milestones.
+
+#### Standard references
+
+Custom parts in this family are often derived from the standards below. Use them as a shared starting point; the approved drawing states whether and where the part follows a standard.
+
+Standard Scope
+
+ISO 1478 Tapping screw thread profile. Standard head and drive variants are covered by standards such as ISO 7049.
+
+Property classes: ISO 898-1 for carbon and alloy steel, ISO 3506-1 for stainless steel. Coatings are commonly specified to ISO 4042 (electroplating) or ISO 10683 (zinc flake).
 
 CONNECTED SPECIFICATION TOPICS
 

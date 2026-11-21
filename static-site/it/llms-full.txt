@@ -13,7 +13,7 @@
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
 - Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
-- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1007,7 +1007,7 @@ CONTATTO DIRETTO CON L'INGEGNERIA
 
 #### Preferisci la posta elettronica?
 
-info@zufek.net ↗ Telefono / WhatsApp +86 190 6634 8320 · WhatsApp Orario: 08:00–17:30 ora cinese (UTC+8)
+info@zufek.net ↗ Telefono / WhatsApp +86 190 6634 8320 · WhatsApp Orario: lunedì–sabato, 08:00–17:30 ora cinese (UTC+8)
 
 Includere una revisione del disegno tecnico, la quantità e una breve descrizione dell'applicazione.
 
@@ -1659,6 +1659,16 @@ Esamina spallamento e pacco assiale dell’attrezzatura ↗
 Riferimento geometrico DIN 610 da Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
 Disegno e verifica dei campioni Pianificazione della qualità Creazione di un piano personalizzato di ispezione e accettazione degli elementi di fissaggio
+
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+ISO 7379 Viti a spallamento con esagono incassato: punto di partenza comune per proporzioni di testa, impronta e spallamento.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -2369,6 +2379,16 @@ Fornire il disegno tecnico dell'azionamento o le specifiche dello strumento corr
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+ISO 10664 Impronta esalobata interna. Le varianti con perno e altre impronte di sicurezza sono di solito definite da disegno o riferimento utensile.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -2495,6 +2515,16 @@ Collegamento a tenuta Fluido, pressione e temperatura, interfaccia di tenuta e c
 Verificare la parete residua minima al fondo del filetto e nelle intersezioni. Pianificare rimozione e controllo delle bave prima che un’operazione successiva nasconda l’accesso. Per le superfici interne concordare un metodo adatto: il controllo CCD esterno non costituisce un’ispezione completa del foro.
 
 Coordinare finitura interna, pulizia e controllo Attrezzaggio e campionatura richiedono in genere circa 10–15 giorni dopo verifica tecnica e conferma. Concordare in offerta avvio, accettazione dei campioni e consegne di produzione.
+
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 7643 Viti forate (banjo) per raccordi ad anello nei collegamenti per fluidi.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -2652,6 +2682,16 @@ La revisione del disegno tecnico dovrebbe risolvere le dimensioni della flangia;
 Includere i requisiti del materiale di accoppiamento e della superficie del cuscinetto. Una flangia più grande non previene automaticamente i danni alla superficie. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
+
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+ISO 4162 Viti a testa esagonale flangiata con superficie di appoggio integrata.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -2812,6 +2852,16 @@ Specificare l'impugnatura della testa, la corsa di regolazione e l'eventuale met
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 464 / DIN 653 Viti a testa zigrinata, tipo alto e basso.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -2967,6 +3017,16 @@ Indicare la geometria della punta, la superficie di accoppiamento, la guida e la
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+ISO 4026, 4027, 4028, 4029 Grani con esagono incassato a punta piana, conica, cilindrica e a coppa.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -3076,6 +3136,16 @@ Fornire la sezione trasversale della fessura e il metodo di inserimento; non sel
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 186 / DIN 787 Viti a testa a martello con quadro e viti per cave a T di tavole macchina.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ### Bulloni ad occhiello e articolati personalizzati su disegno tecnico
 Source: https://zufek.net/it/products/eye-bolts/
 
@@ -3165,6 +3235,16 @@ Direzione della forza statale e destinazione d'uso. Qualsiasi applicazione di so
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 444 Viti a occhio per collegamenti articolati e di bloccaggio; non destinate al sollevamento.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ### Progettazioni personalizzate di golfari di sollevamento su disegno tecnico
 Source: https://zufek.net/it/products/lifting-eye-bolts/
 
@@ -3252,6 +3332,16 @@ Fornire il caso di carico approvato e lo standard applicabile. La geometria pers
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 580 Golfari di sollevamento. L’uso per il sollevamento deve rispettare la norma applicabile e le regole locali, compresi marcatura del carico e verifica.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ### Bulloni a U personalizzati su disegno tecnico
 Source: https://zufek.net/it/products/u-bolts/
 
@@ -3338,6 +3428,16 @@ La revisione del disegno tecnico dovrebbe risolvere il profilo di piegatura; geo
 Fornire la sezione trasversale bloccata e i requisiti di carico. Materiale, processo di piegatura e rivestimento devono essere esaminati insieme. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
+
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 3570 Cavallotti per il fissaggio di tubi.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
 
 ### Bulloni a testa quadrata personalizzati secondo il disegno tecnico
 Source: https://zufek.net/it/products/square-head-bolts/
@@ -3428,6 +3528,16 @@ Mostrare l'accesso alla chiave o la tasca di fissaggio e le proprietà meccanich
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 478, 479, 480 Viti a testa quadra con collare o varianti con codolo.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ### Bulloni di trasporto personalizzati su disegno tecnico
 Source: https://zufek.net/it/products/carriage-bolts/
 
@@ -3514,6 +3624,16 @@ La revisione del disegno tecnico dovrebbe risolvere il collo quadrato; forma del
 Fornire la geometria del foro di accoppiamento e il materiale del cuscinetto; l'innesto del collo fa parte del design antirotazione. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
+
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 603 / ISO 8677 Viti a testa tonda con sottotesta quadro.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
 
 ### Viti a testa eccentrica e angolata secondo il disegno tecnico
 Source: https://zufek.net/it/products/eccentric-screws/
@@ -3709,6 +3829,16 @@ Indicare le filettature di accoppiamento, la sede della spalla e la sequenza di 
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
 
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+DIN 835, 938, 939, 940 Prigionieri con estremità di avvitamento di 2d, 1d, 1,25d e 2,5d.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
+
 ARGOMENTI DI SPECIFICA COLLEGATI
 
 #### Collegare la parte ai suoi requisiti.
@@ -3815,6 +3945,16 @@ La revisione del disegno tecnico dovrebbe risolvere esempi di altezze; forma e c
 Il passo fine da solo non garantisce la resistenza all'allentamento. Specificare separatamente i requisiti di bloccaggio e vibrazione. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
+
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+ISO 261 / ISO 262 Filettature metriche ISO: piano generale e dimensioni scelte, inclusi passi fini.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 
@@ -4021,6 +4161,16 @@ La revisione del disegno tecnico dovrebbe risolvere mance e sgravi; materiale di
 Le punte da taglio possono generare trucioli. Il controllo dei detriti e degli sfondamenti deve essere dimostrato nell'assemblaggio vero e proprio. Identificare la revisione del disegno tecnico, la quantità del prototipo e la domanda di ripetizione prevista. Laddove la prima parte si basa su un campione esistente, confermare separatamente il materiale e le caratteristiche nascoste anziché dedurle dall'apparenza.
 
 La realizzazione dei campioni, inclusa l’attrezzatura, richiede normalmente circa 10–15 giorni. Il termine viene confermato dopo la verifica del disegno e l’accordo sulle specifiche. Disponibilità del materiale, trattamenti particolari e controlli richiesti possono influire sulla data. Il preventivo deve precisare da quando decorre il termine concordato. L’approvazione dei campioni e la consegna della produzione sono fasi distinte.
+
+#### Norme di riferimento
+
+I particolari speciali di questa famiglia derivano spesso dalle norme seguenti. Usatele come punto di partenza comune; il disegno approvato indica se e dove il pezzo segue una norma.
+
+Norma Ambito
+
+ISO 1478 Profilo del filetto per viti autofilettanti. Le varianti normalizzate di testa e impronta sono coperte da norme come ISO 7049.
+
+Classi di resistenza: ISO 898-1 per acciaio al carbonio e legato, ISO 3506-1 per acciaio inossidabile. I rivestimenti si specificano spesso secondo ISO 4042 (elettrolitici) o ISO 10683 (lamellare di zinco).
 
 ARGOMENTI DI SPECIFICA COLLEGATI
 

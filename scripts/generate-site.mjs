@@ -2,6 +2,7 @@ import {createHash} from 'node:crypto';
 import {seoTitles,seoDescriptions} from './seo-overrides.mjs';
 import {rfqItemNotes} from './guide-depth-content.mjs';
 import {phone,contactCopy} from './contact-author-content.mjs';
+import {standardSection} from './standard-references.mjs';
 import {materialSelectionMetadata} from './material-selection-content.mjs';
 import {applyQualityRevisions,qualityAids,referenceGallery,writeQualityAssets} from './quality-content.mjs';
 import {applyCoreArticleReviews} from './core-article-review.mjs';
@@ -99,6 +100,7 @@ function add(url,title,description,body,{schema=null,noindex=false}={}){
  if(url==='/quality/')body=body.replace('</header>','</header><div class="process-visual">'+catalogImage('inspection',{hero:true,caption:true})+'</div>');
   body=practicalImageCaption(url,body);
   if(url==='/')body=body.replace('<div class="hero-notes">','<p class="home-company-link"><a href="/about/#sample-planning">'+practicalCopy.homeLink+'<span aria-hidden="true"> ↗</span></a></p><div class="hero-notes">');
+ const standards=url.match(/^\/products\/([^/]+)\/$/)?standardSection(url.split('/')[2]):'';if(standards)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',standards+'<section class="cta-band">'):body+standards;
  const topicBlock=buildTopicLinks(url,body,articles);if(topicBlock)body=body.includes('<section class="cta-band">')?body.replace('<section class="cta-band">',topicBlock+'<section class="cta-band">'):body+topicBlock;
   if(schema?.['@type']==='BlogPosting'){const a=articles.find(a=>url==='/blog/'+a.slug+'/');if(a){const product={'@id':origin+'/products/'+a.product+'/#manufacturing-service'};schema.about=a.keywords?.length?[product,...a.keywords.map(name=>({'@type':'Thing',name}))]:product;if(a.sources?.length)schema.citation=a.sources.map(([name,url])=>({'@type':'CreativeWork',name,url}));}schema.publisher={...schema.publisher,'@id':origin+'/#organization'};}
  const active=url.split('/')[1];

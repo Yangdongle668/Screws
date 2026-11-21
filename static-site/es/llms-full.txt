@@ -13,7 +13,7 @@
 - Materials: carbon and alloy steel, 10B21 boron steel, SUS304/SUS316 stainless steel, aluminum alloys, copper, brass and titanium alloys.
 - Automotive background: component supply-chain projects for vehicle applications, not direct vehicle-maker approval. Application studies are illustrative design examples, not delivered customer cases or measured test results.
 - Technical articles are written by Theo Wan (万天恩), engineering lead at ZUFEK.
-- Phone / WhatsApp: +86 190 6634 8320. Working hours: 08:00–17:30 China time (UTC+8).
+- Phone / WhatsApp: +86 190 6634 8320. Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8).
 - Materials, strength, tolerances, finishing, inspection, quantity and delivery are confirmed for the actual drawing.
 
 ## Source and scope
@@ -1007,7 +1007,7 @@ CONTACTO DIRECTO DE INGENIERÍA
 
 #### ¿Prefieres correo electrónico?
 
-info@zufek.net ↗ Teléfono / WhatsApp +86 190 6634 8320 · WhatsApp Horario: 08:00–17:30 hora de China (UTC+8)
+info@zufek.net ↗ Teléfono / WhatsApp +86 190 6634 8320 · WhatsApp Horario: lunes a sábado, 08:00–17:30 hora de China (UTC+8)
 
 Incluya una revisión del dibujo de ingeniería, la cantidad y una breve descripción de la aplicación.
 
@@ -1659,6 +1659,16 @@ Ver el hombro y el conjunto axial del utillaje ↗
 Referencia geométrica DIN 610 de Wikimedia Commons. ARFISA Representaciones, SCP · CC BY-SA 3.0
 
 Plano y verificación de muestras Planificación de la calidad Elaboración de un plan personalizado de inspección y aceptación de sujetadores
+
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+ISO 7379 Tornillos con hombro de hexágono interior: punto de partida habitual para las proporciones de cabeza, hueco y hombro.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -2369,6 +2379,16 @@ Proporcione el dibujo de ingeniería del variador o la especificación de la her
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+ISO 10664 Accionamiento hexalobular interior. Las variantes con pivote y otros accionamientos de seguridad suelen definirse por plano o referencia de herramienta.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -2495,6 +2515,16 @@ Conexión estanca Medio, presión y temperatura, interfaz de sellado y criterios
 Revise el espesor mínimo restante en la raíz de la rosca y en los cruces. Planifique cómo eliminar y comprobar rebabas antes de que otra operación oculte el acceso. Para superficies interiores, acuerde un método adecuado; el control CCD exterior no inspecciona por completo el taladro.
 
 Coordinar acabado interior, limpieza e inspección La preparación de utillaje y muestras suele requerir aproximadamente 10–15 días tras revisión técnica y confirmación. Acuerde en la oferta inicio, aceptación de muestras y calendario de producción.
+
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 7643 Tornillos huecos (banjo) para racores de anillo en conexiones de fluidos.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -2652,6 +2682,16 @@ La revisión del plano de ingeniería deberá resolver las dimensiones de las br
 Incluya los requisitos del material de acoplamiento y de la cara del rodamiento. Una brida más grande no previene automáticamente el daño a la superficie. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
+
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+ISO 4162 Tornillos hexagonales con brida y superficie de apoyo integrada.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -2812,6 +2852,16 @@ Especifique el agarre del cabezal, el recorrido de ajuste y cualquier método de
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 464 / DIN 653 Tornillos moleteados, tipo alto y bajo.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -2967,6 +3017,16 @@ Indique la geometría de la punta, la superficie de contacto, el accionamiento y
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+ISO 4026, 4027, 4028, 4029 Prisioneros de hexágono interior con punta plana, cónica, de espiga y de copa.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -3076,6 +3136,16 @@ Proporcionar sección transversal de ranura y método de inserción; No seleccio
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 186 / DIN 787 Tornillos de cabeza de martillo con cuello cuadrado y tornillos para ranuras en T de mesas de máquina.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 ### Pernos articulados y de ojo personalizados para dibujos de ingeniería
 Source: https://zufek.net/es/products/eye-bolts/
 
@@ -3165,6 +3235,16 @@ Dirección de la fuerza estatal y uso previsto. Cualquier aplicación de elevaci
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 444 Tornillos de ojo para uniones articuladas y de amarre; no destinados a elevación.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 ### Diseños de cáncamos de elevación personalizados según dibujo de ingeniería
 Source: https://zufek.net/es/products/lifting-eye-bolts/
 
@@ -3252,6 +3332,16 @@ Suministre el caso de carga aprobado y la norma aplicable. La geometría persona
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 580 Cáncamos de elevación. El uso para elevación debe cumplir la norma aplicable y la normativa local, incluido el marcado de carga y la verificación.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 ### Pernos en U personalizados según el dibujo de ingeniería
 Source: https://zufek.net/es/products/u-bolts/
 
@@ -3338,6 +3428,16 @@ La revisión del plano de ingeniería debe resolver el perfil de curvatura; geom
 Proporcione la sección transversal sujeta y los requisitos de carga. El material, el proceso de plegado y el recubrimiento deben revisarse juntos. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
+
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 3570 Pernos en U para fijación de tuberías.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
 
 ### Pernos de cabeza cuadrada personalizados según dibujo de ingeniería
 Source: https://zufek.net/es/products/square-head-bolts/
@@ -3428,6 +3528,16 @@ Muestre el acceso a la llave o el bolsillo de retención y las propiedades mecá
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 478, 479, 480 Tornillos de cabeza cuadrada con collar o variantes con espiga.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 ### Pernos de carro personalizados según el plano de ingeniería
 Source: https://zufek.net/es/products/carriage-bolts/
 
@@ -3514,6 +3624,16 @@ La revisión del plano de ingeniería deberá resolver el cuello cuadrado; forma
 Proporcionar la geometría del orificio de acoplamiento y el material del cojinete; El compromiso del cuello es parte del diseño antirotación. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
+
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 603 / ISO 8677 Pernos de cabeza redonda con cuello cuadrado.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
 
 ### Tornillos de cabeza excéntrica y angulada según plano de ingeniería
 Source: https://zufek.net/es/products/eccentric-screws/
@@ -3709,6 +3829,16 @@ Indique ambas roscas coincidentes, el asiento del hombro y la secuencia de ensam
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
 
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+DIN 835, 938, 939, 940 Espárragos con extremo de rosca de 2d, 1d, 1,25d y 2,5d.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
+
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
 #### Conecte la pieza a sus requisitos.
@@ -3815,6 +3945,16 @@ La revisión de los planos de ingeniería debe resolver ejemplos de tono; ajuste
 La brea fina por sí sola no garantiza resistencia al aflojamiento. Especifique los requisitos de bloqueo y vibración por separado. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
+
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+ISO 261 / ISO 262 Roscas métricas ISO: plan general y tamaños seleccionados, incluidos pasos finos.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 
@@ -4021,6 +4161,16 @@ La revisión del dibujo de ingeniería debe resolver la punta y el relieve; mate
 Las puntas de corte pueden generar virutas. El control de escombros y avance debe demostrarse en el montaje real. Identifique la revisión del dibujo de ingeniería, la cantidad del prototipo y la demanda repetida esperada. Cuando la primera parte se base en una muestra existente, confirme por separado el material y las características ocultas en lugar de inferirlas de la apariencia.
 
 El plazo habitual para preparar las muestras, incluido el utillaje, es de unos 10–15 días. Se confirma tras revisar el plano y acordar la especificación de las muestras. La disponibilidad del material, los tratamientos especiales y las inspecciones requeridas pueden afectar a la fecha. La oferta debe indicar cuándo empieza a contar el plazo. La aprobación de muestras y la entrega de producción son hitos distintos.
+
+#### Normas de referencia
+
+Las piezas especiales de esta familia suelen derivarse de las normas siguientes. Úselas como punto de partida común; el plano aprobado indica si la pieza sigue una norma y en qué aspectos.
+
+Norma Alcance
+
+ISO 1478 Perfil de rosca para tornillos autorroscantes. Las variantes normalizadas de cabeza y accionamiento se recogen en normas como ISO 7049.
+
+Clases de resistencia: ISO 898-1 para acero al carbono y aleado, ISO 3506-1 para acero inoxidable. Los recubrimientos suelen especificarse según ISO 4042 (electrolíticos) o ISO 10683 (laminillas de zinc).
 
 TEMAS DE ESPECIFICACIÓN CONECTADOS
 

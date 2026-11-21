@@ -13,12 +13,12 @@
     "fr": "WhatsApp",
     "zh": "WhatsApp"
   },
-  "Working hours: 08:00–17:30 China time (UTC+8)": {
-    "de": "Arbeitszeit: 08:00–17:30 chinesische Zeit (UTC+8)",
-    "es": "Horario: 08:00–17:30 hora de China (UTC+8)",
-    "it": "Orario: 08:00–17:30 ora cinese (UTC+8)",
-    "fr": "Horaires : 08:00–17:30 heure de Chine (UTC+8)",
-    "zh": "工作时间：08:00–17:30（北京时间，UTC+8）"
+  "Working hours: Monday–Saturday, 08:00–17:30 China time (UTC+8)": {
+    "de": "Arbeitszeit: Montag–Samstag, 08:00–17:30 chinesische Zeit (UTC+8)",
+    "es": "Horario: lunes a sábado, 08:00–17:30 hora de China (UTC+8)",
+    "it": "Orario: lunedì–sabato, 08:00–17:30 ora cinese (UTC+8)",
+    "fr": "Horaires : du lundi au samedi, 08:00–17:30 heure de Chine (UTC+8)",
+    "zh": "工作时间：周一至周六 08:00–17:30（北京时间，UTC+8）"
   },
   "Theo Wan — Engineering Lead": {
     "de": "Theo Wan — Leiter Technik",

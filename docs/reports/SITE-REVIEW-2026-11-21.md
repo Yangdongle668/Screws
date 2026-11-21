@@ -209,3 +209,8 @@
 - 联系方式：顶栏、页脚、询盘页加入电话 / WhatsApp +86 190 6634 8320 和工作时间 08:00–17:30（UTC+8）；手机底部快捷按钮由“Email us”改为 WhatsApp；Organization 结构化数据加入 `telephone`；llms.txt 同步。工作日尚未确认，暂未写入 `openingHoursSpecification`。
 - 作者：Theo Wan（万天恩）由笔名改为 ZUFEK 工程负责人，作者页与文章结构化数据改为 `Person`（`jobTitle: Engineering Lead`），未添加学历、证书或年限。
 - 工厂实拍：不使用网络图片冒充自家工厂，需自行拍摄。
+
+### 第三轮（2026-11-21）
+- 工作时间更新为周一至周六 08:00–17:30（UTC+8），ContactPoint 加入 `hoursAvailable`。
+- 15 个产品家族新增“参考标准”表（如 ISO 7379、ISO 4026–4029、DIN 580、DIN 835/938–940），说明标准只是沟通起点、以批准图纸为准；附 ISO 898-1、ISO 3506-1、ISO 4042、ISO 10683 的性能等级与涂层参考；五语译文在 `scripts/standard-references.mjs`。
+- 新增 `docs/reports/AI-VISIBILITY-CHECKLIST.md`：15 个目标问题与月度记录表。
