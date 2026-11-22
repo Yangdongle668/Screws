@@ -34,7 +34,7 @@ async function detail(id){try{const j=await api('studio-job?id='+encodeURICompon
  if(!['running','approved','discarded'].includes(j.status))button('丢弃','btn outline',()=>{if(confirm('丢弃这个任务？'))act('studio-discard',{id:j.id},'已丢弃');});
  box.append(row);box.scrollIntoView({behavior:'smooth',block:'start'});}catch(e){status(e.message,true);}}
 async function act(action,body,done){try{await api(action,body);status(done);await load();if(current&&action!=='studio-discard')await detail(current.id);else $('#studio-detail').hidden=true;}catch(e){status(e.message,true);}}
-$('#studio-create').addEventListener('submit',async e=>{e.preventDefault();try{await api('studio-create',{hint:e.currentTarget.elements.hint.value});e.currentTarget.elements.hint.value='';status('已加入队列，通常几分钟内完成');await load();}catch(err){status(err.message,true);}});
+$('#studio-create').addEventListener('submit',async e=>{e.preventDefault();const form=e.currentTarget,button=form.querySelector('button');if(button)button.disabled=true;try{await api('studio-create',{hint:form.elements.hint.value});form.elements.hint.value='';status('已加入队列，通常几分钟内完成');await load();}catch(err){status(err.message,true);}finally{if(button)button.disabled=false;}});
 $('#studio-config').addEventListener('submit',async e=>{e.preventDefault();const f=e.currentTarget;try{await api('studio-config',{enabled:f.elements.enabled.checked,days:f.elements.days.value.split(/[,，\s]+/).filter(Boolean).map(Number),hour:Number(f.elements.hour.value)});status('已保存定时设置');}catch(err){status(err.message,true);}});
 $('#studio-refresh').addEventListener('click',load);
 void load();})();
