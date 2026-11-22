@@ -33,6 +33,7 @@ export function selectPAA(entries,query,{limit=12,requireMatch=true,exclude=[],c
 export async function usedPAAIds(db,{limit=500}={}){
  const ids=new Set();try{const rows=(await db.prepare("SELECT result FROM ai_jobs WHERE result LIKE '%paaAdopted%' AND status NOT IN ('failed','cancelled') ORDER BY created_at DESC LIMIT ?").bind(limit).all()).results;
   for(const row of rows){try{for(const q of JSON.parse(row.result)?.paaAdopted||[])if(q&&typeof q.id==='string')ids.add(q.id);}catch{}}}catch{}
+ try{const studio=(await db.prepare("SELECT topic FROM studio_jobs WHERE status NOT IN ('failed','discarded') ORDER BY created_at DESC LIMIT ?").bind(limit).all()).results;for(const row of studio){try{const id=JSON.parse(row.topic||'{}')?.evidence?.paaId;if(typeof id==='string')ids.add(id);}catch{}}}catch{}
  return [...ids];
 }
 export function reconcilePAA(brief,observed=[]){

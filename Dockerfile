@@ -25,6 +25,7 @@ COPY --from=build --chown=node:node /app/lib/translation-contract.mjs ./lib/tran
 COPY --from=build --chown=node:node /app/lib/article-audit.mjs ./lib/article-audit.mjs
 COPY --from=build --chown=node:node /app/lib/article-publication-state.mjs ./lib/article-publication-state.mjs
 COPY --from=build --chown=node:node /app/lib/safe-markdown.mjs ./lib/safe-markdown.mjs
+COPY --from=build --chown=node:node /app/lib/editorial-assets.json ./lib/editorial-assets.json
 COPY --from=build --chown=node:node /app/public ./public
 COPY --from=build --chown=node:node /app/drizzle ./drizzle
 COPY --from=build --chown=node:node /app/docs/content-operations ./docs/content-operations
