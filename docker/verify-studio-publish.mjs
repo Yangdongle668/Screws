@@ -33,5 +33,9 @@ const jobId=await service.publishStudioArticle(article,{studioId:'studio-1',keyw
 const job=await db.prepare('SELECT * FROM ai_jobs WHERE id=?').bind(jobId).first();assert.equal(job.status,'approved');assert.equal(job.type,'technical');assert.equal(JSON.parse(job.result).review.autoPublishRequested,true);
 const publication=await db.prepare('SELECT * FROM ai_publications WHERE job_id=?').bind(jobId).first();assert.equal(publication.status,'queued');assert.equal(publication.slug,article.slug);
 const steps=(await db.prepare('SELECT locale FROM ai_publication_steps WHERE job_id=?').bind(jobId).all()).results.map(r=>r.locale).sort();assert.deepEqual(steps,['de','es','fr','it','zh']);
+const summary=await service.publicationSummary(jobId);assert.equal(summary.status,'queued');assert.deepEqual(summary.languages.map(l=>l.locale).sort(),['de','es','fr','it','zh']);
+await db.prepare("UPDATE ai_publications SET status='failed',error='固定字段格式不完整' WHERE job_id=?").bind(jobId).run();
+await service.retryPublication(jobId);assert.equal((await service.publicationSummary(jobId)).status,'queued','a failed publication can be retried from the studio');
+await assert.rejects(()=>service.retryPublication(jobId),/仅能重试未完成/,'retry only applies to failed or cancelled runs');
 await service.close();await new Promise(r=>setTimeout(r,200));await fs.rm(directory,{recursive:true,force:true}).catch(()=>{});
-console.log(JSON.stringify({siteValidationPasses:true,articleSaves:true,queuedForSixLanguages:true}));
+console.log(JSON.stringify({siteValidationPasses:true,articleSaves:true,queuedForSixLanguages:true,statusAndRetry:true}));
