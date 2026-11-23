@@ -1,8 +1,9 @@
-import fs from 'node:fs/promises';import path from 'node:path';import {randomUUID} from 'node:crypto';
+import fs from 'node:fs/promises';import path from 'node:path';import {randomUUID,createHash} from 'node:crypto';
+import {createCopyscape} from './copyscape.mjs';
 import {readPAALibrary,usedPAAIds} from './ai-editorial-inputs.mjs';
 import {readGSCOpportunities} from './gsc-service.mjs';
 import {topicCandidates,isDuplicateTopic,matchPages} from './studio-topics.mjs';
-import {FORMAT_GUIDE,parseStudioText,formatStudioText,structureProblems,slugify,toArticle,wordCount} from './studio-format.mjs';
+import {FORMAT_GUIDE,parseStudioText,formatStudioText,structureProblems,slugify,toArticle,wordCount,plainText} from './studio-format.mjs';
 import {runChecks} from './studio-checks.mjs';
 
 // Article Studio: technical blog articles in at most three model calls.
@@ -34,9 +35,10 @@ export function validateBrief(raw,{linkOptions,targetPath}){
  return {title:text(raw.title,90),primaryKeyword:text(raw.primaryKeyword,80).toLowerCase(),secondaryKeywords:(Array.isArray(raw.secondaryKeywords)?raw.secondaryKeywords:[]).map(k=>text(k,60)).filter(Boolean).slice(0,6),readerQuestion:text(raw.readerQuestion,200),searchIntent:text(raw.searchIntent,30)||'informational',shortAnswer:text(raw.shortAnswer,600),category:CATEGORIES.includes(raw.category)?raw.category:'DESIGN & DIMENSIONS',sections,faq:(Array.isArray(raw.faq)?raw.faq:[]).map(q=>text(typeof q==='string'?q:q?.question,200)).filter(Boolean).slice(0,5),internalLinks:links.slice(0,6)};
 }
 
-export async function createArticleStudio({db,ai,clock=()=>new Date(),contentDirectory='docs/content-operations',assetsFile='lib/editorial-assets.json'}){
+export async function createArticleStudio({db,ai,clock=()=>new Date(),contentDirectory='docs/content-operations',assetsFile='lib/editorial-assets.json',copyscape=createCopyscape({db,clock})}){
  await db.prepare('CREATE TABLE IF NOT EXISTS studio_jobs(id TEXT PRIMARY KEY,slot TEXT UNIQUE NOT NULL,status TEXT NOT NULL,origin TEXT NOT NULL,hint TEXT NOT NULL DEFAULT \'\',topic TEXT,brief TEXT,draft_text TEXT,article TEXT,checks TEXT,revisions INTEGER NOT NULL DEFAULT 0,model_calls INTEGER NOT NULL DEFAULT 0,ai_job_id TEXT,error TEXT,progress TEXT,created_at TEXT NOT NULL,updated_at TEXT NOT NULL)').run();
  await db.prepare('CREATE TABLE IF NOT EXISTS studio_config(id INTEGER PRIMARY KEY,value TEXT NOT NULL)').run();
+ try{await db.prepare('ALTER TABLE studio_jobs ADD COLUMN external_check TEXT').run();}catch{}
  await db.prepare("UPDATE studio_jobs SET status='failed',error='服务重启时任务正在执行；已完成的步骤已保存，可重试' WHERE status='running'").run();
  let busy=false,closed=false;const now=()=>clock().toISOString();
  let covers=null;try{covers=new Set(Object.keys(JSON.parse(await fs.readFile(assetsFile,'utf8'))));}catch{}
@@ -122,7 +124,16 @@ export async function createArticleStudio({db,ai,clock=()=>new Date(),contentDir
  async function saveText(id,raw){const job=await get(id);if(!job||!['review','blocked'].includes(job.status))throw Error('只能修改待审核或被拦截的稿件');const brief=JSON.parse(job.brief),topic=JSON.parse(job.topic),ctx=await context(job),doc=parseStudioText(raw),structure=structureProblems(doc);const slug=job.article?JSON.parse(job.article).slug:slugify(doc.title);const checks=evaluate(doc,{brief,ctx,companyFacts:await facts(),slug});
   const article=structure.length?null:toArticle(doc,{slug,category:brief.category,product:topic.product,processes:topic.processes,keywords:[brief.primaryKeyword,...brief.secondaryKeywords],relatedLinks:brief.internalLinks.map(l=>({path:l.path,label:l.anchor}))});
   await update(id,{draft_text:raw,article,checks:{...checks,structure},status:structure.length||checks.blocking.length?'blocked':'review',error:structure.length?structure.join('；'):null});}
- async function approve(id){const job=await get(id);if(!job||job.status!=='review')throw Error('只有待审核且没有拦截问题的稿件可以发布');const checks=JSON.parse(job.checks||'{}');if(checks.blocking?.length)throw Error('仍有拦截问题');const brief=JSON.parse(job.brief);
+ // External web duplicate check (Copyscape). A result belongs to one exact draft text; edits make it stale.
+ const textHash=t=>createHash('sha256').update(String(t||'')).digest('hex');
+ const currentExternal=job=>{try{const e=JSON.parse(job.external_check||'null');return e?{...e,stale:e.hash!==textHash(job.draft_text)}:null;}catch{return null;}};
+ async function externalCheck(id){const job=await get(id);if(!job?.draft_text||!['review','blocked'].includes(job.status))throw Error('只能检查待审核或被拦截的稿件');const result=await copyscape.check(plainText(parseStudioText(job.draft_text)));const record={hash:textHash(job.draft_text),...result};await update(id,{external_check:record});return record;}
+ async function approve(id,{acknowledgeExternal=false}={}){let job=await get(id);if(!job||job.status!=='review')throw Error('只有待审核且没有拦截问题的稿件可以发布');const checks=JSON.parse(job.checks||'{}');if(checks.blocking?.length)throw Error('仍有拦截问题');const brief=JSON.parse(job.brief);
+  const cs=await copyscape.load();let external=currentExternal(job);
+  if(cs.mode!=='off'){if(!external||external.stale){external=await externalCheck(id);job=await get(id);}
+   if(external.percent>=cs.threshold&&cs.mode==='block')throw Error(`外部查重：与网上已有内容重合${external.percent}%，超过阈值${cs.threshold}%，已禁止发布。请修改重合段落后重新查重。`);
+   if(external.percent>=cs.threshold&&!acknowledgeExternal){const e=Error(`外部查重：与网上已有内容重合${external.percent}%，超过提示阈值${cs.threshold}%。请在详情中查看匹配网页，确认后再发布。`);e.confirm=true;throw e;}}
+  if(external&&!external.stale)checks.metrics={...checks.metrics,externalOverlapPercent:external.percent};
   const aiJob=await ai.publishStudioArticle(JSON.parse(job.article),{studioId:id,checks:checks.metrics,keywordBrief:{primaryKeyword:brief.primaryKeyword,secondaryKeywords:brief.secondaryKeywords,readerQuestion:brief.readerQuestion,searchIntent:brief.searchIntent}});await update(id,{status:'approved',ai_job_id:aiJob});return aiJob;}
 
  const json=(v,status=200)=>new Response(JSON.stringify(v),{status,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}});
@@ -131,14 +142,17 @@ export async function createArticleStudio({db,ai,clock=()=>new Date(),contentDir
  const publication=async j=>{if(j.status!=='approved'||!j.ai_job_id)return null;try{return await ai.publicationSummary(j.ai_job_id);}catch(e){return {status:'unknown',error:String(e.message||e).slice(0,200),languages:[]};}};
  const compact=p=>p?{status:p.status,phase:p.phase,error:p.error,languages:(p.languages||[]).map(({locale,status})=>({locale,status}))}:null;
  async function handle(r,action){try{if(r.method!=='GET'&&(r.method!=='POST'||r.headers.get('origin')!==new URL(r.url).origin))return json({error:'请从本站后台提交'},403);const url=new URL(r.url);
-  if(action==='studio-state'&&r.method==='GET'){const jobs=(await db.prepare('SELECT * FROM studio_jobs ORDER BY created_at DESC LIMIT 50').all()).results;return json({config:await loadConfig(),busy,jobs:await Promise.all(jobs.map(async j=>({...summary(j),publication:compact(await publication(j))})))});}
-  if(action==='studio-job'&&r.method==='GET'){const j=await get(url.searchParams.get('id')||'');if(!j)return json({error:'任务不存在'},404);return json({...summary(j),publication:await publication(j),topic:JSON.parse(j.topic||'null'),brief:JSON.parse(j.brief||'null'),draftText:j.draft_text,article:JSON.parse(j.article||'null'),checks:JSON.parse(j.checks||'null')});}
+  if(action==='studio-state'&&r.method==='GET'){const jobs=(await db.prepare('SELECT * FROM studio_jobs ORDER BY created_at DESC LIMIT 50').all()).results;return json({config:await loadConfig(),copyscape:await copyscape.publicState(),busy,jobs:await Promise.all(jobs.map(async j=>({...summary(j),publication:compact(await publication(j))})))});}
+  if(action==='studio-job'&&r.method==='GET'){const j=await get(url.searchParams.get('id')||'');if(!j)return json({error:'任务不存在'},404);return json({...summary(j),publication:await publication(j),externalCheck:currentExternal(j),topic:JSON.parse(j.topic||'null'),brief:JSON.parse(j.brief||'null'),draftText:j.draft_text,article:JSON.parse(j.article||'null'),checks:JSON.parse(j.checks||'null')});}
   if(r.method!=='POST')return json({error:'不支持的操作'},405);let b={};try{b=JSON.parse(await r.text()||'{}');}catch{return json({error:'请求格式错误'},400);}
   if(action==='studio-config'){const days=Array.isArray(b.days)?[...new Set(b.days.map(Number).filter(d=>Number.isInteger(d)&&d>=0&&d<=6))]:[2];const hour=Number(b.hour);if(!days.length||!Number.isInteger(hour)||hour<0||hour>23)throw Error('请填写有效的星期和小时');await db.prepare('INSERT INTO studio_config VALUES(1,?) ON CONFLICT(id) DO UPDATE SET value=excluded.value').bind(JSON.stringify({enabled:b.enabled===true,days,hour})).run();return json({saved:true});}
   if(action==='studio-create'){const id=randomUUID();await db.prepare("INSERT INTO studio_jobs(id,slot,status,origin,hint,created_at,updated_at) VALUES(?,?,'queued','manual',?,?,?)").bind(id,'manual:'+id,text(b.hint,300),now(),now()).run();queueMicrotask(()=>void tick().catch(()=>{}));return json({id});}
   if(action==='studio-save-text'){await saveText(text(b.id,80),String(b.text||'').slice(0,200000));return json({saved:true});}
-  if(action==='studio-approve'){const aiJobId=await approve(text(b.id,80));return json({approved:true,aiJobId});}
+  if(action==='studio-approve'){try{const aiJobId=await approve(text(b.id,80),{acknowledgeExternal:b.acknowledgeExternal===true});return json({approved:true,aiJobId});}catch(e){if(e.confirm)return json({error:e.message,needsConfirmation:true},409);throw e;}}
   if(action==='studio-retry'){const j=await get(text(b.id,80));if(!j||!['failed','blocked'].includes(j.status))throw Error('只能重试失败或被拦截的任务');await update(j.id,{status:'queued',error:null,...(b.rewrite?{draft_text:null,revisions:0}:{}),...(b.newTopic?{topic:null,brief:null,draft_text:null,revisions:0}:{})});queueMicrotask(()=>void tick().catch(()=>{}));return json({queued:true});}
+  if(action==='studio-copyscape-settings'){await copyscape.save(b);return json({saved:true});}
+  if(action==='studio-copyscape-balance'){return json(await copyscape.balance());}
+  if(action==='studio-external-check'){return json(await externalCheck(text(b.id,80)));}
   if(action==='studio-publish-retry'){const j=await get(text(b.id,80));if(!j||j.status!=='approved'||!j.ai_job_id)throw Error('该任务还没有进入发布流程');await ai.retryPublication(j.ai_job_id);return json({queued:true});}
   if(action==='studio-discard'){const j=await get(text(b.id,80));if(!j||['running','approved'].includes(j.status))throw Error('该任务不能丢弃');await update(j.id,{status:'discarded'});return json({discarded:true});}
   return json({error:'未知操作'},404);}catch(e){return json({error:String(e.message||e).slice(0,400)},400);}}
