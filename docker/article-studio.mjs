@@ -18,9 +18,10 @@ export const STUDIO_RULES=`Writing rules:
 5. Never invent test results, customer names or cases, certifications, equipment, capacities, prices, lead times or statistics. Use a specific number only when it is a standard value or a clearly labelled illustrative example; otherwise describe the relationship.
 6. Give the reader something to act on in each section: a decision rule, a comparison of options with the deciding factor, or the exact information to put on a drawing or RFQ.
 7. State each condition once, in one sentence next to the claim it limits. Do not write sections or sentences about sources, evidence, what "this article" can establish, or how it was written.
-8. Use the planned internal links with descriptive anchor text; link the main product page early. Use only the paths you were given, exactly as written.
-9. Avoid filler such as "it is important to note", "in today's", "plays a crucial role", "delve into" and repeated summaries.
-10. Length: 900 to 1600 words in the body, four to seven sections, three to five FAQ entries.`;
+8. Explain everything in your own words. Do not reproduce sentences from standards, manufacturer catalogues, competitor websites or other publications; if a standard's wording matters, name the standard and paraphrase it, quoting at most one short phrase.
+9. Use the planned internal links with descriptive anchor text; link the main product page early. Use only the paths you were given, exactly as written.
+10. Avoid filler such as "it is important to note", "in today's", "plays a crucial role", "delve into" and repeated summaries.
+11. Length: 900 to 1600 words in the body, four to seven sections, three to five FAQ entries.`;
 
 const ARTICLE=/^\/(blog|guides|industry-insights)\/[^/]+\/$/;
 const cleanTitle=t=>String(t||'').replace(/\s*\|.*$/,'').trim();
@@ -128,6 +129,15 @@ export async function createArticleStudio({db,ai,clock=()=>new Date(),contentDir
  const textHash=t=>createHash('sha256').update(String(t||'')).digest('hex');
  const currentExternal=job=>{try{const e=JSON.parse(job.external_check||'null');return e?{...e,stale:e.hash!==textHash(job.draft_text)}:null;}catch{return null;}};
  async function externalCheck(id){const job=await get(id);if(!job?.draft_text||!['review','blocked'].includes(job.status))throw Error('只能检查待审核或被拦截的稿件');const result=await copyscape.check(plainText(parseStudioText(job.draft_text)));const record={hash:textHash(job.draft_text),...result};await update(id,{external_check:record});return record;}
+ // Rewrite only the passages Copyscape matched; everything else stays as reviewed. One model call, at most
+ // twice per task, and the external result becomes stale so it must be checked again before approval.
+ async function externalRewrite(id){const job=await get(id);if(!job||!['review','blocked'].includes(job.status))throw Error('只能改写待审核或被拦截的稿件');const external=currentExternal(job);if(!external||external.stale||!external.results.length)throw Error('请先对当前正文运行外部查重');
+  const rewrites=Number(JSON.parse(job.progress||'{}').externalRewrites||0);if(rewrites>=2)throw Error('已按查重结果改写2次；请人工修改重合段落');
+  const passages=external.results.map(r=>r.matchedText||r.snippet).filter(t=>t&&t.trim()).slice(0,8);if(!passages.length)throw Error('查重结果没有可定位的重合文字，请人工修改');
+  const companyFacts=await facts(),brief=JSON.parse(job.brief);
+  const revised=await ai.studioCall(job.id,'STUDIO_TEXT_REVISE',[{role:'system',content:draftSystem(companyFacts)},{role:'user',content:'Some sentences in the article below closely match text already published on other websites. Rewrite only the sentences that correspond to the matched passages, in your own words and with the same technical meaning. Keep every other sentence, heading, link and the format exactly as they are, and return the complete article.\n\nMatched passages found on other websites:\n'+passages.map((t,i)=>(i+1)+'. '+t.replace(/\s+/g,' ')).join('\n')+'\n\nArticle:\n'+job.draft_text}],8000);
+  const doc=parseStudioText(revised);if(structureProblems(doc).length)throw Error('改写结果格式不完整，未替换原稿：'+structureProblems(doc).join('；'));
+  await update(id,{model_calls:(job.model_calls||0)+1,progress:{...JSON.parse(job.progress||'{}'),externalRewrites:rewrites+1}});await saveText(id,revised);void brief;}
  async function approve(id,{acknowledgeExternal=false}={}){let job=await get(id);if(!job||job.status!=='review')throw Error('只有待审核且没有拦截问题的稿件可以发布');const checks=JSON.parse(job.checks||'{}');if(checks.blocking?.length)throw Error('仍有拦截问题');const brief=JSON.parse(job.brief);
   const cs=await copyscape.load();let external=currentExternal(job);
   if(cs.mode!=='off'){if(!external||external.stale){external=await externalCheck(id);job=await get(id);}
@@ -153,6 +163,7 @@ export async function createArticleStudio({db,ai,clock=()=>new Date(),contentDir
   if(action==='studio-copyscape-settings'){await copyscape.save(b);return json({saved:true});}
   if(action==='studio-copyscape-balance'){return json(await copyscape.balance());}
   if(action==='studio-external-check'){return json(await externalCheck(text(b.id,80)));}
+  if(action==='studio-external-rewrite'){await externalRewrite(text(b.id,80));return json({rewritten:true});}
   if(action==='studio-publish-retry'){const j=await get(text(b.id,80));if(!j||j.status!=='approved'||!j.ai_job_id)throw Error('该任务还没有进入发布流程');await ai.retryPublication(j.ai_job_id);return json({queued:true});}
   if(action==='studio-discard'){const j=await get(text(b.id,80));if(!j||['running','approved'].includes(j.status))throw Error('该任务不能丢弃');await update(j.id,{status:'discarded'});return json({discarded:true});}
   return json({error:'未知操作'},404);}catch(e){return json({error:String(e.message||e).slice(0,400)},400);}}

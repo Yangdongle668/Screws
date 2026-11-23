@@ -8,7 +8,7 @@ export const COPYSCAPE_DEFAULTS={mode:'warn',threshold:20,spendLimit:0.5,ignoreD
 
 export function summarizeCopyscape(raw){
  if(!raw||typeof raw!=='object')throw Error('Copyscape返回格式错误');if(raw.error)throw Error('Copyscape：'+String(raw.error).slice(0,200));
- const words=Number(raw.querywords)||0,results=(Array.isArray(raw.result)?raw.result:raw.result?[raw.result]:[]).map(r=>({url:String(r.url||''),title:String(r.title||'').slice(0,200),minWordsMatched:Number(r.minwordsmatched)||0,wordsMatched:r.wordsmatched!==undefined?Number(r.wordsmatched):null,percentMatched:r.percentmatched!==undefined?Number(r.percentmatched):null,snippet:String(r.textsnippet||'').slice(0,300)}));
+ const words=Number(raw.querywords)||0,results=(Array.isArray(raw.result)?raw.result:raw.result?[raw.result]:[]).map(r=>({url:String(r.url||''),title:String(r.title||'').slice(0,200),minWordsMatched:Number(r.minwordsmatched)||0,wordsMatched:r.wordsmatched!==undefined?Number(r.wordsmatched):null,percentMatched:r.percentmatched!==undefined?Number(r.percentmatched):null,snippet:String(r.textsnippet||'').slice(0,300),matchedText:String(r.textmatched||'').slice(0,1500)}));
  // allpercentmatched is the share of the article found across the compared results; without it, use the largest single match.
  const fallback=words?Math.max(0,...results.map(r=>(r.wordsMatched??r.minWordsMatched)/words*100)):0;
  return {words,cost:Number(raw.cost)||0,count:Number(raw.count)||results.length,percent:Math.round(raw.allpercentmatched!==undefined?Number(raw.allpercentmatched):fallback),results:results.slice(0,10)};
