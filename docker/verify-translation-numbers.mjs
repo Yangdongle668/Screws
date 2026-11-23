@@ -8,4 +8,8 @@ assert.equal(assertArticleTranslation(base,de),de,'German decimal commas and hyp
 assert.throws(()=>assertArticleTranslation(base,{...de,example:'Ein 4-mm-Kabel durch eine M8-Bohrung; 0,12–0,28 mm Spiel.'}),/缺少数字 3.*多出数字 4/,'a changed value is rejected and named');
 assert.throws(()=>assertArticleTranslation(base,{...de,intro:'Die fünf Kategorien gelten für M10-Teile.'}),/缺少牌号 M8/,'a changed identifier is rejected and named');
 assert.deepEqual(numberMismatch(['Use 3 mm cable'],['使用三毫米线缆']).missing,['3'],'numbers with units must stay digits');
-console.log(JSON.stringify({countWordsTolerated:true,valuesStrict:true,identifiersStrict:true,errorNamesValues:true}));
+// Thousands and decimal conventions differ by language; values must still match.
+for(const [en,tr] of [['Up to 20,000 and 5,000 parts.','Jusqu\u2019à 20 000 et 5 000 pièces.'],['20,000 parts','20\u202f000 pièces'],['20,000 parts and 1.25d','20.000 Teile und 1,25d'],['20,000 parts','20\'000 Teile'],['0.12–0.28 mm','0,12–0,28 mm']])assert.deepEqual(numberMismatch([en],[tr]),{missing:[],extra:[]},tr);
+assert.deepEqual(numberMismatch(['20,000 parts'],['2 000 pièces']),{missing:['20,000'],extra:['2 000']},'a different value is still rejected');
+assert.deepEqual(numberMismatch(['1.25d'],['12,5d']),{missing:['1.25'],extra:['12,5']},'a moved decimal point is still rejected');
+console.log(JSON.stringify({countWordsTolerated:true,valuesStrict:true,identifiersStrict:true,errorNamesValues:true,localNumberFormats:true}));

@@ -86,3 +86,9 @@ Translations failed with `译文修改了来源或内链网址` / `译文修改�
 ## Fixed-field structural repairs (2026-11-22)
 
 Translations failed with `固定字段格式不完整：数组序号不连续：/article/relatedLinks/0/path` when the model declared a list item as an array and then wrote named fields into it. The fixed-field parser, shared by drafting and all five translation languages, now repairs three structural slips without touching any text value: an empty container declared with the wrong type (array vs object), a skipped array index (compacted), and a missing intermediate container when it is exactly the next array position or a new object field. Each repair is recorded. Duplicate indexes, duplicate fields, re-typing a filled container and mis-numbered items whose children no longer line up are still rejected. A translation that failed this way is re-parsed from its saved output on retry within 24 hours, without a new model call. Verification: `node docker/verify-ai-text-repairs.mjs`.
+
+## Number formats by language and saved-translation re-validation (2026-11-23)
+
+French translations failed with `缺少数字 20.000、5.000；多出数字 20、000、5、000` because French groups thousands with a space (`20 000`), which was split into two numbers. Numbers are now compared by value: the English source uses comma thousands and dot decimals; a translation may group thousands with a space, no-break or narrow no-break space, dot or apostrophe and may use a decimal comma. A different value or a moved decimal point is still rejected.
+
+When a complete translation is rejected by a server-side check, the next attempt for the identical request re-validates the saved output once (within 24 hours) before calling the model. If it fails again, the following attempt calls the model, so a genuinely wrong translation cannot block retries. Verification: `node docker/verify-translation-numbers.mjs`, `node docker/verify-ai-autoflow.mjs`.
