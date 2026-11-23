@@ -93,7 +93,10 @@ const ai={inventory:async()=>({pages,drafts:[]}),
   if(stage==='STUDIO_TEXT_DRAFT'){assert(messages[0].content.includes('@@SECTION'));return clean.replace('@@SECTION Check','In our tests the thread never failed.\n@@SECTION Check');}
   if(stage==='STUDIO_TEXT_REVISE'){assert(messages[1].content.includes('不能虚构测试'),'revision receives the issue list');return clean;}
   throw Error('unexpected '+stage);},
- publishStudioArticle:async(article,meta)=>{published={article,meta};return 'ai-job-1';}};
+ publishStudioArticle:async(article,meta)=>{published={article,meta};return 'ai-job-1';},
+ publicationSummary:async id=>({jobId:id,slug:'s',status:pubState,phase:'translate:es',error:pubState==='failed'?'固定字段格式不完整':null,languages:[{locale:'de',status:'ready',attempts:1},{locale:'es',status:pubState==='failed'?'failed':'generating',attempts:2,error:'x'}]}),
+ retryPublication:async id=>{retried.push(id);pubState='queued';}};
+let pubState='failed';const retried=[];
 const studio=await createArticleStudio({db,ai});
 const request=(action,body)=>new Request('https://zufek.net/api/admin/'+action,body?{method:'POST',headers:{origin:'https://zufek.net'},body:JSON.stringify(body)}:{});
 const created=await (await studio.handle(request('studio-create',{hint:'lifting eye bolt thread engagement'}),'studio-create')).json();
@@ -107,7 +110,13 @@ job=await (await studio.handle(request('studio-job?id='+created.id),'studio-job'
 assert.equal((await studio.handle(request('studio-approve',{id:created.id}),'studio-approve')).status,400,'blocked drafts cannot be published');
 await studio.handle(request('studio-save-text',{id:created.id,text:job.draftText.replace('ZUFEK is ISO 9001 certified.\n','')}),'studio-save-text');
 const approved=await (await studio.handle(request('studio-approve',{id:created.id}),'studio-approve')).json();
-assert.equal(approved.aiJobId,'ai-job-1');assert.equal(published.article.slug,'lifting-eye-bolt-thread-engagement-tapped-holes');assert.equal(published.meta.keywordBrief.primaryKeyword,'lifting eye bolt thread engagement');
+assert.equal(approved.aiJobId,'ai-job-1');
+// publication progress and retry are available from the studio itself
+let withPublication=await (await studio.handle(request('studio-job?id='+created.id),'studio-job')).json();
+assert.equal(withPublication.publication.status,'failed');assert.equal(withPublication.publication.languages.find(l=>l.locale==='es').status,'failed');
+const listed=(await (await studio.handle(request('studio-state'),'studio-state')).json()).jobs.find(j=>j.id===created.id);assert.equal(listed.publication.phase,'translate:es');
+assert.equal((await studio.handle(request('studio-publish-retry',{id:created.id}),'studio-publish-retry')).status,200);assert.deepEqual(retried,['ai-job-1']);
+withPublication=await (await studio.handle(request('studio-job?id='+created.id),'studio-job')).json();assert.equal(withPublication.publication.status,'queued');assert.equal(published.article.slug,'lifting-eye-bolt-thread-engagement-tapped-holes');assert.equal(published.meta.keywordBrief.primaryKeyword,'lifting eye bolt thread engagement');
 // a duplicate request for the same topic is not repeated
 const second=await (await studio.handle(request('studio-create',{}),'studio-create')).json();await new Promise(r=>setTimeout(r,50));await studio.tick();
 const secondJob=await (await studio.handle(request('studio-job?id='+second.id),'studio-job')).json();assert.notEqual(secondJob.topic?.question,'lifting eye bolt thread engagement');
