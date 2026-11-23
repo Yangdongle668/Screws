@@ -56,6 +56,7 @@ jobs:
           node docker/verify-translation-numbers.mjs
           node docker/verify-writing-style-memo.mjs
           node docker/verify-article-studio.mjs
+          node docker/verify-studio-copyscape.mjs
           node docker/verify-ai-optional-sources.mjs
           node docker/verify-ai-article-contract.mjs
           node docker/verify-ai-research-quality.mjs

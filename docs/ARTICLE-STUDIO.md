@@ -30,6 +30,22 @@
 
 “写作风格风险分”是基于句式和用词的风格提示，不是AI生成比例，也不能证明作者身份。查重比较的是本站已有内容；如需检查与外部网站的重复，请另用外部查重工具。
 
+## 外部查重（Copyscape）
+
+位置：AI文章工坊 → “外部查重（Copyscape）”。填写 Copyscape 用户名和 API 密钥（加密保存，不回显），选择模式并保存，可点“查询余额”测试。
+
+- **关闭**：不检查，不产生费用（默认）。
+- **超过阈值时提示**：审核通过前自动检查当前正文；重合比例达到阈值时先提示并列出匹配网页，确认后才发布。
+- **超过阈值时禁止发布**：达到阈值直接拒绝发布。
+
+细节：
+- 检查范围是公开网页，已排除 zufek.net；按 Copyscape 计费（约每篇 0.1–0.2 美元），单次花费上限默认 0.5 美元。
+- 结果绑定当时的正文；修改正文后结果显示“已过期”，审核通过时会自动重新检查一次。正文未变时复用结果，不重复收费。
+- 任务详情可手动“运行外部查重”，并显示每个匹配网页、重合词数和重合原文。
+- “按查重结果改写重合句子”：只把 Copyscape 找到的重合文字交给模型改写，其余句子、标题和链接保持不变（1次模型调用，每个任务最多2次）。改写后需要重新外部查重。
+- 写作规则要求用自己的话解释，不照搬标准、厂商目录或其他网站的句子；必要时点名标准并转述，最多引用一个短语。
+- 外部查重不检测 AI；“写作风格风险”是风格提示，不是 AI 生成比例。
+
 ## 多语言
 
 新文章使用与旧流程相同的六语言发布流程。翻译阶段已有的保护继续生效：来源和内链网址由服务器按英文原稿恢复；数字、牌号、标准号严格比对（计数词与数字互换除外）。
@@ -52,7 +68,8 @@
 - `docker/studio-topics.mjs` 选题
 - `docker/studio-format.mjs` 文本格式与文章组装
 - `docker/studio-checks.mjs` 真实性、查重、SEO、风格检查
+- `docker/copyscape.mjs` 外部查重
 - `docker/article-studio.mjs` 任务、调度、接口
 - `public/studio-admin.js`、`scripts/studio-admin.mjs` 后台界面
 
-验证：`node docker/verify-article-studio.mjs`（模拟模型，使用真实站点清单查重）；`node docker/build.mjs` 后运行 `node docker/verify-studio-publish.mjs`（真实文章校验与发布队列）和 `node docker/verify-runtime.mjs`。
+验证：`node docker/verify-studio-copyscape.mjs`（模拟 Copyscape）；`node docker/verify-article-studio.mjs`（模拟模型，使用真实站点清单查重）；`node docker/build.mjs` 后运行 `node docker/verify-studio-publish.mjs`（真实文章校验与发布队列）和 `node docker/verify-runtime.mjs`。
